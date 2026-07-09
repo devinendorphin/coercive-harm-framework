@@ -63,6 +63,7 @@ outright — every survivor carries required amendments, the correct posture her
 | Consent — force / fear prongs | 03 §4 | `CLEARED-WITH-AMENDMENTS` | same definiteness elements as §2 |
 | Consent — **fraud prong** | 03 §4 | **`BLOCKED`** | vague + protected-false-speech (*Alvarez*). Unblock: restrict to enumerated material-fact deception + reasonable-person materiality; exclude general relational dishonesty |
 | Psychological homicide | 03 §3 | **`BLOCKED`** | compounds vagueness + weaponization + causation + speech (*Carter* covers only imminent-act encouragement). Unblock: confine to already-prosecutable narrow pattern, or hold as non-enactment research aspiration |
+| Endangerment reframing (qualified) | 03 §2 / 04 §0 | `CLEARED-WITH-AMENDMENTS` | enumerated conduct + course-of-conduct + **objective foreseeability nexus** + predominant-aggressor safeguard + protective-response exclusion + speech-anchoring in non-speech conduct + *Apprendi* discipline on the harm aggravator + civil-first. Foreseeability nexus is the keystone: retained, not removed |
 | Portfolio framing / graduated response | 03 §1, §5 | structural | inherit the per-instrument verdicts above |
 
 **Cross-note to the ledger:** OBJ-003 (expedited track = weapon) is downgraded by the

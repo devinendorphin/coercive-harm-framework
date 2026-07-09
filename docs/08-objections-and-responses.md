@@ -240,17 +240,24 @@ It is (a) the *vagueness cure*; (b) the *conviction bottleneck* (3.4%); (c) a
 *re-traumatization vector*; and (d) a *penalty on resilience*. It cannot be deleted
 (constitutionally required) nor kept as-is (self-defeating four ways).
 
-**Candidate resolution (develop-04, `PARTIAL — routed to liberty-review`).** The
-foreseeability reframing now has legs: (i) the objective "ought to know" limb *already
-exists* in s.76; (ii) validated risk instruments (Danger Assessment, SARA, ODARA,
-DASH) establish the pattern's harm as *professionally foreseeable* — Endorphin's "if
-the cluster is predictable, foreseeability is easy," confirmed; (iii) rebuild the
-offense as **endangerment** (foreseeably-harmful conduct is the crime; actual harm =
-sentencing aggravator), dissolving all four horns. **Not yet resolved** because the
-endangerment structure *broadens liability* (no harm required → easier to allege),
-trading the knot for a both-victims expansion, and must clear `/liberty-review`; and
-the risk instruments must be used *generically*, never as defendant risk-scores
-(*Loomis* actuarial-justice trap). → doc 04 §0, doc 03 §2,
+**Candidate resolution (develop-04 + liberty-review, `MITIGATED — liberty-cleared path, pending drafting + steelman`).**
+The foreseeability reframing has legs: (i) the objective "ought to know" limb *already
+exists* in s.76; (ii) validated risk instruments (Danger Assessment, SARA, ODARA, DASH)
+establish the pattern's harm as *professionally foreseeable* — Endorphin's "if the
+cluster is predictable, foreseeability is easy," confirmed; (iii) rebuild the offense as
+**endangerment** (foreseeably-harmful conduct is the crime; actual harm = sentencing
+aggravator). **Liberty-review (doc 03 §8) cleared this WITH AMENDMENTS as *qualified*
+endangerment** — and the important finding is that it does not *escape* the
+serious-effect element but *softens* it: prongs 3 (weaponization) and 5 (speech) both
+require **retaining a foreseeable-harm nexus** ("conduct objectively of a kind that
+foreseeably causes serious harm"), so the offense goes from "prove *this victim's actual
+harm*" to "prove the *conduct was objectively harm-capable*." That removes the
+re-traumatization, resilience-penalty, and individual-causation horns while keeping the
+element that anchors speech and blocks weaponization. **The foreseeability nexus is now
+the keystone.** Residual: broadened liability needs predominant-aggressor +
+protective-response safeguards; harm-aggravator bound by *Apprendi*; instruments used
+generically only (*Loomis*). Still `UNRESOLVED` as a *proven* fix — needs drafting +
+`/steelman` of the qualified form. → doc 03 §2/§8, doc 04 §0,
 `research/foreseeability-and-risk-assessment.md`.
 
 ## How to use this ledger

@@ -321,7 +321,65 @@ purpose" as subjective; intent/effect elements are the standard cure).
   aspiration explicitly not proposed for enactment.** Consistent with §3 being the
   framework's named weakest load-bearing element. Route to `/steelman` next.
 
-**Net:** 3 cleared-with-amendments (§2, §1a, §6), 1 split (§4 force/fear cleared,
+### Endangerment reframing (doc 03 §2 / doc 04 §0) — `CLEARED-WITH-AMENDMENTS`, as *qualified* endangerment only
+
+Reviewed 2026-07-09. The reframe (foreseeably-harmful course of conduct is the crime;
+actual serious effect → sentencing aggravator; no proof of harm to a specific victim
+required). Key finding: **it clears, but only in a "qualified" form that keeps the
+foreseeable-harm *nexus* — the very thing prongs 5 and 3 need — so the reframe does not
+fully *escape* the serious-effect element; it *softens* it from "prove this victim's
+actual harm" to "prove the conduct was objectively of a kind that foreseeably causes
+serious harm." That softening is a real gain (removes re-traumatization,
+resilience-penalty, individual-causation) but not a clean exit.**
+
+1. **Vagueness — tightening obligation.** Removing the effect-element removes a limiter
+   (OBJ-009 noted the effect *was* part of the vagueness cure). The conduct definition
+   must now carry the whole definiteness load: **require (a) an enumerated conduct list
+   (Hawaii-style), (b) a course of conduct (repetition/duration), (c) the objective
+   reasonable-person foreseeability standard.** Without all three it fails (ordinary
+   relationship conflict would sweep in). The DUI analogy is imperfect — "BAC ≥ 0.08"
+   is bright-line; coercive conduct is not.
+2. **Person vs. pattern — PASS (a strength).** Pure course-of-conduct; no victim
+   characterization, no defendant type/diagnosis. Cleaner than the result-crime.
+3. **Weaponization inversion — the gravest risk.** Dropping the harm element lowers
+   what an accuser must show, and harm-to-the-genuine-victim was one signal
+   distinguishing true victim from false accuser. An abuser can re-narrate a victim's
+   *protective* behaviour (limiting contact, monitoring an abuser's enablers) as
+   "coercive control." **Amendments (mandatory):** predominant-aggressor determination;
+   a context/self-defence/protective-response exclusion; and the foreseeability nexus
+   itself (conduct must be *objectively capable* of serious harm — a false accuser's
+   re-narration of protective acts fails this). Consider **civil-first** here too.
+4. **Due process — CLEARABLE.** Criminalizing risk-creation without result is
+   constitutionally ordinary (reckless endangerment; inchoate offenses). **Constraint:**
+   under *Apprendi v. New Jersey* (2000), if the "actual serious harm" aggravator raises
+   the penalty beyond the base statutory max it must be a jury finding **beyond
+   reasonable doubt** — so harm cannot be smuggled in as a low-standard sentencing fact.
+   That is protective; adopt it explicitly. Base-offense penalties must be proportionate
+   (lower) than harm-based; appeal path standard.
+5. **Speech boundary — serious flag.** Coercive conduct is substantially verbal;
+   criminalizing a speech-heavy pattern *without* proven harm drifts toward punishing
+   expression by its foreseeable tendency, which strict scrutiny disfavors. The harm
+   nexus is part of what tied such speech to the unprotected "integral to criminal
+   conduct" category (*Carter*). **Amendment:** anchor the offense in the course of
+   conduct *including non-speech elements* (monitoring, economic control,
+   isolation-by-non-speech means); where speech is implicated, tie to unprotected
+   categories (true threats). This prong, with prong 3, is why the foreseeable-harm
+   nexus must be retained — it re-tethers the speech.
+6. **Disparate impact — monitor.** Broadened liability + culturally-variable notions of
+   "controlling"/"monitoring"/economic arrangements + more charging discretion = more
+   room for biased enforcement (the Flatbush reminder). **Amendment:** charging
+   guidelines; civil-first to shrink the carceral surface.
+
+**Verdict:** `CLEARED-WITH-AMENDMENTS` as *qualified endangerment* — enumerated conduct
++ course-of-conduct + objective foreseeability nexus + predominant-aggressor safeguard
++ protective-response exclusion + speech-anchoring in non-speech conduct + *Apprendi*
+aggravator discipline + civil-first. **The foreseeability nexus is now the keystone:**
+it is simultaneously what lets the offense drop proof-of-actual-harm *and* what keeps
+it constitutionally tethered (speech) and non-weaponizable (conduct must be objectively
+harm-capable). OBJ-009/011/015 downgraded from "likeliest killer" to "mitigated with a
+liberty-cleared path — pending drafting and `/steelman` of the qualified form."
+
+**Net:** 4 cleared-with-amendments (§2, §1a, §6, endangerment-reframe), 1 split (§4 force/fear cleared,
 fraud blocked), 1 blocked (§3). No mechanism `CLEARED` outright — every one carries
 required amendments, which is the correct posture for a framework this dangerous.
 
