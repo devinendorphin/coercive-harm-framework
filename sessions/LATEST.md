@@ -1,7 +1,7 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-07-09, session `develop-03`.*
+this first (via CLAUDE.md). Last updated: 2026-07-09, session `liberty-steelman-develop05`.*
 
 ---
 
@@ -10,55 +10,64 @@ this first (via CLAUDE.md). Last updated: 2026-07-09, session `develop-03`.*
 | Doc | Workstream | State |
 |---|---|---|
 | 00-glossary | terms of art | seeded (17 terms + guardrail vocab) |
-| 01-problem-statement | institutional gaps | **active** (cross-scale claim re-tagged: now well-supported) |
-| 02-behavioral-taxonomy | the clusters | stub + **Biderman external grounding added** |
-| 03-legal-framework | new injury category | **ACTIVE** — research-grounded; 4 research files |
-| 04-evidentiary-standards | proving invisible injury | stub |
-| 05-accommodation-model | ADA framing | stub |
+| 01-problem-statement | institutional gaps | active (cross-scale claim well-supported) |
+| 02-behavioral-taxonomy | the clusters | stub + Biderman external grounding |
+| 03-legal-framework | new injury category | **ACTIVE** — research-grounded + liberty-reviewed + steelmanned |
+| 04-evidentiary-standards | proving invisible injury | **stub — now high priority** (see below) |
+| 05-accommodation-model | ADA framing | **ACTIVE** — OBJ-004 resolved; enforceability is its open frontier |
 | 06-therapeutic-pathways | self-directed change | stub |
-| 07-civil-liberties-safeguards | anti-weaponization | seeded (no verdicts yet) |
-| 08-objections-and-responses | steelman ledger | 8 objections (OBJ-007 resolved, OBJ-001 downgraded, OBJ-003/008 open) |
+| 07-civil-liberties-safeguards | anti-weaponization | **active** — first verdict table populated |
+| 08-objections-and-responses | steelman ledger | 16 objections; sink-risk = OBJ-009/011/015 knot |
 
-`research/` now holds 4 verified files (coercive-control statutes; coerced-suicide
-prosecutions; consent law force/fraud/fear; coercion continuity across scale).
+`research/` holds 5 verified files (coercive-control statutes; coerced-suicide
+prosecutions; consent law; coercion continuity across scale; ADA architecture).
 
 ## Top 3 priorities for next session
 
-1. **`/liberty-review` on the two live breadth risks.** The **fraud prong** of
-   consent consolidation (doc 03 §4) and the **widened relationship gate** (§1a,
-   metamour/networked-household) are both places where reaching more harm means
-   reaching more innocent people. These are the most review-ready mechanisms.
-   *Reason: nothing in doc 03 can go stable until it clears doc 07.*
-2. **`/steelman 03 §3` (psychological homicide).** It's the named weakest
-   load-bearing element — causation wall + mens rea + speech boundary. Get the
-   prosecutor and defense-attorney personas on it before it's written about more
-   confidently. *Reason: it's the framework's biggest overclaim risk.*
-3. **`/develop 05` (accommodation) or a DV→mass-violence workstream note.** The
-   accommodation model is the other rung the bounded cross-scale claim depends on and
-   is still a stub; alternatively, the DV→mass-violence causal thread (research file
-   4) has real evidentiary weight and could seed doc 04. *Endorphin to pick.*
+1. **`/develop 04` (evidentiary standards) — targets the sink-risk directly.** The
+   OBJ-009/011/015 knot (the "serious effect on the victim" element being vagueness-
+   cure + bottleneck + re-traumatization + resilience-penalty) is now the framework's
+   likeliest killer, and its only visible escape — a **foreseeability / reasonable-
+   person** reframing that shifts proof from the victim's damage to the conduct's
+   nature — is an *evidentiary* design problem. This is the highest-value move.
+2. **`/develop 03` follow-up: draft the foreseeability reframing of the offense
+   element.** Pairs with #1. Decide whether the offense keys on victim-effect
+   (current) or conduct-foreseeability (proposed).
+3. **`/develop 05` follow-up OR `/develop 06`.** Either chase doc 05's enforceability
+   frontier (soft-law levers: procurement/insurance/sector codes, no diagnosis), or
+   develop the therapeutic pathways (doc 06) that the accommodation model needs as its
+   pair. Endorphin to pick.
 
 ## Open decisions awaiting Endorphin
 
-- **Expedited track (doc 03 §6):** drop entirely, or narrow to procedural-only
-  (priority scheduling / remote testimony, no burden-of-proof change)?
+- **Unblock the fraud prong (§4)?** Only if narrowed to enumerated material-fact
+  deception (excluding general relational dishonesty + protected false speech). Keep
+  BLOCKED otherwise.
+- **Psychological homicide (§3):** confine to the already-prosecutable *Carter*-narrow
+  pattern, or retain as an explicit non-enactment research aspiration?
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 
-- **S-1.** The mPFC-deficit idea is the single most attackable AND most stigmatizing
-  claim. Keep it illustrative, never load-bearing. (OBJ-002.)
-- **S-2.** The AI-capability / model-treatment thread from the seed's second half
-  (L216–L316) is **parked out of primary scope** per CLAUDE.md. Own doc if ever
-  developed; do not fold into 02–08.
-- **S-3.** The Flatbush example (L69) stays in — load-bearing for the framework's own
-  anti-discrimination integrity (power-abuse is not identity-bound).
-- **S-4.** Every working session names the weakest load-bearing element plainly, at
-  least once. Current pick: **psychological-homicide mechanism** (doc 03 §3).
-- **S-5.** Current "most likely to sink it" objection: **OBJ-003** (expedited track
-  becomes a weapon). Revisit after first `/steelman` pass.
-- **S-6 (NEW).** **Keep the geopolitical rung.** "Fascism is interpersonal violence
-  at scale" is supported as *mechanism-homology* (Biderman/Amnesty/Stark) and
-  *causal-continuity* (Herman; DV→mass-violence), NOT as reductive identity. Assert
-  it **forward only** (political power uses interpersonally-documented tactics); never
-  backward (individuals showing tactics = a political *type*). Endorphin's standing
-  instruction; do not re-demote.
+- **S-1.** mPFC-deficit idea: illustrative only, never load-bearing. (OBJ-002.)
+- **S-2.** AI-capability thread (seed L216–L316): parked out of primary scope; own doc
+  if ever developed.
+- **S-3.** Flatbush example (L69) stays — load-bearing for anti-discrimination
+  integrity.
+- **S-4.** Every session names the weakest load-bearing element plainly. Current picks:
+  **structural** = the serious-effect knot (doc 03, OBJ-009/011/015); **doc 05** =
+  enforceability without the disability hook.
+- **S-5.** Likeliest-to-sink objection is now the **OBJ-009/011/015 knot** (was
+  OBJ-003, now mitigated-monitored).
+- **S-6.** Keep the geopolitical rung. "Fascism is interpersonal violence at scale" =
+  supported as mechanism-homology (Biderman/Amnesty/Stark) + causal-continuity
+  (Herman; DV→mass-violence), NOT reductive identity. Assert **forward only**
+  (power uses interpersonally-documented tactics); never backward (individuals showing
+  tactics = a political *type*). Do not re-demote.
+- **S-7 (NEW).** **Keep the expedited track**, reframed as **process-as-weapon
+  mitigation** (Endorphin, 2026-07-09): perpetrators weaponize the duration/pain of
+  proceedings (seed L91). Design rule: **expedite the process, never the proof** —
+  ex parte-TRO→full-hearing model; never truncate the respondent's defense or lower
+  the burden. Do not re-recommend dropping it.
+- **S-8 (NEW).** Accommodation model uses the ADA as **architecture, not legal
+  classification**: sort on *documented conduct*, never diagnosed status. Do not
+  reintroduce a "disability" label as an entitlement hook without revisiting OBJ-004.
