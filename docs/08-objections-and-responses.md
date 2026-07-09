@@ -478,6 +478,21 @@ for the "weaponized" defense as the accused's institutional power rises. Itself
 liberty-fraught (equal protection); `NEEDS-LIBERTY-REVIEW`. The shield is not the error; its
 symmetric application is. → doc 10.
 
+### OBJ-029 — "Behavior alone can't tell resistance from oppression (the power-vector problem)."
+**Persona:** power-critique / dissent (doc 10 Finding F). **Status:** `UNRESOLVED — requires framework change`
+The same observable conduct (deception, strategic ignorance, inversion, aggression) is
+**resistance** when aimed *up* at power (Scott), **displaced lateral violence** when aimed
+*sideways* at a peer (Fanon/Freire), or **coercive harm** when aimed *down*. A conduct-only
+framework (behavior-not-people) cannot distinguish them — and since the mechanisms bite
+down/sideways (Finding B), the framework would catch the *displaced scar tissue of
+oppression* while the apex actor goes free ("enforcement bites the wounded").
+*Best response so far:* add an explicit **power-vector dimension** (up/lateral/down) to the
+taxonomy and offense context — up = never the offense (extend §4 to resistance-to-
+domination); lateral = restorative + structural, not purely punitive; down = the core harm.
+The vector is a *relational/structural* fact, not a trait, so it does not reintroduce
+person-typing — but `NEEDS-LIBERTY-REVIEW`. Explains-without-excusing: the laterally-harmed
+peer is still a victim. → doc 02, doc 10, `research/dissent-and-lateral-violence.md`.
+
 ## How to use this ledger
 
 - `/steelman <doc>` adds new objections here per persona and updates statuses.

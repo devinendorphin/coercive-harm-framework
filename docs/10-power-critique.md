@@ -104,6 +104,42 @@ and the framework should stop pretending they are the same thing.
 
 ---
 
+## The dissent dimension — and the deepest cut (Finding F)
+
+Endorphin's dissent riff (`sessions/riffs/2026-07-09-dissent-agnotology.md`;
+`research/dissent-and-lateral-violence.md`) forces the sharpest version of the whole
+critique. **It tracks in research** — strongly:
+
+- **Performed ignorance is resistance.** "I don't know nothin'" to survive the
+  master/overseer/cop is a documented survival tactic (**Scott**, *Weapons of the Weak* /
+  *Hidden Transcripts*: "feigning ignorance is a potent weapon... plausible deniability").
+- **Unaddressed oppression turns those tactics lateral.** **Fanon** (colonized, barred
+  from confronting the oppressor, displace aggression onto peers) and **Freire**
+  ("horizontal violence"; the oppressed "mimic the dominators' tactics against each
+  other"; the "sub-oppressor" lashes out at their own stratum "because that feels safer
+  and allows them to feel more powerful"). Almost verbatim the riff.
+
+**Finding F — the identical-conduct / opposite-meaning problem, and "enforcement bites
+the wounded."** The *same observable behaviors* the taxonomy catalogs (deception,
+strategic ignorance, inversion, aggression) can be **(a)** apex power-seeking, **(b)**
+resistance aimed *up* at power (adaptive, legitimate — **not harm**), or **(c)** a
+survival tactic turned *sideways* onto a peer (harm, but displaced). A **conduct-based**
+framework — the behavior-not-people rule the whole project rests on — **cannot tell these
+apart** without the dimension it never named: the **power vector** (is the conduct aimed
+*up*, *sideways*, or *down*?). And because the framework's mechanisms bite down/sideways
+(Finding B), the conduct it would actually catch is disproportionately **displaced
+lateral violence — the scar tissue of unaddressed oppression** — while the apex actor and
+the structural cause go free. **A framework that disciplines the oppressed's displaced
+rage and cannot reach the original domination functions as a tool of the oppressor.**
+That is the deepest form of the failure this whole doc is auditing.
+
+*Disconfirming caveats, kept so this isn't romanticism:* the mechanism is **structural**
+(blocked upward confrontation) more than merely **temporal**; the frame **explains
+without excusing** — the peer harmed laterally is really harmed, usually also low-power,
+and "they're just traumatized" is itself a silencing move; and **not all cluster conduct
+is displaced oppression** — some is plain top-down predation. The lens must not launder
+that.
+
 ## Where the lens does NOT bite (counter-evidence, kept for honesty)
 
 - **Behavior-not-people is genuinely anti-power.** It refuses to let institutions define
@@ -118,6 +154,15 @@ and the framework should stop pretending they are the same thing.
 
 ## What changes (the audit has to produce more than confession)
 
+0. **Add the power-vector dimension (from Finding F).** The taxonomy (doc 02) and the
+   offense's context analysis must make explicit *which way the conduct is aimed*:
+   **up (resistance)** — never the offense; extend the §4 protective-response exclusion to
+   cover resistance to domination and displaced-but-upward defensive conduct.
+   **lateral (displaced onto a peer)** — real harm, but the response should be restorative
+   and address the upstream structural cause (doc 06 + structural remedy), not purely
+   punitive. **down (subordinate), including apex** — the core harm, and the apex version
+   is what the framework can't reach (item 1). Without the vector, a conduct-based
+   framework cannot distinguish resistance from oppression. Logged as **OBJ-029**.
 1. **The missing workstream: apex power.** The framework needs a mechanism — or an honest
    admission it has none — for coercive harm by those who *are* the institution
    (executives, officials, heads of organizations). Candidates: fiduciary/duty-of-care

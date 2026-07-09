@@ -35,6 +35,27 @@ claim most exposed to confirmation bias. Claim the validated components; flag th
 cluster-coherence claim as unproven. Do not let component validation launder the
 whole-cluster claim (tag drift).
 
+### The power-vector problem (doc 10 Finding F — `NEEDS-LIBERTY-REVIEW`)
+
+Behavior alone is **not sufficient** to identify the harm. The *same* observable conduct
+here (deception, strategic ignorance, inversion, aggression) carries **opposite** meaning
+depending on the **power vector** — whether it is aimed **up** at power, **sideways** at a
+peer, or **down** at a subordinate:
+- **Up = resistance** (Scott's "feigning ignorance is a potent weapon"): adaptive,
+  legitimate, **not the harm.** The oppressed performing unknowing to survive is not a
+  coercive-harm perpetrator.
+- **Sideways = lateral/displaced violence** (Fanon; Freire): real harm to the peer, but
+  the scar tissue of unaddressed oppression — response should be restorative + structural
+  (doc 06), not purely punitive.
+- **Down = the core coercive harm** (incl. the apex version the framework can't reach,
+  OBJ-027).
+
+**Consequence for the behavior-not-people rule:** conduct-only classification is
+*necessary but not sufficient* — it must be paired with the power vector (who holds power
+over whom), or the framework will mislabel resistance and displaced-wound as predation.
+This does **not** reintroduce person-typing (the vector is a *relational/structural* fact,
+not a trait), but it must be liberty-reviewed. See `research/dissent-and-lateral-violence.md`.
+
 ## Candidate taxonomy (from the seed, unrefined)
 
 Each is a conduct pattern, tagged; definitions live in doc 00.
