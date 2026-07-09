@@ -96,10 +96,20 @@ around the couple, not the household. [the framework's own seed case is uncovere
   *criminal* coercive-control offense as reserved for grave, well-evidenced cases.
   This lowers vagueness and due-process stakes (doc 07) while still recognizing the
   harm. `NEEDS-LIBERTY-REVIEW` `[NORMATIVE]`
-- The enacted **"serious effect on the victim"** element is worth adopting: it
-  centers *impact on the victim* over *motive of the perpetrator* (matching seed
-  L113) — while honestly noting it is *also* the conviction bottleneck. We inherit
-  the tension, we don't dissolve it. [SUPPORTED]
+- The enacted **"serious effect on the victim"** element centers *impact on the
+  victim* over *motive* (seed L113) — but it is *also* the conviction bottleneck and
+  the core of the OBJ-009/011/015 knot (doc 08). [SUPPORTED]
+- **Candidate resolution — endangerment reframing (develop-04).** Because the harm is
+  *objectively foreseeable* from the pattern (validated risk instruments; s.76's
+  existing "knows or ought to know" limb — see doc 04 §0 and
+  `research/foreseeability-and-risk-assessment.md`), the offense can be rebuilt as
+  **engaging in the foreseeably-harmful course of conduct** (an *endangerment* offense,
+  like DUI), with *actual* serious effect demoted from **element** to **sentencing
+  aggravator**. This dissolves the knot's four horns (vagueness / bottleneck /
+  re-traumatization / resilience-penalty). **Tradeoff, named:** it broadens liability
+  (no harm required), so a false accuser need only allege the *pattern*, not prove
+  *harm* — a both-victims expansion. `[NORMATIVE]` `NEEDS-LIBERTY-REVIEW` (the
+  endangerment structure is unreviewed; do not treat as cleared).
 
 ## 3. "Psychological / coercive homicide" — aspiration, not a chargeable offense yet
 

@@ -236,15 +236,22 @@ tier explicitly available for grave cases. Presentational fix; the tension is re
 
 **The OBJ-009 / OBJ-011 / OBJ-015 knot: the "serious effect on the victim" element is
 simultaneously the framework's constitutional lifeline and its structural undoing.**
-It is (a) the *vagueness cure* — without a defined victim-effect the offense is void
-for vagueness; (b) the *conviction bottleneck* — it is why the enacted model charges
-3.4%; (c) a *re-traumatization vector* — it makes victims perform their damage; and
-(d) a *penalty on resilience* — the better a victim coped, the weaker the case. You
-cannot delete it (constitutionally required) and you cannot keep it as-is (it defeats
-the purpose four ways). The foreseeability/reasonable-person reframing is the only
-visible path that eases all four at once, and it is unproven. If doc 03 is published
-without resolving this knot, this is where it dies. **Priority for the next
-`/develop 03` and for doc 04 (evidentiary standards).**
+It is (a) the *vagueness cure*; (b) the *conviction bottleneck* (3.4%); (c) a
+*re-traumatization vector*; and (d) a *penalty on resilience*. It cannot be deleted
+(constitutionally required) nor kept as-is (self-defeating four ways).
+
+**Candidate resolution (develop-04, `PARTIAL — routed to liberty-review`).** The
+foreseeability reframing now has legs: (i) the objective "ought to know" limb *already
+exists* in s.76; (ii) validated risk instruments (Danger Assessment, SARA, ODARA,
+DASH) establish the pattern's harm as *professionally foreseeable* — Endorphin's "if
+the cluster is predictable, foreseeability is easy," confirmed; (iii) rebuild the
+offense as **endangerment** (foreseeably-harmful conduct is the crime; actual harm =
+sentencing aggravator), dissolving all four horns. **Not yet resolved** because the
+endangerment structure *broadens liability* (no harm required → easier to allege),
+trading the knot for a both-victims expansion, and must clear `/liberty-review`; and
+the risk instruments must be used *generically*, never as defendant risk-scores
+(*Loomis* actuarial-justice trap). → doc 04 §0, doc 03 §2,
+`research/foreseeability-and-risk-assessment.md`.
 
 ## How to use this ledger
 
