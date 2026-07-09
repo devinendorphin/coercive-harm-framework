@@ -450,6 +450,34 @@ with its smartest critics. The single most likely sinker if pushed as a *broad c
 offense is **OBJ-024** (unprovable once the victim-protective burdens are honored); as a
 *civil* offense, it holds.
 
+---
+
+## Power-critique audit (doc 10), 2026-07-09
+
+### OBJ-027 — "The framework enforces down-scale while claiming cross-scale."
+**Persona:** power-critique (structural). **Status:** `UNRESOLVED — requires framework change`
+Every mechanism bites downward — the offense is domestic-gated, negligent-retention reaches
+the manager but not the CEO who *is* the employer, predominant-aggressor calls are made by
+power-embedded prosecutors. The framework would catch the powerless and go silent on the
+powerful, inverting its founding cross-scale insight. Power at the apex is least reachable,
+most consequential, and has no tool.
+*Best response so far:* none adequate — this is a missing workstream. Candidates: fiduciary/
+duty-of-care liability reaching the top; independent (non-prosecutorial) review; apex-scale
+coercion under governance/anti-corruption regimes. **Until built, doc 09 must admit the
+framework reaches subordinate-scale coercion and is silent at the apex.** → doc 10, doc 09.
+
+### OBJ-028 — "The both-victims safeguard is DARVO the powerful can afford."
+**Persona:** power-critique (survivor advocate, friendly fire). **Status:** `UNRESOLVED`
+The anti-weaponization machinery is the exact move a powerful abuser makes — and DARVO is in
+the taxonomy (doc 02). "I'm the real victim of a false accusation" is DARVO with a lawyer;
+resources/credibility/standing (all power-correlated) make the both-victims defense more
+available to the strong. A *symmetric* safeguard under an *asymmetric* power distribution
+tilts toward power.
+*Best response so far:* proposed (not adopted) **power-asymmetric safeguards** — higher bar
+for the "weaponized" defense as the accused's institutional power rises. Itself
+liberty-fraught (equal protection); `NEEDS-LIBERTY-REVIEW`. The shield is not the error; its
+symmetric application is. → doc 10.
+
 ## How to use this ledger
 
 - `/steelman <doc>` adds new objections here per persona and updates statuses.

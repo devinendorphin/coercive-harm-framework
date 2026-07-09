@@ -95,6 +95,15 @@ words-only coercion — is carried by its **least coercive, least evidence-backe
 instruments. Criminal law cannot be the lead. That is not a failure of the framework; it
 is the framework being honest about what a free society can and cannot criminalize.
 
+**The deeper limit (doc 10 power audit):** every mechanism here bites *downward*. The
+offense is domestic-gated; negligent-retention reaches the manager but not the executive
+who *is* the employer; the remedies route through prosecutors, courts, and employers —
+the very institutions the seed indicted. **The framework reaches subordinate-scale
+coercion and is largely silent at the apex**, where power protects itself — the opposite
+of its cross-scale ambition. An apex-power workstream is missing, not solved (OBJ-027).
+This is the framework's most important unfinished business, and the honest reader should
+weight it accordingly.
+
 ## What is proven vs. aspirational (the one-glance ledger)
 
 - `[ESTABLISHED]`: coercive control → serious psychological harm; the coercion pattern's
