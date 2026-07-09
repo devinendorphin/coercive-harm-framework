@@ -70,14 +70,21 @@ but speed still carries residual disparate-impact risk, so status is *monitored*
 *resolved*. → docs 03 §6/§8, 07.
 
 ### OBJ-004 — "Calling a behavior pattern a 'disability' pathologizes people without a diagnosis."
-**Persona:** disability-rights advocate. **Status:** `UNRESOLVED`
+**Persona:** disability-rights advocate. **Status:** `CONCEDED — framework amended` (develop-05)
 The accommodation model (doc 05) medicalizes conduct to route it away from
 punishment, but does so by labeling — who benefits, who gets stigmatized, and does
 this protect the accused or brand them? It sits in direct contradiction with the
 behavior-not-people rule.
-*Best response so far:* accommodate documented conduct/impact structurally without
-labeling the person; test whether "disability" language can be dropped entirely
-while keeping the role-design remedy. → docs 05, 07.
+*Resolution:* the disability *classification* is **dropped**; the ADA's *conduct-based
+architecture* is kept (doc 05 §0). The ADA itself separates status from conduct
+("improper behavior... does not constitute a disability"; accommodation is prospective;
+no duty to excuse past misconduct), so the framework borrows role-design-as-
+accommodation applied to **documented conduct**, not to a diagnosed type. No one is
+classified as disabled; "disability" survives only as Endorphin's own "framing" (L118).
+**Residue (kept honest):** dropping the legal disability hook costs *enforceability*
+(doc 05 becomes voluntary org design) — that residue is now doc 05's named weakest
+element, not an unresolved contradiction. → doc 05 §0/§4,
+`research/ada-accommodation-architecture.md`.
 
 ### OBJ-005 — "A self-directed-only cure gives policy nothing to do."
 **Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
@@ -178,8 +185,11 @@ forbids — and that judgment historically maps onto class and race (who reads a
 "sick/treatable" vs. "criminal/dangerous").
 *Best response so far:* sort on **documented conduct and risk**, never on inferred
 capacity-to-change; make the rehabilitative track *opt-in and self-directed* (doc 06's
-self-arrival constraint) so no one is *assigned* a type. Real but not fully resolved;
-hard-links to doc 05/06 design.
+self-arrival constraint) so no one is *assigned* a type. **Strengthened by develop-05:**
+the ADA architecture (doc 05 §0) sorts on documented conduct without any disability
+classification, which is the concrete mechanism for "no assigned type." Partially
+resolved; residual disparate-impact risk in *who gets read as needing containment*
+stays monitored (doc 05 §4). → docs 05, 06.
 
 ### OBJ-013 — "A more diffuse injury element makes the 3.4% charge rate worse, not better."
 **Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
