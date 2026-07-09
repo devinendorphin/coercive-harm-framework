@@ -132,17 +132,123 @@ documented course of conduct* (shared household / sustained interdependence) rat
 than a closed list of dyad types — while liberty-reviewing the widened gate hard,
 since breadth is where both-victims and vagueness risks grow. → docs 03 §1a, 07.
 
+---
+
+## `/steelman 03` — legal framework, five personas (2026-07-09)
+
+### OBJ-009 — "'Serious effect on the victim' makes the crime depend on the victim's psychology."
+**Persona:** defense attorney / civil libertarian. **Status:** `UNRESOLVED`
+The vagueness cure (course-of-conduct + "serious effect") makes the *victim's
+subjective reaction* an element. Identical conduct is then criminal against a fragile
+complainant and lawful against a resilient one — a defendant cannot know in advance
+where the line is, because it lives in someone else's psychology, and the
+most-sympathetic-witness tends to win. This is a documented critique of s.76.
+*Best response so far:* enacted statutes use a **reasonable-person** overlay (would a
+reasonable person in the victim's position suffer the effect?) to anchor the element
+objectively. Partial only — it narrows but does not remove the dependence. See
+OBJ-011/015; this is the nucleus of the sink-risk below.
+
+### OBJ-010 — "Civil-first is criminal punishment through a civil back door."
+**Persona:** defense attorney / civil libertarian. **Status:** `UNRESOLVED`
+Routing conduct that can't be proven beyond reasonable doubt into a civil process
+(preponderance) with criminal-like consequences — protective orders whose violation
+is a crime, custody loss, records — launders punishment around the criminal standard
+of proof.
+*Best response so far:* this is a genuine tension in *all* protective-order law, not
+unique to this framework; the honest answer is to keep civil consequences
+*proportionate and reversible* and to reserve criminal-tier consequences for the
+criminal standard. Flag to doc 07 due-process prong. Not resolved.
+
+### OBJ-011 — "Individual-level causal attribution of psychological harm isn't scientifically reliable."
+**Persona:** empirical psychologist. **Status:** `UNRESOLVED`
+Making "psychological injury" an element requires a factfinder to attribute the
+victim's state to the defendant's conduct rather than to comorbidities, prior trauma,
+or other stressors — an individual-level causal inference the science supports at the
+population level but not reliably case-by-case.
+*Best response so far:* rely on *course-of-conduct temporal pattern* + expert
+testimony about typical sequelae, not a claimed deterministic cause; frame the element
+as "conduct of a kind that foreseeably causes serious effect," shifting from
+retrospective causation to foreseeability. Partial; feeds the §3 causation problem.
+
+### OBJ-012 — "Two-tier punitive/rehabilitative sorting re-imports person-typing."
+**Persona:** disability-rights advocate. **Status:** `UNRESOLVED`
+Sorting a "non-violent spectrum" toward accommodation and the rest toward punishment
+requires a judgment about *who is treatable* — exactly the person-typing the framework
+forbids — and that judgment historically maps onto class and race (who reads as
+"sick/treatable" vs. "criminal/dangerous").
+*Best response so far:* sort on **documented conduct and risk**, never on inferred
+capacity-to-change; make the rehabilitative track *opt-in and self-directed* (doc 06's
+self-arrival constraint) so no one is *assigned* a type. Real but not fully resolved;
+hard-links to doc 05/06 design.
+
+### OBJ-013 — "A more diffuse injury element makes the 3.4% charge rate worse, not better."
+**Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
+Coercive control already barely charges because pattern-harm is hard to evidence and
+juries struggle with it. A *new* category resting on an even more diffuse
+"psychological injury" element will be declined by prosecutors more often — the
+framework legislates a right without a usable remedy.
+*Best response so far:* lead civil (lower bar, where the remedy actually lives);
+invest in pattern-evidence standards (doc 04) and jury education; treat the criminal
+tier as genuinely exceptional. Doesn't refute the charge — concedes proof is the
+binding constraint and builds around it.
+
+### OBJ-014 — "Primary-aggressor identification doesn't scale to multi-party households."
+**Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
+Widening the gate (§1a) multiplies the hardest charging decision — who is the primary
+aggressor — beyond what DV units can adjudicate; misidentification errors (already a
+known DV problem) scale with household size, and abusers exploit exactly that
+confusion.
+*Best response so far:* the §8 primary-aggressor safeguard is necessary but may be
+insufficient at N>2; consider capping the widened gate to *documented shared-household
+course of conduct* and requiring corroboration beyond cross-accusation. Unresolved —
+possibly a reason to widen the gate *civilly* before *criminally*.
+
+### OBJ-015 — "The injury element forces victims to perform damage and penalizes the resilient."
+**Persona:** survivor advocate (friendly fire). **Status:** `UNRESOLVED`
+"Serious effect on the victim" makes victims prove psychological damage — itself
+re-traumatizing (the seed's L91 concern) — and structurally *penalizes resilient
+victims*: the better you've coped, the weaker your case. A new evidentiary hoop lands
+on exactly the people the framework means to protect.
+*Best response so far:* the foreseeability reframing (OBJ-011) partly decouples the
+case from the victim's proven damage by focusing on the *conduct's* nature; and doc 04
+victim-protective procedure reduces the performance burden. Partial. This + OBJ-009 +
+OBJ-011 are one knot (below).
+
+### OBJ-016 — "Civil-first signals coercive harm is second-class injury."
+**Persona:** survivor advocate (friendly fire). **Status:** `UNRESOLVED`
+Defaulting to civil remedies may reinforce the very hierarchy — invisible harm as
+"lesser" than physical assault — that the framework exists to dismantle.
+*Best response so far:* frame civil-first as *strategic sequencing for efficacy*
+(where the remedy currently works), not a statement of gravity, and keep the criminal
+tier explicitly available for grave cases. Presentational fix; the tension is real.
+
+### Blunt assessment — the single objection most likely to sink doc 03
+
+**The OBJ-009 / OBJ-011 / OBJ-015 knot: the "serious effect on the victim" element is
+simultaneously the framework's constitutional lifeline and its structural undoing.**
+It is (a) the *vagueness cure* — without a defined victim-effect the offense is void
+for vagueness; (b) the *conviction bottleneck* — it is why the enacted model charges
+3.4%; (c) a *re-traumatization vector* — it makes victims perform their damage; and
+(d) a *penalty on resilience* — the better a victim coped, the weaker the case. You
+cannot delete it (constitutionally required) and you cannot keep it as-is (it defeats
+the purpose four ways). The foreseeability/reasonable-person reframing is the only
+visible path that eases all four at once, and it is unproven. If doc 03 is published
+without resolving this knot, this is where it dies. **Priority for the next
+`/develop 03` and for doc 04 (evidentiary standards).**
+
 ## How to use this ledger
 
 - `/steelman <doc>` adds new objections here per persona and updates statuses.
 - An objection is never deleted, only re-statused. `CONCEDED` entries point to the
   amendment that resolved them; the historical record of *why* the framework changed
   is itself valuable.
-- The blunt bottom line, refreshed after each `/steelman`: **as of seeding, the
-  single objection most likely to sink the framework if published tomorrow is
-  OBJ-003** (weaponizable fast-track) — because it converts the framework from a
-  shield into a sword, which is the one outcome the seed said must be avoided "at
-  all costs."
+- The blunt bottom line, refreshed after each `/steelman`: **after the 2026-07-09
+  steelman of doc 03, the single most likely killer is no longer OBJ-003 (now
+  mitigated) but the OBJ-009/011/015 knot** — the "serious effect on the victim"
+  element is at once the vagueness cure, the conviction bottleneck, a re-traumatization
+  vector, and a penalty on resilient victims; it can neither be removed nor kept
+  as-is. The foreseeability/reasonable-person reframing is the only visible escape and
+  is unproven.
 
 ## Research needed
 

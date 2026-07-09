@@ -342,7 +342,16 @@ required amendments, which is the correct posture for a framework this dangerous
 
 ## Weakest load-bearing element (per `CLAUDE.md` agreement 1)
 
-**The psychological-homicide mechanism (§3) is the weakest thing still standing.**
+*Two levels. The weakest **structural** element (found by `/steelman`, 2026-07-09) is
+the **"serious effect on the victim" knot** — OBJ-009/011/015 — which is at once the
+vagueness cure, the conviction bottleneck, a re-traumatization vector, and a penalty
+on resilient victims; it can neither be removed (unconstitutional) nor kept as-is
+(self-defeating). The foreseeability/reasonable-person reframing is the only visible
+escape and is unproven. This is now the framework's likeliest killer.*
+
+The weakest **mechanism** remains psychological homicide (§3), below.
+
+**The psychological-homicide mechanism (§3) is the weakest single mechanism standing.**
 Not because the harm isn't real, but because the causation wall is doctrinally
 severe and the framework has an incentive to overclaim here — "slow-burn homicide"
 is rhetorically the most powerful phrase in the whole project and the least
