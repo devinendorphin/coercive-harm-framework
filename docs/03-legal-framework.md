@@ -57,6 +57,15 @@ the harm occurs in relationship contexts that different bodies of law govern:
 This portfolio framing is the direct, disciplined consequence of the **bounded**
 cross-scale claim (§7). `NEEDS-LIBERTY-REVIEW` for each instrument.
 
+**Scope limit (division of labor, from the §9 steelman).** Criminal law here reaches
+the **mixed conduct** pattern (non-speech acts — surveillance, economic control,
+isolation — anchoring any speech). It is **not** the primary instrument for the
+**pure-words** case (gaslighting/degradation alone), which the First Amendment (OBJ-023)
+and the thin standalone-psychological-harm evidence (OBJ-019) place with civil orders,
+accommodation (doc 05), and therapeutic pathways (doc 06). Doc 03 should not be read as
+promising a criminal remedy for words-only coercion. See doc 01, "The division of labor
+across instruments."
+
 ### 1a. The relationship-gate gap: networked households (metamour/polycule abuse)
 
 The "intimate/family" gate is not just *scale*-limited (§7) — it is *topology*-

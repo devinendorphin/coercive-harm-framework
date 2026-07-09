@@ -1,6 +1,6 @@
 # 02 — Behavioral Taxonomy
 
-**Status: STUB (seeded, undeveloped)**
+**Status: ACTIVE (developed 2026-07-09, session `develop-02`)**
 
 ## Purpose
 
@@ -11,17 +11,47 @@ workplace is to recognize the harm, the conduct must be named precisely enough t
 identify and prove, and generally enough to avoid person-typing. The
 behavior-not-people rule (doc 00, doc 07) governs every line here.
 
+## 0. Grounding & operationalization (develop-02)
+
+Two disciplines applied this session (see `research/taxonomy-external-grounding.md`):
+
+1. **Map each seed term onto a validated construct** — to answer OBJ-001 (confirmation
+   bias). The strongest new anchor is **DARVO** (Deny, Attack, Reverse Victim &
+   Offender; Freyd 1997), the researched form of "confession through accusation" —
+   ~72% perpetrator use in a confrontation study (Harsey, Zurbriggen & Freyd 2017),
+   with replicated effects on victim credibility and self-blame. DARVO's "reverse
+   victim and offender" *is* the weaponization-inversion doc 07 guards against, so this
+   grounding does double duty. Biderman (isolation, monopolization of perception) and
+   Stark's coercive control anchor the rest.
+2. **Restate every term as third-party-observable conduct** — the test is *what would a
+   witness see?* This is how the taxonomy stays behavior-not-people (doc 07). The
+   term most at risk — "performed empathy masking absent theory-of-mind" — asserts an
+   internal state; restated observably it becomes **"stated understanding contradicted
+   by subsequent conduct, over a documented pattern"** (no diagnosis, checkable).
+
+**Honest limit:** these anchors validate *components*. That the components **co-occur
+as one coherent "cluster"** in identifiable people remains `[HYPOTHESIS]` and is the
+claim most exposed to confirmation bias. Claim the validated components; flag the
+cluster-coherence claim as unproven. Do not let component validation launder the
+whole-cluster claim (tag drift).
+
 ## Candidate taxonomy (from the seed, unrefined)
 
 Each is a conduct pattern, tagged; definitions live in doc 00.
 
-1. **Confession through accusation** (projection as tell) — `[SUPPORTED]` mechanism,
-   `[HYPOTHESIS]` as reliable diagnostic.
+1. **Confession through accusation** = **DARVO** (Deny, Attack, Reverse Victim &
+   Offender; Freyd) — `[SUPPORTED]` as a validated construct with replicated effects;
+   `[HYPOTHESIS]` as a *reliable diagnostic* (content of accusation reverse-mapping to
+   the accuser's own conduct). *Observable form:* on being confronted, denies + attacks
+   the confronter + claims the victim role.
 2. **Truth-inversion** as default operating mode — `[HYPOTHESIS]`.
 3. **Improvised-but-convergent tactics** (reactive, not premeditated; skilled) —
    `[HYPOTHESIS]`.
 4. **Seeding chaos** (pre-planted, deniable failure points) — `[HYPOTHESIS]`.
-5. **Performed empathy / attunement** masking absent theory-of-mind — `[HYPOTHESIS]`.
+5. **Performed empathy / attunement** — `[HYPOTHESIS]`. *Observable restatement (drops
+   the mind-state claim):* stated understanding **contradicted by subsequent conduct**,
+   over a documented pattern. The "masking absent theory-of-mind" gloss is an
+   *explanation*, not part of the conduct standard — keep it out of any rubric (doc 07).
 6. **Isolation of target** from family/friends/support — `[SUPPORTED]` (established
    coercive-control tactic).
 7. **Deceptive-atmosphere construction** (ambient reality-bending) — `[HYPOTHESIS]`.

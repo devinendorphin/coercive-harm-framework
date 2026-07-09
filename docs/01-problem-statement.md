@@ -123,6 +123,28 @@ commitments follow, and they are non-negotiable (`[NORMATIVE]`):
   by an abuser against a true victim. The framework is only as good as its
   safeguards against its own weaponization.
 
+## The division of labor across instruments (from the doc-03 steelman)
+
+A structural finding the framework must not paper over. Steelmanning the model criminal
+offense (doc 03 §9) established that **criminal law cannot be the primary instrument for
+the seed's paradigm case.** The First Amendment forces the offense to require non-speech
+conduct (OBJ-023), and the foreseeability evidence is strong for *physical* danger but
+thin for *standalone psychological* harm (OBJ-019). So the harm sorts by manifestation,
+each to its fitting instrument:
+
+- **Mixed conduct** (surveillance + economic control + isolation + degradation together)
+  → **criminal / civil coercive-endangerment** (doc 03). The non-speech acts anchor it.
+- **The pure-words case** (gaslighting, degradation, "weaponization of words," L16/L24 —
+  the seed's *founding* premise) → **civil protective orders + accommodation (doc 05) +
+  therapeutic pathways (doc 06).** Constitutionally out of primary criminal reach.
+- **Workplace / institutional scale** → **accommodation (doc 05)**, per the bounded
+  cross-scale claim above.
+
+This is not a retreat; it is the framework finding its correct shape. The uncomfortable
+consequence, stated plainly: the framework's *central* harm (invisible, words-only) is
+carried by its *least coercive and least evidence-backed* instruments (docs 05–06), not
+by criminal law. That is where the hardest remaining work lives. `[NORMATIVE]`
+
 ## Why now
 
 Endorphin situates the project at an inflection: a period (he dates it ~2015–2017)

@@ -14,6 +14,16 @@ central result: the ADA research resolves that tension** — the ADA already sep
 *status* from *conduct*, and the framework can borrow its *architecture* without
 invoking its *legal disability classification*. See §0.
 
+## 0a. Elevated role (division of labor, from the doc-03 steelman)
+
+Doc 05 is no longer the framework's "soft, optional half." The §9 steelman established
+that criminal law cannot reach the **pure-words** case (OBJ-023/019), so for the seed's
+paradigm harm — invisible, words-only coercion — **the accommodation model and the
+therapeutic pathways (doc 06) are the *primary* instruments.** This raises the stakes on
+doc 05's own weakest element (enforceability, below): the framework is leaning its
+central case on an instrument that is currently voluntary. See doc 01, "The division of
+labor across instruments."
+
 ## 0. Resolution of the founding contradiction (OBJ-004)
 
 From `research/ada-accommodation-architecture.md`:

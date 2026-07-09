@@ -33,15 +33,17 @@ The "clusters of behaviors" may be a composite assembled from separate people an
 situations, retro-fitted into a pattern. Where is the validated instrument, the base
 rate, the falsification criterion? Absent these, the taxonomy (doc 02) risks
 codifying pattern-projection.
-*Best response so far:* partial. The framework still has no *validated instrument*,
-but the taxonomy is no longer purely internal pattern-matching: **Biderman's Chart of
-Coercion** (eight coercion methods, validated across POW-torture and domestic-abuse
-contexts, endorsed by Amnesty) supplies external grounding, and its eight methods map
-onto the seed-derived taxonomy (doc 02). Remaining candidate path: map fully onto
-already-validated constructs (Biderman; Stark; Duluth) rather than assert a novel
-cluster, and develop a measurable instrument. Downgraded from "no adequate response"
-to "partially grounded, instrument still missing." → doc 02,
-`research/coercion-continuity-across-scale.md`.
+*Best response so far:* partial, and strengthened by develop-02. The taxonomy is no
+longer internal pattern-matching: **Biderman's Chart** (isolation, monopolization of
+perception…), **Stark's coercive control**, and now **DARVO** (Freyd — the validated
+form of "confession through accusation," ~72% perpetrator use, replicated
+credibility/self-blame effects) each ground *components*, and every term is restated as
+third-party-observable conduct (doc 02 §0). **Residual (the real OBJ-001 core):**
+component validation ≠ validation that the components **co-occur as one coherent
+cluster** in identifiable people — that remains `[HYPOTHESIS]`, exposed to confirmation
+bias, and no measurable whole-cluster instrument yet exists. Downgraded to "components
+grounded, cluster-coherence + instrument still missing." → doc 02 §0,
+`research/taxonomy-external-grounding.md`, `research/coercion-continuity-across-scale.md`.
 
 ### OBJ-002 — "The mPFC hypothesis is both unfalsifiable and stigmatizing."
 **Persona:** empirical psychologist + disability-rights advocate. **Status:** `UNRESOLVED`
