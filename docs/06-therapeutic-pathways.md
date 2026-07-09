@@ -18,23 +18,30 @@ That makes doc 06's central evidence gap (below) a gap at the framework's core.
 
 From `research/therapeutic-modalities-evidence.md`:
 
-- **The modalities work — for the wrong population.** Mindfulness structural change
-  (Hölzel/Lazar, 8-week MBSR gray-matter changes) and the first IFS RCT (PARTS, Harvard/
-  Cambridge Health Alliance, PTSD) are real — but the evidence base is almost entirely
-  **trauma survivors and general stressed populations**, i.e., the framework's
-  *victims*, **not** the people who *enact* the coercive pattern. Applying
-  victim-side efficacy to the perpetrator-side deficit is an **unvalidated transfer.**
-  `[SUPPORTED]` for wellbeing/trauma; `[HYPOTHESIS]` for remediating the cluster.
+- **The modalities' evidence is weaker and narrower than the seed assumed.** Two
+  problems, both surfaced by `/evidence-check`: (1) **the mindfulness structural-change
+  mechanism failed to replicate** (Kral/Davidson 2022) — so the seed's "builds the
+  structures" premise is `[HYPOTHESIS/CONTESTED]`, not established; (2) what evidence
+  exists (the IFS PARTS RCT; mindfulness wellbeing benefits) is almost entirely for
+  **trauma survivors / general populations** — the framework's *victims*, **not** the
+  people who *enact* the coercive pattern. Applying victim-side efficacy to the
+  perpetrator-side deficit is an **unvalidated transfer.** `[SUPPORTED]` for
+  wellbeing/trauma symptom relief; `[HYPOTHESIS]` for remediating the cluster.
 - **This is doc 06's weakest load-bearing element** (see below), and — post-steelman —
   it sits at the framework's center of gravity.
 
 ## 1. The pathways, re-tagged against evidence
 
-1. **Mindfulness practice (Siegel/MBSR).** `[ESTABLISHED]` that sustained practice
-   produces structural brain change in 8 weeks (faster for some measures); `[HYPOTHESIS]`
-   that it remediates *this* deficit or builds theory-of-mind "for the first time."
-   Keep the mechanism, drop the mPFC-specific + "decade" overstatement (tag-drift /
-   OBJ-002).
+1. **Mindfulness practice (Siegel/MBSR).** **`[HYPOTHESIS / CONTESTED]`** that practice
+   produces structural brain change — *downgraded by `/evidence-check` 2026-07-09.* The
+   earlier 8-week gray-matter findings (Hölzel/Lazar) **failed to replicate** in the
+   largest, most rigorous study to date (**Kral, Davidson et al. 2022, *Science
+   Advances*, N=218, two RCTs** — no MBSR structural change vs. controls). Mindfulness's
+   benefits for *attention/stress/wellbeing* remain separately supported, but the
+   seed's "practice builds the actual structures" premise (Siegel, L133) has lost its
+   main empirical leg — do not assert it. Also `[HYPOTHESIS]` that it remediates *this*
+   deficit. Drop the mPFC-specific + "decade" overstatement (OBJ-002).
+   (See `research/evidence-check-2026-07-09.md`.)
 2. **IFS parts work.** `[SUPPORTED]` (emerging RCT evidence) as trauma therapy;
    `[HYPOTHESIS]` for the coercive-pattern population (no direct evidence).
 3. **Personal mythology / esoteric framing (Jessa Reed).** `[HYPOTHESIS]`, n=1,

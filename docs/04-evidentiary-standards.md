@@ -42,6 +42,14 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    survivors describing the *same tactics → same effects* is the naturalistic version
    of what the instruments formalize (the seed's L162 epistemics), and gives the
    pattern jury-comprehensible texture (addresses OBJ-013).
+4. **Meta-analytic support for the *psychological*-harm nexus.** `[SUPPORTED]`
+   (added by evidence-check 2026-07-09, answering OBJ-019) The lethality instruments in
+   Finding 2 predict *physical* danger; the foreseeability of *psychological* harm rests
+   instead on a **2023 systematic review + meta-analysis** — coercive control moderately
+   associated with **PTSD (r = .32)** and depression (r = .27), comparable to physical
+   IPV. This is the right anchor for the psychological-effect nexus. **Do not overclaim:**
+   r = .32 is *moderate*, so foreseeability of psychological harm is *supported, not
+   lethality-grade.* (See `research/evidence-check-2026-07-09.md`.)
 
 ### CRITICAL GUARDRAIL — foreseeability must be generic, never a defendant risk-score
 

@@ -306,12 +306,16 @@ ground the foreseeability of *serious psychological effect from a non-violent co
 pattern* is a bait-and-switch: the base rates for the framework's *central* case
 (words/control, no violence → serious psychological harm) are **not** established at the
 strength the instruments supply for physical harm.
-*Best response so far:* narrow the foreseeability claim to what the evidence actually
-supports (coercive control as a *predictor of physical danger* is strong; as a
-predictor of *standalone psychological injury* it is thinner), and lean on the
-coercive-control→C-PTSD/health literature (Herman; Stark) rather than the lethality
-instruments for the psychological-effect nexus. **This weakens the keystone for the
-purely-psychological case** — see the blunt assessment.
+*Best response so far (strengthened by evidence-check 2026-07-09):* the objection is
+partly answered by *meta-analytic* evidence — a 2023 systematic review finds coercive
+control **moderately associated with PTSD (r = .32) and depression (r = .27)**,
+comparable to physical IPV. So foreseeability of *psychological* harm from the pattern
+has real support, **independent of** the physical-lethality instruments (Danger
+Assessment), which do remain physical-violence tools. **Residual:** r = .32 is a
+*moderate* association, not a deterministic predictor — so the foreseeability nexus for
+the psychological case is *supported but not strong*; do not overclaim it as
+lethality-grade. Ground the psychological-harm nexus in this meta-analysis, not in the
+lethality instruments. → doc 04 §0, `research/evidence-check-2026-07-09.md`.
 
 ### OBJ-020 — "The enumerated acts criminalize caregiving and disability."
 **Persona:** disability-rights advocate. **Status:** `UNRESOLVED`

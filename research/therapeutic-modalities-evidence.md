@@ -15,13 +15,18 @@ element. The one genuinely new lever the seed lacked is **Motivational Interview
 which is the evidence-based method for eliciting *self-directed* change in
 low-insight/resistant people — a partial answer to OBJ-005.
 
-## Finding 1 — Mindfulness → structural brain change `[ESTABLISHED]` (but mind the population)
+## Finding 1 — Mindfulness → structural brain change `[HYPOTHESIS / CONTESTED]`
+### (downgraded by /evidence-check 2026-07-09 — failed replication)
 
-- **Hölzel & Lazar (2011):** 8-week MBSR produced measurable **gray-matter changes**
-  (hippocampus and other regions) vs. controls — the landmark support for the seed's
-  Siegel-derived claim that practice can build "the actual structures." Faster still:
-  RCTs find white-matter changes around ACC/PCC in **2–4 weeks / 5–10 hours** (Tang et
-  al.). Neuroplasticity is real and relatively fast. [ESTABLISHED]
+- **Hölzel & Lazar (2011):** 8-week MBSR reported gray-matter changes — the landmark
+  support for the seed's "build the actual structures" claim. **BUT this failed to
+  replicate:** **Kral, Davidson et al. (2022, *Science Advances*, N=218, two RCTs)** —
+  the largest, most rigorously controlled test — found **no MBSR structural change** vs.
+  controls, at whole-brain or ROI level. The earlier small studies (3,200+ citations)
+  do not hold up. So the *structural-change* mechanism is **contested, probably not
+  established.** Mindfulness benefits for attention/stress/wellbeing remain separately
+  supported; the "grows brain structure in weeks" claim should not be asserted.
+  [HYPOTHESIS/CONTESTED]
 - **Two honest caveats the seed's version overstates:**
   1. **Population.** These studies are on ordinary/stressed volunteers improving
      attention and emotion regulation — **not** on people lacking empathy/theory-of-mind

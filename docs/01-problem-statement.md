@@ -12,10 +12,14 @@ critiques of the problem framing itself are logged via `/steelman` in doc 08.*
 Institutions — courts, police, hospitals, workplaces — are built to recognize
 injury that leaves a mark. A category of serious harm leaves no visible mark: harm
 inflicted through words, narratives, deception, isolation, and the sustained
-manipulation of a person's sense of reality. This harm is `[SUPPORTED]` as real
-and physiologically consequential (sustained coercive control produces measurable
-psychological and bodily injury), yet the institutions that would remedy visible
-injury systematically fail to see it, prove it, or safely process it. The project's
+manipulation of a person's sense of reality. This harm is real: coercive control is
+**`[ESTABLISHED]`** as a cause of serious **psychological** injury — a 2023 systematic
+review + meta-analysis finds it moderately associated with PTSD (r = .32) and depression
+(r = .27), comparable to *physical* IPV (see `research/evidence-check-2026-07-09.md`).
+The stronger claim that words produce *literal physical/bodily* injury (the seed's
+"concrete physical effect on the body," L16) is **`[HYPOTHESIS]`** — do not conflate the
+two. Yet the institutions that would remedy visible injury systematically fail to see
+it, prove it, or safely process it. The project's
 one-line framing: *plug the gaps in judicial, medical, and workplace treatment of
 a new injury category — coercive/psychological harm — without importing stigma or
 enabling new discrimination* (L4).
