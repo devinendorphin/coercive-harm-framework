@@ -1,7 +1,7 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-07-09, session `develop-06-02-writeback`.*
+this first (via CLAUDE.md). Last updated: 2026-07-09, session `evidence-check`.*
 
 ---
 
@@ -23,28 +23,31 @@ this first (via CLAUDE.md). Last updated: 2026-07-09, session `develop-06-02-wri
 
 `research/` holds 8 verified files.
 
-## The two remaining frontiers (both empirical, not structural)
+## The remaining frontiers (empirical, not structural) — updated post evidence-check
 
-1. **No validated whole-cluster instrument** (OBJ-001 residue). Components are grounded
-   (Biderman/Stark/DARVO); their *co-occurrence as one cluster* in identifiable people
-   is unproven.
-2. **No efficacy evidence for the therapeutic pathways in the coercive-pattern
-   population** (doc 06 weakest element) — and docs 05–06 now carry the framework's
-   central words-only case, so this gap is central.
+1. **No validated whole-cluster instrument** (OBJ-001 residue). Components grounded
+   (Biderman/Stark/DARVO); *co-occurrence as one cluster* unproven.
+2. **doc 06 is now the framework's most empirically exposed workstream.** Evidence-check
+   *downgraded* the mindfulness structural-change mechanism (Kral/Davidson 2022 failed
+   replication) AND there is still no efficacy evidence for any pathway in the
+   coercive-pattern population — yet docs 05–06 carry the central words-only case. The
+   therapeutic premise is the softest load-bearing point in the whole framework.
+3. **The foundation, by contrast, firmed up.** Coercive control → serious *psychological*
+   harm is now `[ESTABLISHED]` + cited (2023 meta-analysis). The legal/evidentiary spine
+   is on solider empirical ground than the therapeutic one.
 
 ## Top 3 priorities for next session
 
-1. **`/evidence-check all`.** The spine exists; now audit it end-to-end for tag drift
-   before any of it is called stable. Especially: the mindfulness "decade"/mPFC claims
-   (doc 06/00), the cluster-coherence claim (doc 02), the risk-instrument→psychological-
-   harm transfer (doc 04, OBJ-019). *Reason: the framework is now broad enough that
-   drift is the main risk; this is the natural consolidation pass.*
-2. **Batterer-intervention-program reality-check (feeds doc 06).** The closest existing
-   analogue to "treatment for those who harm," with famously mixed results — the honest
-   benchmark for doc 06's ambitions. *Reason: doc 06 is now primary and least-proven.*
-3. **`/steelman` the qualified-endangerment redraft, OR draft doc 05's soft-law
-   enforceability levers.** Either close the last big legal-draft loop or the last big
-   accommodation-model gap. *Endorphin to pick.*
+1. **Batterer-intervention-program reality-check (feeds doc 06) — now the top gap.** The
+   closest existing analogue to "treatment for those who harm," with famously mixed
+   results. With the mindfulness mechanism downgraded, doc 06 needs an honest evidence
+   floor more than ever. *Reason: doc 06 is the framework's most exposed workstream and a
+   primary instrument.*
+2. **`/steelman` the qualified-endangerment redraft.** Close the last big legal-draft
+   loop; the knot is drafted + liberty-cleared but not yet steelmanned in its qualified
+   form. *Reason: turns "cleared path" into "tested proposal."*
+3. **Draft doc 05's soft-law enforceability levers** (procurement/insurance/sector
+   codes, no diagnosis). The last big accommodation-model gap. *Endorphin to pick 2 vs 3.*
 
 ## Open decisions awaiting Endorphin
 
@@ -76,6 +79,11 @@ this first (via CLAUDE.md). Last updated: 2026-07-09, session `develop-06-02-wri
   pattern; the **pure-words** paradigm case (the seed's founding harm) belongs to civil
   orders + accommodation (05) + therapeutic (06). Criminal law is *not* the primary
   instrument for words-only coercion (OBJ-023/019). Do not write doc 03 as if it were.
-- **S-11 (NEW).** **Do not let component-validation launder whole-claim assertions.**
+- **S-11.** **Do not let component-validation launder whole-claim assertions.**
   Biderman/DARVO ground taxonomy *components*, not cluster coherence; IFS/mindfulness
   evidence is for *victims*, not the perpetrator population. Keep these tags honest.
+- **S-12 (NEW).** **Mindfulness structural-change is CONTESTED, not established** —
+  Kral/Davidson 2022 failed to replicate the 8-week findings. Do not reinstate "practice
+  builds the brain structures" as fact. Conversely, **coercive control → serious
+  psychological harm IS established** (2023 meta-analysis, PTSD r=.32), but the *literal
+  physical/bodily injury from words* claim stays `[HYPOTHESIS]`. Keep these two apart.
