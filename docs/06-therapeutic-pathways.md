@@ -65,7 +65,36 @@ closest denial-dominant analogue to the coercive-pattern population.
 adopt without triggering the resistance that defeats imposed treatment. **This is the
 partial answer to OBJ-005** ("a self-directed-only cure gives policy nothing to do"):
 policy can train and fund an MI-informed stance, create conditions and access, and
-*wait* — without prescribing or coercing. MI is the operational core of doc 06.
+*wait* — without prescribing or coercing. MI is the operational core of doc 06 — and it
+now has a *direct* (if early) toehold in the perpetrator population: MI improves BIP
+adherence and reduces recidivism, esp. with substance-use comorbidity (§3). `[SUPPORTED]`
+(BIP-adherence) / `[HYPOTHESIS]` (remediating the coercive pattern).
+
+## 3. The reality floor: what "treatment for those who harm" actually achieves
+
+Doc 06 is now a *primary* instrument (division of labor), so it must face the closest
+real-world analogue honestly (`research/batterer-intervention-evidence.md`):
+
+- **Mainstream batterer-intervention programs barely work.** `[ESTABLISHED]`
+  Meta-analyses find **small-to-null** effects; with rigorous designs, **d ≈ 0.09** —
+  Duluth ≈ **5% over arrest alone**; Duluth ≈ CBT; high dropout; official reports
+  *understate* reoffending. **The framework must not promise rehabilitation.**
+- **But the failing modality is the *imposed* one.** BIPs are overwhelmingly court-
+  mandated, confrontational Duluth groups — the exact *imposed* condition the self-
+  arrival constraint predicts will fail. So the dismal Duluth numbers are partly
+  **evidence *for* §1.4**, not just against therapy. `[SUPPORTED]`
+- **And the improving modalities are doc 06's.** ACT-based (Zarling's **ACTV**; Circles
+  of Peace) now **outperform Duluth** (ACTV ~9% recidivism, promising but not
+  statistically significant); MI-enhanced approaches improve adherence/outcomes. The
+  self-directed, non-confrontational bet is where the (small) gains are. `[SUPPORTED]`
+- **The unresolved paradox:** even the better signals are delivered *inside mandates*,
+  and measure *physical-violence* recidivism — **not** the standalone coercive/words-only
+  pattern doc 06 centers, for which there is essentially **no** efficacy evidence.
+
+**Net:** doc 06's design is *correctly oriented* (self-directed, MI/ACT, non-
+confrontational — where the evidence trend points) but its efficacy *for this
+population and this harm* is `[HYPOTHESIS]` with a discouraging base rate. Honest
+framing: **"least-bad and correctly oriented," not "effective."**
 
 ## Relevant passages from the seed
 

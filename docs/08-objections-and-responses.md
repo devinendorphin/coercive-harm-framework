@@ -99,9 +99,15 @@ the seed lacked (doc 06 §2). It is the evidence-based method for eliciting
 *self-directed* change in low-insight/resistant people (developed in addiction) — so
 policy *can* train the stance, fund access, and create conditions, honoring
 self-arrival without imposing treatment. Condition-creation (doc 05 role design) is the
-other half. **Not fully resolved:** MI's evidence is addiction/health, not the
-coercive-pattern population — the deliverable exists, its efficacy *for this population*
-does not yet (doc 06's weakest element). → docs 05, 06.
+other half. **Update (batterer-intervention research):** MI now has a *direct* (early) toehold in
+the perpetrator population — it improves BIP adherence and reduces recidivism (esp. with
+substance-use comorbidity). But the honest floor is stark: mainstream "treatment for
+those who harm" shows **small-to-null** effects (Duluth ≈ 5% over arrest), and none of
+it targets the standalone coercive/words-only pattern. So the deliverable exists and is
+*correctly oriented* (ACT/MI outperform imposed Duluth — consistent with self-arrival),
+but efficacy *for this population and harm* stays `[HYPOTHESIS]` with a discouraging base
+rate. Framing: "least-bad and correctly oriented," not "effective." → docs 05, 06 §3,
+`research/batterer-intervention-evidence.md`.
 
 ### OBJ-006 — "Victim-protective procedure guts the Confrontation Clause."
 **Persona:** defense attorney. **Status:** `UNRESOLVED`
