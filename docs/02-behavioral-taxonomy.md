@@ -56,6 +56,46 @@ over whom), or the framework will mislabel resistance and displaced-wound as pre
 This does **not** reintroduce person-typing (the vector is a *relational/structural* fact,
 not a trait), but it must be liberty-reviewed. See `research/dissent-and-lateral-violence.md`.
 
+#### Operationalizing the vector (so it isn't a vague "power tribunal")
+
+The vector is **not** a free-standing inquiry into abstract social power — that would be
+unworkably vague and would slide into judging people by demographic category. It is
+**relationship-specific** and read from **objective indicators** of who holds power over
+whom *in this relationship*:
+
+- **Formal authority** — employer/employee, officer/civilian, guardian/dependent,
+  clinician/patient, teacher/student, officeholder/constituent.
+- **Material dependence** — who controls money, housing, immigration status, caregiving,
+  the means of subsistence.
+- **Institutional backing** — whom the relevant institutions believe/protect by default.
+- **Custodial / physical control** — who can confine, surveil, or physically dominate.
+
+**Crucial discipline:** anchor on *this-relationship* power, **never** on abstract group
+identity. "He is a man / she is white / they are wealthy" is **not** the vector; "she is
+his supervisor and controls his visa" is. This keeps it a structural-relational fact, not
+a trait, and off the equal-protection minefield.
+
+**It is a generalization of doctrine that already exists** — which is why it is not a
+radical invention:
+- **Self-defense's aggressor/defender distinction** already conditions liability on who
+  initiated domination.
+- **Duress** already excuses conduct compelled by another's power.
+- The **predominant-aggressor determination** (doc 03 §9 §5) already asks "who holds power,
+  who fears whom" in DV practice.
+The power-vector makes this logic **explicit and general** rather than scattered across
+defenses.
+
+**The two hard problems (for `/liberty-review`, not solved here):**
+1. **Multidimensionality.** Power is not one axis — a person can be high-power on one
+   (institutional role) and low on another (immigration status). Genuine ambiguity will
+   arise and become contested. The response is to weight *this-relationship, harm-relevant*
+   power, and to accept that ambiguous cases fall to the ordinary factfinding the offense
+   already requires.
+2. **DARVO-gaming (OBJ-028 resurfacing).** The powerful will *claim* low-power / "I was
+   resisting up" status — reverse-victim is itself a cluster tactic. The vector cannot be
+   self-declared; it must rest on the objective indicators, and the more objective
+   institutional power a claimant holds, the higher the bar for an upward-resistance claim.
+
 ## Candidate taxonomy (from the seed, unrefined)
 
 Each is a conduct pattern, tagged; definitions live in doc 00.

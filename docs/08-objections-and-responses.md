@@ -479,19 +479,24 @@ liberty-fraught (equal protection); `NEEDS-LIBERTY-REVIEW`. The shield is not th
 symmetric application is. → doc 10.
 
 ### OBJ-029 — "Behavior alone can't tell resistance from oppression (the power-vector problem)."
-**Persona:** power-critique / dissent (doc 10 Finding F). **Status:** `UNRESOLVED — requires framework change`
+**Persona:** power-critique / dissent (doc 10 Finding F). **Status:** `MITIGATED — liberty-cleared with one residual` (developed + reviewed 2026-07-09)
 The same observable conduct (deception, strategic ignorance, inversion, aggression) is
 **resistance** when aimed *up* at power (Scott), **displaced lateral violence** when aimed
 *sideways* at a peer (Fanon/Freire), or **coercive harm** when aimed *down*. A conduct-only
 framework (behavior-not-people) cannot distinguish them — and since the mechanisms bite
 down/sideways (Finding B), the framework would catch the *displaced scar tissue of
 oppression* while the apex actor goes free ("enforcement bites the wounded").
-*Best response so far:* add an explicit **power-vector dimension** (up/lateral/down) to the
-taxonomy and offense context — up = never the offense (extend §4 to resistance-to-
-domination); lateral = restorative + structural, not purely punitive; down = the core harm.
-The vector is a *relational/structural* fact, not a trait, so it does not reintroduce
-person-typing — but `NEEDS-LIBERTY-REVIEW`. Explains-without-excusing: the laterally-harmed
-peer is still a victim. → doc 02, doc 10, `research/dissent-and-lateral-violence.md`.
+*Response (developed + liberty-reviewed 2026-07-09):* the **power-vector dimension**
+(up/lateral/down) is added to the taxonomy (doc 02) and offense context, **operationalized**
+on enumerated *relationship-specific* power indicators (formal authority; material/
+immigration/caregiving dependence; institutional backing; custodial control) — **never**
+group identity — and grounded in existing **self-defense-aggressor / duress / predominant-
+aggressor** doctrine so it is not a novel "power tribunal." **Liberty-review: `CLEARED-WITH-
+AMENDMENTS`** (doc 03 §8): up = resistance defense; lateral = restorative+structural;
+down = core harm; power-asymmetric scrutiny guards DARVO-gaming (OBJ-028). **Status:
+`MITIGATED`, one residual open** — the vector must be assessed by the power-embedded
+institutions the framework distrusts (Finding C); mitigated by civil/restorative-first +
+independent review, not eliminated. → doc 02, doc 03 §8, doc 07, doc 10.
 
 ## How to use this ledger
 

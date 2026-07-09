@@ -388,9 +388,52 @@ it constitutionally tethered (speech) and non-weaponizable (conduct must be obje
 harm-capable). OBJ-009/011/015 downgraded from "likeliest killer" to "mitigated with a
 liberty-cleared path — pending drafting and `/steelman` of the qualified form."
 
-**Net:** 4 cleared-with-amendments (§2, §1a, §6, endangerment-reframe), 1 split (§4 force/fear cleared,
-fraud blocked), 1 blocked (§3). No mechanism `CLEARED` outright — every one carries
-required amendments, which is the correct posture for a framework this dangerous.
+### Power-vector dimension (doc 02 / doc 10 Finding F) — `CLEARED-WITH-AMENDMENTS`, with one irreducible residual
+
+Reviewed 2026-07-09. Pairing conduct with the direction of the relationship-specific
+power differential (up = resistance / lateral = displaced / down = core harm).
+
+1. **Vagueness — passable only if anchored.** "Who holds power" is less determinate than a
+   conduct list. **Amend:** restrict to **enumerated, objective, relationship-specific
+   indicators** (formal authority; material/immigration/caregiving dependence;
+   institutional backing; custodial control) — **not** a free-standing "structural power"
+   inquiry. Grounded in existing aggressor/defender + duress doctrine, which courts
+   already apply.
+2. **Person vs. pattern — passes ONLY with the group-identity bar.** **Automatic fail** if
+   the vector is read from demographic category ("she's a woman → low-power"). **Amend:**
+   express prohibition — the vector is *this-relationship* power (per §1 indicators),
+   never group identity. This keeps it relational-structural, off the equal-protection
+   minefield.
+3. **Weaponization — the vector both helps and hurts.** It *reduces* one risk (protects
+   genuine resistance from being charged) and *adds* another (the powerful claim
+   low-power/"resisting up" — DARVO). **Amend:** the vector is never self-declared — it
+   rests on the objective indicators + the predominant-aggressor screen (§9 §5); and
+   **power-asymmetric scrutiny** applies (OBJ-028): the more objective institutional power
+   a claimant holds, the higher the bar for an upward-resistance claim.
+4. **Due process — clean if built on existing doctrine.** Structure "aimed up = resistance"
+   as an **affirmative-frame defense on the self-defense/duress model** (well-precedented),
+   and the lateral/down sorting via the predominant-aggressor screen — **not** a novel
+   free-standing "power finding." Presumption/appeal intact.
+5. **Speech — n/a** beyond the base offense.
+6. **Disparate impact — the point, but see the residual.** The vector's *purpose* is to
+   correct Finding B/F (protect the low-power's resistance; route the displaced to
+   restorative not punitive). **Irreducible residual:** the vector must be *assessed by the
+   same institutions the framework distrusts* (Finding C) — power-embedded prosecutors and
+   courts reading "who has power" through their own biases. **Amend:** keep vector
+   determinations primarily in the **civil/restorative** track; where criminal, add
+   **independent (non-prosecutorial) review** of the determination. This mitigates but does
+   **not eliminate** the residual — it is the honest limit.
+
+**Verdict:** `CLEARED-WITH-AMENDMENTS`. The vector is **necessary** (behavior-not-people is
+insufficient without it — doc 02) *and* it concentrates discretionary judgment in
+compromised institutions (Finding C). Both are true; the amendments narrow the danger
+without dissolving it. OBJ-029 → mitigated, with the institutional-assessment residual
+kept open.
+
+**Net:** 5 cleared-with-amendments (§2, §1a, §6, endangerment-reframe, power-vector),
+1 split (§4 force/fear cleared, fraud blocked), 1 blocked (§3). No mechanism `CLEARED`
+outright — every one carries required amendments, which is the correct posture for a
+framework this dangerous.
 
 ---
 
@@ -478,14 +521,17 @@ foreseeability nexus (§9.2(c)) is the keystone; do not draft it away.
 > that raises the penalty ceiling gets full jury/BRD proof; actual harm cannot enter
 > as a low-standard sentencing factor.)*
 >
-> **§ 4. Legitimate-purpose and protective-response (prosecution must disprove).** No
-> offense is committed where the course of conduct was (i) a **reasonable response to
-> protect the actor or another from the other party's abuse** (e.g., limiting contact,
-> documenting, restricting shared finances to prevent exploitation), or (ii) **conduct
-> undertaken for a legitimate purpose**, including good-faith **caregiving** or the
-> lawful management of shared responsibilities. Where the issue is raised by the
-> evidence, the **prosecution bears the burden of disproving** it beyond a reasonable
-> doubt. *(Amended per OBJ-018 — burden on the state, not the accused, so a true victim
+> **§ 4. Legitimate-purpose, protective-response, and resistance (prosecution must
+> disprove).** No offense is committed where the course of conduct was (i) a **reasonable
+> response to protect the actor or another from the other party's abuse** (e.g., limiting
+> contact, documenting, restricting shared finances to prevent exploitation), (ii)
+> **conduct undertaken for a legitimate purpose**, including good-faith **caregiving** or
+> the lawful management of shared responsibilities, or (iii) **conduct aimed *up* the power
+> gradient — resistance to the other party's domination** (the power vector, doc 02 / doc
+> 10 Finding F; on the self-defense/duress model — the lower-power party's deception,
+> non-cooperation, or strategic unknowing directed *at* a party holding power over them is
+> not the offense). Where any is raised by the evidence, the **prosecution bears the burden
+> of disproving** it beyond a reasonable doubt. *(Amended per OBJ-018 — burden on the state, not the accused, so a true victim
 > charged by their abuser need not prove their own victimhood; and per OBJ-020 —
 > caregiving/legitimate-purpose exclusion so the offense does not criminalize a
 > caregiver managing a disabled partner's finances or medical care. Both-victims +
