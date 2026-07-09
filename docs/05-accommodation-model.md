@@ -87,6 +87,37 @@ must pair with the self-directed therapeutic pathways (doc 06), and the seed's
 self-arrival constraint means the org can create conditions but cannot compel the
 change. Accommodation is containment, not cure. `[NORMATIVE]`
 
+## 3a. Enforceability: soft-law levers (no diagnosis) — closing the weakest-element gap
+
+Resolving OBJ-004 by dropping the ADA disability hook also dropped the legal *duty* to
+accommodate. These conduct-based levers give the model teeth **without** reintroducing a
+diagnosis (`research/accommodation-enforceability-levers.md`):
+
+1. **Negligent retention / supervision (existing tort) — the primary lever.**
+   `[ESTABLISHED]` An employer is liable when it **knows or should know** an employee
+   endangers others, **fails to act** (terminate, **reassign**, address), harm is
+   **foreseeable**, and damages result. The model's "no reports / no budget"
+   role-design **is** a recognized corrective action that *discharges* this duty;
+   ignoring a **documented course of coercive conduct** and leaving the person in an
+   authority role **exposes** the employer. This converts accommodation from "nice-to-
+   have" into **liability-driven risk management**, entirely conduct-based, no diagnosis.
+   It also fits the framework's aim exactly: it protects *potential subordinates* via the
+   employer's *existing* duty of care, not a new protected class.
+2. **Insurance (EPLI / D&O).** `[SUPPORTED]` Insurers already price governance and drive
+   anti-harassment practice; they can require/reward conduct-based role-design as a
+   condition or discount — a market lever, no legislation.
+3. **Procurement / grant conditions.** `[NORMATIVE]` Funders condition grants on adopting
+   the template — the operative lever at the nonprofit/agency scale (Flatbush, L69).
+4. **Sector codes / accreditation.** `[NORMATIVE]` Adoption of the §2 template becomes
+   **evidence of due care**, looping back into lever 1's liability calculus.
+
+**Both-victims caution:** liability exposure can push employers to *over*-react —
+defensively sidelining anyone accused. The §4 safeguard (documented, non-pretextual
+assessment; review/appeal) must gate the liability-driven response, or the lever becomes
+a weaponization vector. **Honest limit:** these create *employer incentives*, not a
+*direct entitlement* for the person — enforceability is now **partially** answered, not
+fully.
+
 ## 4. Weaponization & liberty flags (for `/liberty-review`)
 
 - **Biased conduct-read.** "This person needs the no-authority role" can be weaponized
@@ -124,16 +155,16 @@ change. Accommodation is containment, not cure. `[NORMATIVE]`
 
 ## Weakest load-bearing element (per `CLAUDE.md` agreement 1)
 
-**Enforceability.** Resolving OBJ-004 by dropping the legal disability hook (§0) has a
-price: without the disability classification there is no legal *duty* to accommodate,
-so the model becomes **voluntary best-practice org design with no teeth** — precisely
-what the seed conceded doesn't exist yet ("no organization has [the] capacity to
-accommodate," L118). The model is honest and non-stigmatizing but currently
-*aspirational*: it tells a willing organization *how* to design roles, but cannot
-compel an unwilling one. Closing this gap (a soft-law hook — insurance, procurement
-standards, sector codes of conduct — short of a diagnosis mandate) is the open
-frontier. Named plainly: doc 05 is a culture-and-design proposal, not yet an
-enforceable entitlement.
+*Updated 2026-07-09 — partially closed.* Resolving OBJ-004 by dropping the disability
+hook (§0) removed the legal *duty* to accommodate. §3a now supplies the missing teeth
+**without a diagnosis** — chiefly **negligent-retention/supervision** liability (existing
+tort: the role-design discharges an employer's existing duty of care; ignoring documented
+conduct exposes them), plus insurance, procurement, and accreditation levers. **What
+remains open:** these create *employer incentives*, not a *direct entitlement* for the
+person — so the person's interest in non-stigmatizing treatment still depends on how well
+the organization executes (gated by §4). The model has moved from "no teeth" to
+"conduct-based incentives, no individual right." That residual — and the risk that
+liability pressure drives *over*-reaction — is the standing weak point.
 
 ## Open questions
 
