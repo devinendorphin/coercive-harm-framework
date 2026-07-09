@@ -280,7 +280,7 @@ letter in practice (OBJ-013). → doc 03 §2/§8/§9, doc 04 §0,
 ## `/steelman` — model offense draft (doc 03 §9), five personas (2026-07-09)
 
 ### OBJ-017 — "This is negligence-based criminal liability for a relationship style."
-**Persona:** defense attorney / civil libertarian. **Status:** `UNRESOLVED`
+**Persona:** defense attorney / civil libertarian. **Status:** `CONCEDED — amended` (steelman-2: criminal tier now requires recklessness, §2(d))
 §2 convicts with **no harm** and **no intent to harm** — only that the actor "ought to
 know" the conduct is "capable of causing serious effect," where the constituent acts
 (monitoring finances, limiting contact) can each be individually lawful. Criminalizing
@@ -335,7 +335,7 @@ the foreseeability nexus is assessed against the *actual* relationship context. 
 §9 §4.
 
 ### OBJ-021 — "The base (no-harm) offense is a dead letter."
-**Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
+**Persona:** prosecutor / practical implementer. **Status:** `CONCEDED — amended` (steelman-2: base offense repositioned civil-only, §8)
 Juries won't convict a "victimless" §2 where the complainant says they're fine;
 prosecutors will always wait for §3 (aggravated, actual harm). The endangerment
 innovation then delivers nothing in practice while adding two-offense complexity,
@@ -383,6 +383,72 @@ be positioned as reaching the *mixed conduct* pattern, not the paradigm words-on
 This clarifies the whole framework's division of labor and should be written back into
 docs 01, 03, 05, 06. Most fixable draft defects: OBJ-018 (burden — amend §4), OBJ-020
 (caregiving exclusion). Deepest: OBJ-023.
+
+---
+
+## `/steelman` — qualified Coercive Endangerment form (doc 03 §9, post-fixes), 2026-07-09
+
+### OBJ-024 — "The both-victims fix made the offense nearly unprovable."
+**Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED` — the fix's cost
+Recasting §4 so the **prosecution must disprove** legitimate-purpose/caregiving/protective-
+response beyond reasonable doubt (the OBJ-018/020 fix) collides with provability: in almost
+any intimate or caregiving relationship the defense can raise a legitimate-purpose
+narrative, and disproving it BRD — for conduct that is a *pattern of individually-lawful
+acts* — may be impossible. The both-victims safeguard and the chargeability requirement
+pull against each other.
+*Best response so far:* this is the honest price of protecting true victims from
+weaponization; it pushes the offense toward **civil-first** (preponderance, where the
+burden is workable) with the criminal tier reserved for the clearest cases. Not resolved —
+it may mean the criminal offense is rarely usable, which is OBJ-021 territory.
+
+### OBJ-025 — "Two occasions is not a 'pattern'."
+**Persona:** defense attorney + empirical psychologist. **Status:** `UNRESOLVED`
+§1(a) defines "course of conduct" as **two or more occasions.** Coercive control is about
+*sustained domination*; two acts is thin — indistinguishable from an ordinary bad
+stretch in a relationship, and it lets the offense reach far more conduct than the
+"pattern" framing implies.
+*Best response so far:* `CONCEDED in principle` — raise the threshold and/or add a
+**duration/persistence** element (sustained over time), tightening §1(a). Enacted
+statutes lean on "repeated"/"continuous"; adopt that register. Amend §1(a).
+
+### OBJ-026 — "A moderate association can't ground 'objectively capable of serious harm'."
+**Persona:** empirical psychologist. **Status:** `UNRESOLVED` — hits the keystone
+The foreseeability nexus (§2(c)) rests on the pattern being "objectively capable of
+causing serious effect." But the evidence is a **moderate** association (coercive control
+↔ PTSD r = .32 — ~10% of variance). A defense expert will say *most* people exposed do
+**not** develop serious disorder, so the conduct is not reliably "harm-capable" — the
+keystone rests on a probabilistic, minority outcome.
+*Best response so far:* the endangerment standard is **risk-elevation, not typical
+outcome** — DUI doesn't usually cause a crash either; the offense punishes *foreseeably
+elevated risk*, and r = .32 is a materially elevated risk. Frame §2(c) explicitly as
+"materially elevates the risk of serious effect," not "usually causes." Defensible but the
+framing must be exact, and it concedes the nexus is *supported, not strong* (evidence-check).
+
+### Resolutions applied to earlier draft objections
+
+- **OBJ-017 (negligence-based liability) — `CONCEDED — amended`.** Graduate the mental
+  state: the **criminal** tier now requires **recklessness** (conscious disregard of the
+  risk), not merely "ought to know"; the objective "ought to know" negligence standard is
+  retained only for the **civil** instrument. → doc 03 §9 (§2(d) amended, §8 grading).
+- **OBJ-021 (base no-harm offense a dead letter) — `CONCEDED — amended`.** The base
+  no-harm offense is repositioned as **civil-only** (protective-order trigger, §8); the
+  **criminal** offense requires recklessness + course of conduct, and the aggravated tier
+  requires actual serious effect (§3). Criminal law no longer carries a "victimless"
+  charge no one would bring. → doc 03 §9 §8.
+
+### Blunt assessment — the qualified form
+
+After steelmanning the *qualified* offense, it **survives — but only as a primarily
+civil instrument.** The three live hits (OBJ-024 unprovability, OBJ-025 thin pattern,
+OBJ-026 moderate-association keystone) all point the same direction: the **criminal**
+version sits on a knife-edge between the both-victims safeguards (which make it hard to
+prove) and a foreseeability keystone that is *supported, not strong.* The honest
+resting place is **civil-first with a narrow, recklessness-gated criminal tier** for the
+gravest mixed-conduct cases. That is a real narrowing of the original ambition — criminal
+coercive-harm law is a *small, hard* tool — but it is the version that survives contact
+with its smartest critics. The single most likely sinker if pushed as a *broad criminal*
+offense is **OBJ-024** (unprovable once the victim-protective burdens are honored); as a
+*civil* offense, it holds.
 
 ## How to use this ledger
 

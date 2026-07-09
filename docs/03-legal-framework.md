@@ -408,16 +408,22 @@ foreseeability nexus (§9.2(c)) is the keystone; do not draft it away.
 > primary instrument for the seed's paradigm words-only case** — that belongs to civil
 > orders, accommodation (doc 05), and therapeutic pathways (doc 06). This offense
 > reaches the **mixed conduct** pattern (surveillance + economic control + degradation).
-> **Applied:** §4 recast as prosecution-disproved with a caregiving/legitimate-purpose
-> exclusion (OBJ-018, OBJ-020, both `CONCEDED`). **Still open:** consider keeping the
-> base no-harm offense **civil-only** (OBJ-021); recklessness vs. "ought to know" for
-> the criminal tier (OBJ-017). Full analysis: doc 08, OBJ-017–023.
+> **Second steelman (qualified form, OBJ-024–026) resting place: the offense survives
+> primarily as a CIVIL instrument, with a narrow, recklessness-gated criminal tier for
+> the gravest mixed-conduct cases.** Applied: §4 prosecution-disproved + caregiving
+> exclusion (OBJ-018/020); §1(a) tightened to sustained/repeated conduct (OBJ-025); §2(c)
+> reframed as *risk-elevation* not typical-outcome (OBJ-026); §2(d) graduated —
+> **recklessness** for criminal, "ought to know" for civil (OBJ-017); base no-harm offense
+> repositioned **civil-only** (OBJ-021). Still live: OBJ-024 (the victim-protective burden
+> may make the *criminal* tier rarely provable — the strongest remaining hit). Full
+> analysis: doc 08, OBJ-017–026.
 
 > **§ 1. Definitions.**
-> (a) **"Course of conduct"** means engaging, on **two or more occasions**, in one or
->     more of the controlling acts enumerated in § 2(a). *(Course-of-conduct
->     requirement — cures propensity/single-incident vagueness; from s.76 / Scotland
->     2018.)*
+> (a) **"Course of conduct"** means **repeated** engagement, **sustained over time**, in
+>     the controlling acts enumerated in § 2(a) — not isolated incidents. *(Course-of-
+>     conduct + persistence — cures propensity/single-incident vagueness AND the "two
+>     occasions isn't a pattern" problem, OBJ-025; register from s.76 "repeated" /
+>     Scotland 2018 "course of behaviour.")*
 > (b) **"Qualifying relationship."** The actor and the person against whom the conduct
 >     is directed are personally connected *or* share a **qualifying household or
 >     interdependence**, established by one or more **objective connection factors**:
@@ -444,16 +450,26 @@ foreseeability nexus (§9.2(c)) is the keystone; do not draft it away.
 >     participation in unlawful acts; **and**
 > (b) the conduct is **directed at a person with whom the actor is in a qualifying
 >     relationship**; **and**
-> (c) the course of conduct is **objectively of a kind that a reasonable person, in
->     possession of the same information as the actor, would know is capable of causing
->     serious effect** — *the foreseeability nexus*; **and**
-> (d) the actor **knows or ought to know** their conduct is of that kind. *(Objective
->     mens rea — s.76's existing "ought to know" limb.)*
+> (c) the course of conduct **materially elevates the risk of serious effect** — i.e., is
+>     objectively of a kind that a reasonable person, with the same information, would know
+>     carries that elevated risk — *the foreseeability nexus*; **and**
+>     *(Framed as risk-elevation, not typical outcome — OBJ-026; the coercive-control→PTSD
+>     association (r ≈ .32) supports materially-elevated risk, as the endangerment standard
+>     requires, without claiming most victims are seriously harmed.)*
+> (d) **mental state (graduated):** for the **criminal** offense, the actor acts
+>     **recklessly** — consciously disregarding that risk (OBJ-017); for the **civil**
+>     instrument (§ 8), the objective **"ought to know"** standard suffices. *(s.76's
+>     "ought to know" limb, reserved to the civil tier.)*
 >
 > *No proof of actual serious effect on the specific person is required for the base
 > offense.* *(This is the endangerment move — it removes the re-traumatization,
 > resilience-penalty, and individual-causation problems, while § 2(c) retains the
 > foreseeable-harm nexus that anchors the speech line and blocks weaponization.)*
+> **Positioning (OBJ-021):** the base no-harm offense runs as the **civil** protective-
+> order trigger (§ 8, preponderance). The **criminal** offense requires recklessness
+> (§ 2(d)) + course of conduct; the **aggravated** criminal offense (§ 3) requires actual
+> serious effect. Criminal law does not carry a "victimless" charge no prosecutor would
+> bring.
 >
 > **§ 3. Aggravated Coercive Endangerment.** Where the course of conduct **actually
 > caused serious effect** (§ 1(d)), the offense is aggravated. The fact of actual
