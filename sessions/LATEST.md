@@ -1,7 +1,10 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-07-09, session `reality-check-steelman-softlaw`.*
+this first (via CLAUDE.md). Last updated: 2026-07-09, session `synthesis`.*
+
+**Read-first: `docs/09-synthesis.md`** — the calibrated whole (what the framework claims
+and delivers after all narrowing). Start there before the numbered workstreams.
 
 ---
 
@@ -19,7 +22,8 @@ this first (via CLAUDE.md). Last updated: 2026-07-09, session `reality-check-ste
 | 05-accommodation-model | ADA framing | ACTIVE — now a *primary* instrument (words-only case) |
 | 06-therapeutic-pathways | self-directed change | ACTIVE — MI operational core; wrong-population gap |
 | 07-civil-liberties-safeguards | anti-weaponization | active — verdict table (6 mechanisms) |
-| 08-objections-and-responses | steelman ledger | 23 objections; sink-risk = OBJ-023/019 (division-of-labor) |
+| 08-objections-and-responses | steelman ledger | 26 objections; criminal-tier provability (OBJ-024) is the live limit |
+| 09-synthesis | read-first capstone | **ACTIVE** — the calibrated whole |
 
 `research/` holds 8 verified files.
 
