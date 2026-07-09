@@ -392,6 +392,17 @@ it exists to make the liberty-review amendments concrete and to give `/steelman`
 real target. Provenance noted per clause. **Not to be cited as settled.** The
 foreseeability nexus (§9.2(c)) is the keystone; do not draft it away.
 
+> **STEELMAN RESULT (2026-07-09) — read before relying on this draft.** The §6 speech
+> anchor means the **purely verbal** abuser escapes this *criminal* offense (OBJ-023),
+> and the foreseeability evidence is strong for *physical* danger but thin for
+> *standalone psychological* harm (OBJ-019). Consequence: **criminal law is not the
+> primary instrument for the seed's paradigm words-only case** — that belongs to civil
+> orders, accommodation (doc 05), and therapeutic pathways (doc 06). This offense
+> reaches the **mixed conduct** pattern (surveillance + economic control + degradation).
+> Also pending: recast §4 as prosecution-disproved not affirmative defense (OBJ-018);
+> add a caregiving/legitimate-purpose exclusion (OBJ-020); consider keeping the base
+> no-harm offense **civil-only** (OBJ-021). Full analysis: doc 08, OBJ-017–023.
+
 > **§ 1. Definitions.**
 > (a) **"Course of conduct"** means engaging, on **two or more occasions**, in one or
 >     more of the controlling acts enumerated in § 2(a). *(Course-of-conduct

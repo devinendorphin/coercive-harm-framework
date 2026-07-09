@@ -263,19 +263,127 @@ seams already flagged in the draft: §1(b) "trust or authority" scope-creep; §2
 letter in practice (OBJ-013). → doc 03 §2/§8/§9, doc 04 §0,
 `research/foreseeability-and-risk-assessment.md`.
 
+---
+
+## `/steelman` — model offense draft (doc 03 §9), five personas (2026-07-09)
+
+### OBJ-017 — "This is negligence-based criminal liability for a relationship style."
+**Persona:** defense attorney / civil libertarian. **Status:** `UNRESOLVED`
+§2 convicts with **no harm** and **no intent to harm** — only that the actor "ought to
+know" the conduct is "capable of causing serious effect," where the constituent acts
+(monitoring finances, limiting contact) can each be individually lawful. Criminalizing
+a course of lawful-ish, speech-inflected conduct on an **objective-negligence** standard,
+absent result or intent, is an overbreadth/due-process problem: you can be convicted for
+conduct you didn't mean to harm anyone with and that harmed no one.
+*Best response so far:* the course-of-conduct + qualifying-relationship + closed-list
+limits cabin it, and negligence liability exists elsewhere (e.g., criminal negligence) —
+but the register here is speech-adjacent, which raises the stakes. Partial; interacts
+with OBJ-023. Possibly require *recklessness* (conscious disregard) rather than
+"ought to know" for the criminal (vs. civil) tier.
+
+### OBJ-018 — "The protective-response defense inverts the presumption of innocence."
+**Persona:** defense attorney / civil libertarian. **Status:** `UNRESOLVED`
+§4 makes "I was the real victim protecting myself" an **affirmative defense** — burden on
+the accused. For a true victim charged by their abuser (the confession-through-accusation
+case), that forces them to *prove their own victimhood*, the exact inversion the
+framework exists to stop.
+*Best response so far:* **concede and amend** — recast the protective-response element as
+one the **prosecution must disprove** beyond reasonable doubt, or fold it into §5's
+predominant-aggressor screen *pre-charge* so a true victim is never charged in the first
+place. Candidate `CONCEDED — amend §4`.
+
+### OBJ-019 — "The risk instruments predict physical violence, not psychological endangerment."
+**Persona:** empirical psychologist. **Status:** `UNRESOLVED` — **serious**
+§2(c)'s foreseeability rests (doc 04 §0) on validated instruments — but the Danger
+Assessment, ODARA, SARA largely predict **physical reassault/homicide** in
+**already-violent** DV populations, weighting physical-violence markers. Using them to
+ground the foreseeability of *serious psychological effect from a non-violent coercive
+pattern* is a bait-and-switch: the base rates for the framework's *central* case
+(words/control, no violence → serious psychological harm) are **not** established at the
+strength the instruments supply for physical harm.
+*Best response so far:* narrow the foreseeability claim to what the evidence actually
+supports (coercive control as a *predictor of physical danger* is strong; as a
+predictor of *standalone psychological injury* it is thinner), and lean on the
+coercive-control→C-PTSD/health literature (Herman; Stark) rather than the lethality
+instruments for the psychological-effect nexus. **This weakens the keystone for the
+purely-psychological case** — see the blunt assessment.
+
+### OBJ-020 — "The enumerated acts criminalize caregiving and disability."
+**Persona:** disability-rights advocate. **Status:** `UNRESOLVED`
+Monitoring, managing finances, restricting activities, managing medical care are exactly
+what a caregiver of a disabled partner does — and rigid routine or intense need read as
+"controlling" can describe neurodivergence. §4 excludes conduct *protecting from abuse*
+but **not legitimate caregiving.**
+*Best response so far:* add a **legitimate-purpose / caregiving exclusion** alongside §4,
+and require the foreseeability nexus be assessed against the *actual* relationship
+context. `CONCEDED — add exclusion`.
+
+### OBJ-021 — "The base (no-harm) offense is a dead letter."
+**Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
+Juries won't convict a "victimless" §2 where the complainant says they're fine;
+prosecutors will always wait for §3 (aggravated, actual harm). The endangerment
+innovation then delivers nothing in practice while adding two-offense complexity,
+predominant-aggressor litigation, and generic-foreseeability jury instructions.
+*Best response so far:* the base offense's real value may be **as the civil-protective-
+order trigger** (§8, preponderance) rather than a criminal charge — i.e., endangerment
+lives *civilly*, aggravation *criminally*. That preserves the reframe's benefit
+(protection without proving harm) exactly where the lower stakes justify it. May
+`CONCEDE` the criminal base offense and keep endangerment civil-only.
+
+### OBJ-022 — "Pre-charge predominant-aggressor screening is unworkable at N>2."
+**Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
+§5 as a *pre-charge* requirement creates a new dismissal battleground and is unfunded;
+in the widened N>2 households (§1a) "who is predominant among four people" may have no
+determinate answer.
+*Best response so far:* cap the widened gate's criminal reach; require corroboration
+beyond cross-accusation; possibly restrict N>2 households to the *civil* track. Ties to
+OBJ-014.
+
+### OBJ-023 — "The speech fix excludes the weaponization of words — the founding case."
+**Persona:** survivor advocate (friendly fire). **Status:** `UNRESOLVED` — **the new sink-risk**
+§6 (no conviction on protected expression alone; must include non-speech acts) means the
+**purely verbal** abuser — whose entire method is words, gaslighting, degradation: the
+"weaponization of words and concepts" that is the seed's founding premise (L16, L24) —
+**escapes**, because there is no non-speech conduct to anchor. The constitutional fix
+protects the framework by **excluding the exact harm it was founded to address.**
+*Best response so far:* honest division of labor — the *criminal* offense reaches the
+**mixed** pattern (surveillance + economic control + degradation); the **pure-words**
+pattern is constitutionally out of criminal reach and must be met by **civil** remedies,
+**accommodation** (doc 05), and **therapeutic** pathways (doc 06). This is coherent but
+it means *criminal law cannot be the primary instrument for the seed's paradigm case* —
+a significant reframing the whole project must absorb, not paper over. → docs 05, 06.
+
+### Blunt assessment — after steelmanning the draft
+
+**The new likeliest-to-sink pairing is OBJ-023 + OBJ-019.** Together they say: the
+framework's *center of gravity* — invisible, words-only, non-violent coercion — is
+exactly where the criminal instrument is weakest, because (a) the First Amendment forces
+the offense to require non-speech conduct (OBJ-023), and (b) the foreseeability evidence
+is strong for *physical* danger but thin for *standalone psychological* harm (OBJ-019).
+The honest consequence is **not** that the framework fails, but that **criminal law is
+the wrong primary tool for the pure-words case** — which belongs to civil orders,
+accommodation (doc 05), and therapeutic pathways (doc 06). The criminal offense should
+be positioned as reaching the *mixed conduct* pattern, not the paradigm words-only one.
+This clarifies the whole framework's division of labor and should be written back into
+docs 01, 03, 05, 06. Most fixable draft defects: OBJ-018 (burden — amend §4), OBJ-020
+(caregiving exclusion). Deepest: OBJ-023.
+
 ## How to use this ledger
 
 - `/steelman <doc>` adds new objections here per persona and updates statuses.
 - An objection is never deleted, only re-statused. `CONCEDED` entries point to the
   amendment that resolved them; the historical record of *why* the framework changed
   is itself valuable.
-- The blunt bottom line, refreshed after each `/steelman`: **after the 2026-07-09
-  steelman of doc 03, the single most likely killer is no longer OBJ-003 (now
-  mitigated) but the OBJ-009/011/015 knot** — the "serious effect on the victim"
-  element is at once the vagueness cure, the conviction bottleneck, a re-traumatization
-  vector, and a penalty on resilient victims; it can neither be removed nor kept
-  as-is. The foreseeability/reasonable-person reframing is the only visible escape and
-  is unproven.
+- The blunt bottom line, refreshed after each `/steelman`: **after steelmanning the §9
+  draft, the likeliest sink-risk is OBJ-023 + OBJ-019** — the framework's center of
+  gravity (invisible, words-only, non-violent coercion) is where the *criminal*
+  instrument is weakest: the First Amendment forces non-speech conduct into the offense
+  (OBJ-023), and the foreseeability evidence is strong for physical danger but thin for
+  standalone psychological harm (OBJ-019). The resolution is not defeat but a **division
+  of labor**: criminal law reaches the *mixed conduct* pattern; the *pure-words* case
+  belongs to civil orders, accommodation (doc 05), and therapeutic pathways (doc 06).
+  (The earlier OBJ-009/011/015 knot is now mitigated with a drafted, liberty-cleared
+  qualified-endangerment form awaiting these fixes.)
 
 ## Research needed
 
