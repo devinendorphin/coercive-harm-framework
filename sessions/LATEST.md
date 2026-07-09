@@ -1,7 +1,7 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-07-09, session `evidence-check`.*
+this first (via CLAUDE.md). Last updated: 2026-07-09, session `reality-check-steelman-softlaw`.*
 
 ---
 
@@ -36,18 +36,32 @@ this first (via CLAUDE.md). Last updated: 2026-07-09, session `evidence-check`.*
    harm is now `[ESTABLISHED]` + cited (2023 meta-analysis). The legal/evidentiary spine
    is on solider empirical ground than the therapeutic one.
 
+## Where the framework landed after this session
+
+The three teed-up frontiers are now addressed, and the honest picture is clearer — and
+more modest — than the seed's ambition:
+- **Criminal coercive-harm law is a small, hard, civil-leaning tool.** The qualified
+  offense survives mainly as a **civil** instrument; the criminal tier is narrow
+  (recklessness + sustained conduct + aggravated harm) and may be rarely provable once
+  victim-protective burdens are honored (**OBJ-024**, the strongest live hit).
+- **The therapeutic workstream is "least-bad and correctly oriented," not effective.**
+  BIP evidence floor is low; doc 06's design (self-directed, MI/ACT) is where the small
+  gains are, but efficacy for the coercive/words-only pattern is unproven.
+- **The accommodation model now has conduct-based teeth** (negligent-retention liability)
+  — incentives, not an individual entitlement.
+
 ## Top 3 priorities for next session
 
-1. **Batterer-intervention-program reality-check (feeds doc 06) — now the top gap.** The
-   closest existing analogue to "treatment for those who harm," with famously mixed
-   results. With the mindfulness mechanism downgraded, doc 06 needs an honest evidence
-   floor more than ever. *Reason: doc 06 is the framework's most exposed workstream and a
-   primary instrument.*
-2. **`/steelman` the qualified-endangerment redraft.** Close the last big legal-draft
-   loop; the knot is drafted + liberty-cleared but not yet steelmanned in its qualified
-   form. *Reason: turns "cleared path" into "tested proposal."*
-3. **Draft doc 05's soft-law enforceability levers** (procurement/insurance/sector
-   codes, no diagnosis). The last big accommodation-model gap. *Endorphin to pick 2 vs 3.*
+1. **A synthesis / executive-summary doc (doc 09 or a rewrite of 01's framing).** The
+   spine is complete, audited, and steelmanned; what's missing is a single honest
+   statement of *what the framework actually claims and delivers* after all the
+   narrowing — criminal law (small/civil-leaning), evidence (foreseeability keystone,
+   moderate), accommodation (incentive-backed), therapy (aspirational). *Reason: the
+   pieces are strong; the framework now needs an honest whole.*
+2. **Resolve the open decisions below** (fraud prong; psychological homicide; §1(b)
+   scope-creep). These are the last un-dispositioned mechanism calls.
+3. **`/liberty-review` the post-steelman §9 redraft** (recklessness tier, civil-first,
+   tightened conduct) — the draft changed materially since its last liberty pass.
 
 ## Open decisions awaiting Endorphin
 
@@ -82,8 +96,20 @@ this first (via CLAUDE.md). Last updated: 2026-07-09, session `evidence-check`.*
 - **S-11.** **Do not let component-validation launder whole-claim assertions.**
   Biderman/DARVO ground taxonomy *components*, not cluster coherence; IFS/mindfulness
   evidence is for *victims*, not the perpetrator population. Keep these tags honest.
-- **S-12 (NEW).** **Mindfulness structural-change is CONTESTED, not established** —
+- **S-12.** **Mindfulness structural-change is CONTESTED, not established** —
   Kral/Davidson 2022 failed to replicate the 8-week findings. Do not reinstate "practice
   builds the brain structures" as fact. Conversely, **coercive control → serious
   psychological harm IS established** (2023 meta-analysis, PTSD r=.32), but the *literal
   physical/bodily injury from words* claim stays `[HYPOTHESIS]`. Keep these two apart.
+- **S-13 (NEW).** **Criminal coercive-harm law is a small, hard, civil-leaning tool.**
+  Post-steelman the qualified offense is **civil-first**; criminal tier = recklessness +
+  sustained conduct + aggravated (actual-harm) tier. Do not re-inflate it into a broad new
+  crime; OBJ-024 (unprovable once victim-protective burdens are honored) is the live limit.
+- **S-14 (NEW).** **Doc 06 is "least-bad and correctly oriented," not "effective."** BIP
+  evidence floor is low (Duluth ≈ 5% over arrest); ACT/MI (self-directed) outperform the
+  imposed Duluth model. Never promise rehabilitation; efficacy for the coercive/words-only
+  pattern is `[HYPOTHESIS]`.
+- **S-15 (NEW).** **Accommodation teeth = negligent-retention/supervision (existing
+  tort), no diagnosis.** Role-design discharges the employer's duty of care; ignoring
+  documented conduct exposes them. Incentive, not individual entitlement. Guard against
+  liability-driven *over*-reaction (§4 safeguard gates it).
