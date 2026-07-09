@@ -61,21 +61,41 @@ do it elsewhere... take on another persona" (L91). Enforcement personnel may
 themselves have "been inflicting that type of [harm] on vulnerable communities for
 decades" (L91), compounding disbelief. `[HYPOTHESIS]`/`[NORMATIVE]`.
 
-## The cross-scale claim
+## The cross-scale claim (bifurcated — see doc 03 §7)
 
 Endorphin insists the pattern "exist[s] not only on the interpersonal level but in
 the community[,] city[,] state[,] regional[,] institutional[,] professional[,]
 governmental[,] international realms" (L36), recurring with near-identical tactics
-"regardless of race[,] ethnicity[,] gender[,] age[,] disability" (L59). His own
-evidence base is autobiographical and cross-strata: a five-person household with
-two abusive partners (L40); an arts organization where a hired "equal" induced
-stress (L40); a Flatbush mental-health agency where newly-empowered leadership of a
-historically marginalized community reproduced the same abuses (L69); and
-geopolitics (L276). `[HYPOTHESIS]` — structurally important and, as the seed itself
-flags, the claim most in need of empirical grounding rather than pattern-matching
-(L177). The Flatbush example is retained deliberately: it establishes that
-power-abuse is not identity-bound, which the framework needs for its own
-anti-discrimination integrity (feeds doc 07).
+"regardless of race[,] ethnicity[,] gender[,] age[,] disability" (L59). His evidence
+base is autobiographical and cross-strata: a five-person household with two abusive
+partners (L40); an arts organization where a hired "equal" induced stress (L40); a
+Flatbush mental-health agency where newly-empowered leadership reproduced the same
+abuses (L69); and geopolitics (L276).
+
+The `/develop 03` session resolved that this claim is **not one claim but two**, and
+they carry very different weight:
+
+- **Bounded form — LOAD-BEARING `[SUPPORTED]`.** The pattern occurs in *domestic*
+  relationships *and* in *workplace/institutional* ones. This is what makes the
+  project a **framework** — a scale-matched portfolio of instruments — rather than a
+  footnote to existing domestic-violence law: enacted coercive-control statutes are
+  *domestic-only*, so the workplace manifestation must be reached by a *different*
+  instrument (ADA/employment — doc 05). Remove this and doc 05 loses its
+  justification and the whole thing collapses into "enforce existing DV law." The
+  household↔workplace span is a structural premise the legal portfolio depends on.
+- **Universalizing form — MOTIVATING VISION, non-load-bearing `[HYPOTHESIS]`.**
+  "Identical tactics at *every* scale up through geopolitics, regardless of all
+  difference, challenging the notion of the unique individual" (L59, L276). No legal
+  mechanism reaches the governmental/international rung as an individual-harm
+  instrument, so it is legally inert; and its universalism is exactly what tempts the
+  framework toward person-typing (doc 07) and what OBJ-007 says will discredit it.
+  Kept as vision, explicitly labeled non-load-bearing; the mechanisms must stand
+  without it.
+
+The Flatbush example is retained deliberately under the *bounded* form: it
+establishes that power-abuse is not identity-bound, which the framework needs for its
+own anti-discrimination integrity (feeds doc 07) — a point that lives at the
+institutional rung, not the geopolitical one.
 
 ## The constraint that shapes everything
 
@@ -117,11 +137,14 @@ Recorded here so later drafts don't quietly inflate scope:
 
 ## Weakest load-bearing element (per `CLAUDE.md` agreement 1)
 
-The cross-scale claim is doing enormous structural work — it is what makes this "a
-framework" rather than "a set of interpersonal-abuse reforms" — while resting almost
-entirely on one person's pattern recognition across his own life. The seed itself
-concedes the empirical base is thin (L177, L191). If the cross-scale universality
-does not survive contact with sociological evidence, the interpersonal and
-workplace pieces still stand on their own; the grand-unified framing does not. The
-first evidence-check should pressure-test whether the framework *needs* the
-cross-scale claim or merely *wants* it.
+*Updated after `/develop 03`.* The seed session flagged "the cross-scale claim" as
+weakest. That has now been **resolved by splitting it**: the framework *needs* the
+bounded household↔workplace span (load-bearing, and adequately supported once the
+accommodation model is grounded) and merely *wants* the geopolitical universalism
+(demoted to vision). So the cross-scale claim is no longer the weakest *load-bearing*
+element — its load-bearing half is defensible and its indefensible half no longer
+bears load.
+
+The new weakest load-bearing element sits in doc 03: the **psychological-homicide
+mechanism** (§3), where the causation wall is doctrinally severe and the framework
+has the strongest incentive to overclaim. See doc 03's weakest-element note.

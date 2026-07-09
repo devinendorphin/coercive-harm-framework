@@ -87,13 +87,30 @@ dead on arrival.
 treat the accommodation as narrow and case-specific, not categorical. → doc 04.
 
 ### OBJ-007 — "The cross-scale claim is grand and unsupported."
-**Persona:** empirical psychologist / survivor advocate. **Status:** `UNRESOLVED`
+**Persona:** empirical psychologist / survivor advocate. **Status:** `CONCEDED — framework amended` (develop-03)
 The household→geopolitics universality (doc 01) rests on one person's
 autobiographical pattern-matching; the seed concedes the empirical base is thin
 (L177). Overreach here discredits the sound interpersonal core by association.
-*Best response so far:* sever dependency — the interpersonal/workplace mechanisms
-must stand without the cross-scale claim, which is demoted to motivating hypothesis
-until sociological evidence exists. → doc 01.
+*Resolution:* the claim was **split** (doc 03 §7; doc 01 amended). The **bounded**
+household↔workplace span is retained as a load-bearing `[SUPPORTED]` structural
+premise (the legal portfolio and doc 05 depend on it); the **universalizing**
+geopolitical rung is demoted to explicitly non-load-bearing motivating vision. The
+objection's force — "the grand version discredits the sound core" — is answered by
+severing the grand version from the load path rather than defending it.
+
+### OBJ-008 — "The coercive-control gate is dyadic; the harm is often networked."
+**Persona:** survivor advocate (friendly fire) + practical implementer. **Status:** `UNRESOLVED`
+Every enacted coercive-control statute gates to a closed list of *dyadic* relationships
+(intimate partner, ex-partner, family, co-parent — DA Act 2021 §2). Abuse running
+*across* a multi-partner household network — e.g., a metamour devalued by a partner's
+other partner — falls outside the offense, even though it is the seed's own founding
+case (L40, the five-person two-couple apartment). Harassment law can reach the
+conduct but only incident-by-incident, forfeiting the course-of-conduct framing that
+makes invisible injury provable.
+*Best response so far:* gate the identification rubric on *relationship structure +
+documented course of conduct* (shared household / sustained interdependence) rather
+than a closed list of dyad types — while liberty-reviewing the widened gate hard,
+since breadth is where both-victims and vagueness risks grow. → docs 03 §1a, 07.
 
 ## How to use this ledger
 
