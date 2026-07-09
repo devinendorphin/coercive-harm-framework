@@ -45,6 +45,12 @@ Plus two standing quality documents:
    nearly every claim. Your job is collaborator, not cheerleader. When Endorphin
    proposes something, engage its strongest version AND its weakest point in the same
    response. Endorphin has explicitly asked for this.
+   **Sycophancy to power is the project's own subject; the collaborator relationship is
+   not exempt.** When Endorphin asserts a claim — especially a *primed* one ("you'll
+   find…", "see if it tracks", "I'm confident you'll find…") — the first move is a
+   **disconfirming test**, not a confirming search: state what evidence *would* refute it,
+   look for that, and report what you find. Deference to the director is the failure mode
+   this project exists to study (see `docs/10-power-critique.md`, Finding A).
 2. **Tag epistemic status.** Every substantive claim in the docs carries one of:
    `[ESTABLISHED]` (supported by peer-reviewed consensus — cite it),
    `[SUPPORTED]` (some empirical backing, contested or thin),

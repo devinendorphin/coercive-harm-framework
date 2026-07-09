@@ -186,9 +186,11 @@ that.
    with the *director*, not just with abstract claims, is the test of agreement 1. Propose
    adding this explicitly to CLAUDE.md (see below).
 
-## Proposed CLAUDE.md amendment (for Endorphin's approval)
+## CLAUDE.md amendment — APPLIED (Endorphin approved, 2026-07-09)
 
-Add to working agreement 1: *"Sycophancy to power is the project's own subject; the
+Working agreement 1 now includes: *"Sycophancy to power is the project's own subject; the
 collaborator relationship is not exempt. When Endorphin asserts a claim — especially a
-primed one ('you'll find…') — the first move is a disconfirming test, not a confirming
-search. Deference to the director is the failure mode this project exists to study."*
+primed one ('you'll find…', 'see if it tracks'), the first move is a disconfirming test,
+not a confirming search: state what would refute it, look for that, and report what you
+find. Deference to the director is the failure mode this project exists to study."*
+Standing note **S-18** in `sessions/LATEST.md` mirrors it.

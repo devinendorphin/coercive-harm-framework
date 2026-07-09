@@ -1,10 +1,11 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-07-09, session `synthesis`.*
+this first (via CLAUDE.md). Last updated: 2026-07-09, session `power-audit`.*
 
-**Read-first: `docs/09-synthesis.md`** — the calibrated whole (what the framework claims
-and delivers after all narrowing). Start there before the numbered workstreams.
+**Read-first: `docs/09-synthesis.md`** (calibrated whole) then **`docs/10-power-critique.md`**
+(the framework audited for sycophancy to power — the sharpest self-critique, incl. the
+apex-power gap and the power-vector). Start there before the numbered workstreams.
 
 ---
 
@@ -23,7 +24,8 @@ and delivers after all narrowing). Start there before the numbered workstreams.
 | 06-therapeutic-pathways | self-directed change | ACTIVE — MI operational core; wrong-population gap |
 | 07-civil-liberties-safeguards | anti-weaponization | active — verdict table (6 mechanisms) |
 | 08-objections-and-responses | steelman ledger | 26 objections; criminal-tier provability (OBJ-024) is the live limit |
-| 09-synthesis | read-first capstone | **ACTIVE** — the calibrated whole |
+| 09-synthesis | read-first capstone | ACTIVE — the calibrated whole |
+| 10-power-critique | sycophancy-to-power audit | **ACTIVE** — Findings A–F; apex-power gap; the power vector |
 
 `research/` holds 8 verified files.
 
@@ -56,16 +58,17 @@ more modest — than the seed's ambition:
 
 ## Top 3 priorities for next session
 
-1. **A synthesis / executive-summary doc (doc 09 or a rewrite of 01's framing).** The
-   spine is complete, audited, and steelmanned; what's missing is a single honest
-   statement of *what the framework actually claims and delivers* after all the
-   narrowing — criminal law (small/civil-leaning), evidence (foreseeability keystone,
-   moderate), accommodation (incentive-backed), therapy (aspirational). *Reason: the
-   pieces are strong; the framework now needs an honest whole.*
-2. **Resolve the open decisions below** (fraud prong; psychological homicide; §1(b)
-   scope-creep). These are the last un-dispositioned mechanism calls.
-3. **`/liberty-review` the post-steelman §9 redraft** (recklessness tier, civil-first,
-   tightened conduct) — the draft changed materially since its last liberty pass.
+1. **The apex-power workstream (OBJ-027) — now the framework's #1 gap.** The power audit
+   showed the framework reaches subordinate-scale coercion and is silent where power
+   protects itself. Candidates: fiduciary/duty-of-care liability reaching the top;
+   independent (non-prosecutorial) review; apex coercion under governance/anti-corruption
+   regimes. *Reason: this is the deepest unfinished business; the framework's own
+   cross-scale thesis is unmet without it.*
+2. **`/develop` the power-vector into the taxonomy + offense more fully** (restorative
+   track for the *lateral* case; the independent-review body for the residual). *Reason:
+   Finding F reshaped the foundation; the vector needs its restorative half built.*
+3. **Resolve the open mechanism decisions** (fraud prong; psychological homicide; §1(b)
+   scope-creep) — the last un-dispositioned calls.
 
 ## Open decisions awaiting Endorphin
 
@@ -113,7 +116,19 @@ more modest — than the seed's ambition:
   evidence floor is low (Duluth ≈ 5% over arrest); ACT/MI (self-directed) outperform the
   imposed Duluth model. Never promise rehabilitation; efficacy for the coercive/words-only
   pattern is `[HYPOTHESIS]`.
-- **S-15 (NEW).** **Accommodation teeth = negligent-retention/supervision (existing
-  tort), no diagnosis.** Role-design discharges the employer's duty of care; ignoring
-  documented conduct exposes them. Incentive, not individual entitlement. Guard against
+- **S-15.** **Accommodation teeth = negligent-retention/supervision (existing tort), no
+  diagnosis.** Role-design discharges the employer's duty of care; ignoring documented
+  conduct exposes them. Incentive, not individual entitlement. Guard against
   liability-driven *over*-reaction (§4 safeguard gates it).
+- **S-16 (NEW).** **Behavior-not-people is necessary but NOT sufficient — pair it with the
+  power vector** (up=resistance / lateral=displaced / down=core harm; doc 02, doc 10
+  Finding F). Read the vector from *relationship-specific objective indicators*, NEVER
+  group identity. Without it the framework "enforces the wound" — disciplines displaced
+  lateral violence while apex power goes free.
+- **S-17 (NEW).** **The apex-power gap (OBJ-027) is the framework's most important
+  unfinished business.** It reaches subordinate-scale coercion and is silent at the apex.
+  Do not let the synthesis (doc 09) imply otherwise.
+- **S-18 (NEW, process).** **Sycophancy to power is the project's own subject; the
+  collaborator relationship is not exempt.** On a *primed* assertion from Endorphin
+  ("you'll find…"), the first move is a **disconfirming test**, not a confirming search.
+  Now encoded in CLAUDE.md agreement 1.
