@@ -72,30 +72,40 @@ partners (L40); an arts organization where a hired "equal" induced stress (L40);
 Flatbush mental-health agency where newly-empowered leadership reproduced the same
 abuses (L69); and geopolitics (L276).
 
-The `/develop 03` session resolved that this claim is **not one claim but two**, and
-they carry very different weight:
+The `/develop 03` session resolved that this claim is **several claims at once**,
+carrying different weight (an initial pass demoted the geopolitical rung; the
+coercion-continuity research **reversed that** — see doc 03 §7 and
+`research/coercion-continuity-across-scale.md`):
 
-- **Bounded form — LOAD-BEARING `[SUPPORTED]`.** The pattern occurs in *domestic*
-  relationships *and* in *workplace/institutional* ones. This is what makes the
-  project a **framework** — a scale-matched portfolio of instruments — rather than a
-  footnote to existing domestic-violence law: enacted coercive-control statutes are
-  *domestic-only*, so the workplace manifestation must be reached by a *different*
-  instrument (ADA/employment — doc 05). Remove this and doc 05 loses its
-  justification and the whole thing collapses into "enforce existing DV law." The
-  household↔workplace span is a structural premise the legal portfolio depends on.
-- **Universalizing form — MOTIVATING VISION, non-load-bearing `[HYPOTHESIS]`.**
-  "Identical tactics at *every* scale up through geopolitics, regardless of all
-  difference, challenging the notion of the unique individual" (L59, L276). No legal
-  mechanism reaches the governmental/international rung as an individual-harm
-  instrument, so it is legally inert; and its universalism is exactly what tempts the
-  framework toward person-typing (doc 07) and what OBJ-007 says will discredit it.
-  Kept as vision, explicitly labeled non-load-bearing; the mechanisms must stand
-  without it.
+- **Bounded form (household↔workplace) — LOAD-BEARING for the mechanisms
+  `[SUPPORTED]`.** The pattern occurs in *domestic* relationships *and* in
+  *workplace/institutional* ones. This is what makes the project a **framework** — a
+  scale-matched portfolio of instruments — rather than a footnote to existing DV law:
+  enacted coercive-control statutes are *domestic-only*, so the workplace
+  manifestation must be reached by a *different* instrument (ADA/employment — doc 05).
+- **Geopolitical rung, mechanism-homology — LOAD-BEARING for the veracity
+  `[ESTABLISHED]`.** Authoritarian/fascist power deploys the *same coercion
+  mechanisms* as interpersonal abuse. **Biderman's Chart of Coercion** (POW torture →
+  Amnesty's "universal tools of coercion" → transferred to domestic violence by
+  Stark et al.) and **Herman's *Trauma and Recovery: From Domestic Abuse to Political
+  Terror*** independently validated this continuity decades ago. Far from ornamental,
+  this is corroborating evidence — and it answers OBJ-001 (the pattern is not one
+  person's projection if Amnesty and Herman mapped the same taxonomy across scales).
+  It generates no chargeable state-scale instrument, but veracity ≠ mechanism.
+- **Geopolitical rung, causal continuity — `[SUPPORTED]`.** Interpersonal coercive
+  violence predicts/feeds mass and political violence (~60% of mass shooters have DV
+  histories; misogyny the clearest cross-ideology predictor).
+- **Strict reductive identity ("fascism is *nothing but* abuse scaled up") —
+  OVERCLAIM `[HYPOTHESIS]`, not asserted.** Fascism also has structural, economic,
+  and mobilizational dimensions. Claim the mechanism and the continuity, not the
+  reduction.
+- **Hazard to police (doc 07):** safe *forward* (political power uses
+  interpersonally-documented tactics); dangerous *backward* (individuals showing the
+  tactics are proto-fascists / a *type*). Keep the arrow mechanism→scale.
 
-The Flatbush example is retained deliberately under the *bounded* form: it
-establishes that power-abuse is not identity-bound, which the framework needs for its
-own anti-discrimination integrity (feeds doc 07) — a point that lives at the
-institutional rung, not the geopolitical one.
+The Flatbush example is retained deliberately: it establishes that power-abuse is not
+identity-bound, which the framework needs for its own anti-discrimination integrity
+(feeds doc 07).
 
 ## The constraint that shapes everything
 
@@ -137,14 +147,13 @@ Recorded here so later drafts don't quietly inflate scope:
 
 ## Weakest load-bearing element (per `CLAUDE.md` agreement 1)
 
-*Updated after `/develop 03`.* The seed session flagged "the cross-scale claim" as
-weakest. That has now been **resolved by splitting it**: the framework *needs* the
-bounded household↔workplace span (load-bearing, and adequately supported once the
-accommodation model is grounded) and merely *wants* the geopolitical universalism
-(demoted to vision). So the cross-scale claim is no longer the weakest *load-bearing*
-element — its load-bearing half is defensible and its indefensible half no longer
-bears load.
+*Updated after `/develop 03` (twice).* The seed session flagged "the cross-scale
+claim" as weakest. Research **strengthened** it rather than the reverse: the
+mechanism-homology across scales is `[ESTABLISHED]` (Biderman/Amnesty/Stark; Herman),
+so the cross-scale claim is now one of the framework's better-*supported* premises,
+not its weakest — provided it is stated as *mechanism/tactic* continuity and never
+run backward into political-identity typing (doc 07).
 
-The new weakest load-bearing element sits in doc 03: the **psychological-homicide
+The weakest load-bearing element now sits in doc 03: the **psychological-homicide
 mechanism** (§3), where the causation wall is doctrinally severe and the framework
 has the strongest incentive to overclaim. See doc 03's weakest-element note.

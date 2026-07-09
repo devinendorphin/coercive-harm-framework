@@ -167,34 +167,56 @@ around the couple, not the household. [the framework's own seed case is uncovere
 
 ## 7. Resolution: is the cross-scale claim load-bearing? (the session's assigned question)
 
-**Answer: it bifurcates. The bounded form is load-bearing; the universalizing form
-is severable and should be severed.**
+**Answer (revised after the coercion-continuity research): the claim is load-bearing
+in three of its four readings. Only strict reductive identity is overclaim. My
+first-pass "demote the geopolitical rung to ornament" was wrong and is retracted.**
 
-- **Bounded two-rung claim — LOAD-BEARING `[SUPPORTED]`.** "The same conduct pattern
-  occurs in *domestic* relationships *and* in *workplace/institutional* ones." This
-  is what makes the framework a **portfolio** (§1) rather than a footnote to existing
-  domestic-violence law. The law compels the split: criminal/civil coercive-control
-  instruments are *domestic-only* by statute, so the workplace manifestation *must*
-  be reached by a *different* instrument (ADA/employment — doc 05). Remove this claim
-  and doc 05 loses its entire justification and the framework collapses to "enforce
-  existing DV law." Endorphin's instinct that it is load-bearing is **correct in this
-  form.**
+Two distinctions have to be kept apart, because I conflated them on the first pass:
+*load-bearing for the legal **mechanisms*** vs. *load-bearing for the framework's
+**veracity/thesis***. A rung can generate no statute and still be central evidence.
 
-- **Strong universalizing claim — ORNAMENTAL and hazardous `[HYPOTHESIS]`.**
-  "Identical tactics at *every* scale up through geopolitics, regardless of
-  race/gender/age/disability, challenging the notion of the unique individual"
-  (L59). No legal mechanism reaches the governmental/international rung as an
-  individual-harm instrument; it is legally inert. And its universalism ("the same,
-  regardless of all difference") is exactly the pressure that tempts the framework
-  toward naming a *type/trait* — the person-typing doc 07 forbids — and is what
-  OBJ-007 says will discredit the project.
+- **Bounded two-rung claim (household↔workplace) — LOAD-BEARING for the mechanisms
+  `[SUPPORTED]`.** Enacted coercive-control law is *domestic-only* by statute, so the
+  workplace manifestation must be reached by a *different* instrument (ADA/employment
+  — doc 05). Remove this and doc 05 loses its justification and the framework
+  collapses to "enforce existing DV law." Endorphin's instinct is correct.
 
-- **What to do:** In doc 01, demote the geopolitical/universal rung from structural
-  premise to **motivating vision**, explicitly labeled non-load-bearing, and promote
-  the **household↔workplace** span to a `[SUPPORTED]` structural premise that the
-  legal portfolio depends on. This *strengthens* the framework: it keeps the rung the
-  mechanisms actually stand on and sheds the rung that only draws fire. (Action item
-  logged to doc 01 and OBJ-007.)
+- **Geopolitical rung, mechanism-homology reading — LOAD-BEARING for the veracity
+  `[ESTABLISHED]`.** "Authoritarian/fascist power deploys the *same coercion
+  mechanisms* as interpersonal abuse, at scale." This is **not** motivating fluff —
+  it is corroborating evidence, and some of the framework's *best*. **Biderman's
+  Chart of Coercion** (POW torture → Amnesty's "universal tools of coercion" →
+  transferred to domestic violence by Stark et al.) and **Herman's *Trauma and
+  Recovery: From Domestic Abuse to Political Terror*** independently validated the
+  cross-scale continuity of the tactics decades ago. This directly answers OBJ-001
+  (confirmation bias): the pattern isn't one man's projection if Amnesty and Herman
+  mapped the same taxonomy across scales. It produces **no chargeable instrument at
+  state scale** — that part of my first call stands — but veracity ≠ mechanism.
+  (See `research/coercion-continuity-across-scale.md`.)
+
+- **Geopolitical rung, causal-continuity reading — SUPPORTED `[SUPPORTED]`.**
+  Interpersonal coercive violence *predicts and feeds* mass/political violence: ~60%
+  of mass shooters have DV histories; ~59% of 2014–2019 mass shootings were
+  DV-related; misogyny is the clearest cross-ideology predictor. Empirical bridge,
+  interpersonal → political.
+
+- **Strict reductive-identity reading — OVERCLAIM, do not assert `[HYPOTHESIS]`.**
+  "Fascism is *nothing but* interpersonal abuse scaled up." Fascism also has
+  structural-economic, bureaucratic, and mass-mobilization dimensions not reducible
+  to a bad partner writ large. Claim the *mechanism* and the *continuity*, not the
+  *reduction*.
+
+- **The one hazard to police (doc 07):** the claim is safe **forward** (political
+  power uses interpersonally-documented tactics) and dangerous **backward**
+  (individuals showing these tactics are proto-fascists / a *type*). The reverse
+  inference is the person-typing docs 02/07 forbid. Keep the arrow pointing
+  mechanism→scale, never individual→political-identity. The literature helps: it is
+  all about tactics and structures, not personality types.
+
+- **What to do:** In doc 01, *keep* the geopolitical rung, re-tagged: mechanism-
+  homology `[ESTABLISHED]` + causal-continuity `[SUPPORTED]`, evidentially
+  load-bearing, with only the reductive reading flagged as overclaim. (Action item
+  logged to doc 01 and OBJ-007 — reversing the earlier demotion.)
 
 ---
 

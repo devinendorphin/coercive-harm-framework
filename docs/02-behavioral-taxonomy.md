@@ -26,6 +26,29 @@ Each is a conduct pattern, tagged; definitions live in doc 00.
    coercive-control tactic).
 7. **Deceptive-atmosphere construction** (ambient reality-bending) — `[HYPOTHESIS]`.
 
+### External grounding: Biderman's Chart of Coercion `[ESTABLISHED]`
+
+The seed-derived list above is not purely internal pattern-matching. **Biderman's
+Chart of Coercion** (1957) enumerates eight coercion methods — isolation,
+monopolization of perception, humiliation/degradation, exhaustion, threats,
+occasional indulgences, demonstrating omnipotence, enforcing trivial demands —
+derived from POW torture, endorsed by Amnesty International (1973) as "the universal
+tools of torture and coercion," and transferred to domestic violence by Stark et al.
+Several map directly onto the seed's terms:
+
+| Biderman method | Seed taxonomy term |
+|---|---|
+| Isolation | "separate you from family and friends" (L16); isolation of target |
+| Monopolization of perception | deceptive-atmosphere construction (L59) |
+| Demonstrating omnipotence + enforcing trivial demands | seeds of chaos (L80) |
+| Humiliation / degradation | performed empathy inverting into devaluation |
+| Threats + occasional indulgences | early "you feel seen" → later weaponization (L16) |
+
+This gives the taxonomy validated external scaffolding and is the standing partial
+answer to OBJ-001 (confirmation bias). It does **not** yet supply a measurable
+instrument — that remains the central open question. See
+`research/coercion-continuity-across-scale.md`.
+
 ## Relevant passages from the seed
 
 - **Weaponization premise** (~L16): the difficult personality who early on "makes

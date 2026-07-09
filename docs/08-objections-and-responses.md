@@ -33,10 +33,15 @@ The "clusters of behaviors" may be a composite assembled from separate people an
 situations, retro-fitted into a pattern. Where is the validated instrument, the base
 rate, the falsification criterion? Absent these, the taxonomy (doc 02) risks
 codifying pattern-projection.
-*Best response so far:* none adequate — the framework currently has no validated
-instrument. Candidate path: map onto already-validated coercive-control constructs
-(Stark; Duluth) rather than assert a novel cluster. Flagged as doc 02's central open
-question. → doc 02.
+*Best response so far:* partial. The framework still has no *validated instrument*,
+but the taxonomy is no longer purely internal pattern-matching: **Biderman's Chart of
+Coercion** (eight coercion methods, validated across POW-torture and domestic-abuse
+contexts, endorsed by Amnesty) supplies external grounding, and its eight methods map
+onto the seed-derived taxonomy (doc 02). Remaining candidate path: map fully onto
+already-validated constructs (Biderman; Stark; Duluth) rather than assert a novel
+cluster, and develop a measurable instrument. Downgraded from "no adequate response"
+to "partially grounded, instrument still missing." → doc 02,
+`research/coercion-continuity-across-scale.md`.
 
 ### OBJ-002 — "The mPFC hypothesis is both unfalsifiable and stigmatizing."
 **Persona:** empirical psychologist + disability-rights advocate. **Status:** `UNRESOLVED`
@@ -87,16 +92,24 @@ dead on arrival.
 treat the accommodation as narrow and case-specific, not categorical. → doc 04.
 
 ### OBJ-007 — "The cross-scale claim is grand and unsupported."
-**Persona:** empirical psychologist / survivor advocate. **Status:** `CONCEDED — framework amended` (develop-03)
-The household→geopolitics universality (doc 01) rests on one person's
-autobiographical pattern-matching; the seed concedes the empirical base is thin
-(L177). Overreach here discredits the sound interpersonal core by association.
-*Resolution:* the claim was **split** (doc 03 §7; doc 01 amended). The **bounded**
-household↔workplace span is retained as a load-bearing `[SUPPORTED]` structural
-premise (the legal portfolio and doc 05 depend on it); the **universalizing**
-geopolitical rung is demoted to explicitly non-load-bearing motivating vision. The
-objection's force — "the grand version discredits the sound core" — is answered by
-severing the grand version from the load path rather than defending it.
+**Persona:** empirical psychologist / survivor advocate. **Status:** `RESOLVED — objection does not hold` (develop-03, revised)
+The household→geopolitics universality (doc 01) was thought to rest on one person's
+autobiographical pattern-matching (seed concedes thin base, L177).
+*Resolution (revised — an earlier pass wrongly "conceded" this by demoting the
+geopolitical rung; the research reversed that):* the cross-scale continuity is
+**independently established scholarship**, not projection. **Biderman's Chart of
+Coercion** (POW torture → Amnesty's "universal tools of coercion" → transferred to
+domestic violence by Stark et al.) and **Herman's *Trauma and Recovery: From Domestic
+Abuse to Political Terror*** mapped the *same coercion taxonomy* across interpersonal
+and political scales decades ago; the DV→mass-violence literature supplies the causal
+bridge. The objection is answered on the merits: the pattern is real and
+scale-invariant *as mechanism*. Two residual limits are kept honest — (i) it produces
+no chargeable state-scale instrument (veracity ≠ legal mechanism), and (ii) the strict
+"fascism = nothing but abuse scaled up" reduction is not asserted. → doc 03 §7,
+`research/coercion-continuity-across-scale.md`.
+**Cross-note:** this evidence *also partially answers OBJ-001* — the taxonomy has
+external, validated grounding (Biderman's eight methods), not just internal
+pattern-matching.
 
 ### OBJ-008 — "The coercive-control gate is dyadic; the harm is often networked."
 **Persona:** survivor advocate (friendly fire) + practical implementer. **Status:** `UNRESOLVED`
