@@ -399,9 +399,10 @@ foreseeability nexus (§9.2(c)) is the keystone; do not draft it away.
 > primary instrument for the seed's paradigm words-only case** — that belongs to civil
 > orders, accommodation (doc 05), and therapeutic pathways (doc 06). This offense
 > reaches the **mixed conduct** pattern (surveillance + economic control + degradation).
-> Also pending: recast §4 as prosecution-disproved not affirmative defense (OBJ-018);
-> add a caregiving/legitimate-purpose exclusion (OBJ-020); consider keeping the base
-> no-harm offense **civil-only** (OBJ-021). Full analysis: doc 08, OBJ-017–023.
+> **Applied:** §4 recast as prosecution-disproved with a caregiving/legitimate-purpose
+> exclusion (OBJ-018, OBJ-020, both `CONCEDED`). **Still open:** consider keeping the
+> base no-harm offense **civil-only** (OBJ-021); recklessness vs. "ought to know" for
+> the criminal tier (OBJ-017). Full analysis: doc 08, OBJ-017–023.
 
 > **§ 1. Definitions.**
 > (a) **"Course of conduct"** means engaging, on **two or more occasions**, in one or
@@ -452,11 +453,18 @@ foreseeability nexus (§9.2(c)) is the keystone; do not draft it away.
 > that raises the penalty ceiling gets full jury/BRD proof; actual harm cannot enter
 > as a low-standard sentencing factor.)*
 >
-> **§ 4. Protective-response exclusion (affirmative defense).** It is a defense that the
-> conduct was a **reasonable response to protect the actor or another from the other
-> party's abuse** (e.g., limiting contact, documenting, restricting shared finances to
-> prevent exploitation). *(Blocks the confession-through-accusation inversion — a false
-> accuser re-characterizing a victim's protective acts. Both-victims lens.)*
+> **§ 4. Legitimate-purpose and protective-response (prosecution must disprove).** No
+> offense is committed where the course of conduct was (i) a **reasonable response to
+> protect the actor or another from the other party's abuse** (e.g., limiting contact,
+> documenting, restricting shared finances to prevent exploitation), or (ii) **conduct
+> undertaken for a legitimate purpose**, including good-faith **caregiving** or the
+> lawful management of shared responsibilities. Where the issue is raised by the
+> evidence, the **prosecution bears the burden of disproving** it beyond a reasonable
+> doubt. *(Amended per OBJ-018 — burden on the state, not the accused, so a true victim
+> charged by their abuser need not prove their own victimhood; and per OBJ-020 —
+> caregiving/legitimate-purpose exclusion so the offense does not criminalize a
+> caregiver managing a disabled partner's finances or medical care. Both-victims +
+> disability-rights lenses.)*
 >
 > **§ 5. Predominant-aggressor determination.** Before charging, where cross-allegations
 > exist, the prosecuting authority shall make a **predominant-aggressor determination**

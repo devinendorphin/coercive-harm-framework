@@ -87,15 +87,19 @@ element, not an unresolved contradiction. → doc 05 §0/§4,
 `research/ada-accommodation-architecture.md`.
 
 ### OBJ-005 — "A self-directed-only cure gives policy nothing to do."
-**Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
+**Persona:** prosecutor / practical implementer. **Status:** `MITIGATED` (develop-06)
 If change must be self-originated (doc 06), the therapeutic workstream cannot be
 mandated, funded into being, or measured — so what, operationally, is the policy
 deliverable? The framework may be describing a private transformation and calling it
 a program.
-*Best response so far:* reframe policy's role as condition-creation (removing
-leverage, protecting others, leaving a door open) rather than treatment delivery;
-be explicit that the framework does not promise rehabilitation on demand. → docs
-05, 06.
+*Response (develop-06):* **Motivational Interviewing** is the operational deliverable
+the seed lacked (doc 06 §2). It is the evidence-based method for eliciting
+*self-directed* change in low-insight/resistant people (developed in addiction) — so
+policy *can* train the stance, fund access, and create conditions, honoring
+self-arrival without imposing treatment. Condition-creation (doc 05 role design) is the
+other half. **Not fully resolved:** MI's evidence is addiction/health, not the
+coercive-pattern population — the deliverable exists, its efficacy *for this population*
+does not yet (doc 06's weakest element). → docs 05, 06.
 
 ### OBJ-006 — "Victim-protective procedure guts the Confrontation Clause."
 **Persona:** defense attorney. **Status:** `UNRESOLVED`
@@ -287,10 +291,9 @@ with OBJ-023. Possibly require *recklessness* (conscious disregard) rather than
 the accused. For a true victim charged by their abuser (the confession-through-accusation
 case), that forces them to *prove their own victimhood*, the exact inversion the
 framework exists to stop.
-*Best response so far:* **concede and amend** — recast the protective-response element as
-one the **prosecution must disprove** beyond reasonable doubt, or fold it into §5's
-predominant-aggressor screen *pre-charge* so a true victim is never charged in the first
-place. Candidate `CONCEDED — amend §4`.
+*Resolution:* `CONCEDED — framework amended`. §4 recast so the **prosecution must
+disprove** the protective-response beyond reasonable doubt (no longer an affirmative
+defense on the accused). → doc 03 §9 §4.
 
 ### OBJ-019 — "The risk instruments predict physical violence, not psychological endangerment."
 **Persona:** empirical psychologist. **Status:** `UNRESOLVED` — **serious**
@@ -314,9 +317,10 @@ Monitoring, managing finances, restricting activities, managing medical care are
 what a caregiver of a disabled partner does — and rigid routine or intense need read as
 "controlling" can describe neurodivergence. §4 excludes conduct *protecting from abuse*
 but **not legitimate caregiving.**
-*Best response so far:* add a **legitimate-purpose / caregiving exclusion** alongside §4,
-and require the foreseeability nexus be assessed against the *actual* relationship
-context. `CONCEDED — add exclusion`.
+*Resolution:* `CONCEDED — framework amended`. §4 now includes a **legitimate-purpose /
+good-faith caregiving** exclusion the prosecution must disprove. Residual: monitor that
+the foreseeability nexus is assessed against the *actual* relationship context. → doc 03
+§9 §4.
 
 ### OBJ-021 — "The base (no-harm) offense is a dead letter."
 **Persona:** prosecutor / practical implementer. **Status:** `UNRESOLVED`
