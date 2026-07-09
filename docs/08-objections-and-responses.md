@@ -256,8 +256,11 @@ re-traumatization, resilience-penalty, and individual-causation horns while keep
 element that anchors speech and blocks weaponization. **The foreseeability nexus is now
 the keystone.** Residual: broadened liability needs predominant-aggressor +
 protective-response safeguards; harm-aggravator bound by *Apprendi*; instruments used
-generically only (*Loomis*). Still `UNRESOLVED` as a *proven* fix — needs drafting +
-`/steelman` of the qualified form. → doc 03 §2/§8, doc 04 §0,
+generically only (*Loomis*). Still `UNRESOLVED` as a *proven* fix — the qualified form is now **drafted**
+(doc 03 §9, model "Coercive Endangerment" offense) and awaits `/steelman`. Known open
+seams already flagged in the draft: §1(b) "trust or authority" scope-creep; §2(a)
+"erode autonomy" residual vagueness; whether the base (no-harm) offense is a dead
+letter in practice (OBJ-013). → doc 03 §2/§8/§9, doc 04 §0,
 `research/foreseeability-and-risk-assessment.md`.
 
 ## How to use this ledger

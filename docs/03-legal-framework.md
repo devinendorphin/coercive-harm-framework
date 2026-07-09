@@ -385,6 +385,115 @@ required amendments, which is the correct posture for a framework this dangerous
 
 ---
 
+## 9. Model offense text — Coercive Endangerment (FIRST DRAFT, `NEEDS-STEELMAN`)
+
+`[NORMATIVE]` throughout. This is illustrative model language, not a finished bill —
+it exists to make the liberty-review amendments concrete and to give `/steelman` a
+real target. Provenance noted per clause. **Not to be cited as settled.** The
+foreseeability nexus (§9.2(c)) is the keystone; do not draft it away.
+
+> **§ 1. Definitions.**
+> (a) **"Course of conduct"** means engaging, on **two or more occasions**, in one or
+>     more of the controlling acts enumerated in § 2(a). *(Course-of-conduct
+>     requirement — cures propensity/single-incident vagueness; from s.76 / Scotland
+>     2018.)*
+> (b) **"Qualifying relationship."** The actor and the person against whom the conduct
+>     is directed are personally connected *or* share a **qualifying household or
+>     interdependence**, established by one or more **objective connection factors**:
+>     shared residence; shared finances or economic dependence; shared caregiving or
+>     parenting responsibility; or a sustained relationship of trust or authority of
+>     defined duration. *(Widened, objective gate — §1a; extends DA Act 2021 §2 to
+>     networked/metamour households without an open-ended "interdependence" standard.)*
+> (c) **"Controlling act"** means an act within the enumerated list in § 2(a); the list
+>     is **closed** (no residual "similar acts" catch-all). *(Vagueness discipline —
+>     Hawaii enumeration model.)*
+> (d) **"Serious effect"** means (i) causing the person to fear, on two or more
+>     occasions, that violence will be used against them, or (ii) causing serious
+>     alarm or distress that has a substantial adverse effect on their day-to-day
+>     activities. *(From s.76; used here to define the aggravator in § 3, not the base
+>     element.)*
+>
+> **§ 2. Offense — Coercive Endangerment (base offense).** A person commits coercive
+> endangerment when:
+> (a) they engage in a **course of conduct** comprising controlling acts, which may
+>     include: isolating a person from sources of support; monitoring or surveilling
+>     their movements, communications, or finances; controlling or restricting access
+>     to money, employment, food, or medical care; repeated degradation intended to
+>     erode autonomy; threats (as defined in existing threat law); or compelling
+>     participation in unlawful acts; **and**
+> (b) the conduct is **directed at a person with whom the actor is in a qualifying
+>     relationship**; **and**
+> (c) the course of conduct is **objectively of a kind that a reasonable person, in
+>     possession of the same information as the actor, would know is capable of causing
+>     serious effect** — *the foreseeability nexus*; **and**
+> (d) the actor **knows or ought to know** their conduct is of that kind. *(Objective
+>     mens rea — s.76's existing "ought to know" limb.)*
+>
+> *No proof of actual serious effect on the specific person is required for the base
+> offense.* *(This is the endangerment move — it removes the re-traumatization,
+> resilience-penalty, and individual-causation problems, while § 2(c) retains the
+> foreseeable-harm nexus that anchors the speech line and blocks weaponization.)*
+>
+> **§ 3. Aggravated Coercive Endangerment.** Where the course of conduct **actually
+> caused serious effect** (§ 1(d)), the offense is aggravated. The fact of actual
+> serious effect is an **element of the aggravated offense**, tried to the finder of
+> fact and proven **beyond a reasonable doubt.** *(Apprendi v. New Jersey — a fact
+> that raises the penalty ceiling gets full jury/BRD proof; actual harm cannot enter
+> as a low-standard sentencing factor.)*
+>
+> **§ 4. Protective-response exclusion (affirmative defense).** It is a defense that the
+> conduct was a **reasonable response to protect the actor or another from the other
+> party's abuse** (e.g., limiting contact, documenting, restricting shared finances to
+> prevent exploitation). *(Blocks the confession-through-accusation inversion — a false
+> accuser re-characterizing a victim's protective acts. Both-victims lens.)*
+>
+> **§ 5. Predominant-aggressor determination.** Before charging, where cross-allegations
+> exist, the prosecuting authority shall make a **predominant-aggressor determination**
+> considering the history, context, relative fear, and injury of the parties; the offense
+> may not be charged against a person determined to be the predominant victim. *(DV
+> primary-aggressor safeguard — mitigates misidentification, esp. in N>2 households.)*
+>
+> **§ 6. Speech limitation (rule of construction).** No person may be convicted on the
+> basis of **protected expression alone.** The course of conduct must include acts
+> beyond pure speech (monitoring, economic control, isolation effected by non-speech
+> means), and any speech relied upon must fall within a category unprotected by the
+> First Amendment (true threats; speech integral to criminal conduct). *(Speech-anchoring
+> — Carter line; keeps the offense on the conduct side of the line.)*
+>
+> **§ 7. Rules of construction — foreseeability and risk instruments.** The
+> foreseeability standard in § 2(c) is **generic**: it is established by the general
+> nature of the conduct, informed by validated professional knowledge that such conduct
+> is capable of causing serious effect. **A validated risk-assessment instrument may not
+> be administered to the defendant and offered as evidence that the defendant is
+> dangerous or should have foreseen harm.** *(State v. Loomis — bars individualized
+> actuarial scoring as proof of the element; foreseeability is a feature of the conduct
+> type, not a defendant score.)*
+>
+> **§ 8. Grading and civil alternative.** Base coercive endangerment (§ 2) is graded
+> below aggravated (§ 3), which is graded below any offense involving physical injury.
+> A **civil protective order** on the same course of conduct is available on a
+> **preponderance** standard, independent of criminal charge. *(Civil-first / graduated
+> response — §2, §5; proportionality; shrinks the carceral disparate-impact surface.)*
+
+### Drafting notes & open seams (for `/steelman`)
+
+- **§1(b) "sustained relationship of trust or authority"** is the softest clause — it is
+  where the widened gate could bleed toward workplace/institutional relationships that
+  the domestic frame was never built for (and that doc 05 handles by *accommodation*,
+  not criminal law). Steelman should test whether this clause is void-for-vague or an
+  improper scope-creep; it may need deletion or a bright-line duration/cohabitation cap.
+- **§2(a) enumerated list** — "repeated degradation intended to erode autonomy" reintroduces
+  an intent/effect word ("erode autonomy") that may reopen the vagueness the endangerment
+  move was meant to close. Candidate for tightening to observable conduct.
+- **§2(c) vs §3** — is a base *endangerment* offense with *no* actual victim genuinely
+  chargeable in practice, or will prosecutors only ever pursue § 3 (aggravated), making
+  the base offense a dead letter (OBJ-013)? Empirical question for the prosecutor persona.
+- **Disparate impact** — §1(b)'s "shared finances/economic dependence" and the monitoring
+  clause could land unevenly across class and immigrant communities; needs charging
+  guidelines and monitoring (doc 07).
+
+---
+
 ## Relevant passages from the seed
 
 *(retained from stub — unchanged)*
