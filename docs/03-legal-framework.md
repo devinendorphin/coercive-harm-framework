@@ -148,20 +148,31 @@ around the couple, not the household. [the framework's own seed case is uncovere
   The civil-first posture (§2) *is* the front end of this graduation. `[NORMATIVE]`
   `NEEDS-LIBERTY-REVIEW`
 
-## 6. Expedited track — RECOMMEND DROPPING
+## 6. Expedited track — RETAINED, reframed as process-as-weapon mitigation (Endorphin's call, 2026-07-09)
 
-- The seed itself flagged this as "a minefield" (L102), and OBJ-003 names it the
-  framework's most likely killer. The research makes the case against it **stronger,
-  not weaker**: even ordinary domestic CCB charges only 3.4% of cases *because proof
-  is genuinely hard* — an "expedited" track would either (a) lower the proof standard
-  for a class of hard-to-disprove accusations (a gift to false accusers — the exact
-  confession-through-accusation inversion the framework exists to stop), or (b) add
-  speed without lowering proof, in which case it accomplishes nothing the research
-  shows is the actual constraint.
-- **Recommendation:** remove the expedited-track mechanism from the framework, or
-  narrow it to *procedural victim-protection* (priority scheduling, remote testimony
-  — doc 04) with **no** alteration of the burden of proof. Flag for Endorphin's call.
-  `NEEDS-LIBERTY-REVIEW` → provisionally `BLOCKED` pending redesign.
+**Decision:** keep it. But the rationale is reframed, and the reframing is what makes
+it defensible.
+
+- **The real target is process-as-weapon, not slow justice generally.** Endorphin:
+  certain perpetrators "aim to make legal processes the most painful possible"; if
+  that can be mitigated, it is worth pursuing. This is the seed's L91 asymmetry — the
+  perpetrator, with a different relationship to their own feelings, *endures* protracted
+  proceedings better than the raw, re-traumatized victim, so **duration and repetition
+  are themselves tools of the abuse.** Delay is not neutral; it is weaponized.
+- **Critical distinction (this is what unblocks it):** expedite the **process**, never
+  the **proof**. The mechanism must reduce the *number of retraumatizing
+  contacts, the calendar delay, and the repetition of narration* (priority
+  scheduling, consolidated hearings, single-narration procedures, remote testimony —
+  overlaps doc 04) **without** lowering the burden of proof or the evidentiary
+  standard by one inch. The version OBJ-003 rightly fears is the proof-lowering one;
+  that version stays dead. This version is procedural victim-protection.
+- **Anchor in existing law:** civil protective-order systems already run *expedited*
+  (ex parte temporary orders, then a prompt full hearing) — expedition of process
+  under preserved due process is not novel; it is how DV protective orders already
+  work. The design task is to import that *speed-with-safeguards* pattern, not invent
+  a new lowered-proof track.
+- `NEEDS-LIBERTY-REVIEW` — now **reviewable** in this reframed form (see §Liberty
+  Review verdicts below and doc 07). OBJ-003 to be re-tested against the reframe.
 
 ---
 
@@ -217,6 +228,92 @@ Two distinctions have to be kept apart, because I conflated them on the first pa
   homology `[ESTABLISHED]` + causal-continuity `[SUPPORTED]`, evidentially
   load-bearing, with only the reductive reading flagged as overclaim. (Action item
   logged to doc 01 and OBJ-007 — reversing the earlier demotion.)
+
+---
+
+## 8. Liberty-review verdicts (`/liberty-review`, 2026-07-09)
+
+Each mechanism tested against the six prongs (vagueness / person-vs-pattern /
+weaponization-inversion / due-process / speech / disparate-impact). Summary table in
+doc 07. Grounding: vagueness doctrine requires "sufficient definiteness that ordinary
+people can understand what conduct is prohibited" and "minimal guidelines" against
+arbitrary enforcement (*Kolender*; *City of Chicago v. Morales* struck "no apparent
+purpose" as subjective; intent/effect elements are the standard cure).
+
+### §2 Coercive-control offense — `CLEARED-WITH-AMENDMENTS`
+- The enacted statutes survive vagueness precisely because they require **(a) a
+  course of conduct** (repetition, not one act), **(b) a defined "serious effect" on
+  the victim**, and **(c) a reasonable-person standard**. Adopt all three (Scotland
+  2018 is the tightest drafting). This is also the framework's cleanest
+  *pattern-not-person* mechanism (prong 2 passes outright).
+- **Amendments:** (i) import course-of-conduct + serious-effect + reasonable-person
+  elements verbatim-in-spirit; (ii) mandatory **primary-aggressor assessment** to
+  block the known inversion where an abuser claims victim status (prong 3); (iii)
+  **civil-first** to lower stakes and the carceral disparate-impact surface (prong 6);
+  (iv) speech within the course of conduct is reachable only as conduct-integral
+  (Carter), not as isolated utterances (prong 5).
+
+### §1a Widened relationship gate (networked/metamour) — `CLEARED-WITH-AMENDMENTS`
+- **Vagueness (prong 1):** "sustained interdependence" is too open. **Amend** to an
+  enumerated objective-factor test (shared residence; shared finances; shared
+  caregiving/parenting; documented duration) — any conduct gate must be predictable
+  in advance.
+- **Weaponization (prong 3):** widening *who* may be named widens *who may be falsely
+  named* — multi-party households become venues for cross-accusation. **Safeguard:**
+  the proof burden and course-of-conduct/serious-effect standard are **identical**
+  regardless of gate width — widening reach must never widen ease of proof — plus the
+  §2 primary-aggressor safeguard applies.
+- **Disparate impact (prong 6):** cuts both ways — exposes non-traditional structures
+  (poly, chosen family, communal/low-income shared housing) to a new enforcement
+  surface *and* protects people in them currently unprotected. **Flag for monitoring**;
+  do not let the widened gate become a pretext to police unconventional households.
+
+### §6 Expedited track (reframed: process not proof) — `CLEARED-WITH-AMENDMENTS`
+- The reframe (§6) is what makes it clearable. **Model:** the existing **ex parte
+  temporary protective order → prompt full hearing** structure — fast interim
+  protection on a preliminary showing, then a full adjudication with complete defense
+  rights.
+- **Due process (prong 4) is the binding constraint:** expedite the *complainant's*
+  exposure (priority scheduling, single-narration, reduced repetition, remote
+  testimony, interim protection) — **never** the *respondent's* window to prepare and
+  confront evidence, and **never** the burden of proof. If expedition ever truncates
+  the defense, it flips to `BLOCKED`.
+- **Disparate impact (prong 6):** expedited criminal process historically risks
+  railroading marginalized defendants. **Amend:** pair with a guaranteed-defense-
+  resources floor and enforcement monitoring.
+- **OBJ-003 re-test:** the process/proof split *substantially mitigates* but does not
+  *eliminate* the weaponization risk. Downgrade OBJ-003 from "most likely to sink it"
+  to "material, mitigated, monitored." Not fully resolved.
+
+### §4 Consent consolidation — force/fear `CLEARED-WITH-AMENDMENTS`; **fraud prong `BLOCKED` pending narrowing**
+- Force and fear prongs track existing coercion law and clear with the §2-style
+  definiteness amendments.
+- **Fraud prong fails prongs 1 and 5 as currently conceived.** A general
+  "emotional/relational deception" fraud is **void-for-vague** (ordinary people can't
+  predict where lying-in-a-relationship becomes a crime) and collides with **protected
+  false speech** (*United States v. Alvarez* — false statements are not categorically
+  unprotected). **Unblock path:** restrict the fraud prong to **enumerated
+  material-fact deception** (nature of the act; identity; a defined set of material
+  facts a reasonable person would require to consent), with a reasonable-person
+  materiality test, **explicitly excluding** general relational dishonesty and
+  protected false speech. Until drafted that narrowly, `BLOCKED`.
+
+### §3 Psychological homicide — `BLOCKED`
+- Fails or nearly fails on **vagueness** (no defined conduct/time line for when
+  cumulative abuse "is" homicide), **weaponization** (attributing a death to an
+  accused's words is highly weaponizable, especially amid bereavement), **due process**
+  (the causation wall), and **speech** (*Carter* authorized liability only for active
+  encouragement of an **imminent, specific** act — slow-burn goes far beyond it).
+  These compound.
+- **Unblock path:** either (a) confine to the *Carter*-narrow pattern — which is
+  **already** prosecutable as involuntary manslaughter, arguably making a new offense
+  unnecessary; or (b) retain "psychological homicide" as a **named research
+  aspiration explicitly not proposed for enactment.** Consistent with §3 being the
+  framework's named weakest load-bearing element. Route to `/steelman` next.
+
+**Net:** 3 cleared-with-amendments (§2, §1a, §6), 1 split (§4 force/fear cleared,
+fraud blocked), 1 blocked (§3). No mechanism `CLEARED` outright — every one carries
+required amendments, which is the correct posture for a framework this dangerous.
 
 ---
 

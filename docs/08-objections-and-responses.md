@@ -53,14 +53,21 @@ ensure no legal or accommodation mechanism *depends* on it. It can motivate the
 therapeutic pathways without grounding classification. → docs 00, 02, 06.
 
 ### OBJ-003 — "Any expedited track becomes a weapon."
-**Persona:** defense attorney / civil libertarian. **Status:** `UNRESOLVED`
-A fast-track for a class of hard-to-disprove accusations (doc 03 mechanism 6),
-combined with confession-through-accusation as a known abuser tactic, is a
-ready-made instrument for custody battles and retaliation. Endorphin flagged this
-himself as "a minefield" (L102).
-*Best response so far:* none that clears `/liberty-review` prongs 3 and 4 yet.
-Possibly the expedited-track mechanism should be dropped or radically narrowed. →
-docs 03, 07.
+**Persona:** defense attorney / civil libertarian. **Status:** `MITIGATED — monitored` (liberty-review 2026-07-09)
+A fast-track for a class of hard-to-disprove accusations (doc 03 §6), combined with
+confession-through-accusation as a known abuser tactic, is a ready-made instrument
+for custody battles and retaliation. Endorphin flagged this himself as "a minefield"
+(L102).
+*Response (revised):* the mechanism was **reframed, not dropped** (Endorphin's call):
+its purpose is to mitigate **process-as-weapon** — perpetrators exploiting the
+duration/repetition/pain of proceedings against a re-traumatized victim (seed L91) —
+**not** to speed adjudication or lower proof. Liberty-review (doc 03 §8) cleared it
+*with amendments* on the **ex parte-TRO → full-hearing** model: expedite the
+complainant's exposure; **never** the respondent's defense window or the burden of
+proof; add a guaranteed-defense-resources floor. This **substantially mitigates but
+does not eliminate** the risk — the proof-lowering version OBJ-003 fears stays dead,
+but speed still carries residual disparate-impact risk, so status is *monitored*, not
+*resolved*. → docs 03 §6/§8, 07.
 
 ### OBJ-004 — "Calling a behavior pattern a 'disability' pathologizes people without a diagnosis."
 **Persona:** disability-rights advocate. **Status:** `UNRESOLVED`

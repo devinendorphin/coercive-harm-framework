@@ -50,15 +50,24 @@ Every legal mechanism (doc 03) and every accommodation (doc 05) is tested agains
   vulnerable communities for decades," ground the disparate-impact prong in the
   seed's own testimony.
 
-## Standing safeguards (to be populated by `/liberty-review`)
+## Standing safeguards (populated by `/liberty-review`)
 
-*No mechanisms cleared yet — the legal and accommodation docs are stubs. As each
-mechanism is reviewed, its verdict (`CLEARED` / `CLEARED-WITH-AMENDMENTS` /
-`BLOCKED`) is recorded here with a pointer to the source doc.*
+First review pass 2026-07-09 (doc 03 §8 has full reasoning). No mechanism cleared
+outright — every survivor carries required amendments, the correct posture here.
 
-| Mechanism | Source doc | Verdict | Notes |
+| Mechanism | Source | Verdict | Binding condition to stay cleared |
 |---|---|---|---|
-| _(none reviewed yet)_ | — | — | — |
+| Coercive-control offense | 03 §2 | `CLEARED-WITH-AMENDMENTS` | course-of-conduct + serious-effect + reasonable-person elements; primary-aggressor safeguard; civil-first |
+| Widened relationship gate | 03 §1a | `CLEARED-WITH-AMENDMENTS` | enumerated objective-connection factors (not open "interdependence"); identical proof burden regardless of gate; monitor disparate impact on non-traditional households |
+| Expedited track (process, not proof) | 03 §6 | `CLEARED-WITH-AMENDMENTS` | ex parte-TRO→full-hearing model; expedite complainant exposure, never respondent's defense window or the burden of proof; guaranteed-defense-resources floor |
+| Consent — force / fear prongs | 03 §4 | `CLEARED-WITH-AMENDMENTS` | same definiteness elements as §2 |
+| Consent — **fraud prong** | 03 §4 | **`BLOCKED`** | vague + protected-false-speech (*Alvarez*). Unblock: restrict to enumerated material-fact deception + reasonable-person materiality; exclude general relational dishonesty |
+| Psychological homicide | 03 §3 | **`BLOCKED`** | compounds vagueness + weaponization + causation + speech (*Carter* covers only imminent-act encouragement). Unblock: confine to already-prosecutable narrow pattern, or hold as non-enactment research aspiration |
+| Portfolio framing / graduated response | 03 §1, §5 | structural | inherit the per-instrument verdicts above |
+
+**Cross-note to the ledger:** OBJ-003 (expedited track = weapon) is downgraded by the
+§6 process/proof split from "most likely to sink it" to "material, mitigated,
+monitored" — mitigated, not eliminated.
 
 ## Open questions
 
