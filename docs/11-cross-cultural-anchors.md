@@ -21,21 +21,37 @@ Deep research happens via `/anthropology`. What follows is the verified starter 
 Format per entry: term · culture/source · definition as documented · the associated
 intervention · epistemic tag · citation status.
 
-### Kunlangeta (Yupik/Inuit, northwest Alaska) [ESTABLISHED]
-Documented by psychiatric anthropologist Jane M. Murphy: applied to a man who
-repeatedly lies, cheats, steals, and takes advantage of others — glossed as "mind
-knows what to do but does not do it." The community understood the pattern as
-knowing-but-not-doing: intact cognition, absent conscience-driven follow-through.
-Traditional intervention per Murphy's informant: after repeated offenses and failed
-correction, the community's answer to incorrigibility was terminal exclusion —
-"somebody would have pushed him off the ice when nobody else was looking."
-Also noted: the kunlangeta was considered NOT curable by shamanic healing — the
-culture itself distinguished this pattern from illness that ritual could treat.
+### Kunlangeta (Siberian Yupik, Bering Sea island — likely St. Lawrence I.) [SUPPORTED — single-sourced]
+*Verified against Murphy 1976 primary text; see research/anthro-kunlangeta.md for the
+full audit, verbatim quotations, and the corrections below.*
+
+Documented by psychiatric anthropologist Jane M. Murphy: an "abstract term for the
+breaking of many rules when awareness of the rules is not in question" — glossed
+verbatim as "his mind knows what to do but he does not do it." The framework-relevant
+core is the **conduct/illness boundary**: Murphy's key find is that kunlangeta (like the
+Yoruba *arankan*) was held distinct from *nuthkavihak* ("being crazy" — mind/soul out of
+order), which shamans *did* treat. Kunlangeta was **not** classed as illness and **not**
+believed curable by healers — the culture drew exactly the conduct-vs-illness line this
+framework draws. This distinction is the entry's durable anchor value.
+
+**Corrections applied after primary-source check (do not revert):**
+- *Geography.* These are **Siberian Yupik** (kin in Chukotka), not mainland "northwest
+  Alaska" (a popularization error from Stout 2005). Murphy names only "an island in the
+  Bering Sea"; St. Lawrence Island is the likely site but unconfirmed in this paper.
+- *The "pushed off the ice" line is not documented practice.* It is one informant's
+  **hypothetical** answer to "what *would have* happened ... traditionally," hedged with
+  "*probably*." Only **one** person among the 499-person census was ever called
+  kunlangeta (n=1), and much of the Eskimo data runs through a **single key informant**.
+  Treat the terminal-exclusion "intervention" as speculative reconstruction, not record.
+- *Attestation gap.* No independent Yupik lexicon entry located; the term effectively
+  lives through Murphy 1976 + the downstream pop-psychology chain. [RESEARCH NEEDED]
 - Source: Murphy, J.M. (1976). "Psychiatric Labeling in Cross-Cultural Perspective."
-  Science 191(4231): 1019–1028. doi:10.1126/science.1251213 → research/murphy-1976.md
-- Anchor value: a small-scale society independently converging on (1) a distinct
-  named category, (2) an incorrigibility judgment, (3) escalation-after-failed-
-  correction, (4) explicit exclusion from the "treatable" category.
+  Science 191(4231): 1019–1028. doi:10.1126/science.1251213 → research/anthro-kunlangeta.md
+- Anchor value (revised): a small-scale society independently drawing (1) a distinct
+  named **conduct** category with (2) intact-awareness as its hallmark and (3) explicit
+  exclusion from the "treatable/illness" category. The **incorrigibility→terminal-
+  exclusion** response is a *negative* anchor (see docs/07), not a precedent — and rests
+  on n=1 + one informant's speculation, so claim it modestly.
 
 ### Arankan / aranakan (Yoruba, Nigeria) [ESTABLISHED]
 From the same Murphy paper (drawing on the Leighton/Lambo Cornell–Aro studies):
