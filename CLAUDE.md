@@ -8,7 +8,7 @@ rigorous, publishable framework addressing gaps in how legal, medical, and workp
 institutions handle psychological/coercive harm — harm inflicted through words,
 narratives, and manipulation rather than visible physical injury.
 
-## The five workstreams
+## The six workstreams
 
 1. **Behavioral taxonomy** (`docs/02-behavioral-taxonomy.md`) — Characterize the
    "clusters of behaviors": confession-through-accusation (projection), inversion of
@@ -31,6 +31,14 @@ narratives, and manipulation rather than visible physical injury.
    mythology/esoteric framings (the Jessa Reed case study). Core constraint: the
    person must arrive at the practice themselves; externally prescribed treatment
    triggers resistance.
+6. **Cross-cultural & historical anchors** (`docs/11-cross-cultural-anchors.md`) —
+   Global sampling of culture-specific terms for this behavioral cluster (kunlangeta,
+   arankan, wolf-in-sheep's-clothing, herem, meidung, xiaoren, etc.), the
+   intervention landscapes each culture built — especially around incorrigibility
+   and the performance of contrition — and modern research on implementing analogous
+   approaches (Mendota decompression model, restorative justice, ostracism science).
+   Developed via `/anthropology`. Doc 11 pre-exists with a verified starter set; do
+   not stub it during /seed — extend it.
 
 Plus two standing quality documents:
 - `docs/07-civil-liberties-safeguards.md` — due process, anti-discrimination,
@@ -74,6 +82,11 @@ Plus two standing quality documents:
    metaphor-rich, cross-scale (household → workplace → institution → geopolitics),
    drawing on esoteric and artistic traditions. Docs should formalize without
    sterilizing. When in doubt, quote the seed and build from it.
+7. **Anchors are evidence, not ammunition.** Cross-cultural material (workstream 6)
+   is used to understand how humans have handled this pattern — including how those
+   systems failed (witch-trial dynamics). Never cite a tradition's harshest response
+   (e.g., the kunlangeta's fate) as normative support for punitive policy; the
+   framework's own commitments to due process and rehabilitation govern.
 
 ## Session workflow
 

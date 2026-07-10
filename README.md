@@ -20,6 +20,7 @@ psychological/coercive harm as a recognized injury category.
 | `/seed` | Once, first session — builds docs 00–08 from the source conversation |
 | `/develop <doc>` | The main loop — a working session on one workstream |
 | `/riff <text>` | Dump a raw walking-dictation riff; it gets cleaned, routed, and engaged |
+| `/anthropology <term>` | Research sessions on cross-cultural terms & interventions → docs/11 |
 | `/steelman <doc>` | Periodically — adversarial critique from five critic personas |
 | `/evidence-check <doc>` | Periodically — audit empirical claims and citation tags |
 | `/liberty-review` | Before any legal mechanism is marked stable |
