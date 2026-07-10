@@ -77,6 +77,11 @@ program with its own aims.
 
 ## 6. Integration memos (for Endorphin — accept/reject)
 
+**STATUS 2026-07-10: A2 ACCEPTED by Endorphin and implemented** in docs/02
+("Cross-cultural corroboration — and its precise limit"): arankàn cited as trait-naming,
+explicitly NOT as a cross-cultural folk-psychopath person-taxon. A1 was docs/11-local and
+already applied. A3 is a standing note (no doc edit required).
+
 - **MEMO-A1 → docs/11 Part A (already applied).** Correct spelling to arankàn; drop
   "aranakan"; upgrade attestation note (independently dictionaried); attribute the
   person-category framing to Murphy, not the Yoruba (the Yoruba word is a *trait*).

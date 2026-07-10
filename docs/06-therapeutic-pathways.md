@@ -96,6 +96,23 @@ confrontational — where the evidence trend points) but its efficacy *for this
 population and this harm* is `[HYPOTHESIS]` with a discouraging base rate. Honest
 framing: **"least-bad and correctly oriented," not "effective."**
 
+### 3a. The contrition-verification problem (doc 11, memo M1)
+
+A recurring temptation is to treat visible remorse/compliance as evidence of genuine
+change. The Anabaptist **Meidung** tradition is the cautionary case
+(`research/anthro-meidung.md`): it has an explicit reintegration path yet **no mechanism
+distinguishing performed from genuine contrition** — public confession + submission to the
+*Ordnung* satisfies the form, and even symbolic compliance can pass. That is the same
+**performed-empathy / performed-mastery** problem this framework names in the pattern
+itself (doc 02, taxonomy items 5 & the seed's "Masters at it and then they end up not").
+Implication for doc 06: the self-arrival constraint is not only about reactance — it is
+also **why imposed programs are easy to game.** A person can *perform* an MI/BIP program's
+expected contrition without change. This reinforces two commitments: (1) measure conduct
+over time, never professed remorse; (2) keep the honest-capacity/containment posture (doc
+05) rather than relying on a "he's changed" attestation the framework has no validated way
+to verify. No tradition or program surveyed has a sincerity test; time-under-observation
+is the only known proxy (doc 11 Open Q1).
+
 ## Relevant passages from the seed
 
 - **Self-directed constraint** (~L118): "the therapeutics that are required...

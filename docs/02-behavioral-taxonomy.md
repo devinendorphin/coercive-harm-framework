@@ -140,6 +140,30 @@ answer to OBJ-001 (confirmation bias). It does **not** yet supply a measurable
 instrument — that remains the central open question. See
 `research/coercion-continuity-across-scale.md`.
 
+### Cross-cultural corroboration — and its precise limit (doc 11 anchors)
+
+Two `/anthropology` deep-dives (doc 11) bear on the **behavior-not-people rule**, and
+both must be cited *narrowly* — they are one-data-point corroborations, not proof of a
+human universal (memos K1, A2):
+
+- **The conduct-vs-illness line is not a Western invention** `[SUPPORTED]`. Murphy (1976)
+  documents that the Siberian Yupik held *kunlangeta* (rule-breaking with intact
+  awareness — "his mind knows what to do but he does not do it") categorically distinct
+  from *nuthkavihak* ("being crazy" — mind/soul disordered, which shamans **did** treat).
+  A small isolated society independently drew the same conduct-category / illness-category
+  boundary this doc draws. Cite as corroboration of "behavior, not illness" — with the
+  caveat that it rests on a single ethnographer, largely one key informant, n=1 applied
+  case (`research/anthro-kunlangeta.md`).
+- **A culture can name the *trait* without person-typing** `[ESTABLISHED]` (attestation) /
+  use-with-care (framing). The Yoruba **arankàn** is an independently-dictionaried word
+  glossed "malice" — an **abstract quality**, not a kind-of-person. Murphy renders it as a
+  person-category ("a person who…") and calls it "psychopath," but the *Yoruba* usage — a
+  nameable trait — is actually **closer to this doc's conduct-not-category discipline**
+  than Murphy's gloss. **Cite arankàn as evidence a culture names the malice/
+  uncooperativeness *trait*; do NOT cite it as proof of a cross-cultural folk-"psychopath"
+  person-taxon** — that would reintroduce the very person-typing the rule forbids
+  (`research/anthro-arankan.md`).
+
 ## Relevant passages from the seed
 
 - **Weaponization premise** (~L16): the difficult personality who early on "makes

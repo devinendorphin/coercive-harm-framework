@@ -50,6 +50,34 @@ Every legal mechanism (doc 03) and every accommodation (doc 05) is tested agains
   vulnerable communities for decades," ground the disparate-impact prong in the
   seed's own testimony.
 
+## Cross-cultural negative anchors & a derived safeguard (doc 11)
+
+Two `/anthropology` deep-dives supply **negative** anchors — historical naming/exclusion
+systems that show precisely how this kind of machinery goes wrong. They are cited as
+warnings, never as precedent for punitive policy (CLAUDE.md agreement 7).
+
+- **Kunlangeta's "ice" response** (memo K2; `research/anthro-kunlangeta.md`). The one
+  documented (and even then only *hypothetical*, single-informant) response to the Yupik
+  incorrigibility judgment was **covert, consensus-triggered, unadjudicated, irreversible,
+  and safeguarded by nothing** — "somebody would have pushed him off the ice when nobody
+  else was looking." This is the exact profile prongs 3–4 exist to block: an
+  incorrigibility verdict fused to extrajudicial action with no due process and no appeal.
+  The framework recognizes the *category* it names but rejects its *remedy* absolutely.
+- **Meidung's weaponization** (memo M2; `research/anthro-meidung.md`). Anabaptist shunning
+  is documented (survivor/advocacy sources) as **captured against the people it should
+  protect**: abuse victims threatened with excommunication for reporting to outside law
+  enforcement, while contrition-performing perpetrators reintegrate. This is
+  confession-through-accusation / DARVO **at institutional scale** — the disciplinary
+  system turned into the abuser's instrument. `[SUPPORTED]`
+
+**Derived hard safeguard — the external escape valve (new, from M2).** Meidung's defining
+flaw was a **closed disciplinary monopoly with no outside appeal.** Therefore: *any
+restorative or community-based track this framework endorses (doc 03 §5a) must guarantee an
+**external, non-disciplinable escape valve** — access to state law enforcement and courts
+that the process cannot penalize a participant for using.* A community process that can
+punish someone for "going outside" reproduces the meidung failure and fails prong 3
+(weaponization inversion) on its face. This is now a **binding condition** on doc 03 §5a.
+
 ## Standing safeguards (populated by `/liberty-review`)
 
 First review pass 2026-07-09 (doc 03 §8 has full reasoning). No mechanism cleared

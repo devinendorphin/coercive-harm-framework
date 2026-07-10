@@ -153,6 +153,10 @@ not.**
 
 ## 8. Integration memos (for Endorphin — accept/reject)
 
+**STATUS 2026-07-10: K1 and K2 ACCEPTED by Endorphin and implemented** — K1 in
+docs/02 ("Cross-cultural corroboration") and docs/03 §5; K2 in docs/07 ("Cross-cultural
+negative anchors"). K3/K4 were docs/11-local and already applied.
+
 Per protocol, docs/11-local corrections are already applied. These cross-doc memos are
 **proposals**, not yet implemented in docs 02/03/07:
 

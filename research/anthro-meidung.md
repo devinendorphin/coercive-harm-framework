@@ -121,6 +121,12 @@ failure.
 
 ## 7. Integration memos (for Endorphin — accept/reject)
 
+**STATUS 2026-07-10: M1 and M2 ACCEPTED by Endorphin and implemented** — M1 in docs/03
+§5a (restorative scaffold: take the front-end, reject enforcement + the false contrition
+test) and docs/06 §3a (contrition-verification problem); M2 in docs/07 (meidung
+weaponization + the binding external-escape-valve safeguard on docs/03 §5a). M3 was
+docs/11-local and already applied.
+
 - **MEMO-M1 → docs/03 & docs/06 (REVISE the premise).** Do **not** cite meidung as a
   contrition-testing model — it is a counterexample (§2). What is transplantable is the
   *procedural scaffold*: graduated admonition, unanimous adjudication before any exclusion,

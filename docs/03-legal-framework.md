@@ -166,6 +166,35 @@ around the couple, not the household. [the framework's own seed case is uncovere
   pathways (doc 06); grave/violent conduct toward the criminal instruments above.
   The civil-first posture (§2) *is* the front end of this graduation. `[NORMATIVE]`
   `NEEDS-LIBERTY-REVIEW`
+- **Cross-cultural note (doc 11, memo K1):** the punitive/rehabilitative split maps onto a
+  boundary multiple cultures drew independently — conduct-with-intact-awareness
+  (*kunlangeta*, *arankàn*) held distinct from treatable illness (`research/anthro-kunlangeta.md`).
+  This supports routing the *conduct* pattern to accountability + accommodation rather
+  than medicalizing it — but the same traditions' verdict that the pattern is *incurable*
+  does **not** travel (Mendota shows treatment effects in youth; doc 11 Part C). Import the
+  conduct/illness distinction, not the incorrigibility conclusion.
+
+### 5a. Restorative-track design — borrowed scaffold, rejected enforcement (doc 11, memo M1)
+
+For the **lateral/displaced** case (doc 02 power-vector) and other non-grave conduct, a
+restorative track needs a procedure. The Anabaptist **Meidung** tradition supplies a
+usable *procedural scaffold* — but the deep-dive (`research/anthro-meidung.md`) established
+it is a **cautionary** model, so import only the front-end and discard the rest:
+
+- **Take:** graduated admonition (private → widening) → a defined **grace period** → an
+  adjudicated determination **before** any exclusion → a defined, **reversible restoration
+  ritual** (public accounting + re-entry vote). This is more calibrated than informal
+  consensus.
+- **Reject:** (1) meidung's **coercive enforcement** (total social/economic pressure) —
+  the framework's version is voluntary/incentive-based, not community-coerced; (2) the
+  assumption that public submission proves contrition — **meidung has no sincerity test;
+  performance suffices** (see doc 06). Do not represent a restoration ritual as a
+  contrition *verification*.
+- **Hard prerequisite (from memo M2 → doc 07):** any restorative track must carry an
+  **external, non-disciplinable escape valve** — guaranteed access to state law
+  enforcement/courts that the process cannot punish a participant for using. Meidung's
+  defining failure was a closed disciplinary monopoly with no outside appeal, which let it
+  be turned against abuse-reporters. `[NORMATIVE]` `NEEDS-LIBERTY-REVIEW`
 
 ## 6. Expedited track — RETAINED, reframed as process-as-weapon mitigation (Endorphin's call, 2026-07-09)
 
