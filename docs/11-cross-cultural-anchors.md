@@ -53,16 +53,34 @@ framework draws. This distinction is the entry's durable anchor value.
   exclusion** response is a *negative* anchor (see docs/07), not a precedent — and rests
   on n=1 + one informant's speculation, so claim it modestly.
 
-### Arankan / aranakan (Yoruba, Nigeria) [ESTABLISHED]
-From the same Murphy paper (drawing on the Leighton/Lambo Cornell–Aro studies):
-"a person who always goes his own way regardless of others, who is uncooperative,
-full of malice, and bullheaded." Like kunlangeta, categorized by the Yoruba
-themselves as distinct from ordinary madness (were) — and similarly regarded as
-not amenable to the healing repertoire.
-- Source: Murphy 1976; background in Leighton et al. (1963), Psychiatric Disorder
-  Among the Yoruba. → research/murphy-1976.md
-- RESEARCH NEEDED: primary Yoruba-language sources on community response; how Ifa
-  divination framed such persons; spelling/usage verification beyond Murphy.
+### Arankàn (Yoruba, Nigeria) [ESTABLISHED — independently attested]
+*Verified against Murphy 1976 + Yoruba lexicography; see research/anthro-arankan.md.*
+
+From the same Murphy paper, rendered as: "a person who always goes his own way regardless
+of others, who is uncooperative, full of malice, and bullheaded." Like kunlangeta,
+classed by the Yoruba **themselves** as distinct from ordinary madness (*were*) and not
+the healers' domain — and here that classification comes **directly from Yoruba healers**
+Murphy pressed the point with (Science 191:1020), a stronger provenance than the Eskimo
+single-informant route.
+
+**This is the best-grounded of the three checked entries — but read two corrections:**
+- *Attestation.* Unlike kunlangeta, **arankàn is a genuine, independently-dictionaried
+  Yoruba word** (glossed "malice"). Spelling is **arankàn**; the "aranakan" variant was a
+  transcription error — dropped.
+- *Trait, not person-taxon.* The Yoruba word names an **abstract quality ("malice")**;
+  Murphy converts it into a *person-category* and then draws the "psychopath" parallel.
+  The **Yoruba** usage (a nameable trait) is actually *closer* to this framework's
+  behavior-not-people rule than Murphy's gloss. Cite arankàn as "a culture names the
+  malice/uncooperativeness **trait**," NOT as proof of a cross-cultural folk-psychopath
+  person-category (docs/02).
+- *Provenance strength.* The parent study (Leighton, **Lambo**, et al. 1963) was
+  co-authored by T. Adeoye Lambo, a Yoruba psychiatrist and pioneer of decolonizing
+  psychiatry — a cultural insider co-produced the source.
+- Source: Murphy 1976 (p. 1020–1021); Leighton, Lambo et al. (1963), *Psychiatric
+  Disorder Among the Yoruba*; Glosbe Yoruba–English. → research/anthro-arankan.md
+- RESEARCH NEEDED: Murphy records **no** community intervention for arankàn (unlike
+  kunlangeta's "ice") — Part B axes cannot yet be filled. Primary Yoruba-language sources
+  on communal response; Ifá framing; placement within the *ìwà* (character) ethical system.
 
 ### Wolf in sheep's clothing (Hebrew Bible / New Testament tradition) [ESTABLISHED as text]
 Matthew 7:15 — "false prophets... in sheep's clothing, but inwardly they are
@@ -76,12 +94,43 @@ to workstream 04.
   predatory elites, i.e., the pattern at institutional scale, matching the seed
   conversation's cross-scale claim).
 
+### Meidung / the Bann (Anabaptist / Amish shunning) [ESTABLISHED mechanics; SUPPORTED weaponization]
+*Verified against tradition-close scholarship (Kraybill, Hostetler, Hurst & McConnell) and
+survivor/advocacy documentation; see research/anthro-meidung.md.*
+
+Originally proposed here as a **contrition-test + reintegration model** for workstreams
+03/06. The deep-dive **inverts** that premise on two points — meidung is more cautionary
+than exemplary:
+
+- **It does NOT test genuine vs. performed contrition.** The restoration standard is
+  public confession + submission to the *Ordnung* + visible behavior change over time.
+  No sincerity mechanism exists; even *symbolic* compliance can satisfy the form
+  (Hostetler's tablecloth case). Meidung **demands a performance of contrition and accepts
+  it** — it is this framework's *problem in miniature, not its solution.* (This answers
+  docs/11 Open Q1 in the negative: time-under-observation may be the only known test.)
+- **It is itself documented as coercive control.** Ex-Amish and survivor organizations
+  (Amish Heritage Foundation / Bontrager; Survivors.org; Lancaster reporting) document
+  shunning/excommunication used to **threaten abuse victims out of reporting to law
+  enforcement**, shielding contrition-performing perpetrators while punishing those who
+  leave or report. This is the exact inversion the both-victims lens exists to catch.
+
+What *does* travel: the **procedural front-end** — graduated admonition (Matthew 18) →
+grace period → **unanimous congregational adjudication** before any exclusion → a defined,
+reversible restoration ritual. Reintegration is real but rare, and lifelong in strict
+(*streng*) affiliations absent return + confession. Note also that strict Meidung was
+contested *from inception*: the 1693 Ammann–Reist split that created the Amish was itself
+a fight over whether this severity was even scriptural.
+
+- **Governing lesson for docs/07:** any restorative track the framework builds must carry
+  an **external, non-disciplinable escape valve** — access to state law enforcement/courts
+  that the community cannot punish a member for using. A restoration ritual without that
+  valve reproduces meidung's failure.
+- Source: Kraybill/Nolt/Hostetler Amish-studies corpus; Hurst & McConnell (2010); GAMEO
+  (Amish Division / Avoidance); survivor-advocacy sources. → research/anthro-meidung.md
+
 ### Candidate entries requiring verification via /anthropology [HYPOTHESIS until sourced]
 - **Herem** (Jewish law): graduated communal exclusion/excommunication — a formal,
   reversible, procedure-bound ostracism. Spinoza's herem as case study.
-- **Meidung / shunning** (Amish/Anabaptist): explicitly rehabilitative-intent
-  ostracism — exclusion designed to induce genuine (not performed) contrition, with
-  a defined reintegration path. Directly on point for "performance of contrition."
 - **Skóggangr / full outlawry** (medieval Icelandic/Norse law): legal personhood
   withdrawn after adjudication; the community-scale terminal exclusion, but reached
   through legal process rather than informal action — a due-process contrast to
@@ -119,7 +168,10 @@ Classify each documented intervention along these axes:
 3. **Theory of change** — none/containment vs. induced contrition vs. structural
    role-restriction vs. transformation
 4. **Contrition test** — how did the culture distinguish performed from genuine
-   contrition? (The meidung reintegration process is the key case to study.)
+   contrition? (Meidung was the hoped-for key case; on inspection it does **not** test
+   sincerity — it accepts public submission, so performance suffices. Provisional answer:
+   no tradition checked so far has a validated sincerity test; time-under-observation may
+   be the only known one. See research/anthro-meidung.md.)
 5. **Abuse safeguards** — what, if anything, protected against false accusation
 6. **Scale** — interpersonal / village / institutional / polity
 7. **Documented failure modes** — weaponization, faction capture, scapegoating
