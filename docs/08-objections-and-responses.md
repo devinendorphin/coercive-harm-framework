@@ -455,16 +455,26 @@ offense is **OBJ-024** (unprovable once the victim-protective burdens are honore
 ## Power-critique audit (doc 10), 2026-07-09
 
 ### OBJ-027 — "The framework enforces down-scale while claiming cross-scale."
-**Persona:** power-critique (structural). **Status:** `UNRESOLVED — requires framework change`
+**Persona:** power-critique (structural). **Status:** `PARTIALLY MITIGATED — sub-apex reach built; true apex admitted beyond law` (developed 2026-07-11, doc 12)
 Every mechanism bites downward — the offense is domestic-gated, negligent-retention reaches
 the manager but not the CEO who *is* the employer, predominant-aggressor calls are made by
 power-embedded prosecutors. The framework would catch the powerless and go silent on the
-powerful, inverting its founding cross-scale insight. Power at the apex is least reachable,
-most consequential, and has no tool.
-*Best response so far:* none adequate — this is a missing workstream. Candidates: fiduciary/
-duty-of-care liability reaching the top; independent (non-prosecutorial) review; apex-scale
-coercion under governance/anti-corruption regimes. **Until built, doc 09 must admit the
-framework reaches subordinate-scale coercion and is silent at the apex.** → doc 10, doc 09.
+powerful, inverting its founding cross-scale insight.
+*Response (developed 2026-07-11, doc 12):* the apex workstream imports **one principle**
+(liability rises with effective control — command-responsibility *structure*, `[NORMATIVE]`)
+and **three live reach-up mechanisms** grounded in current law: officer **duty of oversight**
+(*In re McDonald's*, Del. Ch. 2023); **positive duty to prevent** enforced by *independent*
+regulators (UK Worker Protection Act 2023, in force 26 Oct 2024; AU Respect@Work), which
+partially escapes the prosecutor-capture problem (Finding C); and **misconduct-in-public-
+office** / individual **Magnitsky** sanctions for the state apex. Paired with an
+**independent, non-prosecutorial review** requirement + whistleblower protection (doc 12 §4,
+`NEEDS-LIBERTY-REVIEW`). **Named residual (not resolved):** (1) the *true* apex —
+voting-control founder-CEO, controlling shareholder, head of state — where the accused *is*
+the institution, stays largely beyond law (checks are political/exposure/exit); (2) Finding C
+mitigated, not eliminated; (3) the live tools reach *failure-to-prevent / oversight-failure*,
+not the apex actor's *direct* coercive conduct — a coverage asymmetry with the paradigm case.
+**doc 09 must still admit the framework reaches sub-apex coercion and is silent at the true
+apex.** → doc 12, doc 10, doc 09.
 
 ### OBJ-028 — "The both-victims safeguard is DARVO the powerful can afford."
 **Persona:** power-critique (survivor advocate, friendly fire). **Status:** `UNRESOLVED`
