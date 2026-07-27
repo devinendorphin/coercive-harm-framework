@@ -89,3 +89,21 @@ docs/         The framework itself — numbered, living documents
 research/     Literature notes, case law, statute summaries (one file per source/topic)
 sessions/     Session logs + LATEST.md continuity seed
 ```
+
+## The hub
+
+This repo's harness is the prior art the whole collection now builds on. Its working
+agreements, `/riff`, and `/session-log` were generalized into
+**`devinendorphin/claude-at-claude`**, which holds the canonical core, an atlas of all 20
+repos, and the shared glossary. Pull it in when you need the cross-repo map:
+
+```
+add_repo devinendorphin/claude-at-claude
+```
+
+The agreements above remain authoritative *here* — the hub generalizes them, it does not
+supersede them. Where the two differ for this project, this file wins.
+
+Two things the hub adds that apply here too: the container is ephemeral, so anything that
+matters gets committed *this turn*; and `ATLAS.md` will tell you when a riff belongs to a
+different repo than the one you are sitting in.
