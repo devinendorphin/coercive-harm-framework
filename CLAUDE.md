@@ -94,7 +94,7 @@ sessions/     Session logs + LATEST.md continuity seed
 
 This repo's harness is the prior art the whole collection now builds on. Its working
 agreements, `/riff`, and `/session-log` were generalized into
-**`devinendorphin/claude-at-claude`**, which holds the canonical core, an atlas of all 20
+**`devinendorphin/claude-at-claude`**, which holds the canonical core, an atlas of all
 repos, and the shared glossary. Pull it in when you need the cross-repo map:
 
 ```
