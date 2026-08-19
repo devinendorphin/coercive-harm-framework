@@ -1,74 +1,64 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-07-09, session `power-audit`.*
+this first (via CLAUDE.md). Last updated: 2026-07-10, session `cross-cultural-anchors`.*
 
 **Read-first: `docs/09-synthesis.md`** (calibrated whole) then **`docs/10-power-critique.md`**
-(the framework audited for sycophancy to power — the sharpest self-critique, incl. the
-apex-power gap and the power-vector). Start there before the numbered workstreams.
+(the framework audited for sycophancy to power — apex-power gap, the power-vector). Start
+there before the numbered workstreams. New this session: **workstream 6 is live** —
+`docs/11-cross-cultural-anchors.md`, developed via `/anthropology`.
 
 ---
 
 ## Where the project stands (~per workstream)
 
-**Milestone: the full doc scaffold now has a first-pass spine — all workstreams active.**
+**Milestone: six workstreams now active. This session built out #6 (cross-cultural
+anchors) and used it to harden the restorative track and the civil-liberties safeguards.**
 
 | Doc | Workstream | State |
 |---|---|---|
 | 00-glossary | terms of art | seeded (17 terms + guardrail vocab) |
 | 01-problem-statement | institutional gaps | active + division-of-labor section |
-| 02-behavioral-taxonomy | the clusters | **ACTIVE** — Biderman/Stark/DARVO grounding; cluster-coherence still HYPOTHESIS |
-| 03-legal-framework | new injury category | ACTIVE — model offense drafted (§9), liberty-reviewed, steelmanned |
+| 02-behavioral-taxonomy | the clusters | ACTIVE — Biderman/Stark/DARVO; + cross-cultural corroboration (doc 11) |
+| 03-legal-framework | new injury category | ACTIVE — model offense (§9); **new §5a restorative track, liberty-cleared** |
 | 04-evidentiary-standards | proving invisible injury | ACTIVE — foreseeability spine |
-| 05-accommodation-model | ADA framing | ACTIVE — now a *primary* instrument (words-only case) |
-| 06-therapeutic-pathways | self-directed change | ACTIVE — MI operational core; wrong-population gap |
-| 07-civil-liberties-safeguards | anti-weaponization | active — verdict table (6 mechanisms) |
-| 08-objections-and-responses | steelman ledger | 26 objections; criminal-tier provability (OBJ-024) is the live limit |
+| 05-accommodation-model | ADA framing | ACTIVE — primary instrument (words-only case) |
+| 06-therapeutic-pathways | self-directed change | ACTIVE — MI core; + §3a contrition-verification problem |
+| 07-civil-liberties-safeguards | anti-weaponization | ACTIVE — +cross-cultural negative anchors + **escape-valve safeguard** |
+| 08-objections-and-responses | steelman ledger | **30 objections** (OBJ-030 new: restorative-track capture) |
 | 09-synthesis | read-first capstone | ACTIVE — the calibrated whole |
-| 10-power-critique | sycophancy-to-power audit | **ACTIVE** — Findings A–F; apex-power gap; the power vector |
+| 10-power-critique | sycophancy-to-power audit | ACTIVE — Findings A–F; apex-power gap |
+| 11-cross-cultural-anchors | **NEW workstream 6** | **ACTIVE** — kunlangeta/arankàn/meidung verified; Part B table unfilled |
 
-`research/` holds 8 verified files.
+`research/` holds 11 verified files (added anthro-kunlangeta / -meidung / -arankan).
 
-## The remaining frontiers (empirical, not structural) — updated post evidence-check
+## What changed this session (cross-cultural anchors)
 
-1. **No validated whole-cluster instrument** (OBJ-001 residue). Components grounded
-   (Biderman/Stark/DARVO); *co-occurrence as one cluster* unproven.
-2. **doc 06 is now the framework's most empirically exposed workstream.** Evidence-check
-   *downgraded* the mindfulness structural-change mechanism (Kral/Davidson 2022 failed
-   replication) AND there is still no efficacy evidence for any pathway in the
-   coercive-pattern population — yet docs 05–06 carry the central words-only case. The
-   therapeutic premise is the softest load-bearing point in the whole framework.
-3. **The foundation, by contrast, firmed up.** Coercive control → serious *psychological*
-   harm is now `[ESTABLISHED]` + cited (2023 meta-analysis). The legal/evidentiary spine
-   is on solider empirical ground than the therapeutic one.
-
-## Where the framework landed after this session
-
-The three teed-up frontiers are now addressed, and the honest picture is clearer — and
-more modest — than the seed's ambition:
-- **Criminal coercive-harm law is a small, hard, civil-leaning tool.** The qualified
-  offense survives mainly as a **civil** instrument; the criminal tier is narrow
-  (recklessness + sustained conduct + aggravated harm) and may be rarely provable once
-  victim-protective burdens are honored (**OBJ-024**, the strongest live hit).
-- **The therapeutic workstream is "least-bad and correctly oriented," not effective.**
-  BIP evidence floor is low; doc 06's design (self-directed, MI/ACT) is where the small
-  gains are, but efficacy for the coercive/words-only pattern is unproven.
-- **The accommodation model now has conduct-based teeth** (negligent-retention liability)
-  — incentives, not an individual entitlement.
+- **Merged in workstream 6** from Endorphin's zip (renumbered to doc 11 to avoid the
+  09/10 collision); added the `/anthropology` command + CLAUDE.md agreement 7.
+- **Three `/anthropology` dives, disconfirming-first:** kunlangeta (category real but
+  single-sourced, n=1, "ice" is hypothetical — `[SUPPORTED — single-sourced]`); arankàn
+  (independently attested; a *trait*, not a person-taxon; best-grounded of the three);
+  **meidung (premise inverted — it's a coercive-control specimen, now a negative anchor).**
+- **Five memos accepted + implemented** across docs 02/03/06/07; **new OBJ-030**.
+- **New binding safeguard:** any restorative/community track needs an **external,
+  non-disciplinable escape valve** to state authorities (doc 07) — meidung's fatal lack.
+- **`/liberty-review` of doc 03 §5a → `CLEARED-WITH-AMENDMENTS`** (8 amendments;
+  weaponization-driven). `NEEDS-LIBERTY-REVIEW` on §5a is cleared.
 
 ## Top 3 priorities for next session
 
-1. **The apex-power workstream (OBJ-027) — now the framework's #1 gap.** The power audit
-   showed the framework reaches subordinate-scale coercion and is silent where power
-   protects itself. Candidates: fiduciary/duty-of-care liability reaching the top;
-   independent (non-prosecutorial) review; apex coercion under governance/anti-corruption
-   regimes. *Reason: this is the deepest unfinished business; the framework's own
+1. **The apex-power workstream (OBJ-027) — still the framework's #1 gap.** Unchanged and
+   unmet: the framework reaches subordinate-scale coercion and is silent where power
+   protects itself. This session's escape-valve work is *adjacent* (it stops community
+   capture) but does not reach the apex. *Reason: deepest unfinished business; the
    cross-scale thesis is unmet without it.*
-2. **`/develop` the power-vector into the taxonomy + offense more fully** (restorative
-   track for the *lateral* case; the independent-review body for the residual). *Reason:
-   Finding F reshaped the foundation; the vector needs its restorative half built.*
-3. **Resolve the open mechanism decisions** (fraud prong; psychological homicide; §1(b)
-   scope-creep) — the last un-dispositioned calls.
+2. **Finish doc 11's usable core: fill the Part B intervention-taxonomy table** and run
+   `/anthropology herem` + `/anthropology munafiq` (both restraint traditions that feed
+   the civil-liberties side directly). *Reason: the anchors are most useful as a
+   comparative table; two restraint traditions would strengthen doc 07 specifically.*
+3. **Resolve the standing open mechanism decisions** (fraud prong; psychological homicide;
+   base no-harm endangerment criminal-vs-civil) — the last un-dispositioned calls.
 
 ## Open decisions awaiting Endorphin
 
@@ -96,39 +86,43 @@ more modest — than the seed's ambition:
 - **S-9.** The **foreseeability nexus is the keystone** of the offense: drops proof of
   actual harm while keeping speech-tether + non-weaponizability. Generic, never a
   defendant risk-score (*Loomis*); harm aggravator bound by *Apprendi*.
-- **S-10 (NEW).** **Division of labor:** criminal law reaches the **mixed-conduct**
-  pattern; the **pure-words** paradigm case (the seed's founding harm) belongs to civil
-  orders + accommodation (05) + therapeutic (06). Criminal law is *not* the primary
-  instrument for words-only coercion (OBJ-023/019). Do not write doc 03 as if it were.
+- **S-10.** **Division of labor:** criminal law reaches the **mixed-conduct** pattern; the
+  **pure-words** paradigm case belongs to civil orders + accommodation (05) + therapeutic
+  (06). Criminal law is *not* the primary instrument for words-only coercion (OBJ-023/019).
 - **S-11.** **Do not let component-validation launder whole-claim assertions.**
   Biderman/DARVO ground taxonomy *components*, not cluster coherence; IFS/mindfulness
-  evidence is for *victims*, not the perpetrator population. Keep these tags honest.
-- **S-12.** **Mindfulness structural-change is CONTESTED, not established** —
-  Kral/Davidson 2022 failed to replicate the 8-week findings. Do not reinstate "practice
-  builds the brain structures" as fact. Conversely, **coercive control → serious
-  psychological harm IS established** (2023 meta-analysis, PTSD r=.32), but the *literal
-  physical/bodily injury from words* claim stays `[HYPOTHESIS]`. Keep these two apart.
-- **S-13 (NEW).** **Criminal coercive-harm law is a small, hard, civil-leaning tool.**
-  Post-steelman the qualified offense is **civil-first**; criminal tier = recklessness +
-  sustained conduct + aggravated (actual-harm) tier. Do not re-inflate it into a broad new
-  crime; OBJ-024 (unprovable once victim-protective burdens are honored) is the live limit.
-- **S-14 (NEW).** **Doc 06 is "least-bad and correctly oriented," not "effective."** BIP
-  evidence floor is low (Duluth ≈ 5% over arrest); ACT/MI (self-directed) outperform the
-  imposed Duluth model. Never promise rehabilitation; efficacy for the coercive/words-only
-  pattern is `[HYPOTHESIS]`.
+  evidence is for *victims*, not the perpetrator population. Keep tags honest.
+- **S-12.** **Mindfulness structural-change is CONTESTED** (Kral/Davidson 2022 failed
+  replication). Conversely **coercive control → serious psychological harm IS established**
+  (2023 meta-analysis, PTSD r=.32); the *literal bodily-injury-from-words* claim stays
+  `[HYPOTHESIS]`. Keep these apart.
+- **S-13.** **Criminal coercive-harm law is a small, hard, civil-leaning tool.** Civil-first;
+  criminal tier = recklessness + sustained conduct + aggravated (actual-harm). OBJ-024
+  (unprovable once victim-protective burdens are honored) is the live limit.
+- **S-14.** **Doc 06 is "least-bad and correctly oriented," not "effective."** BIP floor is
+  low; ACT/MI (self-directed) outperform imposed Duluth. Never promise rehabilitation.
 - **S-15.** **Accommodation teeth = negligent-retention/supervision (existing tort), no
-  diagnosis.** Role-design discharges the employer's duty of care; ignoring documented
-  conduct exposes them. Incentive, not individual entitlement. Guard against
-  liability-driven *over*-reaction (§4 safeguard gates it).
-- **S-16 (NEW).** **Behavior-not-people is necessary but NOT sufficient — pair it with the
-  power vector** (up=resistance / lateral=displaced / down=core harm; doc 02, doc 10
-  Finding F). Read the vector from *relationship-specific objective indicators*, NEVER
-  group identity. Without it the framework "enforces the wound" — disciplines displaced
-  lateral violence while apex power goes free.
-- **S-17 (NEW).** **The apex-power gap (OBJ-027) is the framework's most important
-  unfinished business.** It reaches subordinate-scale coercion and is silent at the apex.
-  Do not let the synthesis (doc 09) imply otherwise.
-- **S-18 (NEW, process).** **Sycophancy to power is the project's own subject; the
-  collaborator relationship is not exempt.** On a *primed* assertion from Endorphin
-  ("you'll find…"), the first move is a **disconfirming test**, not a confirming search.
-  Now encoded in CLAUDE.md agreement 1.
+  diagnosis.** Incentive, not individual entitlement; guard against liability-driven
+  *over*-reaction.
+- **S-16.** **Behavior-not-people is necessary but NOT sufficient — pair with the power
+  vector** (up=resistance / lateral=displaced / down=core harm). Read from
+  *relationship-specific objective indicators*, NEVER group identity.
+- **S-17.** **The apex-power gap (OBJ-027) is the framework's most important unfinished
+  business.** Still open after this session. Do not let doc 09 imply otherwise.
+- **S-18 (process).** **Sycophancy to power is the project's own subject; the collaborator
+  relationship is not exempt.** On a *primed* assertion, the first move is a **disconfirming
+  test**, not a confirming search. Encoded in CLAUDE.md agreement 1.
+- **S-19 (NEW).** **Anchors are evidence, not ammunition** (CLAUDE.md agreement 7). Cross-
+  cultural material understands how humans handled the pattern — *including how the systems
+  failed*. Never cite a tradition's harshest response (kunlangeta's "ice") as normative
+  support for punitive policy. Score the **category** and the **intervention** separately.
+- **S-20 (NEW).** **Anchor discipline: attestation + provenance before use.** Prefer
+  independently-attested, insider-co-produced anchors (arankàn: Yoruba dictionary + Lambo)
+  over single-sourced vivid ones (kunlangeta: Murphy-only, n=1, "ice" hypothetical). Tag
+  single-sourced anchors as such; separate a documented *category* from a documented
+  *practice* from an informant's *speculation*.
+- **S-21 (NEW, mechanism).** **Any restorative/community track needs an external,
+  non-disciplinable escape valve** to state law enforcement/courts (doc 07; doc 03 §5a).
+  Meidung's fatal flaw was a closed disciplinary monopoly. A process that can punish
+  "going outside" fails weaponization-inversion on its face. Re-review §5a if it ever gains
+  power over employment/housing/benefits — this verdict does not cover that.

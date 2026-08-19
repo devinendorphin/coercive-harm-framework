@@ -50,6 +50,34 @@ Every legal mechanism (doc 03) and every accommodation (doc 05) is tested agains
   vulnerable communities for decades," ground the disparate-impact prong in the
   seed's own testimony.
 
+## Cross-cultural negative anchors & a derived safeguard (doc 11)
+
+Two `/anthropology` deep-dives supply **negative** anchors — historical naming/exclusion
+systems that show precisely how this kind of machinery goes wrong. They are cited as
+warnings, never as precedent for punitive policy (CLAUDE.md agreement 7).
+
+- **Kunlangeta's "ice" response** (memo K2; `research/anthro-kunlangeta.md`). The one
+  documented (and even then only *hypothetical*, single-informant) response to the Yupik
+  incorrigibility judgment was **covert, consensus-triggered, unadjudicated, irreversible,
+  and safeguarded by nothing** — "somebody would have pushed him off the ice when nobody
+  else was looking." This is the exact profile prongs 3–4 exist to block: an
+  incorrigibility verdict fused to extrajudicial action with no due process and no appeal.
+  The framework recognizes the *category* it names but rejects its *remedy* absolutely.
+- **Meidung's weaponization** (memo M2; `research/anthro-meidung.md`). Anabaptist shunning
+  is documented (survivor/advocacy sources) as **captured against the people it should
+  protect**: abuse victims threatened with excommunication for reporting to outside law
+  enforcement, while contrition-performing perpetrators reintegrate. This is
+  confession-through-accusation / DARVO **at institutional scale** — the disciplinary
+  system turned into the abuser's instrument. `[SUPPORTED]`
+
+**Derived hard safeguard — the external escape valve (new, from M2).** Meidung's defining
+flaw was a **closed disciplinary monopoly with no outside appeal.** Therefore: *any
+restorative or community-based track this framework endorses (doc 03 §5a) must guarantee an
+**external, non-disciplinable escape valve** — access to state law enforcement and courts
+that the process cannot penalize a participant for using.* A community process that can
+punish someone for "going outside" reproduces the meidung failure and fails prong 3
+(weaponization inversion) on its face. This is now a **binding condition** on doc 03 §5a.
+
 ## Standing safeguards (populated by `/liberty-review`)
 
 First review pass 2026-07-09 (doc 03 §8 has full reasoning). No mechanism cleared
@@ -65,6 +93,7 @@ outright — every survivor carries required amendments, the correct posture her
 | Psychological homicide | 03 §3 | **`BLOCKED`** | compounds vagueness + weaponization + causation + speech (*Carter* covers only imminent-act encouragement). Unblock: confine to already-prosecutable narrow pattern, or hold as non-enactment research aspiration |
 | Endangerment reframing (qualified) | 03 §2 / 04 §0 | `CLEARED-WITH-AMENDMENTS` | enumerated conduct + course-of-conduct + **objective foreseeability nexus** + predominant-aggressor safeguard + protective-response exclusion + speech-anchoring in non-speech conduct + *Apprendi* discipline on the harm aggravator + civil-first. Foreseeability nexus is the keystone: retained, not removed |
 | Power-vector dimension | 02 / 03 §8 / 10 | `CLEARED-WITH-AMENDMENTS` | enumerated *relationship-specific* power indicators only (never group identity); "up = resistance" as self-defense/duress-model defense; predominant-aggressor screen for lateral/down; power-asymmetric scrutiny vs. DARVO-gaming; civil/restorative-first + independent review of the determination. **Irreducible residual:** it is assessed by the power-embedded institutions the framework distrusts (Finding C) |
+| Restorative track (lateral/displaced case) | 03 §5a | `CLEARED-WITH-AMENDMENTS` (2026-07-10) | predicate tied to §2/§9 enumerated conduct (not "non-grave"); **threshold** power-vector/predominant-aggressor screen (anti-DARVO-entry); down-vector & apex may not elect it; **independent** adjudicator + appeal (bare community vote fails DP); victim absolute opt-out + no forced confrontation; **voluntary** accounting (no compelled apology; no sincerity/character test); no coerced guilt-waiver; external escape valve (M2); routing/two-tier + outcome disparate-impact audit. **Residual:** community-embedded administration → capture only mitigated, not cured; re-review if given power over employment/housing/benefits |
 | Portfolio framing / graduated response | 03 §1, §5 | structural | inherit the per-instrument verdicts above |
 
 **Cross-note to the ledger:** OBJ-003 (expedited track = weapon) is downgraded by the

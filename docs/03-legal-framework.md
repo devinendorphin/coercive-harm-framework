@@ -166,6 +166,82 @@ around the couple, not the household. [the framework's own seed case is uncovere
   pathways (doc 06); grave/violent conduct toward the criminal instruments above.
   The civil-first posture (§2) *is* the front end of this graduation. `[NORMATIVE]`
   `NEEDS-LIBERTY-REVIEW`
+- **Cross-cultural note (doc 11, memo K1):** the punitive/rehabilitative split maps onto a
+  boundary multiple cultures drew independently — conduct-with-intact-awareness
+  (*kunlangeta*, *arankàn*) held distinct from treatable illness (`research/anthro-kunlangeta.md`).
+  This supports routing the *conduct* pattern to accountability + accommodation rather
+  than medicalizing it — but the same traditions' verdict that the pattern is *incurable*
+  does **not** travel (Mendota shows treatment effects in youth; doc 11 Part C). Import the
+  conduct/illness distinction, not the incorrigibility conclusion.
+
+### 5a. Restorative-track design — borrowed scaffold, rejected enforcement (doc 11, memo M1)
+
+For the **lateral/displaced** case (doc 02 power-vector) and other non-grave conduct, a
+restorative track needs a procedure. The Anabaptist **Meidung** tradition supplies a
+usable *procedural scaffold* — but the deep-dive (`research/anthro-meidung.md`) established
+it is a **cautionary** model, so import only the front-end and discard the rest:
+
+- **Take:** graduated admonition (private → widening) → a defined **grace period** → an
+  adjudicated determination **before** any exclusion → a defined, **reversible restoration
+  ritual** (voluntary accounting + independent re-entry decision — *not* a bare community
+  vote; see verdict amdts. 3, 5). This is more calibrated than informal consensus.
+- **Reject:** (1) meidung's **coercive enforcement** (total social/economic pressure) —
+  the framework's version is voluntary/incentive-based, not community-coerced; (2) the
+  assumption that public submission proves contrition — **meidung has no sincerity test;
+  performance suffices** (see doc 06). Do not represent a restoration ritual as a
+  contrition *verification*.
+- **Hard prerequisite (from memo M2 → doc 07):** any restorative track must carry an
+  **external, non-disciplinable escape valve** — guaranteed access to state law
+  enforcement/courts that the process cannot punish a participant for using. Meidung's
+  defining failure was a closed disciplinary monopoly with no outside appeal, which let it
+  be turned against abuse-reporters. `[NORMATIVE]`
+
+#### Liberty-review verdict (`/liberty-review`, 2026-07-10): `CLEARED-WITH-AMENDMENTS`
+
+A community/restorative process is *intrinsically* the meidung-shaped risk surface, so it
+clears only under the full amendment set below. Prong 3 (weaponization) is where it is
+weakest and drives most of these.
+
+1. **(Prong 1 — vagueness) Predicate-conduct definiteness.** "Non-grave conduct" is not a
+   standalone trigger. Eligibility ties to the **same enumerated conduct elements as §2/§9**;
+   "grave/violent" is the *exclusion* criterion routing *out* to the criminal instruments.
+   The restorative track is a disposition option for already-defined conduct, not a fuzzy
+   parallel jurisdiction.
+2. **(Prong 3 — anti-DARVO-entry) Threshold power-vector / predominant-aggressor screen.**
+   The doc 02 vector + predominant-aggressor determination is applied **at entry, before
+   anyone is named respondent**, so an abuser cannot initiate a "community accounting"
+   *against* the victim (reverse-victim). Down-vector core harm and **apex** power may not
+   *elect* this softer track to escape the offense (guards against two-tier justice).
+3. **(Prong 3/4 — anti-capture) Independent adjudicator; the bare "vote" is amended out.**
+   The determination and re-entry decision cannot be made by a body the respondent
+   **controls or holds institutional backing within** (the Flatbush/apex-capture risk). A
+   majoritarian community vote alone **fails** the due-process floor; replace with defined
+   objective criteria + an **independent facilitator/panel** + an **appeal path**.
+4. **(Prong 3/4 — victim autonomy) Absolute opt-out; no forced confrontation.** The harmed
+   party has an unconditional right to decline the restorative track and route to the
+   ordinary civil/criminal process, and is **never** compelled into face-to-face contact
+   with the respondent (aligns doc 04's no-forced-confrontation rule).
+5. **(Prong 5 — compelled speech) Accounting is voluntary.** "Public accounting" may not be
+   compelled; refusal to perform a scripted apology/confession **cannot itself** be a ground
+   for exclusion or escalation. This also enforces the "no sincerity test" finding — the
+   ritual certifies *completed conduct/amends over time*, never inner transformation or a
+   character label (prong 2).
+6. **(Prong 4 — no coerced waiver) Track access ≠ guilt admission.** Entering the
+   restorative track may not be conditioned on waiving the presumption of innocence or
+   admitting guilt as the price of avoiding the criminal track.
+7. **(Binding, from M2) External non-disciplinable escape valve** — retained as an
+   absolute precondition (doc 07).
+8. **(Prong 6 — disparate impact) Routing audit.** Monitor **who** is offered restorative
+   vs. criminal disposition — the live risk is a two-tier pattern (connected/powerful
+   respondents steered to the lenient track, marginalized ones to the punitive one) — plus
+   standard outcome disparate-impact monitoring.
+
+**Prong 2 (person vs. pattern):** passes as amended — conduct + concrete amends + time,
+never a "he's changed / he's still X" character judgment (§5 above; doc 06 §3a). **Residual
+(cannot be fully cured):** the process is still administered by community actors embedded in
+local power, so amendments 2–3 mitigate but do not eliminate capture; the escape valve (7)
+is the backstop. Re-review if §5a is ever given power to impose exclusion from employment,
+housing, or benefits — that would raise the stakes to a level this verdict does not cover.
 
 ## 6. Expedited track — RETAINED, reframed as process-as-weapon mitigation (Endorphin's call, 2026-07-09)
 
