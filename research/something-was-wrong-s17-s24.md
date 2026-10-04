@@ -19,10 +19,10 @@
   - **S21:** **read in full** (all 19 episodes), 2026-10-04.
   - **S22:** **read in full** (all 13 episodes plus E01b), 2026-10-04.
   - **S23:** **read in full** (all 19 transcribed episodes), 2026-10-04.
-  - **S24:** full read **in progress**. Until it is finished, findings drawn from S24 rest
-    on a targeted grep, the notes, and the verified records below.
+  - **S24:** **read in full** (all 23 transcribed episodes, plus the E25 update),
+    2026-10-04.
   - **No audio was reviewed.** At the S16 standard (every episode read in full), this file
-    covers S17–S19 partially, S20–S23 fully, and S24 thinly (pending).
+    covers S17–S19 partially and S20–S24 fully.
 - **Grades:**
   - *Record*: a primary or official document, or reputable reporting located this session.
   - *Narr.*: the transcript's account, uncorroborated.
@@ -34,7 +34,7 @@
 | Season | Item | Source |
 |---|---|---|
 | S17 | Cody Sartin convicted of child-abuse murder of Jace Burgess (3), Tulsa, 24 Feb 2012; jury recommended life and a $10,000 fine | News On 6 |
-| S18 | Kaitlyn Braun (Brantford, ON): pleaded guilty to 21 charges (Dec 2023). Sentenced Feb 2024 to 2 years less a day of house arrest; the judge called his own ruling "distasteful". Reoffended Apr 2024 under the name "Kate Baker". Sentenced June 2025 to **5 years**. Permanently gave up her social-worker registration Sept 2026 | CBC; CTV/CP24 (2025, 2026) |
+| S18 | Kaitlyn Braun (Brantford, ON): pleaded guilty to 21 charges (Dec 2023). Sentenced Feb 2024 to 2 years less a day of house arrest; the judge called his own ruling "distasteful". Reoffended Apr 2024 under the name "Kate Baker". Sentenced June 2025 to **5 years** in total (joint submission). That figure counts the original term; the show's "3 years 8 months" (E25) is the custody remaining: the rest of the house arrest, now served inside, plus 3 years. Permanently gave up her social-worker registration Sept 2026 | CBC; CTV/CP24 (2025, 2026) |
 | S18 | Seattle PD: in Apr 2022 the sexual-assault unit stopped assigning most new adult cases (4 detectives, down from 12) | KUOW (internal memo); KOMO |
 | S22 | Megan Stoner (Fishers/Elwood, IN): 3 felony fraud counts, 3 theft counts, corrupt business influence (warrant Apr 2023). Sentenced 18 Dec 2023: 730 days with 365 suspended, restitution, probation | WTHR; WRTV; Fox59 |
 | S23 | Malik's Law (TX HB 4553, 89th Leg., birth-outcome reporting by midwives): last action 8 May 2025, "reported favorably as substituted". **Not enacted** | Texas Legislature Online |
@@ -523,18 +523,206 @@ not been convicted. Otherwise they are described.*
     what we're concerned about."
   - What she wanted was to be **told and referred, not overridden.**
 
-**S24 — the troubled-teen industry ("institutional child abuse")**
-- **Lineage:** Synanon → Straight Inc. → KIDS of North Jersey; WWASP.
-  - Synanon's dismantling came through lawsuits and convictions.
-  - Civil verdicts or settlements against KIDS: $4.5M (2001), $6.5M.
-- **1990s deaths:** North Star owners pleaded to negligent homicide.
-- **2024–25 deaths and closures:** Trails Carolina, Asheville Academy, Discovery Ranch.
-- **"Mandated reporters are the ones doing the abusing"** (survivor).
-- **Programs reopen under new names after closure.**
-- **Practices described:** "attack therapy", isolation, food and sleep deprivation, coerced
-  confessions.
-- **Expert episodes:** Maia Szalavitz (*Help at Any Cost*); Meg Appelgate (Unsilenced);
-  Dr. Daniel Keating; Dr. Stephanie Hartselle.
+**S24 — the troubled-teen industry ("institutional child abuse")** *(read in full: 23
+transcribed episodes; E09 and E19 have no transcript; E25 is a community update)*
+
+- **What the season is.** It covers wilderness programs, therapeutic boarding schools,
+  residential treatment centres and offshore "behaviour modification" facilities. There
+  are two expert episodes (Szalavitz, E01; Keating, E05), one advocate (Applegate, E02),
+  two bereaved parents (E13 and E17), and one father interviewed alongside his child
+  (E23–E24). The rest are survivors, most of them first-name only.
+  - Programs covered: Utah, North Carolina, Georgia, Idaho, Montana, Oregon, Arizona and
+    New York sites; Jamaica (Tranquility Bay) and Western Samoa.
+  - Placements run from 1990s Straight-era programs to 2020.
+- **Records the show cites** (record per show, not fetched this session unless they are in
+  the verified table):
+  - Lineage: Synanon → The Seed → Straight Inc. → KIDS of North Jersey, and CEDU → WWASP.
+    The Seed lost federal funding after a Senate subcommittee compared its methods to
+    "Korean brainwashing", then reopened as Straight. KIDS: civil verdicts or settlements
+    of $4.5M (2001) and $6.5M, and a New Jersey Medicaid overbilling suit (1999).
+  - 1990s deaths:
+    - Challenger, Utah, 1990: heat stroke. The owner was charged with negligent homicide
+      and acquitted.
+    - North Star, 1994: peritonitis. The owners pleaded to negligent homicide.
+  - Ivy Ridge (NY):
+    - May 2005: a riot, with 12 students and one staff member arrested.
+    - The NY Attorney General found it had misrepresented itself as accredited and
+      diploma-granting. The settlement stopped the diplomas and required notice and
+      partial refunds.
+    - Dec 2006: NYSED found it was not a lawfully recognised school, and found health and
+      safety deficiencies.
+    - Closed 2009.
+    - A House Education & Labor hearing was held 24 Apr 2008 (with GAO testimony).
+    - The St. Lawrence County DA opened an investigation in 2024. It has no public
+      resolution.
+    - Survivors' suit against New York State was dismissed on limitations.
+  - Mount Bachelor Academy (OR):
+    - 1998 allegations from ex-employees and parents.
+    - 2009: an Oregon DHS investigation found abuse and neglect, including **sexualised
+      role-play**, forced isolation and punitive labour. The licence was suspended and the
+      school closed.
+    - 2010 settlement: the school acknowledged DHS had a reasonable basis to investigate.
+  - SageWalk (OR): a 16-year-old died of heat stroke in Aug 2009 carrying an ~80-lb pack.
+    The program closed in 2011.
+  - Trails Carolina: a 17-year-old died of hypothermia in 2014. The 2024 death is in the
+    verified table.
+  - Pacific Quest: fined $13,300 in 2020 for unlicensed units.
+  - Copper Canyon Academy closed in 2014. Sedona Sky was then licensed **at the same
+    address** under a new LLC.
+  - A former Copper Canyon teacher was convicted in 2023 of sexual exploitation of a minor
+    (50 years).
+  - Sequel: about a dozen facilities closed by 2021. A restraint death at Lakeside Academy
+    (MI, 2020). Its successor operator was founded by a Sequel co-founder (APM Reports).
+  - Island View became Elevations RTC **at the same address**. Aspen and CRC (Bain-owned)
+    sat in the ownership chain of several programs.
+  - Turning Winds: the founder's predecessor program lost its Idaho licence in 2002.
+    Child-endangerment charges in 2005 were dropped.
+  - Aurora Center for Healing (NV): admissions banned 2023; licence suspended Apr 2025.
+  - Tranquility Bay (Jamaica, 1997–2009), from Guardian reporting in 2003:
+    - The contract gave the program 49% custodial rights and waived liability.
+    - Physical force was permitted, by staff required to hold no more than a high-school
+      education.
+    - WWASP's founder faced a civil RICO suit in 2006.
+- **The mechanism, as the season documents it** (narr. unless marked):
+  - **The sale.**
+    - The pitch: "What's more important, your money or your child's life?" (E23 father;
+      E13; E15 "money shouldn't be an issue").
+    - Parent incompetence is asserted as a lever: "if you were able to do it at home, they
+      wouldn't be here."
+    - Families are coached toward second mortgages.
+    - Referrals come from educational consultants (one was the program co-owner's mother,
+      E12), therapists, school counsellors, Dr. Phil, and an undisclosed WWASP marketer
+      (E17).
+    - An upper-level student is brought in to tell a parallel story.
+    - Stays are extended: "she's not ready… all the hard work is wasted." Max's stay went
+      from 28 days to 58, then on to a sister program **owned by the same parent company,
+      undisclosed** (E23; also E18).
+  - **Transport.**
+    - Strangers at 2–3 a.m. with "the easy way or the hard way": handcuffs, hogtying (E14),
+      blindfolds.
+    - The child is told "we have paper showing we're allowed."
+    - Bystanders do not intervene (E06, E14).
+    - In E16 the transporters were told about the abuse at home, conferred, and drove on.
+  - **The break.** Strip searches, including during menstruation and with a man present.
+    Then: numbers instead of names; control of toileting, gaze and speech ("bans");
+    restraint and prone "observed placement"; isolation; food used as reward and
+    punishment; forced labour that produced firewood sold to neighbours (E11, E21) and
+    construction that saved the owner wages (E22, E24); denial of medical and dental care.
+  - **Peer enforcement by design.** Children assign each other's punishments, run
+    confrontation groups, and lead the "Life Steps". Level systems reward attacking. Two
+    survivors describe enforcing on others and now carry moral injury (E20, E18). One
+    later re-ran a seminar exercise on an asthmatic roommate (E16).
+  - **Large-group awareness-style seminars** for children and for parents: sleep
+    deprivation, costumes and archetype roles (E24 "Cinderella", E21's six-foot "victim
+    triangle"), self-accusation scripts as a condition of speech ("I am all three roles";
+    "I'm often wrong, but…").
+  - **Communication controlled and pre-discredited.**
+    - Parents are told in advance: the child "will say we're abusing them… they're lying".
+      Six separate accounts: E03, E04, E13, E15, E18, E23.
+    - Calls are monitored and cut off when abuse is mentioned.
+    - Letters are read, redacted or reframed as manipulation.
+    - Parents are instructed to tell the child "you're not coming home" (E03, E15, E21).
+  - **Compelled confession.**
+    - Five accounts of forced *false* confessions: E03, E11, E12, E15, E22. In E15 the
+      false confession was sent to the parents as truth.
+    - Disclosure of one's own victimisation is extracted and treated as the child's
+      misconduct: "accountability" letters for an uncle's molestation (E03); E24's
+      "clean-up list", read to parents.
+    - Denial counts as proof: "if you deny that, then you are lying."
+  - **Disclosure triggered removal.**
+    - E07: a 14-year-old's disclosure of rape by a 36-year-old led to her transport within
+      days. No report of the adult is mentioned.
+    - E11: after a staff member's sexual abuse of a resident under 14, the program stripped
+      her graduate status, which meant another six months' fees.
+    - E18: a girl surrendered her self-harm tool and was put under hallway observation.
+  - **Adults kept past 18.**
+    - Papers were "summarised" and signed under threat of disownment (E16).
+    - Parents were advised to seek extended custody (E20).
+    - Samoa (E22): an owner told an 18-year-old "your parents signed your rights away.
+      You're actually a citizen of Samoa." She got her passport by threatening suit, and
+      the U.S. embassy flew her home.
+  - **Aftercare and exit.**
+    - No aftercare. Failure is framed as the child's. A pre-graduation meeting told the
+      father: "more than likely, they will [drink and use]" (E24).
+    - A "sent back for three months free" clause hung over the child (E15).
+    - Post-discharge sexual approaches by former staff (E07–E08).
+  - **Defeating oversight.**
+    - Compliant students coached as "representatives" before Oregon DHS interviews (E24).
+    - Narrative management after a student's suicide (E18).
+    - "Happy family" photos staged for marketing (E16).
+    - A former staffer proposed going to the abandoned building to "get rid of my own files
+      as well as some of the people I worked with" (E15).
+- **Institutional responses received.**
+  - Blue Ridge (E12): "this isn't an all-or-nothing conversation… many of the items you
+    listed are inaccurate". It claimed alumni families had contacted the show, which the
+    host could not find.
+  - A former co-owner (E03): the rebrand was "not due to reports or allegations".
+  - A parent company (E04): "unable to comment on pending legal matters".
+  - The founder's attorneys (E21): the short deadline "suggests that you are not interested
+    in the truth". The show did give little notice, so the complaint is fair on its face.
+  - The WWASP founder's 2024 letter to the editor (E13, record; see X11):
+    - "these students usually suffer from a history of severe problems and often mental
+      illness";
+    - "where are then such complaints?";
+    - the documentary is "a revenge project".
+- **The §2 echo.** This is Endorphin's institutionalization question, answered from the
+  modern record.
+  - **E16:** a 17-year-old's maternal family staged an intervention to move her out of a
+    violent home. Within weeks her parents told her school she was "badly behaved" and had
+    her transported. Her father later said in hindsight he would have let her go.
+  - **E20:** after the daughter left the family's high-control church, she was shunned,
+    medicated "to fix me", and sent to Jamaica. The church was instrumental in family
+    decisions.
+  - **E04:** a mother with clinical credentials built a "bipolar at eight" narrative that
+    clinicians deferred to. An independent psychiatrist broke it.
+  - **E10:** a mother who had herself nearly been institutionalised by her own mother used
+    a 72-hour hold on her daughter as discipline ("this is where you deserve to go").
+  - **E12:** reputation over the child's life. "What if we run into somebody we know at the
+    hospital?"
+  - **E14:** a father seeking a family-court judgeship feared his son's arrest would
+    "tarnish the family name".
+  - **The common move:** the person who could leave or expose the family is confined on an
+    intimate's account and called the problem. The authority runs by parental proxy where
+    the 19th century used a husband's petition. Keating (E05) names the historical link:
+    status-offence incarceration on a parent's declaration of "incorrigible".
+- **The comparator the season supplies** (n is small, and these are the narrators'
+  attributions):
+  - **Max (E24):** after the programs, a transitional youth facility staffed by real social
+    workers gave the same substance-using 16-year-old rules she *chose* to accept ("It was
+    not a forced decision as it was in the programs"). Relapses were met with
+    understanding. Then FAFSA, early graduation, a trade.
+  - **Dylan (E22):** "I just needed you to let me do it on my own".
+  - **Independent evaluations:** E22's board-certified psychologist found "not crazy, just
+    really smart and really independent". E04's independent psychiatrist stopped the
+    medication.
+  - **The one court asked (E24):** it refused an uncle with no custody who wanted to send
+    the child to another program.
+  - **Max's younger sister** chose her own therapist and did well.
+- **Expert framing.**
+  - **Szalavitz:** "the business model itself requires abuse and neglect". Also: "there is
+    no diagnosis of troubled teen". She wants independent evaluation before any placement.
+  - **Keating:** protection versus autonomy is "an inescapable tension". The answer is
+    *scaffolding inside a relationship*, and "external shaming coercively is… where the
+    core of the problem lies" [authoritative-parenting literature: ESTABLISHED in broad
+    strokes; dual-systems model: SUPPORTED, contested in detail].
+  - **Katie R. (E18, a social-work researcher):** "if kids' phone calls are monitored and
+    they have no way of reaching authorities, there's no way to file… an allegation".
+- **Repair.** A minority of parents apologised flat:
+  - E24 father: "If I had known this, I would never have done this… What can I do?"
+  - E13 mother, a former seminar volunteer: "I was a cog in that wheel."
+  - E15 mother.
+
+  Others offered the care rationale *as* the apology: "I was trying to save your life"
+  (E11 — "That's not an apology"); "what should we have done?" (E21); "Jamaica saved my
+  life" (E20 parents). Max's mother, excluded from the decision over her objection, writes:
+  "the powerlessness of having no say in the matter was debilitating".
+- **Deaths (described, not named):** E13's daughter (2017) and her twin (fentanyl, 2022).
+  E17's son died by suicide in 2021, the day after disclosing a sexual assault at the
+  program.
+- **E25 (community update):**
+  - The S18 Braun record is updated (see the verified table).
+  - S25 is announced: Title IX, and *Cummings v. Premier Rehab Keller*, 596 U.S. 212
+    (2022), which bars emotional-distress damages under Spending Clause statutes.
 
 ## Cross-season findings (the part that matters for the framework)
 
@@ -547,7 +735,10 @@ OBJ-030) `[SUPPORTED]`, from multiple independent instances.
   - The Origins owner got probation in 2015 and later ran the center where S23's harms
     occurred (narr. on the docket).
   - A convicted rapist obtained a nursing license through a registry misspelling (narr.).
-  - Closed troubled-teen programs reopen under new names (narr.).
+  - Closed troubled-teen programs reopen under new names, sometimes **at the same address**:
+    Copper Canyon became Sedona Sky; Island View became Elevations; The Seed became
+    Straight; Sequel's successor operator. Turning Winds reopened after losing a licence
+    (S24, record per show). S23's Origins rebranded and reopened.
   - The father in S16 ran a business through nominee fronts while on probation (record).
 - **Doc 05 relies on employers and licensing to enforce role restrictions.** The corpus
   shows those are the levers that lag furthest and are easiest to evade.
@@ -569,12 +760,19 @@ OBJ-030) `[SUPPORTED]`, from multiple independent instances.
 - **False accusations used as a tactic** (record and narr.):
   - S18: Braun's false sexual-assault report;
   - S22: Stoner's alleged fabricated pastor accusation;
-  - S18E12: a recanted childhood accusation.
+  - S18E12: a recanted childhood accusation;
+  - E25 update (CBC, record): Braun had earlier made a false sexual-assault allegation
+    against an **11-year-old client** while working as a social worker. That is the
+    both-victims case in its purest form: the falsely accused is a child.
 - **The *claim* of false accusation used by abusers:**
   - S17: "judges always grant POs to women";
   - S16: "I've been accused falsely";
   - S18: the tattoo artist's "autism/culture" defence;
-  - S18E13–14: a restraining order taken out against a whistleblower.
+  - S18E13–14: a restraining order taken out against a whistleblower;
+  - S24E08: a girl who reported staff notes left open on a shared drive was accused of
+    "hacking" in a staff-led group;
+  - S24E16: a child's report of parental violence was met with "there's always two sides…
+    you're probably just playing the victim".
 - **A survivor-centred podcast holds both**, which argues against either pole's
   generalization.
 - Doc 07's anti-weaponization safeguards should name **both** channels explicitly:
@@ -643,6 +841,22 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - **For doc 05.** The accommodation model must be checked against this too. Role
   restrictions imposed on a documented-conduct basis are overrides of the restricted
   person's autonomy, so they need the same justification test. Flagged for `/liberty-review`.
+- **Calibrations from the S23–S24 full reads:**
+  - **Informing and referring are not overrides** (S23, Barbie). A provider who defers to a
+    patient's denial of danger and calls it "respecting autonomy" is abandoning her. What
+    she asked for was to be told and referred. The duty to inform is part of autonomy.
+  - **Override by proxy.** S24's override is exercised by parents through a contract with
+    a private operator. Keating calls protection versus autonomy "an inescapable tension"
+    in adolescence. That is the incapacity branch of the justification test, and it is
+    real. His answer is **graded scaffolding inside a relationship**. Removing a child from
+    every relationship and shaming them coercively fails the proportionality limb on any
+    reading.
+  - **Covert administration.** S23's comparator, misoprostol given as "herbal tea", is the
+    override with consent removed entirely.
+  - **The care rationale offered as the apology.** "I was trying to save your life" (S24E11)
+    is a justification claim. The survivor's "that's not an apology" marks what the
+    justification does not do: it does not erase the harm. That is the harm/justification
+    split stated by the person overridden.
 
 **X8 — Institutional actors are reached by closure and settlement, rarely by criminal law**
 (OBJ-027) `[SUPPORTED]`.
@@ -652,6 +866,12 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
   - Origins: closure; malpractice uninsurable.
   - Military sexual trauma: the restricted-report route trades investigation for safety.
   - S16: the police shooting settled without a finding.
+  - S24 (record per show): the Ivy Ridge AG settlement, the Mount Bachelor DHS suspension
+    and 2010 settlement, Aurora's licence suspension, and a Turning Winds charge dropped.
+    The survivors' suit against New York was time-barred. North Star (1994) is the rare
+    plea. Applegate (E02): "a lawsuit can close a program faster than abuse allegations and
+    DCFS and law enforcement." Liability waivers are standard paper (Tranquility Bay;
+    Copper Canyon "if I died"; compare S23's Origins waiver).
 - **S16 F1's asymmetry recurs across the corpus.** Private individuals go to prison; the
   institutions settle.
 
@@ -659,11 +879,141 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - **The instances:**
   - S17: the ER physician's non-report, despite charting a classic abuse pattern;
   - S24: reporters who were themselves the abusers;
+  - S24E07: a 14-year-old's disclosure of rape led to *her* removal, with no report of the
+    adult mentioned;
+  - S24E16: transporters told of abuse at home conferred and drove on;
+  - S24E11: the program's letter to parents about a staff member's sexual abuse said "a
+    staff member exhibited unsafe behavior";
   - S19: the registry misspelling.
 - **A research item for doc 04:** validated bruising decision rules (the "TEN-4" rule,
   for bruising on the torso, ears or neck in young children). If confirmed, S17's ear
   bruising was a *validated* red flag. That would be a foreseeability anchor in the sense
   of S-9. **Cite before use.**
+
+**X10 — Person-typing in the corpus: flagged, not adopted** (Agreement 3; doc 02, doc 07)
+`[SUPPORTED]` as a description of the corpus.
+- **Hosts.** Across S18, S20 and S22 the host draws a demographic and characterological
+  profile ("a different kind of the same type of person") and names and profiles S20's
+  uncharged subject again. That is the move Agreement 3 forbids. The file records the
+  conduct alleged and drops the profile.
+- **Programs (S24).** Programs read adoption as "fear of abandonment" (E22), autism and
+  near-muteness as manipulation (E03), religious exit as illness (E20), queerness as
+  pathology (E04, E13), and a menstrual delay as pregnancy (E15) or miscarriage (E11). The
+  WWASP founder's letter discredits complainants by imputed "mental illness". Typing is
+  one of the override's instruments, not a stray habit of the narrators.
+- **Courts (E25).** The psychiatric diagnoses read out at Braun's sentencing are reported
+  in the news. They are not repeated here. Her conduct is on the record, and the conduct is
+  what the framework uses.
+- **Rule for the framework:** a label assigned *by the party exercising power* over the
+  labelled person is evidence about that party's method. It is not evidence about the
+  person.
+
+**X11 — Reports are discredited before they are made, and the silence that follows is cited
+as proof** (doc 04, doc 01; veriticide candidate) `[SUPPORTED]`. Six independent S24
+accounts, plus the institution's own words.
+- **The move.** Parents are told in advance that the child will report abuse and will be
+  lying (S24 E03, E04, E13, E15, E18, E23). Calls are monitored and cut off. Letters are
+  read. The child is punished for the report.
+- **The closing move** comes from the WWASP founder's 2024 letter: "if there was systemic
+  or widespread abuse… where are then such complaints?" The absence of complaints is
+  manufactured by the monitoring and then offered as evidence that nothing happened. Katie
+  R.'s answer (E18) is the structural rebuttal.
+- **The same shape elsewhere:** S21's church disbelieved and demoted its earlier reporter.
+  S16/S20 abusers pre-load "she'll say I…".
+- **For doc 04:** contemporaneous *unmonitored* channels (Applegate's bill: unmonitored
+  contact with a parent, advocate and attorney; unannounced inspections) are an
+  evidentiary safeguard as well as a welfare one. Without them "no complaints" carries no
+  weight.
+- **Candidate for the veriticide ledger:** the founder's letter. It discredits by
+  diagnosis, cites a manufactured silence, demands specifics, and imputes motive. Mapping
+  it onto that repo's six laundering moves is **for Endorphin's eye** (not done here).
+
+**X12 — Compelled confession: denial is treated as proof** (doc 04, doc 07, doc 06)
+`[SUPPORTED]`.
+- **The instances:**
+  - five S24 accounts of forced *false* confessions;
+  - victimisation recast as the child's own misconduct (accountability letters, the
+    clean-up list);
+  - "if you deny that, then you are lying".
+- **Why it matters beyond S24:** it is the unfalsifiable structure a coercive-harm
+  framework is most at risk of reproducing. Examples would be a rubric in which an accused
+  person's denial counts as "inversion of truth", or a victim's recantation counts as
+  proof of coercion.
+- **Doc 07 needs an explicit rule:** no element of the identification rubric may be
+  satisfied by the subject's denial alone, and none may be defeated by the complainant's
+  recantation alone. Both need independent indicators.
+- **For doc 06:** a confession extracted under leverage is worthless as evidence of
+  change. E12: "When I left, I was not changed at all, if anything, I was just more
+  manipulative."
+
+**X13 — Records decide credibility, and institutions edit, withhold or move to destroy them**
+(doc 04; step one) `[SUPPORTED]`.
+- **The instances:**
+  - S23: post-event chart edits framed as consent.
+  - S24 Ivy Ridge: "nobody else believed them until we got all the paperwork and the
+    videos" (E14). The files showed length-of-stay bonuses and drop quotas (narr.) and the
+    reframing of truthful letters.
+  - A former staffer's wish to "get rid of my own files" (E15).
+  - Mount Bachelor coached witnesses before DHS (E24).
+  - S22: the host declined to disclose testimony.
+- **This is the strongest support in the corpus for the repo's step-one posture.** The
+  first demand is **preservation and disclosure** of the institution's own records, not a
+  finding.
+
+**X14 — The parent is both agent and target** (doc 07 both-victims lens; doc 03 liability)
+`[SUPPORTED]`.
+- **How the parent is worked on:**
+  - The industry sells to fear ("your money or your child's life") and to parental shame
+    ("you guys were bad parents").
+  - It runs a parallel coercive-persuasion track: seminars, the "plus five" commitment
+    scale, recruitment of other parents, and shunning of those who withdraw (E13).
+  - It instructs parents to deceive the child (E15) and conscripts them to deliver the
+    break (impact letters).
+- **The parent who dissents is excluded.** Max's mother learned by fax.
+- **Voluntary routes fail first.** A parent who tried voluntary rehab was told there was
+  no bed (E17).
+- **For doc 03:** any civil or criminal mechanism aimed at placements must locate primary
+  liability on the operator, the referrer paid for the referral, and the transporter. The
+  persuaded parent is secondary. This parallels X6, where liability is not to land on the
+  coerced parent. **For `/liberty-review`.**
+
+**X15 — Confinement pre-empts an exit or a disclosure** (doc 02, doc 03; the institutional
+history) `[SUPPORTED]` as a recurring pattern among instances.
+- **The instances:** S24 E16, E20, E04, E10, E12 and E14 (see the S24 summary). The
+  dependant who was about to leave, diverge or expose the household is confined on an
+  intimate's account.
+- **The structure is the same as the 19th-century commitments** in the veriticide
+  institutionalization file: Packard; women committed for religious divergence or for
+  inheritance. Only the authority differs: parental proxy and a private contract, where the
+  past used a husband's petition and a physician's signature.
+- **For doc 02:** the taxonomy should carry "pre-emptive confinement of a dependant" as a
+  behaviour. Indicators: timing relative to an exit or disclosure; prior seeding of a
+  pathology narrative with schools and clinicians; concealment from relatives ("tell them
+  you're at camp"). E14 adds: "if they didn't think they were doing anything wrong… why
+  would they lie about it?"
+
+**X16 — Voluntary, relational support produced the exits that coercion claimed to produce**
+(doc 06) `[SUPPORTED]` as anecdote in a curated corpus. It is not an outcome study.
+- **The instances:** S24 E24's transitional facility, E22's "let me do it on my own",
+  E04's and E22's independent evaluators, Max's sister's chosen therapist, and the
+  earlier seasons' non-directive support.
+- **These are the self-directed-only constraint seen from the ground.** They match
+  Keating's scaffolding and Szalavitz's "most need nothing residential".
+- *Disconfirming check:* survivors of coercive programs who credit the program exist in
+  the corpus (E02's early view, E15's friend, E20's parents). The good-experience defence
+  is used by institutions and by survivors alike. The anecdotes do not settle efficacy.
+  What they show is that the programs' outcome claims were never tested (GAO 2007/2008, per
+  the show; **check**).
+
+**X17 — The corpus assigns deception's moral valence by who deceives** (doc 07; method)
+`[SUPPORTED]` as a description.
+- **The instances:** S20 condemns a catfish persona. S21E19 and S22's stings celebrate
+  deception against a wrongdoer. S23's institution infiltrated the survivors' group. S24
+  programs lie to children "for their own good".
+- **A framework cannot import that asymmetry.** If deception is a harm when an abuser uses
+  it, then using it against an abuser needs the same justification test as X7's override:
+  a burden on the deceiver, plus necessity and proportionality.
+- **The rule itself is for Endorphin's eye.**
 
 ## Privacy and handling
 
@@ -686,26 +1036,49 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - **S23:** no midwife, owner, or clinic employee is named, although the show names them.
   The infant who died is referred to as "Malik" only because the bill bears his name.
   Survivors are not named.
+- **S24:**
+  - **Not named:** program owners, directors, therapists, staff, transporters and
+    educational consultants, unless convicted. The show names several, and their
+    statements are quoted by role.
+  - The 2023 Copper Canyon teacher conviction is cited by role. His name adds nothing.
+  - **Deceased minors and young adults are not named.** They are described by age,
+    program and year.
+  - **Survivors** are referred to by the first names the show uses, or not at all.
+  - **Named:** Szalavitz, Applegate and Keating, who are public authors and experts on
+    record, and the programs themselves, as institutions.
+  - The detail of sexual abuse of minors is kept to what the structural point needs.
+  - E13's mother suspects foul play in her daughter's death. That is **not established**
+    and is not repeated as fact.
+  - E22's characterisation of a former head as "textbook narcissistic" is her word.
+    **Agreement 3:** it is not adopted.
+- **E25 / S18:** the court-reported psychiatric diagnoses are not repeated (X10).
 
 ## BOUNDARY
 
 **Establishes:**
 - the season contents and dates;
 - the verified records in the table above;
-- **nine cross-season patterns**, each built from two or more independent instances in a
-  curated corpus.
+- **seventeen cross-season patterns**, each built from two or more independent instances
+  in a curated corpus. X16 is anecdote, and its own check says so.
 
 **Does NOT establish:**
 - base rates of any kind. The show selects cases where something went wrong;
 - the truth of any narrated allegation not matched by a record;
 - the guilt of anyone uncharged;
 - which specific overrides, if any, are justified (X7 states the test, not the answers);
-- that board lag is typical (X1).
+- that board lag is typical (X1);
+- that coercive programs never help anyone, or that voluntary support always does (X16).
+  The corpus is selected for harm;
+- the truth of any S24 program-specific allegation not matched by a record. Program
+  denials are quoted where received;
+- coordination between programs. Shared ownership chains are recorded where the show
+  cites them. Shared methods are a common move-set, not collusion.
 
-**Coverage limit:** S20–S23 have been read in full. S24 was sampled; the full read is in
-progress. A finding resting only on a sampled
-season is flagged by its grade. A full read of S20–S24 would be the next pass if any of X1,
-X3, X4 or X7 is to carry weight.
+**Coverage limit:** S20–S24 have been read in full. S17–S19 were read through keyword
+windows only. A finding that rests on S17–S19 alone (X5 and X6 in part) is flagged by its
+grade. A full read of S17–S19 is the remaining pass. Many S24 records are "record per show"
+and have not been fetched. The items marked **check** must be verified before any doc
+cites them.
 
 ## Sources
 
