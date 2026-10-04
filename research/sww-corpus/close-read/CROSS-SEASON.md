@@ -53,15 +53,28 @@ were all cases where the target exited, the pattern was exposed, or someone died
 **No case so far shows a P-field absent while the perpetrator had the opportunity to
 perform it.**
 
-**Disconfirming check on this headline.** R-SEP's universality is partly a **selection
-effect**: a story reaches a survivor podcast *because* the target got out or the pattern was
-exposed, so the response-to-exit phase is always on the record. That limits what R-SEP's
-universality proves about the *frequency* of the behaviour. It does not weaken the
-low-variance claim, because the claim is about the *kind* of behaviour once the trigger
-occurs, and the kinds observed (hoover, DARVO, smear, legal and economic levers,
-threats, lethality) match the clinical construct of post-separation abuse (Spearman et al.
-2022). The "not checked" cells mark T1/T2 information I did not code on the first reading.
-They are to be filled on re-read, not assumed.
+**Disconfirming check on this headline (revised after the operator's challenge, "so the host
+should have interviewed some dead people?").** The first version of this check said R-SEP's
+universality was "partly a selection effect" because stories reach a survivor podcast only
+when the target got out. That pointed the bias the wrong way. The cases a survivor podcast
+cannot hold fall into three classes:
+1. **Killed at or after exit.** Their R-SEP was the most severe form of the same response.
+   Adding them would strengthen the pattern, not weaken it. They are also not voiceless:
+   the literature reaches them through proxy informants and bereaved families (Campbell
+   2003; Monckton Smith's 372 homicides; Domestic Homicide Reviews), and so does this corpus
+   (S3 was told by the bereaved; S4 by survivors of a mass death).
+2. **Still inside.** No exit has happened, so R-SEP has not been triggered. That makes it
+   unobservable, not absent.
+3. **Left without retaliation.** This is the only class that could disconfirm R-SEP. Its
+   members are alive and able to speak. The residual bias is that a quiet exit may not seem
+   like a story worth telling, so these people may under-submit.
+
+So the corpus cannot estimate *how often* perpetrators retaliate at exit; that number has to
+come from population studies. It can test the *kind* of perpetrator behaviour once the
+trigger occurs, and every kind observed so far matches the clinical construct of
+post-separation abuse. Watch for class 3 in later seasons. The "not checked" cells mark T1/T2
+information I did not code on the first reading. They are to be filled on re-read, not
+assumed.
 
 ## Recurring devices, by number of independent cases (perpetrators who did not know each other)
 
