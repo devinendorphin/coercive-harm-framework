@@ -83,3 +83,11 @@ documentation-burden and separation-risk analyses. Variance in them is expected 
 **Recode of Seasons 1–6 (C5 and R-SEP):** carried in `CROSS-SEASON.md`. The season files
 S01–S06 keep their original coding as written, with this amendment governing their
 interpretation.
+
+### Amendment 1a (2026-10-04): persistent effects of C3/C4
+
+After the operator's correction: **C3 and C4 have effects that outlast contact.** A target who
+exits and meets no new acts has still lost the social world the smear captured. Code
+**R-SEP = "no new acts observed"** for these cases, never "none," and record the
+**persisting C3/C4 effect** (relationships lost, accounts still believed, sanctions on
+contact) as part of the perpetrator's pattern. Do not record it as a neutral outcome.

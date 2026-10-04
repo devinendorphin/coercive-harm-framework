@@ -65,9 +65,19 @@ cannot hold fall into three classes:
    (S3 was told by the bereaved; S4 by survivors of a mass death).
 2. **Still inside.** No exit has happened, so R-SEP has not been triggered. That makes it
    unobservable, not absent.
-3. **Left without retaliation.** This is the only class that could disconfirm R-SEP. Its
-   members are alive and able to speak. The residual bias is that a quiet exit may not seem
-   like a story worth telling, so these people may under-submit.
+3. **Left without further active retaliation.** These people still did not leave unharmed.
+   The isolation (C3) and the poisoned wells (C4) were done before the exit and **stay in
+   force after it**. The world they left is held by people who were given a false account
+   and told not to compare notes, so it cannot be returned to. That loss is the continuing
+   effect of perpetrator behaviour that already happened. It is not "no harm," and it is not
+   a neutral outcome. Corpus: Kelly, "I lost every deep relationship that I had known for my
+   entire life when I left," then erased by "we do not talk about it"; Julia, the friends
+   she had to unfriend; Rachel's family, from whom the siblings were told she had chosen to
+   leave them. Only for this class is the *absence of new acts at exit* a possible
+   counter-instance to R-SEP, which is why it is the counter to the selection effect. Its
+   members are alive and can speak, but they may under-submit, because "nothing more
+   happened" can feel like no story, when what happened is that the smear already did its
+   work.
 
 So the corpus cannot estimate *how often* perpetrators retaliate at exit; that number has to
 come from population studies. It can test the *kind* of perpetrator behaviour once the
