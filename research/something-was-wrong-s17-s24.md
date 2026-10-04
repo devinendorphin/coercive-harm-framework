@@ -986,6 +986,16 @@ history) `[SUPPORTED]` as a recurring pattern among instances.
   institutionalization file: Packard; women committed for religious divergence or for
   inheritance. Only the authority differs: parental proxy and a private contract, where the
   past used a husband's petition and a physician's signature.
+- **The population-scale version** is now in the same veriticide file (§5b, added
+  2026-10-04). It covers Canadian residential schools, US federal boarding schools, the
+  Sixties Scoop, the Indian Adoption Project and present-day foster-care
+  over-representation: 53.8% of Canadian children in care are Indigenous, against 7.7% of
+  children.
+  - It shares S24's instruments: compelled removal, renaming, punished speech, labour,
+    monitored contact, and deaths unreported to families.
+  - It shares S24's successor pattern: closure, then the next form of removal.
+  - The overrider there is the state. Its justification burden was later conceded in
+    apology and settlement.
 - **For doc 02:** the taxonomy should carry "pre-emptive confinement of a dependant" as a
   behaviour. Indicators: timing relative to an exit or disclosure; prior seeding of a
   pathology narrative with schools and clinicians; concealment from relatives ("tell them
