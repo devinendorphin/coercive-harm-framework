@@ -373,8 +373,17 @@ that they say is the inverse"). S14 makes it testable.
   pairing already required: a **specific** representation, a **documented** contradicting act,
   and a **pattern across independent people**.
 - **Beyond the corpus (public figures):** `research/public-persona-inversion.md`. The
-  inversion held in trust-access cases (Cosby, Savile, Harris, Fogle, Duggar, Zacharias). It
-  did not hold for a power-access case (R. Kelly), and Weinstein was mixed. Refined
+  inversion appears in trust-access cases (Cosby, Savile, Harris, Fogle, Duggar, Zacharias). A
+  contrasting power-access case (R. Kelly) and a mixed one (Weinstein) help locate its scope.
   `[HYPOTHESIS]`: **the inverse persona tracks access-by-trust.** The inference runs only from
   conduct back to persona, never from a wholesome persona to suspicion.
+
+### Standing note (operator, 2026-10-04): no universals assumed
+
+> "Yeah you got to stop assuming that I think things are universal"
+
+**Conceded.** The operator's claims are about patterns and tendencies. Contrasting cases are
+used to **locate the scope** of a pattern, never presented as refuting a universal the operator
+did not assert. This sits alongside the existing rule to state the operator's claim in its own
+form before testing it.
 
