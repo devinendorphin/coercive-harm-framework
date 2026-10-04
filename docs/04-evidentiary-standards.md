@@ -42,6 +42,13 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    survivors describing the *same tactics → same effects* is the naturalistic version
    of what the instruments formalize (the seed's L162 epistemics), and gives the
    pattern jury-comprehensible texture (addresses OBJ-013).
+   *Tested 2026-10-04* (`research/sww-corpus/`, pre-registered): across 26 seasons
+   spanning intimate, family, cult, workplace, military, troubled-teen-industry,
+   university and medical settings, no setting effect on the function profile was
+   detected, and the seasons share a profile beyond control narratives (p = 0.004). But
+   "core functions in nearly every case" **failed** as pre-registered for isolation and
+   perception control, and the corpus is saturated with the show's own vocabulary (11.8×
+   control). Stays `[SUPPORTED]`, illustrative, not a base rate.
 4. **Meta-analytic support for the *psychological*-harm nexus.** `[SUPPORTED]`
    (added by evidence-check 2026-07-09, answering OBJ-019) The lethality instruments in
    Finding 2 predict *physical* danger; the foreseeability of *psychological* harm rests
@@ -162,8 +169,16 @@ victim-protection gain. Do not present it as a settled fix.
 - **Risk-instrument validation primary sources** (Danger Assessment / Campbell; SARA;
   ODARA; DASH; Graham et al. 2021 review) — for the foreseeability spine (§0); and
   *State v. Loomis* for the actuarial-justice guardrail.
-- **"Something Was Wrong" expert roster** — identify specific expert guests for
-  citation (do not fabricate); confirm whether Durvasula-type clinicians appear.
+- **"Something Was Wrong" expert roster** — *resolved 2026-10-04 from episode titles*
+  (podscripts.co): Stephanie Moulton Sarkis, PhD (gaslighting; incl. "Political
+  Gaslighting", S5); Vanessa Reiser, LCSW (narcissistic abuse); Ilyse Kennedy, LPC/LMFT;
+  Isaac Smith, LCSW; Danielle Moore (PTSD); Corey Emanuel; Andrea Dunlop (Munchausen by
+  proxy); Lenora Claire (stalking; VAWA); Nicole Bedera, Kathryn Holland, Jacqueline Cruz
+  (campus sexual violence / institutional betrayal, S25); Maia Szalavitz (troubled-teen
+  industry, S24); Daniel Keating, Stephanie Hartselle MD (adolescence, S24); Marisa G.
+  Franco PhD, Rebecca Schwartz-Mette (friendship, S26); Amy Giles DNP CNM, Shannon M.
+  Clark MD, Ndidiamaka Amutah-Onukagha PhD (maternal care, S23). **Durvasula does not
+  appear in any title.** Credentials as stated in titles; not independently verified.
 
 ## Research status
 

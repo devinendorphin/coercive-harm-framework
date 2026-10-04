@@ -95,7 +95,8 @@ describing the *same tactics* producing the *same effects*. Role in the argument
 - **To do:** identify specific expert guests for citation (search returned only
   "therapists/psychiatrists" generically — do not fabricate names). Dr. Ramani
   Durvasula (seed L203) is the archetype; confirm actual SWW expert roster in a
-  follow-up.
+  follow-up. *Done 2026-10-04 — roster in doc 04 "Research needed"; Durvasula does not
+  appear. The convergence claim itself was tested quantitatively: `sww-corpus/README.md`.*
 
 ## Net recommendation for docs 03 + 04
 

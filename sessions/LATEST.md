@@ -75,7 +75,8 @@ more modest — than the seed's ambition:
 - Fraud prong (§4 consent): unblock only if narrowed to enumerated material-fact deception?
 - Psychological homicide (§3): confine to Carter-narrow, or hold as non-enactment aspiration?
 - Base no-harm coercive-endangerment offense: keep criminal, or civil-only (OBJ-021)?
-- Confirm "Something Was Wrong" expert roster; MI + batterer-intervention primary sources.
+- ~~Confirm "Something Was Wrong" expert roster~~ (done 2026-10-04, doc 04); MI + batterer-intervention primary sources.
+- **2026-10-04:** SWW corpus test (`research/sww-corpus/`) — C1 low-variance-across-settings `[SUPPORTED]` qualified; C2 "fractal" institutional self-similarity **not established** (needs hand-coded test). Next step if wanted: blind hand-coding of ~200 institutional-response segments.
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 

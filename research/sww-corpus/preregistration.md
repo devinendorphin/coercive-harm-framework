@@ -95,3 +95,18 @@ the 90th percentile of the control episodes' rates for that function.
   reported.
 - **D3 — S17 excluded from R2** (setting not determinable from notes; transcript opening
   empty). It stays in R1/R3/R4.
+
+## Deviations and additions after results were seen (2026-10-04) — labeled post-hoc
+
+- **D4 — near-duplicate transcriptions.** The duplicate pages are *different* machine
+  transcriptions under *different* episode numbers (e.g. `s1-e14-we-all-dodged-a-bullet`
+  vs `s1-ep13-…`), so the D1 hash de-dupe missed them. A robustness re-run de-duplicated
+  by title (382 unique episodes) and gave the same verdicts (`results/robustness_title_dedupe.json`).
+  The primary results are left as pre-registered.
+- **D5 — baseline asymmetry.** "Elevated" compares pooled seasons with single short
+  control episodes, which biases the test against the claim. The asymmetry was noticed on a
+  smoke test of partial data, *after* seeing partial numbers. The length-matched
+  comparison in `posthoc.py` is therefore post-hoc and is reported beside the
+  pre-registered result, never in place of it. It has the opposite bias.
+- **D6 — 88 pages were rate-limited** on the first pass and returned empty; they were
+  re-fetched before the full analysis. Nine pages have no transcript on the source.

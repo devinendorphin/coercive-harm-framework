@@ -1,0 +1,86 @@
+{
+ "n_seasons": 26,
+ "n_control_eps": 61,
+ "elevated_share": {
+  "isolation": 0.2692307692307692,
+  "perception": 0.46153846153846156,
+  "economic": 0.3076923076923077,
+  "threats": 0.38461538461538464,
+  "reward": 0.0,
+  "omnipotence": 0.8461538461538461,
+  "degradation": 0.0,
+  "microreg": 0.038461538461538464,
+  "reversal": 0.8076923076923077,
+  "institutional": 0.6923076923076923
+ },
+ "R2_setting_r2": 0.1523981847825222,
+ "R2_p": 0.20657934206579343,
+ "R2_null_mean": 0.1250671449710892,
+ "n_coded": 25,
+ "R3_sww_profile_similarity": 0.3862937062937063,
+ "R3_null_mean": 0.23394282517482518,
+ "R3_null_p95": 0.32199533799533797,
+ "R3_p": 0.003996003996003996,
+ "R4": {
+  "low_label": {
+   "seasons": [
+    2,
+    9,
+    12,
+    13,
+    15,
+    16,
+    18,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "profile_similarity": 0.3611499611499612,
+   "elevated_share": {
+    "isolation": 0.23076923076923078,
+    "perception": 0.5384615384615384,
+    "economic": 0.3076923076923077,
+    "threats": 0.23076923076923078,
+    "reward": 0.0,
+    "omnipotence": 0.7692307692307693,
+    "degradation": 0.0,
+    "microreg": 0.07692307692307693,
+    "reversal": 0.7692307692307693,
+    "institutional": 0.6153846153846154
+   }
+  },
+  "high_label": {
+   "seasons": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    14,
+    17,
+    19,
+    20
+   ],
+   "profile_similarity": 0.40388500388500387,
+   "elevated_share": {
+    "isolation": 0.3076923076923077,
+    "perception": 0.38461538461538464,
+    "economic": 0.3076923076923077,
+    "threats": 0.5384615384615384,
+    "reward": 0.0,
+    "omnipotence": 0.9230769230769231,
+    "degradation": 0.0,
+    "microreg": 0.0,
+    "reversal": 0.8461538461538461,
+    "institutional": 0.7692307692307693
+   }
+  }
+ }
+}

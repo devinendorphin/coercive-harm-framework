@@ -1,0 +1,13 @@
+function,sww_season_median,control_mean,ratio,pooled_control_p90,share_seasons_above
+isolation,0.94,0.28,3.4,0.50,0.77
+perception,3.93,1.77,2.2,2.28,0.77
+economic,2.87,2.38,1.2,2.47,0.85
+threats,3.42,1.46,2.3,2.34,0.81
+reward,2.31,2.87,0.8,3.51,0.23
+omnipotence,0.42,0.21,1.9,0.56,0.35
+degradation,1.52,1.33,1.1,1.53,0.46
+microreg,0.48,0.60,0.8,0.77,0.31
+reversal,0.42,0.06,6.9,0.15,0.81
+institutional,0.24,0.14,1.7,0.30,0.35
+label,4.62,0.39,11.8,0.55,1.00
+# unique episodes after title de-dupe: 382

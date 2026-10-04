@@ -177,6 +177,12 @@ instrument — that remains the central open question. See
 - Is "cluster" the right claim? Do these behaviors actually co-occur, or are we
   assembling a composite from separate people/situations? (Confirmation-bias risk;
   the empirical psychologist persona in `/steelman` will press this hardest.)
+  *Partial corpus evidence 2026-10-04* (`research/sww-corpus/`): reversal (6.9×),
+  isolation (3.4×), threats (2.3×) and perception control (2.2×) are over-represented
+  together across 26 survivor-narrative seasons, with no detectable setting effect —
+  but they are *not* present in nearly every case by the pre-registered test, and the
+  corpus is curated and frame-saturated. Co-occurrence: `[SUPPORTED]` at corpus level;
+  the cluster as a validated instrument stays `[HYPOTHESIS]`.
 - Reactive-improvisation vs. premeditation: does the legal framework's *intent*
   element (doc 03) survive if the conduct is genuinely non-premeditated?
 - How much of the taxonomy can be stated purely in observable third-party terms
