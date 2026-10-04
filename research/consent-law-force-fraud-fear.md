@@ -52,6 +52,71 @@ identifiable.
   prong, which is where "deception that isn't currently illegal" (seed L16) would
   become actionable — the exact place vagueness and both-victims risks concentrate.
 
+## Fraud through persona: the operator's ruling after SWW S14, tested (2026-10-04)
+
+*Ruling: CODEBOOK amendment 3. The perpetrator performed being "mindful, caring, respectful of
+consent" because that was what his community trusted. The operator calls this the
+non-intuitive **fraud** prong.*
+
+**What the reform movement proposes**
+- The **Nuremberg Code** (1947) requires voluntary consent given "without the intervention of
+  any element of force, fraud, deceit, duress, over-reaching, or other ulterior form of
+  constraint or coercion," with "sufficient knowledge and comprehension." [ESTABLISHED]
+- The **Consent Awareness Network** campaigns to define consent as "freely given,
+  knowledgeable and informed agreement, by a person with the capacity to reason." The
+  definition is meant to exclude force, fear, fraud, coercion, intimidation, surprise and
+  exploitation of incapacity. Its claims about bills (New York, Arkansas HB 1141, a House
+  amendment) and its "76% of states give no definition" figure come from its own petition
+  and are **not verified**. [SUPPORTED as to the campaign's existence and wording]
+
+**Current US law**
+- US law generally lets only **fraud in the factum** vitiate sexual consent: deception about
+  the nature of the act, as in a sex act passed off as a medical procedure, or about identity,
+  as in impersonating a spouse. **Fraud in the inducement** does not: a paradigm case is lying
+  about where one went to school. The line is widely criticised as indefensible, but it is
+  the near-universal rule. [ESTABLISHED]
+
+**How the S14 conduct maps onto that**
+- The persona is **inducement**: "I am caring, I respect consent." Under current law it does
+  not vitiate consent, and making it an element would be **void-for-vague** (everyone courts
+  by presenting their best self). It would also invite the both-victims failure: a regretted
+  relationship recast as rape by fraud. The doc 03 §4 liberty review already blocked a
+  general relational-deception prong on exactly these grounds, and the persona itself stays
+  outside it. [NORMATIVE]
+- But in S14 the persona **concealed specific facts** that a reasonable person treats as a
+  condition of consent:
+  - **whether the act is being recorded**: several accounts of covert filming, and cameras
+    in the apartment;
+  - **exposure to infection**: dozens of concurrent partners concealed; an STI diagnosis in
+    Kaylen's account.
+
+  Elsewhere in the corpus:
+  - **identity**: S12a, a fabricated identity;
+  - **concurrent partners during a pandemic** while the target was immunosuppressed: S13n;
+  - **contraception sabotage**: S13h, birth control thrown away.
+
+  These are the **enumerated material facts** the §4 unblock path asks for. Covert intimate
+  recording is already criminal in many states under separate voyeurism or intimate-image
+  laws (not verified state by state here). [SUPPORTED]
+- **So the operator's insight enters law as evidence, not as an element.** The persona proves
+  intent and pattern; it is the C1 move in the court record (doc 04). The offence turns on the
+  enumerated fact concealed. That keeps the fraud prong narrow enough to survive
+  vagueness and protected false speech (*Alvarez*) while still reaching the S14 conduct.
+  [NORMATIVE] `NEEDS-LIBERTY-REVIEW`
+
+**One correction to the ruling's premise**
+- "Force, fear and incapacitation are generally obvious." In coercive control, **fear is often
+  not obvious**: compliance under fear reads as consent to outsiders and, at the time, to the
+  target. Examples: Julie (S14), "it took me so long to understand that coercion isn't
+  consent"; Zoe (S13h); Kaylen (S14). That strengthens the case for the reform. It also means
+  the fear prong needs pattern evidence (doc 04), not only the fraud prong.
+
+Sources added:
+- https://avalon.law.yale.edu/imt/nurecode.asp (Nuremberg Code)
+- https://www.change.org/p/consent-is-about-influence-not-yes-means-yes-or-no-means-no (CAN petition text)
+- https://yalelawjournal.org/forum/no-way-around-consent-a-reply-to-rubenfeld-on-rape-by-deception (factum vs inducement)
+- SWW S15 E12 features the Consent Awareness Network; it has not been read yet in the in-order close read.
+
 ## To verify in a later pass
 
 - Exact current text of NY PL §135.60/135.61/135.65 (post-2010 amendments; NY

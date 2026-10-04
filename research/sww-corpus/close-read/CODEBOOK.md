@@ -248,3 +248,67 @@ a label, the record notes which behaviours they pointed to.
 - The settings note on S11 concerned eight stories that are not partnerships under any label:
   a child groomed online, two friendships, an acting coach, employers, in-laws, and a peer
   assault.
+
+## Amendment 3 (2026-10-04, after Season 14): the operator's rulings on S14
+
+*Operator statements are quoted verbatim and in full. Dictation repairs are marked
+`[original→repair]`, with `?` where the repair is a guess.*
+
+> "One you can leave the surname out. For the second one I remember this guy used to be a photographer he used to be very into social justice and that's how he would get women right and he was well known as a photographer so this culture the place that the environment that he's in consent is sexy that's part of the fraudulent Persona he had to adopt in order to get them into their his place. Ponder the movements trying to make more consistent the consent laws of the nation which are currently very patchwork and sometimes not even dealing with sex. The current movements to reform that want a Nuremberg definition of consent being the enthusiastic consent that possesses no force fraud fear or incapacitation. Force fear and incapacitation generally are obvious but the [front→fraud] thing is something that might not be intuitive to some people and that is [?license→lies] like the person has to portray themselves as something that they're not like mindful like caring like respectful of consent this is part of Love bombing."
+
+### 3a. The surname
+The S14 perpetrator's surname stays out of the repo. (Agreed; no change needed.)
+
+### 3b. Performed consent is a form of C1, part of a values-matched persona
+*Claude's operationalization (Claude's wording):*
+- **Ruling recorded.** In S14 the consent-checking was part of a **fraudulent persona** built
+  for the setting. In a progressive, consent-literate community, "consent is sexy," so the
+  perpetrator performed it. It is coded as a **C1 form**, not as a separate device. The
+  S14 "candidate device" row is retired into this.
+- **The general form: a values-matched persona.** The persona is built from whatever the
+  setting trusts:
+  - piety in a church (S13e matched her religiosity; S13o asked her parents' blessing);
+  - office in a police department (S13n);
+  - faith and courtesy in a purity culture (S13b);
+  - cause and consent literacy in social-justice media (S14).
+  The question to ask is **"what does this audience trust, and did the person perform
+  it?"**, not "did he ask for consent?" `[HYPOTHESIS]`
+- **Disconfirming test (run on S14).** If the consent-checking were genuine practice, the same
+  accounts would show no's respected. Instead:
+  - Maria: the questions continued while he wore her down ("are you sure?"), and he later
+    pushed her off and shoved her head down.
+  - Clementine: he filmed her without asking, then asked "is this okay?" once she noticed.
+  - Kit: the asking came alongside alleged covert recording.
+  - Violet: only "it felt different," with no contradicting conduct in her own account, so
+    hers is **U**.
+
+  Three of the four accounts contain a contradiction inside the person's own conduct.
+  **The ruling holds for them.**
+- **Coding rule (both-victims).** Consent-checking alone is **never** coded. The persona is
+  coded only when the same person's conduct contradicts what it promised: pressure past a
+  no, covert recording, concealed risk. Otherwise good practice would become evidence of
+  bad intent.
+
+### 3c. "Fear and incapacitation are generally obvious": a correction from the corpus
+The operator's point that **fraud is the least intuitive prong** is supported by the corpus.
+The corpus does **not** support "fear… generally obvious." In coercive control, fear-driven
+compliance is routinely read as consent: by outsiders, by courts, and at the time by the
+target herself.
+- Zoe (S13h): "if sex will make you happy and leave me alone, then fine."
+- Kaylen (S14a): "I would just lay there… he wouldn't stop."
+- Julie (S14): she gave in out of fear of retaliation at work, and "it took me so long to
+  understand that coercion isn't consent."
+- Odessa (S13b): compliance as "duty."
+
+That is a reason the reform matters, not a reason against it. It belongs in doc 04: proof of
+fear in a coercive-control setting needs the pattern, not a single incident.
+
+### 3d. The consent-law link (developed in `research/consent-law-force-fraud-fear.md`)
+- Doc 03 §4's fraud prong is `BLOCKED` pending narrowing to **enumerated material facts**.
+  S14 shows the operator's point can enter law **through** that narrow route without
+  making "presenting as caring" a crime.
+  - **The persona is the means.** It goes to evidence and pattern (doc 04).
+  - **The facts concealed behind it are the elements.** Being filmed, identity, STI risk,
+    contraception.
+- Not stable: `NEEDS-LIBERTY-REVIEW` stands.
+

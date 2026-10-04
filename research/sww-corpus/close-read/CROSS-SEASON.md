@@ -226,7 +226,7 @@ assumed.
 | Pre-emptive credibility attack on the target | S13i scope ("nobody's going to believe you because you had eight glasses of wine"; her blood alcohol was zero), S13k scope (rumours announced before they arrived), S13a ("you're going to look like a stupid bitch") |
 | Therapeutic vocabulary turned on the target | S14 ("you are pushing past my personal boundary"; she apologised) |
 | Parental-alienation claim used by the abusing parent | S14 (a #PAS post by his wife after he had agreed to no contact following his plea) |
-| *Candidate:* performed consent-checking paired with covert recording | S14 (four short-contact accounts). **Candidate only**: consent-checking is good practice and is never a flag by itself |
+| Values-matched persona (a C1 form; amendment 3b): performing what the setting trusts | S13b (faith and courtesy), S13e (matched her religiosity), S13n (police office), S13o (parental blessing), S14 (cause and **consent literacy**: "consent is sexy" in that community, with conduct contradicting it in three of four accounts). Consent-checking alone is never coded |
 
 ## Divergences that matter for the framework
 

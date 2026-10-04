@@ -159,6 +159,12 @@ around the couple, not the household. [the framework's own seed case is uncovere
   precisely where "deception that isn't currently illegal" (seed L16) becomes
   actionable, and where vagueness + both-victims risks concentrate.
   `NEEDS-LIBERTY-REVIEW` — the fraud prong especially.
+- **Fraud through persona (operator, after SWW S14; `research/consent-law-force-fraud-fear.md`).**
+  A perpetrator who performs whatever his community trusts (consent literacy, piety, office)
+  is running the fraud the reform movement targets. **Proposed route:** the persona goes to
+  evidence of intent and pattern (doc 04). The offence element stays an enumerated concealed
+  fact: being recorded, identity, infection risk, contraception. That is the unblock path
+  below, with concrete corpus instances. `[NORMATIVE]` `NEEDS-LIBERTY-REVIEW`
 
 ## 5. Graduated punitive ↔ rehabilitative response
 
