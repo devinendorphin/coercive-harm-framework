@@ -465,6 +465,12 @@ most consequential, and has no tool.
 duty-of-care liability reaching the top; independent (non-prosecutorial) review; apex-scale
 coercion under governance/anti-corruption regimes. **Until built, doc 09 must admit the
 framework reaches subordinate-scale coercion and is silent at the apex.** → doc 10, doc 09.
+*Evidence, 2026-10-04:* one family's record shows the asymmetry under *current* law. The
+father's elder fraud led to criminal prosecution and 10 yrs 8 mos. The son's killing by a
+sheriff's deputy during a crisis call led to a $1.5M county-fund settlement, with "force …
+reasonable" contended and no criminal disposition located (U). The two harms differ in
+kind, so this shows reachability by instrument, not equivalent conduct
+(`research/something-was-wrong-s16.md` F1).
 
 ### OBJ-028 — "The both-victims safeguard is DARVO the powerful can afford."
 **Persona:** power-critique (survivor advocate, friendly fire). **Status:** `UNRESOLVED`
@@ -497,6 +503,17 @@ down = core harm; power-asymmetric scrutiny guards DARVO-gaming (OBJ-028). **Sta
 `MITIGATED`, one residual open** — the vector must be assessed by the power-embedded
 institutions the framework distrusts (Finding C); mitigated by civil/restorative-first +
 independent review, not eliminated. → doc 02, doc 03 §8, doc 07, doc 10.
+
+### OBJ-030 — "Role restrictions are defeated by nominee fronts." *(proposed 2026-10-04)*
+**Persona:** practitioner / fraud investigator. **Status:** `OPEN — proposed, not yet steelmanned`
+Doc 05's core instrument is role design (no financial authority). In *People v. Henning*
+(2009) 173 Cal.App.4th 632, a probationer barred from running such a business ran one
+anyway. It was registered to his stepson, the titles went to his ex-wife's company, and he
+told investigators he was "just an employee". A role restriction is only as strong as the
+beneficial-ownership check behind it, and an employer cannot see ownership outside its
+own walls. The risk is highest where the restricted person has family willing to front.
+*Candidate response:* beneficial-ownership disclosure and nominee liability (existing
+doctrines; check current law). → doc 05; `research/something-was-wrong-s16.md` F6.
 
 ## How to use this ledger
 

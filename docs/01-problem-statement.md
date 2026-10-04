@@ -64,6 +64,18 @@ in the good in all people," wait out oversight, and if they fail "just pick up a
 do it elsewhere... take on another persona" (L91). Enforcement personnel may
 themselves have "been inflicting that type of [harm] on vulnerable communities for
 decades" (L91), compounding disbelief. `[HYPOTHESIS]`/`[NORMATIVE]`.
+*2026-10-04, documented instance:* a twice-convicted fraud defendant, whose victims were elderly, ran a business
+through a stepson's name while on probation. After prison he was profiled in the local
+press as a 50-year coffee roaster, with the convictions omitted
+(`research/something-was-wrong-s16.md` F2, F6).
+
+**6. (Candidate, 2026-10-04; for `/develop 01`.) Crisis response routed to armed
+enforcement.** A 911 call for a young man in a mental-health crisis was answered by armed
+deputies, and he was shot dead. The county settled the wrongful-death suit for $1.5M
+without admission (S16 F7). The seed's gap list covers courts, medicine and consent. This
+gap concerns the *first* institution a coercion-damaged person meets in crisis.
+`[HYPOTHESIS]` as a gap. Search crisis-response alternatives before asserting anything
+(agreement 5).
 
 ## The cross-scale claim (bifurcated — see doc 03 §7)
 

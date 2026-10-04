@@ -164,8 +164,21 @@ victim-protection gain. Do not present it as a settled fix.
   *State v. Loomis* for the actuarial-justice guardrail.
 - **"Something Was Wrong" expert roster** — identify specific expert guests for
   citation (do not fabricate); confirm whether Durvasula-type clinicians appear.
+  *(2026-10-04: S16 checked. It has **no** expert guests; it is the host's own case. The
+  roster for the other seasons is still open. See `research/something-was-wrong-s16.md`.)*
+- **Pre-interview coaching of child witnesses** (from S16 F4): how the NICHD protocol and
+  child-advocacy-center practice detect and handle a child prepared by the alleged abuser.
+- **Pattern-as-corroboration vs propensity** (from S16 F5): *People v. Henning* (2009) 173
+  Cal.App.4th 632, Part VII, treats a multi-victim scheme as "overwhelming corroboration".
+  Find the evidence-code basis for admitting the uncharged conduct in that case
+  (unpublished parts) before doc 04 leans on it.
 
 ## Research status
+
+**2026-10-04:** `research/something-was-wrong-s16.md`. It adds a coached-CPS-interview
+instance (F4), a published holding on multi-victim pattern as corroboration (F5), and a
+calibration result: where the S16 narrator's account can be checked against the court
+record, it matches closely.
 
 **Done this session:** `research/foreseeability-and-risk-assessment.md` (foreseeability
 limb in s.76; validated risk instruments; endangerment reframe; survivor-narrative
