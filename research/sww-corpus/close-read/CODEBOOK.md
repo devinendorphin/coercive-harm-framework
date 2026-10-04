@@ -312,3 +312,64 @@ fear in a coercive-control setting needs the pattern, not a single incident.
     contraception.
 - Not stable: `NEEDS-LIBERTY-REVIEW` stands.
 
+### 3e. Correction: not a "best self" but an inverse self (operator, after S14)
+
+> "No it's not their best self it is a self they do not identify with but that they know will yield utility will yield whatever they are wanting. Let me relate it to maybe potential bodily functions and aspects of the body when a person lies to the extent that they lie just for the sake of lying for no particular reason it seems generally the type of person who lies their body has to conserve energy they can't create bespoke lies that have their own constellation of a facts that's too much things to remember the [?f*** get up though→fuck-up, though] they'll not remember it though they'll it'll collapse it's easier when the vectors of the LIE correspond with the truth they want hidden. That type of fraud I think can be litigated because it is an exact inverse of who they are."
+
+**Conceded.** The S14 analysis called it "presenting their best self." That restated the claim
+as embellishment, which is the weakest version, and then answered it. The operator's claim is
+an **adopted inverse persona**: a self the person does not identify with, chosen for its
+utility, whose content runs opposite to the conduct it hides. The claim is already in the
+taxonomy (doc 02, items 2 "truth-inversion" and 5 "performed empathy"; seed ~L59, "everything
+that they say is the inverse"). S14 makes it testable.
+
+*Claude's operationalization (Claude's wording):*
+- **Inverse pairs in the corpus** (stated persona → concealed conduct, the latter documented
+  in the same accounts):
+  - S14: "I protect women at all costs" (to a woman who had disclosed a prior assault) →
+    slapping her and filming without asking. Consent-literate ally → pressure past no and
+    alleged covert recording. "I'd never do what your dad did to your mom" → about 60
+    concurrent women.
+  - S13e: Southern gentleman → assault and break-ins.
+  - S13n: protective police officer → coerced intercourse with a subordinate (attributed).
+  - S12a: protector from cartel danger → inventor of the danger.
+  - S11i: rescuer → "starts the fires so he can put them out."
+  - S13k: benefactor → defrauder.
+  - S10h: caring giver → the gifts were stolen.
+- **Energy conservation** `[HYPOTHESIS]`, with an established base. Deception research finds
+  lying generally more cognitively demanding than truth-telling: plan the lie, "remember what
+  he told to whom," monitor the listener (Vrij's cognitive-load approach) `[SUPPORTED]`. The
+  operator's addition is specific and untested: the cheapest durable lie is the **inverse** of
+  the hidden truth, because one fact anchors both. *Upgrade if* stated personas in a blind
+  sample predict the concealed conduct as their inverse above chance. *Downgrade if* the
+  personas are mostly orthogonal to the conduct, or mere embellishment.
+- **Disconfirming check.** S12a goes against the "can't sustain bespoke lies" half. Joe kept up
+  a constellation of fabricated agents, a child, a dead mother and a cancer for about 20
+  months. He **offloaded the memory load** to burner phones, hired people and props, and the
+  structure collapsed only when outsiders searched. The inverse **core** still held (protector
+  ↔ source of danger). S14 supports the economy half: he merged his two wives into one "ex"
+  and his two daughters into one "daughter" (Sarah's inference), and he ran multiple phones as
+  external memory. Reading: the inverse anchor holds; the constraint on elaboration is real
+  but can be bought around with tools.
+- **Behaviour, not people.** "The type of person who lies" and "who they are" are restated as
+  conduct: **persistent, unprompted false statements**, and a **representation contradicted by
+  the speaker's own concurrent conduct** (doc 02 item 5's observable standard). That
+  restatement is also what makes it litigable (3f).
+
+### 3f. "That type of fraud can be litigated": the route
+*Claude's operationalization (Claude's wording):* `[NORMATIVE]` `NEEDS-LIBERTY-REVIEW`
+- **The route is through conduct, not character.** US evidence law bars character evidence
+  offered to prove conduct (FRE 404(a)). It admits other acts to prove **intent, plan, or
+  modus operandi** (404(b)), and in federal sexual-assault cases, prior sexual assaults (FRE
+  413). State rules vary. `[ESTABLISHED]` An inverse persona repeated across many women is a
+  **signature**: the same specific representation, contradicted the same way. That is
+  provable without a court ruling on "who he is."
+- **The representation must be specific.** "I'd never film you without asking," then covert
+  filming. "I'd never cheat," while concealing an infection risk. Both are close to the
+  enumerated material facts in doc 03 §4. "I'm a good, caring man" is too general to be an
+  element. It is evidence only.
+- **Both-victims gate.** The same tool, a stated persona contradicted by conduct, could be
+  turned on anyone with a gap between self-presentation and behaviour. The safeguard is the
+  pairing already required: a **specific** representation, a **documented** contradicting act,
+  and a **pattern across independent people**.
+

@@ -105,7 +105,11 @@ Each is a conduct pattern, tagged; definitions live in doc 00.
    `[HYPOTHESIS]` as a *reliable diagnostic* (content of accusation reverse-mapping to
    the accuser's own conduct). *Observable form:* on being confronted, denies + attacks
    the confronter + claims the victim role.
-2. **Truth-inversion** as default operating mode — `[HYPOTHESIS]`.
+2. **Truth-inversion** as default operating mode — `[HYPOTHESIS]`. *Corpus instances
+   (SWW S10–S14; CODEBOOK 3e):* an adopted **inverse persona** whose content runs opposite to the
+   concealed conduct ("I protect women at all costs" → violence; consent-literate → covert
+   filming; protector → inventor of the danger). *Observable form:* a specific representation
+   contradicted by the speaker's own concurrent conduct, repeated across independent people.
 3. **Improvised-but-convergent tactics** (reactive, not premeditated; skilled) —
    `[HYPOTHESIS]`.
 4. **Seeding chaos** (pre-planted, deniable failure points) — `[HYPOTHESIS]`.

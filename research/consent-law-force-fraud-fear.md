@@ -98,6 +98,13 @@ non-intuitive **fraud** prong.*
   These are the **enumerated material facts** the §4 unblock path asks for. Covert intimate
   recording is already criminal in many states under separate voyeurism or intimate-image
   laws (not verified state by state here). [SUPPORTED]
+- **Correction (operator, CODEBOOK 3e).** The persona is not "best-self" puffery. It is an
+  **adopted inverse**, chosen for utility, and its content runs opposite to the hidden conduct
+  ("I protect women" → violence; consent-literate → covert filming). That matters legally. An
+  inverse persona repeated across women is a **signature** and is provable under the rules on
+  other acts (intent, plan, modus operandi: FRE 404(b); FRE 413 in federal sexual-assault cases)
+  without putting his character on trial (404(a)). [ESTABLISHED as to the rules; NORMATIVE as to
+  the use]
 - **So the operator's insight enters law as evidence, not as an element.** The persona proves
   intent and pattern; it is the C1 move in the court record (doc 04). The offence turns on the
   enumerated fact concealed. That keeps the fraud prong narrow enough to survive
