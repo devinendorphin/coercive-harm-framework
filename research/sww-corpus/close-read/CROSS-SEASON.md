@@ -335,7 +335,7 @@ assumed.
       fluency in retrospect; S11i after exposure) fell outside that scope and are withdrawn as
       tests. Within scope: five perpetrator instances (S8, S11b, S11i, S11l, S12), and no
       counter-instance so far. *After S13:* eight (adding S13h, S13n, S13o), still no
-      counter-instance, and one limit (divergence 33).
+      counter-instance; the S13n live-in partner is U (divergence 33).
     - A crosswalk from common shorthand to codebook fields (2d).
     - "Intimate" independent of titles (2e).
 28. **S12: control routed entirely through deception, enforced by an invented authority.** The
@@ -360,13 +360,10 @@ assumed.
     legal age**, not chance. Arya's chain (S13n) adds lines repeated "nearly
     verbatim" across women, from a subordinate's recordings. This is the strongest
     within-perpetrator support for low variance. It is still two perpetrators, from one curator.
-33. **Rubric 2c: a limit (S13n).** Jim told each partner the others were crazy, which makes three
-    more in-scope instances with S13h and S13o. But the live-in partner he described as violent
-    has an extensive public record (theft, battery, a stabbing), so his account may have been
-    partly true. The rubric read the speaker correctly (he was deceiving the listener) and said
-    nothing reliable about the person described. Proposed refinement, pending the operator's
-    ruling: **the rubric is evidence about the speaker's conduct toward the listener, not about
-    the truth of the content.** A boundary of form also appeared in S13h: Nora, a co-target, was
+33. **Rubric 2c in S13.** Jim told each partner the others were crazy, which makes three more
+    in-scope instances with S13h and S13o. The live-in partner he described as violent has a
+    public record (theft, battery, a stabbing). Whether his account of her was true is **U, by
+    the operator's ruling**; the limit Claude proposed is not adopted (CODEBOOK 2c). A boundary of form also appeared in S13h: Nora, a co-target, was
     fluent and cruel about her rival rather than about her partner, which is outside 2c.
 34. **C3 n/d in two marriages, and C3 that failed (S13).** In S13a and S13b the target's network
     stayed physically present; the control ran through sex, money, church and addiction. In S13h

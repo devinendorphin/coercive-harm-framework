@@ -174,11 +174,15 @@ the operator's form before testing. That item is withdrawn.
   others, Arya included); S13o (Brent to his family: she is "choosing her family over me").
 - **Within scope, against it:** none found in S1–S13 so far. In S13 every target inside the
   harm defended or explained to third parties (Zoe, Claire, Riley, Gianna, Odessa, Arya).
-- **A limit found in S13n (proposed refinement, pending the operator's ruling).** The live-in
-  partner Jim called violent has an extensive public record, so his fluent account may have been
-  partly true. The rubric read the speaker correctly and said nothing reliable about the person
-  described. Proposed wording: *the rubric is evidence about the speaker's conduct toward the
-  listener, not about the truth of the content.*
+- **S13n, the live-in partner: undetermined (U), by operator ruling.** Claude had proposed
+  treating her public record (theft, battery, a stabbing) as a limit on the rubric. Operator's
+  ruling (2026-10-04, after S13), verbatim:
+
+  > "Regarding the limit yeah I would say  undetermined"
+
+  Recorded: whether Jim's account of her was true is **U**, as with S11e. It is not coded as a
+  limit on the rubric, and the proposed refinement is not adopted. S13n remains an in-scope
+  instance for the speaker.
 - **Form boundary (S13h):** a co-target's fluent cruelty toward a rival (Nora to Zoe) is not
   speech "about their partner" and is outside the rubric.
 - **Within scope, undetermined:** S11e. Heidi was in an on-off relationship with Peter and
