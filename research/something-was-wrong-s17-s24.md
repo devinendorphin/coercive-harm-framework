@@ -18,10 +18,11 @@
   - **S20:** **read in full** (all 12 episodes, every line), 2026-10-04.
   - **S21:** **read in full** (all 19 episodes), 2026-10-04.
   - **S22:** **read in full** (all 13 episodes plus E01b), 2026-10-04.
-  - **S23–S24:** full read **in progress**. Until it is finished, findings drawn from S23–S24
-    rest on a targeted grep, the notes, and the verified records below.
+  - **S23:** **read in full** (all 19 transcribed episodes), 2026-10-04.
+  - **S24:** full read **in progress**. Until it is finished, findings drawn from S24 rest
+    on a targeted grep, the notes, and the verified records below.
   - **No audio was reviewed.** At the S16 standard (every episode read in full), this file
-    covers S17–S19 partially, S20–S22 fully, and S23–S24 thinly (pending).
+    covers S17–S19 partially, S20–S23 fully, and S24 thinly (pending).
 - **Grades:**
   - *Record*: a primary or official document, or reputable reporting located this session.
   - *Narr.*: the transcript's account, uncorroborated.
@@ -209,6 +210,10 @@ numbers, and the man whose photos were used.*
   therapist doesn't know my side". A victim's distress is turned into a diagnosis by the
   person causing it.
 - This file does not name her (private person, no conviction).
+- **Later updates (S23 E17–E18, mid-2025; narr.):** the two-year protective orders lapsed.
+  She then sent apology-style messages to one survivor and, through a friend, to another.
+  Police have taken no further action. The show names and profiles her again (see X10). It
+  also speculates on air that a friend of hers was complicit; this file does not repeat that.
 
 **S21 — anthology (2024) — READ IN FULL**
 *All 19 episodes read in full on 2026-10-04. Grade: narr. unless stated. Survivors are named
@@ -300,6 +305,17 @@ not been convicted. Otherwise they are described.*
     advocate "did not pressure me to do anything"), and her mother saying "you don't need
     to make any decisions right now." By contrast, the pastor's earlier advice to postpone
     the wedding had made her dig in.
+  - **Later update (S23 E20, 2025; narr., second-hand):**
+    - His previous girlfriend had told church leadership, the month before he began dating
+      the survivor, that he tried to sexually assault her. Leadership disbelieved and
+      **demoted her**, then helped throw the survivor's engagement party. Nobody warned
+      the 20-year-old.
+    - The "prophet" is publicly accused of mining congregants' Facebook details. A
+      leader's texts, published by a third party, say the church knew in 2019 and did not
+      warn people because it "would hurt the prophetic movement."
+    - After the divorce, the ex told his hometown that *she* had abused *him*, while he had
+      admitted the strangulation to friends who already knew. His father, to a later
+      partner: "He's always been this way."
 - **"Josh" (Chicago, 2017–2023, E13–E16):**
   - **Pre-emptive narrative seeding.** Before his friends met his new partner, he told
     them she was "a witch" who had sexually taken advantage of him. He kept her and his
@@ -376,21 +392,136 @@ not been convicted. Otherwise they are described.*
   - **This is the institutional silence that the S22 group filled by itself**, and it is the strongest case for that group.
   - The guest's definition of victim-centred: "what can we do to ensure that this doesn't happen again."
 
-**S23 — Origins Birth & Wellness (Texas): birth-center injuries and deaths**
-- **The facts aired:**
-  - An unlicensed student midwife attended clinic and births alone (narr., including her
-    own reported admissions).
-  - Billing went through a nurse practitioner who does not provide prenatal care.
-  - Five-star reviews were incentivized with IV "Myers' cocktails".
-- **The accountability gap is structural:**
-  - Midwives are regulated by **TDLR**, the same agency that licenses barbers, elevators
-    and tow trucks.
-  - **Licensed midwives are not required to carry malpractice insurance**, so attorneys
-    decline the cases.
-  - The malpractice statute of limitations is 2 years.
-  - A prosecutor said they had no duty to report criminal activity (narr.).
-- **The mothers' response:** they formed Moms Advocating for Moms and pushed Malik's Law,
-  which stalled.
+**S23 — Origins Birth & Wellness (Dallas/Fort Worth): out-of-hospital birth harm** *(read in full: 19 transcribed episodes; E15 has no transcript)*
+- **Naming:** no individual midwife or owner is named here. None has been convicted, and the
+  licensing record is mostly as narrated. The show names them.
+- **What is on the record:**
+  - WFAA, 29 Mar 2024: the state health agency (HHSC) was investigating the center, and the
+    City of Dallas had issued a notice of violation because the clinic had no certificate of
+    occupancy;
+  - the licensing agency (TDLR), May 2025, declined to comment on pending cases;
+  - Malik's Law (HB 4553) was not enacted;
+  - Charlotte Observer, 2015, for the South Carolina comparator below.
+  - One owner's 2014–15 disciplinary docket for failures to refer and to transfer is as
+    read on air. Its result was a probated suspension that barred her from supervising
+    students for a year.
+  - Everything else is narrated, with documents held by the survivors. The show reports
+    checking them against medical records.
+- **Mechanism alleged (narr.; consistent across 9 named and anonymous accounts, 2019–2025):**
+  - *Push and pull.*
+    - Push: real hospital mistreatment. One survivor's OB ran genetic tests she had not
+      consented to. Black survivors feared hospital outcomes. The CDC VitalSigns report
+      (2023) found about 1 in 5 mothers mistreated, including "made to accept unwanted
+      treatment."
+    - Pull: a natural-birth movement selling autonomy ("your body was built to birth").
+  - *Safety claims that were not true:*
+    - claimed: "same standard as any hospital," "ACOG protocols," a close relationship
+      with the nearby hospital, about 10% transfers;
+    - an insider counted Dallas intrapartum transports for 2023 at about 31%;
+    - the hospital's NICU had stopped responding to the center and asked to be removed
+      from its tour and website.
+  - *Incentives against transfer:*
+    - no refund on transfer after 34 weeks (peers used 36–37);
+    - upsells;
+    - unlimited intake with three midwives per site;
+    - advertised low transfer rates.
+  - *Unsupervised students:*
+    - an informal "graduate midwife" policy let students practise alone if a
+      preceptor was "within an hour";
+    - the owners signed charts as preceptors without being present;
+    - one owner had backdated her own apprenticeship start to a doula birth. The midwife
+      who knew this phoned the national certifier, NARM, and was told that was "no
+      problem."
+  - *Failures to refer as risk built up:* preeclampsia signs, meconium, prolonged rupture,
+    a stalled fundal height, a disclosed prothrombin mutation, and a VBAC (in a different
+    Texas center).
+  - *Records:*
+    - a shared admin login;
+    - "I'm not going to write that in your chart";
+    - blood pressure retaken until it came down, with only the lower reading charted;
+    - transposed glucose values;
+    - in **four accounts, post-event edits shown by comparing an early download with a
+      later one. Every added line is exculpatory and framed as consent** ("patient
+      declines," "shared decision making," "told to listen to her body");
+    - records withheld, or sent without any charting, in three accounts.
+  - *Witnesses removed:* clients told they "don't need a doula"; a Black family asked to
+    leave the room while a white friend was told she was "the only reasonable one"; a
+    friend told to leave while a patient's blood pressure read 210/117.
+- **Outcomes (narr.):**
+  - an infant death (Malik, July 2023): about 60 hours of labour; meconium waved off as
+    "not concerned until it is green"; heart rate below 70; sent to hospital by private
+    car;
+  - neonatal HIE (brain injury from lack of oxygen) with cooling therapy (2019);
+  - a prolapsed cord found only by an outside OB;
+  - severe preeclampsia with HELLP syndrome, placental abruption and a growth-restricted
+    baby;
+  - chorioamnionitis and sepsis;
+  - cervical injury risk after hours of pushing before full dilation, which was not
+    reported to the receiving OB;
+  - labial tearing that needed two surgeries, after she was coached to push through her
+    pleas to slow down;
+  - in 2025, at the same midwives' new center: necrotising fasciitis and an emergency
+    hysterectomy.
+- **After the harm:**
+  - offers of a "floral bath";
+  - a contest giving IV drips for new 5-star reviews, days after the first death review,
+    then a paid attempt to remove negative reviews;
+  - an ex-employee infiltrating the survivors' group;
+  - cease-and-desist letters;
+  - a midwife publicly posting patients' clinical details;
+  - "witch hunt";
+  - conditional apologies ("if a client remembers their experience differently than I
+    intended");
+  - severance offered only in exchange for an NDA (the executive director refused);
+  - new clients told that past complainants had lied.
+- **The accountability gap (narr. unless marked):**
+  - *Licensing and inspection:*
+    - TDLR uses only peers with the same licence as experts ("improper to use medical
+      experts with greater education than our licensees");
+    - TDLR is not required to refer crimes;
+    - the maximum sanction is about a year's revocation;
+    - HHSC inspects cleanliness, not care.
+  - *Every other door:*
+    - the Medical Board says midwives are outside its jurisdiction;
+    - the DA says a report cannot come from a civilian;
+    - police and the Attorney General's office point back to the licensing agency;
+    - the insurance regulator points to the patient's own insurer;
+    - the federal health-privacy office (OCR) closed its case once the center fixed the
+      problem.
+  - *Civil and data routes:*
+    - there is no malpractice-insurance requirement, damages are capped and the limitation
+      period is 2 years, so lawyers decline;
+    - there is no public outcome data, and a transferred death counts on the
+      *hospital's* statistics.
+  - *After closure:* Origins Dallas closed in Nov 2024. Its practitioners reopened under
+    new names on the same street.
+- **Two comparators in the finale:**
+  - *A Texas actuary's claims analysis:* birth centers coded patients low-risk while ERs
+    coded the same patients high-risk. Insurers credential the center, not the midwife.
+  - *A former direct-entry midwife's account of her 2000s training in Miami:*
+    - vacuum births left out of charts;
+    - **misoprostol given covertly as "herbal tea"**;
+    - "breaking the law for all the right reasons";
+    - colleagues talking a pleading labourer out of transfer.
+  - Her later South Carolina center (record, Charlotte Observer, June 2015): a coroner's
+    jury ruled a 2015 death there a **homicide**, but no charges were filed and the center
+    surrendered its license.
+- **The survivors' own frame:**
+  - not anti-midwifery;
+  - "bad outcomes ≠ bad midwives" is right about outcome bias, so their case rests on
+    *process*;
+  - the student was a subordinate pushed by the owners, and her fault does not absorb
+    theirs;
+  - the remedy sought is disclosure (outcome reporting), not prohibition. Malik's Law was
+    reported out of committee but never passed;
+  - one husband still wants licenses revoked and criminal punishment. This file records
+    that view without adopting it.
+- **The X7 calibration line:**
+  - Background: the midwife's email after the review blamed the patient's own "white coat"
+    denial for her rising blood pressure.
+  - Her answer: "you as a provider should have balls to go against me and say … this is
+    what we're concerned about."
+  - What she wanted was to be **told and referred, not overridden.**
 
 **S24 — the troubled-teen industry ("institutional child abuse")**
 - **Lineage:** Synanon → Straight Inc. → KIDS of North Jersey; WWASP.
@@ -552,6 +683,9 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - No sexual or health detail about minors is recorded.
 - The S23 owner's 2015 probation is from a docket **as read aloud on the show**, not
   fetched. Treat it as narrated.
+- **S23:** no midwife, owner, or clinic employee is named, although the show names them.
+  The infant who died is referred to as "Malik" only because the bill bears his name.
+  Survivors are not named.
 
 ## BOUNDARY
 
@@ -568,8 +702,8 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - which specific overrides, if any, are justified (X7 states the test, not the answers);
 - that board lag is typical (X1).
 
-**Coverage limit:** S20, S21 and S22 have been read in full. S23–S24 were sampled; the full read
-is in progress. A finding resting only on a sampled
+**Coverage limit:** S20–S23 have been read in full. S24 was sampled; the full read is in
+progress. A finding resting only on a sampled
 season is flagged by its grade. A full read of S20–S24 would be the next pass if any of X1,
 X3, X4 or X7 is to carry weight.
 
