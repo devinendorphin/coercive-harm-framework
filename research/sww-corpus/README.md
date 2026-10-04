@@ -128,8 +128,45 @@ version called this "the loudest signal" and "the main reason" for the ceiling. 
 the "coached witness" discount.)* What the count measures is that survivors, the host and
 experts have **names** for what happened. Acquiring names for an unnamed harm is the remedy
 for hermeneutical injustice, not evidence of fabrication. The pre-registered test of
-whether the frame *produces* the convergence is R4, and R4 passed. The ceiling on this
-corpus is **curation**: one selection process, which bounds base-rate claims.
+whether the frame *produces* the convergence is R4, and R4 passed.
+
+**Who curates, and why there is one curator** *(added 2026-10-04 at the operator's
+challenge; see audit A9–A10)*:
+- **The host is a survivor in her own corpus.** Season 16 is Tiffany Reese's own family
+  story: her father's fraud and elder-abuse case, her mother's abuse, and her brother's
+  murder, told by her. The first coding labelled S16 "family violence" and missed this. It
+  also labelled S1 "host's own story" from memory; S1 is Sarah's story, told through the
+  host.
+- **Survivor-centred documentation is done by survivors.** Other survivor-centred
+  true-crime podcasts exist, so "among the only" is partly refuted. But the ones found are
+  also survivor- or advocate-run:
+  - *Survivor's Guide to True Crime*, hosted by survivors Kimberly Corban and Kara
+    Robinson Chamberlain;
+  - *What Came Next*, co-created by Reese and advocate Amy B. Chesler;
+  - *Strictly Stalking* and *Until I Kill You*.
+- **Reading.** A single survivor-curator is what the documentation burden predicts at
+  scale (`../documentation-labor-burden.md`): the labour of making the record falls on
+  the people harmed. The causal claim, that there is one curator *because* the behaviour
+  is pervasive and the law supports perpetrators, is `[HYPOTHESIS]`, plausible and
+  untested. Competing explanations, also untested:
+  - true-crime audiences favouring perpetrator narratives;
+  - defamation exposure for anyone who publishes allegations, a legal cost that falls on
+    the publisher of the accusation.
+- **Published critique, recorded under the same standard:** Laura Robinson (Substack, Aug
+  2024) faults the show for:
+  - thin verification and rarely contacting the accused;
+  - a call to an alleged perpetrator (S20) that could have compromised a legal case;
+  - the host endorsing a source's aim to "ruin" someone not convicted;
+  - telling minors' stories without their consent;
+  - for-profit output volume.
+
+  These bear on the facts of **individual allegations**, which this study already grades
+  as testimony (P2) and does not adjudicate. They do not bear on the cross-season
+  function convergence. One item, faulting the host for not asking why women stayed in
+  contact with a perpetrator, is itself a demand to scrutinize victim behaviour.
+- **Scope, not discount:** one selection process means this corpus cannot give
+  prevalence rates. That is what it can and cannot measure, not a reason to doubt the
+  stories.
 
 ## Sycophancy-to-power audit (2026-10-04, operator request)
 
@@ -149,6 +186,9 @@ perpetrator's moves. C1 implicates individual perpetrators.*
 | A7 | **No power-vector coding.** Settings were coded by relationship type, and 13 of 25 seasons were intimate-partner. The perpetrator's power position was never coded: cult leader, pastor, a celebrity's mansion, military command, a program with custody of children, a peer | This repeats doc 10 **Finding B**: enforcing down-scale while claiming cross-scale. Doc 02 says behaviour without the power vector is "not sufficient." The operator's "strata" question is a power question; I converted it to "setting," then reported strata as untested | **Next test pre-registered** (`preregistration-power-vector.md`). I have seen the season rates, so a blind coder must code power |
 | A8 | **Frame vocabulary as "the loudest signal."** Survivors' use of names for what happened (gaslighting, DARVO, love bombing) was made the main reason for the ceiling, after R4 had already passed | This is structurally the "coached witness" discount: the Yale–New Haven "coached by her mother" move in the ledger's survivor comparator, and E3. Acquired concepts are the remedy for hermeneutical injustice (Fricker 2007, gen.) | **Corrected.** The ceiling is curation |
 
+| A9 | **Curation as a credibility discount.** "One host selects stories that fit the show," named as the ceiling, without asking *why* there is a single curator | The operator's challenge: survivor-centred documentation is scarce because making the record falls on the harmed (`documentation-labor-burden.md`, `[SUPPORTED]`). Treating the scarcity of survivor curators as a defect of the evidence turns the documentation burden into a credibility discount | **Corrected.** Reframed as scope (no prevalence rates). The causal reading is recorded as `[HYPOTHESIS]` with its competitors |
+| A10 | **The host's own story was missed, and a false label was asserted.** S1 was coded "host's own story" from memory without checking. S16, the host's actual story, was coded as generic family violence | The keyword pass covered every word of all 382 episodes, but it is blind to narrative. The reading was dips (season openings, about 70 sampled segments) and no episode was read in full. The dips missed who was speaking, so the curator's standing as a survivor was invisible | **Corrected** in `settings.csv` and above |
+
 **Pattern.** Every error ran the same way: the burden fell on the claim about institutions.
 The ledger's foundation file recorded this exact failure ("the highest burden fell on the
 scale that implicates states") **one day earlier**, and it recurred anyway. A note did
@@ -159,8 +199,9 @@ before any verdict is written.
 
 ## Limits no statistic here removes
 
-1. **Curation.** One host selects stories that fit the show. Selection alone can produce
-   convergence.
+1. **One selection process.** The corpus cannot give prevalence rates. *The first version
+   wrote "one host selects stories that fit the show," an insinuation of fitting. It is
+   withdrawn: see "Who curates."*
 2. **Shared vocabulary** may smooth surface descriptions. R4 tested whether it drives
    the convergence, and it does not.
 3. **No speaker separation.** Host narration, survivor speech and expert segments are

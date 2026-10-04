@@ -50,6 +50,17 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    perception control. The corpus is curated (one selection process). Stays `[SUPPORTED]`:
    illustrative, not a base rate. Institutional self-similarity (C2) was **not
    adequately tested**: see the power audit in `research/sww-corpus/README.md`.
+5. **The documentation burden.** `[SUPPORTED]` (`research/documentation-labor-burden.md`,
+   2026-10-04, from the operator's account):
+   - in victim-initiated forums the record must be made contemporaneously (FRE 803(5)),
+     on the victim's labour (Stephenson et al. 2025; Faragher/Ellerth);
+   - the conduct at issue degrades the capacity to make it (Nielsen & Einarsen 2012;
+     Arnsten 2009).
+
+   The disconfirming case is evidence-led prosecution (England and Wales). The burden is a
+   design choice of the forum. Candidate responses (`[NORMATIVE]`,
+   `NEEDS-LIBERTY-REVIEW`): an offender-centric evidence default; institutional
+   record-preservation duties; late-record tolerance where debility tactics are alleged.
 4. **Meta-analytic support for the *psychological*-harm nexus.** `[SUPPORTED]`
    (added by evidence-check 2026-07-09, answering OBJ-019) The lethality instruments in
    Finding 2 predict *physical* danger; the foreseeability of *psychological* harm rests
