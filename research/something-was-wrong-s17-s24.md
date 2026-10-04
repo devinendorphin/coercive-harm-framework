@@ -17,10 +17,11 @@
     and the like was read, plus the lines on either side of it.
   - **S20:** **read in full** (all 12 episodes, every line), 2026-10-04.
   - **S21:** **read in full** (all 19 episodes), 2026-10-04.
-  - **S22–S24:** full read **in progress**. Until it is finished, findings drawn from S22–S24
+  - **S22:** **read in full** (all 13 episodes plus E01b), 2026-10-04.
+  - **S23–S24:** full read **in progress**. Until it is finished, findings drawn from S23–S24
     rest on a targeted grep, the notes, and the verified records below.
   - **No audio was reviewed.** At the S16 standard (every episode read in full), this file
-    covers S17–S19 partially, S20–S21 fully, and S22–S24 thinly (pending).
+    covers S17–S19 partially, S20–S22 fully, and S23–S24 thinly (pending).
 - **Grades:**
   - *Record*: a primary or official document, or reputable reporting located this session.
   - *Narr.*: the transcript's account, uncorroborated.
@@ -327,18 +328,53 @@ not been convicted. Otherwise they are described.*
   in person under a false identity, and the show treats it as admirable. **This is the same
   act S20 condemns, judged by who did it.**
 
-**S22 — Megan Stoner (Indiana): the false-reporting season**
-- **Record:** rental-fraud conviction (Dec 2023); bail revoked; a new case pending.
-- **Allegations aired (narr.):**
-  - a **false sexual-assault accusation against a pastor, using fabricated texts**;
-  - an invented murder-for-hire plot among pastors;
-  - a fabricated shooting of her own mother;
-  - a PPP-loan fraud allegation;
-  - a false report from inside the governor's office during COVID;
-  - a threat to call CPS on a victim's children.
-- **The host interviewed the accused directly** and put the allegations to her.
-- This is the corpus's sharpest instance of **false reporting used as a coercive and
-  attention tactic.**
+**S22 — Megan Stoner (Indiana): false reporting, and a crowd that hunted it** *(read in full: 13 episodes plus E01b)*
+- **Record** (WTHR/WRTV, and court documents read on air):
+  - plea on 22 Nov 2023 to two counts, Level 6 felony fraud and theft ($750–$50k), with 7 counts dismissed. Sentenced 18 Dec 2023 to 730 days, 365 of them suspended, plus restitution and probation;
+  - community corrections from 7 Mar 2024, revoked 22 Apr 2024 after a phone search. The sentence was amended to 508 days;
+  - a Utah civil judgment of about $68,000 over Tesla leases, one allegedly signed in a former roommate's name. Episodes give the figure differently: $68,002.10 and $68,210. It was domesticated in Indiana in Jul 2024; identity-theft charges were "under consideration";
+  - an earlier judgment for an aunt of about $25,000 over credit cards opened in the aunt's name;
+  - pleas on 19 Dec 2024 to three misdemeanours (driving offences and a theft);
+  - released 15 Nov 2024.
+- **Mechanism alleged (narr.; some of it admitted on recorded calls):**
+  - fabricated crises, deaths and children, each followed by money requests;
+  - the subject re-posted other survivors' traumas in support groups as her own, intensified;
+  - persona networks: several phone numbers impersonating politicians, a "governor," a "lawyer" or relatives. They sent threats and, when someone pulled away, **suicide pressure**: "You can't just let her kill herself because of you." This is the S20 mechanism with a different surface story;
+  - **false sexual-assault accusations against public officials and pastors.** On a recorded call she admitted that one, against a state legislator, was "not true … attention," and that a murder-for-hire plot was fabricated. A forged NDA was caught by searching its first paragraph on Google;
+  - **retaliatory complaints**: a HIPAA complaint against a chiropractor who reported her impersonating politicians (he prevailed), and a reported allegation against a service provider who asked for payment (X3, pole 2);
+  - alleged targeting of disabled friends. She denies it; the host cites texts in which the subject described autistic people's susceptibility to gaslighting.
+- **How it was detected:** implausible access (no one "works for" the officials she named), comparing her patterns across groups, a debunked document, and finally her admission. **No heuristic about sexual-assault reports as a class was used**, and none is needed. This matters for doc 07.
+- **The crowd** (Facebook group, about 1,500 members):
+  - What it did:
+    - pooled victims that police had handled one at a time;
+    - stopped a fabricated hostage story by contacting the named "roommate" before it spread;
+    - traced the Tesla lessor;
+    - fed new complainants to the state police.
+  - How it did it:
+    - **stings built on deception**: a fake reporter, and a fake practitioner business with bought followers;
+    - a **bail-for-repayment offer to a detained person**. Her words: "I felt very coerced … I really didn't have a choice";
+    - jail calls broadcast to the group, including a call with her mother;
+    - meme jail-cell images and "bingo cards."
+  - What participants said:
+    - asked if they were a mob: "a little bit, yeah";
+    - stated aim: "a really hard time finding a job … consequences for every last thing" that is not a crime.
+- **The host's method:**
+  - read the subject unverified allegations ("I don't have notes on where these came from");
+  - **refused to let her see the testimony, because it "would allow you to plot and manipulate further"**;
+  - "playing dumb … to keep her talking";
+  - presented evidence to the state police;
+  - closed with "a parasite, a liar, a thief," and "one could argue witness intimidation is the goal," which **accuses her of a crime she has not been charged with**.
+- **The hard both-victims case:** the subject privately described an internal-massage session she did not remember consenting to. A participant forwarded this to the practitioner as part of her pattern of false accusation. **Propensity is not proof of this event.** The file adjudicates neither way, and doc 07 must not let a record of fabrication become automatic disbelief.
+- **X7 instances:**
+  - protective custody "because of the publicity," about 23 hours a day, over her written objection (her account);
+  - a local pro-se defendant reportedly held in a mental hospital "until she agreed to get counsel" (hearsay; Indiana v. Edwards ground);
+  - the bail-for-repayment offer above.
+- **E13 (bonus):** a guest host was defrauded of her savings by a fiduciary advisor (convicted; about 23 clients; about $2.3M; narr.).
+  - "No one will confirm to you that you have actually been defrauded";
+  - the victim advocate sent a pamphlet;
+  - victims found each other only on social media.
+  - **This is the institutional silence that the S22 group filled by itself**, and it is the strongest case for that group.
+  - The guest's definition of victim-centred: "what can we do to ensure that this doesn't happen again."
 
 **S23 — Origins Birth & Wellness (Texas): birth-center injuries and deaths**
 - **The facts aired:**
@@ -505,6 +541,14 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - **Not named:** the subject of S20 (charged with a misdemeanor, dismissed at the
   complainants' election, not convicted; the show names her); the accused in S18 E1 and E13–14 (the show
   names some of them); minors; S21 survivors who did not use their own names, and any S21 survivor whose name would identify an unconvicted accused.
+- **S22:** the subject is named because she was convicted, and her case is in news
+  reporting. **Not named:** the officials and pastors she falsely accused (repeating their
+  names next to a sexual-assault allegation, even a debunked one, adds nothing); her
+  victims and the participants, beyond first names the show uses; the practitioner; the
+  E13 advisor (convicted, but the DOJ record has not been fetched).
+- **S22, not repeated:** a participant's suggestion that the subject's pressure caused her
+  mother's death, and the labels "psychopath" (a police officer, third-hand) and
+  "parasite" (the host).
 - No sexual or health detail about minors is recorded.
 - The S23 owner's 2015 probation is from a docket **as read aloud on the show**, not
   fetched. Treat it as narrated.
@@ -524,7 +568,7 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - which specific overrides, if any, are justified (X7 states the test, not the answers);
 - that board lag is typical (X1).
 
-**Coverage limit:** S20 and S21 have been read in full. S22–S24 were sampled; the full read
+**Coverage limit:** S20, S21 and S22 have been read in full. S23–S24 were sampled; the full read
 is in progress. A finding resting only on a sampled
 season is flagged by its grade. A full read of S20–S24 would be the next pass if any of X1,
 X3, X4 or X7 is to carry weight.
