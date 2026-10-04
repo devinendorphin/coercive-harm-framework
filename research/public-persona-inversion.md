@@ -25,15 +25,16 @@
 | **Harvey Weinstein** | a champion of women's causes (a gift to the Gloria Steinem Chair in feminist studies at Rutgers; distributor of *The Hunting Ground*, a film about campus sexual assault) **alongside** a widely known reputation for bullying | **Convicted in Los Angeles 2022** (rape; 16 years; under appeal). His 2020 New York conviction was overturned in 2024; the **2025 retrial convicted him on one count**, acquitted him on one, and deadlocked on one. | **Mixed**: inverse on the cause he championed, congruent on the aggression |
 | **Joss Whedon** | a feminist auteur | **No legal finding, and nothing criminal.** His ex-wife Kai Cole published an account of affairs during their 16-year marriage, describing him "preaching feminist ideals" while using the marriage "as a shield." This is recorded as **her published account**. | ✔ as relational deception, which is **not** a crime. It marks exactly where the doc 03 §4 fraud prong must **not** reach (see below) |
 
-## The disconfirming side: personas congruent with the conduct
+## A contrasting case: a persona congruent with the conduct
 
 - **R. Kelly.** Convicted in 2021 of federal racketeering and sex trafficking; 30 years, upheld
   on appeal in 2025. His public persona and catalogue were overtly sexual. That is **not** an
   inverse persona.
 - **Weinstein (partly).** The bullying was public; only the cause-championing was inverse.
 
-**So inversion is not universal among exposed celebrity offenders.** A refined hypothesis, which
-fits S14 as well:
+**The contrast helps locate where the pattern applies.** The operator did not claim it was
+universal, and this is not offered as a counter to a universal claim. A hypothesis about scope,
+which fits S14 as well:
 
 > **The inverse persona tracks access-by-trust.** Where access to victims runs through being
 > trusted (children's hosts, family spokesmen, preachers, hospital volunteers, a cause-aligned
