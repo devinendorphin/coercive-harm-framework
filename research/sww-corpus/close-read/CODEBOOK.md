@@ -91,3 +91,127 @@ exits and meets no new acts has still lost the social world the smear captured. 
 **R-SEP = "no new acts observed"** for these cases, never "none," and record the
 **persisting C3/C4 effect** (relationships lost, accounts still believed, sanctions on
 contact) as part of the perpetrator's pattern. Do not record it as a neutral outcome.
+
+---
+
+## Amendment 2 (2026-10-04, after Season 11): the operator's rulings on S11
+
+*Operator statements are quoted verbatim and in full. Dictation repairs are marked
+`[original→repair]`, with `?` where the repair is a guess. Glosses are on their own labelled
+lines.*
+
+### 2a. Minors who act out the pattern (S11h)
+
+> "Regarding the child in the same way that the system is reluctant to call a child antisocial and instead call them with a conduct disorder I would kind of label it in a certain similar way like they are seeming to be primed to be a perpetrator someday but right now they're probably repeating the patterns that the parents are doing because he's got 24/7 exposure to them."
+
+*Claude's operationalization (Claude's wording):*
+- **The analogy holds structurally** `[ESTABLISHED]`. DSM-5 does not diagnose antisocial
+  personality disorder before age 18. The adult diagnosis requires evidence of conduct disorder
+  with onset before 15. The child-level category describes conduct, not personality.
+- **New code: CP-minor (conduct pattern, minor).** A minor's coercive or violent conduct is
+  recorded in its own field. It never goes in the P-fields, and it never confers perpetrator
+  status. Alongside it, record:
+  1. **exposure**: the household pattern the minor is inside, as observed (S11h: the father to
+     the mother, the mother to the nanny);
+  2. **who else in the household had the same exposure, and what role they took.**
+- **"Primed" is held as risk, not trajectory** `[SUPPORTED]`. In longitudinal follow-up, about
+  a third of children with conduct disorder meet criteria for antisocial personality disorder
+  as adults. Earlier onset (at or before 10) and more diverse behaviour predict progression.
+  Most do not progress to that diagnosis, though adverse adult outcomes are broad.
+- **A within-household test** `[HYPOTHESIS]`. In S11h the younger sibling "Blair" had the same
+  24/7 exposure and took the **buffer** role ("Blair seemed to be Alex's parent sometimes"), not
+  the aggressor role. So exposure predicts *a* role in the pattern, not *which* role. Older
+  sibling, younger sibling, temperament and the parent's alignment are all candidates.
+  Transmission as the cause of Alex's conduct remains Molly's and the operator's reading. Any
+  other cause (neurodevelopmental, medical) is undetermined, and the show withheld age and
+  gender.
+
+### 2b. Story appropriation (candidate device)
+
+> "Heidi report can be undetermined, and this also highlights some something lots of times a perpetrator will take on the stories of the people who have been around him in past cycles and use their stories as their own."
+
+*Claude's operationalization (Claude's wording):*
+- Heidi's report stays **U** (agreed).
+- **Story appropriation** is added to the device list as a **candidate with zero confirmed
+  instances in S1–S11.** S11e is undetermined, so it is not an instance.
+- **What would confirm an instance:** independent evidence that the teller could not have
+  experienced what they claim, such as a timeline or place that makes it impossible, or a
+  verbatim match to another person's account that predates the teller's contact with it.
+  Resemblance alone does not confirm it, because one perpetrator's repeated conduct produces
+  resembling stories from separate victims (S9, S10f, S11c).
+- **Both-victims gate:** applied without that evidence, "they borrowed someone's story" becomes
+  a way to discount a genuine second victim. The device can only be coded on independent
+  evidence.
+
+### 2c. The hall of mirrors, and the fluency rubric
+
+> "Also the Hall of mirrors game where if a person is talking about their partner and calling them crazy and just crapping on them in front of people that's a thing too and one has to have discernment to to figure out whether or not that's an actual story or if the [?revolt rolls→roles] need to be reversed as a way of decoding [?with the stories→what the story's] actually about. Generally my rubric to that has been if the negative parts of their partner are so easy to come out of their mouth chances are they might be the perpetrator because the one who's actually been abused is the one who makes all the effort to try to understand them and has the toughest time to accept the notion that that work was futile that their person is actually doing the things that they're doing and so it's harder to come out about it and so the language wouldn't be so fluent."
+
+*Claude's operationalization (Claude's wording):* the rubric is `[HYPOTHESIS]`. A disconfirming
+test was run on the corpus before recording it.
+
+- **For it.**
+  - Early, unprompted, fluent denigration of the partner or target **to third parties** is C4
+    itself. It is the perpetrator's move throughout: S8 Crystal, S11b Stan's Facebook posts,
+    S11i's persona and rumour, S11l Patricia to the employees.
+  - Targets describe a slow, effortful naming: Quinn ("never even realized I was victimized"),
+    Molly ("did not know that you could be abused in the workplace"), Lucy (named it a decade
+    later), and Nina ("I didn't think I was in an abusive relationship, I just thought it was a
+    difficult one").
+- **Against it.**
+  - **S11i at exposure.** Vera was fluent and angry ("how do you know if someone is a
+    sociopath"). Brady went silent, "small and sad," and "suicidal." The classmates read the
+    fluency cue exactly as the rubric does, and "he became the victim." S11d's Will sobbed, then
+    turned his tears off to text his training partner. **Performed inarticulacy defeats a
+    fluency test.**
+  - **Survivors become fluent with time and naming**, and this corpus selects for that: guests
+    tell their story after therapy. A fluency test would score every guest in the corpus as
+    suspect.
+  - **The literature.** Complainants' emotional demeanour does not track honesty or accuracy,
+    yet it moves perceived credibility. Distressed complainants are believed more than
+    controlled ones (Ask & Landström 2010; a meta-analysis of 20 studies found a small-to-moderate
+    effect). A demeanour cue is the kind of heuristic institutions already misuse.
+  - **S11e is undetermined under the rubric.** Heidi was fluent about Peter, and Sasha was
+    fluent about Heidi.
+- **Refined scope, holding what survives:** the signal is **fluent, unprompted denigration to
+  an audience while the relationship is ongoing** (the C4 pattern). It is not the target's
+  fluency after exit or naming, and it is not inarticulacy at exposure.
+  - *Upgrade if* a coder blind to outcomes, given early third-party statements only, sorts
+    perpetrators from targets above chance.
+  - *Downgrade if* targets' early statements to third parties are as fluent and as
+    denigrating.
+- **Both-victims gate:** a listener's first-pass discernment, never a credibility test for a
+  court, employer, school or clinician. Any use beyond that goes through `/liberty-review`.
+
+### 2d. Clinical terms as shorthand
+
+> "Interesting how you are more reluctant to take on the clinician's terms but that's also because we've had past conversations about the the stigmatizing language of pathology and I get that but it's also useful to still be able to use the previous terms because that's the shorthand that might be enable people to talk about it. But I do agree that the stigmatizing language surrounding the pathology is a problem."
+
+*Claude's operationalization (Claude's wording):* coding stays behaviour-based (working
+agreement 3, `CLAUDE.md`). The shorthand is made usable through a **crosswalk**. A reader who
+arrives with the common term can find the behaviours it usually points to. When a speaker uses
+a label, the record notes which behaviours they pointed to.
+
+| Shorthand people use | Codebook fields it usually points to | Corpus examples |
+|---|---|---|
+| love bombing | C1 (binding investment, any form) | S1, S10e, S11d |
+| gaslighting | perception control; pathologizing the target; reversal | S3, S10c, S11d, S11h |
+| flying monkeys | C4 relays; third parties recruited to pressure or report | S5c, S11b (friends to "find you online"), S11d (his brother, gym members) |
+| triangulation | C4-T2; idealized rival | S8, S10k, S11l |
+| hoovering | C6; R-SEP contact after exit | S10f, S11d |
+| DARVO | reversal on exposure; R-SEP | S6a, S10j, S11i, S11l |
+| narcissist / NPD (S11d therapist; S11h show intro) | no single field. In S11d the speaker pointed to C1 bursts, C4-T2 concurrent women, the suicide leash, and hoovering | S11d |
+| histrionic (S11l counsellor) | escalated emotional display and storming out (no codebook field); C4 triangulation; reversal | S11l |
+| sociopath (S11i, the target) | deliberate C3 plus C4-T1 (sole channel corrupted) | S11i |
+
+### 2e. "Intimate" is whatever the people call it
+
+> "Okay I don't see what the problem is with that some people say boyfriend some people say intimate partners some people say [?men thing→man-thing] jokingly polyamorously I have f*** buddies so it really depends on the person."
+
+*Claude's operationalization (Claude's wording):*
+- Agreed: the intimate-partner category does not depend on a title.
+- S11j's "we're not dating, there was no title on this" is coded as **perception control at
+  exit**. The case stays an intimate-partner case.
+- The settings note on S11 concerned eight stories that are not partnerships under any label:
+  a child groomed online, two friendships, an acting coach, employers, in-laws, and a peer
+  assault.

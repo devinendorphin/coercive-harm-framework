@@ -185,6 +185,7 @@ assumed.
 | Children as the leash at exit (abduction or custody threats) | S9 (custody suit), S10k ("what makes you think you'll get custody"), S11a ("she kidnapped the kids"), S11b ("take him to Russia"; "if I can't have him, no one can") |
 | Recording as a weapon | S6 J.E. (inverse: the victims' family recorded), S11c (screenshots the target did not know of), S11k (a group assault videotaped) |
 | Group spectatorship / bystanders who saw and did not act | S11b (a man in the next car saw her bound hands; a motel clerk said "there's something wrong"), S11k (watched from the windows; laughter in the lobby) |
+| *Candidate:* story appropriation (a perpetrator retells a prior victim's story as their own; operator, amendment 2b) | **No confirmed instance.** S11e is undetermined. Confirmation needs independent evidence that the teller could not have experienced it |
 
 ## Divergences that matter for the framework
 
@@ -271,7 +272,9 @@ assumed.
     aggressor.** The employers met each report of violence with the perpetrator's own moves:
     minimise; reverse ("you should have handled it differently"; "because you had been distant
     and cold"); love-bomb; demand forgiveness. The child is not typed or coded as a perpetrator.
-    **Whether a child's conduct belongs in the low-variance claim at all is open.**
+    *Resolved by amendment 2a:* a minor's conduct is coded CP-minor, recorded with its exposure,
+    and kept out of the perpetrator count. Within the household, the same exposure produced
+    two roles: the aggressor (Alex) and the buffer (Blair).
 22. **S11d: lethality moved to the next partner, and comparing notes came too late.** The
     therapist's advice not to warn the next woman was a rational reading of the C4 environment:
     she would be disbelieved as "an ex who can't let go," and risk retribution. That shows how
@@ -295,3 +298,13 @@ assumed.
     assault at 15 **after hearing S5's Kelly.** Labels also came from clinicians ("narcissist,"
     "histrionic personality disorder"). Those person-labels are recorded as the speakers' terms
     and not adopted.
+
+27. **Amendment 2 (operator rulings after S11).**
+    - CP-minor coding for children (2a).
+    - Story appropriation as a candidate device (2b).
+    - The fluency rubric (2c), recorded as a hypothesis with a refined scope. What survives the
+      corpus test is fluent, unprompted denigration to an audience **during** the relationship.
+      S11i's exposure (a silent, "small and sad" perpetrator; a fluent, angry target) is the
+      counter-instance for the unrefined version.
+    - A crosswalk from common shorthand to codebook fields (2d).
+    - "Intimate" independent of titles (2e).
