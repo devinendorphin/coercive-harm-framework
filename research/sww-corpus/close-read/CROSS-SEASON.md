@@ -1,7 +1,7 @@
 # Cross-season running comparison (updated after each season)
 
 *In-order close-read. Each season's full coding is in `S0N.md`. This table is the running
-synthesis. It is updated, never smoothed. Last updated: after S8.*
+synthesis. It is updated, never smoothed. Last updated: after S9.*
 
 ## Cases so far
 
@@ -19,6 +19,8 @@ synthesis. It is updated, never smoothed. Last updated: after S8.*
 | S6a | friendship / catfish (Kaelyn) | "Kristen", serial catfisher | lateral (friend) | F → F |
 | S7 | sibling and child-to-parent abuse, single-mother home (Amy) | older brother "Rory" | **upward** against the parent, downward against the sister | M → F (mother, sister) |
 | S8 | in-law + two workplaces (Auredian; witnesses Amber, Zachary) | "Crystal", sister-in-law and coworker | lateral (family); upward to her boss, downward to her agents | F → F, M |
+| S9a | intimate partner, 8.5 yrs (Danielle) | "Arty", false identity (British doctor), serial (≥10 women) | partner | M → F |
+| S9b | intimate partner (Darcy; ex-husband Kenji also targeted) | same perpetrator | partner | M → F (and M) |
 | S6 (non-cycle) | stranger lure (Jez); Craigslist lure (host); hate-crime stalking (J.E.) | unknown man; landlord; convicted caller | stranger / none | M → F; M → F; F → non-binary |
 
 ## The operator's cycle across cases
@@ -39,16 +41,16 @@ synthesis. It is updated, never smoothed. Last updated: after S8.*
 
 ### Recode on the perpetrator-only basis
 
-| P-field | S1 Sarah | S1 ex-fiancée | S2 T | S3 Victoria | S4 Bogues | S5a Julia | S5b Kelly | S5c Rachel | S6a Kaelyn | S7 Amy | S8 Auredian |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| C1 form | romantic burst | romantic | need-bombing | ambient friendship | group honeymoon | group belonging | confidant → romance | intermittent (parental) | persona romance | intermittent filial; romantic with girlfriends | in-law "sistership"; workplace favour |
-| C5 Discard | n/o (she exited) | ✔ | n/o (exposure) | n/o (death) | ✔ punitive | ✔ toward others; n/o for her | ✔ "not invited back" | n/o (she cut contact) | ✔ persona "dies" | n/o (the mother did the exiting) | ✔ "you ruined it… she's not family" |
-| **R-SEP response to exit or exposure** | ✔ recast exit as "a huge mistake"; refund held as a "lifeline"; account logins | ✔ "always came back"; webcam hack; photos sent as a threat | ✔ reversal ("I'm the one abandoned"); a new illness years later | ✔ within hours of exposure and ultimatum, **the co-perpetrator's suicide** (lethality, self-directed) | ✔ blackmail and retrieval of defectors; killings attributed by survivors; White Night → mass murder when an outside inquiry arrived | ✔ guilt lever ("we've done so much for your family"); leavers' reputations trashed | ✔ car keys as threat; $5k demand; "I can't control what he will do to you"; told Lance she was the abuser; "if you're here to cause a scene, leave" | ✔ contact made conditional; the brother told "Rachel chose not to talk to you"; after removal, flying monkeys, witness pressure, workplace tracking, gifts and letters | ✔ blocked; later "my cousin started it"; on TV, cast herself as victim and Kaelyn as the husband's lover | ✔ **lethal**: he killed the mother when she imposed a consequence; then 16 years from prison (hitman letters, threat at parole, legal stalling) | ✔ text barrage, DARVO, "I'll end you," abortion secret used, drug rumour about her partner at work |
-| C4-T1 mediator-poisoner | not checked | not checked | ~ (relays between helpers) | ✔ Patty's relays; laundering chain | — | not checked | ✔ mother ↔ Kelly both ways | ✔ mother "brokering" Daniel | — | — | ~ fed her mother "she's bullying me" |
-| C4-T2 serial tailored smear + no comparing | not checked | not checked | ✔ "a whole separate set of lies for each… none of us intersected" | ✔ brother: "crazy"; son: "monster"; daughter-in-law: "she lies" | ✔ "you didn't dare talk to your spouse"; enforced denunciation | ~ leavers smeared | ✔ in-laws told she abused; "we do not talk about it" (no comparing, set by leadership) | ✔ mother to Sarah: "anxiety from listening to Rachel," while supportive to Rachel's face | ~ one listener known (the Catfish target) | ~ different sob stories for different audiences | ✔ **paradigm**: a dead husband at work, evil in-laws to Zachary, Amber framed as homophobic, Amber's coworkers told she hated them; "don't trust Zachary" kept the audiences apart; collapsed when they compared notes |
+| P-field | S1 Sarah | S1 ex-fiancée | S2 T | S3 Victoria | S4 Bogues | S5a Julia | S5b Kelly | S5c Rachel | S6a Kaelyn | S7 Amy | S8 Auredian | S9a Danielle | S9b Darcy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| C1 form | romantic burst | romantic | need-bombing | ambient friendship | group honeymoon | group belonging | confidant → romance | intermittent (parental) | persona romance | intermittent filial; romantic with girlfriends | in-law "sistership"; workplace favour | romantic + invented family + "psychic" | need-matched (a third child) + wealth |
+| C5 Discard | n/o (she exited) | ✔ | n/o (exposure) | n/o (death) | ✔ punitive | ✔ toward others; n/o for her | ✔ "not invited back" | n/o (she cut contact) | ✔ persona "dies" | n/o (the mother did the exiting) | ✔ "you ruined it… she's not family" | ✔ in substance; final exit hers | ✔ repeated |
+| **R-SEP response to exit or exposure** | ✔ recast exit as "a huge mistake"; refund held as a "lifeline"; account logins | ✔ "always came back"; webcam hack; photos sent as a threat | ✔ reversal ("I'm the one abandoned"); a new illness years later | ✔ within hours of exposure and ultimatum, **the co-perpetrator's suicide** (lethality, self-directed) | ✔ blackmail and retrieval of defectors; killings attributed by survivors; White Night → mass murder when an outside inquiry arrived | ✔ guilt lever ("we've done so much for your family"); leavers' reputations trashed | ✔ car keys as threat; $5k demand; "I can't control what he will do to you"; told Lance she was the abuser; "if you're here to cause a scene, leave" | ✔ contact made conditional; the brother told "Rachel chose not to talk to you"; after removal, flying monkeys, witness pressure, workplace tracking, gifts and letters | ✔ blocked; later "my cousin started it"; on TV, cast herself as victim and Kaelyn as the husband's lover | ✔ **lethal**: he killed the mother when she imposed a consequence; then 16 years from prison (hitman letters, threat at parole, legal stalling) | ✔ text barrage, DARVO, "I'll end you," abortion secret used, drug rumour about her partner at work | ✔ at her parents' door; "nobody in this family is going to be safe"; custody suit; fake subpoena for her address | ✔ fake overdose; restraining order against her; attacks on Kenji |
+| C4-T1 mediator-poisoner | not checked | not checked | ~ (relays between helpers) | ✔ Patty's relays; laundering chain | — | not checked | ✔ mother ↔ Kelly both ways | ✔ mother "brokering" Daniel | — | — | ~ fed her mother "she's bullying me" | ~ | ✔ threatened friend with CPS; venting relayed to her employer |
+| C4-T2 serial tailored smear + no comparing | not checked | not checked | ✔ "a whole separate set of lies for each… none of us intersected" | ✔ brother: "crazy"; son: "monster"; daughter-in-law: "she lies" | ✔ "you didn't dare talk to your spouse"; enforced denunciation | ~ leavers smeared | ✔ in-laws told she abused; "we do not talk about it" (no comparing, set by leadership) | ✔ mother to Sarah: "anxiety from listening to Rachel," while supportive to Rachel's face | ~ one listener known (the Catfish target) | ~ different sob stories for different audiences | ✔ **paradigm**: a dead husband at work, evil in-laws to Zachary, Amber framed as homophobic, Amber's coworkers told she hated them; "don't trust Zachary" kept the audiences apart; collapsed when they compared notes | ✔ **paradigm**: tailored personas; "never talk to his ex"; cease-and-desist naming Danielle; collapse by comparing notes | (same) |
 
-**Headline on the perpetrator-only basis.** C4 and **R-SEP are present in all 11 coded
-target-cases**. C2 and C3 are present in 10 of 11; in S6a the persona's devaluation was thin
+**Headline on the perpetrator-only basis.** C4 and **R-SEP are present in all 13 coded
+target-cases**. C2 and C3 are present in 12 of 13; in S6a the persona's devaluation was thin
 and the isolation happened inside the fiction. C1 holds in function across every case, in at least 10 different
 forms. C5 is present wherever it was observable. The cases where it was not observable
 were all cases where the target exited, the pattern was exposed, or someone died first.
@@ -92,19 +94,19 @@ assumed.
 
 | Device | Cases |
 |---|---|
-| Fabricated cancer / illness / death as currency | S1 (Dick, ×2 women), S2 (Sylvia), S6a (secondhand: money for a fictional dead child), S8 (a dead husband in four versions, a child's brain surgery, her own brain damage, a mother with cancer) |
+| Fabricated cancer / illness / death as currency | S1 (Dick, ×2 women), S2 (Sylvia), S6a (secondhand: money for a fictional dead child), S8 (a dead husband in four versions, a child's brain surgery, her own brain damage, a mother with cancer), S9 ("hit by a car"; overdose photo; invented dead brother) |
 | Suicide threat or performance as a leash | S1 (via "Brian"), S1 teen voicemail, S2 (staged overdose scene), S4 (White Night drills → mass murder), S5c (parents told the child a friend's death was her fault; the brother's attempts blamed on his sister), S6a (fabricated completed suicide → years of guilt) |
 | Fabricated third parties / relays | S1 (sockpuppets), S1 host's father (a fake "friend" letter), S3 (Patty's fabricated relays), S5a ("God told me… and he confirmed it"), S6a (a whole fictional cast: Lexi, Ryan, Tyler, Emily), S6 Jez (persona "Jordan" + the same man as rescuer) |
 | Fabricated record *against* the target | S4 (blank sheets turned into false confessions of child molestation) |
 | Complicity as a leash | S3 (husband drawn in), S4 (stolen-food truck → "prosecution or Guyana"), S5c ("accomplices to our own abuse"; children made to spank siblings), S6a (target drawn into harassing a real woman) |
-| State or legal instruments used by the perpetrator | S4 (a deputy serving an eviction order; a member DA; political protection), S5b (marriage licence withheld → no property rights; co-owned car as a threat) |
+| State or legal instruments used by the perpetrator | S4 (a deputy serving an eviction order; a member DA; political protection), S5b (marriage licence withheld → no property rights; co-owned car as a threat), S9 (U-visa as "victim"; counter-filed restraining orders; template cease-and-desist and subpoena; police reports; dual arrest) |
 | Pathologizing the target ("you need help") | S1 ("character flaw"), S3 ("cracking up", counselling, a dementia scan), S5c (doubt = devil; same-sex attraction = demon; a sister's anxiety blamed on Rachel) |
 | The perpetrator as the victim's counsellor | S1 ("Kimmy"), S3 ("their little counselor") |
-| Doubters discredited | S1, S2 (the ex-partner shouted down), S3, S5a (leavers), S5b (Kelly's mother ostracized), S5c ("dead churches"; criticism = persecution), S8 (Ben as "the kook," then accused of the burglaries) |
+| Doubters discredited | S1, S2 (the ex-partner shouted down), S3, S5a (leavers), S5b (Kelly's mother ostracized), S5c ("dead churches"; criticism = persecution), S8 (Ben as "the kook," then accused of the burglaries), S9 (Danielle's family; "plant drugs on your sister") |
 | Bystanders silent from predicted disbelief | S1 (family harmony), S3 (aunt: "she won't believe us"), S5b ("I noticed that too and didn't want to say anything"), S5c ("don't get involved in someone else's family") |
 | Animal harm | S1 (dogs), S2 (cat, dog), S5c (father beat her dog) |
 | Good works / public charm as cover | S1, S3, S4 ("an invisibility cloak"), S5a (the venue, "servant's heart"), S5c ("we accept the down-and-outs") |
-| Surveillance / demands for reporting | S1 (account logins, webcam), S3 (texts every moment; shared accounts), S5b (interrogated every word), S5c (phones withheld; ex-members tracked the siblings' workplaces) |
+| Surveillance / demands for reporting | S1 (account logins, webcam), S3 (texts every moment; shared accounts), S5b (interrogated every word), S5c (phones withheld; ex-members tracked the siblings' workplaces), S9 (phone demanded "to prove loyalty"; location at all times; recorded custody exchanges) |
 | Image management on exposure | S1, S3, S5b ("game faces"; "we do not talk about it"), S5c (the fake "Inverness branch"), S6 J.E. (apology names the parents, erases the target) |
 | Projection (accuses the target of the perpetrator's own act) | S1, S5b (husband and Lance both accused Kelly of cheating) |
 | Apology / confession as reset, with no change | S5c (father confessed to the congregation, was praised; "look me in the eye… then still hurt me") |
@@ -113,7 +115,9 @@ assumed.
 | Helping professional captured | S5b (licensed counsellor relays a threat, breaks confidentiality), S5c (church counsellors make a victim apologize for reporting) |
 | Incremental boundary-testing | S5a ("see what he could get away with"), S6 host (staged disclosure of the landlord's terms) |
 | Staged vulnerability / engineered need | S6 Jez (staged stand-up → rescuer), S6 host (exploiting housing and food insecurity) |
-| Leverage through a confided secret | S8 (an abortion, later shouted as "baby killer"), S7 (the yearbook blackmail) |
+| Leverage through a confided secret | S8 (an abortion, later shouted as "baby killer"), S7 (the yearbook blackmail), S9 (Danielle's secret from age 19; Darcy's medical information) |
+| Attacks on the target's employment | S8 (drug rumour about her partner), S9 (Tammy and Darcy fired; Kenji targeted) |
+| Name of the perpetrator tattooed on the target | S9 (ex-wife, Danielle, Darcy) |
 | Reversal on exposure ("I'm the one abandoned / sinned against") | S1, S2, S5b (wedding night; rape disclosure), S5c ("you dishonored us"; "you broke your father's trust"), S6a (perpetrator on *Catfish* as the victim) |
 
 ## Divergences that matter for the framework
@@ -172,3 +176,9 @@ assumed.
     for Zachary… pathological liar"), and the structure collapsed the moment they compared
     notes. Two independent workplace witnesses confirm it. This is the operator's
     specification of triangulation, observed whole.
+16. **S9: a single perpetrator, ≥10 targets, the same devices for a decade**, with tailored
+    personas, explicit walls against comparing notes, and escalation over time. A family
+    court denied the long-term target's restraining order on the reasoning "**if you really
+    felt threatened you would have left the first time**." That is the institutional
+    inversion of the separation-danger finding. She had stayed precisely because she
+    foresaw it.
