@@ -41,3 +41,45 @@ Every such case is recorded as a **divergence**, never smoothed into the pattern
 
 Coding records what the episode *says happened*, attributed. No finding about any
 individual is made (step one). Short quotations only.
+
+---
+
+## Amendment 1 (2026-10-04, before Season 7): the operator's correction on "low variance"
+
+> "Low variance in story and outcomes is not the low variance I'm talking about; it's low
+> variance in the type of behaviours the perpetrator does. In fact the variance in the
+> outcomes is actually a positive thing, because usually the act of trying to separate…
+> is considered the most dangerous time."
+
+Conceded. Seasons 1–6 mixed perpetrator behaviour, target response and outcome in the same
+cells. Most damagingly, **C5 was scored ✗ when the target left first** (S1 Sarah; S2 by
+exposure; S3 ended in a death). Those were target responses and outcomes, not evidence that
+a perpetrator behaviour was absent. Grounding: `../../emotional-abuse-clinical-literature.md` §0, §2.
+
+**The test, restated.** Only the **P-fields** (perpetrator behaviours) test the low-variance
+claim. **T-fields** (target responses) and **O-fields** (outcomes) are recorded for the
+documentation-burden and separation-risk analyses. Variance in them is expected and is
+**not** a divergence.
+
+**Refutation criteria, restated (P-fields only):**
+- a case where a perpetrator stage is clearly absent *while the perpetrator still had the
+  opportunity to perform it*;
+- perpetrator behaviours that differ in **kind**, not only in name, place, time or setting.
+
+**Field changes:**
+
+| Field | Type | Definition |
+|---|---|---|
+| C1 Binding investment | P | Love bombing coded by **function** (creating obligation, dependency or access), with its **form** named: romantic, group, workplace, friendship, need-bombing, offered provision, metamour, housing/occupancy |
+| C2–C4 | P | unchanged |
+| C4-T1 Mediator-poisoner | P | offers to intercede with a third party, then disparages the target to them; the sole channel, corrupted both ways |
+| C4-T2 Serial tailored smear | P | separate negative accounts of the target to different members of the support system, framed to each listener's values, with **instructions or norms against comparing notes** |
+| C5 Discard | P | perpetrator-initiated devaluation-to-exit. **If the target exits first, code "n/o" (not observable), never ✗** |
+| **R-SEP Response to separation or exposure** | P | what the perpetrator does when the target leaves or the pattern is exposed: hoover, DARVO, smear escalation, legal or economic abuse, stalking, threats, violence, self-harm (cf. post-separation abuse; Monckton Smith stages 4–5) |
+| C6 Return | P | unchanged; usually overlaps R-SEP |
+| T-fields | T | exit, fawning, documentation, disclosure, reactive abuse, self-blame |
+| O-fields | O | outcome (survival, exposure, conviction, death, custody loss…); not a test |
+
+**Recode of Seasons 1–6 (C5 and R-SEP):** carried in `CROSS-SEASON.md`. The season files
+S01–S06 keep their original coding as written, with this amendment governing their
+interpretation.
