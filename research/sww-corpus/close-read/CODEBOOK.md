@@ -172,7 +172,18 @@ the operator's form before testing. That item is withdrawn.
 - **Within scope, for it, after S13:** S13h (Ryan to Zoe: Nora is "crazy… photoshopped the
   texts," while the screenshots were genuine); S13n (Jim to each of several partners about the
   others, Arya included); S13o (Brent to his family: she is "choosing her family over me").
-- **Within scope, against it:** none found in S1–S13 so far. In S13 every target inside the
+- **Within scope, for it, after S14:** four more, all from one perpetrator. To Melissa, his wife
+  Mimi "was crazy and abusive"; to Sarah, Mimi was "emotionally abusive" while they were still
+  working on the marriage; to Clementine, jokes that his still-wife was "abusive… gained weight";
+  and, per an anonymous message (graded low), Kaylen called "a complete selfish controlling bitch"
+  to Seattle contacts.
+- **Audience-selective (S14).** In 2012 the same man spoke "fairly highly" of Kaylen to Melissa.
+  The signal is shown to some listeners and not others, so the rubric points one way only: its
+  absence before one listener is not evidence about the speaker.
+- **Borrowed fluency (S14, a boundary of form).** His wife, inside the relationship, wrote his
+  account of a co-target fluently ("using Ivy as a weapon"; a #PAS post). She was speaking about a
+  third party, not her own partner, so this is outside the rubric (as with Nora, S13h).
+- **Within scope, against it:** none found in S1–S14 so far. In S13 every target inside the
   harm defended or explained to third parties (Zoe, Claire, Riley, Gianna, Odessa, Arya).
 - **S13n, the live-in partner: undetermined (U), by operator ruling.** Claude had proposed
   treating her public record (theft, battery, a stabbing) as a limit on the rubric. Operator's
