@@ -17,7 +17,7 @@
     and the like was read, plus the lines on either side of it.
   - **S20:** **read in full** (all 12 episodes, every line), 2026-10-04.
   - **S21:** **read in full** (all 19 episodes), 2026-10-04.
-  - **S22–S24:** full read **in progress**. Until it is finished, findings drawn from S21–S24
+  - **S22–S24:** full read **in progress**. Until it is finished, findings drawn from S22–S24
     rest on a targeted grep, the notes, and the verified records below.
   - **No audio was reviewed.** At the S16 standard (every episode read in full), this file
     covers S17–S19 partially, S20–S21 fully, and S22–S24 thinly (pending).
