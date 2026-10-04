@@ -79,3 +79,19 @@ the 90th percentile of the control episodes' rates for that function.
    is mostly not recoverable from show notes. What can be coded is *setting*. The test
    is of setting-variance, and the write-up must say so.
 5. **Lexicon counts are crude.** Negation, quotation, and host commentary all count.
+
+## Deviations logged before results (2026-10-04, same session, still blind to all rates)
+
+- **D1 — duplicate pages.** The source site lists many episodes under two slugs
+  (`s1-e1-…` and `s1-ep1-…`). Episodes are de-duplicated by text hash. Rates are
+  unaffected by exact duplication; episode counts would not be.
+- **D2 — the R² threshold was wrong as written.** With ~9 fine setting categories over
+  ~25 seasons, the chance-level R² is about (k−1)/(n−1) ≈ 0.33, so "R² ≥ 0.25" would fire
+  on noise. Corrected rule: settings are collapsed to **four coarse strata** (intimate ·
+  family · group/institutional — religious group, workplace, professional, institution ·
+  other non-intimate — friendship, community scam), chosen now from `settings.csv`; the
+  test is the permutation p-value, and the write-up reports observed R² **against the
+  permutation-null mean**, not against a fixed bar. The fine 9-way coding is also run and
+  reported.
+- **D3 — S17 excluded from R2** (setting not determinable from notes; transcript opening
+  empty). It stays in R1/R3/R4.

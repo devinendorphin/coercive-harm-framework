@@ -67,8 +67,11 @@ def mean_pairwise(profiles):
 def main(swwdir, ctrldir, settings_csv, out):
     os.makedirs(out, exist_ok=True)
     seasons = defaultdict(lambda: {"text": [], "eps": []})
+    seen = set()
     for f in sorted(glob.glob(f"{swwdir}/*.json")):
-        d = json.load(open(f)); m = re.match(r"s(\d+)-?e?p?\d*", d["slug"])
+        d = json.load(open(f)); h = hash(d["text"])
+        if h in seen: continue
+        seen.add(h); m = re.match(r"s(\d+)-?e?p?\d*", d["slug"])
         if not m or EXCL.search(d["slug"]) or EXCL.search(d.get("title", "")) or len(d["text"].split()) < 500:
             continue
         seasons[int(m.group(1))]["text"].append(d["text"]); seasons[int(m.group(1))]["eps"].append(d["slug"])
@@ -83,7 +86,8 @@ def main(swwdir, ctrldir, settings_csv, out):
     elev = {k: sum(rate(S[s], k) > p90[k] for s in S) / len(S) for k in NAMES}
 
     # Settings coded from notes before inspecting rates
-    setting = {int(r["season"]): r["setting"] for r in csv.DictReader(open(settings_csv)) if r["season"].isdigit()}
+    col = os.environ.get("SETTING_COL", "setting")
+    setting = {int(r["season"]): r[col] for r in csv.DictReader(open(settings_csv)) if r["season"].isdigit() and r["setting"]}
     coded = [s for s in sorted(S) if s in setting]
     def prof(s): return [math.log((rate(S[s], k) + 0.5) / (cmean[k] + 0.5)) for k in NAMES]
     X = {s: prof(s) for s in coded}
@@ -99,9 +103,9 @@ def main(swwdir, ctrldir, settings_csv, out):
             within += sum(sum((Z[s][j]-c[j])**2 for j in range(len(NAMES))) for s in g)
         return 1 - within/tot
     rng = random.Random(20261004)
-    obs = r2(setting); labs = [setting[s] for s in coded]; ge = 0
+    obs = r2(setting); labs = [setting[s] for s in coded]; ge = 0; nullr2 = []
     for _ in range(10000):
-        rng.shuffle(labs); ge += r2(dict(zip(coded, labs))) >= obs
+        rng.shuffle(labs); v = r2(dict(zip(coded, labs))); nullr2.append(v); ge += v >= obs
     p_r2 = (ge + 1) / 10001
 
     # R3: profile similarity vs control pseudo-seasons
@@ -128,7 +132,7 @@ def main(swwdir, ctrldir, settings_csv, out):
                     "elevated_share": {k: sum(rate(S[s], k) > p90[k] for s in grp)/len(grp) for k in NAMES}}
 
     res = {"n_seasons": len(S), "n_control_eps": len(ctrl), "control_p90": p90, "control_mean": cmean,
-           "elevated_share": elev, "R2_setting_r2": obs, "R2_p": p_r2, "n_coded": len(coded),
+           "elevated_share": elev, "R2_setting_r2": obs, "R2_p": p_r2, "R2_null_mean": st.mean(nullr2), "n_coded": len(coded),
            "settings": {s: setting[s] for s in coded},
            "R3_sww_profile_similarity": sww_sim, "R3_null_mean": st.mean(null), "R3_null_p95": sorted(null)[949], "R3_p": p_r3,
            "R4": half}
