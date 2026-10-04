@@ -1,7 +1,7 @@
 # Cross-season running comparison (updated after each season)
 
 *In-order close-read. Each season's full coding is in `S0N.md`. This table is the running
-synthesis. It is updated, never smoothed. Last updated: after S5.*
+synthesis. It is updated, never smoothed. Last updated: after S6.*
 
 ## Cases so far
 
@@ -16,30 +16,32 @@ synthesis. It is updated, never smoothed. Last updated: after S5.*
 | S5a | youth ministry (Julia) | youth/senior pastor "Lance" | downward (clergy → youth, staff) | M → F, M |
 | S5b | marriage, same church (Kelly) — *not independent of S5a* | husband "X" (Lance's adopted son) + Lance | partner + clergy/employer | M → F |
 | S5c | parental household, evangelical commune (Rachel) | both parents (father pastor) | **downward** parent → child | M + F → F (and siblings) |
+| S6a | friendship / catfish (Kaelyn) | "Kristen", serial catfisher | lateral (friend) | F → F |
+| S6 (non-cycle) | stranger lure (Jez); Craigslist lure (host); hate-crime stalking (J.E.) | unknown man; landlord; convicted caller | stranger / none | M → F; M → F; F → non-binary |
 
 ## The operator's cycle across cases
 
-| Stage | S1 Sarah | S1 ex-fiancée | S2 T | S3 Victoria | S4 Bogues | S5a Julia | S5b Kelly | S5c Rachel |
-|---|---|---|---|---|---|---|---|---|
-| C1 Love bombing | ✔ burst | ✔ | **need-bombing** (fabricated illness) | **ambient** friendship; future-faking aimed at Ted | ✔ group honeymoon, recruited in grief | ✔ belonging ("became my family") | ✔ confidant → romance | ✔ intermittent (named by her) |
-| C2 Devaluation | ✔ | ✔ | ✔ (of helpers who pulled back) | ✔ ("liar", "cracking up", moving goalposts) | ✔ ("you're the problem"; the dog house) | ✔ public shaming | ✔ "dramatic", comparison to a teen | ✔ "selfish, ugly", "witchcraft" |
-| C3 Isolation | ✔ | ✔ | ✔ (compartmentalization) | ✔ (from her children and family) | ✔ (families broken up by design; Guyana) | ✔ live/work/rent inside the church | ✔ **explicit**, counsellor, mother, sister, women | ✔ homeschool, friends barred |
-| C4 Poisoning the well | ✔ | ✔ | ✔ | ✔ **purest instance** | ✔ (informers; enforced denunciation) | ✔ leavers' reputations trashed | ✔ both directions (mother ↔ Kelly) | ✔ uncle, co-resident, kin, the brother |
-| C5 Discard | ✗ she left | ✔ | ✗ exposure | ✗ a death | ✔ punitive (defectors) | ~ of others ("use them and dump them"); she left | ✔ "not invited back" | ~ conditional withdrawal; **she** cut contact |
-| C6 Return | ✔ (incl. a possible sockpuppet, 2019) | ✔ | ✔ (a new illness, years later) | — | ✔ coerced (blackmail; retrieval) | ✔ guilt lever | ✔ oscillation in counselling | ✔ repeated apology, money, letters, gifts |
+| Stage | S1 Sarah | S1 ex-fiancée | S2 T | S3 Victoria | S4 Bogues | S5a Julia | S5b Kelly | S5c Rachel | S6a Kaelyn |
+|---|---|---|---|---|---|---|---|---|---|
+| C1 Love bombing | ✔ burst | ✔ | **need-bombing** (fabricated illness) | **ambient** friendship; future-faking aimed at Ted | ✔ group honeymoon, recruited in grief | ✔ belonging ("became my family") | ✔ confidant → romance | ✔ intermittent (named by her) | ✔ via persona |
+| C2 Devaluation | ✔ | ✔ | ✔ (of helpers who pulled back) | ✔ ("liar", "cracking up", moving goalposts) | ✔ ("you're the problem"; the dog house) | ✔ public shaming | ✔ "dramatic", comparison to a teen | ✔ "selfish, ugly", "witchcraft" | ~ thin |
+| C3 Isolation | ✔ | ✔ | ✔ (compartmentalization) | ✔ (from her children and family) | ✔ (families broken up by design; Guyana) | ✔ live/work/rent inside the church | ✔ **explicit**, counsellor, mother, sister, women | ✔ homeschool, friends barred | ~ inside the fiction |
+| C4 Poisoning the well | ✔ | ✔ | ✔ | ✔ **purest instance** | ✔ (informers; enforced denunciation) | ✔ leavers' reputations trashed | ✔ both directions (mother ↔ Kelly) | ✔ uncle, co-resident, kin, the brother | ✔ fictional enemy + staged evidence |
+| C5 Discard | ✗ she left | ✔ | ✗ exposure | ✗ a death | ✔ punitive (defectors) | ~ of others ("use them and dump them"); she left | ✔ "not invited back" | ~ conditional withdrawal; **she** cut contact | ✔ persona's staged suicide |
+| C6 Return | ✔ (incl. a possible sockpuppet, 2019) | ✔ | ✔ (a new illness, years later) | — | ✔ coerced (blackmail; retrieval) | ✔ guilt lever | ✔ oscillation in counselling | ✔ repeated apology, money, letters, gifts | ✔ apology years later |
 
-**C2–C4 hold in every case so far (8 coded target-cases; S1 Sarah and the ex-fiancée share one perpetrator, S5a and S5b share one institution). C1 holds in function** (a binding investment)
+**C2–C4 hold in every case so far (9 coded target-cases; S1 Sarah and the ex-fiancée share one perpetrator, S5a and S5b share one institution). C1 holds in function** (a binding investment)
 **but varies in form. C5 and C6 vary most.**
 
 ## Recurring devices, by number of independent cases (perpetrators who did not know each other)
 
 | Device | Cases |
 |---|---|
-| Fabricated cancer / illness as a binding device | S1 (Dick, ×2 women), S2 (Sylvia) |
-| Suicide threat or performance as a leash | S1 (via "Brian"), S1 teen voicemail, S2 (staged overdose scene), S4 (White Night drills → mass murder), S5c (parents told the child a friend's death was her fault; the brother's attempts blamed on his sister) |
-| Fabricated third parties / relays | S1 (sockpuppets), S1 host's father (a fake "friend" letter), S3 (Patty's fabricated relays), S5a ("God told me… and he confirmed it") |
+| Fabricated cancer / illness as a binding device | S1 (Dick, ×2 women), S2 (Sylvia), S6a (secondhand: money for a fictional dead child) |
+| Suicide threat or performance as a leash | S1 (via "Brian"), S1 teen voicemail, S2 (staged overdose scene), S4 (White Night drills → mass murder), S5c (parents told the child a friend's death was her fault; the brother's attempts blamed on his sister), S6a (fabricated completed suicide → years of guilt) |
+| Fabricated third parties / relays | S1 (sockpuppets), S1 host's father (a fake "friend" letter), S3 (Patty's fabricated relays), S5a ("God told me… and he confirmed it"), S6a (a whole fictional cast: Lexi, Ryan, Tyler, Emily), S6 Jez (persona "Jordan" + the same man as rescuer) |
 | Fabricated record *against* the target | S4 (blank sheets turned into false confessions of child molestation) |
-| Complicity as a leash | S3 (husband drawn in), S4 (stolen-food truck → "prosecution or Guyana"), S5c ("accomplices to our own abuse"; children made to spank siblings) |
+| Complicity as a leash | S3 (husband drawn in), S4 (stolen-food truck → "prosecution or Guyana"), S5c ("accomplices to our own abuse"; children made to spank siblings), S6a (target drawn into harassing a real woman) |
 | State or legal instruments used by the perpetrator | S4 (a deputy serving an eviction order; a member DA; political protection), S5b (marriage licence withheld → no property rights; co-owned car as a threat) |
 | Pathologizing the target ("you need help") | S1 ("character flaw"), S3 ("cracking up", counselling, a dementia scan), S5c (doubt = devil; same-sex attraction = demon; a sister's anxiety blamed on Rachel) |
 | The perpetrator as the victim's counsellor | S1 ("Kimmy"), S3 ("their little counselor") |
@@ -48,13 +50,15 @@ synthesis. It is updated, never smoothed. Last updated: after S5.*
 | Animal harm | S1 (dogs), S2 (cat, dog), S5c (father beat her dog) |
 | Good works / public charm as cover | S1, S3, S4 ("an invisibility cloak"), S5a (the venue, "servant's heart"), S5c ("we accept the down-and-outs") |
 | Surveillance / demands for reporting | S1 (account logins, webcam), S3 (texts every moment; shared accounts), S5b (interrogated every word), S5c (phones withheld; ex-members tracked the siblings' workplaces) |
-| Image management on exposure | S1, S3, S5b ("game faces"; "we do not talk about it"), S5c (the fake "Inverness branch") |
+| Image management on exposure | S1, S3, S5b ("game faces"; "we do not talk about it"), S5c (the fake "Inverness branch"), S6 J.E. (apology names the parents, erases the target) |
 | Projection (accuses the target of the perpetrator's own act) | S1, S5b (husband and Lance both accused Kelly of cheating) |
 | Apology / confession as reset, with no change | S5c (father confessed to the congregation, was praised; "look me in the eye… then still hurt me") |
 | Forgiveness doctrine as gag order | S5c ("you've already forgiven dad, you don't get to bring it up"), S5b ("he already apologized") |
 | Idealized rival / triangulation | S5b (a teenage girl as the standard), S5c (siblings pitted as proxies for the marriage) |
 | Helping professional captured | S5b (licensed counsellor relays a threat, breaks confidentiality), S5c (church counsellors make a victim apologize for reporting) |
-| Reversal on exposure ("I'm the one abandoned / sinned against") | S1, S2, S5b (wedding night; rape disclosure), S5c ("you dishonored us"; "you broke your father's trust") |
+| Incremental boundary-testing | S5a ("see what he could get away with"), S6 host (staged disclosure of the landlord's terms) |
+| Staged vulnerability / engineered need | S6 Jez (staged stand-up → rescuer), S6 host (exploiting housing and food insecurity) |
+| Reversal on exposure ("I'm the one abandoned / sinned against") | S1, S2, S5b (wedding night; rape disclosure), S5c ("you dishonored us"; "you broke your father's trust"), S6a (perpetrator on *Catfish* as the victim) |
 
 ## Divergences that matter for the framework
 
@@ -89,3 +93,10 @@ synthesis. It is updated, never smoothed. Last updated: after S5.*
     single reports had failed. The charges covered only what had contemporaneous evidence:
     the youngest child's recent abuse. This is a direct instance of the documentation
     burden.
+11. **Scope test (S6).** Cases with no relationship (a stranger lure, a predatory landlord,
+    hate-crime stalking) show **none** of the C1–C6 cycle, but several of the devices.
+    This is specificity evidence: the codebook did not find the cycle everywhere, which
+    weighs against reading it as vocabulary laid over any harm.
+12. **The documentation burden, before and after (S6, J.E.).** The 2019 calls without
+    recordings went nowhere. The 2022–23 calls, recorded by the victims' family, produced a
+    guilty plea and a sentence. The family built the record themselves, under threat.
