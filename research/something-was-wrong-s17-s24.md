@@ -15,11 +15,11 @@
   - **S17–S19:** read through *keyword-window extracts*. Every transcript passage
     mentioning police, courts, sentencing, charges, CPS, licensing, lawsuits, regulators
     and the like was read, plus the lines on either side of it.
-  - **S20–S24:** a narrower targeted grep (outcomes, charges, licensing, regulators). This
-    is a **sample, not a reading**. Findings drawn from S20–S24 rest mainly on the notes,
-    the verified records below, and the passages located.
+  - **S20:** **read in full** (all 12 episodes, every line), 2026-10-04.
+  - **S21–S24:** full read **in progress**. Until it is finished, findings drawn from S21–S24
+    rest on a targeted grep, the notes, and the verified records below.
   - **No audio was reviewed.** At the S16 standard (every episode read in full), this file
-    covers S17–S19 partially and S20–S24 thinly.
+    covers S17–S19 partially, S20 fully, and S21–S24 thinly (pending).
 - **Grades:**
   - *Record*: a primary or official document, or reputable reporting located this session.
   - *Narr.*: the transcript's account, uncorroborated.
@@ -128,18 +128,85 @@
     survival.
   - Lenora Claire, on catching her own stalker.
 
-**S20 — the "Becoming Brody" catfish (NC and multiple states)**
-- **The show's claims:** a woman ran a fictional man's identity for 18+ years, with 20–30
-  victims.
-- **The state's response:**
-  - Detectives saw at most a stalking charge.
-  - An assistant DA doubted a judge would accept the charges.
-  - FBI contacts led nowhere located.
-- **The show's response:** it ran a change.org petition, "Hold [her] accountable".
-- **Recording this is a both-victims obligation** (doc 07). A media-and-petition campaign
-  against an **uncharged** private individual is extra-legal accountability. The 2024
-  critique of the show (Robinson) targets this season's legal claims in particular.
-- This file does not name her.
+**S20 — the "Brody" catfish (Iowa, Tennessee, North Carolina; 2007–2023) — READ IN FULL**
+*All 12 episodes read in full on 2026-10-04 (E01b in the feed duplicates E01). Grade:
+narr. throughout unless stated. The narration is unusually well documented: texts read on
+air, a recorded call in which the subject admits creating the persona, texting-app phone
+numbers, and the man whose photos were used.*
+- **The mechanism.** One operator ran a fictional man ("Brody") and his whole family:
+  brother, sister, cousins, a "medical classmate". Each had its own number and typing style.
+  **She also played herself, as the friend who had met him.** So every check a victim made
+  (asking "Jess", asking friends, even asking the operator's young son, who was coached to
+  vouch) came back to the operator.
+  - Co-victims were kept apart: each was told the other disliked her.
+  - Two of them shared an apartment and a Halloween weekend without discovering they were
+    talking to the same "man". They had been told to say they met at college.
+- **Coercion at every exit attempt** `[SUPPORTED]`: overdose, ventilator, chest tube, "bone
+  flap", car and motocross crashes. A fictional cousin was killed off on the same night for
+  all three women, including one who had already left. "Family" texts blamed the victim
+  for not searching.
+  - Medical vocabulary was tuned to victims who were nurses.
+  - Real-time knowledge came from surveillance: shared locations, indoor cameras in a
+    shared home, a "dog camera" she had given away and still had access to, and control of
+    the Wi-Fi.
+- **Sexual content was solicited throughout.** One victim had disclosed sexual trauma. The
+  persona then demanded she explain it, and called it "an out" when she would not. It also
+  obtained remote access to an app-controlled sexual device. This is a sexual act obtained
+  by **deception as to identity**. No charge on that theory appears anywhere on the record.
+- **Prior pattern (narr., several first-person accounts):**
+  - 2007, minors: the operator was about 13–14. Nude images were solicited from a
+    14-year-old. Facebook posts from 2007 by other girls question whether the boy was real.
+  - About 2010: a college roommate exposed her with a planned dorm-room test (a text to the
+    persona lit up the operator's phone). The roommate later became a lawyer, and says
+    "there were no laws on the books".
+  - The man whose photos were used confronted her in 2020 after an earlier victim found
+    him.
+  - After the 2023 court date she reportedly used a new persona with a new victim, who
+    flew in and stayed at her home.
+- **What the law did:**
+  - **Day one:** police said they "could not find anybody in the system with that name".
+    The fiction defeated the intake form.
+  - **Day two:** the victim brought the investigation she had done herself (texting-app
+    numbers, the real man's identity), and a protective order issued.
+  - **The second victim's order failed the first time** because the clerk gave her the
+    wrong form, a domestic-violence order rather than a civil no-contact order. Her case was
+    shuffled across districts, she retold it repeatedly, and service took about 8 days.
+    Order type depended on whether the victim lived with the abuser.
+  - **The only charge that fit was misdemeanor cyberstalking**, and the hook was the
+    retained camera. At the Oct 2023 hearing:
+    - the DA had five minutes to review the file;
+    - the offer was a plea: one year with no social media, plus no contact;
+    - **the complainants elected to dismiss**, hoping for a felony;
+    - **the felony never opened.** The DA said that without threats or extortion for
+      images there was nothing more.
+  - **Mar 2024:** the detective said "I don't believe we saw any charges … go to your local
+    agencies". FBI intake: "smoke … no fire … we'll try to find a statute". In June 2024 an
+    ADA and a sex-crimes officer "foresaw four potential charges". **No charge is on the
+    record located.**
+  - **The Iowa victim** could get no protective order at all, because no incident happened
+    in that state.
+- **Correction to this file's earlier summary.** The subject was **charged**, with
+  misdemeanor cyberstalking. The charge was **dismissed at the complainants' election** and
+  she was **not convicted**. The earlier word "uncharged" was wrong.
+- **The both-victims record (doc 07), stated alongside the strength of the evidence, not
+  against it:**
+  - The show names her and phoned her on air.
+  - It opens its penultimate episode by reading Robert Hare on psychopaths, a diagnostic
+    frame applied to her. **Agreement 3: not adopted.**
+  - The host repeated, on tape, the subject's uncorroborated sexual claim about a court
+    official to that official.
+  - A petition was organised. By the finale she had been **released from a new hospital job
+    "due to this whole situation"**, and her professional license was the subject of board
+    complaints. **All of this came before any adjudication.**
+  - The evidence here is stronger than in most media campaigns (a recorded admission, the
+    phone numbers, the photo owner). Both things are true: the evidence is strong, and the
+    punishment is extra-legal.
+- **X7 inversion.** Every parent and friend who correctly suspected the truth *chose not to
+  override* the victim ("you have to back off and let them make their own decisions"). The
+  override in this season is the abuser's: "regulate your fucking mind or get on meds"; "your
+  therapist doesn't know my side". A victim's distress is turned into a diagnosis by the
+  person causing it.
+- This file does not name her (private person, no conviction).
 
 **S21 — anthology**
 - **Military sexual trauma (Navy):** a restricted report required signing a *declination*
@@ -327,7 +394,8 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 
 - **Named:** only people named in court records or official reporting located, and survivors
   who told their stories publicly under their own names on the show.
-- **Not named:** the uncharged subject of S20; the accused in S18 E1 and E13–14 (the show
+- **Not named:** the subject of S20 (charged with a misdemeanor, dismissed at the
+  complainants' election, not convicted; the show names her); the accused in S18 E1 and E13–14 (the show
   names some of them); minors; S21's individual survivors.
 - No sexual or health detail about minors is recorded.
 - The S23 owner's 2015 probation is from a docket **as read aloud on the show**, not
@@ -348,7 +416,8 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - which specific overrides, if any, are justified (X7 states the test, not the answers);
 - that board lag is typical (X1).
 
-**Coverage limit:** S20–S24 were sampled, not read. A finding resting only on a sampled
+**Coverage limit:** S20 has been read in full. S21–S24 were sampled; the full read is
+in progress. A finding resting only on a sampled
 season is flagged by its grade. A full read of S20–S24 would be the next pass if any of X1,
 X3, X4 or X7 is to carry weight.
 
