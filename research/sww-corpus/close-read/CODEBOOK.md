@@ -147,41 +147,48 @@ lines.*
 
 > "Also the Hall of mirrors game where if a person is talking about their partner and calling them crazy and just crapping on them in front of people that's a thing too and one has to have discernment to to figure out whether or not that's an actual story or if the [?revolt rolls→roles] need to be reversed as a way of decoding [?with the stories→what the story's] actually about. Generally my rubric to that has been if the negative parts of their partner are so easy to come out of their mouth chances are they might be the perpetrator because the one who's actually been abused is the one who makes all the effort to try to understand them and has the toughest time to accept the notion that that work was futile that their person is actually doing the things that they're doing and so it's harder to come out about it and so the language wouldn't be so fluent."
 
-*Claude's operationalization (Claude's wording):* the rubric is `[HYPOTHESIS]`. A disconfirming
-test was run on the corpus before recording it.
+*Operator's clarification (2026-10-04, after S12), verbatim:*
 
-- **For it.**
-  - Early, unprompted, fluent denigration of the partner or target **to third parties** is C4
-    itself. It is the perpetrator's move throughout: S8 Crystal, S11b Stan's Facebook posts,
-    S11i's persona and rumour, S11l Patricia to the employees.
-  - Targets describe a slow, effortful naming: Quinn ("never even realized I was victimized"),
-    Molly ("did not know that you could be abused in the workplace"), Lucy (named it a decade
-    later), and Nina ("I didn't think I was in an abusive relationship, I just thought it was a
-    difficult one").
-- **Against it.**
-  - **S11i at exposure.** Vera was fluent and angry ("how do you know if someone is a
-    sociopath"). Brady went silent, "small and sad," and "suicidal." The classmates read the
-    fluency cue exactly as the rubric does, and "he became the victim." S11d's Will sobbed, then
-    turned his tears off to text his training partner. **Performed inarticulacy defeats a
-    fluency test.**
-  - **Survivors become fluent with time and naming**, and this corpus selects for that: guests
-    tell their story after therapy. A fluency test would score every guest in the corpus as
-    suspect.
-  - **The literature.** Complainants' emotional demeanour does not track honesty or accuracy,
-    yet it moves perceived credibility. Distressed complainants are believed more than
-    controlled ones (Ask & Landström 2010; a meta-analysis of 20 studies found a small-to-moderate
-    effect). A demeanour cue is the kind of heuristic institutions already misuse.
-  - **S11e is undetermined under the rubric.** Heidi was fluent about Peter, and Sasha was
-    fluent about Heidi.
-- **Refined scope, holding what survives:** the signal is **fluent, unprompted denigration to
-  an audience while the relationship is ongoing** (the C4 pattern). It is not the target's
-  fluency after exit or naming, and it is not inarticulacy at exposure.
-  - *Upgrade if* a coder blind to outcomes, given early third-party statements only, sorts
-    perpetrators from targets above chance.
-  - *Downgrade if* targets' early statements to third parties are as fluent and as
-    denigrating.
+> "One point before I let you do season 13 is regarding your counter example regarding the guests of the show be being easy to talk about the perpetrator of course they are when I said that the victims are usually hard in enunciating it that's because they're currently inside the system of harm. Of course the people who are looking back on it are having an easier time to talk about it. I haven't used [?your time→the tone] of talking about it because I've had a lot of practice especially in the ways to distinguish the way I talk about it versus the way they would talk about it. Like how I don't really talk about names."
+
+**Conceded.** The rubric is about people **currently inside the system of harm**. The first
+version of this section counted survivors' fluency in retrospect as evidence against it. That
+tested a claim the operator did not make, which breaks the standing rule to state the claim in
+the operator's form before testing. That item is withdrawn.
+
+*Claude's operationalization (Claude's wording), restated:* the rubric is `[HYPOTHESIS]`.
+- **Scope.** How fluently a person describes their partner's or target's faults **to third
+  parties while the relationship is ongoing.** Fluent, easy denigration points toward the
+  perpetrator. Effortful, reluctant naming, with energy spent on understanding the other
+  person, points toward the target.
+- **Within scope, for it.**
+  - Perpetrators denigrating, fluently and unprompted, during the relationship: S8 Crystal;
+    S11b Stan's Facebook posts; S11i's persona and rumour; S11l Patricia to the employees;
+    **S12 Joe describing his wife to Kenzie as cold, "a business relationship at best."**
+  - Targets inside, defending or explaining: Nina ("I didn't think I was in an abusive
+    relationship, I just thought it was a difficult one"); Kenzie to her friends ("the
+    relationship is great"; "I cannot leave a man with cancer"); Molly ("I was conditioned to
+    stay"); Lucy (years of "trying not to rock the boat").
+- **Within scope, against it:** none found in S1–S12 so far.
+- **Within scope, undetermined:** S11e. Heidi was in an on-off relationship with Peter and
+  described him fluently. The rubric points at Heidi; the case is U.
+- **Outside the claim's scope** (recorded so they are not mistaken for tests):
+  - survivors' fluency in retrospect (the podcast guests);
+  - post-exposure behaviour: S11i, where Brady performed inarticulate remorse after he was
+    exposed; S11d, where Will's tears switched off. These show that **perpetrators can perform
+    distress**, which matters for how a listener reads demeanour at exposure, not for the
+    rubric.
+- *Upgrade if* a coder blind to outcomes, given only statements made to third parties during
+  the relationship, sorts perpetrators from targets above chance.
+- *Downgrade if* targets' statements to third parties during the relationship prove as fluent
+  and as denigrating as perpetrators'.
 - **Both-victims gate:** a listener's first-pass discernment, never a credibility test for a
-  court, employer, school or clinician. Any use beyond that goes through `/liberty-review`.
+  court, employer, school or clinician. The literature is the reason: demeanour does not track
+  honesty or accuracy, yet it moves credibility judgments (Ask & Landström 2010; a meta-analysis
+  of 20 studies). Any use beyond a listener's discernment goes through `/liberty-review`.
+- **The operator's own register** (from the clarification): a practised survivor's account can
+  be distinguished from a perpetrator's partly by style, e.g. **not dwelling on names**. A
+  candidate marker for a later test.
 
 ### 2d. Clinical terms as shorthand
 

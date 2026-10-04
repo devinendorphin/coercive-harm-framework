@@ -306,10 +306,11 @@ assumed.
 27. **Amendment 2 (operator rulings after S11).**
     - CP-minor coding for children (2a).
     - Story appropriation as a candidate device (2b).
-    - The fluency rubric (2c), recorded as a hypothesis with a refined scope. What survives the
-      corpus test is fluent, unprompted denigration to an audience **during** the relationship.
-      S11i's exposure (a silent, "small and sad" perpetrator; a fluent, angry target) is the
-      counter-instance for the unrefined version.
+    - The fluency rubric (2c), recorded as a hypothesis about people **inside the system of
+      harm** (the operator's scope, restated after S12). The earlier counter-items (survivors'
+      fluency in retrospect; S11i after exposure) fell outside that scope and are withdrawn as
+      tests. Within scope: five perpetrator instances (S8, S11b, S11i, S11l, S12), and no
+      counter-instance so far.
     - A crosswalk from common shorthand to codebook fields (2d).
     - "Intimate" independent of titles (2e).
 28. **S12: control routed entirely through deception, enforced by an invented authority.** The
