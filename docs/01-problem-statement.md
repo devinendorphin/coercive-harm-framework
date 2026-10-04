@@ -77,6 +77,13 @@ gap concerns the *first* institution a coercion-damaged person meets in crisis.
 `[HYPOTHESIS]` as a gap. Search crisis-response alternatives before asserting anything
 (agreement 5).
 
+**7. (Candidate, 2026-10-04.) Investigative burden-shifting, and virality as the trigger.**
+In six of nine *Something Was Wrong* seasons reviewed, victims or their families did the
+investigating. In one case the state moved within a week of it going viral on TikTok
+(`research/something-was-wrong-s17-s24.md` X4). A system that responds to virality favours
+victims with platforms, and it invites extra-legal campaigns against people who have not
+been charged (doc 07). `[SUPPORTED]` as a pattern among instances; base rates unknown.
+
 ## The cross-scale claim (bifurcated — see doc 03 §7)
 
 Endorphin insists the pattern "exist[s] not only on the interpersonal level but in

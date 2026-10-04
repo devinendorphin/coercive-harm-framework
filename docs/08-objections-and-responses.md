@@ -514,6 +514,12 @@ beneficial-ownership check behind it, and an employer cannot see ownership outsi
 own walls. The risk is highest where the restricted person has family willing to front.
 *Candidate response:* beneficial-ownership disclosure and nominee liability (existing
 doctrines; check current law). → doc 05; `research/something-was-wrong-s16.md` F6.
+*Broadening proposed 2026-10-04 (`research/something-was-wrong-s17-s24.md` X1):* the corpus
+shows licensing boards lagging about 3–3.5 years (a social-work registration; a Texas
+midwife suspended after two deaths), a registry misspelling that let a convicted rapist get
+a nursing license (narr.), and closed programs reopening under new names. The objection
+becomes: **"role restriction depends on the slowest and most evadable institutions."**
+Base rates for board response times are still needed.
 
 ## How to use this ledger
 
