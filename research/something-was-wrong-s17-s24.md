@@ -268,22 +268,39 @@ OBJ-024 and S-13) `[SUPPORTED]`.
   failure-to-protect exposure for the non-offending parent** under coercion. Proposed for
   `/liberty-review` of doc 03.
 
-**X7 — Imposed "treatment" as coercion** (doc 06; doc 10 Finding C) `[ESTABLISHED]` for the
-abuses; `[HYPOTHESIS]` for imposition per se.
-- **The documented harm is established.** The Senate Finance report found industry-wide
-  restraint, understaffing and neglect "by design". S24's survivors describe Synanon-derived
-  attack therapy.
-- **This is the strongest documented support in the corpus for doc 06's self-directed-only
-  constraint.**
-- **Disconfirming check:** the evidence cannot separate *imposition* from *abuse*. These
-  programs were both. **Do not cite S24 as proof that externally prescribed treatment fails
-  as such.** It shows that *coercive* treatment run for profit, without oversight, causes
-  harm.
-- **The parallel to the Biderman chart in doc 02** (isolation, humiliation, exhaustion,
-  monopolized perception) is direct, and worth adding there.
-- Cross-reference: veriticide-general-ledger
-  `docs/institutionalization-coercive-treatment-history-2026-10-03.md`, which already maps
-  UHS and Acadia.
+**X7 — Overriding a person's autonomy "for their own good" is coercive harm** (doc 02, doc 06,
+doc 10 Finding C) `[NORMATIVE]` for the definition; `[ESTABLISHED]` for the documented
+abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
+
+- **The earlier version was wrong.** It treated "imposition" as a possibly neutral baseline
+  and "abuse" as a separate thing added on top. It then warned that the troubled-teen
+  evidence "cannot separate imposition from abuse."
+- **That split is the care-register move the framework exists to name.** Taking a child by
+  force at night, isolating them, controlling their communication, and calling it treatment
+  is not a neutral act that sometimes turns abusive. **The override is the coercion, and
+  coercion is the harm this framework names.** Attack therapy, sleep and food deprivation,
+  and restraint are the same move made more severe. They are not a different category.
+- **The same structure runs through the institutional record:**
+  - Packard, Nottidge, Lowe and Bulwer-Lytton were committed by husbands and families;
+  - Willowbrook's consent was extracted as the price of a bed;
+  - Dully was lobotomized at 12 on a stepmother's account;
+  - the S16 crisis call was answered with guns "for his safety".
+
+  In every case, someone with power over a person overrode that person's will and called it
+  care. (Sources: veriticide-general-ledger
+  `docs/institutionalization-coercive-treatment-history-2026-10-03.md`, revised the same day.)
+- **The corrected structure, which is what doc 07 has to work with:** every override is a
+  harm. Whether a *particular* override can be **justified** is a separate question, in the
+  way self-defence justifies force without making force harmless. The candidates are
+  incapacity and imminent lethal danger. The burden sits with the person doing the
+  overriding. The historical record shows that burden is usually claimed by those the
+  override benefits.
+- **For doc 06.** The self-directed-only constraint is not one design preference among
+  others. It follows from this definition: an "intervention" imposed on someone is an
+  instance of the harm the framework targets.
+- **For doc 05.** The accommodation model must be checked against this too. Role
+  restrictions imposed on a documented-conduct basis are overrides of the restricted
+  person's autonomy, so they need the same justification test. Flagged for `/liberty-review`.
 
 **X8 — Institutional actors are reached by closure and settlement, rarely by criminal law**
 (OBJ-027) `[SUPPORTED]`.
@@ -328,7 +345,7 @@ abuses; `[HYPOTHESIS]` for imposition per se.
 - base rates of any kind. The show selects cases where something went wrong;
 - the truth of any narrated allegation not matched by a record;
 - the guilt of anyone uncharged;
-- that imposed treatment fails as such (X7);
+- which specific overrides, if any, are justified (X7 states the test, not the answers);
 - that board lag is typical (X1).
 
 **Coverage limit:** S20–S24 were sampled, not read. A finding resting only on a sampled

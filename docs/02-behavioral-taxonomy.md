@@ -116,6 +116,18 @@ Each is a conduct pattern, tagged; definitions live in doc 00.
 6. **Isolation of target** from family/friends/support — `[SUPPORTED]` (established
    coercive-control tactic).
 7. **Deceptive-atmosphere construction** (ambient reality-bending) — `[HYPOTHESIS]`.
+8. **Care-framed autonomy override** *(added 2026-10-04, operator)*. Overriding a person's
+   will "for their own good": commitment, compelled "treatment", isolation, control of money
+   or medication, imposed by someone with power over the person. `[NORMATIVE]` that the
+   override is itself the harm; `[ESTABLISHED]` that it has been used systematically
+   against wives, daughters, children, religious heterodoxy and dissent. *Observable form:*
+   the stated rationale is the target's welfare, the decision is made over the target's
+   objection, and the decider benefits (money, control, an end to inconvenient speech).
+   **Harm and justification are separate:** every override is harm, and a claimed
+   justification (incapacity, imminent lethal danger) carries the burden. This is the
+   **down-vector** of the power-vector by definition (doc 10 Finding F). Sources:
+   `research/something-was-wrong-s17-s24.md` X7; veriticide-general-ledger
+   `docs/institutionalization-coercive-treatment-history-2026-10-03.md`.
 
 ### External grounding: Biderman's Chart of Coercion `[ESTABLISHED]`
 
