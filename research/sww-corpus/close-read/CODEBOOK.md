@@ -387,3 +387,52 @@ used to **locate the scope** of a pattern, never presented as refuting a univers
 did not assert. This sits alongside the existing rule to state the operator's claim in its own
 form before testing it.
 
+## Amendment 4 (2026-10-04): two persona registers, and the institutional middle
+
+> "In fact you will find that in the binary gamut the perpetrators tend to like to occupy both the sacred and profane roles, but as deft Masters of both as a bit of overconfidence but the same time there's also a type that deliberately underplays themselves to elicit sympathy which is then they're in with women or the opposite or whoever they're desiring. There's a certain saying about the NYPD 5% are evil 5% are good and the other 90% suck at trying to do both"
+
+*Claude's operationalization (Claude's wording). These are tendencies, not universals (see the
+standing note above).*
+
+### 4a. Sacred-and-profane mastery (a C1 register)
+The person claims both poles at once, as a master of each: the moral exemplar **and** the
+transgressive conqueror. It links to the seed's "performed mastery" (doc 02, ~L80). `[HYPOTHESIS]`
+- Corpus instances:
+  - S14: protest martyr and consent-literate ally, **and** "I can sleep with anyone I want…
+    stopped counting somewhere in the two to three hundred."
+  - S13b: youth pastor and purity teacher, **and** the hidden porn and the affair.
+  - S5a: a pastor's public sanctity **and** his conduct.
+  - S13n: police second in command **and** "lone wolf" with about ten concurrent partners.
+  - Outside the corpus: Zacharias (`research/public-persona-inversion.md`).
+- The overconfidence shows in the disclosures. S14 confessed his numbers to a new partner **as
+  a bid for intimacy** ("you make me want to be better"). The profane pole is displayed as
+  well as hidden.
+
+### 4b. Strategic self-diminishment (a C1 register; codebook form "need-bombing")
+The person underplays himself to draw sympathy, which then opens access. `[SUPPORTED within the
+corpus]`
+- Corpus instances:
+  - S14: "I haven't been hugged in months"; "broke"; "battles cancer every day"; "my mom never
+    held me."
+  - S13n: "everyone leaves me… I'm just another one passing through."
+  - S11b: "I was all he had."
+  - S2: fabricated illness.
+  - S13e: sob stories (victim services: "another one").
+- **The same person can run both registers.** S14 was the grandiose martyr to Sarah and the
+  hug-starved, broke, sick man to Clementine and Carrie. Which register he used followed the
+  listener, as the 2c signal did.
+
+### 4c. The institutional middle (the NYPD saying)
+*Claude's reading, offered for the operator to correct:* in an institution, a small share act
+with intent to harm, a small share act well, and the large middle **tries to be decent but fails
+at it**, and that failure is what gives the harm room to work. The saying is folk wisdom; its
+proportions and source are **not verified**, and no proportions are adopted. In the corpus the
+middle and the ends are visible:
+- **Middle:** the detective who credited tears (S14); the colleague who vouched for the teacher
+  (S13m); coworkers who joked about the rages and the videos (S14); the church small group that
+  "ignored it" (S13e); the officer who found Gianna's fiancé remorseful (S13o).
+- **The good end:** the CPS caseworker who escalated (S14); the Washington sentencing judge
+  (S14); the state trooper and the FBI agent (S13j); the ER doctor (S14).
+- **Link:** doc 10 (power critique) and the veriticide ledger's laundering moves. The middle is
+  where laundering happens without coordination.
+

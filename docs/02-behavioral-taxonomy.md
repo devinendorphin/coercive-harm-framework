@@ -170,6 +170,7 @@ instrument — that remains the central open question. See
   can trip at any time... they built it... into the system but they also do it
   improvisationally. So... these... projects fail... on multiple levels[,] Grand
   Cascades of misfortune."
+- *(SWW corpus, CODEBOOK amendment 4: two persona registers, sacred-and-profane mastery and strategic self-diminishment, often run by the same person and chosen by listener.)*
 - **Performed mastery** (~L80): "they say they [are]... Masters at it and then they
   end up not[,] but they know... that's going to happen."
 
