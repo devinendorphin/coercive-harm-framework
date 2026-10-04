@@ -16,10 +16,11 @@
     mentioning police, courts, sentencing, charges, CPS, licensing, lawsuits, regulators
     and the like was read, plus the lines on either side of it.
   - **S20:** **read in full** (all 12 episodes, every line), 2026-10-04.
-  - **S21–S24:** full read **in progress**. Until it is finished, findings drawn from S21–S24
+  - **S21:** **read in full** (all 19 episodes), 2026-10-04.
+  - **S22–S24:** full read **in progress**. Until it is finished, findings drawn from S21–S24
     rest on a targeted grep, the notes, and the verified records below.
   - **No audio was reviewed.** At the S16 standard (every episode read in full), this file
-    covers S17–S19 partially, S20 fully, and S21–S24 thinly (pending).
+    covers S17–S19 partially, S20–S21 fully, and S22–S24 thinly (pending).
 - **Grades:**
   - *Record*: a primary or official document, or reputable reporting located this session.
   - *Narr.*: the transcript's account, uncorroborated.
@@ -208,16 +209,123 @@ numbers, and the man whose photos were used.*
   person causing it.
 - This file does not name her (private person, no conviction).
 
-**S21 — anthology**
-- **Military sexual trauma (Navy):** a restricted report required signing a *declination*
-  of an NCIS investigation. The survivor chose that to avoid re-traumatization.
-- **Child abuse:** includes forced water-dousing to wake a child, which the narrator
-  likens to waterboarding.
-- **Statutes of limitations** for child abuse are criticized.
-- **An abuser on the run:** he left a warrant unserved while threatening the victim. A plea
-  came at the last moment and the maximum was imposed. He later skipped parole.
-- **Bethel Church (Redding):** "supernatural ministry" and abuse within it.
-- **Sibling sexual abuse combined with AI deepfakes and CSAM.**
+**S21 — anthology (2024) — READ IN FULL**
+*All 19 episodes read in full on 2026-10-04. Grade: narr. unless stated. Survivors are named
+here only where they used their own names on air and naming them identifies no one who has
+not been convicted. Otherwise they are described.*
+- **Military sexual trauma (Navy hospital corpsman, E1–E2):**
+  - She was raped while unconscious at A-school. She chose a **restricted report** (no
+    investigation).
+  - At her next station, a co-worker who outranked her groped her almost daily for about
+    five months. She delayed reporting because she had watched a perpetrator under
+    restriction be left alone on duty with a female sailor.
+  - As he left, he made a **false allegation** that she was having sex with her mentor in
+    the barracks during duty hours. **Key-card access records and duty-hour accountability
+    disproved it.** She lost the mentor relationship anyway.
+  - Command's question was operational ("he's gone, why can't you stay in the clinic?").
+  - To unrestrict her report and get accommodations (off-base housing pay, a medical
+    board) without an investigation, she had to **sign a declination of the NCIS
+    investigation**. She was medically retired with PTSD.
+- **A stepmother's abuse of a child, ages 7–14 (Michigan, E3–E4):**
+  - The abuse: counted and measured food, up to three days without eating, food left in a
+    dog bowl. Sleep deprivation at 3 a.m. Water poured on her face when she dozed.
+    Hair-pulling and head-banging, chosen because they leave no marks. Humiliating
+    haircuts as timed-chore penalties.
+  - CPS came several times and closed the case.
+  - **At 11, in chambers, a judge told her: "You look fine to me. I don't see any marks."**
+    She recanted.
+  - Her de facto caregivers asked a lawyer twice and were told they had no standing. They
+    hid food under a tree on her route to school.
+  - At 14, a school counselor, the principal and a social worker hid her when her
+    stepmother phoned the school. They put her out a window into her grandmother's car.
+  - She did not press charges, to protect her half-siblings. It is now time-barred.
+  - Earlier, at age 7, a custody order transferring her was **executed by four police
+    officers carrying her out of the house.**
+- **A father's abuse of a child, ~age 2–12, ending in an acquittal (Indiana and Tennessee,
+  E7–E8):**
+  - **Disclosure 1:** at about age 4 she told her mother, who confronted her at the table
+    with the father present. She recanted.
+  - **Disclosure 2:** a kindergarten counselor **phoned both parents and handed the child
+    the phone** instead of reporting. She recanted again.
+  - She was made to hold another child's hand while he abused that child.
+  - Final disclosure at 12. The **Child Advocacy Center medical exam** found "no question
+    the child had been repeatedly raped". The officer admitted at trial that he never
+    checked the locations she described. The defense theory was that the girl was "boy
+    crazy" and had dyed her hair black. **Jury acquittal.** Records were expunged afterward
+    (Tennessee permits it; **check** the statute). He is on no registry, but **the CPS
+    substantiation survives.**
+  - Her mother was killed in 2007. **The county coroner ruled it a homicide.** The
+    boyfriend had bought the gun and changed her life-insurance beneficiary days before.
+    The prosecutor declined. The survivor: "they don't find her a worthy enough victim".
+    That is a coroner's chief deputy, on tape.
+  - As an adult she worked for CPS. A nonverbal autistic child punched by a parent: "does
+    she have marks? did she make an outcry?" Case closed.
+- **Intimate-partner violence, then intimidation, then a 4-year maximum (likely Ohio,
+  E5–E6):**
+  - He threw her down in a hallway and broke her collarbone. On the drive to the ER, **the
+    abuser's mother** helped agree the slip-and-fall story. ER staff probed, and she kept
+    to it.
+  - The state prosecuted with or without her.
+  - The intimidation over about five months:
+    - a sextortion video sent to her mother;
+    - fake-overdose photo texts;
+    - impersonation accounts in her name announcing an STI to her exes;
+    - threats to her brother's probation officer;
+    - paid informants inside her rehab, **which then expelled her as a "security risk"**.
+  - The texts made the case. Last-minute plea; **4-year maximum**. The judge rejected the
+    mental-illness mitigation.
+  - Later events:
+    - parole absconding;
+    - a later rape conviction with a juvenile victim;
+    - renewed contact once supervision ended. **A lifetime no-contact order without a
+      protective order is "a lot harder to charge".**
+  - She herself chose rehab, and is 10.5 years sober (doc 06).
+- **A charismatic ministry school, then a marriage made by prophecy (E9–E12):**
+  - **At 17**, admission was contingent on a written **purity plan with weekly
+    accountability reports**, set by an adult male interviewer who had asked about her
+    sexual history.
+  - Continued enrollment was twice conditioned on **paid, compulsory "inner healing"
+    sessions with an unlicensed pastor's husband**, then a paid purity course.
+  - When she objected to door-to-door evangelism, leaders said: "you shouldn't feel bad that
+    you are forcing this on them because you're forcing something good on them."
+  - A conference "prophet" publicly declared her a man's God-given wife. The details were
+    on her public Facebook.
+  - **The marriage (with "Ted"):** two strangulations. Isolation from her father ("if
+    you're close with them it would be easy for you to leave me"). Sabotage of her sleep
+    medication. A ban on therapy after her therapist voiced fear for her.
+  - **He threatened her:** "I'm going to have you institutionalized and you're not going to
+    be able to get out because I'm your husband and I can sign you away."
+  - **The exit:** an anonymous DV hotline (11 of 13 screening questions answered yes; the
+    advocate "did not pressure me to do anything"), and her mother saying "you don't need
+    to make any decisions right now." By contrast, the pastor's earlier advice to postpone
+    the wedding had made her dig in.
+- **"Josh" (Chicago, 2017–2023, E13–E16):**
+  - **Pre-emptive narrative seeding.** Before his friends met his new partner, he told
+    them she was "a witch" who had sexually taken advantage of him. He kept her and his
+    closest female friend apart for years with lies.
+  - COVID shielding ("you could kill my mother") was used to isolate her.
+  - He kept an apartment for leverage, and had in fact abandoned it two years earlier.
+  - **Non-consensual sexual deepfakes** of nearly every female friend, made with a
+    consumer app. Cropped images of his 12-year-old niece were stored alongside.
+  - When confronted, he took a kitchen knife.
+  - **The partner posted everything publicly** "so there was no taking him back." His
+    family: "most people wouldn't have known … do you want me to bury my son?" He threatened
+    suicide. A SWAT standoff ended with him laughing that "she's just dramatic"; the police
+    released him.
+  - **The law:**
+    - FBI: a minor's face on pornography is child sexual abuse material. He was held 24
+      hours. No charge known.
+    - Adult deepfakes: "due to Michigan law currently, nothing could be done" (2023).
+  - **He has since died. The cause is not stated in the corpus**, and no inference is drawn
+    here.
+- **Updates (E18):**
+  - **S20:** still no charge. The subject was hurt in a highway crash. Strangers
+    speculated online that it was deliberate; her mother said not.
+  - **S7:** a survivor faces repeated parole hearings, because of how her brother's
+    sentences are sequenced. Advocates in different offices "have no concrete answers."
+- **E19 (interview with another true-crime podcaster):** he catfished an uncharged suspect
+  in person under a false identity, and the show treats it as admirable. **This is the same
+  act S20 condemns, judged by who did it.**
 
 **S22 — Megan Stoner (Indiana): the false-reporting season**
 - **Record:** rental-fraud conviction (Dec 2023); bail revoked; a new case pending.
@@ -396,7 +504,7 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
   who told their stories publicly under their own names on the show.
 - **Not named:** the subject of S20 (charged with a misdemeanor, dismissed at the
   complainants' election, not convicted; the show names her); the accused in S18 E1 and E13–14 (the show
-  names some of them); minors; S21's individual survivors.
+  names some of them); minors; S21 survivors who did not use their own names, and any S21 survivor whose name would identify an unconvicted accused.
 - No sexual or health detail about minors is recorded.
 - The S23 owner's 2015 probation is from a docket **as read aloud on the show**, not
   fetched. Treat it as narrated.
@@ -416,8 +524,8 @@ abuses. *Rewritten 2026-10-04 on an operator challenge, conceded.*
 - which specific overrides, if any, are justified (X7 states the test, not the answers);
 - that board lag is typical (X1).
 
-**Coverage limit:** S20 has been read in full. S21–S24 were sampled; the full read is
-in progress. A finding resting only on a sampled
+**Coverage limit:** S20 and S21 have been read in full. S22–S24 were sampled; the full read
+is in progress. A finding resting only on a sampled
 season is flagged by its grade. A full read of S20–S24 would be the next pass if any of X1,
 X3, X4 or X7 is to carry weight.
 
