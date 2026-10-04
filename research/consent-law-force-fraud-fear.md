@@ -122,14 +122,41 @@ Sources added:
 - https://avalon.law.yale.edu/imt/nurecode.asp (Nuremberg Code)
 - https://www.change.org/p/consent-is-about-influence-not-yes-means-yes-or-no-means-no (CAN petition text)
 - https://yalelawjournal.org/forum/no-way-around-consent-a-reply-to-rubenfeld-on-rape-by-deception (factum vs inducement)
-- SWW S15 E12 features the Consent Awareness Network; it has not been read yet in the in-order close read.
+- SWW S15 E12 features the Consent Awareness Network; read and checked (see below and `sww-corpus/close-read/S15.md`).
+
+## After SWW S15 E12 (the CAN interview): what the movement actually asks for (2026-10-04)
+
+- **CAN rejects enthusiastic and affirmative consent.** Its founder and chief of staff call
+  "enthusiastic consent," "affirmative consent," "yes means yes" and "no means no" victim-blaming,
+  because each makes the crime turn on what the victim said or did. CAN's test is the offender's
+  **influence**: force, fear, fraud or exploited incapacity, known to the offender. This corrects
+  the framing in the operator's after-S14 ruling (CODEBOOK amendment 5a). [ESTABLISHED as to
+  CAN's stated position, from the interview]
+- **Its sources do not all agree with it.**
+  - GDPR Art. 4(11) requires "a statement or… a clear affirmative action" (affirmative in form).
+  - The 2022 Model Penal Code (Art. 213, approved by the ALI) defines consent as willingness that
+    "may be express or… inferred from behavior—both action and inaction," and rejects affirmative
+    consent.
+  - Missouri §556.061 does say "assent does not constitute consent if… induced by force, duress or
+    deception." How far "deception" reaches in Missouri practice was not checked. [ESTABLISHED as
+    to the texts]
+- **The jury-question evidence is real.** The Cosby (2018) and Weinstein New York (2020) juries both
+  asked for a definition of consent; the Cosby judge said Pennsylvania law has none. [ESTABLISHED]
+- **Not adopted:** "RAINN tells us… [rapists] rape between 30 and 70 people" (not found; Lisak &
+  Miller 2002, the usual source for repeat offending, gave about 6 each and is itself disputed);
+  the state-ranking and limitation-period figures (not verified).
+- **The hard case for the fraud prong.** S9's "Arty" (a false name, accent, profession and military
+  service) is the corpus's identity case. A narrowed prong that lists "identity" must decide
+  whether that means impersonating a specific person (the traditional fraud-in-the-factum case) or
+  also a fabricated self. The second reading reaches Arty and also reaches ordinary lies about who
+  one is; that is the vagueness the doc 03 §4 block exists for. [NORMATIVE] `NEEDS-LIBERTY-REVIEW`
 
 ## To verify in a later pass
 
 - Exact current text of NY PL §135.60/135.61/135.65 (post-2010 amendments; NY
   reduced some coercion-by-fear-of-non-violent-harm provisions after *People v.
   Discala*-era litigation — confirm).
-- Model Penal Code treatment of coercion/consent for a cross-jurisdiction anchor.
+- ~~Model Penal Code treatment of consent~~ (done after S15: 2022 Art. 213, willingness inferred from behaviour; see above).
 
 ## Sources
 

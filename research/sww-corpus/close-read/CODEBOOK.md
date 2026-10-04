@@ -183,7 +183,12 @@ the operator's form before testing. That item is withdrawn.
 - **Borrowed fluency (S14, a boundary of form).** His wife, inside the relationship, wrote his
   account of a co-target fluently ("using Ivy as a weapon"; a #PAS post). She was speaking about a
   third party, not her own partner, so this is outside the rubric (as with Nora, S13h).
-- **Within scope, against it:** none found in S1–S14 so far. In S13 every target inside the
+- **After S15:** no new in-scope instance from a perpetrator. Three more **targets inside,
+  defending**: Holly Madison to the press ("say really positive things… because I didn't want to
+  get in trouble"); Diana to the FBI agent ("you've got the wrong person… the moral compass");
+  Zara in the S9 update ("we weren't exclusive at first"). Karina's fluent denigration of her
+  roommate to a friend (S15c/d) is outside the form (not a partner).
+- **Within scope, against it:** none found in S1–S15 so far. In S13 every target inside the
   harm defended or explained to third parties (Zoe, Claire, Riley, Gianna, Odessa, Arya).
 - **S13n, the live-in partner: undetermined (U), by operator ruling.** Claude had proposed
   treating her public record (theft, battery, a stabbing) as a limit on the rubric. Operator's
@@ -435,4 +440,50 @@ middle and the ends are visible:
   (S14); the state trooper and the FBI agent (S13j); the ER doctor (S14).
 - **Link:** doc 10 (power critique) and the veriticide ledger's laundering moves. The middle is
   where laundering happens without coordination.
+
+## Amendment 5 (2026-10-04, after Season 15): a correction and four coding rules
+
+*Claude's wording throughout. 5a corrects the framing of the operator's after-S14 ruling and
+is offered for the operator to rule on; 5b–5e are coding rules applied in `S15.md`.*
+
+### 5a. The consent-reform movement is two programmes, not one
+The operator's ruling after S14 (quoted in 3, above) described the movement as wanting "a
+Nuremberg definition of consent being the enthusiastic consent that possesses no force fraud
+fear or incapacitation." S15 E12 interviews the Consent Awareness Network, the coalition behind
+the Nuremberg-style definition, and **CAN rejects "enthusiastic consent," "affirmative consent,"
+"yes means yes" and "no means no" as victim-blaming**, because each looks at the victim's words or
+conduct. Its standard is influence-based: "freely given, knowledgeable and informed agreement,"
+vitiated by the offender's force, fear, fraud or exploitation of incapacity, "no matter what they
+say or what they do." So:
+- the operator's two substantive points stand: the law is a patchwork, and the fraud prong is the
+  non-intuitive one;
+- the enthusiastic/affirmative standard and the Nuremberg/influence standard are **rival**
+  programmes. A third, the 2022 Model Penal Code, defines consent as willingness that may be
+  "inferred from behavior—both action and inaction." The GDPR definition CAN cites requires "a
+  clear affirmative action," so CAN's own source sits closer to the standard it rejects.
+- Checked claims and sources: `S15.md`, E12 section; `../../consent-law-force-fraud-fear.md`.
+
+### 5b. C4 by impersonation
+A message to the target's network **written as the target** (her phone, accounts in her name,
+captions in her voice) is coded **C4**: the network is given a false account of her, and the
+author hides behind her. Instances: S15g, S15h. A third party impersonating a target for its own
+ends (S7 update) is recorded but not coded to the perpetrator.
+
+### 5c. Care displacement is C3
+Pulling the target out of her own clinical care ("these doctors are all lying to you… you just
+need me") is coded **C3** (isolation from care). *Both-victims rule:* doubting a clinician is
+never coded alone; it is coded only within a sequence that already shows control (S15g: imposed
+secrecy, a suicide leash, an overdose followed by "come home").
+
+### 5d. The partner as the gate
+When the abuse targets someone the partner gives access to (S15e: her children), C1 toward the
+partner is coded, and **C2 toward her is coded n/d with the note "partner as gate."** This is a
+scope finding, not a gap in the coding: devaluation would have cost the access. It does not count
+against the cycle in cases where the partner is the target of control.
+
+### 5e. Groups
+A group that runs the moves without a relationship (S15h) is a scope case. Its device matches are
+recorded in the device table, and **coordination is recorded when it is documented**. The rule
+"structural identity is not coordination" means the move-set does not require coordination. It
+does not mean coordination never happens.
 
