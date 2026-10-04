@@ -30,8 +30,11 @@ synthesis. It is updated, never smoothed. Last updated: after S6.*
 | C5 Discard | ✗ she left | ✔ | ✗ exposure | ✗ a death | ✔ punitive (defectors) | ~ of others ("use them and dump them"); she left | ✔ "not invited back" | ~ conditional withdrawal; **she** cut contact | ✔ persona's staged suicide |
 | C6 Return | ✔ (incl. a possible sockpuppet, 2019) | ✔ | ✔ (a new illness, years later) | — | ✔ coerced (blackmail; retrieval) | ✔ guilt lever | ✔ oscillation in counselling | ✔ repeated apology, money, letters, gifts | ✔ apology years later |
 
-**C2–C4 hold in every case so far (9 coded target-cases; S1 Sarah and the ex-fiancée share one perpetrator, S5a and S5b share one institution). C1 holds in function** (a binding investment)
-**but varies in form. C5 and C6 vary most.**
+**C4 holds in every coded case (9 target-cases; S1 Sarah and the ex-fiancée share one
+perpetrator, S5a and S5b share one institution). C2 and C3 hold in eight of nine; in S6a
+(a catfish run entirely through fictional personas) C2 is thin and C3 happens only inside
+the fiction. C1 holds in function** (a binding investment) **but varies in form. C5 and C6
+vary most.**
 
 ## Recurring devices, by number of independent cases (perpetrators who did not know each other)
 
