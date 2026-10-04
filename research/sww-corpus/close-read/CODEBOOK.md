@@ -169,7 +169,18 @@ the operator's form before testing. That item is withdrawn.
     relationship, I just thought it was a difficult one"); Kenzie to her friends ("the
     relationship is great"; "I cannot leave a man with cancer"); Molly ("I was conditioned to
     stay"); Lucy (years of "trying not to rock the boat").
-- **Within scope, against it:** none found in S1–S12 so far.
+- **Within scope, for it, after S13:** S13h (Ryan to Zoe: Nora is "crazy… photoshopped the
+  texts," while the screenshots were genuine); S13n (Jim to each of several partners about the
+  others, Arya included); S13o (Brent to his family: she is "choosing her family over me").
+- **Within scope, against it:** none found in S1–S13 so far. In S13 every target inside the
+  harm defended or explained to third parties (Zoe, Claire, Riley, Gianna, Odessa, Arya).
+- **A limit found in S13n (proposed refinement, pending the operator's ruling).** The live-in
+  partner Jim called violent has an extensive public record, so his fluent account may have been
+  partly true. The rubric read the speaker correctly and said nothing reliable about the person
+  described. Proposed wording: *the rubric is evidence about the speaker's conduct toward the
+  listener, not about the truth of the content.*
+- **Form boundary (S13h):** a co-target's fluent cruelty toward a rival (Nora to Zoe) is not
+  speech "about their partner" and is outside the rubric.
 - **Within scope, undetermined:** S11e. Heidi was in an on-off relationship with Peter and
   described him fluently. The rubric points at Heidi; the case is U.
 - **Outside the claim's scope** (recorded so they are not mistaken for tests):
