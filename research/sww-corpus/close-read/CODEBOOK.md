@@ -372,4 +372,9 @@ that they say is the inverse"). S14 makes it testable.
   turned on anyone with a gap between self-presentation and behaviour. The safeguard is the
   pairing already required: a **specific** representation, a **documented** contradicting act,
   and a **pattern across independent people**.
+- **Beyond the corpus (public figures):** `research/public-persona-inversion.md`. The
+  inversion held in trust-access cases (Cosby, Savile, Harris, Fogle, Duggar, Zacharias). It
+  did not hold for a power-access case (R. Kelly), and Weinstein was mixed. Refined
+  `[HYPOTHESIS]`: **the inverse persona tracks access-by-trust.** The inference runs only from
+  conduct back to persona, never from a wholesome persona to suspicion.
 
