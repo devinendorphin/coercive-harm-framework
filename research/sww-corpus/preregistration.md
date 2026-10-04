@@ -110,3 +110,11 @@ the 90th percentile of the control episodes' rates for that function.
   pre-registered result, never in place of it. It has the opposite bias.
 - **D6 — 88 pages were rate-limited** on the first pass and returned empty; they were
   re-fetched before the full analysis. Nine pages have no transcript on the source.
+
+## Standing rule (added 2026-10-04 after the sycophancy-to-power audit)
+
+Every criterion gets the same verdict rule: **the pre-registered result is the verdict,
+and post-hoc results are reported beside it, never in its place.** Every indicator used in
+a verdict gets the same precision audit (a random 20-hit reading sample). Both rules are
+applied before any verdict is written. The first write-up broke both, each time against
+C2, the claim that implicates institutions (README, audit A1–A2).

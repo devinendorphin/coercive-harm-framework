@@ -47,8 +47,9 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    university and medical settings, no setting effect on the function profile was
    detected, and the seasons share a profile beyond control narratives (p = 0.004). But
    "core functions in nearly every case" **failed** as pre-registered for isolation and
-   perception control, and the corpus is saturated with the show's own vocabulary (11.8×
-   control). Stays `[SUPPORTED]`, illustrative, not a base rate.
+   perception control. The corpus is curated (one selection process). Stays `[SUPPORTED]`:
+   illustrative, not a base rate. Institutional self-similarity (C2) was **not
+   adequately tested**: see the power audit in `research/sww-corpus/README.md`.
 4. **Meta-analytic support for the *psychological*-harm nexus.** `[SUPPORTED]`
    (added by evidence-check 2026-07-09, answering OBJ-019) The lethality instruments in
    Finding 2 predict *physical* danger; the foreseeability of *psychological* harm rests

@@ -68,7 +68,7 @@ Rates are per 10k words. Ratio = median season rate ÷ control mean.
 | **R2** settings cluster the profiles | **Not refuted**: coarse R² 0.15 vs a chance level of 0.125, p = 0.21. Fine 9-way coding: p = 0.31. With title de-dupe: p = 0.15 | No detectable setting effect. **This is weak evidence**: n = 25, with unbalanced groups (13 intimate-partner seasons) |
 | **R3** profiles more alike than control pseudo-seasons | **Passed**: mean pairwise ρ 0.39 vs a null mean of 0.23 (95th percentile 0.32), p = 0.004. With de-dupe: 0.41 vs 0.14, p = 0.001 | The seasons share a function profile beyond what English produces |
 | **R4** convergence survives in the low-frame-vocabulary half | **Passed**: low-label half ρ 0.36 (de-dupe 0.34), above the null 95th percentile. High-label half 0.40 (0.49) | Convergence is not *only* the show's vocabulary. It is stronger where the vocabulary is denser, which is consistent with partial frame imposition |
-| **R5** (C2) institutional failure elevated in ≥ 50 % of seasons | Passed as written (69 %), but **only against a zero baseline**. Length-matched: 35 %. Reading samples: the indicator's precision is about half | **C2 is not established by this test** |
+| **R5** (C2) institutional failure elevated in ≥ 50 % of seasons | **Passed** (69 %), against a zero baseline, the same caveat as reversal in R1. Post-hoc length-matched: 35 %, reported beside the result and not in place of it. Precision on a reading sample is about half, close to isolation's (about 55 %) | *Corrected in the power audit below.* The first version let the post-hoc failure override this pre-registered pass, the opposite of how R1 was handled. C2 was **not adequately tested**: the instrument was narrower than the claim, and the episodes richest in institutional aftermath were filtered out |
 
 ## What this does to the claims
 
@@ -79,13 +79,21 @@ scam:
 - no setting effect on the function profile was detected;
 - the seasons share a profile more than ordinary narratives do;
 - reversal, isolation, threats and perception control are the over-represented core.
+- *(Added in the power audit.)* On a 20-hit reading sample, the isolation lexicon's
+  precision is about 55 %, mostly "so isolating" and "isolated incident." That is the same
+  noise level used against C2. Reversal's precision is about 80 %.
 
 This is consistent with Biderman's and Herman's cross-setting convergence (see
 `coercion-continuity-across-scale.md`). It does **not** reach "nearly every case shows the
 core functions." That pre-registered criterion failed for two of the three core functions.
 
-**C2, fractal self-similarity: `[HYPOTHESIS]`. Not established here.** The corpus
-contains clear instances:
+**C2, fractal self-similarity: not adequately tested by this corpus study.** *(Corrected
+in the power audit. The first version said "not established here," which put an
+instrument failure onto the claim.)* Its evidential status in the framework rests on the
+literature: institutional betrayal (Smith & Freyd 2014) and the custody inversion of abuse
+claims (Meier et al. 2020), both catalogued as E4 and E5 in the ledger's
+coercive-control foundation file. That gives `[SUPPORTED]`. The corpus contains clear
+instances:
 - a pastor "so dismissive of it" (S1);
 - "the police didn't do anything" (S10);
 - an assault not reported because "the offender's father was a police officer, and I
@@ -94,23 +102,67 @@ contains clear instances:
 - institutions that "would rather the victim be ignored … than have their reputation be
   tarnished" (S19).
 
-But a crude institution-plus-failure co-occurrence measure cannot separate these from
-noise. A real test needs hand-coded segments, and a coder blind to the hypothesis.
+Some instances name institutions, attributed as the show and its cited sources report
+them (step one: allegations and official records, not findings):
+- **Trails Carolina** (S24): a 12-year-old died within 24 hours of arrival in Feb 2024.
+  The medical examiner listed the death as homicide. The district attorney filed no
+  charges.
+- **Asheville Academy** (S24 show notes, citing Spectrum News and Asheville News): fined
+  $45,000 after a state child-safety investigation. It gave up its license after two
+  suicides in May 2025.
+- **Utah Valley University and the University of Utah** (S25): according to a student's
+  lawsuit as reported, both schools failed to act on her 2019 rape report.
+
+The first version named none of these. It wrote "the troubled-teen industry" and "a
+university."
+
+A real test needs hand-coded segments, including institutional *reversal* and
+pathologizing, not only "failure" words, and a coder blind to the hypothesis.
 
 **"Strata of society" was not tested.** Show notes allow coding of **setting**, not class,
 income, race or education. The settings do run from the Playboy Mansion (S15) to military
 and firefighter families (S3, S21), but nothing here measures variance across class.
 
-**The loudest signal is the frame.** Frame vocabulary is 11.8× the control rate, a larger
-ratio than any behaviour. The corpus is narrated, heavily, in therapy-culture and
-coercive-control vocabulary. R4 shows the convergence is not *only* that, but frame
-saturation is the main reason this corpus cannot carry more than `[SUPPORTED]`.
+**Frame vocabulary is 11.8× the control rate.** *(Corrected in the power audit. The first
+version called this "the loudest signal" and "the main reason" for the ceiling. That was
+the "coached witness" discount.)* What the count measures is that survivors, the host and
+experts have **names** for what happened. Acquiring names for an unnamed harm is the remedy
+for hermeneutical injustice, not evidence of fabrication. The pre-registered test of
+whether the frame *produces* the convergence is R4, and R4 passed. The ceiling on this
+corpus is **curation**: one selection process, which bounds base-rate claims.
+
+## Sycophancy-to-power audit (2026-10-04, operator request)
+
+*Lens: `docs/10-power-critique.md`. Question: where did this study put the heavier burden on
+the claim that implicates power? The claim that does is C2: institutions such as police,
+courts, churches, universities, the military and the troubled-teen industry reproduce the
+perpetrator's moves. C1 implicates individual perpetrators.*
+
+| # | What the first version did | Why it favoured power | Status |
+|---|---|---|---|
+| A1 | **Asymmetric verdict rule.** R1's pre-registered *failure* stood, and its post-hoc pass was "not substituted." R5's pre-registered *pass* was overridden by its post-hoc failure. Reversal (interpersonal) was counted as passing against a zero baseline. Institutional failure was counted as failing with the same zero baseline | Each choice of rule went against the claim at hand. The institutional claim got the rule that failed it | **Corrected.** One rule for every criterion: the pre-registered result is the verdict, and the post-hoc result is reported beside it |
+| A2 | **Asymmetric scrutiny.** Only the institutional indicator was audited for precision (about half), and that audit was used to discount C2. Isolation was never audited | Audited now: isolation precision is about 55 %, the same noise level. The scrutiny went to the claim about institutions | **Corrected.** Both precisions reported; reversal about 80 % |
+| A3 | **The exclusion filter removed the aftermath.** Update, Q&A and WCN episodes were excluded as "non-narrative." Post-hoc check: in those episodes institutional failure is about 25 % denser (0.45 vs 0.36 per 10k words) and impunity about 2× denser (0.95 vs 0.48) than in the narrative episodes kept. Reversal is lower (0.33 vs 0.49) | The filter was chosen without asking what C2 needs, and it removed the material where police, courts and institutions respond | **Recorded.** The C2 test was underpowered by design. The next test includes those episodes |
+| A4 | **Instrument narrower than the claim.** C2 was measured only as "institution + failure word." Institutional *reversal* got counted as interpersonal: "The church had convinced him that he was the problem" (S4) scores as reversal, not as institutional. Institutional pathologizing was not measured at all | The claim was "institutions reproduce the moves." The measure covered one move, and the verdict ("not established") landed on the claim | **Corrected.** C2 marked "not adequately tested." Its framework status rests on the literature (E4, E5): `[SUPPORTED]` |
+| A5 | **Headline asymmetry.** In chat: "The 'fractal' part did not come through." C1, with a *failed* pre-registered criterion, was headlined "supported, with conditions" | A headline-level disconfirmation of the institutional claim, from an instrument failure | **Corrected** here and in the reply to the operator |
+| A6 | **Generic institutions.** "The troubled-teen industry," "a university," "the military." The show and its sources name Trails Carolina, Asheville Academy, Chrysalis (later sold to Embark Behavioral Health), and Utah Valley University and the University of Utah | The same error the ledger's foundation file recorded the day before ("generic state examples avoid naming the powerful"). Individual survivors' words were quoted, but no institution was named | **Corrected** (named, attributed, step one) |
+| A7 | **No power-vector coding.** Settings were coded by relationship type, and 13 of 25 seasons were intimate-partner. The perpetrator's power position was never coded: cult leader, pastor, a celebrity's mansion, military command, a program with custody of children, a peer | This repeats doc 10 **Finding B**: enforcing down-scale while claiming cross-scale. Doc 02 says behaviour without the power vector is "not sufficient." The operator's "strata" question is a power question; I converted it to "setting," then reported strata as untested | **Next test pre-registered** (`preregistration-power-vector.md`). I have seen the season rates, so a blind coder must code power |
+| A8 | **Frame vocabulary as "the loudest signal."** Survivors' use of names for what happened (gaslighting, DARVO, love bombing) was made the main reason for the ceiling, after R4 had already passed | This is structurally the "coached witness" discount: the Yale–New Haven "coached by her mother" move in the ledger's survivor comparator, and E3. Acquired concepts are the remedy for hermeneutical injustice (Fricker 2007, gen.) | **Corrected.** The ceiling is curation |
+
+**Pattern.** Every error ran the same way: the burden fell on the claim about institutions.
+The ledger's foundation file recorded this exact failure ("the highest burden fell on the
+scale that implicates states") **one day earlier**, and it recurred anyway. A note did
+not hold. That is why the ledger made developer-symmetry a script, and the same applies
+here. **Standing rule, added to `preregistration.md`:** a multi-criterion test declares
+one verdict rule and one precision-audit rule, and applies both to every criterion
+before any verdict is written.
 
 ## Limits no statistic here removes
 
 1. **Curation.** One host selects stories that fit the show. Selection alone can produce
    convergence.
-2. **Narration through a learned frame.** See above.
+2. **Shared vocabulary** may smooth surface descriptions. R4 tested whether it drives
+   the convergence, and it does not.
 3. **No speaker separation.** Host narration, survivor speech and expert segments are
    pooled.
 4. **The lexicon is crude.** Negation, quotation and commentary all count. Reward,
@@ -129,8 +181,9 @@ saturation is the main reason this corpus cannot carry more than `[SUPPORTED]`.
   rate.
 - **doc 02, cluster coherence (OBJ-001):** partial corpus-level support for co-occurrence
   of isolation, perception control, reversal and threats. It is not a validated instrument.
-- **Next test, if wanted:** hand-code ~200 segments for C2 (institutional reproduction of
-  DARVO, minimization and disbelief), with a second coder blind to the hypothesis.
+- **Next test, if wanted:** see `preregistration-power-vector.md`. Perpetrator power
+  position is coded by a coder blind to the rates, and C2 segments are hand-coded,
+  update and aftermath episodes included.
 
 ## Files
 

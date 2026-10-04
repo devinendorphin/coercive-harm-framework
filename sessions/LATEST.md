@@ -76,7 +76,7 @@ more modest — than the seed's ambition:
 - Psychological homicide (§3): confine to Carter-narrow, or hold as non-enactment aspiration?
 - Base no-harm coercive-endangerment offense: keep criminal, or civil-only (OBJ-021)?
 - ~~Confirm "Something Was Wrong" expert roster~~ (done 2026-10-04, doc 04); MI + batterer-intervention primary sources.
-- **2026-10-04:** SWW corpus test (`research/sww-corpus/`) — C1 low-variance-across-settings `[SUPPORTED]` qualified; C2 "fractal" institutional self-similarity **not established** (needs hand-coded test). Next step if wanted: blind hand-coding of ~200 institutional-response segments.
+- **2026-10-04:** SWW corpus test (`research/sww-corpus/`) — C1 low-variance-across-settings `[SUPPORTED]` qualified; C2 "fractal" institutional self-similarity **not adequately tested** (corrected by the same-day sycophancy-to-power audit: the first write-up held C2 to a harsher verdict rule and scrutiny than C1, excluded the aftermath episodes, and named no institutions). Next: `research/sww-corpus/preregistration-power-vector.md`, with blind coders, because the analyst has seen the rates.
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 
