@@ -1,6 +1,6 @@
 # Reel scripts for "Name, Place, Time": a recounting of the season-by-season close-read of
 # *Something Was Wrong* (coercive-harm-framework, branches ccr-93dfe246-4ja9f0 (S1–S10) and ccr-89a0fcc4-xfqzcf (S11–S15, a5611e8),
-# research/sww-corpus/). Every factual line is drawn from the close-read files; survivors keep
+# research/sww-corpus/); Seasons 16–24 from ccr-81ec1931-b41u1s (see content_part2.py). Every factual line is drawn from the close-read files; survivors keep
 # the pseudonyms the show used. Testimony as broadcast (P2): allegations, not verdicts.
 #
 # Scene = one narration unit ("say") plus one on-screen card. Card kinds:
@@ -13,14 +13,14 @@
 #   bars   {head, rows:[(label, value, fmt)], ref}   horizontal bars
 
 SERIES = "NAME · PLACE · TIME"
-SUB = "A close-read of Something Was Wrong, S1–S15"
+SUB = "A close-read of Something Was Wrong, S1–S24"
 
 STAGES = ["LOVE\nBOMBING", "DEVALUE", "ISOLATE", "POISON\nTHE WELL", "DISCARD", "RETURN"]
 
 REELS = [
   {"slug": "intro", "kicker": "INTRO", "accent": "#ff4d5e", "scenes": [
-    {"say": "I read the first fifteen seasons of the podcast Something Was Wrong, in order. Every episode with a story in it. About one point four million words.",
-     "card": {"t": "title", "big": "15 seasons.\nIn order.", "small": "≈ 1.4 million words of survivor testimony"}},
+    {"say": "I read twenty-four seasons of the podcast Something Was Wrong, in order. The first fifteen coded stage by stage. The next nine read for what institutions did.",
+     "card": {"t": "title", "big": "24 seasons.\nIn order.", "small": "15 coded stage by stage · 9 read for the institutions"}},
     {"say": "The claim I was testing came to me primed. That across separate people, with separate lives, the harmful behaviours overlap so much that the only details that change are name, place and time.",
      "card": {"t": "title", "big": "Only the name,\nplace and time\nchange.", "small": "the claim, as put to me"}},
     {"say": "The cycle, as it was described to me. Love bombing. Devaluation. Isolation. Poisoning the well with the people in your care system. Discard. And then, often, a return.",
@@ -412,8 +412,11 @@ REELS = [
 ]
 
 ORDER = ["intro", "s01", "s02", "s03", "s04", "s05", "s06", "correction", "s07", "s08", "s09", "s10",
-         "s11", "rubric", "s12", "s13", "s14", "persona", "s15", "tally", "devices", "test", "audit", "boundary"]
-_by = {r["slug"]: r for r in REELS}
+         "s11", "rubric", "s12", "s13", "s14", "persona", "s15", "tally", "devices",
+         "part2", "s16", "s17_19", "s20", "s21", "s22", "s23", "s24", "override", "reach", "poles",
+         "test", "audit", "boundary"]
+from content_part2 import REELS2
+_by = {r["slug"]: r for r in REELS + REELS2}
 REELS = [_by[k] for k in ORDER]
 for _i, _r in enumerate(REELS):
     _r["id"] = f"{_i + 1:02d}"

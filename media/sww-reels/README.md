@@ -1,12 +1,16 @@
 # Name, Place, Time — reels
 
-Twenty-four vertical Instagram reels recounting the season-by-season close-read of *Something
-Was Wrong* (S1–S15). The analysis itself lives on branches `ccr-93dfe246-4ja9f0` (S1–S10,
+Thirty-five vertical Instagram reels recounting the season-by-season study of *Something Was
+Wrong* (S1–S24). The analysis itself lives on branches `ccr-93dfe246-4ja9f0` (S1–S10,
 commit `729dd3e`) and `ccr-89a0fcc4-xfqzcf` (S11–S15, commit `a5611e8`), under
-`research/sww-corpus/`; these files only re-voice it. `SCRIPT.md` is the
+`research/sww-corpus/`. Part two (S16–S24, `content_part2.py`) comes from branch
+`ccr-81ec1931-b41u1s` (commit `92925ef`): `research/something-was-wrong-s16.md` and
+`research/something-was-wrong-s17-s24.md`. Those seasons were read for institutional
+response rather than coded on the cycle, and S17–S19 only in excerpts; the reels say so.
+These files only re-voice the research. `SCRIPT.md` is the
 full narration with what appears on screen.
 
-Rendered video is not committed (≈ 1 GB). To rebuild:
+Rendered video is not committed (≈ 1.5 GB). To rebuild:
 
 ```
 uv venv -p python3.12 venv && . venv/bin/activate
@@ -21,7 +25,8 @@ python gen_script.py                       # SCRIPT.md
 
 | File | Role |
 |---|---|
-| `content.py` | the scripts: narration per scene plus the on-screen card |
+| `content.py` | the scripts: narration per scene plus the on-screen card (S1–S15, and the series order) |
+| `content_part2.py` | the scripts for Seasons 16–24 and their cross-season findings |
 | `tts.py` | Kokoro narration (voice `af_heart`) with word timestamps for captions |
 | `hold.py` | adds silence after a scene whose quote card needs more reading time than its narration |
 | `gen_script.py` | writes `SCRIPT.md` from `content.py` and the timings |

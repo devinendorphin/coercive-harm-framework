@@ -5,7 +5,8 @@ from content import REELS, SERIES, SUB
 L = [f"# {SERIES} — reel scripts", "",
      f"*{SUB}. {len(REELS)} vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), "
      "procedural soundtrack. Sources: the close-read on branches `ccr-93dfe246-4ja9f0` (S1–S10, `729dd3e`) and "
-     "`ccr-89a0fcc4-xfqzcf` (S11–S15, `a5611e8`), `research/sww-corpus/`. Survivors keep the show's pseudonyms; "
+     "`ccr-89a0fcc4-xfqzcf` (S11–S15, `a5611e8`), `research/sww-corpus/`; Seasons 16–24 from `ccr-81ec1931-b41u1s` (`92925ef`), "
+     "`research/something-was-wrong-s16.md` and `-s17-s24.md` (S17–S19 read in excerpts only). Survivors keep the show's pseudonyms; "
      "the S14 perpetrator's surname is left out, as in the study. Testimony as broadcast (P2): allegations, not verdicts.*", ""]
 for r in REELS:
     d = json.load(open(f"build/timing_{r['slug']}.json"))["dur"] + 2.6

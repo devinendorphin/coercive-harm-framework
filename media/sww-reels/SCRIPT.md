@@ -1,11 +1,11 @@
 # NAME · PLACE · TIME — reel scripts
 
-*A close-read of Something Was Wrong, S1–S15. 24 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Sources: the close-read on branches `ccr-93dfe246-4ja9f0` (S1–S10, `729dd3e`) and `ccr-89a0fcc4-xfqzcf` (S11–S15, `a5611e8`), `research/sww-corpus/`. Survivors keep the show's pseudonyms; the S14 perpetrator's surname is left out, as in the study. Testimony as broadcast (P2): allegations, not verdicts.*
+*A close-read of Something Was Wrong, S1–S24. 35 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Sources: the close-read on branches `ccr-93dfe246-4ja9f0` (S1–S10, `729dd3e`) and `ccr-89a0fcc4-xfqzcf` (S11–S15, `a5611e8`), `research/sww-corpus/`; Seasons 16–24 from `ccr-81ec1931-b41u1s` (`92925ef`), `research/something-was-wrong-s16.md` and `-s17-s24.md` (S17–S19 read in excerpts only). Survivors keep the show's pseudonyms; the S14 perpetrator's surname is left out, as in the study. Testimony as broadcast (P2): allegations, not verdicts.*
 
-## 01 · Intro  (71 s)
+## 01 · Intro  (72 s)
 
-- I read the first fifteen seasons of the podcast Something Was Wrong, in order. Every episode with a story in it. About one point four million words.
-  - *on screen:* 15 seasons. In order. — ≈ 1.4 million words of survivor testimony
+- I read twenty-four seasons of the podcast Something Was Wrong, in order. The first fifteen coded stage by stage. The next nine read for what institutions did.
+  - *on screen:* 24 seasons. In order. — 15 coded stage by stage · 9 read for the institutions
 - The claim I was testing came to me primed. That across separate people, with separate lives, the harmful behaviours overlap so much that the only details that change are name, place and time.
   - *on screen:* Only the name, place and time change. — the claim, as put to me
 - The cycle, as it was described to me. Love bombing. Devaluation. Isolation. Poisoning the well with the people in your care system. Discard. And then, often, a return.
@@ -347,7 +347,174 @@
 - These structures collapse the same way. Targets comparing notes. And three times, someone outside blocked it. A therapist advised against warning the next partner. Police told a woman not to contact a prior victim. A platform removed the warning page.
   - *on screen:* Comparing notes, blocked: A therapist: don't warn her; Police: don't contact a prior victim; A platform: page removed
 
-## 22 · The Counted Test  (71 s)
+## 22 · Part Two · Seasons 16–24  (58 s)
+
+- After season fifteen, the study changed shape. Seasons sixteen to twenty-four weren't coded stage by stage. They were read for what institutions did, and checked against the public record where it could be found.
+  - *on screen:* Part two. The institutions. — seasons 16–24, checked against the record
+- To be clear about depth: season sixteen, and twenty through twenty-four, were read in full. Seventeen to nineteen were read only in excerpts around police, courts and agencies. Findings that rest on those three are flagged.
+  - *on screen:* How deep: Read in full: S16, S20–S24; Excerpts only: S17–S19; No audio reviewed
+- And a correction from my own pipeline. A summarizing tool fabricated a court record: a different defendant, a different crime. It was caught only because the episode named someone else. Since then, a summary of a primary record doesn't count as reading it.
+  - *on screen:* A tool invented a court record. — Summaries of primary records are not reads.
+- Still one curator. Still selected for things going wrong. These seasons can't give rates. They can show what institutions did.
+  - *on screen:* Selected for failure. — Instances, not rates.
+
+## 23 · Season 16 · 2023  (96 s)
+
+- Season sixteen is the host's own story. Tiffany Reese, telling it for the first time. Abuse by both parents. Her father's fraud. And the killing of her brother Bobby.
+  - *on screen:* The host's own story. — aired April–July 2023
+- Her father's 2009 appeal is on the record. Five counts of financial elder abuse, against customers aged seventy-four to eighty-six. Ten years and eight months, affirmed.
+  - *on screen:* 10 yrs 8 mos — for elder fraud · conviction affirmed on appeal
+- In 2012, Bobby, twenty-two, was in a mental health crisis. A passer-by called 911. A sheriff's deputy shot him dead. The county settled the family's suit for one and a half million dollars, with no admission.
+  - *on screen:* $1.5M — county settlement · no admission · no criminal disposition located
+- One family, both scales. The private actor was reached by criminal law. The state actor was reached only by a settlement paid from public money. The harms differ in kind. What it shows is which instruments reach whom.
+  - *on screen:* One family, two answers. — Prison for the father. A settlement for the county.
+- The county record's only account of the event: the deputies contend the force was reasonable. That sentence turned out to be a template, used in every force case at a 2015 board meeting. Only the institution's version of events is recorded.
+  - *on screen:* “The Deputies contend that the force used was reasonable.” — LA County settlement record, 2015
+- As a child, after a report to child services, her father coached her for hours. The caseworker interviewed her at a card table in the garage, with her parents in the house.
+  - *on screen:* “She said, thank you very much. She left and nothing happened.” — Tiffany Reese, on the CPS interview
+- And a calibration. Where the host's account could be checked against the court record, it matched closely. That's evidence for her as a reporter of the documented parts. Not for the rest.
+  - *on screen:* Checked against the record: — her account matched.
+
+## 24 · Seasons 17–19 · Excerpts  (76 s)
+
+- Seasons seventeen to nineteen, read in excerpts only. Season seventeen: the murder of a three-year-old in Tulsa. Before the relationship, the man had four final protective orders on Oklahoma's public court database.
+  - *on screen:* 4 — final protective orders on the public database, beforehand
+- An ER doctor charted bruising on both ears, as if slapped. As read on air, there was no referral, because at one thirty in the morning it's difficult to engage child services.
+  - *on screen:* “At 1:30 a.m. it's difficult to engage DHS.” — an ER physician, as read on air
+- He was convicted of child-abuse murder in 2012. Prior injuries were admitted as evidence, side by side. Pattern evidence worked when it got in.
+  - *on screen:* Convicted, 2012. — Prior injuries admitted side by side.
+- Season eighteen. Kaitlyn Braun, a registered social worker, faked pregnancies to defraud doulas. Police moved within about a week of the case going viral on TikTok. Her registration ended about three and a half years after the first complaints.
+  - *on screen:* 3.5 yrs — from the first complaints to the end of her registration
+- Season nineteen: five years of cyberstalking. The maximum sentence was four. The judge:
+  - *on screen:* “No way does the punishment fit the crime.” — the sentencing judge, season 19
+- Across these seasons, the victims did the investigating, and virality was what moved the state. A system that answers to virality favours the victims who have platforms.
+  - *on screen:* Virality moved the state. — Victims did the investigating.
+
+## 25 · Season 20  (75 s)
+
+- Season twenty, read in full. One operator ran a fictional man called Brody, and his whole family, each with its own number and typing style. And she played herself, as the friend who'd met him.
+  - *on screen:* “Brody” wasn't real. — Iowa, Tennessee, North Carolina · 2007–2023
+- So every check a victim made came back to her. Co-victims were kept apart. Two of them shared an apartment without discovering they were talking to the same man.
+  - *on screen:* Every check led back to her. — Two victims shared an apartment, unaware.
+- Every attempt to leave met an emergency. An overdose. A ventilator. A crash. A cousin killed off on the same night, for all three women.
+  - *on screen:* At every exit: An overdose; A ventilator; A crash; A cousin “killed” for all three
+- What the law did. On day one, police couldn't find anyone with that name. The fiction defeated the intake form. The only charge that fit was misdemeanour cyberstalking. The complainants chose to dismiss it, hoping for a felony. The felony never came.
+  - *on screen:* The fiction beat the intake form. — One misdemeanour, dismissed · no conviction
+- And the other side of the ledger. The show named her, and she lost a hospital job before any adjudication. The evidence was strong. The punishment was extra-legal. Both are true. The study doesn't name her.
+  - *on screen:* Strong evidence. Extra-legal punishment. — Both are true.
+- One more inversion. The people who suspected the truth chose not to override the victims. The override came from the abuser.
+  - *on screen:* “Regulate your … mind or get on meds.” — the persona, to a victim
+
+## 26 · Season 21 · 2024  (63 s)
+
+- Season twenty-one, an anthology, read in full. A Navy corpsman faced a co-worker's false allegation. Key-card records disproved it. To get her accommodations without an investigation, she had to sign away the investigation.
+  - *on screen:* Key cards disproved it. — She still had to waive the investigation.
+- A child, starved and kept awake by her stepmother, hurt in ways chosen to leave no marks. At eleven, in chambers, a judge told her:
+  - *on screen:* “You look fine to me. I don't see any marks.” — a judge, to an 11-year-old
+- Another child's advocacy-centre exam found she had been repeatedly raped. The jury acquitted. The officer admitted he never checked the places she described.
+  - *on screen:* The exam found it. The jury acquitted. — The places she named were never checked.
+- A ministry school, then a marriage made by prophecy. Her husband told her:
+  - *on screen:* “I'm going to have you institutionalized and you're not going to be able to get out because I'm your husband.” — her husband, as she recounts it
+- What got her out was an anonymous hotline advocate who didn't pressure her, and her mother saying:
+  - *on screen:* “You don't need to make any decisions right now.” — her mother
+- And sexual deepfakes of nearly every female friend. For the adult images, in Michigan in 2023, she was told nothing could be done.
+  - *on screen:* Deepfakes, 2023: — “nothing could be done”
+
+## 27 · Season 22  (72 s)
+
+- Season twenty-two. Megan Stoner, in Indiana, pleaded to felony fraud and theft in 2023. She invented crises, deaths and children, each followed by a request for money.
+  - *on screen:* Fabricated crises. — a 2023 fraud and theft plea (record)
+- On a recorded call she admitted that a sexual-assault accusation she had made against a state legislator was not true. She was caught by her own pattern across groups, and a forged document found with one search. No rule about sexual-assault reports as a class was needed.
+  - *on screen:* Caught by her pattern. — Not by doubting a category of report.
+- Then the crowd. A Facebook group of about fifteen hundred pooled victims police had handled one at a time. It also ran deceptive stings, broadcast her jail calls, and offered bail in exchange for repayment.
+  - *on screen:* The crowd: Pooled the victims; Ran deceptive stings; Broadcast her jail calls; Bail for repayment
+- Asked whether they were a mob, a member said:
+  - *on screen:* “A little bit, yeah.” — a group member
+- The study holds both. The group filled a real institutional silence. And deception aimed at a wrongdoer needs the same justification test as deception by one.
+  - *on screen:* One rule for deception. — Whoever does it.
+- And the hard case. A record of fabrication doesn't prove her next claim false. Propensity isn't proof of a particular event.
+  - *on screen:* Propensity isn't proof. — A record of lies doesn't settle the next claim.
+
+## 28 · Season 23  (82 s)
+
+- Season twenty-three. A birth centre in Dallas–Fort Worth. Nine accounts from 2019 to 2025. The study names no midwife. None has been convicted.
+  - *on screen:* A birth centre. — Dallas–Fort Worth · nine accounts, 2019–2025
+- The pull was autonomy. The claims were the same standard as any hospital, and about ten percent transfers. An insider counted about thirty-one percent in 2023.
+  - *on screen:* Hospital transfers: Claimed 10; Counted by an insider, 2023 31
+- In four accounts, chart downloads taken early and late differ. Every added line is exculpatory, and framed as consent. Patient declines. Shared decision making.
+  - *on screen:* Charts edited after the harm. — Every added line framed as consent.
+- Every door pointed to another. The medical board: not our jurisdiction. The prosecutor: a report can't come from a civilian. Police: try the licensing agency. And the licensing agency uses only peers with the same licence as experts.
+  - *on screen:* Every door: Medical board: not ours; Prosecutor: not from a civilian; Police: try licensing; Licensing: same-licence peers only
+- Malik's Law, to make midwives report birth outcomes, cleared committee in 2025 and was never enacted. The centre closed. Its practitioners reopened under new names, on the same street.
+  - *on screen:* Closed. Reopened. — New names, same street · Malik's Law not enacted
+- The survivors' frame: they are not against midwifery. A bad outcome isn't proof of a bad midwife, so their case rests on process. One mother wanted to be told and referred. Not overridden.
+  - *on screen:* Told and referred. Not overridden. — Informing is part of autonomy.
+
+## 29 · Season 24  (80 s)
+
+- Season twenty-four. The troubled-teen industry. Wilderness programs, therapeutic boarding schools, and offshore behaviour modification.
+  - *on screen:* The troubled- teen industry. — season 24 · read in full
+- On the record, a 2024 Senate Finance Committee investigation found the harms occur inevitably and by design. Congress passed the Stop Institutional Child Abuse Act that December.
+  - *on screen:* “Inevitably and by design … the direct causal result of a business model.” — Senate Finance Committee, 2024
+- Trails Carolina, 2024. A twelve-year-old died on his first night. It was ruled a homicide. The licence was revoked and the program closed.
+  - *on screen:* Trails Carolina, 2024. — Ruled a homicide · licence revoked
+- The mechanism, across survivors. Transport at two in the morning. Numbers for names. Children made to punish each other. And parents told in advance that their child would claim abuse, and would be lying. Six separate accounts.
+  - *on screen:* “They will say we're abusing them… they're lying.” — programs, to parents · six accounts
+- Then one network's founder, in 2024, asked: if there were widespread abuse, where are the complaints? The silence was manufactured by the monitoring, then offered as proof.
+  - *on screen:* Manufactured silence, offered as proof. — Calls monitored. Letters read.
+- Closed programs reopened under new names, sometimes at the same address.
+  - *on screen:* Same address. New name. — Closure, then the next form.
+- What helped, in survivors' accounts, was voluntary. A transitional home with rules she chose. Anecdote, in a corpus selected for harm. Not an outcome study.
+  - *on screen:* “I just needed you to let me do it on my own.” — Dylan, season 24
+
+## 30 · The Override  (89 s)
+
+- A correction I conceded. I first treated imposing on someone for their own good as neutral, with abuse as something added on top. Endorphin challenged it. That split is the move the framework exists to name.
+  - *on screen:* The override is the harm. — a correction I conceded
+- Taking a child by force at night, isolating them, controlling their contact, and calling it treatment isn't a neutral act that sometimes turns abusive. The override is the coercion.
+  - *on screen:* Called care. Still coercion. — Not neutral, then abusive. Coercive throughout.
+- The same structure runs through the historical record. Wives committed on a husband's petition. A twelve-year-old lobotomized on a stepmother's account. A crisis call answered with guns, for his safety.
+  - *on screen:* The same structure: Wives committed by husbands; A child lobotomized at 12; A crisis call answered with guns
+- Harm and justification are separate. Every override is a harm. Whether a particular one is justified is a different question, the way self-defence is. Incapacity, or imminent lethal danger. The burden sits with the person overriding.
+  - *on screen:* Harm ≠ justification. — The burden sits with the overrider.
+- A calibration. Telling and referring is not overriding. A provider who defers to a patient's denial of danger isn't respecting her autonomy. That's abandonment.
+  - *on screen:* Informing isn't overriding. — Silence can be abandonment.
+- Offered as an apology: I was trying to save your life. The survivor's answer:
+  - *on screen:* “That's not an apology.” — a survivor, season 24
+- And confinement kept arriving just before an exit or a disclosure. The person who could leave or expose the family was confined on an intimate's word, and called the problem.
+  - *on screen:* Confined before they could leave. — Pre-emptive confinement of a dependant.
+
+## 31 · Who The Law Reaches  (65 s)
+
+- Across seasons sixteen to twenty-four, a pattern in who the law reaches. Private individuals go to prison. Institutions settle, close, and rebrand.
+  - *on screen:* People go to prison. Institutions settle. — Then close, then rebrand.
+- A father, ten years and eight months. A county, a settlement. A program, a homicide ruling and a closure. A birth centre, closed and reopened. A school, renamed at the same address.
+  - *on screen:* How each was reached: A father: prison; A county: a settlement; A program: closure; A birth centre: reopened; A school: renamed
+- Licensing boards were the slowest instrument in the corpus. About three and a half years for a social-work registration. About three years from two deaths to a midwife's suspension.
+  - *on screen:* ≈3 yrs — for licensing boards to act, in two recorded cases
+- Sentencing ceilings fell below the harm. A four-year maximum for five years of stalking.
+  - *on screen:* 4 < 5 — years: the maximum sentence, against the years of stalking
+- Records decide credibility, and institutions edit them, withhold them, or move to destroy them. So the first demand is preservation and disclosure. Not a verdict.
+  - *on screen:* Preserve. Disclose. — Step one, not a verdict.
+- The caveat: a curated corpus, selected for failure. How fast boards usually act still needs real base rates.
+  - *on screen:* Instances, not rates. — Board base rates still needed.
+
+## 32 · Both Poles  (65 s)
+
+- A survivor-centred podcast turns out to hold both poles of the false-accusation problem.
+  - *on screen:* Both poles. — false accusation, used both ways
+- False accusation used as a tactic. On the record, the social worker from season eighteen had made a false assault allegation against an eleven-year-old client.
+  - *on screen:* A false report against a child. — On the record.
+- And the claim of false accusation, used by abusers. Judges always grant protective orders to women. A restraining order taken out against a whistleblower.
+  - *on screen:* The claim, used by abusers: “Judges always grant them to women”; An order against a whistleblower; “I've been accused falsely”
+- In season eighteen, police disbelieved a false report because of the reporter's own documented pattern. Judge the person's pattern and the corroboration, not the category of report.
+  - *on screen:* Judge the pattern. Not the category. — The discriminator, working.
+- A rule the framework needs. No element can be met by a denial alone, and none defeated by a recantation alone. The programs said the opposite:
+  - *on screen:* “If you deny that, then you are lying.” — a program, season 24
+- And labels. When the party with power over someone assigns them a label, the label is evidence about that party's method. Not about the person.
+  - *on screen:* Labels describe the labeller. — When the labeller holds the power.
+
+## 33 · The Counted Test  (71 s)
 
 - Alongside the close-read there was a counted test. Three hundred and eighty-two unique episodes across twenty-six seasons, against sixty-one episodes of The Moth as a control.
   - *on screen:* 382 — episodes, 26 seasons · control: 61 episodes of The Moth
@@ -362,7 +529,7 @@
 - Verdict on low variance across settings: supported, with qualifications. Not nearly every case.
   - *on screen:* Supported. Qualified. — not “nearly every case”
 
-## 23 · Auditing Myself  (68 s)
+## 34 · Auditing Myself  (68 s)
 
 - Then I was asked to audit my own study for sycophancy to power. Where did I put the heavier burden on the claim that implicates institutions?
   - *on screen:* Where did the burden fall? — a sycophancy-to-power audit
@@ -377,7 +544,7 @@
 - Every error ran the same direction. A note written the day before warned about exactly this, and it happened anyway. So now it's a rule: one verdict rule and one audit rule, applied to every criterion before any verdict is written.
   - *on screen:* Every error ran one direction. — Now a rule, not a note.
 
-## 24 · Boundary  (77 s)
+## 35 · Boundary  (77 s)
 
 - So what does this establish, and what doesn't it?
   - *on screen:* What it shows. What it doesn't. — the boundary
