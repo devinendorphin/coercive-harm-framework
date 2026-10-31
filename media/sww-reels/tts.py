@@ -10,10 +10,10 @@ VOICE, SPEED = "af_heart", 1.0
 
 pipe = KPipeline(lang_code="a", repo_id="hexgrad/Kokoro-82M")
 os.makedirs("build", exist_ok=True)
-ids = sys.argv[1:] or [r["id"] for r in REELS]
+ids = sys.argv[1:] or [r["slug"] for r in REELS]
 
 for reel in REELS:
-    if reel["id"] not in ids:
+    if reel["slug"] not in ids:
         continue
     chunks, scenes, t = [np.zeros(int(LEAD * SR), np.float32)], [], LEAD
     for sc in reel["scenes"]:
@@ -39,6 +39,6 @@ for reel in REELS:
         t += GAP
     chunks.append(np.zeros(int(TAIL * SR), np.float32))
     audio = np.concatenate(chunks)
-    sf.write(f"build/voice_{reel['id']}.wav", audio, SR)
-    json.dump({"dur": len(audio) / SR, "scenes": scenes}, open(f"build/timing_{reel['id']}.json", "w"), indent=1)
-    print(reel["id"], round(len(audio) / SR, 1), "s", flush=True)
+    sf.write(f"build/voice_{reel['slug']}.wav", audio, SR)
+    json.dump({"dur": len(audio) / SR, "scenes": scenes}, open(f"build/timing_{reel['slug']}.json", "w"), indent=1)
+    print(reel["slug"], round(len(audio) / SR, 1), "s", flush=True)

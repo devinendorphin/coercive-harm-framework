@@ -355,11 +355,12 @@ def make_bg(acc, seed):
     return bg
 
 # ---------------------------------------------------------------- main
-def main(rid):
-    ri = [r["id"] for r in REELS].index(rid)
+def main(slug):
+    ri = [r["slug"] for r in REELS].index(slug)
     reel = REELS[ri]
+    rid = reel["id"]
     acc = hexrgb(reel["accent"])
-    tm = json.load(open(f"build/timing_{rid}.json"))
+    tm = json.load(open(f"build/timing_{slug}.json"))
     dur = tm["dur"] + END
     nfr = int(dur * FPS)
     scenes = []
@@ -392,14 +393,14 @@ def main(rid):
     if prev:
         class _S:
             def __init__(s): s.stdin = s; s.i = 0
-            def write(s, b): Image.frombytes("RGB", (W, H), b).save(f"build/prev_{rid}_{s.i}.png"); s.i += 1
+            def write(s, b): Image.frombytes("RGB", (W, H), b).save(f"build/prev_{slug}_{s.i}.png"); s.i += 1
             def close(s): pass
             def wait(s): pass
         ff = _S()
     else:
       ff = subprocess.Popen(["ffmpeg", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                            "-vf", "noise=alls=7:allf=t+u,vignette=PI/6", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
-                           "-pix_fmt", "yuv420p", f"build/video_{rid}.mp4"], stdin=subprocess.PIPE)
+                           "-pix_fmt", "yuv420p", f"build/video_{slug}.mp4"], stdin=subprocess.PIPE)
     for fi in (range(nfr) if not prev else [int(x * FPS) for x in prev]):
         t = fi / FPS
         fr = bg(t)
@@ -427,7 +428,7 @@ def main(rid):
             paste(fr, end_cr, X0, 1380, ease((te - 0.6) / 0.5))
         ff.stdin.write(fr.tobytes())
     ff.stdin.close(); ff.wait()
-    print(rid, "video", round(dur, 1), flush=True)
+    print(slug, "video", round(dur, 1), flush=True)
 
 if __name__ == "__main__":
     main(sys.argv[1])

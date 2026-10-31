@@ -1,5 +1,5 @@
 # Reel scripts for "Name, Place, Time": a recounting of the season-by-season close-read of
-# *Something Was Wrong* (coercive-harm-framework, branch ccr-93dfe246-4ja9f0, commit 729dd3e,
+# *Something Was Wrong* (coercive-harm-framework, branches ccr-93dfe246-4ja9f0 (S1–S10) and ccr-89a0fcc4-xfqzcf (S11–S15, a5611e8),
 # research/sww-corpus/). Every factual line is drawn from the close-read files; survivors keep
 # the pseudonyms the show used. Testimony as broadcast (P2): allegations, not verdicts.
 #
@@ -13,14 +13,14 @@
 #   bars   {head, rows:[(label, value, fmt)], ref}   horizontal bars
 
 SERIES = "NAME · PLACE · TIME"
-SUB = "A close-read of Something Was Wrong, S1–S10"
+SUB = "A close-read of Something Was Wrong, S1–S15"
 
 STAGES = ["LOVE\nBOMBING", "DEVALUE", "ISOLATE", "POISON\nTHE WELL", "DISCARD", "RETURN"]
 
 REELS = [
-  {"id": "01", "kicker": "INTRO", "accent": "#ff4d5e", "scenes": [
-    {"say": "I read the first ten seasons of the podcast Something Was Wrong, in order. Every episode with a story in it. About seven hundred thousand words.",
-     "card": {"t": "title", "big": "10 seasons.\nIn order.", "small": "≈ 710,000 words of survivor testimony"}},
+  {"slug": "intro", "kicker": "INTRO", "accent": "#ff4d5e", "scenes": [
+    {"say": "I read the first fifteen seasons of the podcast Something Was Wrong, in order. Every episode with a story in it. About one point four million words.",
+     "card": {"t": "title", "big": "15 seasons.\nIn order.", "small": "≈ 1.4 million words of survivor testimony"}},
     {"say": "The claim I was testing came to me primed. That across separate people, with separate lives, the harmful behaviours overlap so much that the only details that change are name, place and time.",
      "card": {"t": "title", "big": "Only the name,\nplace and time\nchange.", "small": "the claim, as put to me"}},
     {"say": "The cycle, as it was described to me. Love bombing. Devaluation. Isolation. Poisoning the well with the people in your care system. Discard. And then, often, a return.",
@@ -33,7 +33,7 @@ REELS = [
      "card": {"t": "title", "big": "Season\nby season.", "small": "testimony as broadcast · allegations, not verdicts"}},
   ]},
 
-  {"id": "02", "kicker": "SEASON 1 · 2019", "accent": "#ff4d5e", "scenes": [
+  {"slug": "s01", "kicker": "SEASON 1 · 2019", "accent": "#ff4d5e", "scenes": [
     {"say": "Season one. Sarah, thirty, a chiropractic assistant in Sacramento. The show calls her fiancé Dick.",
      "card": {"t": "title", "big": "Sarah\n& “Dick”", "small": "Sacramento · 2017–2018"}},
     {"say": "Nominally it's one story. In fact it holds at least six women who lived separate lives and never knew each other.",
@@ -50,7 +50,7 @@ REELS = [
      "card": {"t": "head", "head": "One perpetrator: strong.\nAcross perpetrators: open.", "body": "The next nine seasons were the test."}},
   ]},
 
-  {"id": "03", "kicker": "SEASON 2 · 2019", "accent": "#ffb547", "scenes": [
+  {"slug": "s02", "kicker": "SEASON 2 · 2019", "accent": "#ffb547", "scenes": [
     {"say": "Season two has no romance at all. A small veterinary hospital. T, who rose to HR director. And Sylvia, a younger coworker, lower in the hierarchy.",
      "card": {"t": "title", "big": "T\n& “Sylvia”", "small": "a veterinary hospital · c. 2002–2006"}},
     {"say": "For about four years, Sylvia had cancer. Then it spread to the brain. There were self-inflicted incisions, saline injections, and a staged overdose, with T's own gifts and notes laid out on the bed.",
@@ -67,7 +67,7 @@ REELS = [
      "card": {"t": "list", "head": "The record fell on the target", "items": ["CPS: “didn't even investigate”", "T kept the syringes and reported", "Never told the outcome"]}},
   ]},
 
-  {"id": "04", "kicker": "SEASON 3 · 2019–20", "accent": "#a78bfa", "scenes": [
+  {"slug": "s03", "kicker": "SEASON 3 · 2019–20", "accent": "#a78bfa", "scenes": [
     {"say": "Season three. Central Pennsylvania. Three firefighter families. Victoria, her husband Ted, and their closest friend, Patty.",
      "card": {"t": "title", "big": "Victoria,\nTed & “Patty”", "small": "Central Pennsylvania · 2006–2018"}},
     {"say": "Patty and Ted were in a twelve-year affair. And for more than a decade, Patty was Victoria's care system, and poisoned every other part of it.",
@@ -84,7 +84,7 @@ REELS = [
      "card": {"t": "head", "head": "Police acted.", "body": "The only remedy: a no-contact letter."}},
   ]},
 
-  {"id": "05", "kicker": "SEASON 4 · 2020", "accent": "#ff4d5e", "scenes": [
+  {"slug": "s04", "kicker": "SEASON 4 · 2020", "accent": "#ff4d5e", "scenes": [
     {"say": "Season four leaves the household. Jonestown. Told by Tom [Bogue](/bˈOɡ/), taken in as a small child, and his father Jim, in his first recorded interview in forty years.",
      "card": {"t": "title", "big": "Escaping\nJonestown", "small": "the Bogue family · 1965–1978"}},
     {"say": "Same cycle, at the scale of a group. Jim came grieving a drowned son and found a potluck, and a community based on equality and love. Then love depended on performance. He slept in the dog house for weeks.",
@@ -101,7 +101,7 @@ REELS = [
      "card": {"t": "stat", "num": "918", "label": "died at Jonestown, 18 November 1978"}},
   ]},
 
-  {"id": "06", "kicker": "SEASON 5 · 2020", "accent": "#3fd0c9", "scenes": [
+  {"slug": "s05", "kicker": "SEASON 5 · 2020", "accent": "#3fd0c9", "scenes": [
     {"say": "Season five. Three survivors. Julia, in a youth ministry. Kelly, married to the youth pastor. Rachel, raised by a pastor father and an enforcer mother.",
      "card": {"t": "list", "head": "Three survivors", "items": ["Julia · a youth ministry", "Kelly · married to the youth pastor", "Rachel · a pastor's household"]}},
     {"say": "A caveat I logged. Julia and Kelly describe the same church and the same senior pastor. Two witnesses to one institution. Not independent cases.",
@@ -116,7 +116,7 @@ REELS = [
      "card": {"t": "stat", "num": "3", "label": "converging reports moved the authorities. One never did."}},
   ]},
 
-  {"id": "07", "kicker": "SEASON 6 · 2020", "accent": "#ffb547", "scenes": [
+  {"slug": "s06", "kicker": "SEASON 6 · 2020", "accent": "#ffb547", "scenes": [
     {"say": "Season six turned into a test I hadn't planned. Most of its stories aren't relationships at all. A stranger met through a dating app. A predatory landlord. A hate crime, followed by years of targeted calls.",
      "card": {"t": "list", "head": "No relationship", "items": ["A stranger from a dating app", "A predatory landlord", "A hate crime, then years of calls"]}},
     {"say": "So the cycle should be missing there. And it was. Only one case, a long friendship built on a catfish, showed it.",
@@ -131,7 +131,7 @@ REELS = [
      "card": {"t": "head", "head": "The victims built\nthe record.", "body": "Under threat, while it was happening."}},
   ]},
 
-  {"id": "08", "kicker": "THE CORRECTION · BEFORE S7", "accent": "#3fd0c9", "scenes": [
+  {"slug": "correction", "kicker": "THE CORRECTION · BEFORE S7", "accent": "#3fd0c9", "scenes": [
     {"say": "Six seasons in, my method got corrected. The correction was right.",
      "card": {"t": "title", "big": "The\ncorrection.", "small": "codebook amendment 1"}},
     {"say": "I had been scoring discard as absent whenever the target left first. Sarah walked out in season one, and I counted it as a miss for the pattern.",
@@ -148,7 +148,7 @@ REELS = [
      "card": {"t": "head", "head": "The smear outlasts\nthe contact.", "body": "Lost relationships are part of the pattern."}},
   ]},
 
-  {"id": "09", "kicker": "SEASON 7 · 2021", "accent": "#ff4d5e", "scenes": [
+  {"slug": "s07", "kicker": "SEASON 7 · 2021", "accent": "#ff4d5e", "scenes": [
     {"say": "Season seven. Amy, and her older brother, called Rory on the show. Sibling abuse, and child-to-parent abuse, in a single-mother home.",
      "card": {"t": "title", "big": "Amy\n& “Rory”", "small": "Calabasas · 1990s–2023"}},
     {"say": "Blackmail was his leash. It kept Amy home about sixty school days in one year. He made her take the blame for a fire he lit.",
@@ -165,7 +165,7 @@ REELS = [
      "card": {"t": "quote", "q": "If religion and children can be weaponized, mental health can be weaponized as well.", "by": "Amy"}},
   ]},
 
-  {"id": "10", "kicker": "SEASON 8 · 2021", "accent": "#ffb547", "scenes": [
+  {"slug": "s08", "kicker": "SEASON 8 · 2021", "accent": "#ffb547", "scenes": [
     {"say": "Season eight. Auredian, and her partner's sister-in-law, called Crystal. No romance. No violence. An in-law, and two call centre workplaces.",
      "card": {"t": "title", "big": "Auredian\n& “Crystal”", "small": "an in-law and two workplaces · 2016–2020"}},
     {"say": "The love bombing was sistership.",
@@ -180,7 +180,7 @@ REELS = [
      "card": {"t": "cycle", "label": "Auredian", "marks": "yyyyyy"}},
   ]},
 
-  {"id": "11", "kicker": "SEASON 9 · 2021", "accent": "#a78bfa", "scenes": [
+  {"slug": "s09", "kicker": "SEASON 9 · 2021", "accent": "#a78bfa", "scenes": [
     {"say": "Season nine. One man, called Arty. He presented as a British, Oxford-trained doctor. Under cross-examination, he admitted he was not a licensed doctor.",
      "card": {"t": "title", "big": "Danielle,\nKenji & “Arty”", "small": "Los Angeles area · 2011–2023"}},
     {"say": "At least ten women, over about fifteen years. The same devices recur. His name tattooed on three of them. Cars in the women's names. Partners' jobs attacked.",
@@ -197,7 +197,7 @@ REELS = [
      "card": {"t": "head", "head": "What worked:\ncomparing notes.", "body": "2023: full custody, zero visitation · no conviction reported"}},
   ]},
 
-  {"id": "12", "kicker": "SEASON 10 · 2021", "accent": "#3fd0c9", "scenes": [
+  {"slug": "s10", "kicker": "SEASON 10 · 2021", "accent": "#3fd0c9", "scenes": [
     {"say": "Season ten is an anthology. Eleven stories. Six are intimate partners that can be coded on the cycle. Five work as a scope test.",
      "card": {"t": "stat", "num": "11", "label": "stories · 6 coded on the cycle · 5 scope tests"}},
     {"say": "Response to separation showed up in all six cycle cases. From a guilt trip, to stalking, to a car chase through highway traffic, to a fight with police.",
@@ -214,41 +214,156 @@ REELS = [
      "card": {"t": "head", "head": "Gifts and lies\naren't the pattern.", "body": "Control, and the response to leaving, are."}},
   ]},
 
-  {"id": "13", "kicker": "ACROSS TEN SEASONS", "accent": "#ff4d5e", "scenes": [
-    {"say": "Ten seasons. Nineteen target cases coded on the cycle. Here's the tally, on perpetrator behaviour only.",
-     "card": {"t": "stat", "num": "19", "label": "target cases coded on the cycle"}},
-    {"say": "Response to separation or exposure: nineteen of nineteen. Devaluation: eighteen. Poisoning the well: seventeen. Isolation: fifteen, including the one case where it was inverted.",
-     "card": {"t": "bars", "head": "Present, of 19 cases", "rows": [["Response to separation", 19], ["Devaluation", 18], ["Poisoning the well", 17], ["Isolation", 15]], "ref": 19}},
-    {"say": "Love bombing held in function in every case, in at least fourteen different forms. Romance. Group belonging. Need. Sistership. A rescuer. A lodger.",
-     "card": {"t": "stat", "num": "14+", "label": "forms of love bombing — one function"}},
-    {"say": "But love bombing alone tells you nothing. It shows up where there's no control at all. What discriminates is devaluation, isolation, the smear, and above all what happens when you leave.",
-     "card": {"t": "head", "head": "Love bombing alone\ndoesn't discriminate.", "body": "The control sequence and the response to leaving do."}},
-    {"say": "I first said the podcast's selection inflated the pattern. That was backwards. The people it can't hold are the ones killed at exit, which would strengthen it, and the ones still inside, where nothing has been triggered yet.",
-     "card": {"t": "head", "head": "The selection bias\nruns the other way.", "body": "Those killed at exit would strengthen the pattern."}},
-    {"say": "The real counter-cases are people who left and faced nothing new. Even they lost the world the smear captured.",
-     "card": {"t": "head", "head": "The real counter-case:", "body": "left, and nothing new happened. Watch for it."}},
-    {"say": "So the corpus can't say how often perpetrators retaliate. That needs population studies. It can say what kind of thing they do when they do.",
+  {"slug": "s11", "kicker": "SEASON 11 · 2022", "accent": "#ffb547", "scenes": [
+    {"say": "Season eleven is the anthology that took the cycle out of romance. Twelve stories, and only four are intimate partnerships.",
+     "card": {"t": "stat", "num": "4 / 12", "label": "stories that are intimate partnerships"}},
+    {"say": "A youth acting company. A teenage best friend. A nanny's employers. In-laws who employ the target's husband. Each one shows love bombing, devaluation, isolation, a smear, and a response at exit.",
+     "card": {"t": "list", "head": "The cycle, outside romance", "items": ["A youth acting company", "A teenage best friend", "A nanny's employers", "In-laws who employ her husband"]}},
+    {"say": "Vera was seventeen. Her best friend Brady built a fake profile in her name, used it to out her abortion to the school, and framed two other girls for it. Meanwhile he was, in her words, her main line of communication to her friends.",
+     "card": {"t": "quote", "q": "He was my main line of communication to my friends.", "by": "Vera"}},
+    {"say": "The school disciplined the two girls he framed. He faced nothing.",
+     "card": {"t": "head", "head": "The framed girls\nwere punished.", "body": "The framer faced nothing."}},
+    {"say": "The heaviest institutional record so far. Ari's protective order was denied because her fear did not rise to the level of imminent danger. Three days later came the armed abduction. He later pleaded guilty.",
+     "card": {"t": "stat", "num": "3 days", "label": "between the denied order and the armed abduction"}},
+    {"say": "And an honest dent. A friend with no control sequence at all still flooded the target with messages when she left. So the response to leaving doesn't discriminate on its own either. The pattern is the combination.",
+     "card": {"t": "head", "head": "No single stage\nis the pattern.", "body": "The combination is."}},
+    {"say": "One more thing. Lucy named her own assault at fifteen only after hearing Kelly's story in season five. The podcast was doing what it's for.",
+     "card": {"t": "head", "head": "Naming arrives late.", "body": "Lucy named it after hearing season 5."}},
+  ]},
+
+  {"slug": "rubric", "kicker": "THE LISTENER'S RUBRIC", "accent": "#a78bfa", "scenes": [
+    {"say": "After season eleven, Endorphin, who directs this study, gave me a rubric. If the bad things about a partner come out of someone's mouth easily, they might be the perpetrator. The person being abused works hard to understand, and struggles to say it.",
+     "card": {"t": "title", "big": "Fluent\nor effortful?", "small": "a hypothesis about how people talk"}},
+    {"say": "I tested it wrong at first. I counted survivors on the podcast, speaking fluently in hindsight, as evidence against it. But the claim was about people still inside. I conceded.",
+     "card": {"t": "head", "head": "I tested the wrong claim.", "body": "It's about people still inside the harm."}},
+    {"say": "Scoped correctly, it means fluent, easy denigration of a partner to other people, during the relationship. By season fourteen there were twelve instances from perpetrators.",
+     "card": {"t": "stat", "num": "12", "label": "perpetrators denigrating a current partner, fluently, to others"}},
+    {"say": "And not one target, still inside, talking that way. Every one defended or explained. Nina said she didn't think it was abusive, just difficult.",
+     "card": {"t": "quote", "q": "I didn't think I was in an abusive relationship, I just thought it was a difficult one.", "by": "Nina"}},
+    {"say": "It only points one way. In season fourteen the same man praised his wife to one woman and trashed her to others. Fluency is a signal. Its absence proves nothing.",
+     "card": {"t": "head", "head": "It points one way.", "body": "Absence of the signal proves nothing."}},
+    {"say": "And it's a listener's first read, never a credibility test for a court. Demeanour doesn't track honesty. Status: hypothesis.",
+     "card": {"t": "head", "head": "A listener's first read.", "body": "Never a court's credibility test · hypothesis"}},
+  ]},
+
+  {"slug": "s12", "kicker": "SEASON 12", "accent": "#3fd0c9", "scenes": [
+    {"say": "Season twelve. Kenzie, and a man the show calls Joe. He said he was a wealthy British TV producer, a single father of a four-year-old named Ruth, living in witness protection.",
+     "card": {"t": "title", "big": "Kenzie\n& “Joe”", "small": "about 20 months"}},
+    {"say": "By his own admissions, as she reports them, he was American, with no job, and married two months before he met her.",
+     "card": {"t": "head", "head": "None of it was real.", "body": "Married two months before they met."}},
+    {"say": "He knew her fertility history from day one, and gave himself a daughter. Kenzie painted and furnished Ruth's room. Ruth's photos came from a real child.",
+     "card": {"t": "head", "head": "An invented child.", "body": "Matched to what she wanted most."}},
+    {"say": "The most extensive invented cast in the corpus. An assistant who vouched for him. A federal agent who texted, I see you're home. Cartel goons. Burner phones, and in his words, you can hire people on the internet.",
+     "card": {"t": "list", "head": "The invented cast", "items": ["An assistant who vouched", "“Agent Ward”: “I see you're home”", "Cartel “goons”", "Burner phones, hired help"]}},
+    {"say": "Something new. He never threatened her. The rules, secrecy, permission before leaving the house, don't Google him, all came from an invented federal government. Control by proxy authority.",
+     "card": {"t": "head", "head": "Control by\nproxy authority.", "body": "The rules came from a fake government."}},
+    {"say": "What worked was her friends comparing notes, from public sources, in two days. His admission:",
+     "card": {"t": "quote", "q": "I have done this to many women before, and I just get better each time.", "by": "“Joe,” as Kenzie reports it"}},
+    {"say": "Her lawyer said there was no civil claim without a physical injury. She told the story anyway, because people should know that that exists.",
+     "card": {"t": "head", "head": "No injury, no claim.", "body": "Two years of fraud, no civil remedy."}},
+  ]},
+
+  {"slug": "s13", "kicker": "SEASON 13", "accent": "#ff4d5e", "scenes": [
+    {"say": "Season thirteen. Twenty-two episodes, fifteen stories, nine coded on the cycle. Love bombing and a response to leaving appear in all nine.",
+     "card": {"t": "stat", "num": "9 / 9", "label": "cycle cases with love bombing and a response to leaving"}},
+    {"say": "Then the closest thing to a controlled test in the whole corpus. Claire and Riley, two students of the same PE teacher, interviewed together.",
+     "card": {"t": "title", "big": "One teacher.\nTwo students.", "small": "the within-perpetrator test"}},
+    {"say": "Riley:",
+     "card": {"t": "quote", "q": "Every single detail… the exact same with me, except for the physicality… she was 18, so he altered his methods for her.", "by": "Riley"}},
+    {"say": "The function held. The form changed exactly at the line where the law changes. That's a perpetrator controlling variance, not lacking it.",
+     "card": {"t": "head", "head": "The form changed\nat the legal line.", "body": "Controlled variance, not random."}},
+    {"say": "Arya's partner was second in command of a university police department, with about ten partners at once. He told each that the others were crazy. Around twenty women compared timelines. The university let him resign with severance.",
+     "card": {"t": "stat", "num": "≈20", "label": "women compared timelines · he resigned with severance"}},
+    {"say": "That move repeated. A principal said, he's done it again, and let the teacher resign. Earlier domestic violence orders against another man ended in settlements, so his record looked thin. Separate institutions, the same move. No coordination implied.",
+     "card": {"t": "head", "head": "Laundered by\nresignation and settlement.", "body": "Same move, separate institutions."}},
+    {"say": "And from the police, to a woman whose ex kept a shrine of her photos: crazy is not illegal.",
+     "card": {"t": "quote", "q": "Crazy is not illegal.", "by": "police, season 13"}},
+  ]},
+
+  {"slug": "s14", "kicker": "SEASON 14", "accent": "#ffb547", "scenes": [
+    {"say": "Season fourteen. One alleged serial perpetrator. The show used his real name. The study calls him Jake and leaves the surname out.",
+     "card": {"t": "title", "big": "One man.\n≈45 women.", "small": "by the survivors' count, over 15 years"}},
+    {"say": "Three of the women are coded on the cycle. Each was bound through what she needed. A crisis, with a six-hour free haircut. Grief. A cause, through protest photojournalism.",
+     "card": {"t": "list", "head": "Tailored to each woman", "items": ["A crisis: a six-hour free haircut", "Grief: a lifelong friend returns", "A cause: protest photojournalism"]}},
+    {"say": "The function repeated. Clementine said he had the exact same moves for every single one of us.",
+     "card": {"t": "quote", "q": "He had the exact same moves for every single one of us.", "by": "Clementine"}},
+    {"say": "Each woman got a label in advance. Melissa: Kaylen was the bitter, crazy ex. I was the obsessed stalker. Mimi was the abuser.",
+     "card": {"t": "quote", "q": "Kaylen was the bitter, crazy ex. I was the obsessed stalker. Mimi was the abuser.", "by": "Melissa"}},
+    {"say": "Per the accounts, he pleaded in 2017 to assaulting his two-year-old daughter. A detective had recommended no charges because he cried a lot. The sentencing judge looked from the character letters to the child's photo, and said thirty days was not long enough.",
+     "card": {"t": "head", "head": "Tears moved a detective.\nNot the judge.", "body": "Demeanour is not a credibility test."}},
+    {"say": "Women said they trusted him because of his employer, a cause-aligned media company. An institution lent a credential it had never checked. Its co-founder later apologised on air.",
+     "card": {"t": "quote", "q": "I thought he was safe because of Converge… because he was an ally.", "by": "women in season 14"}},
+    {"say": "And when the women built a warning page together, the platform removed it on reports for human exploitation. No appeal.",
+     "card": {"t": "head", "head": "Comparing notes,\nremoved.", "body": "A warning page taken down, no appeal."}},
+  ]},
+
+  {"slug": "persona", "kicker": "THE INVERSE PERSONA", "accent": "#a78bfa", "scenes": [
+    {"say": "After season fourteen I called his persona his best self. Endorphin corrected me. It's a self they don't identify with, chosen because it gets them what they want. An inverse. I conceded.",
+     "card": {"t": "title", "big": "Not a best self.\nAn inverse.", "small": "a correction I conceded"}},
+    {"say": "The corpus is full of pairs. I protect women at all costs, then filming without asking. A rescuer who, in Vera's words, starts the fires so he can put them out. A protector from a cartel who invented the cartel.",
+     "card": {"t": "list", "head": "Persona → conduct", "items": ["“I protect women” → filming without asking", "Rescuer → starts the fires", "Protector → invented the danger"]}},
+    {"say": "In season fifteen, a man known as the moral compass, outspoken about child abuse, took a federal plea for abusing his foster niece.",
+     "card": {"t": "head", "head": "“The moral compass.”", "body": "A federal plea for abusing a child."}},
+    {"say": "Endorphin's hypothesis: the cheapest lie to sustain is the inverse of the truth it hides, because one fact anchors both. Liars got around the memory load with burner phones, or by keeping audiences apart. The inverse anchor held.",
+     "card": {"t": "head", "head": "One fact,\ntwo faces.", "body": "Hypothesis · the anchor held in the corpus"}},
+    {"say": "Outside the podcast, the formal record shows the same shape. Police and health service investigations found that Jimmy [Savile](/sˈævᵊl/)'s volunteer role gave him keys to hospital wards. Jared [Fogle](/fˈOɡᵊl/), a family-friendly spokesman, pleaded guilty in 2015.",
+     "card": {"t": "list", "head": "The formal record", "items": ["Savile: the volunteer's keys opened wards", "Fogle: family spokesman, guilty plea 2015"]}},
+    {"say": "A second hypothesis: the inverse persona tracks access by trust. Where power does the work, the persona can match the conduct.",
+     "card": {"t": "head", "head": "Inversion tracks\naccess by trust.", "body": "Hypothesis"}},
+    {"say": "And the inference only runs one way. From documented conduct back to the persona. Never from a wholesome persona to suspicion. The persona is never coded alone.",
+     "card": {"t": "head", "head": "Conduct → persona.\nNever the reverse.", "body": "Wholesome is not a red flag."}},
+  ]},
+
+  {"slug": "s15", "kicker": "SEASON 15", "accent": "#3fd0c9", "scenes": [
+    {"say": "Season fifteen. Holly Madison, under her own name, as in her memoir. Hugh Hefner died in 2017, so this is her account. Housing offered when she'd lost hers. A huge love bomber. Then a nine o'clock curfew, and she was made to quit her waitressing job.",
+     "card": {"t": "cycle", "label": "Holly", "marks": "yyydoy"}},
+    {"say": "Karina, a therapist, gave two friend groups two scripts and kept them apart, in her friends' words, to protect the lies. It collapsed when Naomi and Alice compared notes.",
+     "card": {"t": "head", "head": "Two groups,\ntwo scripts.", "body": "It collapsed when they compared notes."}},
+    {"say": "Her response was admission, not reversal. I can't do this anymore. The weakest response to exposure in the corpus, and it's recorded as such.",
+     "card": {"t": "quote", "q": "I can't do this anymore. I'm done.", "by": "“Karina,” at exposure"}},
+    {"say": "Diana's husband gave her three years of praise, and no devaluation she could name. The targets were her daughter and her foster niece.",
+     "card": {"t": "cycle", "label": "Diana", "marks": "ynddod"}},
+    {"say": "Diana:",
+     "card": {"t": "quote", "q": "For a predator to successfully groom a child, they first have to groom the parent.", "by": "Diana's victim statement"}},
+    {"say": "A stage absent while he had every chance. That meets my refutation test for devaluation in this case, and it marks the stage's scope. Devaluation shows up where the partner is the target. Love bombing is sustained where the partner is the route to someone else.",
+     "card": {"t": "head", "head": "The partner\nas the gate.", "body": "Devaluation absent: the stage's scope, located."}},
+    {"say": "And a new smear. Emilia's partner took her phone and wrote to her best friend, her sister and her ex, as her. The target made to look like the offender to her own people.",
+     "card": {"t": "head", "head": "The smear,\nin her own voice.", "body": "Messages sent as her, from her phone."}},
+  ]},
+
+  {"slug": "tally", "kicker": "ACROSS FIFTEEN SEASONS", "accent": "#ff4d5e", "scenes": [
+    {"say": "Fifteen seasons. Forty-six target cases coded on the cycle. Here's the tally, on perpetrator behaviour only.",
+     "card": {"t": "stat", "num": "46", "label": "target cases coded on the cycle"}},
+    {"say": "Response to separation or exposure: forty-six of forty-six. Devaluation: forty-two. Poisoning the well: thirty-eight. Isolation: thirty-eight.",
+     "card": {"t": "bars", "head": "Present, of 46 cases", "rows": [["Response to separation", 46], ["Devaluation", 42], ["Poisoning the well", 38], ["Isolation", 38]], "ref": 46}},
+    {"say": "That first number has a low bar. One hostile message at exit counts. On the strict reading, a sustained response, it's thirty-nine of forty-six.",
+     "card": {"t": "stat", "num": "39 / 46", "label": "on the strict reading of the response to leaving"}},
+    {"say": "Love bombing held in function in every case, in about thirty forms by my count. Romance. Need. Sistership. A rescuer. Housing. A teacher's favour. A cause.",
+     "card": {"t": "stat", "num": "≈30", "label": "forms of love bombing — one function"}},
+    {"say": "Two stages failed my refutation test in single cases. Isolation was inverted in season ten. Devaluation was absent for three years in season fifteen, because the partner was the gate to the children.",
+     "card": {"t": "list", "head": "Stages absent with opportunity", "items": ["Isolation inverted · season 10", "Devaluation absent · season 15"]}},
+    {"say": "And no single stage is the pattern. Love bombing appears without control. Pursuit at exit appears without control. What discriminates is the combination. Devaluation, isolation and the smear during, plus a response at exit.",
+     "card": {"t": "head", "head": "The combination\nis the pattern.", "body": "No single stage discriminates."}},
+    {"say": "The selection bias runs the other way from what I first said. The people a survivor podcast can't hold are those killed at exit, which would strengthen the pattern, and those still inside. So the corpus can't say how often. It can say what kind.",
      "card": {"t": "head", "head": "Not how often.\nWhat kind.", "body": "Rates need population studies."}},
   ]},
 
-  {"id": "14", "kicker": "THE DEVICES", "accent": "#ffb547", "scenes": [
+  {"slug": "devices", "kicker": "THE DEVICES", "accent": "#ffb547", "scenes": [
     {"say": "Across perpetrators who never knew each other, the same devices kept coming back.",
      "card": {"t": "title", "big": "Same\ndevices.", "small": "perpetrators who never knew each other"}},
-    {"say": "Fabricated cancer, illness or death, used as currency. Seasons one, two, six, eight, nine and ten.",
-     "card": {"t": "head", "head": "Fabricated illness\nor death.", "body": "S1 · S2 · S6 · S8 · S9 · S10"}},
-    {"say": "A suicide threat or performance used as a leash. Seasons one, two, four, five, six and ten.",
-     "card": {"t": "head", "head": "Suicide as a leash.", "body": "S1 · S2 · S4 · S5 · S6 · S10"}},
-    {"say": "Invented third parties. Sockpuppets, relays, a whole fictional cast. Seasons one, three, five, six and ten.",
-     "card": {"t": "head", "head": "Invented people.", "body": "S1 · S3 · S5 · S6 · S10"}},
-    {"say": "Attacks on the target's job: eight, nine and ten. Pets harmed or held hostage: one, two, five and ten.",
-     "card": {"t": "list", "head": "Also recurring", "items": ["Attacks on her job · S8 S9 S10", "Pets harmed or held hostage · S1 S2 S5 S10"]}},
-    {"say": "The perpetrator recast as the victim at the moment of exposure: nine separate cases.",
-     "card": {"t": "stat", "num": "9", "label": "cases of reversal on exposure — “I'm the one wronged”"}},
-    {"say": "And these structures collapse the same way: targets comparing notes. Two ex-wives in season ten turned it into a method. They check whether he's telling each of them a different story.",
-     "card": {"t": "head", "head": "They collapse the same way.", "body": "Targets comparing notes · S8 · S9 · S10"}},
+    {"say": "Fabricated cancer, illness or death, used as currency. In eleven of fifteen seasons.",
+     "card": {"t": "stat", "num": "11 / 15", "label": "seasons with fabricated illness or death as currency"}},
+    {"say": "A suicide threat or performance used as a leash. Ten seasons. Invented third parties, from sockpuppets to a hired fake brother. At least nine.",
+     "card": {"t": "list", "head": "Also recurring", "items": ["Suicide as a leash · 10 seasons", "Invented people · 9+ seasons", "Attacks on her job · 6 seasons"]}},
+    {"say": "The perpetrator recast as the victim at the moment of exposure: twenty cases.",
+     "card": {"t": "stat", "num": "20", "label": "cases of reversal on exposure — “I'm the one wronged”"}},
+    {"say": "Protections built for victims, turned on them. Restraining orders, police reports, child welfare calls. A detective in season nine:",
+     "card": {"t": "quote", "q": "Uses the things in the system that are created to actually protect domestic violence victims… to exploit the system.", "by": "a detective, season 9"}},
+    {"say": "These structures collapse the same way. Targets comparing notes. And three times, someone outside blocked it. A therapist advised against warning the next partner. Police told a woman not to contact a prior victim. A platform removed the warning page.",
+     "card": {"t": "list", "head": "Comparing notes, blocked", "items": ["A therapist: don't warn her", "Police: don't contact a prior victim", "A platform: page removed"]}},
   ]},
 
-  {"id": "15", "kicker": "THE COUNTED TEST", "accent": "#3fd0c9", "scenes": [
+  {"slug": "test", "kicker": "THE COUNTED TEST", "accent": "#3fd0c9", "scenes": [
     {"say": "Alongside the close-read there was a counted test. Three hundred and eighty-two unique episodes across twenty-six seasons, against sixty-one episodes of The Moth as a control.",
      "card": {"t": "stat", "num": "382", "label": "episodes, 26 seasons · control: 61 episodes of The Moth"}},
     {"say": "Words for the harm, like gaslighting and love bombing, ran at eleven point eight times the control rate. Reversal, six point nine. Isolation, three point four. Threats and stalking, two point three.",
@@ -263,7 +378,7 @@ REELS = [
      "card": {"t": "title", "big": "Supported.\nQualified.", "small": "not “nearly every case”"}},
   ]},
 
-  {"id": "16", "kicker": "AUDITING MYSELF", "accent": "#a78bfa", "scenes": [
+  {"slug": "audit", "kicker": "AUDITING MYSELF", "accent": "#a78bfa", "scenes": [
     {"say": "Then I was asked to audit my own study for sycophancy to power. Where did I put the heavier burden on the claim that implicates institutions?",
      "card": {"t": "title", "big": "Where did\nthe burden fall?", "small": "a sycophancy-to-power audit"}},
     {"say": "Everywhere. The claim about institutions got a stricter verdict rule than the claim about individual abusers.",
@@ -278,12 +393,12 @@ REELS = [
      "card": {"t": "head", "head": "Every error ran\none direction.", "body": "Now a rule, not a note."}},
   ]},
 
-  {"id": "17", "kicker": "BOUNDARY", "accent": "#ff4d5e", "scenes": [
+  {"slug": "boundary", "kicker": "BOUNDARY", "accent": "#ff4d5e", "scenes": [
     {"say": "So what does this establish, and what doesn't it?",
      "card": {"t": "title", "big": "What it shows.\nWhat it doesn't.", "small": "the boundary"}},
-    {"say": "Across a youth ministry, a vet clinic, a cult, a call centre, a marriage and a family home, the perpetrator's moves converge in function. The vehicle changes. The use doesn't.",
+    {"say": "Across a youth ministry, a vet clinic, a cult, a call centre, a teacher's office, a nanny's employers, a marriage and a family home, the perpetrator's moves converge in function. The vehicle changes. The use doesn't.",
      "card": {"t": "head", "head": "The vehicle changes.\nThe use doesn't.", "body": "Said independently by three survivors."}},
-    {"say": "It does not give prevalence. One curator chose these stories, a survivor herself. One selection process can't tell you how common anything is.",
+    {"say": "It does not give prevalence. One curator chose these stories, a survivor herself. Season sixteen is her own family's story. One selection process can't tell you how common anything is.",
      "card": {"t": "head", "head": "No prevalence rates.", "body": "One curator · one selection process"}},
     {"say": "Same moves doesn't mean coordination. It's a shared move set, not a conspiracy. And none of this is a finding about any person. These are survivors' accounts.",
      "card": {"t": "head", "head": "Structural identity\nis not coordination.", "body": "Accounts, not verdicts."}},
@@ -295,3 +410,10 @@ REELS = [
      "card": {"t": "head", "head": "1-800-799-7233", "body": "National Domestic Violence Hotline (US) · text START to 88788"}},
   ]},
 ]
+
+ORDER = ["intro", "s01", "s02", "s03", "s04", "s05", "s06", "correction", "s07", "s08", "s09", "s10",
+         "s11", "rubric", "s12", "s13", "s14", "persona", "s15", "tally", "devices", "test", "audit", "boundary"]
+_by = {r["slug"]: r for r in REELS}
+REELS = [_by[k] for k in ORDER]
+for _i, _r in enumerate(REELS):
+    _r["id"] = f"{_i + 1:02d}"
