@@ -384,7 +384,7 @@ def main(rid):
     nxt = REELS[ri + 1]["kicker"].title() if ri + 1 < len(REELS) else None
     end_big = sprite(SERIES.split(" · "), font("black", 120), FG, 1.02, 2)
     end_sub = sprite(wrap(SUB, font("semi", 40), CW), font("semi", 40), MUTED, 1.25)
-    end_nxt = sprite([("NEXT · " + nxt.upper()) if nxt else "END OF SERIES"], font("cap", 32), acc, 1.2, 3)
+    end_nxt = sprite((["NEXT · " + nxt.upper()] if nxt else ["HOTLINE (US) · 1-800-799-7233", "OR TEXT START TO 88788"]), font("cap", 32), acc, 1.2, 3)
     end_cr = sprite(wrap("Analysis: Claude (AI) for Endorphin · narration: Kokoro TTS (AI voice) · show: Something Was Wrong, Tiffany Reese", font("med", 25), CW), font("med", 25), DIM, 1.3)
 
     import os
