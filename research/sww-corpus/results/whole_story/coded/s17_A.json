@@ -1,0 +1,1348 @@
+{
+  "season": 17,
+  "coder": "A",
+  "reading_log": [
+    {
+      "file": "s17_01.txt",
+      "last_line_number": 101,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s17_02.txt",
+      "last_line_number": 98,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s17_03.txt",
+      "last_line_number": 107,
+      "read_in_full": true,
+      "problems": "Reading was interrupted twice by usage limits; resumed at the next unread line each time (s17_03 line 76; s17_04 after notes). No lines skipped."
+    },
+    {
+      "file": "s17_04.txt",
+      "last_line_number": 55,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Leslie",
+      "role_in_story": "central_survivor",
+      "harm": "Over about four months in 2010 her boyfriend love-bombed, isolated, monitored, lied to and financially leaned on her, gaslighting her about his protective-order history and about injuries to her adopted son; on 12-13 June 2010, while she worked a night shift, he fatally beat her three-year-old son Jace.",
+      "perpetrator_role": "her live-in boyfriend (met through online dating)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s17-e1-something-magical-about-him",
+        "s17-e2-be-very-concerned",
+        "s17-e3-living-in-a-nightmare",
+        "s17-e4-pure-evil",
+        "s17-e5-verdict",
+        "s17-ep6-healer"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "If I ever confronted him about anything throughout our relationship, by the end of the conversation, I would feel guilty about ever even doubting him. Gaslighting at its finest.",
+            "source": "s17-e2-be-very-concerned @ 21:41"
+          },
+          {
+            "reason": "other",
+            "quote": "I never thought he would hurt me or Jace, but I was afraid he would threaten to kill himself and he would never leave me alone.",
+            "source": "s17-e2-be-very-concerned @ 53:38"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Tulsa Police Department (patrol officers, then child crisis unit detective)",
+          "initiated_by": "institution",
+          "when": "morning of 13 June 2010, at the hospital",
+          "what_was_asked": "Investigation of Jace's injuries",
+          "what_institution_did": "Patrol officers and the lead detective interviewed her at the hospital; the detective judged she was not involved and focused the investigation on the boyfriend.",
+          "quote": "when I met Leslie, my gut was like, okay, I really don't think she's involved. It seems like she really was taking steps to try to figure out and get to the bottom of these injuries, but somehow he kind of fell through the cracks, honestly.",
+          "source": "s17-e3-living-in-a-nightmare @ 24:46",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Investigation proceeded against the boyfriend; Leslie says the detective was 'the only one who finally helped me accept that [perpetrator] did this'.",
+          "notes": "Leslie: 'She did her job well and treated everyone with respect.' (s17-e3 @ 31:54)"
+        },
+        {
+          "n": 2,
+          "institution_type": "child_protection",
+          "institution": "Department of Human Services, Child Protective Services (protective custody placed by the detective)",
+          "initiated_by": "institution",
+          "when": "13 June 2010, for about two days",
+          "what_was_asked": "None (institution acted on its own)",
+          "what_institution_did": "Jace was placed in protective custody and Leslie was barred from the hospital while her son lay dying, because she was one of only two caregivers in the injury window.",
+          "quote": "They wouldn't allow Leslie to be at the hospital. The Department of Human Services, Child Protective Services was involved, so they wouldn't allow her to be at the hospital.",
+          "source": "s17-e3-living-in-a-nightmare @ 13:26",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account",
+            "institution_statement",
+            "second_witness"
+          ],
+          "what_happened_next": "She had to go before a judge two days later to be allowed back.",
+          "notes": "Detective: 'So I had to place Jason protective custody. So I basically had to kick Leslie out of the hospital and make her leave' (s17-e3 @ 24:46). The detective presents it as procedure; the quote shows exclusion of the mother, not an explicit accusation. Lauren: 'they have to question her. Did you know about this? Really making her feel like a crappy parent?' (s17-e3 @ 15:29). Could also be read as acted_partly/protective procedure."
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "judge (custody hearing)",
+          "initiated_by": "person",
+          "when": "about 15 June 2010",
+          "what_was_asked": "To be allowed to be with her son at the hospital",
+          "what_institution_did": "The judge allowed her back at the hospital.",
+          "quote": "She had to go before a judge two days later and the judge then allowed her to be at the hospital.",
+          "source": "s17-e3-living-in-a-nightmare @ 13:26",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She was present when life support was withdrawn; Jace died 16 June 2010.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "prosecutor",
+          "institution": "Tulsa County District Attorney's Office",
+          "initiated_by": "institution",
+          "when": "June 2010, after the autopsy",
+          "what_was_asked": "Charges against the boyfriend",
+          "what_institution_did": "The DA's office issued an arrest warrant for first-degree murder on the detective's application.",
+          "quote": "Short time after that, I typed up an arrest warrant. I presented it to the District Attorney's Office and they issued a warrant for his arrest for first degree murder.",
+          "source": "s17-e3-living-in-a-nightmare @ 34:58",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "court_outcome"
+          ],
+          "what_happened_next": "Boyfriend arrested 23 June 2010.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "fugitive warrant squad / Payne County deputies",
+          "initiated_by": "institution",
+          "when": "23 June 2010",
+          "what_was_asked": "Arrest on warrant",
+          "what_institution_did": "Deputies arrested him near Stillwater and he was returned to Tulsa and jailed.",
+          "quote": "And once the warrant was issued, I had our fugitive warrant squad contact. I believe it was Payne County. And they actually went and arrested him on June 23.",
+          "source": "s17-e3-living-in-a-nightmare @ 38:05",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "He stayed in jail until trial, but kept contacting Leslie through his sister ('He was still trying to manipulate me through her.' s17-e3 @ 42:14).",
+          "notes": "News clip read on air confirms the arrest (s17-e3 @ 41:12)."
+        },
+        {
+          "n": 6,
+          "institution_type": "prosecutor",
+          "institution": "Tulsa County District Attorney's Office (trial prosecutors)",
+          "initiated_by": "institution",
+          "when": "Feb 2012, closing argument",
+          "what_was_asked": "Conviction",
+          "what_institution_did": "In closing, the prosecutor openly blamed Leslie's judgment (while arguing that did not lessen his guilt).",
+          "quote": "Probably the biggest what if in this case is Leslie. How could somebody so smart be so dumb? You know, when you're single parent, you're not just responsible for yourself, you're responsible for that little life.",
+          "source": "s17-e5-verdict @ 21:23",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "document_read_on_air",
+            "person_account"
+          ],
+          "what_happened_next": "Leslie: 'That was very hard to hear, but it was also true.' Conviction followed.",
+          "notes": "Read on air by Leslie from the trial transcript. The prosecutors were otherwise described as supportive ('She never came at us with accusations', s17-e4 @ 5:14); earlier the DA once seemed to question her motive for printing texts (s17-e4 @ 4:11). Main prosecutorial response was believed_and_acted; this contact records the blame."
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "Tulsa County District Court (jury trial)",
+          "initiated_by": "institution",
+          "when": "15-24 Feb 2012",
+          "what_was_asked": "Conviction for child abuse murder",
+          "what_institution_did": "The jury found him guilty of first-degree child abuse murder and fixed punishment at life and a $10,000 fine.",
+          "quote": "We the jury, and paneled and sworn in the above titled cause, do upon our oaths, find as follows. The defendant is guilty and fixed punishment at life and a fine of $10,000.",
+          "source": "s17-e5-verdict @ 28:30",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Sentenced in April 2012 to life with the possibility of parole; Leslie read her victim impact statement.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "court",
+          "institution": "Tulsa County District Court (sentencing) and appellate courts",
+          "initiated_by": "institution",
+          "when": "April 2012 and after",
+          "what_was_asked": "Sentence; upholding conviction",
+          "what_institution_did": "Judge imposed life with the possibility of parole (minimum 38 years before parole consideration); appeals and post-conviction requests were denied.",
+          "quote": "He tried that at least three times, which was denied by the judge. He tried two appeals, which were denied, and he has no other options. This is his life now.",
+          "source": "s17-ep6-healer @ 39:17",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "He remains in prison.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "but I take solace and knowing you will never have the opportunity to hurt another child. Never be able to manipulate and control another woman and I don't ever want to speak your name again.",
+      "outcome_source": "s17-e5-verdict @ 39:56",
+      "protection_contributors": [
+        "institution",
+        "family_or_friends",
+        "other_victims",
+        "the_person"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "he was the only one with Jay's from about 7 p.m. that the night on the 12th until 130 in the morning on the 13th when 911 was called by his own statements. Nobody else was there.",
+      "decisive_work_source": "s17-e4-pure-evil @ 28:58",
+      "time_to_first_effective_action": "same day: police investigation began the morning Jace was admitted (13 June 2010); arrest 10 days later",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Her coercive-control harm never reached an institution before the murder; the institutions engaged only after Jace was fatally injured. Arrest and life sentence ended his access to her, but the harm she sought protection from (her son's safety) was not prevented, he kept manipulating her via his sister while jailed, and his family accused her online and as late as the podcast (s17-ep6-healer @ 37:14). Outcome partly_protected rather than protected for that reason; a coder could argue protected (conviction delivered) or not_protected (relationship harm ended because of the murder, not an institution). harmed_by_institution_ever=true rests on the DHS hospital exclusion and the prosecutor's closing blame; both are arguable. Leslie's counselor and the police told the family it was not her fault (s17-e3 @ 45:17). Leslie asked the DA about suing the ER doctor; DA said she did not think he would be found liable (s17-e4 @ 44:29)."
+    },
+    {
+      "person_id": "P02",
+      "name": "Jace",
+      "role_in_story": "child",
+      "harm": "Three-year-old adopted son of Leslie; over roughly two months in spring 2010 he showed repeated unexplained injuries (bilateral ear bruising, wrist marks, a head bump) while in the boyfriend's care and said the boyfriend hurt/shook him; on 12-13 June 2010 the boyfriend inflicted fatal blunt force head trauma and he died 16 June 2010.",
+      "perpetrator_role": "his mother's live-in boyfriend",
+      "perpetrator_convicted": "yes",
+      "deceased": true,
+      "episodes": [
+        "s17-e1-something-magical-about-him",
+        "s17-e2-be-very-concerned",
+        "s17-e3-living-in-a-nightmare",
+        "s17-e4-pure-evil",
+        "s17-e5-verdict",
+        "s17-ep6-healer"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief",
+          "did_not_know_it_was_abuse",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "And so I even called my other friends who were also social workers. Like, what do I need to do? And they were like, well, I guess if the doctor says it's nothing to worry about, I wouldn't worry about it.",
+            "source": "s17-e2-be-very-concerned @ 32:01"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I couldn't even entertain that thought.",
+            "source": "s17-e2-be-very-concerned @ 40:08"
+          },
+          {
+            "reason": "other",
+            "quote": "But when you're talking about your own family, it makes it a little bit more difficult. And then you narrow it down, and you've been a part of the system. And you know exactly what you're going to be asked. It makes it even more difficult.",
+            "source": "s17-e5-verdict @ 20:22"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "emergency room at the hospital where Leslie worked (ER physician)",
+          "initiated_by": "person",
+          "when": "spring 2010 (about April-May), after 10 pm, the night ear bruising appeared",
+          "what_was_asked": "Assessment of bilateral bruising inside both ears (possible skull fracture)",
+          "what_institution_did": "Did a limited neuro exam, asked who had watched Jace, offered an optional CT, and sent him home; he charted that it looked like Jace had been slapped on both sides of the head but made no child-abuse report.",
+          "quote": "Later, I would find out he documented in his notes in the official legal chart that it appeared to be child abuse, like someone slapped Jace on both sides of his head. but there was no social worker on site during the night, so he would let the pediatrician follow up.",
+          "source": "s17-e2-be-very-concerned @ 38:00",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account",
+            "document_read_on_air",
+            "second_witness"
+          ],
+          "what_happened_next": "Jace went home with Leslie and the boyfriend; pediatrician follow-up next day.",
+          "notes": "Leslie later reads the chart note on air (s17-e4 @ 44:29): 'it would appear like the patient was slapped simultaneously on bilateral sides of the head'. Detective: those doctors 'regret decisions that they made sending Jason. back home. They testified to that.' (s17-ep6 @ 7:13)."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "Jace's pediatrician",
+          "initiated_by": "person",
+          "when": "the next day",
+          "what_was_asked": "Explanation of the ear bruising (Stacey had urged that abuse was the only explanation)",
+          "what_institution_did": "Tested for a bleeding disorder (ruled out) and said to watch it; did not raise abuse or report.",
+          "quote": "I made my sister take him to the doctor. I'm like, Leslie, this is the only explanation that anyone can find. But the pediatricians said they weren't worried about it.",
+          "source": "s17-e2-be-very-concerned @ 32:01",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "No report; Jace stayed in the home.",
+          "notes": "Leslie: 'The only reasonable explanation they could come up with was some kind of bleeding disorder. We did testing for that, it was ruled out. We would just have to watch it.' (s17-e2 @ 38:00-39:04). Testing could support acted_partly. Detective: 'They took him to the doctor, and they pretty much got dismissed.' (s17-e3 @ 27:50). The boyfriend was present at this visit."
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "Jace's ENT doctor",
+          "initiated_by": "person",
+          "when": "a few weeks later",
+          "what_was_asked": "Leslie raised the ear bruising at an unrelated follow-up",
+          "what_institution_did": "Suggested he was sleeping on his ears wrong; no abuse concern raised.",
+          "quote": "I brought up the bruising, thinking he might have some insight. Stop, maybe he was sleeping on his ears wrong. No one brought up child abuse.",
+          "source": "s17-e2-be-very-concerned @ 39:04",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No action; further injuries followed (wrist marks; '[perpetrator] shaped me').",
+          "notes": "Benign explanation could also be read as disbelieved."
+        },
+        {
+          "n": 4,
+          "institution_type": "medical_or_therapy",
+          "institution": "St. Francis Hospital (ER, neurosurgery, child abuse team)",
+          "initiated_by": "third_party",
+          "when": "night of 12-13 June 2010",
+          "what_was_asked": "Emergency care (boyfriend called 911 claiming a fall from bed)",
+          "what_institution_did": "Doctors treated the brain injury, recognised abuse and law enforcement was called.",
+          "quote": "As soon as Jace shows up at the hospital with his massive brain injury and covered in bruises, of course, law enforcement is called.",
+          "source": "s17-e4-pure-evil @ 24:43",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness",
+            "person_account"
+          ],
+          "what_happened_next": "Police and DHS involved; Jace declared brain dead; organs donated; died 16 June 2010.",
+          "notes": "Tulsa Fire Department first responder noticed 'something wasn't right' (s17-e4 @ 23:41)."
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "Tulsa Police Department (patrol, child crisis unit)",
+          "initiated_by": "institution",
+          "when": "13 June 2010",
+          "what_was_asked": "Investigation",
+          "what_institution_did": "Officers interviewed family; Stacey told them of his history with the other child; detectives investigated, photographed injuries and home.",
+          "quote": "They say, yeah, we were kind of wondering about that, and we'll have the detectives talk to you as soon as they get here. Then a couple of detectives come, and they talk to me first, and I tell them the situation.",
+          "source": "s17-e3-living-in-a-nightmare @ 11:23",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "institution_statement",
+            "second_witness"
+          ],
+          "what_happened_next": "Investigation focused on the boyfriend; he left the hospital and took the TV.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "child_protection",
+          "institution": "Department of Human Services / police protective custody",
+          "initiated_by": "institution",
+          "when": "13 June 2010",
+          "what_was_asked": "None",
+          "what_institution_did": "Jace was placed in protective custody.",
+          "quote": "So I had to place Jason protective custody.",
+          "source": "s17-e3-living-in-a-nightmare @ 24:46",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "person_account"
+          ],
+          "what_happened_next": "He died three days later.",
+          "notes": "Appropriate step but came only after the fatal injury; no child-protection referral had ever been made before."
+        },
+        {
+          "n": 7,
+          "institution_type": "prosecutor",
+          "institution": "Tulsa County District Attorney's Office",
+          "initiated_by": "institution",
+          "when": "June 2010",
+          "what_was_asked": "Charges",
+          "what_institution_did": "Issued first-degree murder warrant.",
+          "quote": "Short time after that, I typed up an arrest warrant. I presented it to the District Attorney's Office and they issued a warrant for his arrest for first degree murder.",
+          "source": "s17-e3-living-in-a-nightmare @ 34:58",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "court_outcome"
+          ],
+          "what_happened_next": "Arrest 23 June 2010.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "police",
+          "institution": "fugitive warrant squad / Payne County deputies",
+          "initiated_by": "institution",
+          "when": "23 June 2010",
+          "what_was_asked": "Arrest",
+          "what_institution_did": "Arrested the boyfriend.",
+          "quote": "And once the warrant was issued, I had our fugitive warrant squad contact. I believe it was Payne County. And they actually went and arrested him on June 23.",
+          "source": "s17-e3-living-in-a-nightmare @ 38:05",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Jailed until trial.",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "Tulsa County District Court (jury)",
+          "initiated_by": "institution",
+          "when": "Feb 2012",
+          "what_was_asked": "Conviction",
+          "what_institution_did": "Guilty of child abuse murder in the first degree; life and $10,000 fine.",
+          "quote": "We the jury, and paneled and sworn in the above titled cause, do upon our oaths, find as follows. The defendant is guilty and fixed punishment at life and a fine of $10,000.",
+          "source": "s17-e5-verdict @ 28:30",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Sentenced April 2012.",
+          "notes": ""
+        },
+        {
+          "n": 10,
+          "institution_type": "court",
+          "institution": "Tulsa County District Court and appellate courts",
+          "initiated_by": "institution",
+          "when": "April 2012 onward",
+          "what_was_asked": "Sentence; appeals",
+          "what_institution_did": "Life with possibility of parole; two appeals and other post-conviction attempts denied.",
+          "quote": "They suggested the sentence of life in prison with the possibility of parole, so that's what the judge did.",
+          "source": "s17-e5-verdict @ 30:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Appeals denied (s17-ep6 @ 39:17).",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And I'm not that I'm blaming them, but I feel like the people that were speaking the loudest for him weren't really being heard at that time with their concerns and I really believe something could have maybe changed the outcome of this case if somebody would have just listened to them, he ended up getting murdered before anybody really listened.",
+      "outcome_source": "s17-e3-living-in-a-nightmare @ 28:50",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "high",
+      "notes": "Died of the harm; conviction recorded as contacts but is not protection. Three medical contacts (ER, pediatrician, ENT) before death; none reported to child protection. The detective and the prosecutor's closing both say a referral might have saved him (s17-e3 @ 27:50; s17-e5 @ 20:22). Exact dates of the ER/pediatrician visits not given; ER visit followed a ride-on-car 'accident' and Leslie had already booked a pediatrician appointment. Stacey suggests the pediatrician was seen about the ears; Leslie's and Stacey's accounts appear to describe the same pediatrician visit. Stacey never called DHS ('I wish I had called DHS', s17-e4 @ 47:36). harmed_by_institution_ever kept false: the doctors' failures are coded did_nothing/disbelieved, not active endangerment, though the ER physician sending him home after charting suspected abuse could be argued as endangerment."
+    },
+    {
+      "person_id": "P03",
+      "name": "Jace (birth mother)",
+      "role_in_story": "child",
+      "harm": "Born at 25 weeks to a mother with a drug-use problem who had lost custody of six earlier children; the show presents his prematurity and early condition as linked to her drug use.",
+      "perpetrator_role": "his birth mother",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s17-e1-something-magical-about-him"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "child_protection",
+          "institution": "child protective services",
+          "initiated_by": "institution",
+          "when": "2007, while in the NICU",
+          "what_was_asked": "None stated",
+          "what_institution_did": "Placed him in protective custody; he was later fostered and adopted by Leslie (finalised 20 March 2009).",
+          "quote": "He was quickly placed in trial protective services.",
+          "source": "s17-e1-something-magical-about-him @ 28:04",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Fostered by Leslie from December 2007; adoption finalised 2009.",
+          "notes": "'trial protective services' is a transcription of 'child protective services'."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "On March 20th, 2009, his adoption was finalized, and I was officially his mother.",
+      "outcome_source": "s17-e1-something-magical-about-him @ 34:14",
+      "protection_contributors": [
+        "institution",
+        "family_or_friends"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "He was quickly placed in trial protective services.",
+      "decisive_work_source": "s17-e1-something-magical-about-him @ 28:04",
+      "time_to_first_effective_action": "soon after birth (\"quickly\")",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Borderline record: the season treats this as background, not as an abuse story. Included because it is a separate harm by a different perpetrator with an institutional response. Drop if your reading treats prenatal drug exposure as not a 'harm done' in the season's sense."
+    },
+    {
+      "person_id": "P04",
+      "name": "Stacey (restaurant shooting)",
+      "role_in_story": "co_victim",
+      "harm": "At 15 she was shot five times (stomach, arm, hip) when an employee opened fire at a fast-food restaurant, injuring six people.",
+      "perpetrator_role": "a restaurant employee (gunman)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s17-e1-something-magical-about-him",
+        "s17-e5-verdict",
+        "s17-ep6-healer"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "criminal courts (prosecution of the gunman)",
+          "initiated_by": "unclear",
+          "when": "after the shooting (her high school years)",
+          "what_was_asked": "Prosecution",
+          "what_institution_did": "The gunman was convicted and is serving six life sentences.",
+          "quote": "Thankfully, no one was killed. Six people were injured and he is now serving six life sentences in prison.",
+          "source": "s17-e1-something-magical-about-him @ 7:22",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Stacey later wrote the gunman a letter forgiving him; he wrote back.",
+          "notes": "No police or court detail given; told by Leslie."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "a therapist",
+          "initiated_by": "unclear",
+          "when": "after the shooting",
+          "what_was_asked": "Help with trauma/PTSD",
+          "what_institution_did": "After one session he told her she was fine.",
+          "quote": "I went to a therapist for one session and he, my memory is that he said I was fine, which definitely wasn't fine.",
+          "source": "s17-e1-something-magical-about-him @ 8:24",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She processed it by telling the story; still has a startle response.",
+          "notes": "Order of the two contacts unknown. 'Dismissed' her trauma; could be did_nothing_or_delayed."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "Six people were injured and he is now serving six life sentences in prison.",
+      "outcome_source": "s17-e1-something-magical-about-him @ 7:22",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "Six people were injured and he is now serving six life sentences in prison.",
+      "decisive_work_source": "s17-e1-something-magical-about-him @ 7:22",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Single-event harm that ended before any contact; conviction is the protective action. Very little institutional detail. Media coverage and governor visit not coded as contacts. [s17-ep6-healer @ 10:18] 'I forgave the man who shot me and I wrote him a letter'."
+    },
+    {
+      "person_id": "P05",
+      "name": "Stacey (house-church cult)",
+      "role_in_story": "co_victim",
+      "harm": "As a high-school senior she was drawn into a charismatic house church run by a classmate's family that became a controlling cult; she cut off her family for about a year, gave the group money, and was later shunned by it.",
+      "perpetrator_role": "leaders of a charismatic house church (a classmate's family)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s17-e1-something-magical-about-him",
+        "s17-ep6-healer"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "As far as things like mind control and cults and things like that, I was in it. And if they would have said, God wants you to jump off a bridge and kill yourself, I would have said, okay, I have no doubt in my mind that I would have done it.",
+            "source": "s17-e1-something-magical-about-him @ 12:45"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "In some ways the cult itself kind of fizzled out, but they ultimately stopped talking to me, which I had to go through like all these attachment and abandonment things because of that, and went through very, very dark and difficult time.",
+      "outcome_source": "s17-e1-something-magical-about-him @ 14:45",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Grandparents hired a private cult intervention specialist who never reached her ('which didn't work because they couldn't find me', s17-e1 @ 13:45); not coded as an institution. Leslie corroborates the departure (second_witness). The harm is in the content warning ('cults, religious abuse')."
+    },
+    {
+      "person_id": "P06",
+      "name": "Stacey (sister's boyfriend)",
+      "role_in_story": "co_victim",
+      "harm": "Jace's co-parenting aunt; after she uncovered the boyfriend's protective orders he sent her a deniable threat, she suspects he poisoned her dog and urinated on her laptop, he cast her as a jealous 'bitter spinster', and he killed the nephew she co-raised; his family then publicly accused her of the killing.",
+      "perpetrator_role": "her sister's boyfriend",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s17-e1-something-magical-about-him",
+        "s17-e2-be-very-concerned",
+        "s17-e3-living-in-a-nightmare",
+        "s17-e4-pure-evil",
+        "s17-e5-verdict",
+        "s17-ep6-healer"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "I had this information that he was already a child abuser. Why didn't I go get a protective order on Jace's behalf or something like that. But that's the deal with the associate path is they can convince you of anything.",
+            "source": "s17-e2-be-very-concerned @ 41:10"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Tulsa Police Department (patrol, then child crisis detectives)",
+          "initiated_by": "person",
+          "when": "13 June 2010, at the hospital",
+          "what_was_asked": "She stopped departing officers to report her concerns and his history with another child",
+          "what_institution_did": "Officers said they had wondered the same and had detectives interview her first; the detective found her information full of red flags.",
+          "quote": "They say, yeah, we were kind of wondering about that, and we'll have the detectives talk to you as soon as they get here. Then a couple of detectives come, and they talk to me first, and I tell them the situation.",
+          "source": "s17-e3-living-in-a-nightmare @ 11:23",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "institution_statement"
+          ],
+          "what_happened_next": "She took detectives to the house for evidence.",
+          "notes": "Detective: 'She just had a ton of information, had said a lot of things that were really concerning to me' (s17-e3 @ 23:46)."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Children's Justice Center (police multidisciplinary team)",
+          "initiated_by": "institution",
+          "when": "June 2010, before arrest",
+          "what_was_asked": "Pretext call to the boyfriend",
+          "what_institution_did": "Asked Leslie to phone him; could not find a recording device; he did not answer.",
+          "quote": "They couldn't find the recording device to do it with or something. So I was like, well, why don't we just put him on speakerphone and I'll record it with my phone and they were like, okay, great. It was like the least movie, police-steenged operation in the world.",
+          "source": "s17-e3-living-in-a-nightmare @ 33:55",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He was arrested anyway on the warrant.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "prosecutor",
+          "institution": "Tulsa County District Attorney's Office",
+          "initiated_by": "institution",
+          "when": "2010-2012",
+          "what_was_asked": "Family asked for no plea deal",
+          "what_institution_did": "Prosecutors discussed a possible plea; the family refused; the case went to trial and prosecutors were supportive.",
+          "quote": "And he started talking about possibly offering him a plea deal. At that moment, I spoke up and said, no, we don't want any kind of plea deal.",
+          "source": "s17-e3-living-in-a-nightmare @ 46:23",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Trial February 2012; Stacey testified.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "Tulsa County District Court (jury trial)",
+          "initiated_by": "institution",
+          "when": "Feb 2012",
+          "what_was_asked": "Conviction",
+          "what_institution_did": "Guilty verdict; life and $10,000 fine.",
+          "quote": "We the jury, and paneled and sworn in the above titled cause, do upon our oaths, find as follows. The defendant is guilty and fixed punishment at life and a fine of $10,000.",
+          "source": "s17-e5-verdict @ 28:30",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "Sentencing April 2012.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "Tulsa County District Court (sentencing judge)",
+          "initiated_by": "person",
+          "when": "April 2012",
+          "what_was_asked": "To read her victim impact statement",
+          "what_institution_did": "Judge would not allow her written statement to be read (kept it in the record) but let her speak.",
+          "quote": "Leslie and my mom read theirs, but they didn't allow mine or the other little girl's statements to be read, but he did let me speak.",
+          "source": "s17-e5-verdict @ 31:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Life with possibility of parole imposed.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "He appealed twice, got denied, and he was trying all these other angles, and it never worked.",
+      "outcome_source": "s17-e5-verdict @ 44:00",
+      "protection_contributors": [
+        "institution",
+        "family_or_friends"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "he was the only one with Jay's from about 7 p.m. that the night on the 12th until 130 in the morning on the 13th when 911 was called by his own statements. Nobody else was there.",
+      "decisive_work_source": "s17-e4-pure-evil @ 28:58",
+      "time_to_first_effective_action": "same day she reported to police (13 June 2010)",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Her own harms (threat 'I have eyes everywhere' s17-e2 @ 18:39; dog seizures, laptop s17-e2 @ 34:04) were never reported. The conviction removed him, but his family's public accusations continued ('saying that I was the one who killed Jason', s17-e3 @ 45:17) and the nephew was not saved, hence partly_protected. Her therapist advised boundaries with her sister (s17-e2 @ 42:10); not coded because the suspected abuse is not shown being raised there. Defence claimed she, a former protective-services worker, never called DHS (s17-e5 @ 20:22)."
+    },
+    {
+      "person_id": "P07",
+      "name": "Samantha",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "The boyfriend's girlfriend in 2002; he threatened and terrified her and gravely injured her infant daughter; institutions then removed her daughter and charged her with failure to protect while he was never charged.",
+      "perpetrator_role": "her live-in boyfriend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s17-e2-be-very-concerned",
+        "s17-e3-living-in-a-nightmare",
+        "s17-e4-pure-evil",
+        "s17-e5-verdict"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "because when they kept saying that she was hurt like that, I just thought, you're wrong. There's no way. I'm always around her. I've never seen anybody hurt her.",
+            "source": "s17-e4-pure-evil @ 39:19"
+          },
+          {
+            "reason": "fear_of_abuser",
+            "quote": "I blamed myself for what happened to James I was terrified of him and hurt my daughter and the threats and all of the things that he did I wish I had stood up to him so he would have been put away.",
+            "source": "s17-e4-pure-evil @ 3:09"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "child_protection",
+          "institution": "Department of Human Services (Oklahoma)",
+          "initiated_by": "institution",
+          "when": "2002, at the hospital",
+          "what_was_asked": "None (after hospital diagnosis)",
+          "what_institution_did": "Took her daughter into custody; she had to go to court repeatedly for failure to protect and complete a treatment plan.",
+          "quote": "the Department of Human Services quote, had taken her into custody when I took her to the hospital. I had to go to court before she was released from the hospital. I went to court several times for failure to protect. I had to do a treatment plan.",
+          "source": "s17-e4-pure-evil @ 39:19",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "document_read_on_air",
+            "person_account"
+          ],
+          "what_happened_next": "Daughter returned November 2003.",
+          "notes": "Her trial testimony read on air from the transcript."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Payne County Sheriff's Office",
+          "initiated_by": "institution",
+          "when": "2002",
+          "what_was_asked": "Investigation",
+          "what_institution_did": "Interviewed her and the boyfriend at the hospital and sheriff's office and took written statements.",
+          "quote": "The old Hay and the mother were interviewed at the Sheriff's Office, and both of them provided written statements regarding the events of the day.",
+          "source": "s17-e4-pure-evil @ 36:17",
+          "response": "acted_partly",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Case staffed with DA.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "prosecutor",
+          "institution": "Payne County District Attorney's Office",
+          "initiated_by": "institution",
+          "when": "2002",
+          "what_was_asked": "Charges against the abuser",
+          "what_institution_did": "Filed no charges because it could not determine which adult did it.",
+          "quote": "It was staffed with the DA's office, but because they couldn't determine which one did it, no charges were filed.",
+          "source": "s17-e4-pure-evil @ 36:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "document_read_on_air",
+            "institution_statement"
+          ],
+          "what_happened_next": "Abuser uncharged; went on to kill Jace in 2010.",
+          "notes": "Prosecutor's 2012 opening: 'For whatever reason, the Payne County District Attorney's Office did not file charges against the defendant in 2002.' (s17-e4 @ 24:43)."
+        },
+        {
+          "n": 4,
+          "institution_type": "prosecutor",
+          "institution": "prosecution (misdemeanor failure to protect)",
+          "initiated_by": "institution",
+          "when": "2002-2003",
+          "what_was_asked": "None",
+          "what_institution_did": "Charged her with misdemeanor failure to protect; she pled guilty.",
+          "quote": "I will tell you that when he hurt my daughter, I got a misdemeanor charge or failure to protect.",
+          "source": "s17-e4-pure-evil @ 4:11",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "document_read_on_air",
+            "person_account"
+          ],
+          "what_happened_next": "She has a failure-to-protect conviction; the abuser used this to claim she was the abuser.",
+          "notes": "Her email read on air: 'I pled guilty to failure to protect.' (s17-e2 @ 17:35). May overlap with the DHS court proceedings in contact 1."
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "court in the DHS deprived case",
+          "initiated_by": "person",
+          "when": "12 Nov 2003; May 2004",
+          "what_was_asked": "Return of her daughter",
+          "what_institution_did": "Judge allowed the daughter home; case later closed and dismissed.",
+          "quote": "And that following Monday Samantha picked her up. Then in May of 2004, the case was closed and dismissed.",
+          "source": "s17-e4-pure-evil @ 40:23",
+          "response": "unclear",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "She soon left the boyfriend.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "court",
+          "institution": "court (emergency protective order)",
+          "initiated_by": "person",
+          "when": "after she left him (around 2004)",
+          "what_was_asked": "Protection from the boyfriend",
+          "what_institution_did": "Granted an emergency protective order.",
+          "quote": "According to court documents, Samantha soon after left [perpetrator] and after that she sought an emergency protective order which was granted.",
+          "source": "s17-e4-pure-evil @ 40:23",
+          "response": "believed_and_acted",
+          "basis": [
+            "document_read_on_air",
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Final protective order followed.",
+          "notes": "Her email: 'I got the EPO because he beat my daughter' (s17-e2 @ 16:32). The boyfriend told Leslie it was granted only because he missed court (s17-e2 @ 18:39)."
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "court (final protective order)",
+          "initiated_by": "person",
+          "when": "after the EPO",
+          "what_was_asked": "Lasting protection",
+          "what_institution_did": "Granted a final protective order.",
+          "quote": "Then she was granted a final protective order. Eventually Samantha received custody of her daughter again.",
+          "source": "s17-e4-pure-evil @ 40:23",
+          "response": "believed_and_acted",
+          "basis": [
+            "document_read_on_air",
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "In 2012 she testified at his murder trial; her daughter's case was pattern evidence.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "They didn't do anything to him when he beat my daughter, so I am praying that they do it for your nephew.",
+      "outcome_source": "s17-e4-pure-evil @ 2:07",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "According to court documents, Samantha soon after left [perpetrator] and after that she sought an emergency protective order which was granted.",
+      "decisive_work_source": "s17-e4-pure-evil @ 40:23",
+      "time_to_first_effective_action": "protective order after she left him, following the May 2004 close of the DHS case (about two years after the 2002 injury; timing not exact)",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 5,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Pseudonym given by the show. Protective orders granted, but the abuser was never charged for her daughter and she was punished (custody removal, failure-to-protect charge), so partly_protected with harmed_by_institution_ever=true. decisive_work_by the_person is a judgment call (leaving and petitioning for EPO and final PO); could be unclear. 'According to court documents' suggests documents were checked by the show or Leslie, so record_checked_by_show is tentative. She spoke to a reporter after Jace's death ('A news reporter contacted me', s17-e4 @ 3:09)."
+    },
+    {
+      "person_id": "P08",
+      "name": "[unnamed] Samantha's infant daughter",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "At five to six months old in 2002 she suffered abusive head trauma (old and new subdural bleeds, retinal hemorrhages, skull damage, bruising to face and ears) in the boyfriend's care; she was life-flighted, 'died three times' on the way and needed two brain surgeries; she survived.",
+      "perpetrator_role": "her mother's live-in boyfriend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s17-e2-be-very-concerned",
+        "s17-e3-living-in-a-nightmare",
+        "s17-e4-pure-evil",
+        "s17-e5-verdict"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "local hospital, then OU Children's Hospital, Oklahoma City",
+          "initiated_by": "family_or_friends",
+          "when": "2002",
+          "what_was_asked": "Emergency care (neighbor drove mother and baby)",
+          "what_institution_did": "Treated her, life-flighted her, performed brain surgery and diagnosed abusive head trauma.",
+          "quote": "They had officially diagnosed her with abusive head trauma.",
+          "source": "s17-e4-pure-evil @ 41:26",
+          "response": "believed_and_acted",
+          "basis": [
+            "document_read_on_air",
+            "second_witness"
+          ],
+          "what_happened_next": "DHS took custody.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "child_protection",
+          "institution": "Department of Human Services (Oklahoma)",
+          "initiated_by": "institution",
+          "when": "2002",
+          "what_was_asked": "None",
+          "what_institution_did": "Took her into protective custody from the hospital.",
+          "quote": "the Department of Human Services quote, had taken her into custody when I took her to the hospital. I had to go to court before she was released from the hospital.",
+          "source": "s17-e4-pure-evil @ 39:19",
+          "response": "believed_and_acted",
+          "basis": [
+            "document_read_on_air",
+            "person_account"
+          ],
+          "what_happened_next": "Returned home November 2003.",
+          "notes": "Custody kept her away from the abuser; whether her mother was still with him when she was returned in November 2003 is not stated (mother left him after the case closed in May 2004)."
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "Payne County Sheriff's Office",
+          "initiated_by": "institution",
+          "when": "2002",
+          "what_was_asked": "Investigation",
+          "what_institution_did": "Interviewed both adults; took statements.",
+          "quote": "The old Hay and the mother were interviewed at the Sheriff's Office, and both of them provided written statements regarding the events of the day.",
+          "source": "s17-e4-pure-evil @ 36:17",
+          "response": "acted_partly",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "No charges.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "prosecutor",
+          "institution": "Payne County District Attorney's Office",
+          "initiated_by": "institution",
+          "when": "2002",
+          "what_was_asked": "Charges",
+          "what_institution_did": "No charges filed against the abuser.",
+          "quote": "It was staffed with the DA's office, but because they couldn't determine which one did it, no charges were filed.",
+          "source": "s17-e4-pure-evil @ 36:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "document_read_on_air",
+            "institution_statement"
+          ],
+          "what_happened_next": "Abuser free; killed Jace in 2010.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "court in the DHS deprived case",
+          "initiated_by": "institution",
+          "when": "12 Nov 2003; May 2004",
+          "what_was_asked": "None",
+          "what_institution_did": "Allowed her to go home; case closed and dismissed.",
+          "quote": "And that following Monday Samantha picked her up. Then in May of 2004, the case was closed and dismissed.",
+          "source": "s17-e4-pure-evil @ 40:23",
+          "response": "unclear",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Mother left the boyfriend and obtained protective orders.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "prosecutor",
+          "institution": "Tulsa County District Attorney's Office",
+          "initiated_by": "institution",
+          "when": "2010-2012",
+          "what_was_asked": "None",
+          "what_institution_did": "Obtained police and DHS records of her injuries and used them as pattern evidence in the Jace trial; no charges for her injuries.",
+          "quote": "I was able to get the police reports and the the HHS reports. That's our child protective services here in Oklahoma. I saw pictures of that child's injuries and I could literally do a side by side.",
+          "source": "s17-e3-living-in-a-nightmare @ 40:12",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement",
+            "court_outcome"
+          ],
+          "what_happened_next": "Admitted at trial for limited purposes; contributed to conviction for Jace.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "Tulsa County District Court (sentencing judge)",
+          "initiated_by": "institution",
+          "when": "April 2012",
+          "what_was_asked": "Her victim impact statement",
+          "what_institution_did": "Accepted her written statement into the record but would not allow it to be read.",
+          "quote": "They had even asked the little girl that [perpetrator] had heard before to write a statement. He said that they would all be a part of the court record, but that he was not going to allow them to be read in court.",
+          "source": "s17-e5-verdict @ 31:35",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "They didn't do anything to him when he beat my daughter, so I am praying that they do it for your nephew.",
+      "outcome_source": "s17-e4-pure-evil @ 2:07",
+      "protection_contributors": [
+        "institution",
+        "family_or_friends"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "the Department of Human Services quote, had taken her into custody when I took her to the hospital.",
+      "decisive_work_source": "s17-e4-pure-evil @ 39:19",
+      "time_to_first_effective_action": "immediately on hospital admission (2002)",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Survived; made safe by removal and later by her mother leaving and obtaining protective orders, but the abuser was never charged for her injuries (perpetrator_convicted 'no' refers to her harm; he was convicted of Jace's murder). The ADA's side-by-side comparison of her and Jace's injuries was central to his conviction. The 'old and new subdural bleed' (s17-e4-pure-evil @ 41:26) indicates earlier injury, so harm ongoing at first contact."
+    },
+    {
+      "person_id": "P09",
+      "name": "[unnamed] Samantha's sister",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "The boyfriend slammed her into a cement wall.",
+      "perpetrator_role": "her sister's boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s17-e2-be-very-concerned"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "court (protective order)",
+          "initiated_by": "person",
+          "when": "not stated (around 2002-2004)",
+          "what_was_asked": "Protective order",
+          "what_institution_did": "A protective order was issued against him.",
+          "quote": "My sister has a protective order on him too because he slammed her into a cement wall.",
+          "source": "s17-e2-be-very-concerned @ 17:35",
+          "response": "believed_and_acted",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Not stated.",
+          "notes": "Known only from Samantha's email read on air by Stacey."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "My sister has a protective order on him too because he slammed her into a cement wall.",
+      "outcome_source": "s17-e2-be-very-concerned @ 17:35",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "My sister has a protective order on him too because he slammed her into a cement wall.",
+      "decisive_work_source": "s17-e2-be-very-concerned @ 17:35",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Thin record: one sentence. Outcome 'protected' only because the order was granted and nothing later is said; could equally be left as others_mentioned. The prosecutor's closing 'He blamed both sisters' (s17-e5 @ 23:24) appears to be a transcription of 'both moms'."
+    },
+    {
+      "person_id": "P10",
+      "name": "[unnamed] the boyfriend's ex-fiancee (before Leslie)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Shortly before and during his relationship with Leslie, threatening messages were sent to her from his phone and she said he would not leave her alone; she obtained a protective order.",
+      "perpetrator_role": "her ex-partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s17-e2-be-very-concerned"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "court (protective order hearing, spring 2010)",
+          "initiated_by": "person",
+          "when": "spring 2010",
+          "what_was_asked": "Protective order against threatening messages",
+          "what_institution_did": "After a hearing at which the evidence showed the threats came from his phone, the court granted the protective orders (he had filed a cross order).",
+          "quote": "There was no one testifying on behalf of him. The evidence was pretty damning. The threats did come from his phone.",
+          "source": "s17-e2-be-very-concerned @ 20:39",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "He blamed his (non-existent) brother.",
+          "notes": "Leslie attended the hearing with him: 'The protective orders were granted' (s17-e2 @ 21:41)."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "The protective orders were granted, low and behold, that night he had an explanation for it all.",
+      "outcome_source": "s17-e2-be-very-concerned @ 21:41",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "The protective orders were granted, low and behold, that night he had an explanation for it all.",
+      "decisive_work_source": "s17-e2-be-very-concerned @ 21:41",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Known only through Leslie's account (and his denials). 'Next thing you know, his ex and her friend have now filed protective orders against him' (s17-e2 @ 19:39). Samantha's email mentions 'his latest ex who was getting one on him' (s17-e2 @ 16:32), probably the same woman. Whether these orders are among the four Stacey found is unclear. Outcome protected is tentative: nothing is said afterwards."
+    },
+    {
+      "person_id": "P11",
+      "name": "[unnamed] friend of the boyfriend's ex-fiancee",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Threatening messages were sent to her (with his ex) from his phone; she obtained a protective order.",
+      "perpetrator_role": "her friend's ex-partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s17-e2-be-very-concerned"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "court (protective order hearing, spring 2010)",
+          "initiated_by": "person",
+          "when": "spring 2010",
+          "what_was_asked": "Protective order against threatening messages",
+          "what_institution_did": "After a hearing at which the evidence showed the threats came from his phone, the court granted the protective orders (he had filed a cross order).",
+          "quote": "There was no one testifying on behalf of him. The evidence was pretty damning. The threats did come from his phone.",
+          "source": "s17-e2-be-very-concerned @ 20:39",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "He blamed his (non-existent) brother.",
+          "notes": "Leslie attended the hearing with him: 'The protective orders were granted' (s17-e2 @ 21:41)."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "The protective orders were granted, low and behold, that night he had an explanation for it all.",
+      "outcome_source": "s17-e2-be-very-concerned @ 21:41",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "The protective orders were granted, low and behold, that night he had an explanation for it all.",
+      "decisive_work_source": "s17-e2-be-very-concerned @ 21:41",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Known only through Leslie's account (and his denials). 'Next thing you know, his ex and her friend have now filed protective orders against him' (s17-e2 @ 19:39). Samantha's email mentions 'his latest ex who was getting one on him' (s17-e2 @ 16:32), probably the same woman. Whether these orders are among the four Stacey found is unclear. Outcome protected is tentative: nothing is said afterwards."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "other people injured in the restaurant shooting in which Stacey was shot (customers and employees)",
+      "count_stated": 5,
+      "reached_institution": "yes",
+      "quote": "Six people were injured and he is now serving six life sentences in prison.",
+      "source": "s17-e1-something-magical-about-him @ 7:22"
+    },
+    {
+      "description": "women who obtained protective orders against the boyfriend (overlaps with Samantha, her sister and the 2010 ex; exact set unclear)",
+      "count_stated": 4,
+      "reached_institution": "yes",
+      "quote": "And there had been, I think at least three, maybe even four women that had filed protective orders against him.",
+      "source": "s17-e3-living-in-a-nightmare @ 39:09"
+    },
+    {
+      "description": "women he kept in a notebook, befriending them and noting their salaries",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "supposed viral notebook with all these women, he was befriending and their salaries and I don't know what kind of wacko stalking methods he had",
+      "source": "s17-ep6-healer @ 32:06"
+    },
+    {
+      "description": "a woman whose son was abused, per the boyfriend's explanation of one protective order (possibly a distorted account of Samantha)",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "another one is a situation where this Girl abused her son and then she blamed [perpetrator] But he didn't do it",
+      "source": "s17-e2-be-very-concerned @ 15:30"
+    }
+  ],
+  "coder_notes": "Season 17 (Something Was Wrong): Leslie, her adopted son Jace (murdered June 2010 by Leslie's boyfriend), and her sister Stacey; plus the boyfriend's earlier victims (Samantha and her infant daughter, Samantha's sister, a 2010 ex and her friend). The final chunk ends with a generic 'Data Points: Child Abuse' episode with statistics only and no person stories. I read unassigned/INDEX.txt; no listed episode appeared to continue or discuss the S17 story (all are generic data-point or unrelated episodes), so I opened none. The perpetrator's name is replaced with [perpetrator] in quotes. Main judgment calls: Leslie's outcome (partly_protected) and harmed_by_institution_ever (DHS hospital exclusion; prosecutor's closing blame); whether Jace (birth mother) and the thin protective-order records (P09-P11) should be persons or others_mentioned; Stacey's three records split by perpetrator. Leslie's adolescent anorexia and Leslie being left behind when Stacey joined the cult are not coded because they have no perpetrator. Reading was interrupted twice by usage limits and resumed from the notes file; every file was read to its last line."
+}
