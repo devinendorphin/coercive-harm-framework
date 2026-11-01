@@ -48,3 +48,18 @@ power audit in `README.md`, A1–A2).
 
 The naming rules (standing note S-21) and the both-victims lens are Endorphin's standing
 rules and are unchanged.
+
+## Lean log, whole-story session (2026-11-01, later)
+
+Entries are added when the analyst notices its own work leaning toward the institution's side.
+
+1. **The outcome wording I drafted let a death count as partial protection.** The coding
+   instructions said that where harm had already ended, a conviction could count as protection,
+   and gave no rule for a person who died. In the S17 pilot one coder used that gap to code a
+   murdered three-year-old as "partly protected" because his killer was later convicted. The
+   pre-registration's own definition ("institutional action stopped the harm or made the person
+   safe") never allowed that. Fixed before the full run (deviation D1.2), and S17 was recoded. The
+   gap was in my wording, not the coder's judgment.
+2. **Two process slips, not leans, recorded for completeness:** the pilot coders missed the last
+   line of every file because of how I built the files (D1.1); and my first framing draw counted a
+   summary line as a season (D2). Both were caught and redone before they affected any result.
