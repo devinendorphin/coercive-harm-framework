@@ -116,3 +116,14 @@ S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
   uncharged are never named, even where the show names them. Name only the convicted, the
   public record and institutions. This applies to `media/sww-reels/` and anything else
   published from this repo.
+- **S-22 (NEW, Endorphin 2026-11-01).** **Machine scoring only; no human scorers.** In
+  Endorphin's words: "the Human institution and the human individual are both highly
+  vulnerable to the bad faith aspects of language and how it's used to make invisible these
+  things these processes." The check on machine coders is a machine framing test.
+- **S-23 (NEW, Endorphin 2026-11-01).** **No shortcuts.** "Notice how your attempts at
+  shortcutting enable the abuses of power to run rampant." Code from full transcripts, one
+  whole story at a time; summaries, notes and keyword counts may help find material but never
+  substitute for reading it. Count the people who never reached an institution. Grade evidence
+  by corroboration, not by who wrote it. Plain language first. See
+  `research/sww-corpus/SELF-AUDIT-2026-11-01.md`.
+
