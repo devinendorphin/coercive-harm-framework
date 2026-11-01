@@ -34,3 +34,10 @@ gap the pilot exposed:
 Nothing in the predictions, thresholds, outcome categories or analysis rules changed. **S17 is
 recoded by two fresh neutral coders with the final instructions**; the pilot codes are kept in
 `../results/whole_story/pilot/` and are not used in any result.
+
+## D2 — 2026-11-01, framing draw re-run (no coding affected)
+
+The first run of the seeded draw read the index file's summary line as a 27th "season" (387),
+so its population broke the committed rule. It was discarded and re-run once on seasons 1–26
+with the same seed. Both outputs are in `../results/whole_story/framing_draw.txt`. No framing
+coder had started.
