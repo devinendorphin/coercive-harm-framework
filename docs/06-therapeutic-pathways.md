@@ -96,6 +96,11 @@ confrontational — where the evidence trend points) but its efficacy *for this
 population and this harm* is `[HYPOTHESIS]` with a discouraging base rate. Honest
 framing: **"least-bad and correctly oriented," not "effective."**
 
+**Liberty review, 2026-11-01 (doc 07 R2-6): `CLEARED-WITH-AMENDMENTS`.** Treatment attached to
+a sentence or order is a **sanction** justified by adjudicated conduct, never labelled "help";
+the choice among modalities stays with the person; **no compelled confession or admission
+script is a progress metric** (SWW S24 E12). Informing and referring are not overrides.
+
 ## Relevant passages from the seed
 
 - **Self-directed constraint** (~L118): "the therapeutics that are required...

@@ -105,6 +105,11 @@ Each is a conduct pattern, tagged; definitions live in doc 00.
    `[HYPOTHESIS]` as a *reliable diagnostic* (content of accusation reverse-mapping to
    the accuser's own conduct). *Observable form:* on being confronted, denies + attacks
    the confronter + claims the victim role.
+   **Scoring constraint (doc 07 R2-2, 2026-11-01):** score this item **only** where the
+   reversal content is independently shown false, or the "attack" is documented retaliatory
+   conduct (a counter-filing, a smear to the target's network, an employment attack) —
+   **never on protest speech alone.** An innocent person protesting a false accusation
+   produces the same surface form.
 2. **Truth-inversion** as default operating mode — `[HYPOTHESIS]`. *Corpus instances
    (SWW S10–S14; CODEBOOK 3e):* an adopted **inverse persona** whose content runs opposite to the
    concealed conduct ("I protect women at all costs" → violence; consent-literate → covert
