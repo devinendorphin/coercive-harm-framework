@@ -1,14 +1,12 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-11-01, session `sww-reels`. The 2026-10-04
-work (SWW corpus test, S1–S15 close-read, S16–S24 research) was never session-logged; it
-is summarised here from the files now merged to `main`.*
+this first (via CLAUDE.md). Last updated: 2026-11-01, session `sww-abc` (branch
+`ccr-c49788dd-8fejpj`, not yet merged to `main`).*
 
-**Read-first: `docs/09-synthesis.md`** (calibrated whole) then **`docs/10-power-critique.md`**
-(the framework audited for sycophancy to power). For the *Something Was Wrong* work, start
-at `research/sww-corpus/close-read/CROSS-SEASON.md` (S1–S15) and
-`research/something-was-wrong-s17-s24.md` (S16–S24; S16 has its own file).
+**Read-first: `docs/09-synthesis.md`** then **`docs/10-power-critique.md`**. For the
+*Something Was Wrong* work: `research/sww-corpus/close-read/CROSS-SEASON.md` (tally through
+S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
 
 ---
 
@@ -17,43 +15,37 @@ at `research/sww-corpus/close-read/CROSS-SEASON.md` (S1–S15) and
 | Doc / area | State |
 |---|---|
 | 00-glossary | seeded |
-| 01-problem-statement | active; **candidate gaps 6 (crisis response routed to armed enforcement) and 7 (investigative burden-shifting; virality as trigger)** added 2026-10-04 |
-| 02-behavioral-taxonomy | ACTIVE; **entry 8, care-framed autonomy override** (operator, conceded); cluster coherence still HYPOTHESIS |
-| 03-legal-framework | ACTIVE; fraud prong still BLOCKED. S9 "Arty" is the hard identity case for it (CAN ≠ enthusiastic consent: CODEBOOK 5a) |
-| 04-evidentiary-standards | ACTIVE; SWW expert roster resolved; S16 research items (pre-interview coaching; pattern vs propensity) |
-| 05 / 06 | ACTIVE; X1 (licensing is the slowest lever) and X7 (override = harm) bear on both; **flagged for `/liberty-review`** |
-| 07 | needs X3/X12 rules: both false-accusation channels named; no rubric element met by denial alone or defeated by recantation alone |
-| 08 | 30 objections; OBJ-030 OPEN (nominee fronts → slowest institutions) |
-| 09 / 10 | ACTIVE; apex-power gap (OBJ-027) now has a recorded instance: S16 F1 |
-| SWW corpus | **S1–S15 cycle-coded (46 target-cases); S16 + S20–S24 read in full; S17–S19 excerpts only.** Codebook amendments 1–5 |
-| `media/sww-reels/` | 35-reel Instagram series re-voicing all of the above; rebuild pipeline committed, video not |
+| 01-problem-statement | active; candidate gaps 6 and 7 |
+| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint added (liberty review); cluster coherence HYPOTHESIS |
+| 03-legal-framework | ACTIVE; fraud prong BLOCKED (S9 and S20 are the identity cases) |
+| 04-evidentiary-standards | ACTIVE; **C2 refuted in the corpus** recorded; untested-record rule needed (S19 div. 12) |
+| 05 / 06 | ACTIVE; liberty-reviewed (X7); doc 05 §1.3 rewritten |
+| 07 | ACTIVE; X3/X7/X10/X12/X17 verdicts in; **needs *Counterman* (2023) on prong 5** |
+| 08 | 31 objections; **OBJ-031 CONCEDED for this corpus**; OBJ-030 OPEN |
+| 09 / 10 | ACTIVE; doc 10 Finding B annotated with the power-vector result |
+| SWW corpus | **S1–S24 coded: 56 counted cycle target-cases**; S17–S19 read in full; S16, S20–S24 coded from notes; power-vector test run |
 
 ## Top 3 priorities for next session
 
-1. **Apply the SWW findings to docs 07 and 05/06 through `/liberty-review`.**
-   - doc 07: X3 (name both false-accusation channels), X12 (the denial/recantation rule),
-     X17 (one justification test for deception, whoever deceives), X10 (labels from the
-     party with power are evidence about that party).
-   - docs 05/06: X7's justification test for role restrictions.
-   - *Reason:* these are concrete safeguards the corpus produced, and they are not yet in
-     the docs.
-2. **Close the SWW method seam.** Either cycle-code S16–S24 under the codebook so the
-   tally covers 24 seasons, or state in CROSS-SEASON that it never will. Do the full read
-   of S17–S19 either way. *Reason:* the reels already say the seam exists. The research
-   should resolve it rather than leave it to the narration.
-3. **Run the pre-registered power-vector test** (`research/sww-corpus/preregistration-power-vector.md`)
-   with a blind coder, including the update/aftermath episodes. *Reason:* the C2
-   "fractal" claim is still "not adequately tested", and the analyst has seen the rates.
+1. **Decide how the thesis absorbs OBJ-031.** *Reason:* the corpus no longer supports
+   "institutions mostly neutralize"; docs 09 and the case-file template should say
+   "present and nameable, worst in identifiable settings (S23, S24)" if Endorphin agrees.
+2. **Doc 07: add *Counterman v. Colorado* (2023) to prong 5, and a rule for untested
+   records** (police files kept without prosecution; S19 div. 12; S22's propensity case).
+   *Reason:* both came out of the coding and touch live mechanisms.
+3. **Merge the branch to `main`, then fix the counting-rule inconsistency** in
+   CROSS-SEASON (one rule for all 24 seasons). *Reason:* nine commits sit on the branch, and
+   the tally mixes two rules.
 
 ## Open decisions awaiting Endorphin
 
-- Fraud prong (§4 consent): narrowed to enumerated material facts? Does "identity" include
-  a fabricated self (S9 "Arty")?
+- How the thesis states C2 after OBJ-031.
+- Counting rule: count parent–child cases or not, for all seasons.
+- Fraud prong (§4): narrowed to enumerated material facts? Does "identity" include a
+  fabricated self (S9 "Arty", S20 "Brody")?
 - Psychological homicide (§3): Carter-narrow, or a non-enactment aspiration?
 - Base no-harm coercive-endangerment offense: criminal, or civil-only (OBJ-021)?
-- X17's deception rule, and mapping the WWASP founder's letter onto the ledger's six moves
-  (X11): both flagged "for Endorphin's eye".
-- **Whether, and how, to post the reels.** See the session log on S20 and exposure.
+- Whether, and how, to post the reels.
 - The CLAUDE.md session-workflow amendment proposed in `2026-11-01-sww-reels.md`.
 
 ## Standing notes (persist across regenerations — never delete without instruction)
