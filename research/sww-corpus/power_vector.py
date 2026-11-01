@@ -33,8 +33,16 @@ NEUTRALIZING = CATS[:5]
 POWER = ["DOWN-INST", "DOWN-DOM", "INTIMATE", "LATERAL", "MIXED"]
 
 def episodes(d):
+    # The site lists most episodes twice (two machine transcriptions). Keep one per episode:
+    # key = slug without its "sN-eM[-k]-" prefix; keep the longer text (same rule as the close-read).
+    best = {}
     for f in sorted(glob.glob(f"{d}/*.json")):
         e = json.load(open(f))
+        k = re.sub(r"^s\d+-e?p?\d+(-\d+)?-", "", e["slug"])
+        if k not in best or len(e.get("text", "")) > len(best[k].get("text", "")):
+            best[k] = e
+    for k in sorted(best):
+        e = best[k]
         m = re.match(r"s(\d+)-?ep?(\d+)?", e["slug"])
         yield e, (int(m.group(1)) if m else None), (int(m.group(2)) if m and m.group(2) else None)
 

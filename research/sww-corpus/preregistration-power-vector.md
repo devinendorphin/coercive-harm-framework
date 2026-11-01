@@ -92,3 +92,15 @@ precision-audit rule for every prediction.
 - **Precision audit (standing rule):** the omnipotence lexicon (P1) and the
   institutional-failure lexicon (P2) each get the same 20-hit reading audit that isolation,
   reversal and institutional failure received in the first study. Omnipotence was never audited.
+
+## Deviations (logged before the packet or the sample was drawn)
+
+- **2026-11-01, de-duplication.** The fetched corpus holds two machine transcriptions of 262
+  of its 417 episodes. `episodes()` as first committed iterated every file, so the Part 1
+  packet could show one episode twice where it should show two, and Part 2 would give
+  double-transcribed episodes twice the chance of being drawn and could draw one passage
+  twice. `episodes()` now keeps one transcription per episode (key: the slug without its
+  `sN-eM-` prefix; the longer text is kept), the rule the close-read already used. This
+  implements "the first two narrative episodes" and "200 segments drawn at random from all
+  episodes" as written; no definition, category, threshold or test changed. Nothing had been
+  drawn or coded when it was made.
