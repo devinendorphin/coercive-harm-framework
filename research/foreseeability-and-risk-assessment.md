@@ -97,6 +97,10 @@ describing the *same tactics* producing the *same effects*. Role in the argument
   Durvasula (seed L203) is the archetype; confirm actual SWW expert roster in a
   follow-up. *Done 2026-10-04 — roster in doc 04 "Research needed"; Durvasula does not
   appear. The convergence claim itself was tested quantitatively: `sww-corpus/README.md`.*
+- **2026-10-04:** S16 (the host's own case) was read in full; it has no expert guests.
+  It adds primary-record calibration: where the narrator's account can be checked against
+  the court record, it matches. It also sharpens the selection caveat. See
+  `research/something-was-wrong-s16.md`.
 
 ## Net recommendation for docs 03 + 04
 
