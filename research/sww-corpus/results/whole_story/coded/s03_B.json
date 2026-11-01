@@ -1,0 +1,425 @@
+{
+  "season": 3,
+  "coder": "B",
+  "reading_log": [
+    {
+      "file": "s03_01.txt",
+      "last_line_number": 115,
+      "read_in_full": true,
+      "problems": "Line 27 (s3-e1 @ 22:53) has a long transcription loop ('my mother and...') replacing some speech; several outro song-lyric loops."
+    },
+    {
+      "file": "s03_02.txt",
+      "last_line_number": 113,
+      "read_in_full": true,
+      "problems": "Song-lyric loops in outros only."
+    },
+    {
+      "file": "s03_03.txt",
+      "last_line_number": 105,
+      "read_in_full": true,
+      "problems": "Song-lyric loops in outros only. A usage-limit interruption came after line 87; I resumed and read lines 88-105."
+    },
+    {
+      "file": "s03_04.txt",
+      "last_line_number": 98,
+      "read_in_full": true,
+      "problems": "Song-lyric loops in outros only. A usage-limit interruption came after this file; nothing was skipped."
+    },
+    {
+      "file": "s03_05.txt",
+      "last_line_number": 72,
+      "read_in_full": true,
+      "problems": "Song-lyric loops in outros only."
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "INDEX.txt",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Required list; no entry names the Season 3 (Bishop family) story."
+    },
+    {
+      "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Season 3 is framed as narcissistic abuse, so this episode might discuss it. It turned out to be generic educational content with no reference to Season 3 people."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Victoria",
+      "role_in_story": "central_survivor",
+      "harm": "Over roughly a decade her husband (who was in a long-running secret affair with her best friend) and the best friend jointly gaslit and emotionally abused her: constantly calling her a liar and 'crazy', telling her she needed fixing, feeding her confidences between them, and isolating her from her son, daughter-in-law and extended family. She became suicidal at one point. It ended when her husband died by suicide in March (2018).",
+      "perpetrator_role": "her husband and her best friend, acting together (the friend and the husband were in a secret affair)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s3-e1-she-has-a-problem-with-lying",
+        "s3-e2-their-little-counselor",
+        "s3-ep3-nobodys-getting-in-my-head",
+        "s3-e4-it-comes-through-like-a-freaking-bomb",
+        "s3-e5-shes-a-lying-cheating-bitch",
+        "s3-e6-a-psychopathic-narcissist",
+        "s3-e7-walking-into-the-belly-of-the-beast",
+        "s3-e8-a-mountain-of-black-white-proof-qa",
+        "s3-e9-absolute-evil"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I started questioning everything I did, everything I said. And my husband then said, I think you need help. You know, he says, I think you're cracking up.",
+            "source": "s3-e1-she-has-a-problem-with-lying @ 15:37"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "In my process, I lost who I was because I believed everything that these people were telling me and that was my husband and I thought was my best friend.",
+            "source": "s3-e8-a-mountain-of-black-white-proof-qa @ 7:28"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "first counselor",
+          "initiated_by": "person",
+          "when": "years before the husband's death, while the abuse was ongoing",
+          "what_was_asked": "Help because she felt she was 'going crazy'; husband and best friend were telling her she had issues and needed to get checked out.",
+          "what_institution_did": "Did testing on her and saw her for a couple of years; the story does not show the counselor identifying or addressing the husband's/friend's conduct, and Victoria felt it did not help.",
+          "quote": "I started seeing a counselor and she did all this testing to make sure, you know, because I even said, I said, I feel like I'm going crazy. ... I saw a counselor for a couple of years and then I broke off from her because I thought oh I'm doing better and even though our marriage wasn't better and our friendship was okay but it just got to the point where I didn't think [perpetrator] could do anything wrong because everything she seemed like she was protecting me or she was advising me or you need to try this, you need to do this. Maybe go on a date, maybe try this. So after a little while I started seeing another counselor because the other, the first counselor, I just didn't feel was helping me.",
+          "source": "s3-e1-she-has-a-problem-with-lying @ 26:13",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She stopped, then started with a second counselor.",
+          "notes": "Two non-contiguous passages joined with ' ... ' (both from the same answer, s3-e1-she-has-a-problem-with-lying @ 26:13 and s3-e1-she-has-a-problem-with-lying @ 27:15). Testing her own sanity could be read as treating her condition as the problem, but the story does not show the counselor dismissing her, so coded unclear."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "second counselor",
+          "initiated_by": "person",
+          "when": "before the husband's death; ongoing for years",
+          "what_was_asked": "Counseling; she described the relationship between herself, her husband and her best friend.",
+          "what_institution_did": "Repeatedly told her she was not crazy, challenged the 'weird triangle', brought the best friend in for a session in which the friend could give no examples of Victoria's 'lies', told Victoria the arrangement was unhealthy and the friend should stop discussing her marriage with the husband, and repeatedly asked to see the husband (he refused).",
+          "quote": "And she just kept reaffirming to me that I wasn't crazy. And, you know, I would tell her about our friendship, mine, [perpetrator]'s, and [perpetrator]'s. And she always said to me, she's like, you know, I don't understand your relationship here. She says, that's a weird triangle that you have going on here. Why are you listening to the two then and not you just taking the initiative with [perpetrator]? And I says, well, [perpetrator]'s my best friend. She is, you know, looking out for me. And as she says, is she?",
+          "source": "s3-e1-she-has-a-problem-with-lying @ 27:15",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "The friend told Victoria to find another counselor; the husband refused to attend ('nobody's getting in my head ... This is about you getting fixed'); the abuse and affair continued until his death.",
+          "notes": "Further passage: 'The following week when I went my counselor said had said, yeah, she is very different and this is a very weird weird arrangement and I don't think it's healthy. And I don't think [perpetrator] should be talking to [perpetrator] anymore about your relationship.' (s3-e2-their-little-counselor @ 18:56). CJ also describes the counselor inviting the friend in (s3-e2-their-little-counselor @ 16:49), probably relayed from Victoria. Validation and a session with the friend are concrete steps, but the hidden affair/abuse was not uncovered and harm continued."
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "city police / city detective",
+          "initiated_by": "family_or_friends",
+          "when": "the day after the husband's burial (March, after his suicide)",
+          "what_was_asked": "Victoria's sister-in-law reported what the family had learned (the 12-year affair and the friend's role) and the family wanted it investigated, including whether the friend triggered the suicide.",
+          "what_institution_did": "Investigated for many weeks, questioned the friend twice and obtained her admission of the affair, recorded it in a police report, and recommended the family send a no-contact message warning of further/legal action. No charge; the last two phone calls' records could not be obtained without a warrant.",
+          "quote": "We notified the police of what we had found out and the police had told us that they will investigate it. The police were involved for many weeks and did investigate her. And she was brought in a questioning twice and fully admitted to the affair.",
+          "source": "s3-e5-shes-a-lying-cheating-bitch @ 29:20",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "The family sent the no-contact text on the detective's advice; the friend and her husband never replied or made contact again. No further legal action.",
+          "notes": "Detective recommendation: 'The city detective, his recommendation was to send out like an email or a text message. It's just like a verbal statement of, you're no longer to have contact with this family. And I think the people that were included on that were pat [perpetrator], her husband, my mother-in-law, and my husband Brad. So that text message was sent. It was obviously delivered to, like I said, both [perpetrator] and her husband, saying, like, you're not to have any contact, don't show up at the house. Like, if you do, you know, further action will be taken. But that is what the detective had recommended.' (s3-e5-shes-a-lying-cheating-bitch @ 28:20). The sister-in-law also sent emails to the detective (s3-e9-absolute-evil @ 66:41). Excluded as contacts: the 911/police response to the death and the detective's interview of Victoria the day after (she denied any affair; the abuse was not raised), a CAT scan for feared dementia (s3-e6-a-psychopathic-narcissist @ 29:09), and Verizon (phone company) refusing records without a warrant."
+        },
+        {
+          "n": 4,
+          "institution_type": "medical_or_therapy",
+          "institution": "trauma counselor (alongside her regular counselors)",
+          "initiated_by": "family_or_friends",
+          "when": "after the funeral",
+          "what_was_asked": "Help with the trauma; she told her story.",
+          "what_institution_did": "Treated her and validated her account, describing the friend as a 'psychopathic narcissist' who was tearing the family apart for sport.",
+          "quote": "my children convinced me to actually see a trauma counselor on top of my regular counselors. So at one point, after [perpetrator] had passed, I was seeing two counselors. And after I told my story to the trauma counselor, because I was having a lot of issues with going back to my house, going opening that door, you know, all of those things from the trauma from it. And the one thing that will stick in my head probably forever is she described [perpetrator] as a psychopathic narcissist.",
+          "source": "s3-e6-a-psychopathic-narcissist @ 28:02",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She continues counseling.",
+          "notes": "Her children persuaded her to go."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I have watched Victoria absolutely come to life again. She walked into my house here. It's been, I don't know, it's been months ago. I can't give you a fact that she walked in. She was smiling. I looked at her and I thought, oh my God, she's going to be okay. She was happy. She was living life. She was enjoying life. She was doing what she wanted, when she wanted, how she wanted, and [perpetrator] wasn't at home telling her, you can't do that. I don't like how you're doing that. You're not doing that right. You're crazy. You're insane. You do the counselor. That all ended. That all ended. It was like the bond that the two of them had on her was cut. And all of a sudden, she realized like, I can breathe again.",
+      "outcome_source": "s3-e9-absolute-evil @ 67:47",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The abuse by the husband ended with his suicide, not with any institutional action; police acted only after his death and without charges, so not_protected under the rule that harm ended by something other than an institution is not protection. The friend's access was cut by the family (no-contact text recommended by the detective), which could be read as partial protection; I did not code it so because the family sent it and the harm had already ended. One record covers both perpetrators because the show presents them as acting together. Texts, recovered emails and the police report are described but not read on air."
+    },
+    {
+      "person_id": "P02",
+      "name": "CJ",
+      "role_in_story": "co_victim",
+      "harm": "Her mother-in-law's best friend spent years triangulating her against her in-laws with false reports of what they said, and turned her father-in-law against her (he abruptly stopped speaking to her and called her 'the root cause of all of this'), estranging her and her husband from his parents.",
+      "perpetrator_role": "her mother-in-law's best friend (with her father-in-law acting under the friend's influence)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s3-e1-she-has-a-problem-with-lying",
+        "s3-e2-their-little-counselor",
+        "s3-ep3-nobodys-getting-in-my-head",
+        "s3-e4-it-comes-through-like-a-freaking-bomb",
+        "s3-e5-shes-a-lying-cheating-bitch",
+        "s3-e6-a-psychopathic-narcissist",
+        "s3-e7-walking-into-the-belly-of-the-beast",
+        "s3-e8-a-mountain-of-black-white-proof-qa",
+        "s3-e9-absolute-evil"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I just couldn't put my finger on it and I downplayed it for so long until I heard this podcast and was informed that these things have a name and it's called Narcissistic Abuse and unfortunately I found out about it after my father and law was already gone.",
+            "source": "s3-e8-a-mountain-of-black-white-proof-qa @ 30:55"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "it's not that we went no contact, but I did not have a friendship with her after that. She was not allowed in my life.",
+      "outcome_source": "s3-e4-it-comes-through-like-a-freaking-bomb @ 10:13",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "CJ herself ended most contact with the friend after a Facebook incident in spring 2016. After the father-in-law's death the family reported the affair to police (see P01), and the detective's no-contact recommendation covered 'this family'. The story does not show CJ's own harm being reported, so coded no. She says she saved the friend's texts/emails, but they are only paraphrased."
+    },
+    {
+      "person_id": "P03",
+      "name": "Brad",
+      "role_in_story": "co_victim",
+      "harm": "His father, under the influence of his secret affair partner (the family friend), cut him off for about five years: stopped talking to him, excluded him from holidays and their yearly hunting trips, and turned against his wife. His father then died by suicide without any reconciliation.",
+      "perpetrator_role": "his father and his parents' best friend (his father's affair partner)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s3-e1-she-has-a-problem-with-lying",
+        "s3-e2-their-little-counselor",
+        "s3-ep3-nobodys-getting-in-my-head",
+        "s3-e4-it-comes-through-like-a-freaking-bomb",
+        "s3-e5-shes-a-lying-cheating-bitch",
+        "s3-e6-a-psychopathic-narcissist",
+        "s3-e7-walking-into-the-belly-of-the-beast",
+        "s3-e8-a-mountain-of-black-white-proof-qa",
+        "s3-e9-absolute-evil"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I just assumed my dad was in a funk. And he was being a jerk and doing this to that and the other and just assumed he took people for their word",
+            "source": "s3-e5-shes-a-lying-cheating-bitch @ 25:15"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "city police / investigating detective",
+          "initiated_by": "family_or_friends",
+          "when": "after his father's burial",
+          "what_was_asked": "His aunt reported what the family had learned about the affair and the friend's role; Brad followed up with the detective he knew.",
+          "what_institution_did": "Questioned the friend, got her to admit the sexual affair, said it would go into a police report, and recommended a no-contact message to the friend and her husband. No charges.",
+          "quote": "It was the investigating detective. He had called [perpetrator] into questioning. And I've known this investigator for a lot of years even before I was on the Ferdipartment. You know I just knew him from other jobs I worked and I just you know it's a tight knit community so to speak even if I wasn't in and my dad was I knew all those guys and you know a lot of the cops and stuff like that and he's like she is a liar but she's good at it incredible liar. He's like I even told her that I told her she's good she is a liar, but she's good at it. Incredible liar. He's like, I even told her that. I told her she's good. She's real good. And he's like, this is no 16-year-old making this stuff up. She's got her stuff. Yeah, she's pretty good. And he was catching her in lies, you know, but according to him, you know, they were... She was doing a relatively decent job at it. But as she did admit it, I says, listen, did she admit to a sexual, physical relationship? He said yes. He literally just got it out of her and questioning. He had police departments, so it's like, well, what more do you need? He said, listen, I'm putting this into police report. You know, this is all going into police report, so it's like, well, what more do you want?",
+          "source": "s3-e5-shes-a-lying-cheating-bitch @ 27:18",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "No-contact text sent; no further action; the family decided to do 'absolutely nothing' more about the friend.",
+          "notes": "Same police contact as P01 contact 3. Reached is coded unclear because the report concerned the affair and the death; the story does not say the alienation of Brad was itself raised."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I sent you an email. He said, okay. And that was pretty much the last time I really talked to him.",
+      "outcome_source": "s3-ep3-nobodys-getting-in-my-head @ 25:32",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The estrangement ended only with his father's death; there was no protective institutional action. Brad also found his father's phone smashed in the garbage, and CJ's workplace IT person recovered deleted emails, pictures and shared accounts from the father's laptop (family evidence-gathering, not leading to any institutional outcome)."
+    },
+    {
+      "person_id": "P04",
+      "name": "Sara (Season 1 survivor, update)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "In a Season 3 reunion episode she describes being contacted twice on Voxer (April and November) by a 'catfish' account she and her friends believe was her former fiancé from Season 1; a close friend got the same message.",
+      "perpetrator_role": "suspected: her former fiancé (the Season 1 perpetrator)",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s3-e11-happy-1st-birthday-sww-ft-sara-alissa-from-s1"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I'm going to need to hear your voice to confirm thinking, come on. This is going to be so obvious that I'm trying to flush him out. And then he sends me a 12 second recording of what I think he thought was maybe an accent or a disguise. That's when I knew that he was full of shit.",
+            "source": "s3-e11-happy-1st-birthday-sww-ft-sara-alissa-from-s1 @ 13:30"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I really read these messages and go, okay, good. I'm actually glad that it all happened the way it did. It was, you know, short lived, didn't get as burned as I, you know, definitely could have",
+      "outcome_source": "s3-e11-happy-1st-birthday-sww-ft-sara-alissa-from-s1 @ 19:41",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Included because the instructions cover update episodes of this season; her original story belongs to Season 1 and is not retold here. The episode names no institution. Who sent the messages is not confirmed. Second witness: Alissa heard the voice recording."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Victoria's husband: a perpetrator toward Victoria, but also described by the family as manipulated and isolated by the friend, who reportedly told him she wished he were dead; he died by suicide. No person record because he is a perpetrator",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "She wanted him to hurt herself. She wanted to suck the life out of him and isolate him.",
+      "source": "s3-e9-absolute-evil @ 68:47"
+    },
+    {
+      "description": "[unnamed] Mrs. Johnson, the neighbours' wife, described as the friend's next target and as taking abuse from her own husband",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "Meanwhile, Mrs. Johnson is a good-hearted, compassionate woman who's just sitting there and taking the abuse, just like Victoria did.",
+      "source": "s3-e8-a-mountain-of-black-white-proof-qa @ 17:30"
+    },
+    {
+      "description": "Victoria's daughter (Brad's sister), described as being targeted next by the friend; she declined to take part",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "and she was working on [perpetrator]'s daughter.",
+      "source": "s3-e9-absolute-evil @ 28:14"
+    },
+    {
+      "description": "Brad's aunt (Victoria's sister-in-law; interviewed in E9) and her husband, who describe being used by the friend and the husband and estranged from Victoria, Brad and CJ. Their own harm is only touched on",
+      "count_stated": 2,
+      "reached_institution": "no",
+      "quote": "[perpetrator] [perpetrator] successfully drove a wedge between Brad and CJ and me and my husband.",
+      "source": "s3-e9-absolute-evil @ 68:47"
+    },
+    {
+      "description": "The friend's husband, who called himself a victim too; the family speculates he is controlled by the friend",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "he even said, like, I'm pretty much a victim here too.",
+      "source": "s3-e6-a-psychopathic-narcissist @ 19:42"
+    },
+    {
+      "description": "The friend's children, called 'victims in it too'",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "Is that the kids fault? No, they're victims in it too.",
+      "source": "s3-e6-a-psychopathic-narcissist @ 20:42"
+    },
+    {
+      "description": "Sara's close friend, who got the same suspected catfish message on Voxer (S3 E11)",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "one of my very, very best friends that has not had any contact with [perpetrator] got the same message on Voxer.",
+      "source": "s3-e11-happy-1st-birthday-sww-ft-sara-alissa-from-s1 @ 14:30"
+    },
+    {
+      "description": "The Season 1 perpetrator's first fiancée, to whom he allegedly faked cancer (mentioned in S3 E11)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "[perpetrator] actually had faked cancer with his first fiance",
+      "source": "s3-e11-happy-1st-birthday-sww-ft-sara-alissa-from-s1 @ 22:46"
+    },
+    {
+      "description": "Children of the Season 2 perpetrator (mentioned in S3 E11)",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "that recording of [perpetrator]'s child, that part, that poor kid just is going to have so much to sort through.",
+      "source": "s3-e11-happy-1st-birthday-sww-ft-sara-alissa-from-s1 @ 25:53"
+    },
+    {
+      "description": "The host's own childhood emotional and physical abuse and sexual abuse (S3 E8 Q&A)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "I grew up with two parents with personality disorders as I've shared. Alcoholism and addiction ran rampant in my family and as you can imagine it created a lot of trauma both emotional and physical abuse in my life and I have also outside of my family experienced sexual abuse.",
+      "source": "s3-e8-a-mountain-of-black-white-proof-qa @ 39:17"
+    },
+    {
+      "description": "The host's brother, murdered in 2012",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "The murder of my brother in 2012 taught me what grief felt like.",
+      "source": "s3-e7-walking-into-the-belly-of-the-beast @ 31:16"
+    }
+  ],
+  "coder_notes": "Season 3 (S3 E1-E11): the Bishop family. There were no convictions or charges. One police investigation took place after the husband's suicide. S3 E10 is a generic expert (therapist) interview with no personal story; S3 E11 is a reunion with Season 1 guests and covers Seasons 1, 2 and 4 only in passing. Judgment calls: (1) the husband is a perpetrator toward Victoria but is portrayed as also manipulated by the friend, so he is listed only in others_mentioned; (2) Victoria's record covers both perpetrators because the show presents them as acting together; (3) Brad's reached_institution is unclear; (4) I excluded contacts where the harm was not raised (the death response, the detective's interview of Victoria the day after the death when she denied an affair, and a CAT scan); (5) the outcome is not_protected because the abuse ended with the husband's death, not with institutional action. Usage-limit interruptions occurred twice; every file was read to its last line. Quotes spanning a timestamp boundary are joined with one space. The source cites the timestamp of the line where the quote begins."
+}
