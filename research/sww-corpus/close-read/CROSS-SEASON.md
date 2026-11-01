@@ -1,7 +1,7 @@
 # Cross-season running comparison (updated after each season)
 
 *In-order close-read. Each season's full coding is in `S0N.md`. This table is the running
-synthesis. It is updated, never smoothed. Last updated: after S15.*
+synthesis. It is updated, never smoothed. Last updated: after S24 (S16–S24 appended at the end).*
 
 ## Cases so far
 
@@ -551,3 +551,85 @@ assumed.
     of trust over, the minor victim (verified). That fits the hypothesis's trust route (S15e is the
     corpus instance), though it does not test persona inversion. The contrast inside S15 is the
     stranger offender in S15b, who needed no persona: his ordinary life was cover, not a key.
+
+## Update after S16–S24 (2026-11-01)
+
+*S17–S19 were read in full and coded (`S17.md`–`S19.md`). S16 and S20–S24 were coded from the
+full-read notes of 2026-10-04 (`S16.md`, `S20.md`–`S24.md`); fields those notes do not cover
+are marked "not in notes", which is weaker than n/d. The tables above stop at S15 and are not
+extended column by column; this section carries the tally.*
+
+### New cases
+
+| Code | Setting | Power vector | Counted? |
+|---|---|---|---|
+| S16a–c | host's childhood (both parents); father's elder fraud (record); brother killed by deputies | downward (parent; role; state) | no (parental; deception class; institutional) |
+| **S17a** | Leslie / Cody Sartin (convicted of Jace's murder) | partner | **yes** |
+| **S18a** | Alexis / "David" | partner | **yes** |
+| S18b, S18c | Braun's friendship and two-week dating (record: guilty plea) | lateral; partner | no (deception and need; S18c boundary with a false police report) |
+| **S18d** | Gaby / "Jimmy" | partner | **yes** |
+| S18e | Chris Williams's vanished date | none | no (no harm pattern) |
+| **S18f** | Shane / "Archie" | partner | **yes** |
+| S18g, S18i | Tyler / "Archie" (workplace); Autumn / "Alex" | downward; partner | recorded, not counted |
+| S18h | a band leader ("Kevin") | lateral | no |
+| S19a, S19e | Amy / Morrison; Lenora Claire | none | no (stalking scope) |
+| **S19b** | Sarah / "Doug" | partner | **yes** |
+| **S19c** | Jennifer / first partner | partner | **yes** |
+| S19d | Jennifer / husband | partner | recorded, not counted |
+| **S20a** | the "Brody" persona, ≥3 women (counted once) | partner (fictional) | **yes** |
+| S21a–d | Navy corpsman; two parental cases; an IPV case thin in notes | downward; partner | no / recorded |
+| **S21e, S21f** | "Ted" (a prophecy marriage); "Josh" | partner | **yes** |
+| S22a, S22b | Megan Stoner (record); the crowd that pursued her | lateral; collective | no |
+| S23a, S24a–b | a birth centre; the troubled-teen industry | downward, institutional | no |
+
+**Counted cycle target-cases: 46 through S15, plus 10 = 56.**
+
+**A counting-rule inconsistency, stated rather than smoothed.** From S16 on, parent–child cases
+are recorded but not counted in the cycle tally (rule in `S21.md`). S1–S15 counted some
+parental and adult-child cases (S5c, S7, S11c). The two rules give different denominators; the
+S16–S24 additions are all intimate or romance-persona cases, so the stricter rule changes the
+denominator, not the direction of any statement below.
+
+### Tally on the ten new counted cases
+
+- **R-SEP present in all ten** (✔ in 9; ~ in S18a, a single message). **Strict reading: 55 of
+  56 across the corpus with S18a as ~, 48 of 56 counting only ✔** (39 + 9).
+- **C4 present in all ten**, including C4-T1 pre-emptive seeding in S18f ("my crazy ex"), S19b
+  (via his lawyer's assistant), S21f ("a witch") and the S14 update ("the bitter crazy ex… the
+  obsessed stalker… the abuser").
+- **C2 present in all ten** (~ in S17a and S18f).
+- **C3 ✔ or ~ in all ten** (~ in S18a). Through S15, isolation was the weaker field; in these
+  seasons it is strong.
+- **C1 present in eight, ~ in S21e (binding done by the institution), not in notes for S21f.**
+
+### Divergences 61–72 (details in the season files)
+
+61. **Pattern-recognition protected a falsely accused partner** (S18 div. 1): police disbelieved
+    Braun's report because of her history. **And** the S22 hard case: propensity is not proof of
+    a particular event. Doc 07 needs both.
+62. **False accusations against the vulnerable**: a trans 13-year-old (S18g), recanted; a
+    sailor's mentor relationship, disproved by key-card records and lost anyway (S21a).
+63. **Exposure as retaliation** produced a restraining order against the whistleblower and
+    silenced the women he meant to help (S18h); a crowd ran the move-set on a convicted
+    deceiver (S22b).
+64. **Witness counts are evidence only as far as they are independent** (S18f, S19e). Publicity
+    can spend independence; producers filming co-complainants together hand the defence a
+    contamination argument.
+65. **Victim-led identification can name the wrong person** (S19a: the father "almost pegged"
+    the wrong man; content predicted the wrong identity).
+66. **The flying-monkey role is a position, not a person** (S19b: the smear-runner became the
+    next victim; the "jealous" woman was a rape victim).
+67. **Rules meant to protect virtue silenced the reporter** (S19c's honour code; S21e's purity
+    plan; S24's pre-discrediting script).
+68. **Help depended on status or luck** (S19a, S19e): disparate impact by wealth and visibility.
+69. **Counterman v. Colorado (2023)** moved the speech boundary during the corpus (S19e); doc 07
+    prong 5 must cite it.
+70. **A diagnosis used three ways** (S18, S19): as an excuse, as context with responsibility, as
+    the target's description. The codebook codes only the excuse-claim.
+71. **Statute gaps ended cases the evidence would have carried** (S20's misdemeanour; S21f's
+    adult deepfakes; S23's door-to-door referrals).
+72. **The power-vector test (2026-11-01) refuted C2 as worded in this corpus**: institutions'
+    responses were appropriate in 63 % of hand-coded response segments, and power position did
+    not predict impunity or failure rates (`../results/power_vector/RESULTS.md`). S23 and S24
+    are the seasons where the institutional move-set is fullest; they are **cases, not a rate**,
+    and the corpus-wide statement is now the measured one.
