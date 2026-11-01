@@ -72,11 +72,26 @@ it, including update, Q&A, follow-up and expert episodes that mention them.
 
 ## Reading in full
 
-Transcripts are de-duplicated with both patterns logged in `preregistration-power-vector.md`
-(the `-2` slug twins and the season-prefix twins included). Where a season is too long for
-one reading pass, the coder reads it in order across several passes and keeps **verbatim
-quotations** of every institutional contact as it goes; it codes from those quotations and
-rereads any passage it needs. No summary written by anyone else is given to the coders.
+The corpus is rebuilt and divided with `tools/corpus.py` (committed with this design, before
+any coding):
+- **Duplicates** are matched by what the transcripts say, not by their web addresses: two
+  files are one episode only if they share at least 55 % of their vocabulary and their seasons
+  do not conflict. Tested before coding: all 261 known twin pairs scored 0.66 or higher; the
+  three separate parts of the S6 update series scored 0.33–0.34. (The rule used by
+  `power_vector.py` merged too little; a title rule tried on the way merged separate parts or
+  missed renumbered twins. Both are rejected.) Result on the 2026-11-01 fetch: 680 files,
+  **387 episodes**.
+- **Update and follow-up episodes filed without a season number** are assigned to their season
+  when the address or a twin says which (e.g. the S6 and S11 updates). The **16 episodes with no
+  season** (Data Points, specialist and crossover episodes) are listed by `corpus.py index`;
+  each season's coders are given that list and told to check any that may continue their
+  stories. Nothing is dropped silently.
+- The earlier reading script also pulled seasons 10–19 into season 1; fixed.
+
+Where a season is too long for one reading pass, the coder reads it in order across several
+passes and keeps **verbatim quotations** of every institutional contact as it goes; it codes
+from those quotations and rereads any passage it needs. No summary written by anyone else is
+given to the coders.
 
 ## Pilot
 
