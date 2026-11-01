@@ -592,8 +592,8 @@ denominator, not the direction of any statement below.
 
 ### Tally on the ten new counted cases
 
-- **R-SEP present in all ten** (✔ in 9; ~ in S18a, a single message). **Strict reading: 55 of
-  56 across the corpus with S18a as ~, 48 of 56 counting only ✔** (39 + 9).
+- **R-SEP present in all ten** (✔ in 9; ~ in S18a, a single message). Across the corpus:
+  **present (✔ or ~) in all 56; ✔ in 48 of 56** (39 + 9) on the strict reading.
 - **C4 present in all ten**, including C4-T1 pre-emptive seeding in S18f ("my crazy ex"), S19b
   (via his lawyer's assistant), S21f ("a witch") and the S14 update ("the bitter crazy ex… the
   obsessed stalker… the abuser").
