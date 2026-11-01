@@ -22,14 +22,17 @@ instead of reading. If you cannot read something in full, say so in `reading_log
 
 - The transcript chunk files in your season folder (`sNN_01.txt`, `sNN_02.txt`, …). Read all
   of them, start to finish, in order. Each file is long; if your reading tool limits how much
-  it returns, read each file in consecutive parts until you reach its last line.
+  it returns, read each file in consecutive parts until you reach its last line. Your task
+  message gives the exact number of lines in each file: keep reading until you have seen that
+  line number, and record it in `reading_log`. A file never ends mid-sentence before its last
+  line; if it seems to, you have not reached the end.
 - `unassigned/` — a list (`INDEX.txt`) and the transcripts of episodes that were published
   without a season number (data episodes, specialist interviews, crossovers). Read the list.
   Open and read in full any episode that may continue, update or discuss a story from your
   season. Record each one you opened, and why, in `unassigned_checked`.
 - This instructions file.
 
-Open nothing else. Do not search the web. Do not look at other folders, other seasons, other
+Open nothing else. Write files only in your own output folder. Do not search the web. Do not look at other folders, other seasons, other
 coders' work or any other file on the machine. You are not told what anyone expects to find,
 and you should not try to guess it. Code what the transcripts say.
 
@@ -55,6 +58,10 @@ least something about what happened afterwards (even "she never told anyone"). T
 - people whose stories are told in follow-up, update, Q&A, listener or expert episodes of
   your season (or in unassigned episodes you read because they continue your season).
 
+If one person suffered **separate harms by different perpetrators** (for example an assault
+as a teenager and, years later, abuse by a partner), make **one record per harm**, with the
+same name followed by a short label, e.g. `Maria (school shooting)` and `Maria (ex-husband)`.
+
 Do **not** make a separate person record for: a bare mention with no story ("there were
 others"), a hypothetical or composite example, a statistic, or the perpetrator. Record bare
 mentions of other harmed people in `others_mentioned`, with any number the story gives —
@@ -62,7 +69,8 @@ these are people who exist in the story but were never heard.
 
 **Naming.** Use the name the show uses for each person harmed (often a first name or a
 pseudonym). If the show gives none, write a short description in square brackets, e.g.
-`[unnamed] perpetrator's first wife`. **Never write a perpetrator's or accused person's name**,
+`[unnamed] perpetrator's first wife`. **Never write a perpetrator's or accused person's name**
+(inside a quotation, replace it with `[perpetrator]`; change nothing else in the quotation),
 and never name anyone else who is not a person harmed (family, witnesses, staff): describe
 them by role ("her ex-husband", "the youth pastor", "a detective"). Institutions are named as
 the show names them.
@@ -157,6 +165,10 @@ discount it for being the person's account.
   - `never_reached`: the harm never reached an institution.
   If the person was harmed by an institution and later protected, the outcome is the later
   state (`protected` or `partly_protected`) and `harmed_by_institution_ever` is `true`.
+  **If the person died from the harm, or the harm went on until something other than an
+  institution ended it, a later arrest, conviction or sanction is not protection of that
+  person**: the outcome is `not_protected` (or `harmed_by_institution`), and the conviction is
+  still recorded as a contact.
 - `outcome_quote` and `outcome_source`: the verbatim passage that shows the end state.
 
 ### 4. Who did the work that led to any protection

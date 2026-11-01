@@ -17,6 +17,9 @@ eps = corpus.episodes(src)
 seasons = sorted({e["season"] for e in eps if e["season"]})
 for s in seasons:
     corpus.dump(src, s, f"{out}/s{s:02d}")
+for p in glob.glob(f"{out}/s*/*.txt"):  # D1: end every chunk with a newline so line counts agree
+    t = open(p).read()
+    if not t.endswith("\n"): open(p, "w").write(t + "\n")
 
 ua = sorted((e for e in eps if not e["season"]), key=lambda e: e["slug"])
 os.makedirs(f"{out}/unassigned", exist_ok=True)
@@ -30,7 +33,7 @@ for e in ua:
             para.append(f"[{sec//60}:{sec%60:02d}]"); last = sec
         para.append(t)
     if para: lines.append(" ".join(para))
-    open(f"{out}/unassigned/{e['slug']}.txt", "w").write("\n".join(lines))
+    open(f"{out}/unassigned/{e['slug']}.txt", "w").write("\n".join(lines) + "\n")
     idx.append(f"{e['slug']}.txt\t{e['title']}\t{len(e.get('text','').split())} words\t"
                + re.sub(r"\s+", " ", e.get("notes", ""))[:400])
 open(f"{out}/unassigned/INDEX.txt", "w").write(
