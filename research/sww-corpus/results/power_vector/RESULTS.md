@@ -35,6 +35,18 @@ appropriate responses than the one who did not.
 - **Part 1 coding was thin for 7 of 26 seasons** (5, 6, 8, 13, 14, 19, 25), per the coder's
   own notes. Seasons 25–26 have no frozen rates, so P1–P3 ran on the seasons that do.
 
+## Added after review: the outside-world data (`EXTERNAL_DATA.md`)
+
+The first write-up left out the population figures read on the show's expert and Data
+Points episodes. They change the conclusion, not the verdict: most harm never reaches an
+institution (about 69 % of sexual assaults and 71 % of stalking go unreported), and most of
+what does drops out before an outcome (about 1 in 6 reported sexual assaults leads to an
+arrest, fewer than 1 in 10 to a felony conviction). **"Appropriate in 63 %" describes the
+responses the podcast shows, which over-represent cases that got far enough to have an
+outcome.** The outside data support the *inaction* part of the institutional claim at
+population scale; they do not show whether the drop-out is disbelief and blame or the limits
+of proof and victims' own choices.
+
 ## What the result says, and its bound
 
 - **C2, as worded, does not hold in this corpus.** When a segment that mentions an

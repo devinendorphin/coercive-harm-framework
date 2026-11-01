@@ -522,7 +522,7 @@ becomes: **"role restriction depends on the slowest and most evadable institutio
 Base rates for board response times are still needed.
 
 ### OBJ-031 — "Your own corpus says institutions mostly respond appropriately." *(raised by the power-vector test, 2026-11-01)*
-**Persona:** empiricist / the framework's own pre-registration. **Status:** `CONCEDED for this corpus`
+**Persona:** empiricist / the framework's own pre-registration. **Status:** `PARTLY ANSWERED` (was CONCEDED for this corpus; revised the same day)
 C2 claimed that institutions a survivor turns to reproduce the coercive move-set. The
 pre-registered hand-coded test (two blind coders, κ = 0.83, 200 random institution-mention
 segments, aftermath episodes included) found appropriate responses in **63 %** of agreed
@@ -533,7 +533,12 @@ are present and nameable (chiefly inaction; pathologizing absent from the sample
 specific seasons (S23, S24) show institutions running the full move-set, as **cases, not a
 rate**. Case files must cite appropriate responses as counter-evidence at equal weight. The
 literature basis for institutional betrayal (other populations) is unchanged and is not
-strengthened by this corpus. → `research/sww-corpus/results/power_vector/RESULTS.md`;
+strengthened by this corpus. *Revision, same day (Endorphin's correction):* the population
+figures read on the show's expert episodes (`results/power_vector/EXTERNAL_DATA.md`) show
+that most harm never reaches an institution and most reported cases drop out before an
+outcome. The 63 % describes the responses the podcast shows, not the population. The
+*inaction* part of C2 is supported at population scale; disbelief, blame-reversal and
+pathologizing are still unmeasured as rates. → `research/sww-corpus/results/power_vector/RESULTS.md`;
 README; docs 04, 10.
 
 ## How to use this ledger

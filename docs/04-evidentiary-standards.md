@@ -53,7 +53,10 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    were **63 %** of institutional-response segments, so C2 as worded ("institutions mostly
    reproduce the moves") is **refuted in this corpus**. The neutralizing moves are present
    and nameable, chiefly inaction. Case files cite appropriate responses as counter-evidence
-   at equal weight (`research/sww-corpus/results/power_vector/RESULTS.md`).
+   at equal weight (`research/sww-corpus/results/power_vector/RESULTS.md`). The 63 % describes
+   the responses the podcast shows; population figures read on its expert episodes (about 69 %
+   of sexual assaults unreported; fewer than 1 in 10 reported ones ending in a felony
+   conviction) show most cases never reach an outcome (`EXTERNAL_DATA.md`).
 5. **The documentation burden.** `[SUPPORTED]` (`research/documentation-labor-burden.md`,
    2026-10-04, from the operator's account):
    - in victim-initiated forums the record must be made contemporaneously (FRE 803(5)),
