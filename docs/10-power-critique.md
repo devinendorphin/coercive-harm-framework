@@ -24,6 +24,13 @@ below is tested for whether it is *real and structural* or merely *dramatic*.
 
 ## Finding B (primary, structural) — the framework enforces DOWN-scale while claiming CROSS-scale
 
+> *Empirical test, 2026-11-01 (`research/sww-corpus/results/power_vector/RESULTS.md`):* in
+> the SWW corpus, seasons where the perpetrator held institutional authority did **not**
+> show more impunity or institutional failure (P1, P2 refuted), and institutions' responses
+> were appropriate in 63 % of hand-coded response segments (C2 refuted as worded). Finding B
+> is about how the framework's mechanisms are built, so it stands; what is removed is one
+> corpus line of support for "the move-set is worse up-scale."
+
 **Survives scrutiny. This is the deepest problem.** The framework's central claim is that
 the pattern runs *up* every scale of power. But every enforcement mechanism it built bites
 *downward*:

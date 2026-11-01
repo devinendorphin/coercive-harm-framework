@@ -1,0 +1,50 @@
+{
+ "n": 200,
+ "kappa": 0.83,
+ "agreement": 0.915,
+ "agreed_segments": {
+  "n_response": 49,
+  "appropriate": 31,
+  "neutralizing": 18,
+  "appropriate_share": 0.633,
+  "prediction (neutralizing > appropriate)": false,
+  "C2 refuted in corpus (appropriate >= 40%)": true,
+  "by_category": {
+   "appropriate response": 31,
+   "inaction or failure": 14,
+   "reversal": 1,
+   "reputation protection": 2,
+   "disbelief": 1
+  }
+ },
+ "coder_A": {
+  "n_response": 51,
+  "appropriate": 33,
+  "neutralizing": 18,
+  "appropriate_share": 0.647,
+  "prediction (neutralizing > appropriate)": false,
+  "C2 refuted in corpus (appropriate >= 40%)": true,
+  "by_category": {
+   "appropriate response": 33,
+   "inaction or failure": 14,
+   "reversal": 1,
+   "reputation protection": 2,
+   "disbelief": 1
+  }
+ },
+ "coder_B": {
+  "n_response": 54,
+  "appropriate": 32,
+  "neutralizing": 22,
+  "appropriate_share": 0.593,
+  "prediction (neutralizing > appropriate)": false,
+  "C2 refuted in corpus (appropriate >= 40%)": true,
+  "by_category": {
+   "appropriate response": 32,
+   "inaction or failure": 15,
+   "reversal": 3,
+   "reputation protection": 3,
+   "disbelief": 1
+  }
+ }
+}

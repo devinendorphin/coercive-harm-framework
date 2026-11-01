@@ -1,0 +1,31 @@
+{
+ "n_coded": 26,
+ "codes": {
+  "INTIMATE": 10,
+  "LATERAL": 4,
+  "DOWN-INST": 7,
+  "MIXED": 4,
+  "DOWN-DOM": 1
+ },
+ "P1": {
+  "function": "omnipotence",
+  "diff_DOWN-INST_minus_rest": -0.047,
+  "p_one_sided": 0.5709,
+  "n_DOWN-INST": 7,
+  "n_rest": 19,
+  "verdict": "REFUTED (p >= 0.05)"
+ },
+ "P2": {
+  "function": "institutional",
+  "diff_DOWN-INST_minus_rest": -0.108,
+  "p_one_sided": 0.5051,
+  "n_DOWN-INST": 7,
+  "n_rest": 19,
+  "verdict": "REFUTED (p >= 0.05)"
+ },
+ "P3": {
+  "R2_power": 0.159,
+  "p": 0.4651,
+  "verdict": "not refuted"
+ }
+}

@@ -104,3 +104,10 @@ precision-audit rule for every prediction.
   implements "the first two narrative episodes" and "200 segments drawn at random from all
   episodes" as written; no definition, category, threshold or test changed. Nothing had been
   drawn or coded when it was made.
+- **2026-11-01, residual duplicates (found after drawing, before any Part 2 code was seen).**
+  The de-duplication key missed two listing patterns: 17 episodes (all S24) listed a second
+  time with a `-2` suffix, and WCN episodes listed both with and without a season prefix. The
+  drawn sample therefore gives those episodes double weight and contains two near-duplicate
+  pairs (segments 30/48 and 60/97). **The sample is kept as drawn** (redrawing after coders
+  had started would be a second draw). The pre-registered verdict is computed on all 200; a
+  sensitivity result that drops segments 48 and 97 is reported beside it, never in its place.
