@@ -67,3 +67,28 @@ Appropriate responses are **counter-evidence** and are reported in full.
 
 The standing rule in `preregistration.md` applies: one verdict rule and one
 precision-audit rule for every prediction.
+
+## Operational decisions fixed before coding (2026-11-01)
+
+*Written and committed before any coding, with `power_vector.py`. The analyst has seen
+`results/`; the coders are fresh model instances given only what is listed here.*
+
+- **Part 1 coder:** a model instance given **only** the publisher's notes for the first two
+  narrative episodes of each season (`power_vector.py packet`) and the code definitions above.
+  It is not shown `results/`, `settings.csv`, the README or any close-read file.
+- **Part 2 segments:** a 3-sentence window centred on a transcript sentence that matches the
+  institution list (the pre-registered list, plus counsellors, social workers, caseworkers,
+  DHS, therapists, psychiatrists, nurses, hospital and "staff", which were implied by "program
+  staff", "CPS" and "a medical provider"). Candidates come from **all** episodes, including
+  update, Q&A and WCN episodes. Windows that overlap a drawn window are skipped. Seed 20261101.
+- **Part 2 coders:** two fresh instances. **Coder A** is told the hypothesis; **coder B** gets
+  only the category definitions. Neither sees the other's codes.
+- **Disagreements:** the verdict is computed on segments both coders placed in the same
+  category. Each coder's own verdict is reported beside it, under the one-rule standing note.
+- **Tests:** P1 and P2 use a one-sided permutation test (10,000 shuffles) of the mean rate,
+  `DOWN-INST` against all other coded seasons. P3 repeats `analyze.py`'s R2 statistic with
+  power codes. Rates come from the frozen `results/season_rates.csv`. The transcripts were
+  re-fetched for Part 2 only.
+- **Precision audit (standing rule):** the omnipotence lexicon (P1) and the
+  institutional-failure lexicon (P2) each get the same 20-hit reading audit that isolation,
+  reversal and institutional failure received in the first study. Omnipotence was never audited.
