@@ -1,0 +1,579 @@
+{
+  "season": 2,
+  "coder": "A",
+  "reading_log": [
+    {
+      "file": "s02_01.txt",
+      "last_line_number": 120,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s02_02.txt",
+      "last_line_number": 115,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s02_03.txt",
+      "last_line_number": 8,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "data-points-munchausen-syndrome-by-proxy-featuring-andrea-dunlop",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Season 2 is about factitious disorder / suspected Munchausen by proxy; checked whether it discusses the season. It does not: general educational content only."
+    },
+    {
+      "slug": "data-points-cons-schemes-fraud",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Season 2 is an illness-fabrication deception; checked whether it discusses the season. It does not: general fraud statistics and resources."
+    }
+  ],
+  "persons": [
+    {
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "Had no clue. Had no idea this was going on. I had no signs this was going on. Nobody did.",
+            "source": "s2-e7-somebody-i-love-is-so-sick @ 21:18"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Tee's health insurance / her counselor's office",
+          "initiated_by": "person",
+          "when": "right after the deception was discovered (2007)",
+          "what_was_asked": "an appointment with a counselor to cope with the discovery",
+          "what_institution_did": "The office said no appointments were available for six weeks and would not pass a message to the counselor.",
+          "quote": "I preached out to my health insurance and I said, hey, I'd like to get an appointment with a counselor. And I had seen a counselor previously dealing with, you know, my friend is dying thing, so I made a phone call and they said, oh, well, he doesn't have any appointments for six weeks.",
+          "source": "s2-e7-somebody-i-love-is-so-sick @ 4:18",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Tee wrote a private letter directly to the counselor/doctor.",
+          "notes": "A listener psychiatrist read on air in the Q&A attributes such waits to resource shortages."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "Tee's doctor/counselor (whom she had seen before)",
+          "initiated_by": "person",
+          "when": "days later",
+          "what_was_asked": "to be seen urgently",
+          "what_institution_did": "On reading her letter he called her and saw her within 24 hours; the session helped her.",
+          "quote": "I addressed it to his office with attention to him and four days later he got his mail and he opened it and he called me right away, he got me in within 24 hours.",
+          "source": "s2-e7-somebody-i-love-is-so-sick @ 5:21",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "\"One day, one hour of counseling after the initial trauma was invaluable to me\" (@ 9:38).",
+          "notes": "This is therapeutic support, not protection from the perpetrator."
+        },
+        {
+          "n": 3,
+          "institution_type": "regulator_or_licensing",
+          "institution": "California Nursing Board",
+          "initiated_by": "person",
+          "when": "after the discovery (date not given)",
+          "what_was_asked": "that the perpetrator not be allowed to keep working as a nurse ('she shouldn't be working on anyone else's children')",
+          "what_institution_did": "Asked Tee for a written, mailed account and referred the matter to police, triggering an investigation.",
+          "quote": "So what I did was I contacted the California Nursing Board. I told them a lot had happened and they said thank you can you type something up so I did can you mail it to me and I did. And I basically told them what I happened. And the police officer called me and he said, Hey, California nursing board contacted me. It did trigger an investigation",
+          "source": "s2-e6-it-was-horrific @ 0:00",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Tee never learned whether the license was revoked; five months after discovery the perpetrator wrote that she was working in a PICU, and later reportedly took another job and claimed illness again.",
+          "notes": "Outcome of the board's action unknown to the show."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "a police detective (contacted by the nursing board)",
+          "initiated_by": "institution",
+          "when": "after the board referral",
+          "what_was_asked": "(institution-initiated) to interview Tee",
+          "what_institution_did": "A detective interviewed Tee for about two hours, took the syringes she had kept to test them, and said 'we will do something'; no result is reported.",
+          "quote": "He was a detective. He came here. He sat and he talked to me for probably two hours at the kitchen table.",
+          "source": "s2-e6-it-was-horrific @ 1:00",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "\"And he said, but I understand. And we will do something. And I don't know if her license was revoked.\" (@ 2:03). No charges or result reported.",
+          "notes": "He also told her 'don't let this devastate you and move on and just let it go if you can' - presented by Tee as kindly meant."
+        },
+        {
+          "n": 5,
+          "institution_type": "medical_or_therapy",
+          "institution": "a counselor",
+          "initiated_by": "person",
+          "when": "after the perpetrator's death (December, years later)",
+          "what_was_asked": "help coping",
+          "what_institution_did": "Tee went to counseling; the season gives no detail of the response.",
+          "quote": "So what did I do? First I went to a counselor and then I started working out a lot because that helps clear my head.",
+          "source": "s2-e8-season-2-q-a @ 12:28",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She also took psychology classes and talked with her professor.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "person_id": "P01",
+      "name": "Tee",
+      "role_in_story": "central_survivor",
+      "harm": "Over almost four years (from about 2002) a coworker at the veterinary hospital where Tee worked faked ovarian cancer, chemotherapy, brain surgery, pregnancies and her son's illnesses, self-inflicting wounds and symptoms. Tee became her main caregiver (meals, moving her five times, bathing her, caring for her children), and was left with lasting trauma, guilt and repeated grief.",
+      "perpetrator_role": "her coworker and close friend (factitious disorder, as the perpetrator herself later called it)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s2-e1-she-had-the-medical-mind",
+        "s2-ep2-strange-ailments",
+        "s2-e3-wanted-to-die-pretty",
+        "s2-e4-life-isnt-always-fair",
+        "s2-e5-devastated-in-the-wake-of-your-delusions",
+        "s2-e6-it-was-horrific",
+        "s2-e7-somebody-i-love-is-so-sick",
+        "s2-e8-season-2-q-a"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "not_protected",
+      "outcome_quote": "And I don't know if her license was revoked. I believe that it was. I do believe that it was. Do I have proof? No, I don't. Do I know for certain? No, but I believe I have to try to believe in the system that that worked.",
+      "outcome_source": "s2-e6-it-was-horrific @ 2:03",
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The deception ended when a neighbor discovered fresh self-inflicted wounds and the perpetrator confessed (s2-e5 @ 7:10), not through any institution. The protection Tee sought (removal from nursing) is not shown to have happened; the perpetrator's own email read on air says she was 'working in the PICU' five months later (s2-e6 @ 4:05), and the neighbor later said she 'went to work someplace else and was saying she was sick again' (s2-e6 @ 18:44). Counseling contacts are coded though they concern coping, not protection. Not coded as contacts: the abortion-clinic nurse who 'looked at me really strangely', the ER that refused to treat the perpetrator ('They knew, but I didn't know'), the psychiatric hold (perpetrator's own treatment, released after 48 hours), and the veterinary hospital itself (the employer was also deceived). Social services contact is coded in the children's records. Evidence: Tee's Nov 14 2007 letter and the perpetrator's emails read on air; Jen, Kurt and Sarah corroborate."
+    },
+    {
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "Had no clue. Had no idea this was going on. I had no signs this was going on. Nobody did.",
+            "source": "s2-e7-somebody-i-love-is-so-sick @ 21:18"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "child_protection",
+          "institution": "social services",
+          "initiated_by": "family_or_friends",
+          "when": "after the deception was discovered (date not given)",
+          "what_was_asked": "that social services act for the children, who had been told for four years their mother was dying and remained in her care",
+          "what_institution_did": "Took no action and did not investigate.",
+          "quote": "Like, how can you guys not, they did nothing. Because they didn't have proof. No, they didn't even investigate. They didn't even investigate.",
+          "source": "s2-e7-somebody-i-love-is-so-sick @ 19:13",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The son's father had taken him after the discovery but returned him to his mother within a month.",
+          "notes": "Reported by Tee (a family friend) for both children. 'Because they didn't have proof' may be the host's suggestion; Tee answers 'they didn't even investigate', so disbelief is not coded. A psychiatrist's letter read in the Q&A says agencies are limited to imminent-danger cases."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "person_id": "P02",
+      "name": "[unnamed] perpetrator's son",
+      "role_in_story": "child",
+      "harm": "The perpetrator claimed her young son had seizures (he was on phenobarbital), failing kidneys needing a transplant and a brain tumor; Tee believes she was giving him medications that made him sick (Munchausen by proxy). He was also told for years his mother was dying of cancer.",
+      "perpetrator_role": "his mother",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s2-ep2-strange-ailments",
+        "s2-e5-devastated-in-the-wake-of-your-delusions",
+        "s2-e6-it-was-horrific",
+        "s2-e7-somebody-i-love-is-so-sick",
+        "s2-e8-season-2-q-a"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "unclear",
+      "outcome": "not_protected",
+      "outcome_quote": "However, really strangely, that ex-husband released the child back to her. Really soon? Yes, really soon after. Like, within a month, the child was back at home.",
+      "outcome_source": "s2-e6-it-was-horrific @ 2:03",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "The induced-illness abuse is Tee's belief ('I think she was doing my child's unbi-proxy', s2-e5 @ 12:14), not confirmed by any record; Jen corroborates only the claims (brain tumor, s2-ep2 @ 5:08). Whether any doctor treating him (phenobarbital, kidney work-up) suspected anything is unknown. The father had doubted the seizures (s2-ep2 @ 4:06) but no report by him is mentioned. After the perpetrator's death 'The children were separated. And went to their dad' (s2-e6 @ 16:42) - no institution shown causing that."
+    },
+    {
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "Had no clue. Had no idea this was going on. I had no signs this was going on. Nobody did.",
+            "source": "s2-e7-somebody-i-love-is-so-sick @ 21:18"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "family court (custody case)",
+          "initiated_by": "family_or_friends",
+          "when": "in the months after the discovery",
+          "what_was_asked": "custody of the daughter (her grandmother had taken her after the discovery)",
+          "what_institution_did": "After a custody fight the daughter was returned to her mother; the reasons are not given.",
+          "quote": "They went to court to fight over the daughter, but in the end, she had both of her children back.",
+          "source": "s2-e6-it-was-horrific @ 3:04",
+          "response": "unclear",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "The daughter lived with her mother until the mother's death.",
+          "notes": "The perpetrator's own email read on air: 'Going to lots and lots of court to try and fight to get my daughter back' (s2-e6 @ 4:05). Who brought the case is not explicit; the grandmother had the child. The result returned the child to the perpetrator but the story shows no reasoning, so not coded as disbelief."
+        },
+        {
+          "n": 2,
+          "institution_type": "child_protection",
+          "institution": "social services",
+          "initiated_by": "family_or_friends",
+          "when": "after the discovery (date not given)",
+          "what_was_asked": "that social services act for the children",
+          "what_institution_did": "Took no action and did not investigate.",
+          "quote": "Like, how can you guys not, they did nothing. Because they didn't have proof. No, they didn't even investigate. They didn't even investigate.",
+          "source": "s2-e7-somebody-i-love-is-so-sick @ 19:13",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She stayed with her mother.",
+          "notes": "Same call as in the son's record; order relative to the court case is unknown."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "person_id": "P03",
+      "name": "[unnamed] perpetrator's daughter",
+      "role_in_story": "child",
+      "harm": "Told for years that her mother was dying of ovarian cancer (art-therapy video at 8), took on an adult caregiving role, appeared undernourished, saw her mother's seizures, was turned against Tee, and as a young girl found her mother dead.",
+      "perpetrator_role": "her mother",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s2-ep2-strange-ailments",
+        "s2-e4-life-isnt-always-fair",
+        "s2-e5-devastated-in-the-wake-of-your-delusions",
+        "s2-e6-it-was-horrific",
+        "s2-e7-somebody-i-love-is-so-sick",
+        "s2-e8-season-2-q-a"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "unclear",
+      "outcome": "not_protected",
+      "outcome_quote": "I'm really sorry to inform you, but [perpetrator] passed away last night. The daughter found her. We don't know if it was an overdose intentional or on purpose, but she has passed away.",
+      "outcome_source": "s2-e6-it-was-horrific @ 12:33",
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Her art therapist (arranged by the grandmother) worked with her on her mother's 'cancer' - the deception was not known, so not coded as a contact. Tee: 'You said you were really ill when you were having the seizures in front of your daughter' (2007 letter, s2-e5 @ 25:48). Host: 'emotionally abusing your children' (s2-e7 @ 28:39). The harm ended with the mother's death, not institutional action. The court's return of the child could arguably be read as endangering her; not coded as institutional harm because the story gives no detail."
+    },
+    {
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "Had no clue. Had no idea this was going on. I had no signs this was going on. Nobody did.",
+            "source": "s2-e7-somebody-i-love-is-so-sick @ 21:18"
+          },
+          {
+            "reason": "not_stated",
+            "quote": "I mean, my feelings were just really hurt. Like, I'm like, here I am, you know, putting in all this time and effort and for her to go behind my back and, you know, tell our close friends that stuff that's not true.",
+            "source": "s2-e4-life-isnt-always-fair @ 15:00"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "person_id": "P04",
+      "name": "Jen",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Coworker and later roommate who cooked, cleaned and cared for the perpetrator and her children on the strength of the faked cancer; the perpetrator also spread false stories that Jen was an awful roommate.",
+      "perpetrator_role": "her coworker and roommate",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s2-e1-she-had-the-medical-mind",
+        "s2-ep2-strange-ailments",
+        "s2-e4-life-isnt-always-fair",
+        "s2-e5-devastated-in-the-wake-of-your-delusions",
+        "s2-e6-it-was-horrific",
+        "s2-e7-somebody-i-love-is-so-sick"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "I was wondering if you could take one of my dogs for me and I was just like, no, I can't. That was pretty much the conversation.",
+      "outcome_source": "s2-e6-it-was-horrific @ 12:33",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Tee's report to the nursing board concerned the whole deception but Tee was not acting for Jen. No reason is given for Jen not going to any institution after the discovery."
+    },
+    {
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "And he found out about her lying about the medical stuff the same day you did. Yeah, we all found out together. So he didn't have it. And he didn't suspect it either.",
+            "source": "s2-e6-it-was-horrific @ 17:44"
+          },
+          {
+            "reason": "not_stated",
+            "quote": "He said that [perpetrator] had broken into his house when he was at work and poured a paint all over his sofa and his floors.",
+            "source": "s2-e3-wanted-to-die-pretty @ 15:52"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "person_id": "P05",
+      "name": "Jason",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "The perpetrator's husband was deceived about her illness throughout, and she broke into his home, took his dog and poured paint over his sofa and floors.",
+      "perpetrator_role": "his wife",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s2-e1-she-had-the-medical-mind",
+        "s2-ep2-strange-ailments",
+        "s2-e3-wanted-to-die-pretty",
+        "s2-e4-life-isnt-always-fair",
+        "s2-e5-devastated-in-the-wake-of-your-delusions",
+        "s2-e6-it-was-horrific"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "you can tell he was just a broken person after, you know.",
+      "outcome_source": "s2-e6-it-was-horrific @ 17:44",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Named because the show names him and he is coded as a person harmed. The perpetrator told coworkers he was abusive and cheating; the season does not substantiate this and he is not treated as an accused perpetrator here. No police report of the break-in is mentioned. He called police during her overdose, but that concerned her safety, not harm to him."
+    },
+    {
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "Had no clue. Had no idea this was going on. I had no signs this was going on. Nobody did.",
+            "source": "s2-e7-somebody-i-love-is-so-sick @ 21:18"
+          },
+          {
+            "reason": "not_stated",
+            "quote": "Go to bed at eight o'clock and yeah, when he called me at 10.30 because he couldn't sleep. The doctor, I knew. I was like, yeah, I can't sleep. I cannot fathom this.",
+            "source": "s2-e5-devastated-in-the-wake-of-your-delusions @ 13:16"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "person_id": "P06",
+      "name": "Doc (the veterinarian who owns the clinic)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "The clinic owner hired, supported and paid for counseling for the perpetrator and wrote her a nursing-school letter on the basis of her faked cancer; after the discovery she sent him an email professing love and falsely told others they had a romantic relationship.",
+      "perpetrator_role": "his employee",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s2-e1-she-had-the-medical-mind",
+        "s2-e5-devastated-in-the-wake-of-your-delusions",
+        "s2-e6-it-was-horrific",
+        "s2-e7-somebody-i-love-is-so-sick"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "for us to have any relationship whatsoever. I am afraid that we can no longer be friends.",
+      "outcome_source": "s2-e6-it-was-horrific @ 7:18",
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Thin story, told only through Tee and Jen; included because the season tells what was done to him and his response (cutting contact). His reply is paraphrased by Tee, not read verbatim."
+    },
+    {
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "Because if you think about it, even though she didn't necessarily pass away with us, I mean, that's what happened though, she was no longer in her life abruptly. We had to grieve it on her own, yeah.",
+            "source": "s2-e7-somebody-i-love-is-so-sick @ 24:31"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "person_id": "P07",
+      "name": "Sarah (Tee's daughter)",
+      "role_in_story": "co_victim",
+      "harm": "Drawn as a child/teen into four years of caregiving for the perpetrator and her children, then grief and trauma at the discovery and death.",
+      "perpetrator_role": "her mother's coworker and friend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s2-e1-she-had-the-medical-mind",
+        "s2-e7-somebody-i-love-is-so-sick"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "It's a traumatic experience at the end of the day afterwards and that's hard",
+      "outcome_source": "s2-e7-somebody-i-love-is-so-sick @ 26:32",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Tee: 'The damage I did to my child by dragging my child through that four years with me' (s2-e7 @ 23:28). Sarah speaks in s2-e1 and s2-e7."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "veterinary hospital coworkers, the practice manager and her family who did meal trains, drove her and moved her house",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "the practice manager who lives an hour away, she got her two sons, her husband, they all came from an hour away, drove down, my husband, people that worked at the hospital.",
+      "source": "s2-e3-wanted-to-die-pretty @ 12:37"
+    },
+    {
+      "description": "the landlords next door (married couple and their adult daughter, the 'neighbor girl') who helped care for her and discovered the self-inflicted wound",
+      "count_stated": 4,
+      "reached_institution": "unknown",
+      "quote": "So it was a married couple and they had two adult children and the adult daughter was helping out.",
+      "source": "s2-e4-life-isnt-always-fair @ 21:13"
+    },
+    {
+      "description": "Tee's husband Kurt, drawn into the caregiving",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "Pick up my phone, I call my husband, I'm absolutely hysterical",
+      "source": "s2-e3-wanted-to-die-pretty @ 4:13"
+    },
+    {
+      "description": "the son's father (perpetrator's first partner), told to give the son seizure medication and portrayed as abusive",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "I feel really sorry for her ex-husband, and I feel sorry that I doubted him and thought he was a douchebag.",
+      "source": "s2-e7-somebody-i-love-is-so-sick @ 27:35"
+    },
+    {
+      "description": "a sick baby the perpetrator briefly nannied",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "So she did bring the baby in one day and the baby was wrapped from like head to toe and like east bandages.",
+      "source": "s2-e4-life-isnt-always-fair @ 13:57"
+    },
+    {
+      "description": "people at a later workplace where she reportedly again claimed illness",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "So the neighbor girl did tell me that she went to work someplace else and was saying she was sick again.",
+      "source": "s2-e6-it-was-horrific @ 18:44"
+    }
+  ],
+  "coder_notes": "All three chunk files read in full (120, 115, 8 lines). Season 2 (Something Was Wrong) is a factitious-disorder / faked-cancer deception, not partner abuse; the perpetrator (Tee's coworker) is never named in this file and is replaced by [perpetrator] in quotations. She died of a possible overdose years later; she is not coded as a person harmed. Very little institutional contact: nursing board and a police detective (outcome unknown), social services (did nothing), a custody court (child returned to mother), and Tee's own counseling. Most institutional detail is Tee's account alone. The perpetrator's claims of being abused by her partners are her own and not treated as established. Animals she harmed (e.g. the cat Boomer) are not coded. Earlier contacts with the perpetrator's psychiatric hold, ER and abortion clinic are not coded because the harm to the persons recorded was not raised there. Two unassigned episodes opened; neither discusses this season. My reading was interrupted by a usage limit after s02_02.txt line 115 and resumed from the notes; no file part was skipped."
+}
