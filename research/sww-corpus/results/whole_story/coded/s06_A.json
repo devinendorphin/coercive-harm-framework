@@ -1,0 +1,1513 @@
+{
+  "season": 6,
+  "coder": "A",
+  "reading_log": [
+    {
+      "file": "s06_01.txt",
+      "last_line_number": 95,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s06_02.txt",
+      "last_line_number": 117,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s06_03.txt",
+      "last_line_number": 127,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s06_04.txt",
+      "last_line_number": 95,
+      "read_in_full": true,
+      "problems": "Usage limits interrupted work twice: after s06_01 (reading resumed at s06_02 line 1) and while writing the JSON after all files were read. All files were read in full."
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "INDEX.txt",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Required list of unassigned episodes. The J.E. S6 update episodes (13-/23-/33-wcn-presents-je-s6-updates) are already in the season folder (s06_03-s06_04)."
+    },
+    {
+      "slug": "data-points-stalking-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for any discussion of J.E.'s stalking case; it is generic statistics only."
+    },
+    {
+      "slug": "data-points-the-intersection-of-true-crime-the-lgbtqia-community-featuring-jimanekia-eborn",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for any discussion of J.E. (trans/queer hate-crime victim); it is generic statistics only."
+    },
+    {
+      "slug": "data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for any discussion of season-6 catfishing, doxxing or hate-crime stories; it is generic only."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Kaelyn",
+      "role_in_story": "central_survivor",
+      "harm": "From about age 19 she was catfished for years by a friend who invented personas (a harasser, a love interest 'Tyler' who faked his suicide, and his sister), leaving her with years of guilt and grief; the friend also pressed her to send money for a vehicle.",
+      "perpetrator_role": "a female friend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e1-so-many-lies-kaelyn"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "other",
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "And I really don't remember what excuse she gave me, but it was something that I had believed because I don't even know. I was very impressionable.",
+            "source": "s6-e1-so-many-lies-kaelyn @ 14:50"
+          },
+          {
+            "reason": "other",
+            "quote": "I wasn't trying to ruin her reputation or her friendship that she may have developed, and I was trying to just let things go, because I thought, you know, in my head that this was just like a one-time thing that she had done and we all make mistakes, so I didn't want to. I just, I wasn't trying to ruin her life. So I didn't really say anything.",
+            "source": "s6-e1-so-many-lies-kaelyn @ 16:54"
+          },
+          {
+            "reason": "earlier_disbelief",
+            "quote": "So anytime I would talk about Tyler or like cry about him, he would just be like, I don't know why you care, you never met met him or you know he was just very like emotionally abusive",
+            "source": "s6-e1-so-many-lies-kaelyn @ 38:15"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "No, I don't know if she just deleted her whole account or if she just deleted me, but I saw that we're not friends on Facebook anymore",
+      "outcome_source": "s6-e1-so-many-lies-kaelyn @ 42:34",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "Reason 'other' = did not want to ruin the perpetrator's life/reputation. Discovery came through her own checking (Facebook profile, asking the perpetrator's ex-husband); the perpetrator later admitted it privately. She went public on TikTok (6.5M views); no institution involved. She says she will 'probably' go back to counseling, but nothing shows the harm was raised with a counselor. A later boyfriend is described as 'very like emotionally abusive' (dismissing her grief) - a separate harm with no further story; noted here, not a separate record. Ex-husband's and Tiffany's statements are relayed by Kaelyn, not heard on air, so evidence coded person_account_alone."
+    },
+    {
+      "person_id": "P02",
+      "name": "Tiffany (catfished by the same perpetrator)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Catfished by the same woman, who (per Kaelyn) made her believe a little girl had died and led to money being sent to a nonexistent family; she then catfished the perpetrator back on an MTV Catfish episode.",
+      "perpetrator_role": "the same female catfisher (Kaelyn's friend)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e1-so-many-lies-kaelyn"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I come to find out that she, [perpetrator] had catfished multiple people, and one of them who her name is Tiffany, ended up catfishing her back in order to get revenge, and that was what the whole catfish episode was about.",
+            "source": "s6-e1-so-many-lies-kaelyn @ 18:54"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "So because it was like kids were involved in like pictures of those kids, they took the episode down because they MTV didn't want like any legal action with that.",
+      "outcome_source": "s6-e1-so-many-lies-kaelyn @ 35:12",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Told only second-hand through Kaelyn, who hedges ('I might be saying this wrong'). The MTV TV show is media, not an institution with a duty to respond, so not coded as a contact. Not the podcast host (also named Tiffany)."
+    },
+    {
+      "person_id": "P03",
+      "name": "Jez",
+      "role_in_story": "central_survivor",
+      "harm": "Lured to a Denver restaurant through a fake online-dating profile by a man who then sat beside her pretending to be a stranger, pushed drinks and repeatedly tried to get her to leave with him; staff said he did this to many women, who appeared more intoxicated than expected and usually left with him.",
+      "perpetrator_role": "an unknown man using a fake dating profile",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e2-predator-jez",
+        "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c",
+        "s6-e5-massacre-at-the-tree-of-life-synagogue-je"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "Old Chicago restaurant (downtown Denver) server and bartender",
+          "initiated_by": "institution",
+          "when": "during the evening, about 30 minutes after she arrived",
+          "what_was_asked": "Nothing; the staff approached her themselves.",
+          "what_institution_did": "A server warned her in the restroom that the man next to her had set up the meeting and described his pattern; the staff had chilled her shots, watched over her, bought her dinner, let her stay for hours and the bartender walked her to her car.",
+          "quote": "And I just like kind of got like this sinking feeling of like, she goes, okay, this is gonna sound crazy. But whatever reason you're here, it's because of him. He got you here.",
+          "source": "s6-e2-predator-jez @ 14:29",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She refused to leave with him and he left angry; she stayed about four hours and was walked to her car.",
+          "notes": "Coded as an institution (type other) because a restaurant has some power over its premises; staff said they had no proof and did not know who he was ('He always pays with cash'). If a restaurant is not counted as an institution, the outcome would be not_protected."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Denver-area police (non-emergency call)",
+          "initiated_by": "person",
+          "when": "the same night or soon after",
+          "what_was_asked": "To let police know about the man's behavior.",
+          "what_institution_did": "Told her there was nothing they could do because nothing illegal had happened, unless he followed or stalked her.",
+          "quote": "And I remember they were like, well, I remember they were nice. They were just, they were like, well, there's nothing we can really do about that. They're not technically doing anything illegal.",
+          "source": "s6-e2-predator-jez @ 39:05",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Nothing further; the man was never identified.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "And even though you got lucky and the staff there were caring enough to insert themselves and make sure that you were okay, that's still a really scary thing when you're by yourself.",
+      "outcome_source": "s6-e2-predator-jez @ 44:13",
+      "protection_contributors": [
+        "institution",
+        "the_person"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "And because we don't really have any proof of like what he's doing, it's not like there's something, you know, like they were doing the most that they could to try and like protect women they felt were at risk, essentially. Like when he chilled the shots.",
+      "decisive_work_source": "s6-e2-predator-jez @ 19:39",
+      "time_to_first_effective_action": "the same evening (staff intervened during the encounter)",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Partly protected: staff intervention kept her safe that night, but the man was unaffected and police took no step. Outcome quote is the host's summary. Jez mentions an earlier harm by 'a person who was a sociopath' and 'traumatic experiences earlier in my life' with no story; not a separate record. Story later featured on Crime Junkie (s6-e5 intro)."
+    },
+    {
+      "person_id": "P04",
+      "name": "Ilyse (harassing caller)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "As a newer therapist she answered her work phone to a man posing as a prospective client who asked sexual questions and sought a relationship with her; when she posted about it another therapist blamed her.",
+      "perpetrator_role": "an unknown male caller",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And I politely, you know, I had my people pleasing response come up and I was just like, you know, that's not ethical. I'm happy to refer you to another therapist if this is feeling like you would not be able to work with me.",
+            "source": "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c @ 25:35"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And so I said, as a young female therapist, I don't answer my work phone when it rings because I've received harassing phone calls.",
+      "outcome_source": "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c @ 26:38",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Expert guest in an expert episode. The therapist who blamed her commented in an online post; no professional body involved. She mentions a 'sexual trauma history' with no story."
+    },
+    {
+      "person_id": "P05",
+      "name": "Ilyse (COVID-denier troll)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "A troll reposted the same comment on her Instagram under several profiles after she deleted it, then called her work line and left a harassing message.",
+      "perpetrator_role": "an unknown online troll",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And literally the only response that I got was really pretty victim blamey, shamey, and just said, I keep my Instagram account private and wouldn't write anything that I wouldn't want clients to see.",
+            "source": "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c @ 34:09"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And so I am still working on those safety measures.",
+      "outcome_source": "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c @ 35:18",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She deleted the comments herself; no report to Instagram or police is mentioned. The 'victim blamey' response came from a therapist marketing group (peers, not an institution). She took her phone number off Instagram."
+    },
+    {
+      "person_id": "P06",
+      "name": "Jill (harassment after viral post)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "After her 'Fuck COVID School' blog post went viral she got 'you should kill yourself' comments and abusive private messages.",
+      "perpetrator_role": "unknown online commenters",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e4-influenced-arianna-charlie-jill"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "And here's the thing, I was mentally healthy enough to like disregard that.",
+            "source": "s6-e4-influenced-arianna-charlie-jill @ 34:10"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And so that was, I think, more upsetting for me, not in like how it made me feel personally, but how it made me feel thinking about that person going on and saying that to somebody else who may not be in as good of a place.",
+      "outcome_source": "s6-e4-influenced-arianna-charlie-jill @ 35:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Reason 'other' = chose to disregard the messages. Earlier criticism of her apartment post (some commenters later apologized; she discussed it with her therapist) is not coded as a harm: she says the pushback did not hurt her much. Her January suicidality was not caused by anyone."
+    },
+    {
+      "person_id": "P07",
+      "name": "Charlie (harassment after miscarriage post)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "After a viral post about his and his wife's miscarriage he received 'you should go kill yourself' messages and comments that God was punishing him.",
+      "perpetrator_role": "unknown online commenters",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e4-influenced-arianna-charlie-jill"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "But to see commenters like that faceless nameless commenters come in and say that God wanted it this way and I deserved it Was something that I it was hard for me not to internalize at some point",
+            "source": "s6-e4-influenced-arianna-charlie-jill @ 40:28"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "But to see commenters like that faceless nameless commenters come in and say that God wanted it this way and I deserved it Was something that I it was hard for me not to internalize at some point",
+      "outcome_source": "s6-e4-influenced-arianna-charlie-jill @ 40:28",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "His wife's poor medical care during the miscarriage (lack of instruments in that state) is not abuse and is not coded."
+    },
+    {
+      "person_id": "P08",
+      "name": "Charlie (trolling over Harry Styles post)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Trolls attacked him with 'beta' insults and anti-gay language after he defended Harry Styles wearing a dress; he lost followers.",
+      "perpetrator_role": "unknown online trolls",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e4-influenced-arianna-charlie-jill"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And I'm okay with it. I absolve you. I release you from having to follow me and go ahead and leave.",
+            "source": "s6-e4-influenced-arianna-charlie-jill @ 31:10"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And I'm okay with it. I absolve you. I release you from having to follow me and go ahead and leave.",
+      "outcome_source": "s6-e4-influenced-arianna-charlie-jill @ 31:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Borderline as a harm (name-calling trolling); included because Charlie describes it as trolling aimed at him."
+    },
+    {
+      "person_id": "P09",
+      "name": "J.E. (Tree of Life shooting)",
+      "role_in_story": "central_survivor",
+      "harm": "A member of the Tree of Life congregation whose community was attacked by a gunman on 27 October 2018; 11 people they knew were murdered (their stepfather was the synagogue's former executive director), leaving them with grief and PTSD.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s6-e5-massacre-at-the-tree-of-life-synagogue-je",
+        "s6-e6-panic-attack-city-je",
+        "23-wcn-presents-je-s6-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "J.E.'s psychiatrist",
+          "initiated_by": "person",
+          "when": "a few days after the shooting",
+          "what_was_asked": "Help processing the trauma.",
+          "what_institution_did": "Saw J.E. for a session a few days after the shooting.",
+          "quote": "I was seeing a psychiatrist, but I was able to luckily have a session with them a few, like a few days after the shooting to be able to start processing it.",
+          "source": "s6-e6-panic-attack-city-je @ 14:42",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Writing became J.E.'s main way to cope; months later the harassing calls began.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I couldn't step foot into any synagogue for a really long time. It's still really hard for me to do it.",
+      "outcome_source": "s6-e6-panic-attack-city-je @ 28:13",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "The only institutional contact for this harm is therapeutic, and a therapy session is not protective action, so outcome is not_protected. The season never says whether the shooter was arrested or tried. The Vanity Fair essay J.E. read on air counts as document_read_on_air. Also mentions being called a slur by Catholic-school boys at age five (no further story; not a separate record)."
+    },
+    {
+      "person_id": "P10",
+      "name": "J.E. (the Caller)",
+      "role_in_story": "central_survivor",
+      "harm": "From February 2019, months after the shooting, an anonymous caller left hundreds of antisemitic, homophobic and transphobic voicemails on their stepfather's phones aimed at J.E. by their first name, with threats to shoot, behead and sexually assault them. The calls ran in two waves until her arrest in March 2023; a forum thread also said J.E. should be raped.",
+      "perpetrator_role": "an anonymous woman caller (stranger)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s6-e6-panic-attack-city-je",
+        "13-wcn-presents-je-s6-updates",
+        "23-wcn-presents-je-s6-updates",
+        "33-wcn-presents-je-s6-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Pittsburgh police (J.E.'s precinct)",
+          "initiated_by": "person",
+          "when": "February 2019, the day the threats came to light",
+          "what_was_asked": "Protection and investigation of the death threats.",
+          "what_institution_did": "Took the report seriously, kept a police car outside 24 hours a day for about a week, then increased patrols for about two weeks.",
+          "quote": "For the first, at least the first couple of days, maybe slightly under a week there, was actually a police car parked outside for 24 hours.",
+          "source": "s6-e6-panic-attack-city-je @ 19:51",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "The calls did not stop; the case was referred up.",
+          "notes": "Temporary protection only. The victim impact statement read on air (23-wcn @ 15:07) says the same. J.E. praised the first officer."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Allegheny County police and the FBI (Pittsburgh), with an FBI liaison",
+          "initiated_by": "institution",
+          "when": "2019, soon after the first report",
+          "what_was_asked": "Find and stop the caller.",
+          "what_institution_did": "Took over the case and set up an FBI liaison to contact with each new call, but could not trace the rerouted number. By late 2020 the investigation was open but 'pretty much dormant'.",
+          "quote": "The calls didn't stop. They, I mean, the case was immediately sort of like sent up to Allegheny PD, which is like the county PD as well as the FBI.",
+          "source": "s6-e6-panic-attack-city-je @ 20:55",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Calls went on for six to eight months, then paused; they resumed in 2022.",
+          "notes": "Dormancy: 'technically it was an open FBI investigation, but it was pretty much dormant' (13-wcn @ 10:48-11:53)."
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "local detectives assigned to the case",
+          "initiated_by": "person",
+          "when": "2019",
+          "what_was_asked": "Updates on the case; J.E. also sent screenshots of a forum thread threatening them.",
+          "what_institution_did": "Rarely returned J.E.'s calls. J.E. had to read the forum threats aloud to an older detective who did not understand the internet, and later said local police did not take the case seriously.",
+          "quote": "I called the detectives assigned to the case with persistence, begging for updates. My calls were rarely returned.",
+          "source": "23-wcn-presents-je-s6-updates @ 17:16",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "No progress locally.",
+          "notes": "Also: 'it was clear to me that local law enforcement didn't take it seriously ... to try to have to make my case over and over again to have to explain why something like this was anti-Semitic' (33-wcn @ 15:07). Could also be coded disbelieved. This later account differs from the early-2020 one ('they did take it really seriously', s6-e6 @ 18:49-19:51), which was about the first officer."
+        },
+        {
+          "n": 4,
+          "institution_type": "employer_or_hr",
+          "institution": "J.E.'s editor/boss at a remote contract reporting job",
+          "initiated_by": "person",
+          "when": "2019, right after the calls began",
+          "what_was_asked": "Time off shifts to speak with police and investigators.",
+          "what_institution_did": "J.E. lost the job shortly after telling the editor, and believes this was the likely reason.",
+          "quote": "I lost my job shortly after I told my then editor I'd have to step away to speak to investigators about what was happening.",
+          "source": "23-wcn-presents-je-s6-updates @ 17:16",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "J.E.'s world 'became smaller'; they later found another job in their field.",
+          "notes": "J.E. hedges: 'I can't say for certain, but I likely lost a contract job ... because I had to say to my boss' (13-wcn @ 17:06). In s6-e6 @ 24:01 J.E. said the contract 'was already going to be like a temporary gig'. Coded on J.E.'s own attribution; unclear would also be defensible."
+        },
+        {
+          "n": 5,
+          "institution_type": "other",
+          "institution": "Anti-Defamation League (ADL)",
+          "initiated_by": "unclear",
+          "when": "2022-2023 (exact timing not stated)",
+          "what_was_asked": "To get the case to the FBI's attention.",
+          "what_institution_did": "Took the case up and pushed it to the FBI's attention after J.E.'s and their mother's own work.",
+          "quote": "At least a couple were from the ADL who were instrumental in elevating this case to the FBI's attention. After all the legwork that I did and my mom did, they really brought it to their attention.",
+          "source": "23-wcn-presents-je-s6-updates @ 3:33",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The Miami FBI field office investigated.",
+          "notes": "Advocacy organization, coded as type other."
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "FBI Miami field office",
+          "initiated_by": "unclear",
+          "when": "October 2022 to March 2023",
+          "what_was_asked": "Identify and stop the caller.",
+          "what_institution_did": "Investigated the second wave, identified the caller as a woman living in California and arrested her in March 2023.",
+          "quote": "And then I just remember in March of 2023 receiving a call, I think it was first from my mom and then from the FBI liaison, who was one of the agents saying that she had been arrested.",
+          "source": "13-wcn-presents-je-s6-updates @ 19:07",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "She was released on bond, then rearrested on a domestic violence charge and extradited to Florida.",
+          "notes": "Recorded under police because the codes have no federal-law-enforcement type. The mother's call-recording app helped build the evidence."
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "federal court (bond)",
+          "initiated_by": "institution",
+          "when": "after the March 2023 arrest",
+          "what_was_asked": "Keep the caller detained.",
+          "what_institution_did": "Released her on bond.",
+          "quote": "I do know that she was let out on bond. So even though she had been arrested, she was still allowed to live free in the public.",
+          "source": "13-wcn-presents-je-s6-updates @ 20:10",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She was later rearrested for throwing a heavy object at her partner and extradited to Florida.",
+          "notes": "Charges stayed in place but she was not detained; unclear would also be defensible."
+        },
+        {
+          "n": 8,
+          "institution_type": "prosecutor",
+          "institution": "US Attorney's office, Southern District of Florida",
+          "initiated_by": "institution",
+          "when": "2023-2024",
+          "what_was_asked": "Prosecution, including a hate-crime charge.",
+          "what_institution_did": "Prosecuted with forensic evidence and hundreds of recordings; she pleaded guilty, and the prosecution played a montage of her threats at sentencing.",
+          "quote": "She did plead guilty. The majority of cases that are brought to court, the defendant does plead guilty.",
+          "source": "13-wcn-presents-je-s6-updates @ 23:24",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Sentencing hearing in Miami with victim impact statements.",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "federal court in Miami (sentencing judge)",
+          "initiated_by": "institution",
+          "when": "2024",
+          "what_was_asked": "A just sentence.",
+          "what_institution_did": "Rejected the defense's 12-month proposal and sentenced her to 32 months plus three years of supervised release, crediting J.E.'s statement about the premeditation.",
+          "quote": "The judge delivered his sentence. In the end, she was given 32 months with time served. So that's a few years with three years of supervised release.",
+          "source": "33-wcn-presents-je-s6-updates @ 13:07",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "A restitution hearing was offered and J.E. declined; the defense appeal was reportedly not pursued.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "Meaning that after she's released, if she tries to contact us, she'll be arrested and imprisoned.",
+      "outcome_source": "33-wcn-presents-je-s6-updates @ 14:07",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "The agents who essentially investigated the case and were able to identify who this caller was were really, really wonderful.",
+      "decisive_work_source": "13-wcn-presents-je-s6-updates @ 18:06",
+      "time_to_first_effective_action": "about four years after the first police report (report February 2019; arrest March 2023)",
+      "months_to_first_effective_action": 49,
+      "contacts_before_first_effective_action": 4,
+      "evidence_types": [
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "high",
+      "notes": "The arrest ended the calls, so the outcome is protected (J.E. calls the sense of security temporary). harmed_by_institution_ever is true only because of the employer contact, which rests on J.E.'s hedged attribution. Decisive work could arguably be family_or_friends: the mother recorded the calls to build 'forensically irrefutable' evidence and J.E. pressed persistently, and the ADL elevated the case. I chose institution because the story credits the FBI with identifying the caller. J.E. was on long therapy waitlists and uninsured during the first wave; this is not coded as a contact. Months: February 2019 to March 2023 = 49. The court documentation cited on air counts 238 recorded calls."
+    },
+    {
+      "person_id": "P11",
+      "name": "Joel (J.E.'s stepfather)",
+      "role_in_story": "co_victim",
+      "harm": "The caller phoned his cell phone and his old Tree of Life office line hundreds of times, taunting him about the shooting, calling him derogatory names and threatening his life.",
+      "perpetrator_role": "an anonymous woman caller (stranger)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s6-e6-panic-attack-city-je",
+        "13-wcn-presents-je-s6-updates",
+        "23-wcn-presents-je-s6-updates",
+        "33-wcn-presents-je-s6-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police precinct in the parents' Pittsburgh jurisdiction",
+          "initiated_by": "family_or_friends",
+          "when": "February 2019",
+          "what_was_asked": "Investigation and protection from the threatening calls.",
+          "what_institution_did": "Took the report; the season does not describe what this precinct did beyond J.E.'s general statement that police took it seriously.",
+          "quote": "So after speaking with my mother about these threats and sort of realizing the alarming nature of them, we both decided to call the police. We both lived in different jurisdictions, so two different precincts dealt with these calls respectively.",
+          "source": "s6-e6-panic-attack-city-je @ 18:49",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The case went to the county police and FBI.",
+          "notes": "J.E.'s mother reported in the parents' jurisdiction."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Allegheny County police and FBI (Pittsburgh), FBI liaison",
+          "initiated_by": "institution",
+          "when": "2019",
+          "what_was_asked": "Find the caller.",
+          "what_institution_did": "Set up an FBI liaison to contact with each call but could not trace the rerouted number; the investigation went dormant.",
+          "quote": "There was sort of like an FBI liaison that we contacted whenever we got another call.",
+          "source": "s6-e6-panic-attack-city-je @ 21:57",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Calls paused, then resumed in 2022 after the parents moved to the Miami area.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "FBI Miami field office",
+          "initiated_by": "unclear",
+          "when": "October 2022 to March 2023",
+          "what_was_asked": "Identify and stop the caller.",
+          "what_institution_did": "Investigated, identified the caller in California and arrested her in March 2023.",
+          "quote": "At that point, the investigation was taken over by the Miami FBI field office. The agents who essentially investigated the case and were able to identify who this caller was were really, really wonderful.",
+          "source": "13-wcn-presents-je-s6-updates @ 18:06",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Bond, rearrest, extradition to Florida.",
+          "notes": "Federal law enforcement recorded under police."
+        },
+        {
+          "n": 4,
+          "institution_type": "prosecutor",
+          "institution": "US Attorney's office, Southern District of Florida",
+          "initiated_by": "institution",
+          "when": "2023-2024",
+          "what_was_asked": "Prosecution.",
+          "what_institution_did": "Prosecuted; she pleaded guilty, including to a hate crime.",
+          "quote": "It was very, very clear that she was guilty of the crimes that she was being charged with, one of which was a hate crime.",
+          "source": "13-wcn-presents-je-s6-updates @ 23:24",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Sentencing hearing.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "federal court in Miami (sentencing judge)",
+          "initiated_by": "institution",
+          "when": "2024",
+          "what_was_asked": "A just sentence.",
+          "what_institution_did": "Sentenced her to 32 months plus three years of supervised release.",
+          "quote": "The judge delivered his sentence. In the end, she was given 32 months with time served. So that's a few years with three years of supervised release.",
+          "source": "33-wcn-presents-je-s6-updates @ 13:07",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "The caller apologized to J.E.'s mother and stepfather by name.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "Meaning that after she's released, if she tries to contact us, she'll be arrested and imprisoned.",
+      "outcome_source": "33-wcn-presents-je-s6-updates @ 14:07",
+      "protection_contributors": [
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "The agents who essentially investigated the case and were able to identify who this caller was were really, really wonderful.",
+      "decisive_work_source": "13-wcn-presents-je-s6-updates @ 18:06",
+      "time_to_first_effective_action": "about four years after the first police report (February 2019 to the March 2023 arrest)",
+      "months_to_first_effective_action": 49,
+      "contacts_before_first_effective_action": 2,
+      "evidence_types": [
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Named by the show as Joel; he is a harmed person, so the name is used. His story is told by J.E.; he never speaks. He was diagnosed with Parkinson's, and the calls still went to his phone, whose number he kept on purpose. The mother's recording app on his phone built the evidence. Decisive work could arguably be family_or_friends."
+    },
+    {
+      "person_id": "P12",
+      "name": "[unnamed] J.E.'s mother",
+      "role_in_story": "co_victim",
+      "harm": "Threatened by the caller (including sexual-violence fantasies about her) during years of calls to her husband's phone; she heard the voicemails and gave a victim impact statement.",
+      "perpetrator_role": "an anonymous woman caller (stranger)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s6-e6-panic-attack-city-je",
+        "13-wcn-presents-je-s6-updates",
+        "23-wcn-presents-je-s6-updates",
+        "33-wcn-presents-je-s6-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police precinct in the parents' Pittsburgh jurisdiction",
+          "initiated_by": "person",
+          "when": "February 2019",
+          "what_was_asked": "Investigation and protection from the threatening calls.",
+          "what_institution_did": "Took the report; the season does not describe what this precinct did beyond J.E.'s general statement that police took it seriously.",
+          "quote": "So after speaking with my mother about these threats and sort of realizing the alarming nature of them, we both decided to call the police. We both lived in different jurisdictions, so two different precincts dealt with these calls respectively.",
+          "source": "s6-e6-panic-attack-city-je @ 18:49",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The case went to the county police and FBI.",
+          "notes": "She reported to the police in her own jurisdiction."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Allegheny County police and FBI (Pittsburgh), FBI liaison",
+          "initiated_by": "institution",
+          "when": "2019",
+          "what_was_asked": "Find the caller.",
+          "what_institution_did": "Set up an FBI liaison to contact with each call but could not trace the rerouted number; the investigation went dormant.",
+          "quote": "There was sort of like an FBI liaison that we contacted whenever we got another call.",
+          "source": "s6-e6-panic-attack-city-je @ 21:57",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Calls paused, then resumed in 2022 after the parents moved to the Miami area.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "FBI Miami field office",
+          "initiated_by": "unclear",
+          "when": "October 2022 to March 2023",
+          "what_was_asked": "Identify and stop the caller.",
+          "what_institution_did": "Investigated, identified the caller in California and arrested her in March 2023.",
+          "quote": "At that point, the investigation was taken over by the Miami FBI field office. The agents who essentially investigated the case and were able to identify who this caller was were really, really wonderful.",
+          "source": "13-wcn-presents-je-s6-updates @ 18:06",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Bond, rearrest, extradition to Florida.",
+          "notes": "Federal law enforcement recorded under police."
+        },
+        {
+          "n": 4,
+          "institution_type": "prosecutor",
+          "institution": "US Attorney's office, Southern District of Florida",
+          "initiated_by": "institution",
+          "when": "2023-2024",
+          "what_was_asked": "Prosecution.",
+          "what_institution_did": "Prosecuted; she pleaded guilty, including to a hate crime.",
+          "quote": "It was very, very clear that she was guilty of the crimes that she was being charged with, one of which was a hate crime.",
+          "source": "13-wcn-presents-je-s6-updates @ 23:24",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Sentencing hearing.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "federal court in Miami (sentencing judge)",
+          "initiated_by": "institution",
+          "when": "2024",
+          "what_was_asked": "A just sentence.",
+          "what_institution_did": "Sentenced her to 32 months plus three years of supervised release.",
+          "quote": "The judge delivered his sentence. In the end, she was given 32 months with time served. So that's a few years with three years of supervised release.",
+          "source": "33-wcn-presents-je-s6-updates @ 13:07",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "The caller apologized to J.E.'s mother and stepfather by name.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "Meaning that after she's released, if she tries to contact us, she'll be arrested and imprisoned.",
+      "outcome_source": "33-wcn-presents-je-s6-updates @ 14:07",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "The agents who essentially investigated the case and were able to identify who this caller was were really, really wonderful.",
+      "decisive_work_source": "13-wcn-presents-je-s6-updates @ 18:06",
+      "time_to_first_effective_action": "about four years after the first police report (February 2019 to the March 2023 arrest)",
+      "months_to_first_effective_action": 49,
+      "contacts_before_first_effective_action": 2,
+      "evidence_types": [
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Evidence of her harm: J.E.'s victim impact statement read on air ('You threatened my mother's life ... You fantasized about shoving objects inside of my mother', 23-wcn @ 21:29). She did substantial evidence work, installing a call-recording app 'to essentially build a cache of evidence that was forensically irrefutable' (13-wcn @ 14:59), so the_person is a contributor; decisive could arguably be the_person."
+    },
+    {
+      "person_id": "P13",
+      "name": "Cecil Rosenthal",
+      "role_in_story": "other",
+      "harm": "Congregant with fragile X syndrome who greeted worshippers at the door; shot and killed in the 2018 Tree of Life massacre alongside his brother David.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s6-e5-massacre-at-the-tree-of-life-synagogue-je",
+        "s6-e6-panic-attack-city-je",
+        "23-wcn-presents-je-s6-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the Tree of Life shooting",
+          "initiated_by": "unclear",
+          "when": "27 October 2018, during the attack",
+          "what_was_asked": "n/a (emergency response)",
+          "what_institution_did": "Police responded to the attack; four officers were injured. The season does not describe an arrest or prosecution.",
+          "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+          "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Funerals followed after autopsies.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "just laying in blood, how he died alongside his brother David.",
+      "outcome_source": "s6-e6-panic-attack-city-je @ 9:35",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Killed in the shooting, so the outcome is not_protected. Told through J.E. and their Vanity Fair essay read on air. The outcome quote continues a sentence that begins at 8:28 ('How he saw Cecil Rosenthal, a giant of a man,'). J.E.'s mother attended the brothers' funeral."
+    },
+    {
+      "person_id": "P14",
+      "name": "David Rosenthal",
+      "role_in_story": "other",
+      "harm": "Cecil's brother, also with fragile X syndrome; killed in the Tree of Life massacre, believed to have run to his brother.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s6-e5-massacre-at-the-tree-of-life-synagogue-je",
+        "s6-e6-panic-attack-city-je"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the Tree of Life shooting",
+          "initiated_by": "unclear",
+          "when": "27 October 2018, during the attack",
+          "what_was_asked": "n/a (emergency response)",
+          "what_institution_did": "Police responded to the attack; four officers were injured. The season does not describe an arrest or prosecution.",
+          "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+          "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Funerals followed after autopsies.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She then said that she knew that would have meant David would have also died because he Because he couldn't be without his brother.",
+      "outcome_source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 17:16",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Killed in the shooting, so the outcome is not_protected. Told through J.E. and their Vanity Fair essay read on air. The surname is inferred from 'Cecil and David ... the brothers'."
+    },
+    {
+      "person_id": "P15",
+      "name": "Rose Mallinger",
+      "role_in_story": "other",
+      "harm": "97-year-old congregant shot dead while attending services with her daughter; the grandmother of J.E.'s former school friend.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s6-e5-massacre-at-the-tree-of-life-synagogue-je",
+        "s6-e6-panic-attack-city-je"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the Tree of Life shooting",
+          "initiated_by": "unclear",
+          "when": "27 October 2018, during the attack",
+          "what_was_asked": "n/a (emergency response)",
+          "what_institution_did": "Police responded to the attack; four officers were injured. The season does not describe an arrest or prosecution.",
+          "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+          "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Funerals followed after autopsies.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "a few of us knew the grandson of Rose Malinger, who was gunned down while attending services with her daughter. She was 97 years old.",
+      "outcome_source": "s6-e6-panic-attack-city-je @ 9:35",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Killed in the shooting, so the outcome is not_protected. Told through J.E. and their Vanity Fair essay read on air. Her daughter, who was with her, is not otherwise described."
+    },
+    {
+      "person_id": "P16",
+      "name": "Dr. Jerry Rabinowitz (transcribed 'Rubinowitz')",
+      "role_in_story": "other",
+      "harm": "Physician killed in the Tree of Life massacre, remembered at a vigil for respecting a trans patient's pronouns.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s6-e6-panic-attack-city-je"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the Tree of Life shooting",
+          "initiated_by": "unclear",
+          "when": "27 October 2018, during the attack",
+          "what_was_asked": "n/a (emergency response)",
+          "what_institution_did": "Police responded to the attack; four officers were injured. The season does not describe an arrest or prosecution.",
+          "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+          "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Funerals followed after autopsies.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Remember, Dr. Jerry Rubinowitz, who made sure to learn. Their proper pronouns, after they began transitioning with the same compassion he showed each of his patients.",
+      "outcome_source": "s6-e6-panic-attack-city-je @ 9:35",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Killed in the shooting, so the outcome is not_protected. Told through J.E. and their Vanity Fair essay read on air. Name as transcribed; the spelling correction is a guess."
+    },
+    {
+      "person_id": "P17",
+      "name": "Daniel Stein (transcribed 'Stahine')",
+      "role_in_story": "other",
+      "harm": "Killed in the Tree of Life massacre; a vigil speaker's former tutor.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s6-e6-panic-attack-city-je"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the Tree of Life shooting",
+          "initiated_by": "unclear",
+          "when": "27 October 2018, during the attack",
+          "what_was_asked": "n/a (emergency response)",
+          "what_institution_did": "Police responded to the attack; four officers were injured. The season does not describe an arrest or prosecution.",
+          "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+          "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Funerals followed after autopsies.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Daniel Stahine, another victim, was their benamus, Fetutor,",
+      "outcome_source": "s6-e6-panic-attack-city-je @ 9:35",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Killed in the shooting, so the outcome is not_protected. Told through J.E. and their Vanity Fair essay read on air. Name as transcribed; the spelling correction is a guess. Close to a bare mention."
+    },
+    {
+      "person_id": "P18",
+      "name": "Joyce Feinberg",
+      "role_in_story": "other",
+      "harm": "Killed in the Tree of Life massacre, aged 75; J.E.'s mother attended her funeral.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s6-e5-massacre-at-the-tree-of-life-synagogue-je",
+        "s6-e6-panic-attack-city-je"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the Tree of Life shooting",
+          "initiated_by": "unclear",
+          "when": "27 October 2018, during the attack",
+          "what_was_asked": "n/a (emergency response)",
+          "what_institution_did": "Police responded to the attack; four officers were injured. The season does not describe an arrest or prosecution.",
+          "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+          "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Funerals followed after autopsies.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I know my mom went to Joyce's, she went to Cecil and David's,",
+      "outcome_source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 25:39",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Killed in the shooting, so the outcome is not_protected. Told through J.E. and their Vanity Fair essay read on air. Full name and age are from the closing list of names (s6-e6 @ 30:14). Close to a bare mention."
+    },
+    {
+      "person_id": "P19",
+      "name": "[unnamed] father of J.E.'s high-school friend",
+      "role_in_story": "other",
+      "harm": "Killed in the Tree of Life massacre; his son, J.E.'s friend, spoke at his funeral.",
+      "perpetrator_role": "a gunman (antisemitic mass shooter)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s6-e5-massacre-at-the-tree-of-life-synagogue-je"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the Tree of Life shooting",
+          "initiated_by": "unclear",
+          "when": "27 October 2018, during the attack",
+          "what_was_asked": "n/a (emergency response)",
+          "what_institution_did": "Police responded to the attack; four officers were injured. The season does not describe an arrest or prosecution.",
+          "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+          "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Funerals followed after autopsies.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "But he spoke at his father's funeral.",
+      "outcome_source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 26:42",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Killed in the shooting, so the outcome is not_protected. Told through J.E. and their Vanity Fair essay read on air. The son is named in the show but is not coded as a harmed person, so he is not named here."
+    },
+    {
+      "person_id": "P20",
+      "name": "Tiffany Reese (Craigslist room tour)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "At about 21, while desperate for housing, she toured a cheap room whose roughly 70-year-old owner steered her to his wife's bathtub, invited her to the couple's sex parties and hinted at a sex-for-rent 'agreement' like another tenant's; she felt he was coming on to her and responded with a fawn response.",
+      "perpetrator_role": "the elderly homeowner advertising the room",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e7-frank-mary-michael"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I think we lied to just said we found another place. I felt like if we made him mad, that would have been bad news.",
+            "source": "s6-e7-frank-mary-michael @ 32:52"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I think we lied to just said we found another place. I felt like if we made him mad, that would have been bad news.",
+      "outcome_source": "s6-e7-frank-mary-michael @ 32:52",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The podcast host's own story; her husband Michael was present and corroborates (second_witness). The quoted fear explains declining the room, not a decision about reporting, so the reason is not_stated. She mentions being a sexual assault survivor with no further story."
+    },
+    {
+      "person_id": "P21",
+      "name": "Michael Reese",
+      "role_in_story": "co_victim",
+      "harm": "Present on the same tour; the homeowner proposed what they both understood as a sexual arrangement involving them both.",
+      "perpetrator_role": "the elderly homeowner advertising the room",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s6-e7-frank-mary-michael"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "He was trying to propose like some sort of sexual situation between all of us is what I felt at the time. Do you disagree? I don't disagree.",
+            "source": "s6-e7-frank-mary-michael @ 28:51"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I think we lied to just said we found another place. I felt like if we made him mad, that would have been bad news.",
+      "outcome_source": "s6-e7-frank-mary-michael @ 32:52",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Most of the conduct was aimed at Tiffany; Michael is included as a co-victim of the proposition."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "other people Kaelyn's perpetrator catfished ('multiple people'), beyond Tiffany",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "I come to find out that she, [perpetrator] had catfished multiple people",
+      "source": "s6-e1-so-many-lies-kaelyn @ 18:54"
+    },
+    {
+      "description": "the woman who drove the white Jeep, harassed by Kaelyn's perpetrator (Kaelyn later apologized to her)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "And it was somebody else that [perpetrator] was harassing.",
+      "source": "s6-e1-so-many-lies-kaelyn @ 26:05"
+    },
+    {
+      "description": "women the man at Old Chicago lured with fake dating and roommate ads, who usually left with him seeming more intoxicated than their drinks explained",
+      "count_stated": null,
+      "reached_institution": "no",
+      "quote": "And usually they go have dinner with him. And also too, like they we serve them drinks, like because obviously they're ordering them.",
+      "source": "s6-e2-predator-jez @ 16:31"
+    },
+    {
+      "description": "other female therapists who shared stories of harassing phone calls under Ilyse's post",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "A lot of other people shared their stories of receiving these types of phone calls.",
+      "source": "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c @ 27:43"
+    },
+    {
+      "description": "the remaining Tree of Life victims killed (11 in total; Richard Gottfried, 65, is named in the list of names), and four police officers and two others injured",
+      "count_stated": 11,
+      "reached_institution": "yes",
+      "quote": "Eleven members of the Tree of Life community were murdered. Four police officers and two others were also injured.",
+      "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 3:22"
+    },
+    {
+      "description": "a family friend who survived the shooting by hiding in a bathroom",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "One, a family friend, told me that after he had hidden in a bathroom and waited until the wild and brittle sound of gunfire ceased, he stepped out into a bright space and saw Cecil Rosenthal adrift in a pool of blood.",
+      "source": "23-wcn-presents-je-s6-updates @ 10:54"
+    },
+    {
+      "description": "J.E.'s close college friend killed in a hit-and-run weeks before the shooting",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "I had lost one of my closest friends from college in a car accident, which it was very, or a hit-and-run.",
+      "source": "s6-e5-massacre-at-the-tree-of-life-synagogue-je @ 27:45"
+    },
+    {
+      "description": "Antwon Rose II, a young man killed by a police officer who was reportedly acquitted",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "He was a young adult who was murdered by a police officer who I believe was acquitted.",
+      "source": "13-wcn-presents-je-s6-updates @ 4:31"
+    },
+    {
+      "description": "the caller's partner, at whom she threw a heavy object (she was arrested)",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "And then she was arrested again over a domestic act of violence. She had thrown a heavy object at her partner.",
+      "source": "13-wcn-presents-je-s6-updates @ 20:10"
+    },
+    {
+      "description": "parents of a Parkland shooting victim targeted by a website and emails (case cited by the defense)",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "He sent a number of messages via email to her parents and targeted them.",
+      "source": "23-wcn-presents-je-s6-updates @ 28:50"
+    },
+    {
+      "description": "the homeowner's other tenant (a massage therapist) who joined the couple's sex parties instead of paying rent, after at first not wanting to",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "And that at first, she didn't really want to. But now she's been participating in their parties once a month.",
+      "source": "s6-e7-frank-mary-michael @ 29:52"
+    }
+  ],
+  "coder_notes": "Season 6 holds seven numbered episodes plus three 'WCN Presents: J.E. S6 Updates' parts (in s06_03 and s06_04). Episodes 3 and 4 are expert and guest-panel episodes, and their guests' own harassment experiences are coded as update_or_listener_story. Episode 7 is the host's own story. Only J.E.'s stalking case shows substantial institutional involvement. Judgment calls: (1) Jez - Old Chicago restaurant staff coded as an institution (type other); otherwise not_protected. (2) J.E. - the employer contact is coded blamed_punished on J.E.'s hedged attribution. (3) Tree of Life victims - separate records only for the seven victims described individually; police response coded unclear because the season does not describe the shooter's arrest or prosecution. (4) Jill's apartment-post criticism is not coded as a harm. (5) Kaelyn's later emotionally abusive boyfriend and several guests' passing references to past trauma (Jez, Ilyse, Tiffany Reese, J.E.'s childhood slur) have no story, so they get no separate records and are noted in the relevant records. In quotations the catfisher's name is replaced with [perpetrator], and I chose quotations that name no non-victims. Two usage-limit interruptions caused no loss of reading: notes were written after each file."
+}
