@@ -1,0 +1,63 @@
+{
+  "season": 0,
+  "coder": "your coder label",
+  "reading_log": [
+    {"file": "s00_01.txt", "last_line_number": 0, "read_in_full": true, "problems": ""}
+  ],
+  "unassigned_checked": [
+    {"slug": "episode-slug", "opened": true, "read_in_full": true, "relevant_to": ["person_id"], "why": "listed as a follow-up on ..."}
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "name the show uses, or [unnamed] description",
+      "role_in_story": "central_survivor | child | co_victim | other_victim_same_perpetrator | update_or_listener_story | other",
+      "harm": "one or two sentences in your words",
+      "perpetrator_role": "e.g. her ex-husband (never a name)",
+      "perpetrator_convicted": "yes | no | charged_not_convicted | unknown",
+      "deceased": false,
+      "episodes": ["slug", "slug"],
+      "reached_institution": "yes | no | unclear",
+      "never_reached": {
+        "reasons": ["fear_of_abuser"],
+        "quotes": [{"reason": "fear_of_abuser", "quote": "verbatim", "source": "slug @ mm:ss"}]
+      },
+      "harm_ongoing_at_first_contact": "yes | no | unclear | not_applicable",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "as named, or description",
+          "initiated_by": "person",
+          "when": "as the story gives it",
+          "what_was_asked": "",
+          "what_institution_did": "",
+          "quote": "verbatim passage showing what the institution did",
+          "source": "slug @ mm:ss",
+          "response": "believed_and_acted | acted_partly | did_nothing_or_delayed | disbelieved | blamed_punished_or_counter_accused | condition_as_dismissal | protected_itself | unclear",
+          "basis": ["person_account"],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected | partly_protected | not_protected | harmed_by_institution | never_reached",
+      "outcome_quote": "verbatim",
+      "outcome_source": "slug @ mm:ss",
+      "protection_contributors": ["the_person"],
+      "decisive_work_by": "the_person | family_or_friends | other_victims | journalists_podcast_or_virality | institution | unclear | null",
+      "decisive_work_quote": "verbatim or null",
+      "decisive_work_source": "slug @ mm:ss or null",
+      "time_to_first_effective_action": "text or null",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": ["person_account_alone"],
+      "confidence": "high | medium | low",
+      "notes": ""
+    }
+  ],
+  "others_mentioned": [
+    {"description": "e.g. other women the perpetrator targeted, not otherwise described", "count_stated": null, "reached_institution": "yes | no | unknown", "quote": "verbatim", "source": "slug @ mm:ss"}
+  ],
+  "coder_notes": "anything about the season as a whole, including anything you could not read"
+}
