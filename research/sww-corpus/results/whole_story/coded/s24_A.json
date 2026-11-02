@@ -1,0 +1,3683 @@
+{
+  "season": 24,
+  "coder": "A",
+  "reading_log": [
+    {
+      "file": "s24_01.txt",
+      "last_line_number": 127,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_02.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_03.txt",
+      "last_line_number": 110,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_04.txt",
+      "last_line_number": 120,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_05.txt",
+      "last_line_number": 125,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_06.txt",
+      "last_line_number": 122,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_07.txt",
+      "last_line_number": 117,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_08.txt",
+      "last_line_number": 108,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_09.txt",
+      "last_line_number": 113,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_10.txt",
+      "last_line_number": 115,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_11.txt",
+      "last_line_number": 107,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_12.txt",
+      "last_line_number": 110,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_13.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    },
+    {
+      "file": "s24_14.txt",
+      "last_line_number": 30,
+      "read_in_full": true,
+      "problems": "Read across several sessions interrupted by usage limits; every line range was read and notes written after each file."
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "INDEX.txt (list only)",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Read the index as instructed. No listed episode (Black Lives Matter, Data Points topical episodes, Exciting SWW Updates, Death County PA trailer, WCN Caitlin Mathis) concerns the troubled teen industry or any Season 24 person, so none were opened."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Kristen Chase",
+      "role_in_story": "other",
+      "harm": "16-year-old who died of heatstroke at the Challenger Foundation wilderness program in Utah in 1990.",
+      "perpetrator_role": "the wilderness program's owner",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": true,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "prosecutor",
+          "institution": "prosecuting authority (Utah)",
+          "initiated_by": "institution",
+          "when": "after her death in 1990",
+          "what_was_asked": "n/a (death)",
+          "what_institution_did": "Charged the program owner with negligent homicide and child abuse.",
+          "quote": "As a result of her death, the program's owner was charged with negligent homicide, which is a Class A misdemeanor and child abuse.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 15:33",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Case went to trial.",
+          "notes": "Host narration; basis is the show's narration of public record (no on-air document)."
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "court (Utah)",
+          "initiated_by": "institution",
+          "when": "after 1990",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Acquitted the owner on all five charges.",
+          "quote": "However, he was acquitted and found not guilty on all five charges.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 15:33",
+          "response": "unclear",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "No conviction.",
+          "notes": "Acquittal is not shown as disbelief of the victim; coded unclear."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "However, he was acquitted and found not guilty on all five charges.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 15:33",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Background case in host narration only. Died from the harm, so outcome is not_protected regardless of any later action. Evidence: host narration of a court outcome (acquittal), no document read on air; coded person_account_alone as nothing else backs it on air."
+    },
+    {
+      "person_id": "P02",
+      "name": "Aaron Bacon",
+      "role_in_story": "other",
+      "harm": "16-year-old who died of acute peritonitis at North Star Expeditions in Utah in 1994 through negligence and lack of medical attention.",
+      "perpetrator_role": "program owners and staff",
+      "perpetrator_convicted": "yes",
+      "deceased": true,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "prosecutor",
+          "institution": "prosecuting authority (Utah)",
+          "initiated_by": "institution",
+          "when": "after his death in 1994",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Charged several staff, including the owners, with abuse and neglect; owners and a staffer pled guilty to negligent homicide and another staffer was convicted.",
+          "quote": "Several staff members at North Star, including owners [perpetrator] and [perpetrator], were charged with abuse and neglect after Aaron's death.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 16:41",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "Guilty pleas and a conviction followed.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "court (Utah)",
+          "initiated_by": "institution",
+          "when": "after 1994",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Accepted guilty pleas; convicted a staffer of felony abuse or neglect and sentenced him to a year in jail and probation.",
+          "quote": "Another staffer, [perpetrator], was found guilty of felony abuse or neglect of a disabled child and sentenced to a year in jail and 36 months probation.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 16:41",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "Sentences imposed.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Although the death was medically considered natural causes, it was a result of negligence and lack of medical attention.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 16:41",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Background case in host narration. Died from the harm, so the convictions are recorded as contacts but outcome is not_protected."
+    },
+    {
+      "person_id": "P03",
+      "name": "Lulu (Kids of North Jersey; transcribed 'Lulu Porter'/'Lulu Quarter'/'Lulu Corridor')",
+      "role_in_story": "other",
+      "harm": "Signed into Kids of North Jersey at 13 in 1984 and held for 13 years, subjected to kidnappings, beatings, forced labour, forced false confessions and restraint on the floor for hours.",
+      "perpetrator_role": "the program's founder, his wife and an assistant director",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "civil court (jury)",
+          "initiated_by": "person",
+          "when": "2003 lawsuit, after the programs were closed",
+          "what_was_asked": "Damages from the founder, his wife and an assistant director.",
+          "what_institution_did": "Heard her civil lawsuit; she was ultimately awarded a $6.5 million settlement.",
+          "quote": "Ultimately, Lulu was awarded a $6.5 million settlement.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 36:26",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "Award made; no criminal action described.",
+          "notes": "Separately, New Jersey sued the founder for Medicaid overbilling and the program was shut down (1999), but that action was not prompted by her and was about billing, so it is not recorded as her contact."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "In August 1997, Lulu finally escaped the kids' program.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 35:24",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": "the award came about six years after she escaped",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Host narration plus Maia Szalavitz interview. Harm ended because she escaped (not institutional action), so the later civil award is recorded as a contact but the outcome is not_protected. Evidence types: narration of a civil outcome (settlement) only; no conviction."
+    },
+    {
+      "person_id": "P04",
+      "name": "Danielle Bregoli",
+      "role_in_story": "other",
+      "harm": "Referred at 13 by Dr. Phil to Turnabout Ranch, Utah; reports being taken in the night, handcuffed, sleep and food deprived and witnessing restraints and violence.",
+      "perpetrator_role": "Turnabout Ranch staff",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "Danielle says she was inspired to share her story after a fellow program attendee and Dr. Phil alum named Hannah Archeletta accused one of the Turnabout staffers of sexual assault.",
+            "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 20:54"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "Despite Dr. Phil's deflection, Burgoli and fellow Turnabout Ranch survivor Hannah Archiletta continue to partner with the nonprofit Breaking Code Silence, using their experiences to advocate for reform",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 21:54",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Background case. She spoke out publicly (YouTube) and demanded an apology from Dr. Phil, who responded in a TV interview; neither is an institution with a duty to respond under the instructions. No report to police, licensing or courts is described."
+    },
+    {
+      "person_id": "P05",
+      "name": "Hannah Archuleta (transcribed 'Archeletta')",
+      "role_in_story": "other",
+      "harm": "Turnabout Ranch attendee who accused a staff member of sexual assault.",
+      "perpetrator_role": "a Turnabout Ranch staff member",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Hannah Archeletta accused one of the Turnabout staffers of sexual assault.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 20:54",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "The show says she 'accused' the staffer but not to whom, nor any response. Coded unclear reach; outcome not_protected because no institutional action is shown."
+    },
+    {
+      "person_id": "P06",
+      "name": "Paris Hilton",
+      "role_in_story": "other",
+      "harm": "Abused, including sexually, at Provo Canyon School as a teen in the late 1990s.",
+      "perpetrator_role": "Provo Canyon School staff",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "state legislature (bill regulating institutions), 2021",
+          "initiated_by": "person",
+          "when": "2021",
+          "what_was_asked": "Pass a bill regulating youth institutions.",
+          "what_institution_did": "Heard her testimony about her experiences in support of a regulatory bill.",
+          "quote": "In 2021, she testified in favor of a bill that regulates institutions sharing about her experiences at the residential treatment center.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 22:54",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Outcome of the 2021 bill not stated.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "U.S. Congress (Stop Institutional Child Abuse Act)",
+          "initiated_by": "person",
+          "when": "2023-2024",
+          "what_was_asked": "Pass the Stop Institutional Child Abuse Act.",
+          "what_institution_did": "Senate passed the Act unanimously and the House passed it 373 to 33 days after her speech.",
+          "quote": "Days after her speech, the Stop Institutional Child Abuse Act was passed by the House of Representatives with a vote of 373 to 33.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 24:59",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Legislation passed; nothing is said about action concerning Provo Canyon or her abusers.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Days after her speech, the Stop Institutional Child Abuse Act was passed by the House of Representatives with a vote of 373 to 33.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 24:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Background case. Her contacts were legislative advocacy rather than a report seeking action against her abusers; I recorded them because she brought her harm to bodies with power to respond. The harm had ended long before and no action concerning her own abusers is described, so outcome not_protected. Basis 'record_checked_by_show' for the vote is a judgment call (host cites news sources)."
+    },
+    {
+      "person_id": "P07",
+      "name": "[unnamed] 13-year-old girl who died at Asheville Academy",
+      "role_in_story": "other",
+      "harm": "Died by suicide at Asheville Academy, North Carolina, on May 3, 2025; state investigators later found the program failed to provide adequate supervision and to protect children from potential abuse.",
+      "perpetrator_role": "Asheville Academy and its parent company",
+      "perpetrator_convicted": "no",
+      "deceased": true,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "regulator_or_licensing",
+          "institution": "North Carolina state health authorities",
+          "initiated_by": "institution",
+          "when": "May-June 2025",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Halted new admissions, found three A1-level violations and fined the parent company $45,000; the academy terminated operations.",
+          "quote": "The parent company, Wilderness Training and Consulting, also known as Family Help and Wellness, was fined $45,000 for, quote, failing to provide adequate staff supervision, violating clients' rights,",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 27:02",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Investigation reported as still ongoing in June 2025.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "On May 3, 2025, a 13-year-old girl died by suicide at Asheville Academy, a residential treatment school for girls in Weaverville, North Carolina.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 25:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "low",
+      "notes": "Background case in host narration citing news sources. The death is attributed to the program's failures by the state findings as narrated; died from the harm so outcome not_protected. The regulator acted on the program, not specifically for this child."
+    },
+    {
+      "person_id": "P08",
+      "name": "[unnamed] 12-year-old girl who died at Asheville Academy",
+      "role_in_story": "other",
+      "harm": "Died by suicide at Asheville Academy, North Carolina, on May 29, 2025; state investigators later found the program failed to provide adequate supervision and to protect children from potential abuse.",
+      "perpetrator_role": "Asheville Academy and its parent company",
+      "perpetrator_convicted": "no",
+      "deceased": true,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "regulator_or_licensing",
+          "institution": "North Carolina state health authorities",
+          "initiated_by": "institution",
+          "when": "May-June 2025",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Halted new admissions, found three A1-level violations and fined the parent company $45,000; the academy terminated operations.",
+          "quote": "The parent company, Wilderness Training and Consulting, also known as Family Help and Wellness, was fined $45,000 for, quote, failing to provide adequate staff supervision, violating clients' rights,",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 27:02",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Investigation reported as still ongoing in June 2025.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Tragically, just days later, on May 29th, a 12th, 12-year-old girl died by suicide at the same campus, marking the second death by suicide in less than four weeks.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 27:02",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "low",
+      "notes": "Background case in host narration citing news sources. The death is attributed to the program's failures by the state findings as narrated; died from the harm so outcome not_protected. The regulator acted on the program, not specifically for this child."
+    },
+    {
+      "person_id": "P09",
+      "name": "[unnamed] former Red Rock Canyon School student",
+      "role_in_story": "other",
+      "harm": "Sexually abused and impregnated by a staff member while a minor at Red Rock Canyon School, Utah; multiple adults at the school allegedly knew and allowed it to continue.",
+      "perpetrator_role": "a staff member at Red Rock Canyon School",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Red Rock Canyon School (adults on staff)",
+          "initiated_by": "unclear",
+          "when": "while she was a minor at the school",
+          "what_was_asked": "unclear",
+          "what_institution_did": "Adults at the school, including the staff member's sister, allegedly knew of the abuse and allowed it to continue.",
+          "quote": "multiple adults at the school, including his sister, knew about it and allowed it to continue.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 28:02",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Abuse continued.",
+          "notes": "Could also be did_nothing_or_delayed; 'allowed it to continue' by colleagues/relative read as closing ranks."
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "civil court (Utah)",
+          "initiated_by": "person",
+          "when": "May 2025",
+          "what_was_asked": "Damages ($10 million) from the school, parent company and two former staff.",
+          "what_institution_did": "Lawsuit filed; no outcome given.",
+          "quote": "A former student at Red Rock Canyon School in St. George filed a $10 million lawsuit today.",
+          "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 56:30",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Pending as of the season.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She's accusing the now-closed school, its parent company, and two former staff members of negligence, failure to supervise, sexual assault, and more.",
+      "outcome_source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 56:30",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Background case from host narration and a news clip. Basis is the lawsuit's allegations as reported."
+    },
+    {
+      "person_id": "P10",
+      "name": "Taylor Goodridge",
+      "role_in_story": "other",
+      "harm": "17-year-old who died at Diamond Ranch Academy, Utah; the show describes upsetting details of her death.",
+      "perpetrator_role": "Diamond Ranch Academy",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s24-ep2-unsilenced-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "a Utah state senator",
+          "initiated_by": "family_or_friends",
+          "when": "after her death (about two years before the interview)",
+          "what_was_asked": "Help after her death.",
+          "what_institution_did": "Family was connected with a state senator; what the senator did is not described.",
+          "quote": "And reaching Taylor's family, they reached out and they said, can we get your help? We don't know what to do.",
+          "source": "s24-ep2-unsilenced-2 @ 33:38",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Family retained an attorney; Unsilenced found whistleblowers and witnesses; no legal outcome stated.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "About two years ago, there was a death in a facility, Diamond Ranch Academy in Utah. Taylor Goodridge passed away. She was 17 years old.",
+      "outcome_source": "s24-ep2-unsilenced-2 @ 33:38",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Told by Meg Appelgate (advocate who helped the family). Outcome of any legal case not stated."
+    },
+    {
+      "person_id": "P11",
+      "name": "Baruch Silvers",
+      "role_in_story": "other",
+      "harm": "17-year-old who died by suicide at Discovery Ranch, Utah, in November 2024; staff allegedly ignored mental-health warnings and left him unsupervised with means to harm himself.",
+      "perpetrator_role": "Discovery Ranch staff and program",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s24-ep2-unsilenced-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "regulator_or_licensing",
+          "institution": "Utah state licensors",
+          "initiated_by": "unclear",
+          "when": "after his death",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Confirmed multiple violations including improper supervision and neglect of his care plan.",
+          "quote": "State licensors confirmed multiple violations on Discovery Ranch's behalf, including improper supervision and neglect of his care plan.",
+          "source": "s24-ep2-unsilenced-2 @ 44:15",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "No sanction described.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "civil court (Utah)",
+          "initiated_by": "family_or_friends",
+          "when": "May 2025",
+          "what_was_asked": "Damages for his death.",
+          "what_institution_did": "Lawsuit filed; outcome not stated.",
+          "quote": "In May of 2025, the parents of 17-year-old Baruch Silvers sued Discovery Ranch Academy, a Utah Teen Treatment Center after he died by suicide there in November 24.",
+          "source": "s24-ep2-unsilenced-2 @ 44:15",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Parents struggling to get news coverage.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "his parents and I are trying to fight to get into the news.",
+      "outcome_source": "s24-ep2-unsilenced-2 @ 43:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show",
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Told by Meg Appelgate and host narration. Died from the harm; not_protected."
+    },
+    {
+      "person_id": "P12",
+      "name": "Meg (Intermountain Hospital)",
+      "role_in_story": "central_survivor",
+      "harm": "Taken by transport at 15 and held at Intermountain Hospital, Boise, where she was put on 'desk space and random draw' for about six weeks, heavily medicated, and allowed contact with parents only with a therapist present.",
+      "perpetrator_role": "Intermountain Hospital staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep2-unsilenced-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "other",
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "I never got to speak to my parents without a therapist in the room.",
+            "source": "s24-ep2-unsilenced-2 @ 11:29"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I wouldn't have said at that point, I was abused and childhood. Or I went to abusive programs.",
+            "source": "s24-ep2-unsilenced-2 @ 29:23"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "My parents only found out about it once I woke up when I was like 33, 34.",
+      "outcome_source": "s24-ep2-unsilenced-2 @ 25:15",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "'other' reason = communication with parents always supervised by facility therapist. Separate record from Chrysalis (different institution). Meg later founded Unsilenced."
+    },
+    {
+      "person_id": "P13",
+      "name": "Meg (Chrysalis School Montana)",
+      "role_in_story": "central_survivor",
+      "harm": "At Chrysalis therapeutic boarding school (Eureka, Montana) she was subjected to 'circle' attack therapy, forced labour, inadequate medical care and verbal abuse by an owner/therapist (called a pig).",
+      "perpetrator_role": "the school's owners/therapists",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep2-unsilenced-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Chrysalis co-owner and her primary therapist",
+          "initiated_by": "person",
+          "when": "while at Chrysalis (early 2000s)",
+          "what_was_asked": "Address the abuse she was experiencing from the other owner.",
+          "what_institution_did": "Did not address it.",
+          "quote": "I was telling her about abuse I was experiencing from [perpetrator]. I would say like, [perpetrator] called me a pig and she wouldn't address it.",
+          "source": "s24-ep2-unsilenced-2 @ 21:01",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Abuse continued; parents were told only of progress.",
+          "notes": "The person told was herself a co-owner of the abusing institution (institution_was_abusers); could also be read as protected_itself."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And it is still in operation.",
+      "outcome_source": "s24-ep2-unsilenced-2 @ 2:05",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Outcome quote is the host's statement that Chrysalis is still operating. Meg did not recognise it as abuse until her 30s; parents never learned until then."
+    },
+    {
+      "person_id": "P14",
+      "name": "Malia",
+      "role_in_story": "central_survivor",
+      "harm": "At 14, sent to Second Nature Entrada wilderness program (Utah, Apr-Jun 2009): internal exam and strip search, sleeping wrapped in a tarp between staff, forced to work with fractured hands without casts, humiliation, attack therapy and a forced false confession; staff covered up abuse.",
+      "perpetrator_role": "wilderness program staff and therapist",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep3-a-carcass-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "her Second Nature therapist",
+          "initiated_by": "person",
+          "when": "2009, after her impact letter",
+          "what_was_asked": "To be believed that she should not be there and was not okay.",
+          "what_institution_did": "Humoured her, letting her think he believed her.",
+          "quote": "At first, he was humoring me. I was saying, I'm not supposed to be here. This isn't okay. I'm not okay. He was just letting me believe that he believed me.",
+          "source": "s24-ep3-a-carcass-2 @ 55:16",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She stayed; he told parents she was doing better.",
+          "notes": "Therapist was part of the abusing program."
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "her high school teachers",
+          "initiated_by": "person",
+          "when": "high school, after the program",
+          "what_was_asked": "Help (communicated through writing about wilderness).",
+          "what_institution_did": "Received her writing about the program and her distress but nobody acted.",
+          "quote": "Looking back, I'm now disturbed at how nobody said a thing. Nobody did anything really to help me.",
+          "source": "s24-ep3-a-carcass-2 @ 72:07",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She was instead told she was 'addicted to teachers'.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "these people like [perpetrator], the educational consultant and all of the people that did this to me, more than likely they will not face criminal charges.",
+      "outcome_source": "s24-ep3-a-carcass-2 @ 81:24",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "Educational consultant's name replaced with [perpetrator] in the outcome quote. Document: 2009 field jargon dictionary and her notebooks read on air. The former co-owner's statement urges reporting to authorities. The therapist still works in the industry."
+    },
+    {
+      "person_id": "P15",
+      "name": "[unnamed] 12-year-old boy who died at Trails Carolina",
+      "role_in_story": "other",
+      "harm": "Died of asphyxiation due to smothering within 24 hours of arriving at Trails Carolina wilderness program in February 2024.",
+      "perpetrator_role": "Trails Carolina staff/program",
+      "perpetrator_convicted": "no",
+      "deceased": true,
+      "episodes": [
+        "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2",
+        "s24-ep4-this-couldve-been-you-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "Office of the Chief Medical Examiner, North Carolina",
+          "initiated_by": "institution",
+          "when": "2024",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Ruled the manner of death a homicide.",
+          "quote": "Although the office of the chief medical examiner for North Carolina listed the boy's manner of death as homicide, no charges were ultimately filed by the district attorney.",
+          "source": "s24-ep4-this-couldve-been-you-2 @ 3:09",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Ruling did not lead to charges.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "prosecutor",
+          "institution": "district attorney",
+          "initiated_by": "institution",
+          "when": "2024",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Filed no charges.",
+          "quote": "no charges were ultimately filed by the district attorney.",
+          "source": "s24-ep4-this-couldve-been-you-2 @ 3:09",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "No prosecution.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "regulator_or_licensing",
+          "institution": "North Carolina Department of Health and Human Services",
+          "initiated_by": "institution",
+          "when": "within two weeks of the death",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Admissions suspended, all children removed, investigation launched; licence later permanently revoked and the program closed.",
+          "quote": "Within two weeks of the death, the North Carolina Department of Health and Human Services confirmed that Trails Carolina had suspended admissions, all children were removed from their care, and the authorities had launched an investigation.",
+          "source": "s24-ep4-this-couldve-been-you-2 @ 3:09",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Licence permanently revoked; closed 2024.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "civil courts",
+          "initiated_by": "unclear",
+          "when": "2024-2025",
+          "what_was_asked": "Damages.",
+          "what_institution_did": "Trails Carolina settled a lawsuit and was sued twice more.",
+          "quote": "Trails Carolina has settled a lawsuit, been sued two more times,",
+          "source": "s24-ep4-this-couldve-been-you-2 @ 3:09",
+          "response": "unclear",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Not stated whether the settled suit concerned this boy.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "A decade later, February of 2024, a 12-year-old boy died of a 12-year-old boy died of asphyxiation due to smothering within 24 hours of arriving at Trails Carolina.",
+      "outcome_source": "s24-ep4-this-couldve-been-you-2 @ 3:09",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Host narration citing news (preview in ep1, details in ep4). Died from the harm; not_protected. Regulator action is coded acted_partly for him because it could not protect him (coded as an action on the program)."
+    },
+    {
+      "person_id": "P16",
+      "name": "Leanne (Trails Carolina)",
+      "role_in_story": "central_survivor",
+      "harm": "At 12, sent to Trails Carolina wilderness program (Nov 2017-Feb 2018): strip searched with a man present, freezing conditions, untreated parasites and UTIs, food used as punishment, weight fell from about 98 to 80 pounds; therapist used attack therapy.",
+      "perpetrator_role": "Trails Carolina staff and therapist",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep4-this-couldve-been-you-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "earlier_disbelief",
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "But you were heavily punished for sending an SOS letter.",
+            "source": "s24-ep4-this-couldve-been-you-2 @ 36:18"
+          },
+          {
+            "reason": "earlier_disbelief",
+            "quote": "I know it's hard, but you can do hard things, love you. And that was about it.",
+            "source": "s24-ep4-this-couldve-been-you-2 @ 36:18"
+          },
+          {
+            "reason": "institution_was_abusers",
+            "quote": "The group therapist would be the one handing list letters once a week from our parents and collecting letters that we would write to them once a week.",
+            "source": "s24-ep4-this-couldve-been-you-2 @ 35:16"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "these people who have operated the really bad ones have no consequences and can move forward and open a new one.",
+      "outcome_source": "s24-ep4-this-couldve-been-you-2 @ 78:35",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "She told her father in an 'SOS letter' (family, not an institution); he had been prepped to disbelieve it. 'I didn't directly to her' (did not complain to the therapist). Trails Carolina was later closed after another child's death (separate record). Document: she says 'I have the letter'."
+    },
+    {
+      "person_id": "P17",
+      "name": "Leanne (New Leaf Academy and Pacific Quest)",
+      "role_in_story": "central_survivor",
+      "harm": "At New Leaf Academy (Oregon, ~16 months) punitive labour 'learning opportunities', baby monitors, witnessing violent holds; at Pacific Quest (Hawaii, ~2 months) searches three times a day including male staff checking girls' bra straps and waistbands.",
+      "perpetrator_role": "program staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep4-this-couldve-been-you-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "There was a shattering realization that everything that I had been trying to tell him about my experience at Trails and New Leaves was not believed that he would do this again meant that he didn't think that my pain and my trauma was real.",
+            "source": "s24-ep4-this-couldve-been-you-2 @ 69:20"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I was so angry at everybody. I was super confrontational. There were no threatening behaviors,",
+      "outcome_source": "s24-ep4-this-couldve-been-you-2 @ 64:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Combined record for two later placements with lighter harms described; separate from Trails. She left by moving to a traditional boarding school and then getting her GED. Outcome quote is weak; no institution was told."
+    },
+    {
+      "person_id": "P18",
+      "name": "Leanne (mother)",
+      "role_in_story": "central_survivor",
+      "harm": "Her mother, an addict, hit her during drunken episodes (including a physical altercation that ended her living with her mother), cursed at her on calls and built a false psychiatric narrative about her.",
+      "perpetrator_role": "her mother",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep4-this-couldve-been-you-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Trails Carolina staff and group therapist",
+          "initiated_by": "person",
+          "when": "2017-2018",
+          "what_was_asked": "To be believed about her mother's hitting and drinking.",
+          "what_institution_did": "Adults told her she was making it up; the therapist was on board with her mother's narrative.",
+          "quote": "I'm having all these adults tell me that I'm crazy and then I'm making these things up and I start to believe it.",
+          "source": "s24-ep4-this-couldve-been-you-2 @ 35:16",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She came to believe it had not happened.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "her therapist at New Leaf Academy",
+          "initiated_by": "person",
+          "when": "2018-2019",
+          "what_was_asked": "Support when confronting her mother.",
+          "what_institution_did": "Recognised the mother's addiction, removed Leanne from abusive calls and told the mother she could not speak to her that way; after the mother's email giving up custody the school stopped requiring contact.",
+          "quote": "my therapist at the time she would kick me out of the room and be like, you can't talk to her this way. Like, I won't let you. You need to be calm. You need to be sober.",
+          "source": "s24-ep4-this-couldve-been-you-2 @ 51:46",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Mother gave up custody; contact no longer required; Leanne now has no contact with her mother.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "She wrote an email giving up custody of me saying that it was too difficult for her. It was then where they stopped making me communicate with her.",
+      "outcome_source": "s24-ep4-this-couldve-been-you-2 @ 53:53",
+      "protection_contributors": [
+        "institution",
+        "the_person"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "She was a big part in recognizing that my mom had an addiction issue.",
+      "decisive_work_source": "s24-ep4-this-couldve-been-you-2 @ 50:43",
+      "time_to_first_effective_action": "a few months into New Leaf, after the Trails placement",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "document_read_on_air",
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Physical abuse had largely stopped when she moved to her father's before any contact; ongoing harm at contact was verbal abuse on required calls. Leanne says her memories were later 'validated through like documents or other people's recounts'. Her own confrontation on the call (mother admitted hitting) contributed. Evidence: documents referred to, not read on air -> coded document_read_on_air is generous; flagged."
+    },
+    {
+      "person_id": "P19",
+      "name": "Leanne (older boy, age 14)",
+      "role_in_story": "central_survivor",
+      "harm": "At 14, shortly after leaving New Leaf, lost her virginity to an older boy in a way that was not safe or consensual.",
+      "perpetrator_role": "an older boy",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep4-this-couldve-been-you-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "At 14, I ended up losing my virginity to an older boy in not a safe or consensual way. It really set me in a spiral",
+            "source": "s24-ep4-this-couldve-been-you-2 @ 58:58"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "It really set me in a spiral along with being angry about everything else.",
+      "outcome_source": "s24-ep4-this-couldve-been-you-2 @ 58:58",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Brief mention; separate perpetrator."
+    },
+    {
+      "person_id": "P20",
+      "name": "Lindy (Adirondack Leadership Expeditions and Pennsylvania boarding school)",
+      "role_in_story": "central_survivor",
+      "harm": "At 16, strip searched by strangers including one of the opposite sex, physically dragged and tackled by male counselors, left in winter wilderness with an unlicensed therapist who censored her letters; then sent to a strict therapeutic boarding school despite pleading.",
+      "perpetrator_role": "wilderness program staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep6-an-accountability-letter-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "institution_was_abusers",
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "institution_was_abusers",
+            "quote": "There were a few times I may have referenced in my letters how horrible it was there, but everything was read by the counselors and my therapist",
+            "source": "s24-ep6-an-accountability-letter-2 @ 20:52"
+          },
+          {
+            "reason": "earlier_disbelief",
+            "quote": "Trying to confront is the most uncomfortable thing on the planet because it's gaslighting beyond belief. It's all, you made that up or you're not remember it correctly.",
+            "source": "s24-ep6-an-accountability-letter-2 @ 39:28"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I believe that she still thinks that I am embellishing or being overdramatic about certain situations.",
+      "outcome_source": "s24-ep6-an-accountability-letter-2 @ 52:13",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Police were called by her parents to make her go to the program; they told her she had to go. That was about forcing placement, not her harm, so not coded as a contact. Program closed 2013 citing finances."
+    },
+    {
+      "person_id": "P21",
+      "name": "Lindy (parents)",
+      "role_in_story": "central_survivor",
+      "harm": "As a child with ADHD her mother hit her with a wooden spoon, she was sat on, had her hands pulled behind her back, and was dropped on highways and told to walk home.",
+      "perpetrator_role": "her parents",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep6-an-accountability-letter-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "her pediatrician",
+          "initiated_by": "family_or_friends",
+          "when": "childhood",
+          "what_was_asked": "Advice on controlling her outbursts (asked by her mother).",
+          "what_institution_did": "Told her mother hitting her with a wooden spoon was all right.",
+          "quote": "My mother was taught that the only way to control me during an outburst was to hit me with a wooden spoon because my pediatrician pulled her, it was perfectly all right.",
+          "source": "s24-ep6-an-accountability-letter-2 @ 3:21",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Hitting continued until she fought back and was sent away.",
+          "notes": "Pediatrician endorsed the hitting rather than merely ignoring it; no code fits exactly."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "My relationship with my father is a totally different story. I don't think he will ever understand where I'm coming from or what I went through.",
+      "outcome_source": "s24-ep6-an-accountability-letter-2 @ 53:14",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Contact initiated by the mother (the abuser), coded family_or_friends for want of a better code. Police were often called by her parents to make her attend school; the abuse was not raised there."
+    },
+    {
+      "person_id": "P22",
+      "name": "Kat (sexual assault at 14)",
+      "role_in_story": "central_survivor",
+      "harm": "At 14, on a family beach vacation in June 2004, sexually assaulted by a 36-year-old man who walked her back from a party.",
+      "perpetrator_role": "an adult man (36) at a beach party",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep7-for-profit-money-grabbing-bullshit-places-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "I desperately wanted to tell someone what happened, but I knew that my mom would have been really mad at me for leaving the house at night.",
+            "source": "s24-ep7-for-profit-money-grabbing-bullshit-places-2 @ 12:42"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "her high school (teacher and school counselor)",
+          "initiated_by": "institution",
+          "when": "ninth grade, months after the assault",
+          "what_was_asked": "She begged the counselor not to tell her parents.",
+          "what_institution_did": "Teacher noticed her distress during a harassment video and took her to the counselor, who told her parents (mandated). No police report or other step is described.",
+          "quote": "The teacher had pulled me aside to ask me about it. I just broke down and told her what happened. She took me to the school counselor, and I begged her not to tell my parents, but they have to.",
+          "source": "s24-ep7-for-profit-money-grabbing-bullshit-places-2 @ 12:42",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Her mother reacted badly; within days her parents had her transported in handcuffs to Copper Canyon Academy.",
+          "notes": "The disclosure led to her placement in the program; the school's step was notifying parents only."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "The reaction from my mother went unfortunately exactly as I thought it would. My parents talked to me about the potential of going to a school.",
+      "outcome_source": "s24-ep7-for-profit-money-grabbing-bullshit-places-2 @ 13:45",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Delay reason 'other' = fear of her mother's anger for leaving the house (not fear of the abuser). The assault was later weaponised in program seminars."
+    },
+    {
+      "person_id": "P23",
+      "name": "Kat (Copper Canyon Academy)",
+      "role_in_story": "central_survivor",
+      "harm": "Transported in handcuffs at 14 to Copper Canyon Academy, Arizona (Nov 2004-Jul 2006): misdiagnosed and over-medicated, sleep-deprived seminars in which her rape was weaponised, LDS indoctrination, inadequate schooling and censored letters.",
+      "perpetrator_role": "Copper Canyon Academy staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep7-for-profit-money-grabbing-bullshit-places-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Copper Canyon Academy staff (letter screening)",
+          "initiated_by": "person",
+          "when": "first letter home, late 2004",
+          "what_was_asked": "To tell her parents how bad the place was and to come home.",
+          "what_institution_did": "A staff member read her letter, told her she could not write that, and took it away.",
+          "quote": "I started writing it in my first letter. And then a staff member read it and was like, you can't write that. So took it away.",
+          "source": "s24-ep7-for-profit-money-grabbing-bullshit-places-2 @ 29:12",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Later letters only described her schedule.",
+          "notes": "Institution was the abuser."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "They'll unfortunately never know the depth of how strict and awful these places are.",
+      "outcome_source": "s24-ep7-for-profit-money-grabbing-bullshit-places-2 @ 44:52",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "Kat read from her own letters and her father's emails on air. A former CCA educator was later convicted of offences after his employment ended (others_mentioned)."
+    },
+    {
+      "person_id": "P24",
+      "name": "Kat (Auldern Academy)",
+      "role_in_story": "central_survivor",
+      "harm": "At Auldern Academy, North Carolina (2006-~2008): attack therapy, mass threats, over-medication causing tardive dyskinesia; after she found staff treatment notes exposed on an open network she was accused of hacking and attacked in group.",
+      "perpetrator_role": "Auldern Academy staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep8-you-are-not-alone-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Auldern Academy staff and therapy group",
+          "initiated_by": "person",
+          "when": "after she found the exposed notes (age 18)",
+          "what_was_asked": "n/a (she had found residents' treatment notes on a public network folder).",
+          "what_institution_did": "Accused her of hacking and encouraged peers to yell and scream at her.",
+          "quote": "But they then accused me of hacking their network instead of the staff members taking responsibility. They're encouraging these girls to yell and scream at me.",
+          "source": "s24-ep8-you-are-not-alone-2 @ 10:41",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She asked to go to a psych ward and spent a week there; felt ostracised afterwards.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "Auldern's visiting on-campus doctors",
+          "initiated_by": "person",
+          "when": "while at Auldern",
+          "what_was_asked": "Attention to involuntary facial tics from medication.",
+          "what_institution_did": "Dismissed it as no big deal.",
+          "quote": "I remember I had brought it up to them. And they're like, oh, that's no big deal.",
+          "source": "s24-ep8-you-are-not-alone-2 @ 15:05",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She continued to be mocked for tics.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "nothing was the same after that. I felt like I was constantly walking on eggshells and ostracized,",
+      "outcome_source": "s24-ep8-you-are-not-alone-2 @ 10:41",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Auldern closed in 2021; a 2024 federal lawsuit by other former students is in others_mentioned. A male staff member also sent her sexual messages when she was 18 (separate record)."
+    },
+    {
+      "person_id": "P25",
+      "name": "Kat (former Copper Canyon staff member, 2011)",
+      "role_in_story": "central_survivor",
+      "harm": "At 21, visiting Copper Canyon, a former staff member who knew her history plied her with whiskey and put his hand on her thigh; she locked herself in a bathroom all night.",
+      "perpetrator_role": "a former Copper Canyon Academy staff member",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep8-you-are-not-alone-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "abuser_status_or_connections"
+        ],
+        "quotes": [
+          {
+            "reason": "abuser_status_or_connections",
+            "quote": "it was really, really hard. to tell other people about it because I was afraid of what they would think because it was someone who was well regarded.",
+            "source": "s24-ep8-you-are-not-alone-2 @ 29:57"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I have since told a couple of people about it, but it was really, really hard.",
+      "outcome_source": "s24-ep8-you-are-not-alone-2 @ 29:57",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Separate perpetrator."
+    },
+    {
+      "person_id": "P26",
+      "name": "Kat (former Auldern staff member's messages)",
+      "role_in_story": "central_survivor",
+      "harm": "At 18, in college, a male staff member from Auldern messaged her suggestive and sexual comments.",
+      "perpetrator_role": "a former Auldern Academy staff member",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep8-you-are-not-alone-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "he would message me some pretty suggestive and flirty things about how I looked and sex and things of that nature.",
+            "source": "s24-ep8-you-are-not-alone-2 @ 31:57"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "It was a really tough pill to swallow, and it definitely made me have more severe trust issues.",
+      "outcome_source": "s24-ep8-you-are-not-alone-2 @ 33:07",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Brief."
+    },
+    {
+      "person_id": "P27",
+      "name": "[unnamed] Auldern student in relationship with her therapist",
+      "role_in_story": "other",
+      "harm": "An Auldern student, just turned 18 and still under his care, was in a sexual relationship with a therapist at the school.",
+      "perpetrator_role": "an Auldern Academy therapist",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep8-you-are-not-alone-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Auldern Academy",
+          "initiated_by": "institution",
+          "when": "during Kat's time at Auldern",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Fired the therapist and banned him from campus, but also ostracised and removed the student.",
+          "quote": "We had a therapist at Aldern who actually got fired for having a sexual relationship with one of the girls. Granted, she had turned 18, but she was still a student there and under his care. They found out, and they banned him from the campus. The girl was ostracized and removed as well.",
+          "source": "s24-ep8-you-are-not-alone-2 @ 12:58",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Student removed from the school.",
+          "notes": "Also fits blamed_punished_or_counter_accused (student removed and ostracised)."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "They found out, and they banned him from the campus. The girl was ostracized and removed as well.",
+      "outcome_source": "s24-ep8-you-are-not-alone-2 @ 12:58",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "They found out, and they banned him from the campus.",
+      "decisive_work_source": "s24-ep8-you-are-not-alone-2 @ 12:58",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Told by Kat (witness, not the person). Abuser removed (protection) but the institution simultaneously punished her, so partly_protected with harmed_by_institution_ever true."
+    },
+    {
+      "person_id": "P28",
+      "name": "Molly (mother)",
+      "role_in_story": "central_survivor",
+      "harm": "After her parents' divorce her mother, drinking heavily, called her a slut, liar and fat, and once pinned her down and slammed her face into a brick entryway, bruising her; she also had Molly put in a 72-hour hold.",
+      "perpetrator_role": "her mother",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep10-my-own-mother-wasnt-going-to-save-me-2",
+        "s24-ep11-one-more-thing-to-be-scared-of"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He just said, nobody should do that to you. That's not okay. But nobody could save me.",
+      "outcome_source": "s24-ep10-my-own-mother-wasnt-going-to-save-me-2 @ 17:31",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "During the face-slamming the mother told a son to 'call the police' (seemingly against Molly); whether police came is not said. The mother also placed Molly in a 72-hour hold facility; whether the mother's violence was raised there is not said. An adult-era therapist later apologised for her role, having not known the family's other side. Coded reach unclear with no contacts."
+    },
+    {
+      "person_id": "P29",
+      "name": "Molly (Turning Winds program)",
+      "role_in_story": "central_survivor",
+      "harm": "At 13, left by deception at Turning Winds, Idaho (2002, ~6 months): forced manual labour logging for the owners' firewood business, military-style exercise until hands bled, talking bans for weeks, punished for asking for soap, bathroom doors opened by men, mail censored, forced false admissions.",
+      "perpetrator_role": "Turning Winds owners and staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep10-my-own-mother-wasnt-going-to-save-me-2",
+        "s24-ep11-one-more-thing-to-be-scared-of"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Turning Winds staff (mail screening)",
+          "initiated_by": "person",
+          "when": "2002",
+          "what_was_asked": "To tell her mother the program was not what she thought and get help.",
+          "what_institution_did": "Tore up the letter and punished her for trying.",
+          "quote": "It would immediately be tossed aside, torn up, and then I was punished for even trying to attempt to tell my mom anything.",
+          "source": "s24-ep10-my-own-mother-wasnt-going-to-save-me-2 @ 52:05",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No phone contact until Thanksgiving.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "local police department",
+          "initiated_by": "institution",
+          "when": "after she went home (January)",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Interviewed her about working and clothing conditions at the facility; no action on conditions is described.",
+          "quote": "The police department did call me after I got home to interview me about the facility and ask me direct questions like what were the working conditions like, what was your clothing situation like?",
+          "source": "s24-ep11-one-more-thing-to-be-scared-of @ 18:31",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Her mother stopped further interviews without an attorney.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "civil claim (settlement) by her mother",
+          "initiated_by": "family_or_friends",
+          "when": "after she came home",
+          "what_was_asked": "Refund of the program fees.",
+          "what_institution_did": "Her mother was, she believes, repaid in a settlement.",
+          "quote": "My mom took legal action to get the money back that she spent to put me there. And I do believe that she was given that money back in settlement.",
+          "source": "s24-ep11-one-more-thing-to-be-scared-of @ 20:33",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Program continues to operate and expand.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "not_protected",
+      "outcome_quote": "The facility is bigger, nicer.",
+      "outcome_source": "s24-ep11-one-more-thing-to-be-scared-of @ 30:51",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She left because her mother called an attorney after the staff arrest (family action, not an institution), so not_protected. Host narration also covers the founders' revoked foster licence and a 2005 child-endangerment case that was dropped (others_mentioned)."
+    },
+    {
+      "person_id": "P30",
+      "name": "Molly (Turning Winds staff member)",
+      "role_in_story": "central_survivor",
+      "harm": "At 13, a night-watch staff member promoted to day staff groomed her, sexually harassed residents, pressured them into sexual acts while he watched, and repeatedly raped and tortured her, threatening to kill and bury anyone who told.",
+      "perpetrator_role": "a Turning Winds staff member",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s24-ep11-one-more-thing-to-be-scared-of"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "I will hunt you down like a dog and kill you and bury you in the woods and no one will find you.",
+            "source": "s24-ep11-one-more-thing-to-be-scared-of @ 13:25"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "it didn't even register to me that I was being sexually abused. It just felt like one more thing to be scared of.",
+            "source": "s24-ep11-one-more-thing-to-be-scared-of @ 14:25"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Turning Winds (a direct-care staff member of the owner family)",
+          "initiated_by": "institution",
+          "when": "winter (December)",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Discovered the staff member had been turning off cameras, questioned residents, called police and had him arrested.",
+          "quote": "my abuser has been turning off the cameras for every single one of his shifts. There is no footage. What has been going on? here.",
+          "source": "s24-ep11-one-more-thing-to-be-scared-of @ 15:25",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Police called.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "police",
+          "initiated_by": "institution",
+          "when": "December",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Arrested him and took individual statements sensitively.",
+          "quote": "They called the police and had him arrested. We didn't tell the police everything. They took statements individually. There was a lot of timeline questioning and they were very sensitive. I was very grateful to them.",
+          "source": "s24-ep11-one-more-thing-to-be-scared-of @ 15:25",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Charges followed.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "school_or_university",
+          "institution": "Turning Winds (management)",
+          "initiated_by": "institution",
+          "when": "after the arrest",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Sent parents a vague letter omitting sexual acts and stripped Molly of her graduation status so she would have to start over.",
+          "quote": "they were stripping me of my graduation status, and I was going to have to start all over, which also means that they would get six more months of money out of my mother.",
+          "source": "s24-ep11-one-more-thing-to-be-scared-of @ 16:28",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Her mother called an attorney and she went home two days later.",
+          "notes": "Also protected_itself (vague letter: 'I do remember them not mentioning any sexual acts whatsoever'). Document = letter she saw on screen, paraphrased."
+        },
+        {
+          "n": 4,
+          "institution_type": "prosecutor",
+          "institution": "prosecutor and court",
+          "initiated_by": "institution",
+          "when": "after the arrest",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Charged him with direct harm to a child; trial held with other residents testifying; sentenced to days in jail and released early.",
+          "quote": "He was actually sentenced to days in jail and then somehow got out earlier.",
+          "source": "s24-ep11-one-more-thing-to-be-scared-of @ 20:33",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "He was later arrested and imprisoned on unrelated charges.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "They called the police and had him arrested.",
+      "outcome_source": "s24-ep11-one-more-thing-to-be-scared-of @ 15:25",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "One of the brothers, he was direct care staff. He barged in the door and there was another resident.",
+      "decisive_work_source": "s24-ep11-one-more-thing-to-be-scared-of @ 14:25",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "person_account_alone",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "The abuse was stopped by the institution's own discovery and the arrest. The residents (including Molly) told only part of what happened. She was subpoenaed but her mother kept her from testifying. Two girls on suicide watch were also abused (others_mentioned)."
+    },
+    {
+      "person_id": "P31",
+      "name": "Danielle (Second Nature Blue Ridge)",
+      "role_in_story": "central_survivor",
+      "harm": "At 15, sent for 8 weeks (Dec 2004-Feb 2005) to a Georgia wilderness program under the pretext of a three-week camp: forced from the car, strip searched, slept between strangers, punished by restarting phases, left with an untreated open wound; she injured her own arm trying to get out.",
+      "perpetrator_role": "wilderness program staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep12-someone-who-believes-me-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief",
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "Absolutely not. They would believe these therapists and counselors over. anything I had to say.",
+            "source": "s24-ep12-someone-who-believes-me-2 @ 42:55"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "When I realized, wow, some of the stuff was really messed up in my late 30s is like just now dawning on me how not okay and not normal these experiences were.",
+            "source": "s24-ep12-someone-who-believes-me-2 @ 68:51"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I know my parents will never acknowledge what I went through during these times.",
+      "outcome_source": "s24-ep12-someone-who-believes-me-2 @ 71:56",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Pseudonym. Program (now Blue Ridge Therapeutic Wilderness) gave a statement denying that the listed practices are accurate; this is institution_statement, not corroboration. She told a counselor her parents didn't know what this was; the counselor said they did (about placement, not abuse)."
+    },
+    {
+      "person_id": "P32",
+      "name": "Danielle (Carlbrook School)",
+      "role_in_story": "central_survivor",
+      "harm": "18 months at Carlbrook School, Virginia: strip search, public shaming, 'railing' attack groups, mandated cuddle piles with staff, six weeks of isolation and punitive running/labour, workshops off medication, her baby picture placed among 'scary' props.",
+      "perpetrator_role": "Carlbrook School owners and staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep12-someone-who-believes-me-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "I stopped saying I didn't want to be there because that would only prolong my stay or make it more painful.",
+            "source": "s24-ep12-someone-who-believes-me-2 @ 63:36"
+          },
+          {
+            "reason": "institution_was_abusers",
+            "quote": "He basically was an ear to all of our phone calls monitoring the content of our phone calls.",
+            "source": "s24-ep12-someone-who-believes-me-2 @ 61:31"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And up until this point, I have not had somebody either willing to listen, wanting to understand, to empathize, to believe me.",
+      "outcome_source": "s24-ep12-someone-who-believes-me-2 @ 77:08",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "'fear_of_abuser' used for fear of the institution (longer stay). She read from her red punishment notebook. Carlbrook closed 2015 citing enrollment."
+    },
+    {
+      "person_id": "P33",
+      "name": "Danielle (parents)",
+      "role_in_story": "central_survivor",
+      "harm": "Grew up unwanted and body-shamed: her mother dismissed a broken elbow and her request for help with bulimia, her father told her to retract a suicide disclosure, and her mother hesitated to come home when she overdosed.",
+      "perpetrator_role": "her parents",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep12-someone-who-believes-me-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "Up until my mid-30s, I looked as my parents as being the perfect parents.",
+            "source": "s24-ep12-someone-who-believes-me-2 @ 70:54"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I've had to, like, as an adult, I just accept my parents for who they are",
+      "outcome_source": "s24-ep12-someone-who-believes-me-2 @ 71:56",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "She saw a therapist (bulimia) and was hospitalised for an overdose, but the parental treatment itself is not described as raised with those providers."
+    },
+    {
+      "person_id": "P34",
+      "name": "Kalin",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "At Academy at Ivy Ridge (Mar 2006-Aug 2007, from 14): isolation room and forced repetitive writing, levels dropped, calls cut off and punished when she complained about food and heat; possibly harmed by a female staff member she would not talk about.",
+      "perpetrator_role": "Academy at Ivy Ridge staff",
+      "perpetrator_convicted": "no",
+      "deceased": true,
+      "episodes": [
+        "s24-ep13-how-profoundly-sorry-i-am-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Academy at Ivy Ridge (her family rep)",
+          "initiated_by": "person",
+          "when": "first phone call home, 2006",
+          "what_was_asked": "n/a (she mentioned bad food/no heat to her parents on a monitored call).",
+          "what_institution_did": "Ended the call, told the parents she was lying to manipulate them and that she would be punished.",
+          "quote": "And Kaelin's going to get a consequence for lying. We didn't even consider that she was telling the truth.",
+          "source": "s24-ep13-how-profoundly-sorry-i-am-2 @ 37:31",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Parents believed the program; she stayed until her mother pulled her in Aug 2007.",
+          "notes": "Also disbelieved."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "I found out while I was cheering her on and I'm doing my program, she was suffering.",
+      "outcome_source": "s24-ep13-how-profoundly-sorry-i-am-2 @ 49:55",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "Told by her mother Shannon. Kalin died in 2017 (her mother suspects foul play; not linked to the program). Her mother removed her (family action). Her files, including journals and a therapist note, were later retrieved and read from on air. The St. Lawrence County DA's general Ivy Ridge investigation (no charges) is not prompted by her and is noted in others_mentioned."
+    },
+    {
+      "person_id": "P35",
+      "name": "Ed",
+      "role_in_story": "central_survivor",
+      "harm": "At 17, dragged from bed by transporters and hog-tied in handcuffs, then at Academy at Ivy Ridge (Oct 2002-Jul 2003) thrown around by the director while forced to shave, witnessed constant violent restraints, and denied dental care for seven months until a tooth rotted; given a fake diploma.",
+      "perpetrator_role": "Ivy Ridge director and staff; transport company",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep14-horror-movie-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "institution_was_abusers",
+            "quote": "So if you said anything negative towards anybody or the program, they would immediately hang up the phone. and then you would get tossed down to observe placement and restrained and manhandled.",
+            "source": "s24-ep14-horror-movie-2 @ 25:01"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "State of New York / New York Board of Education (attempted lawsuit)",
+          "initiated_by": "person",
+          "when": "2025, about three weeks before the interview",
+          "what_was_asked": "Retribution/damages through a lawsuit.",
+          "what_institution_did": "Received a letter that the claim could not proceed because of the statute of limitations.",
+          "quote": "but about three weeks ago we got a letter saying they can't proceed with it. They just cite statute of limitations.",
+          "source": "s24-ep14-horror-movie-2 @ 42:43",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No legal route; he continues advocacy (helped close a Nevada program).",
+          "notes": "Who sent the letter (court, state or their attorneys) is not specified."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Apparently, we're too late, so somebody else has to do it.",
+      "outcome_source": "s24-ep14-horror-movie-2 @ 42:43",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "He screamed that he was kidnapped at a rest stop; bystanders did nothing (not an institution). He told his father on release that kids were being severely abused; his father did not believe him. His parents tried and failed to sue over the fake diploma. Documents: Ivy Ridge files and incident reports shared after the documentary (shown on his social media post, about another student)."
+    },
+    {
+      "person_id": "P36",
+      "name": "Julie",
+      "role_in_story": "central_survivor",
+      "harm": "At 13, Academy at Ivy Ridge (2005-2006): strip searched while menstruating, screamed at, threatened with isolation, forced to write a false confession of drug use and sex that was sent to her parents, denied level advancement to keep her past a year, gained 50 pounds and stopped menstruating.",
+      "perpetrator_role": "Academy at Ivy Ridge staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep15-source-of-hope-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Academy at Ivy Ridge (family reps/letter screening)",
+          "initiated_by": "person",
+          "when": "2005-2006",
+          "what_was_asked": "To tell her parents she was miserable / what was happening (kids beaten, not fed).",
+          "what_institution_did": "Passed some letters but used them to tell parents she was manipulating them and was not ready to come home.",
+          "quote": "They would use that letter to show my parents, even though she's making progress, we warned you that your child's going to manipulate you.",
+          "source": "s24-ep15-source-of-hope-2 @ 26:26",
+          "response": "protected_itself",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "She stayed until her parents pulled her at one year.",
+          "notes": "Also disbelieved."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "All the staff members that were involved, there was never a consequence for them.",
+      "outcome_source": "s24-ep15-source-of-hope-2 @ 58:15",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "Her retrieved file includes program emails (one read on air, with racist remarks about her family). Never reported later: 'nobody really thought about it as this is a really bad thing that happened. Maybe you should report it.' Statutes of limitations cited."
+    },
+    {
+      "person_id": "P37",
+      "name": "Marie (Academy at Ivy Ridge)",
+      "role_in_story": "central_survivor",
+      "harm": "At 17, taken by transporters under a dentist pretext to Academy at Ivy Ridge (Apr 2005-Dec 2006): forced to eat raw bacon, denied medical/dental care for 20 months, attack therapy, arbitrary 'drops', denied church, pressured to sign away rights past 18, letters redacted.",
+      "perpetrator_role": "Academy at Ivy Ridge staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep16-attack-therapy"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Academy at Ivy Ridge (letter screening)",
+          "initiated_by": "person",
+          "when": "first week",
+          "what_was_asked": "Help / to go home (first letter).",
+          "what_institution_did": "Redacted the complaints from her letter.",
+          "quote": "I think they redacted a lot of my letter because you're not allowed to complain about the facility at all.",
+          "source": "s24-ep16-attack-therapy @ 21:26",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Stayed 20 months.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "Academy at Ivy Ridge grievance process",
+          "initiated_by": "person",
+          "when": "2005-2006",
+          "what_was_asked": "Overturn unfair drops/consequences.",
+          "what_institution_did": "Never overturned any of her grievances.",
+          "quote": "There's a grievance process, but I was never overturned on any of my cases, which were all very valid.",
+          "source": "s24-ep16-attack-therapy @ 35:44",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Drops continued.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "campus counselor at the Honor Academy (Texas)",
+          "initiated_by": "person",
+          "when": "2007-2008, after Ivy Ridge",
+          "what_was_asked": "Help with panic attacks/flashbacks.",
+          "what_institution_did": "Identified acute post-traumatic stress and taught a coping skill.",
+          "quote": "I first learned there that that's called acute post-traumatic stress disorder.",
+          "source": "s24-ep16-attack-therapy @ 47:09",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Later informal college counseling.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I think not being believed was the hardest part.",
+      "outcome_source": "s24-ep16-attack-therapy @ 54:29",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She left after 20 months on finishing the program. The counselor contact is support after harm ended, not protection."
+    },
+    {
+      "person_id": "P38",
+      "name": "Marie (father)",
+      "role_in_story": "central_survivor",
+      "harm": "Her father dragged her upstairs by the foot at 9, shoved and punched her, threw her onto concrete, pushed her down stairs and choked her; with her stepmother he 'interrogated' and punished her, and sent her to Ivy Ridge when she planned to move to her aunt's.",
+      "perpetrator_role": "her father (with stepmother)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep16-attack-therapy"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "protecting_others"
+        ],
+        "quotes": [
+          {
+            "reason": "protecting_others",
+            "quote": "And I was trying to deny it. I actually always defended my parents.",
+            "source": "s24-ep16-attack-therapy @ 10:11"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "youth transport escorts (contracted company)",
+          "initiated_by": "person",
+          "when": "April 22, 2005, during transport",
+          "what_was_asked": "To be taken back home.",
+          "what_institution_did": "Heard her account of the situation at home and kept driving.",
+          "quote": "They looked at each other and, and one of them said, should we turn around? And then they were just like, no, let's keep going.",
+          "source": "s24-ep16-attack-therapy @ 15:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Delivered to Ivy Ridge.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "Academy at Ivy Ridge (dorm parent in group)",
+          "initiated_by": "person",
+          "when": "first weeks at Ivy Ridge",
+          "what_was_asked": "To be believed that she did not deserve to be there and her parents were unreasonable.",
+          "what_institution_did": "Told her there were two sides and she was playing the victim; peers said they didn't believe her.",
+          "quote": "You can't go by your story alone. You're probably just playing the victim right now,",
+          "source": "s24-ep16-attack-therapy @ 23:30",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She felt disbelieved throughout.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "a family therapist (virtual joint session with her father)",
+          "initiated_by": "person",
+          "when": "adulthood (last year)",
+          "what_was_asked": "Joint therapy with her father.",
+          "what_institution_did": "Told her the father was not ready, willing or able to engage.",
+          "quote": "The therapist was like, your dad is not ready, willing or able to do this. This man is very detached from you.",
+          "source": "s24-ep16-attack-therapy @ 50:20",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Minimal contact with father; he has not apologised.",
+          "notes": "Validation, not protection."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "My dad still hasn't apologized.",
+      "outcome_source": "s24-ep16-attack-therapy @ 51:23",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Journal kept from freshman year (mentioned; partly recounted). Neighbour children witnessed abuse; aunts and uncles staged an intervention (family). A teacher may have shown her parents her 'how to run away' essay instead of asking if things were okay at home (unclear; not coded). Harm stopped because she was sent away, not by institutional action."
+    },
+    {
+      "person_id": "P39",
+      "name": "Anthony",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Sexually assaulted while at Academy at Ivy Ridge (Aug 2003-Mar 2004, age 17), after being taken by teen escorts; he disclosed it only 18 years later and died by suicide the next day.",
+      "perpetrator_role": "not specified (at Academy at Ivy Ridge)",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s24-ep17-wounded-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "He was embarrassed.",
+            "source": "s24-ep17-wounded-2 @ 21:35"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "his therapist (adult, outpatient)",
+          "initiated_by": "person",
+          "when": "2021, shortly before his death",
+          "what_was_asked": "Not stated.",
+          "what_institution_did": "Received his disclosure; what the therapist did is not described.",
+          "quote": "And he said the only two people that knew were his current therapist that he was going to. And he told me, and that's it in his life.",
+          "source": "s24-ep17-wounded-2 @ 21:35",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "He died by suicide on October 26.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And he said, we did this to him. And I said, I know we did this to him. That was October 26th.",
+      "outcome_source": "s24-ep17-wounded-2 @ 28:40",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Told by his mother Terry. Delay reason 'other' = embarrassment, and per his mother 'he didn't want it out there'. His mother believes the program caused his death."
+    },
+    {
+      "person_id": "P40",
+      "name": "Katie (rape at 14)",
+      "role_in_story": "central_survivor",
+      "harm": "At 14, after drinking for the first time, raped while unconscious by a boy she had met online; she learned of it from a hospital nurse.",
+      "perpetrator_role": "a teenage boy",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s24-ep18-fear-driven-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "I was embarrassed and I was afraid of any social backlash.",
+            "source": "s24-ep18-fear-driven-2 @ 12:34"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "hospital",
+          "initiated_by": "third_party",
+          "when": "the night of the rape",
+          "what_was_asked": "Medical care (friend's mother brought her in).",
+          "what_institution_did": "Treated her; a nurse asked about protection, which is how she learned she had been raped. No report or further step is described.",
+          "quote": "a nurse had asked me about whether or not I wore protection. I didn't know what she was talking about. And that's how I found out that I had been raped.",
+          "source": "s24-ep18-fear-driven-2 @ 11:34",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Her mother called the boy's parents, who denied it; nothing else changed.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "not_protected",
+      "outcome_quote": "That mother was like, not my sons, never my sons. I just dove deeper into depression.",
+      "outcome_source": "s24-ep18-fear-driven-2 @ 12:34",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "harmed_by_institution_ever true because at Island View her therapist made her describe the rape to about 40 boys (an exposure of this harm by an institution). No police contact mentioned."
+    },
+    {
+      "person_id": "P41",
+      "name": "Katie (stepfather)",
+      "role_in_story": "central_survivor",
+      "harm": "From about age 6 to 8 her stepfather, who had explosive anger, was physically violent to her and her sister.",
+      "perpetrator_role": "her stepfather",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep18-fear-driven-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I didn't know that this was not normal.",
+            "source": "s24-ep18-fear-driven-2 @ 8:26"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "he had hurt my sister bad enough that my dad became aware of the abuse and he uprooted us and moved us back to the city he lived in.",
+      "outcome_source": "s24-ep18-fear-driven-2 @ 8:26",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Her father removed them; no institution mentioned."
+    },
+    {
+      "person_id": "P42",
+      "name": "Katie (Island View RTC)",
+      "role_in_story": "central_survivor",
+      "harm": "At 14, eight months at Island View RTC, Utah (2004): locked building, confrontation groups, social isolation 'yellow zone' even when sick, mattress in a lit hallway, monitored calls, and her therapist made her describe her rape to about 40 boys.",
+      "perpetrator_role": "Island View staff and therapist",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep18-fear-driven-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "institution_was_abusers",
+            "quote": "But if kids' phone calls are monitored and they have no way of reaching authorities, there's no way to file or purport an allegation that would then require investigation.",
+            "source": "s24-ep18-fear-driven-2 @ 54:55"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "When I read about these lawsuits, the people who sued Island View, the people who are suing elevations, and I read other survivors' stories, and they match my own.",
+      "outcome_source": "s24-ep18-fear-driven-2 @ 48:39",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "She told her father on the first monitored call that the treatment wasn't right; he had been prepped to disbelieve her (family). Journals read from on air."
+    },
+    {
+      "person_id": "P43",
+      "name": "Katie (Oakley School)",
+      "role_in_story": "central_survivor",
+      "harm": "Sent straight from Island View to the Oakley School (Utah, ~12 months): social isolation punishments, silent punitive hikes, days-long 'come clean' interrogations, letters from friends withheld and thrown away, made to tell her story to every class at her home school.",
+      "perpetrator_role": "Oakley School staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep18-fear-driven-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "institution_was_abusers",
+            "quote": "My friends had been writing me letters and they withheld the letters. Then threw them away when I graduated.",
+            "source": "s24-ep18-fear-driven-2 @ 42:26"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "There wasn't a lot of protection.",
+      "outcome_source": "s24-ep18-fear-driven-2 @ 40:24",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Same parent company as Island View. Closed 2017."
+    },
+    {
+      "person_id": "P44",
+      "name": "Nicole",
+      "role_in_story": "central_survivor",
+      "harm": "At 15, sent to the DeSisto School, Massachusetts (1994-1996): no stall doors and group naked showers, nightly attack-therapy dorm meetings run by unqualified staff, 'farm' punishment and unpaid labour (including in the founder's paid dinner theatre), lithium toxicity from misdiagnosis, and the founder exposing himself in a robe.",
+      "perpetrator_role": "the school's founder and staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep19-wanted-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "institution_was_abusers",
+            "quote": "There was somebody always listening on your end. So it wasn't that I could tell them things that were going on.",
+            "source": "s24-ep19-wanted-2 @ 27:18"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I ran away at 18 because I knew they couldn't keep me.",
+      "outcome_source": "s24-ep19-wanted-2 @ 37:38",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Massachusetts child-care regulators investigated from 2000 and the school closed in June 2004 after state findings, years after she left; not prompted by her, so not coded as her contact. A later hospital psychologist corrected her bipolar misdiagnosis to PTSD (medical, about diagnosis, not a report of the harm)."
+    },
+    {
+      "person_id": "P45",
+      "name": "Brittany",
+      "role_in_story": "central_survivor",
+      "harm": "Taken at night by transporters threatening handcuffs to Tranquility Bay, Jamaica (from May 2005): lockdown concrete facility, punishments for looking at the ocean, restraints with knees on backs, an untreated ear infection for two weeks, conditional family support tied to finishing the program.",
+      "perpetrator_role": "Tranquility Bay staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep20-extreme-2"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "You want to join? And I was like, no, because I never had that experience.",
+            "source": "s24-ep20-extreme-2 @ 37:49"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "My parents see it as Jamaica saved my life.",
+      "outcome_source": "s24-ep20-extreme-2 @ 38:52",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "She tried to signal for help at the airport during transport; the escorts cut off a stranger's approach. She declined to join lawsuits. Journal and letters read on air. Left at 18 after a drop; program closed 2009."
+    },
+    {
+      "person_id": "P46",
+      "name": "Haley (Utah wilderness program)",
+      "role_in_story": "central_survivor",
+      "harm": "At 15, taken from her home by transporters (handcuffed, legs held) to a Utah wilderness program in January: strip searched, left alone in snow with no instruction, unable to make fire (bone disease) so no hot food, no bathing for six weeks; her therapist joked about her suicidal impulse.",
+      "perpetrator_role": "wilderness program staff and therapist",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep21-a-lot-of-horsesht"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I don't remember anything positive about that experience.",
+            "source": "s24-ep21-a-lot-of-horsesht @ 27:05"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I'm thinking, I love that my trauma is a joke to you.",
+      "outcome_source": "s24-ep21-a-lot-of-horsesht @ 25:00",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "She told the therapist she wanted to jump off the cliff after he said her parents did not want her home; that is a disclosure of distress, not a report of the abuse."
+    },
+    {
+      "person_id": "P47",
+      "name": "Haley (Montana boarding school)",
+      "role_in_story": "central_survivor",
+      "harm": "About two years at an unnamed Montana therapeutic boarding school (~2000-2002): heavy unpaid labour (horses, fences, clear-cutting, firewood sold to neighbours), pain dismissed, forced sexual and other 'histories' shared with parents without consent, a cardboard 'victim triangle' worn for a year, 'interventions' living outdoors.",
+      "perpetrator_role": "the school's founder/headmaster and staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep21-a-lot-of-horsesht",
+        "s24-ep22-hold-up-a-mirror-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Montana school staff",
+          "initiated_by": "person",
+          "when": "during labour assignments",
+          "what_was_asked": "Relief from pain caused by the labour.",
+          "what_institution_did": "Told her the pain was repressed emotion to be dealt with in (attack) therapy.",
+          "quote": "It was, it's not physical pain. It is repressed emotions that you're not dealing with.",
+          "source": "s24-ep21-a-lot-of-horsesht @ 32:10",
+          "response": "condition_as_dismissal",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Labour continued.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "So much of what we did there physically hurt us.",
+      "outcome_source": "s24-ep21-a-lot-of-horsesht @ 32:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "She got out by persisting about bone pain until an X-ray led a doctor to recommend a specialist and her mother insisted; that medical contact was about her bone condition, not the abuse. School's attorneys deny all allegations (institution_statement). Dylan corroborates the school's practices (second_witness). Journals and her mother's letters read from."
+    },
+    {
+      "person_id": "P48",
+      "name": "Haley (parents)",
+      "role_in_story": "central_survivor",
+      "harm": "Grew up amid her parents' frequent violence toward each other; her mother backed her into corners and her parents held her down (mother holding, father sitting on her back) during fights.",
+      "perpetrator_role": "her parents",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep21-a-lot-of-horsesht"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police (called by neighbours)",
+          "initiated_by": "third_party",
+          "when": "early teens",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Responded to fights; her mother told them Haley was the violent one. What police then did is not stated.",
+          "quote": "the police being called, usually by the neighbors, and them showing up and me thinking, now my mom's going to tell them that was my father, and she's told them that it was me.",
+          "source": "s24-ep21-a-lot-of-horsesht @ 11:37",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Violence continued until her father moved out.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "family therapist",
+          "initiated_by": "family_or_friends",
+          "when": "early teens",
+          "what_was_asked": "Family therapy.",
+          "what_institution_did": "Told her mother the home was unhealthy and Haley was acting out because of it; no protective step described.",
+          "quote": "the therapist is telling my mother how unhealthy our home is and that I'm acting out because of that.",
+          "source": "s24-ep21-a-lot-of-horsesht @ 10:37",
+          "response": "unclear",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "No change described.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I feel the need to protect my dad and my mom and say that I was ever like beaten, but there was physical violence in her home.",
+      "outcome_source": "s24-ep21-a-lot-of-horsesht @ 11:37",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Document = her mother's journals describing the therapy (read/paraphrased on air). The police response may have amounted to counter-accusing Haley, but the transcript does not say what police did."
+    },
+    {
+      "person_id": "P49",
+      "name": "Dylan (attempted rape at Hyde School)",
+      "role_in_story": "central_survivor",
+      "harm": "In ninth grade at Hyde School, Maine, another student sexually assaulted him and attempted to rape him.",
+      "perpetrator_role": "another student",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep22-hold-up-a-mirror-2"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "I told my parents, they didn't believe me. That was really hard. They really thought that it was just another ploy for me to go home.",
+            "source": "s24-ep22-hold-up-a-mirror-2 @ 13:27"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I just wanted this kid held accountable, and expelled for trying to rape me. I was done. I ran away again.",
+      "outcome_source": "s24-ep22-hold-up-a-mirror-2 @ 13:27",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Whether the school learned of it is not said; Dylan himself was then expelled for running away. His parents apologised years later."
+    },
+    {
+      "person_id": "P50",
+      "name": "Dylan (Montana boarding school)",
+      "role_in_story": "central_survivor",
+      "harm": "After a 5-week Oregon wilderness program (Catherine Freer: 23-24 mile hikes, starvation diet), about two years at the same unnamed Montana school as Haley (mid-1990s): denied bathroom use causing bladder damage, three months of solitary 'intervention' building a corral alone, tied to another student for a week, no medical care for sun poisoning, open communal outhouse.",
+      "perpetrator_role": "the school's head and staff (and wilderness staff)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep22-hold-up-a-mirror-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Montana school (his assigned therapist on monitored call)",
+          "initiated_by": "person",
+          "when": "during his stay",
+          "what_was_asked": "To tell his parents there was abuse going on.",
+          "what_institution_did": "Hung up the phone immediately.",
+          "quote": "I do remember one time being on the phone with my parents trying to tell them there was abuse going on and hung up the phone immediately.",
+          "source": "s24-ep22-hold-up-a-mirror-2 @ 33:56",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Stayed until expelled after running away.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "board-certified psychologist (evaluation hired by parents)",
+          "initiated_by": "family_or_friends",
+          "when": "after his expulsion",
+          "what_was_asked": "To go somewhere less abusive.",
+          "what_institution_did": "Found he was 'not crazy' and arranged a less abusive placement (John Dewey Academy).",
+          "quote": "I had expressed to him how all I wanted was to go to not such an abusive program. I said, ultimately, I want to go back home, but I guess that's really not an option, so I just want to go to someplace more like hide. He accomplished that for me.",
+          "source": "s24-ep22-hold-up-a-mirror-2 @ 41:19",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "At John Dewey he was isolated after running; he ran away to New York.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "It took me until I was 32 years old to get my life together. And that right there is the real impact of these programs.",
+      "outcome_source": "s24-ep22-hold-up-a-mirror-2 @ 48:26",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Wilderness and John Dewey harms folded into this record (lighter). Haley corroborates the Montana school (second_witness). Expulsion, not institutional protection, ended the Montana placement. School's attorneys deny allegations."
+    },
+    {
+      "person_id": "P51",
+      "name": "Dylan (Western Samoa program)",
+      "role_in_story": "central_survivor",
+      "harm": "At 17, sent to a lockdown program in Western Samoa where he describes a lot of physical and sexual abuse; at 18 the owner initially refused his passport, claiming he was a Samoan citizen until 24.",
+      "perpetrator_role": "the Samoa program's owners and staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep22-hold-up-a-mirror-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "U.S. Embassy (the ambassador)",
+          "initiated_by": "person",
+          "when": "on his 18th birthday, after leaving the program",
+          "what_was_asked": "Help getting home.",
+          "what_institution_did": "Listened to his whole story and flew him to the U.S. West Coast.",
+          "quote": "He sat with me for a long time and just listened. And at the end of it, he was like, let's get you back on the mainland at least. He said, I can fly you as far as the West Coast.",
+          "source": "s24-ep22-hold-up-a-mirror-2 @ 46:21",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Flew to Arizona; lived with a friend, later got his GED and degree.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "If you do not give me my passport today, I will sue you. And he did. And then he asked me to please not tell anybody that they would address it.",
+      "outcome_source": "s24-ep22-hold-up-a-mirror-2 @ 45:20",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "He ended the harm himself by demanding his passport at 18 (a sympathetic counselor sheltered him). The embassy helped afterwards; since the harm was ended by his own action, outcome not_protected (could be argued partly_protected)."
+    },
+    {
+      "person_id": "P52",
+      "name": "Max (SageWalk Wilderness)",
+      "role_in_story": "central_survivor",
+      "harm": "At 14 (2007), taken from bed at 2:30am by transporters to SageWalk in Oregon for 58 days: blindfolded, threatened not to tell anyone, toe permanently disfigured with no medical care, food scarcity, public 10-day suicide watch, forced to keep hiking while overheating.",
+      "perpetrator_role": "SageWalk staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep23-your-money-or-your-childs-life-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "SageWalk Wilderness School (program office)",
+          "initiated_by": "family_or_friends",
+          "when": "2007, after a letter from Max",
+          "what_was_asked": "What happened that Max described in a letter.",
+          "what_institution_did": "Told her father it was just a ploy to get home and not to believe anything negative.",
+          "quote": "She described something that happened that wasn't good. And so I called Sage Walk about it. They're like, that's just them trying to get home. Don't believe anything they say that's negative.",
+          "source": "s24-ep23-your-money-or-your-childs-life-2 @ 45:57",
+          "response": "disbelieved",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Max stayed 58 days and was funnelled to Mount Bachelor.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I lived in the fucking middle of the woods for 58 days of my life.",
+      "outcome_source": "s24-ep23-your-money-or-your-childs-life-2 @ 52:08",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Father (who placed Max) is the second witness. SageWalk closed 2011 after another student's death (others_mentioned). Institution type 'other' = the abusing program itself."
+    },
+    {
+      "person_id": "P53",
+      "name": "Max (Mount Bachelor Academy)",
+      "role_in_story": "central_survivor",
+      "harm": "2007-2009 at Mount Bachelor Academy, Oregon: secret 'Life Step' attack-therapy workshops, forced age regression, public humiliation drills, punitive labour 'self-studies', forced disclosure lists read to parents, medication withheld for some students, a winter trip on which staff got the group lost until the Forest Service rescued them.",
+      "perpetrator_role": "Mount Bachelor Academy staff",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep23-your-money-or-your-childs-life-2",
+        "s24-ep24-finally-you-see-finale-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Mount Bachelor Academy",
+          "initiated_by": "family_or_friends",
+          "when": "2007-2008",
+          "what_was_asked": "Response to things Max told him.",
+          "what_institution_did": "Said it didn't happen and not to listen to Max.",
+          "quote": "If she would tell me anything that didn't sound good and I would go talk to the Mount Bachelor people, they would say, oh, that didn't happen. and don't listen to them when they tell you that.",
+          "source": "s24-ep24-finally-you-see-finale-2 @ 33:42",
+          "response": "disbelieved",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Max stayed and graduated.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "court (custody hearing brought by Max's uncle)",
+          "initiated_by": "family_or_friends",
+          "when": "after graduation, when Max was a minor living with aunt and uncle",
+          "what_was_asked": "Uncle sought to send Max to another program.",
+          "what_institution_did": "Refused because the uncle had no custody; Max was linked with a social worker, lawyer and advocate.",
+          "quote": "So the judge basically laughed him out of the courtroom because I was a minor. I got LinkedIn with a social worker, a lawyer, an advocate,",
+          "source": "s24-ep24-finally-you-see-finale-2 @ 37:52",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Plan made for Max to return to Mount Bachelor temporarily.",
+          "notes": "Protective of Max against a further placement rather than a response to the program abuse."
+        },
+        {
+          "n": 3,
+          "institution_type": "regulator_or_licensing",
+          "institution": "Oregon Department of Human Services",
+          "initiated_by": "third_party",
+          "when": "2009 (school nurse reported to DHS)",
+          "what_was_asked": "Investigate abuse at the school.",
+          "what_institution_did": "Investigated over seven months, interviewing students apart from staff; found abuse and neglect; licence suspended and school closed December 2009.",
+          "quote": "There was a school nurse. She was the whistleblower who got that place shut down. She reported it to DHS.",
+          "source": "s24-ep24-finally-you-see-finale-2 @ 38:53",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "record_checked_by_show",
+            "institution_statement"
+          ],
+          "what_happened_next": "Max moved to a transitional youth program whose social worker helped her finish school.",
+          "notes": "Staff coached compliant students like Max on what to tell DHS. 2010 settlement: MBA acknowledged DHS had reasonable basis (host narration)."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "Mount Bachelor was shut down in December of 2009. What ended up happening was that this program offered to take me in as an unhoused youth, essentially.",
+      "outcome_source": "s24-ep24-finally-you-see-finale-2 @ 38:53",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "In 2009, the Oregon Department of Human Services, concluded a seven-month investigation, finding multiple instances of abuse and neglect, including sexualized role-playing, forced isolation, punitive labor, and other degrading acts. As a result, MBA's license was suspended",
+      "decisive_work_source": "s24-ep23-your-money-or-your-childs-life-2 @ 5:09",
+      "time_to_first_effective_action": "the state closed the school about two years after Max arrived",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 2,
+      "evidence_types": [
+        "document_read_on_air",
+        "record_checked_by_show",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Max was back at MBA when DHS investigated and closed it, so the closure ended Max's exposure (protected). The report came from a staff nurse (third_party). Max's father did not let Max join the later lawsuit. Max read from program assignment notebooks; father found cost records. Father apologised years later after reading an article about the abuse and closure."
+    },
+    {
+      "person_id": "P54",
+      "name": "John (military school)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Sent at 12 to a Virginia military school for three years: knocked unconscious repeatedly by older cadets on his first night, beaten with wire hangers and broomsticks by student enforcers, paddled; witnessed the headmaster with a younger cadet; a friend was found hanged.",
+      "perpetrator_role": "cadet officers and the headmaster",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-wcn-presents-john-callas-when-the-rain-stops"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "the military school headmaster",
+          "initiated_by": "person",
+          "when": "after his sixth runaway",
+          "what_was_asked": "Asked how his mother could allow the beatings.",
+          "what_institution_did": "Showed him his mother's consent letter permitting any discipline and was preparing to paddle him.",
+          "quote": "when I was in the headmaster's office, getting ready to be punished with a paddle over my bare butt, I looked at him and said, I don't get this. How can my mother allow you to do this? He sat me down and he pulled out a letter.",
+          "source": "s24-wcn-presents-john-callas-when-the-rain-stops @ 13:20",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Lost hope; stayed three years until he threatened his parents.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "not_protected",
+      "outcome_quote": "I was in military school for three years, and that was enough to drive anyone completely, utterly insane.",
+      "outcome_source": "s24-wcn-presents-john-callas-when-the-rain-stops @ 16:30",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "From a 'What Came Next' crossover episode published in the season-24 feed (listener/guest story, not TTI-season interview). He told his mother each of six times he ran away; she said he was exaggerating (family). He was placed there after a false car-theft accusation led a court to give his parents a choice of reform school or military school. He also mentions being raped as a young child by his sister's friend (bare mention, no aftermath; not given a separate record)."
+    },
+    {
+      "person_id": "P55",
+      "name": "John (private school bully)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "At a private school after military school, a much larger student harassed, spat on and pushed him for three years trying to make him fight; at 15 John attempted suicide.",
+      "perpetrator_role": "another student",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-wcn-presents-john-callas-when-the-rain-stops"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "the private school headmaster",
+          "initiated_by": "person",
+          "when": "repeatedly over three years",
+          "what_was_asked": "Tell the student to stop.",
+          "what_institution_did": "No action is described; the harassment continued for three years.",
+          "quote": "I went to the headmaster all the time and asked him to please tell him to stop bugging me. He would spit on me. He would push me.",
+          "source": "s24-wcn-presents-john-callas-when-the-rain-stops @ 17:51",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Harassment continued; coaches and teachers later mentored him.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He wouldn't leave me alone for three years.",
+      "outcome_source": "s24-wcn-presents-john-callas-when-the-rain-stops @ 17:51",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Crossover episode."
+    },
+    {
+      "person_id": "P56",
+      "name": "[unnamed] doulas, former best friend and ex-girlfriend defrauded and harassed by [perpetrator] (Season 18 update)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "A woman faked pregnancies to obtain doulas' services across Ontario (June 2022-Feb 2023) and harassed many of them; over a dozen doulas were traumatised and financially set back. Group record.",
+      "perpetrator_role": "a woman who faked pregnancies",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s24-ep25-case-community-updates-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Ontario police",
+          "initiated_by": "unclear",
+          "when": "March 2023",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Arrested her.",
+          "quote": "[perpetrator] was initially arrested in March of 2023 for fraudulently seeking the services of numerous doulas across Ontario, Canada, and harassing many doulas she sought care from.",
+          "source": "s24-ep25-case-community-updates-2 @ 32:40",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "Guilty plea to 21 charges.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "Ontario court (first sentencing)",
+          "initiated_by": "institution",
+          "when": "Jan-Feb 2024",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Imposed the joint two-year conditional (house-arrest) sentence, which the judge said he was reluctantly bound to impose.",
+          "quote": "but is reluctantly bound to impose the proposed sentence given that [perpetrator] is young.",
+          "source": "s24-ep25-case-community-updates-2 @ 35:46",
+          "response": "acted_partly",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "She reoffended against others while on house arrest.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "Ontario court (second sentencing)",
+          "initiated_by": "institution",
+          "when": "June 9, 2025",
+          "what_was_asked": "n/a",
+          "what_institution_did": "Sentenced her to three years in prison plus the rest of her house arrest in custody.",
+          "quote": "According to CBC News, at the hearing, [perpetrator] was sentenced to three years in prison.",
+          "source": "s24-ep25-case-community-updates-2 @ 35:46",
+          "response": "believed_and_acted",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "Total 3 years 8 months incarceration.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "although we're happy [perpetrator] victims have received some semblance of justice, as well as potential solace in knowing that she won't be able to harm other doulas for the next three years and eight months, the response to her actions have often felt like too little too late.",
+      "outcome_source": "s24-ep25-case-community-updates-2 @ 37:54",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "[perpetrator] was initially arrested in March of 2023 for fraudulently seeking the services of numerous doulas across Ontario, Canada, and harassing many doulas she sought care from.",
+      "decisive_work_source": "s24-ep25-case-community-updates-2 @ 32:40",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "conviction",
+        "record_checked_by_show"
+      ],
+      "confidence": "low",
+      "notes": "Group record for an update on a Season 18 story (the individual victims are not separately described in this season). Quotes read on air name the perpetrator; per instructions her name is replaced with [perpetrator] in the stored quotes."
+    },
+    {
+      "person_id": "P57",
+      "name": "[unnamed] 15-year-old girl sent to Island View via Dr. Phil (2014 federal complaint)",
+      "role_in_story": "other",
+      "harm": "After being ridiculed on Dr. Phil's show she was sent to Island View RTC, where a staff member allegedly broke her arm; claims of false imprisonment, conspiracy and fraud.",
+      "perpetrator_role": "an Island View staff member and associated companies",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s24-ep18-fear-driven-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "U.S. federal court",
+          "initiated_by": "family_or_friends",
+          "when": "2014",
+          "what_was_asked": "Damages for broken arm, false imprisonment, fraud.",
+          "what_institution_did": "Dismissed the case in 2015.",
+          "quote": "was ultimately dismissed in 2015 in federal court.",
+          "source": "s24-ep18-fear-driven-2 @ 4:16",
+          "response": "unclear",
+          "basis": [
+            "court_outcome"
+          ],
+          "what_happened_next": "No liability found.",
+          "notes": "Reason for dismissal not stated."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "The complaint also alleges the daughter's arm was broken by a staff member.",
+      "outcome_source": "s24-ep18-fear-driven-2 @ 4:16",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "low",
+      "notes": "Background case in host narration."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Rebecca (Kids of North Jersey patient) who won a settlement",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "previously won a $4.5 million settlement for another kids of North Jersey patient, Rebecca Yerlich, in 2001.",
+      "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 35:24"
+    },
+    {
+      "description": "Family Foundation School former students who died early (mostly overdose or suicide)",
+      "count_stated": 100,
+      "reached_institution": "unknown",
+      "quote": "If you look at the Family Foundation School, they documented at least 100 early deaths, most of which were overdose or suicide.",
+      "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 41:48"
+    },
+    {
+      "description": "Meg's Chrysalis 'sister' who died; Meg's husband abused in inpatient treatment",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "The first phase was when one of my Chrysler sisters passed away.",
+      "source": "s24-ep2-unsilenced-2 @ 28:20"
+    },
+    {
+      "description": "Girls in Malia's wilderness group: one molested by an uncle, one trafficked and gang raped, one in heroin withdrawal tackled by male staff",
+      "count_stated": 3,
+      "reached_institution": "unknown",
+      "quote": "One of the girls had to take accountability for the uncle that molested her. One of them was kidnapped and used for sex trafficking for months.",
+      "source": "s24-ep3-a-carcass-2 @ 45:49"
+    },
+    {
+      "description": "17-year-old who died of hypothermia at Trails Carolina (2014) and students in lawsuits over unaddressed sexual assault reports",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "including the tragic death of a 17-year-old due to hypothermia, multiple lawsuits accusing staff of failing to act on reports of sexual assault",
+      "source": "s24-ep4-this-couldve-been-you-2 @ 2:05"
+    },
+    {
+      "description": "Copper Canyon Academy student found with a former educator, who was later convicted of sexual exploitation of a minor",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "According to a statement by Yavapai County Attorney's Office in 2012, [perpetrator] was caught in a remote area with a student.",
+      "source": "s24-ep7-for-profit-money-grabbing-bullshit-places-2 @ 4:05"
+    },
+    {
+      "description": "Former Auldern / Sequel students in a 2024 federal lawsuit (labour, physical abuse)",
+      "count_stated": 2,
+      "reached_institution": "yes",
+      "quote": "In 2024, two former students filed a federal lawsuit against SQL youth and family services representing abuse survivors from programs, including Aldrin Academy, in North Carolina and other facilities in Alabama.",
+      "source": "s24-ep8-you-are-not-alone-2 @ 2:17"
+    },
+    {
+      "description": "Resident who died in a restraint at Lakeside Academy, Michigan (2020)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "the tragic restraint-related death of a resident at Lakeside Academy in Michigan in 2020.",
+      "source": "s24-ep8-you-are-not-alone-2 @ 3:19"
+    },
+    {
+      "description": "Turning Winds: 17-year-old allegedly beaten after fleeing (charges dropped); 2015 girl who jumped from a balcony; student-to-student abuse allegation behind a revoked licence",
+      "count_stated": 3,
+      "reached_institution": "yes",
+      "quote": "The [perpetrator] were accused of child endangerment for allegedly beating the student upon his capture.",
+      "source": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2 @ 1:00"
+    },
+    {
+      "description": "Two girls on suicide watch at Turning Winds whom the same staff member abused",
+      "count_stated": 2,
+      "reached_institution": "yes",
+      "quote": "He was getting into the tents of the girls downstairs.",
+      "source": "s24-ep11-one-more-thing-to-be-scared-of @ 12:23"
+    },
+    {
+      "description": "12-year-old boy violently restrained at Turning Winds and other residents returned bloodied",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "They whipped him around and slammed him up against the wall and took his arm behind his head",
+      "source": "s24-ep10-my-own-mother-wasnt-going-to-save-me-2 @ 53:05"
+    },
+    {
+      "description": "Boy at Carlbrook sent 'somewhere worse' after digging a stump; alumni deaths by overdose/suicide; Forrest Ferguson missing since 2010",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "After he dug the stump, he got sent somewhere worse. And to this day, I don't know where he is.",
+      "source": "s24-ep12-someone-who-believes-me-2 @ 60:30"
+    },
+    {
+      "description": "Ivy Ridge students accusing staff of grooming and sexual abuse (DA investigation, no charges)",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "Multiple former Academy at Ivy Ridge students have accused former staff of grooming and sexually abusing students.",
+      "source": "s24-ep13-how-profoundly-sorry-i-am-2 @ 50:58"
+    },
+    {
+      "description": "Ivy Ridge boy kept in observed-placement position with duct-taped oven mitts and an untreated chin infection",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "they wouldn't take him out of the building to go see medical, was the duct tape oven mitts on his hands",
+      "source": "s24-ep14-horror-movie-2 @ 21:58"
+    },
+    {
+      "description": "14-year-old assaulted by fellow students at Ivy Ridge; two dorm parents charged with endangering, charges dropped",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "alleged the two men failed to prevent the assault of a 14-year-old by fellow students.",
+      "source": "s24-ep14-horror-movie-2 @ 40:40"
+    },
+    {
+      "description": "Girl restrained by three male staff and left in OP position 2+ hours (incident reports Ed shared)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "Three male staff restraining a female student.",
+      "source": "s24-ep14-horror-movie-2 @ 34:19"
+    },
+    {
+      "description": "Julie's family friend physically assaulted by three Ivy Ridge staff (documented)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "There is a document that details how he was sat on by three large staff members, and they physically assaulted him to the point that his eyes were bloodshot.",
+      "source": "s24-ep15-source-of-hope-2 @ 49:04"
+    },
+    {
+      "description": "Seminar participant who had been raped as a child, told by a facilitator it was her fault",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "a facilitator whispered in her ear, but it was your fault that that happened.",
+      "source": "s24-ep15-source-of-hope-2 @ 30:33"
+    },
+    {
+      "description": "Survivor friend of Terry who died in her late 30s, and her brother who also attended and died",
+      "count_stated": 2,
+      "reached_institution": "unknown",
+      "quote": "her brother was also in the program before her, and he passed away.",
+      "source": "s24-ep17-wounded-2 @ 41:05"
+    },
+    {
+      "description": "Emily Graber, held in isolation 58 days at Island View and missing during transport (2007)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "put in isolation for 58 days, made to stare at a wall, not speak, pee on myself, and sit in it, end quote.",
+      "source": "s24-ep18-fear-driven-2 @ 3:16"
+    },
+    {
+      "description": "Boy who died by suicide at Island View during Katie's stay",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "The next day we found out that he had hung himself in the bathroom.",
+      "source": "s24-ep18-fear-driven-2 @ 32:17"
+    },
+    {
+      "description": "Girl 'sheeted' at DeSisto",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "there was a girl that got sheeded. She's having to wear a sheet as clothing.",
+      "source": "s24-ep19-wanted-2 @ 23:15"
+    },
+    {
+      "description": "Tranquility Bay buddy found bruised and cut in OP; boy who escaped and later died; teen who died in a 2001 fall",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "Her face was bruised and swollen, and her eyes were bloodshot in puffy surrounded by black swathe.",
+      "source": "s24-ep20-extreme-2 @ 28:18"
+    },
+    {
+      "description": "Montana school girls: one forced into diapers, one carrying rocks with bruised back",
+      "count_stated": 2,
+      "reached_institution": "no",
+      "quote": "There was one girl who had to wear diapers.",
+      "source": "s24-ep22-hold-up-a-mirror-2 @ 23:44"
+    },
+    {
+      "description": "16-year-old who died of heat stroke at SageWalk (2009), wrongful death lawsuit",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "In August 2009, a 16-year-old student died of heat stroke after being required to carry an 80-pound backpack during a hike in high-temperature conditions.",
+      "source": "s24-ep23-your-money-or-your-childs-life-2 @ 3:05"
+    },
+    {
+      "description": "Mount Bachelor female student forced to spread her legs in a Life Steps session (lawsuit)",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "At one Life Steps session, a female student was forced to spread her legs in front of each of the 15 male participants and their adult male counselor, end quote.",
+      "source": "s24-ep23-your-money-or-your-childs-life-2 @ 5:09"
+    },
+    {
+      "description": "Younger cadet with the headmaster; John's friend found hanged at the military school",
+      "count_stated": 2,
+      "reached_institution": "unknown",
+      "quote": "I witnessed something that evening with he and another one of the younger cadets.",
+      "source": "s24-wcn-presents-john-callas-when-the-rain-stops @ 12:17"
+    },
+    {
+      "description": "Kids an EMT saw coming out of Oregon wilderness programs emaciated and injured",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "I would see people coming in emaciated. I would see them with severe injuries, bobcat bites,",
+      "source": "s24-ep9-adolescent-mental-health-with-dr-stephanie-hartselle-md-2 @ 3:06"
+    },
+    {
+      "description": "Aurora Center for Healing (Nevada) residents; program shut by state",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "on April 8th, 2025, Aurora's facility license was suspended by the Nevada Division of Public and Behavioral Health.",
+      "source": "s24-ep14-horror-movie-2 @ 33:16"
+    },
+    {
+      "description": "Amy B. Chessler's mother, murdered by Amy's brother (Season 7); sentence enhancement later removed",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "He lost his extra year for using a knife for murdering my mom because in California, the legal landscape changed.",
+      "source": "s24-ep25-case-community-updates-2 @ 22:02"
+    }
+  ],
+  "coder_notes": "Season 24 covers the so-called troubled teen industry (TTI): survivor interviews (Meg, Malia, Leanne, Lindy, Kat, Molly, Danielle, Ed, Julie, Marie, Katie, Nicole, Brittany, Haley, Dylan, Max), two parents whose children died (Shannon re Kalin; Terry re Anthony), expert episodes (Maia Szalavitz, Dr. Keating, Dr. Hartselle: no person stories), a case-and-community update (Season 18 update coded as a group record), and a What Came Next crossover (John Callas) published in the season feed. All 14 chunk files were read to their stated last line, across several sessions interrupted by usage limits; notes were written after each file.\n\nKey coding decisions:\n1. In most TTI stories the institution that harmed the child was the program itself. When a survivor raised the harm with program staff/therapists (or a parent did on their behalf), I recorded it as a contact with that institution (often noting institution_was_abusers), because the instructions count any organisation with power to respond. Where nothing was raised, I coded never_reached, mostly with institution_was_abusers (monitored calls and letters), did_not_know_it_was_abuse, or fear of a longer stay.\n2. harmed_by_institution_ever is set true only where an institution responding to a disclosure (or otherwise acting on the person's harm) blamed, punished or exposed them, not merely because the program was the abuser; otherwise nearly every survivor would be true.\n3. One record per harm by a different perpetrator: separate records for different programs where substantive harm is described, and for parental abuse or sexual assaults outside the programs. Some lighter placements were folded into a neighbouring record (Leanne: New Leaf + Pacific Quest; Dylan: Catherine Freer and John Dewey folded into the Montana record). Brief harms with no aftermath (e.g., John Callas's childhood rape by his sister's friend, Malia's adult assault, Danielle's mention of sexual assault, Kat's later assault, Nicole's abusive boyfriend) were not given records.\n4. Background cases from host narration (Kristen Chase, Aaron Bacon, Lulu, Asheville Academy deaths, Red Rock Canyon student, Trails Carolina boy, Taylor Goodridge, Baruch Silvers, Paris Hilton, Danielle Bregoli, Hannah Archuleta, Island View 15-year-old) were given records because the season tells some of what was done and what followed; they are low/medium confidence. A different coder might put some in others_mentioned.\n5. Regulator actions against programs that were not prompted by the person and came after they left (DeSisto closure 2004, Ivy Ridge DA investigation and AG settlement, Copper Canyon/Aspen issues) were not coded as that person's contacts; mentioned in notes. Exception: Max was still at Mount Bachelor when DHS investigated and closed it, so that is coded as Max's contact and protection.\n6. Parents' calls/letters to the program on the child's behalf are coded as contacts initiated by family_or_friends (e.g., Max's father to SageWalk and Mount Bachelor).\n7. Where harm ended because the person aged out, ran away, was pulled by a parent, or left by their own action, later institutional actions are not protection (not_protected), per instructions.\n8. Names: perpetrators' and accused persons' names in quotes were replaced with [perpetrator]. Quotes naming non-victims (family members, attorneys, a senator, therapists) were avoided by choosing other passages. Parents who placed children (Shannon, Terry, Max's father) were not given person records as harmed persons, although the season frames them as deceived and financially exploited.\n9. Sources were computed by locating each quote in the transcript text; the timestamp is the bracketed marker of the line where the quote begins. Spelling of names follows the transcript where it varies (e.g., Lulu's surname).\n10. No unassigned episode concerned this season; only INDEX.txt was read."
+}
