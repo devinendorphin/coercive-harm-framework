@@ -41,3 +41,24 @@ The first run of the seeded draw read the index file's summary line as a 27th "s
 so its population broke the committed rule. It was discarded and re-run once on seasons 1–26
 with the same seed. Both outputs are in `../results/whole_story/framing_draw.txt`. No framing
 coder had started.
+
+## D3 — 2026-11-02, a second model family for named seasons (before any outside coder starts)
+
+**Why:** the session's usage limit stops a 10-coder batch about every five hours; the full plan
+needs 64 coders. Endorphin approved using Codex (a different model family) to share the load.
+**What:** Codex codes, as independent single-coder tasks with the identical coder instructions,
+format and reading folders (rebuilt by `codex-kit/build_kit.py`; tested byte-identical):
+- seasons 7–12: neutral coders `CA` and `CB` (two separate tasks per season);
+- season 17: `CA` and `CB` again, beside the Claude coders, to measure agreement between models;
+- season 13: framing pair `CPOS` / `CNEG`, to measure Codex's own lean (the pre-registered framing
+  test measures only the Claude coders).
+**Blinding:** the kit lives in a separate repository (`devinendorphin/sww-coding-kit`, commit
+`ee0585e`) that contains no project documents, hypotheses or results; each task is told not to open
+other branches or pull requests. As with the Claude coders, isolation is by instruction.
+**Analysis changes (fixed now):** every headline is reported three ways: all seasons pooled;
+Claude-coded seasons only; and Codex-coded seasons only, each with its own framing band (Claude
+band from the six drawn seasons; Codex band from S13). If the pooled and Claude-only verdicts differ,
+both are reported and the Claude-only result is the one the pre-registration describes. S17's four
+neutral codings give a between-model agreement figure, reported beside the within-model ones.
+Seasons coded by Codex are not also coded by Claude neutral coders unless capacity allows; any such
+double coding is reported, never used to pick a preferred result.
