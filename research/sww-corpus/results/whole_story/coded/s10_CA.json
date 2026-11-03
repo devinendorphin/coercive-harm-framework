@@ -1,0 +1,4015 @@
+{
+  "season": 10,
+  "coder": "CA",
+  "coder_model": "GPT-6 (Codex)",
+  "reading_log": [
+    {
+      "file": "s10_01.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s10_02.txt",
+      "last_line_number": 108,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s10_03.txt",
+      "last_line_number": 122,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s10_04.txt",
+      "last_line_number": 115,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s10_05.txt",
+      "last_line_number": 110,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s10_06.txt",
+      "last_line_number": 55,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "data-points-cons-schemes-fraud",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for discussion or updates of the season’s financial fraud and identity-theft stories; educational only, no season-10 story."
+    },
+    {
+      "slug": "data-points-false-reporting-and-its-impact-on-survivors",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for discussion of dismissed sexual-assault reports; educational content and unrelated examples, no season-10 story."
+    },
+    {
+      "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for discussion of the coercive-control and financial-abuse stories; general education, no season-10 update."
+    },
+    {
+      "slug": "data-points-stalking-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for updates to the season’s stalking stories; general education, no season-10 story."
+    },
+    {
+      "slug": "data-points-the-30th-anniversary-of-the-violence-against-women-act-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for discussion of institutional responses to stalking and intimate-image abuse; no season-10 story."
+    },
+    {
+      "slug": "data-points-the-intersection-of-true-crime-the-lgbtqia-community-featuring-jimanekia-eborn",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for discussion of Mia or Olivia’s experiences; no season-10 story."
+    },
+    {
+      "slug": "data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for discussion of impersonation and nonconsensual-image abuse; general education, no season-10 story."
+    },
+    {
+      "slug": "data-points-ptsd-featuring-dr-danielle-moore",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for discussion or updates of the season’s trauma and treatment accounts; no season-10 story."
+    },
+    {
+      "slug": "exciting-sww-updates",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked whether the update announcement continued a season-10 story; it concerns release plans for seasons 13 and 14."
+    },
+    {
+      "slug": "wcn-presents-caitlin-mathis-dedicated-to-change-2",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked the stalking and criminal-justice survivor interview for any connection to this season; it is a different story, explicitly adjacent to season 25."
+    },
+    {
+      "slug": "black-lives-matter-amplifymelanatedvoices",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Index describes racial-justice advocacy, not a season-10 follow-up."
+    },
+    {
+      "slug": "data-points-how-social-media-impacts-kids-mental-health-featuring-dr-corey-emanuel",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Index describes general youth mental-health education without a season-10 connection."
+    },
+    {
+      "slug": "data-points-how-social-media-impacts-our-mental-health-featuring-dr-corey-emanuel",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Index describes general social-media mental-health education without a season-10 connection."
+    },
+    {
+      "slug": "data-points-male-survivors-of-sexual-assault-featuring-leron-barton",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Index describes a different educational topic; no identified season-10 male sexual-assault story is continued."
+    },
+    {
+      "slug": "data-points-munchausen-syndrome-by-proxy-featuring-andrea-dunlop",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Index describes medical child abuse, not one of this season’s stories."
+    },
+    {
+      "slug": "listen-now-death-county-pa",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Index identifies a separate prison-death promotion, not a season-10 follow-up."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Bailey",
+      "role_in_story": "central_survivor",
+      "harm": "A date withheld her phone, blocked her exit, chased her, and threatened violence. She escaped and later received intimidating jail calls.",
+      "perpetrator_role": "her date",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s10-e1-bailey-im-going-to-fcking-kill-you"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Sheriff's deputy",
+          "initiated_by": "person",
+          "when": "night of the incident",
+          "what_was_asked": "Safety and investigation",
+          "what_institution_did": "Took notes, did not pursue the man, and later no report could be found.",
+          "quote": "He did take notes while I told him what happened, but he didn't make any effort to go find [perpetrator].",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 14:35",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She paid for a cab home; months later she independently contacted detectives.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Huntington Beach Police Department",
+          "initiated_by": "person",
+          "when": "months later, following a public appeal",
+          "what_was_asked": "Provide information about the suspect",
+          "what_institution_did": "Searched for the earlier report, took her statement and checked video names.",
+          "quote": "So the detective asked me some other questions and I was able to tell him what [perpetrator]'s apartment looked like and it's hard, et cetera. So he then told me that I was quote unquote lucky because later in that year, [perpetrator] started drugging, raping, and videoing women.",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 19:45",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She was added to the witness list; the detective offered further contact if needed.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "case detective",
+          "initiated_by": "person",
+          "when": "after calls from Orange County Men’s facility",
+          "what_was_asked": "Help with frightening jail calls",
+          "what_institution_did": "Said she could answer because the line was recorded; no action to stop the calls is described.",
+          "quote": "Because my name was on the witness list, his lawyer had access to that information and I started getting calls from the Orange County Men's facility and I never answered. I was terrified to answer, but when I told the detective about it, his advice was that it was okay to answer because the line is recorded, but the last person I wanted to talk to was [perpetrator], or someone that he would have called me to intimidate me. So I never answered those calls.",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 20:48",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "The identity and intent of the caller were not confirmed."
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "criminal court",
+          "initiated_by": "institution",
+          "when": "while the criminal case was pending",
+          "what_was_asked": "Witness testimony",
+          "what_institution_did": "Subpoenaed her; repeatedly postponed the case and notified her.",
+          "quote": "postponed a lot. I'm not exactly sure on time, but it was it was a lot of I'd get letters like this has been postponed or there's a continuance, et cetera. Since I was on the witness list, they kept me updated.",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 21:55",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She ultimately was not required to testify.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "criminal court",
+          "initiated_by": "institution",
+          "when": "conclusion of criminal case",
+          "what_was_asked": "Accountability and safety",
+          "what_institution_did": "Found the perpetrator guilty and sentenced him to life imprisonment.",
+          "quote": "And [perpetrator]. So was found guilty and sentenced to life in prison.",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 21:55",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "She reported sleeping better and no longer having nightmares.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "medical_or_therapy",
+          "institution": "her therapist",
+          "initiated_by": "person",
+          "when": "approximately eight months before interview",
+          "what_was_asked": "Help processing trauma",
+          "what_institution_did": "Provided therapy she describes as life-changing and healing.",
+          "quote": "And the amount of healing that has happened just within those months has been incredible. There are times where I'll say something to my therapist and then she simply says it back to me and it's an epiphany moment.",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 31:15",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "And I think for me the biggest factor in my healing though has been that [perpetrator] is behind bars for the rest of his life.",
+      "outcome_source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 31:15",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "I didn't end up needing to testify in the end because there were so many other witnesses. And for many of those witnesses, there was video evidence. So my testimony wasn't needed.",
+      "decisive_work_source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 21:55",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 4,
+      "evidence_types": [
+        "conviction"
+      ],
+      "confidence": "high",
+      "notes": "The initial deputy failed to file a report. Disclosure of the witness list preceded frightening calls, but the caller was not established. Later incarceration supplied the safety she describes."
+    },
+    {
+      "person_id": "P02",
+      "name": "[unnamed] woman whose rape prompted the public appeal",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "She was raped; police sought public assistance after the suspect fled.",
+      "perpetrator_role": "the date who attacked Bailey",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s10-e1-bailey-im-going-to-fcking-kill-you"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Huntington Beach Police Department",
+          "initiated_by": "unclear",
+          "when": "public appeal after her rape",
+          "what_was_asked": "Find the suspect",
+          "what_institution_did": "Requested information from the public and investigated the suspect.",
+          "quote": "The local news article she'd seen on my space called for anyone with information about the suspect to contact law enforcement.",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 18:44",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "criminal court",
+          "initiated_by": "institution",
+          "when": "later case resolution",
+          "what_was_asked": "Prosecution",
+          "what_institution_did": "Convicted the same perpetrator and imposed life imprisonment.",
+          "quote": "So was found guilty and sentenced to life in prison.",
+          "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 21:55",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "So was found guilty and sentenced to life in prison.",
+      "outcome_source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 21:55",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "And for many of those witnesses, there was video evidence. So my testimony wasn't needed.",
+      "decisive_work_source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 21:55",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "No name or individual testimony is supplied. The article victim is distinguished from the additional women only collectively mentioned; linking her to the later life sentence is based on the episode narrative."
+    },
+    {
+      "person_id": "P03",
+      "name": "Megan (deceptive friendship)",
+      "role_in_story": "central_survivor",
+      "harm": "A stranger exploited her bereavement by falsely claiming a friendship with her murdered friend and lying about her identity; the discovery left her terrified.",
+      "perpetrator_role": "a woman claiming to be her deceased friend’s friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e2-megan-shocking-realization"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "You can't get a restraining order against someone for being over-textur or lying. So, we really had no legal way to protect ourselves.",
+            "source": "s10-e2-megan-shocking-realization @ 26:59"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "You can't get a restraining order against someone for being over-textur or lying. So, we really had no legal way to protect ourselves. So, we had to do what we thought was the best case scenario. And that was just to cut off all forms of contact with this person.",
+      "outcome_source": "s10-e2-megan-shocking-realization @ 26:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "Reason given: believed lying and excessive texting provided no legal basis for an order. Blocking was her own protective action."
+    },
+    {
+      "person_id": "P04",
+      "name": "Brooke (deceptive friendship)",
+      "role_in_story": "co_victim",
+      "harm": "The same stranger deceived her, caused acute fear, and sent unwanted messages for one or two years after the brief friendship.",
+      "perpetrator_role": "the woman claiming a friendship with their deceased friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e2-megan-shocking-realization"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "You can't get a restraining order against someone for being over-textur or lying. So, we really had no legal way to protect ourselves.",
+            "source": "s10-e2-megan-shocking-realization @ 26:59"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And the messages eventually stopped, and we all were able to get over it, but it was really hard.",
+      "outcome_source": "s10-e2-megan-shocking-realization @ 25:52",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "She remained nonresponsive rather than blocking in order to retain warning of the woman’s movements."
+    },
+    {
+      "person_id": "P05",
+      "name": "Anne",
+      "role_in_story": "other",
+      "harm": "She was killed in an act of violence while friends were present.",
+      "perpetrator_role": "the person responsible for her death",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s10-e2-megan-shocking-realization"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "unspecified criminal justice institution",
+          "initiated_by": "unclear",
+          "when": "after her death",
+          "what_was_asked": "Justice",
+          "what_institution_did": "The only reported outcome is that justice was served; the process and action are unspecified.",
+          "quote": "My friend Ann was involved in an act of incredible violence that took her life and since then justice has been served but it has affected us to this day.",
+          "source": "s10-e2-megan-shocking-realization @ 5:16",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "My friend Ann was involved in an act of incredible violence that took her life and since then justice has been served but it has affected us to this day.",
+      "outcome_source": "s10-e2-megan-shocking-realization @ 5:16",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "The narrative says justice was served but does not identify an institution, verdict, sentence, or details of the crime. Later justice cannot protect someone killed by the harm."
+    },
+    {
+      "person_id": "P06",
+      "name": "Megan (friend’s violent death)",
+      "role_in_story": "central_survivor",
+      "harm": "Her friend’s killing caused severe grief, disruption of college attendance, and distress.",
+      "perpetrator_role": "the person who killed her friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e2-megan-shocking-realization"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "her university",
+          "initiated_by": "person",
+          "when": "after the killing",
+          "what_was_asked": "Hold a memorial vigil",
+          "what_institution_did": "Worked with her to arrange a community memorial.",
+          "quote": "As I was getting the students together, I was working with our school. We were able to hold a beautiful ceremony where the community was able to gather",
+          "source": "s10-e2-megan-shocking-realization @ 6:21",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "professors and dean of her university",
+          "initiated_by": "institution",
+          "when": "midterms after the killing",
+          "what_was_asked": "Academic flexibility while grieving",
+          "what_institution_did": "Offered rescheduled examinations and a medical withdrawal.",
+          "quote": "And so because of that, they really wanted to work with us to reschedule our midterms to make sure we were in a good headspace. The community was just very supportive. The school was fantastic. The dean of the school even told us that we could have a medical withdrawal from the semester if we needed to.",
+          "source": "s10-e2-megan-shocking-realization @ 13:39",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "After the services, Megan decided to take a few weeks off from school so she could give herself some space to grieve before heading back to finish the semester.",
+      "outcome_source": "s10-e2-megan-shocking-realization @ 14:39",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "College accommodations helped her manage grief; no institutional action could prevent the death retrospectively."
+    },
+    {
+      "person_id": "P07",
+      "name": "Brooke (friend’s violent death)",
+      "role_in_story": "co_victim",
+      "harm": "She grieved the violent loss of her close friend and frequently stayed with Megan for mutual support.",
+      "perpetrator_role": "the person who killed her friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e2-megan-shocking-realization"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "their university",
+          "initiated_by": "institution",
+          "when": "after the killing",
+          "what_was_asked": "Academic support for affected friends",
+          "what_institution_did": "Offered the affected friend group rescheduling and medical withdrawal.",
+          "quote": "And so because of that, they really wanted to work with us to reschedule our midterms to make sure we were in a good headspace. The community was just very supportive. The school was fantastic. The dean of the school even told us that we could have a medical withdrawal from the semester if we needed to.",
+          "source": "s10-e2-megan-shocking-realization @ 13:39",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "she was often staying the night at Megan's place at this time so the two friends could support one another while grieving the loss of their friend Anne.",
+      "outcome_source": "s10-e2-megan-shocking-realization @ 16:41",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She is not individually identified as an eyewitness. The group’s college accommodations are stated collectively, so their exact use by Brooke is uncertain."
+    },
+    {
+      "person_id": "P08",
+      "name": "Ava (previous boyfriend)",
+      "role_in_story": "central_survivor",
+      "harm": "Her former boyfriend repeatedly refused breakups, entered her home and bed at night, and pressured her to continue the relationship.",
+      "perpetrator_role": "her previous boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e3-ava-showing-up-places"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He eventually stopped coming around and I was sort of casually seeing [perpetrator].",
+      "outcome_source": "s10-e3-ava-showing-up-places @ 5:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "No institutional contact is described. He stopped appearing when another man was present, rather than because of institutional action. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P09",
+      "name": "Ava (husband)",
+      "role_in_story": "central_survivor",
+      "harm": "Her husband deceived her about his identity, coerced sex, restrained and hit her, stalked her, caused loss of employment, threatened her partner, and manipulated her with suicide threats.",
+      "perpetrator_role": "her husband, later former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e3-ava-showing-up-places"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "her workplace",
+          "initiated_by": "institution",
+          "when": "during repeated workplace visits",
+          "what_was_asked": "Retain employment while dealing with stalking",
+          "what_institution_did": "Dismissed her because of her husband’s disruptive appearances.",
+          "quote": "And he actually got me let go from my job because he kept showing up there.",
+          "source": "s10-e3-ava-showing-up-places @ 31:50",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She found another job and feared he would cost her that job too.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "individual and couples therapist",
+          "initiated_by": "person",
+          "when": "when she sought help communicating the breakup",
+          "what_was_asked": "A safe plan to tell him she wanted a divorce",
+          "what_institution_did": "Agreed the relationship was toxic and arranged individual and joint meetings.",
+          "quote": "And I said that I needed a game plan because I was afraid of what he was going to do the next time I tell him that this is over for good and I want to divorce. I said I feel like I need help telling him this. And so the therapist said okay, I understand. And so he saw [perpetrator] by himself for a session.",
+          "source": "s10-e3-ava-showing-up-places @ 37:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "couples therapist",
+          "initiated_by": "person",
+          "when": "joint session",
+          "what_was_asked": "Support in communicating the divorce decision",
+          "what_institution_did": "Told the husband to calm down and listen; the husband cursed him and left.",
+          "quote": "So when that happened, I told him that I wanted a divorce, and then I did not want to be with him romantically. And he just flew off the handle again and the therapist tried saying, [perpetrator], you need to calm down and [perpetrator], this is what she's telling you, you need to listen. Well, [perpetrator] just got so pissed off, he cursed out the therapist, got up and stormed out the door.",
+          "source": "s10-e3-ava-showing-up-places @ 37:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "medical_or_therapy",
+          "institution": "couples therapist",
+          "initiated_by": "person",
+          "when": "immediately after joint session",
+          "what_was_asked": "Help leaving safely",
+          "what_institution_did": "Escorted her outside and physically intervened when the husband waited for her.",
+          "quote": "So, the therapist said, all right, well, I'm gonna walk out there with you. And if he's out there, I'll give you a ride home. Well, he was definitely out there waiting for me, and the therapist had to interfere and prevent him from trying to get to me.",
+          "source": "s10-e3-ava-showing-up-places @ 38:56",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "local police",
+          "initiated_by": "family_or_friends",
+          "when": "after suicide threats involving a gun",
+          "what_was_asked": "Respond to the threats",
+          "what_institution_did": "Responded to a call from her partner and attended.",
+          "quote": "And he kept threatening it. He said he had a gun in his hand. And so Levi called the police and the police showed up.",
+          "source": "s10-e3-ava-showing-up-places @ 44:10",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "The report concerned coercive suicide threats, not a described direct complaint about sexual or physical assault."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "I still actually hear from him every now and then, but I think he's got a new girlfriend and it's usually really just short messages or a picture here and there, but I don't really respond or have conversations with him.",
+      "outcome_source": "s10-e3-ava-showing-up-places @ 46:12",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "Well, he was definitely out there waiting for me, and the therapist had to interfere and prevent him from trying to get to me.",
+      "decisive_work_source": "s10-e3-ava-showing-up-places @ 38:56",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 3,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "The therapist provided concrete short-term safety, but stalking and sexual coercion continued for years. Final separation was accomplished by her and her partner. No protective order or formal divorce proceeding is described."
+    },
+    {
+      "person_id": "P10",
+      "name": "Ava (cabin violence)",
+      "role_in_story": "central_survivor",
+      "harm": "Her husband’s girlfriend became violent at the family cabin; she spent the night helping restrain her, and later dealt with damage to family property.",
+      "perpetrator_role": "her husband’s girlfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e3-ava-showing-up-places"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "cost_or_access"
+        ],
+        "quotes": [
+          {
+            "reason": "cost_or_access",
+            "quote": "And I tried to call the police, but they didn't answer. Not much police around there, I guess.",
+            "source": "s10-e3-ava-showing-up-places @ 27:47"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "The next day she woke up, she barely remembered anything.",
+      "outcome_source": "s10-e3-ava-showing-up-places @ 28:49",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Ava tried to call police, but nobody answered: this attempted call does not establish that an institution learned of the harm."
+    },
+    {
+      "person_id": "P11",
+      "name": "Levi",
+      "role_in_story": "co_victim",
+      "harm": "Her husband threatened to curb-stomp him, confronted him at home, and caused serious strain in his relationship with Ava.",
+      "perpetrator_role": "Ava’s husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e3-ava-showing-up-places"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "But for some reason, Levi stuck around and I am truly blessed that he stuck it out for me. And now we're very happy together, married for real.",
+      "outcome_source": "s10-e3-ava-showing-up-places @ 45:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "He called police about the husband’s suicide threats, but the transcript does not say he reported threats against himself. The episode names him Levi."
+    },
+    {
+      "person_id": "P12",
+      "name": "Emma (previous boyfriend)",
+      "role_in_story": "central_survivor",
+      "harm": "A prior partner verbally and sometimes physically abused her.",
+      "perpetrator_role": "her previous boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e4-emma-monster-inside"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I had just gotten out of a pretty bad relationship. It was very verbally abusive and at times physically abusive. So kind of running to someone familiar was really comforting to me at that time,",
+      "outcome_source": "s10-e4-emma-monster-inside @ 3:08",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "A brief but distinct past relationship is described as ended; institutional involvement is not stated. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P13",
+      "name": "Emma (boss’s rape)",
+      "role_in_story": "central_survivor",
+      "harm": "A bar employer raped her when she was 19, leaving enduring trauma.",
+      "perpetrator_role": "her former boss",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e4-emma-monster-inside"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "I Was so terrified of exposing this person. I never told anyone. I was just so scared of what would happen.",
+            "source": "s10-e4-emma-monster-inside @ 44:23"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "When I was your age, I was too scared. I couldn't do that.",
+      "outcome_source": "s10-e4-emma-monster-inside @ 44:23",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She later told her husband, but no institutional report or treatment specifically addressing this rape is established."
+    },
+    {
+      "person_id": "P14",
+      "name": "Emma (husband)",
+      "role_in_story": "central_survivor",
+      "harm": "Her husband repeatedly coerced or forced sex, financially exploited her, demeaned her, and used her mental health against her. Discovering his attacks on other women caused further trauma.",
+      "perpetrator_role": "her husband, later former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e4-emma-monster-inside"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "her divorce lawyer",
+          "initiated_by": "person",
+          "when": "after learning about sexual harassment of an employee",
+          "what_was_asked": "Advice on confronting him while pursuing divorce",
+          "what_institution_did": "Advised against confrontation before evidence was available while preparing the divorce.",
+          "quote": "And I had called my lawyer about it Should I confront him with this issue and the lawyer knowing that I wanted to file and wanted to get this thing done It's just possible and he had cautioned know at that time because there was no proof.",
+          "source": "s10-e4-emma-monster-inside @ 27:00",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Legal advice is coded other because an attorney is not the court."
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "divorce court",
+          "initiated_by": "person",
+          "when": "following public allegations and his eventual signature",
+          "what_was_asked": "End the marriage",
+          "what_institution_did": "Finalized the divorce after a filing process lasting a couple of months.",
+          "quote": "And so we were officially divorced. It only took us a couple of And so we were officially divorced. It only took us a couple of months to file and get divorced.",
+          "source": "s10-e4-emma-monster-inside @ 41:18",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "her mental health providers",
+          "initiated_by": "person",
+          "when": "after relocating",
+          "what_was_asked": "Treatment for anxiety, depression, PTSD and guilt",
+          "what_institution_did": "Provided continuing treatment and weekly EMDR, which she found helpful.",
+          "quote": "And since then, just going through therapy weekly and it's been amazing and eye opening and it started to help me out a lot with the guilt that I was facing with these women",
+          "source": "s10-e4-emma-monster-inside @ 43:20",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "I sold my house, I got divorced and I moved to a brand new city. All within like two months, it was nuts.",
+      "outcome_source": "s10-e4-emma-monster-inside @ 42:20",
+      "protection_contributors": [
+        "the_person",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "I sold my house, I got divorced and I moved to a brand new city. All within like two months, it was nuts. And people were like, whoa, why don't you calm down? I'm like, no, I need to get out. I had the surge of energy. It came across me, and I was just using that anger and fury to just get it done.",
+      "decisive_work_source": "s10-e4-emma-monster-inside @ 42:20",
+      "time_to_first_effective_action": "A couple of months to file and complete divorce",
+      "months_to_first_effective_action": 2,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "Divorce was the concrete legal release sought after separation. Recovery remained incomplete and the episode does not establish criminal prosecution of the husband."
+    },
+    {
+      "person_id": "P15",
+      "name": "[unnamed] 17-year-old coworker",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Received vulgar sexual messages from the man who later married Emma.",
+      "perpetrator_role": "her older coworker",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e4-emma-monster-inside"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She had posted a picture of herself online and he had directly messaged her with sexual comments and she hadn't replied.",
+      "outcome_source": "s10-e4-emma-monster-inside @ 7:14",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "No complaint or organizational response is described; she did not reply. No later action is inferred from allegations concerning a different workplace. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P16",
+      "name": "[unnamed] 21-year-old bartender",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Her bar-owner employer sexually harassed and assaulted her, exploiting her inexperience and need for the job.",
+      "perpetrator_role": "her bar-owner employer",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e4-emma-monster-inside"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "the bar",
+          "initiated_by": "unclear",
+          "when": "after allegations became public",
+          "what_was_asked": "Accountability and safety for women",
+          "what_institution_did": "Initially characterized reports as allegations and posted equivocal, subsequently deleted responses.",
+          "quote": "they basically kind of responded and kind of brushed it off and said these are allegations.",
+          "source": "s10-e4-emma-monster-inside @ 36:14",
+          "response": "protected_itself",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "employer_or_hr",
+          "institution": "the bar",
+          "initiated_by": "unclear",
+          "when": "later in the social-media response",
+          "what_was_asked": "Remove the owner from the workplace",
+          "what_institution_did": "Announced that he was no longer employed there.",
+          "quote": "then I think they had eventually posted and said that he was no longer with the bar employed.",
+          "source": "s10-e4-emma-monster-inside @ 36:14",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": "An announcement, not independently verified removal of ownership or access."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "then I think they had eventually posted and said that he was no longer with the bar employed.",
+      "outcome_source": "s10-e4-emma-monster-inside @ 36:14",
+      "protection_contributors": [
+        "other_victims",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "other_victims",
+      "decisive_work_quote": "And then, probably an hour later, I see more and more stories. Just flooding my newsfeed",
+      "decisive_work_source": "s10-e4-emma-monster-inside @ 31:06",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The bar’s later action applied to its owner in response to multiple allegations, not a separately documented complaint from her. Police reporting was discussed but not confirmed."
+    },
+    {
+      "person_id": "P17",
+      "name": "[unnamed] woman who escaped the bar owner",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "He followed her from a bar, forced kisses, struggled with her and later sent a message threatening to hold her down. She escaped to her car and publicized the attack.",
+      "perpetrator_role": "the bar owner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e4-emma-monster-inside"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "the bar",
+          "initiated_by": "person",
+          "when": "after public allegations",
+          "what_was_asked": "Expose the owner’s attacks",
+          "what_institution_did": "Initially minimized the allegations and offered equivocal sympathy.",
+          "quote": "they basically kind of responded and kind of brushed it off and said these are allegations.",
+          "source": "s10-e4-emma-monster-inside @ 36:14",
+          "response": "protected_itself",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "employer_or_hr",
+          "institution": "the bar",
+          "initiated_by": "unclear",
+          "when": "following public pressure",
+          "what_was_asked": "Remove him from the workplace",
+          "what_institution_did": "Announced that he was no longer employed.",
+          "quote": "then I think they had eventually posted and said that he was no longer with the bar employed.",
+          "source": "s10-e4-emma-monster-inside @ 36:14",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "then I think they had eventually posted and said that he was no longer with the bar employed.",
+      "outcome_source": "s10-e4-emma-monster-inside @ 36:14",
+      "protection_contributors": [
+        "the_person",
+        "other_victims",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "other_victims",
+      "decisive_work_quote": "And then, probably an hour later, I see more and more stories. Just flooding my newsfeed",
+      "decisive_work_source": "s10-e4-emma-monster-inside @ 31:06",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "Employer response is shared with other allegations. No completed police report is confirmed; the threatening message was shown in a screenshot recounted by Emma."
+    },
+    {
+      "person_id": "P18",
+      "name": "Angie (husband)",
+      "role_in_story": "central_survivor",
+      "harm": "Her husband created financial dependence, coerced unwanted recorded sex with other men, stalked and threatened her, and left her fearing armed violence.",
+      "perpetrator_role": "her husband, later estranged husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e5-angie-dark-triad"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief",
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "And I kind of backed off from the charges because I saw what his charges were for the sex trafficking ring. He got probation and no jail time. And I was like, if he can rape a 17 year old girl and not get in trouble, what about what he did to me? There's no way any judge or anything is going to see that is wrong. So I just let it go.",
+            "source": "s10-e5-angie-dark-triad @ 36:28"
+          },
+          {
+            "reason": "fear_of_abuser",
+            "quote": "It took me like a week to tell my commander what had happened because I was so afraid of what was going to happen.",
+            "source": "s10-e5-angie-dark-triad @ 34:21"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "counselor allegedly seen by her husband",
+          "initiated_by": "unclear",
+          "when": "after she returned following separation",
+          "what_was_asked": "Change his coercive behavior",
+          "what_institution_did": "He claimed the counselor said Angie should accept his sexual demands; Angie doubted that he attended at all.",
+          "quote": "And it's so interesting that he ended up supposedly seeing this female, and I don't believe for a second that he did, seeing this female counselor and his interpretation of her advice to him was that I was the one who wasn't willing to try new things. And I should respect his sexual deviancy and I was the problem.",
+          "source": "s10-e5-angie-dark-triad @ 14:46",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Reported only through his disputed account. Not coded as confirmed blaming by a real clinician."
+        },
+        {
+          "n": 2,
+          "institution_type": "employer_or_hr",
+          "institution": "her jail employer and sheriff",
+          "initiated_by": "institution",
+          "when": "when her husband was arrested",
+          "what_was_asked": "Inform her privately and provide support",
+          "what_institution_did": "Brought her into an office with a victim advocate and informed her of the arrest.",
+          "quote": "The captain wasn't there, he's coming in over the phone and there's a victim's advocate there. And they had told me that my husband had been arrested by the police department, which was the town that he worked for and that he was coming in.",
+          "source": "s10-e5-angie-dark-triad @ 18:54",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Informational contact initiated by the institution."
+        },
+        {
+          "n": 3,
+          "institution_type": "victim_services",
+          "institution": "victim advocate present at the jail",
+          "initiated_by": "institution",
+          "when": "at the notification of her husband’s arrest",
+          "what_was_asked": "Support during notification",
+          "what_institution_did": "Was present when the arrest was disclosed; no further service is described.",
+          "quote": "there's a victim's advocate there.",
+          "source": "s10-e5-angie-dark-triad @ 18:54",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "police department commander",
+          "initiated_by": "person",
+          "when": "after learning of arrest",
+          "what_was_asked": "Information about the charges",
+          "what_institution_did": "Could provide little information.",
+          "quote": "And so I had a contact with one of the commanders there and I remember calling them crying. I was like, can you tell me what's going on? What is this about? He really didn't have much information to give me.",
+          "source": "s10-e5-angie-dark-triad @ 20:57",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "other",
+          "institution": "bail bondsman",
+          "initiated_by": "person",
+          "when": "when she arranged his release",
+          "what_was_asked": "Understand charges and arrange bail",
+          "what_institution_did": "Explained the pandering charge.",
+          "quote": "And she was the first person to sit me down. And one of the charges was pandering. So he wasn't charged with pimping, which means that you get money from it. But pandering is that you assisted the trafficking in some way, shape, or form.",
+          "source": "s10-e5-angie-dark-triad @ 20:57",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Not an adjudication of the charges."
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "detectives and her commander",
+          "initiated_by": "person",
+          "when": "after suspected entries and firearms purchases",
+          "what_was_asked": "Protection and investigation of bond violations",
+          "what_institution_did": "Escalated the weapons concern and arranged a lock change.",
+          "quote": "He was on bond at the time and conditions of bond are that you can't have weapons. They were like, okay, we're gonna have to send this up, the chain of command, because this",
+          "source": "s10-e5-angie-dark-triad @ 26:11",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Her door was open again a week after the lock change.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "police",
+          "institution": "her commander",
+          "initiated_by": "person",
+          "when": "after a further entry",
+          "what_was_asked": "Investigate continued intrusion",
+          "what_institution_did": "Initially insisted she was forgetting to close the door because the lock had been changed.",
+          "quote": "He was like, it can't be him, we changed your locks. He can't get in. It's not him, you're forgetting to close it.",
+          "source": "s10-e5-angie-dark-triad @ 27:13",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "police",
+          "institution": "her commander",
+          "initiated_by": "person",
+          "when": "after she persisted",
+          "what_was_asked": "Stop unauthorized entry",
+          "what_institution_did": "Changed the locks again using a new lock with only her having the key. No further open-door incidents were reported.",
+          "quote": "At that point, I go, okay, we'll change the locks again. And we'll make sure that it's a brand, okay, we'll change the locks again, and we'll make sure that it's a brand new lock. You'll be the only one who has the key to it. After that, that was the last time that my door had been left open.",
+          "source": "s10-e5-angie-dark-triad @ 27:13",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "police",
+          "institution": "her commander",
+          "initiated_by": "person",
+          "when": "after a coworker’s theft tip",
+          "what_was_asked": "Report suspected theft from the town",
+          "what_institution_did": "Said he would look into it and keep her updated; no immediate follow-up is described.",
+          "quote": "And he didn't ask a lot of questions, he's just like, I'll look into this and I'll keep you updated.",
+          "source": "s10-e5-angie-dark-triad @ 28:14",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "She perceived dismissal; the later embezzlement arrest is recorded separately without assuming this tip caused it."
+        },
+        {
+          "n": 10,
+          "institution_type": "medical_or_therapy",
+          "institution": "crisis response team",
+          "initiated_by": "family_or_friends",
+          "when": "during suicidal crisis",
+          "what_was_asked": "Help during depression and suicidal planning",
+          "what_institution_did": "Imposed a 72-hour mental-health hold despite her pleas concerning career consequences.",
+          "quote": "And they ended up putting me on a mental health hold, a 72 hour hold, which is a hard thing for me. I was in trouble. I was in a very bad place, but I don't know if that was the correct solution.",
+          "source": "s10-e5-angie-dark-triad @ 30:18",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "She acknowledges needing help but questions this response; the later five-year career exclusion supplies the institutional harm, rather than treating emergency care itself as proof of abuse."
+        },
+        {
+          "n": 11,
+          "institution_type": "medical_or_therapy",
+          "institution": "eating-disorder and trauma treatment providers",
+          "initiated_by": "family_or_friends",
+          "when": "after discharge from the hold",
+          "what_was_asked": "Treatment and understanding of trauma",
+          "what_institution_did": "Provided treatment, therapy and neurofeedback which she says helped.",
+          "quote": "I started doing that treatment, and that really helped, and doing the therapy helped, and started doing yoga, and just trying to calm my brain down.",
+          "source": "s10-e5-angie-dark-triad @ 32:18",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "regulator_or_licensing",
+          "institution": "IRS",
+          "initiated_by": "institution",
+          "when": "four months after beginning treatment",
+          "what_was_asked": "Tax audit",
+          "what_institution_did": "Audited her and questioned her about deductions, exposing apparent tax dishonesty by her husband.",
+          "quote": "So I went and I talked to the IRS and they asked me a lot of questions and it became pretty apparent to me and to the IRS that he had lied on a lot of his deductions. He lied a lot on his taxes.",
+          "source": "s10-e5-angie-dark-triad @ 33:19",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Included because his financial deception was investigated; no finding or liability against her is stated."
+        },
+        {
+          "n": 13,
+          "institution_type": "police",
+          "institution": "her commander",
+          "initiated_by": "person",
+          "when": "a week after a stranger threatened her on a trail",
+          "what_was_asked": "Protection from threats and armed retaliation",
+          "what_institution_did": "Minimized his capacity for violence; arranged apartment checks for her peace of mind.",
+          "quote": "That's just not who he is. He's a wimpy IT guy. You don't need to be afraid. They'd have checks on my apartment, just kind of have guys walk by, make sure everything was okay, but they were doing that for my peace of mind, not what they believed was a truth threat.",
+          "source": "s10-e5-angie-dark-triad @ 35:26",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Concrete checks also fit acted_partly; the passage directly shows minimization."
+        },
+        {
+          "n": 14,
+          "institution_type": "police",
+          "institution": "her commander",
+          "initiated_by": "person",
+          "when": "after trauma treatment",
+          "what_was_asked": "Action on sexual coercion and abuse",
+          "what_institution_did": "Said her abuse was too hard to prove but promised to get him for something else.",
+          "quote": "And I had disclosed the abuse to my commander after I got out of treatment because I felt like I had to get that off. And I was told, Angie, we will get him. We won't get him for what he did to you, but we will get him. Your accusations are so difficult to prove and they're so difficult",
+          "source": "s10-e5-angie-dark-triad @ 35:26",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She backed away from her own charges after learning of his probation in the child-sex case.",
+          "notes": ""
+        },
+        {
+          "n": 15,
+          "institution_type": "police",
+          "institution": "her police department",
+          "initiated_by": "institution",
+          "when": "summer 2019",
+          "what_was_asked": "Arrest on embezzlement charges",
+          "what_institution_did": "Arrested him after violent resistance and seized his guns.",
+          "quote": "And they finally got him down and they were able to take him into custody. And when they did that, they were able to get his guns.",
+          "source": "s10-e5-angie-dark-triad @ 38:26",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He was detained for 60 days then released on bail.",
+          "notes": ""
+        },
+        {
+          "n": 16,
+          "institution_type": "court",
+          "institution": "judge in embezzlement case",
+          "initiated_by": "institution",
+          "when": "after 60 days in jail",
+          "what_was_asked": "Pretrial monitoring",
+          "what_institution_did": "Ordered GPS monitoring and a return for trial.",
+          "quote": "Following his arrest, [perpetrator] spent 60 days in the local jail before making bail. The judge ordered that he be tracked by a GPS ankle monitor and returned a court for trial.",
+          "source": "s10-e5-angie-dark-triad @ 38:26",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "He later cut the bracelet and fled.",
+          "notes": ""
+        },
+        {
+          "n": 17,
+          "institution_type": "police",
+          "institution": "her police department",
+          "initiated_by": "institution",
+          "when": "when his monitor was tampered with",
+          "what_was_asked": "Immediate safety",
+          "what_institution_did": "Took her to the police department while officers searched for him.",
+          "quote": "One of the other officers came and got me and I was taken to the police department and I was terrified. One of the other officers came and got me and I was taken to the police department and I felt safe-ish,",
+          "source": "s10-e5-angie-dark-triad @ 39:32",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Detectives located him out of state about a week later; he killed himself.",
+          "notes": ""
+        },
+        {
+          "n": 18,
+          "institution_type": "employer_or_hr",
+          "institution": "police hiring authorities",
+          "initiated_by": "institution",
+          "when": "after the mental-health hold",
+          "what_was_asked": "Become a sworn police officer",
+          "what_institution_did": "Told her she was ineligible for five years because of suicidality and the hold.",
+          "quote": "because of my Suicideality in the 72 hour hold I was told that I'm Uneligible to be a cop for five years",
+          "source": "s10-e5-angie-dark-triad @ 43:42",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "The restriction is described by Angie; no written policy is read on air."
+        },
+        {
+          "n": 19,
+          "institution_type": "medical_or_therapy",
+          "institution": "ketamine treatment provider",
+          "initiated_by": "person",
+          "when": "after his death",
+          "what_was_asked": "Help with renewed suicidality",
+          "what_institution_did": "Provided ketamine treatment which she says removed the suicidal planning.",
+          "quote": "but the ketamine really took away the suicidality. Because after he died,",
+          "source": "s10-e5-angie-dark-triad @ 42:36",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "The quotation establishes reported benefit, not a general medical recommendation."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "since his passing. It's been an interesting period for me where I guess I'm not living in fear anymore. And I'm not afraid anymore.",
+      "outcome_source": "s10-e5-angie-dark-triad @ 44:50",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "Her fear ended with his suicide, not institutional protection. Some police steps and treatment helped, but threats persisted, her sexual-abuse complaint was not pursued, and the mental-health hold barred a police career for five years. His probation was for crimes against a minor, not her abuse. No tax-audit outcome or completed divorce is stated."
+    },
+    {
+      "person_id": "P19",
+      "name": "Angie (rough sexual encounter)",
+      "role_in_story": "central_survivor",
+      "harm": "During an encounter arranged under her husband’s coercion, another man hurt her during sex while her husband ignored her distress.",
+      "perpetrator_role": "the other man in the arranged encounter",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e5-angie-dark-triad"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "her commander",
+          "initiated_by": "person",
+          "when": "after treatment",
+          "what_was_asked": "Action on the abusive sexual encounters",
+          "what_institution_did": "Said the allegations were difficult to prove and promised unrelated charges.",
+          "quote": "And I had disclosed the abuse to my commander after I got out of treatment because I felt like I had to get that off. And I was told, Angie, we will get him. We won't get him for what he did to you, but we will get him. Your accusations are so difficult to prove and they're so difficult",
+          "source": "s10-e5-angie-dark-triad @ 35:26",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Included as part of the coercive abuse disclosure; individual scope uncertain."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And the next day I just, I cracked. I'd had enough and we got into this fight and I was yelling, you know, I don't want to sleep with these other men. You know I hate this. You know I don't like this. Why do you make me do this? And I just left upset",
+      "outcome_source": "s10-e5-angie-dark-triad @ 12:40",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "The later disclosure to her commander concerned the overall coercive abuse; it is uncertain whether she described this assailant individually. No sanction or protection specific to this encounter is stated."
+    },
+    {
+      "person_id": "P20",
+      "name": "[unnamed] 17-year-old trafficking victim",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was sexually abused and trafficked, including rape by Angie’s husband.",
+      "perpetrator_role": "Angie’s husband and the trafficking participants",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s10-e5-angie-dark-triad"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police department",
+          "initiated_by": "institution",
+          "when": "before Angie’s planned transfer to the agency",
+          "what_was_asked": "Investigate crimes against children",
+          "what_institution_did": "Arrested the suspect for sex crimes against children.",
+          "quote": "Then I was like, what is he coming in? And they said, first sex crimes against children.",
+          "source": "s10-e5-angie-dark-triad @ 19:55",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "prosecutor",
+          "institution": "attorney general and grand jury",
+          "initiated_by": "institution",
+          "when": "criminal case",
+          "what_was_asked": "Prosecute trafficking crimes",
+          "what_institution_did": "Obtained a grand-jury indictment.",
+          "quote": "because it was a grand jury indictment through the attorney general.",
+          "source": "s10-e5-angie-dark-triad @ 23:02",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "court in the trafficking case",
+          "initiated_by": "unclear",
+          "when": "case disposition",
+          "what_was_asked": "Accountability",
+          "what_institution_did": "No trial was held because of the mother’s concern about retraumatization; the man received probation without jail.",
+          "quote": "He got probation and no jail time.",
+          "source": "s10-e5-angie-dark-triad @ 36:28",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": "Trial avoidance is described at 24:05; no sentencing transcript is supplied."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He got probation and no jail time.",
+      "outcome_source": "s10-e5-angie-dark-triad @ 36:28",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "No effective safety outcome for this girl is described. The mother declined a trial because of further trauma; probation is stated but neither the precise offense of conviction nor plea details are given."
+    },
+    {
+      "person_id": "P21",
+      "name": "[unnamed] trafficking victim (prior familial abuse)",
+      "role_in_story": "other",
+      "harm": "The girl had also been sexually abused by an older family member, reportedly her grandfather; the later trafficking was described as an attempt to escape that abuse.",
+      "perpetrator_role": "reportedly her grandfather",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e5-angie-dark-triad"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Later on I did find out that the girl had been abused by her, I believe it was her grandfather. In that through this trafficking ring it was kind of her way to get out of that abuse and how she kind of dealt with that abuse.",
+      "outcome_source": "s10-e5-angie-dark-triad @ 24:05",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Relationship identification is explicitly uncertain. Institutional action concerning this earlier perpetrator is not described. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P22",
+      "name": "Maribelle",
+      "role_in_story": "central_survivor",
+      "harm": "A partner used false identities and false claims that his family had died, isolated and financially controlled her, physically assaulted her, stalked her and distributed an intimate image.",
+      "perpetrator_role": "her dating-site partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e6-maribelle-dating-website-predator"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "This whole time that he did all this, I never filed a police report because I was terrified of him.",
+            "source": "s10-e6-maribelle-dating-website-predator @ 54:19"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police",
+          "initiated_by": "person",
+          "when": "after distribution of her intimate image, shortly before recording",
+          "what_was_asked": "Report his behavior and stop him",
+          "what_institution_did": "She filed her first police report; no investigative step or outcome is described.",
+          "quote": "And that gave me the first courage to finally file a police report on him.",
+          "source": "s10-e6-maribelle-dating-website-predator @ 54:19",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No police follow-up is reported.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "The story continues. Last week he messaged me on Facebook from a fake profile. He is still doing the same thing. His most recent ex-girlfriend has reached out to me. He's currently doing the same thing to her. The stalking, the fake numbers, the fake text messages, the fake people, the same story, everything.",
+      "outcome_source": "s10-e6-maribelle-dating-website-predator @ 50:13",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "Also transcribed Maribel/Meribel. Her new job, car, address and number reduced access but he still contacted her near the interview. A police report was finally filed; no subsequent action is stated."
+    },
+    {
+      "person_id": "P23",
+      "name": "Evelyn",
+      "role_in_story": "co_victim",
+      "harm": "Her husband maintained deceptive parallel relationships and misrepresented their marriage and children while continuing to live with her.",
+      "perpetrator_role": "her husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e6-maribelle-dating-website-predator"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "That was his wife, those were his kids.",
+      "outcome_source": "s10-e6-maribelle-dating-website-predator @ 29:30",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She exchanged information with Maribelle and disclosed other girlfriends. No institutional contact or final marital outcome is stated. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P24",
+      "name": "Amy",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was deceived for a five-year relationship about the man’s identity, marriage and supposedly deceased family.",
+      "perpetrator_role": "her former boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e6-maribelle-dating-website-predator"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "At this point, they had been broken up for, I think she said, at this point, it was six or seven months.",
+      "outcome_source": "s10-e6-maribelle-dating-website-predator @ 33:37",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Maribelle told her the dead-family story was false after their breakup. No institutional intervention is reported. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P25",
+      "name": "[unnamed] girlfriend of two years",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was in an ongoing two-year relationship under a false identity and false story that his wife and child had died; her own children were involved with him.",
+      "perpetrator_role": "Maribelle’s partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e6-maribelle-dating-website-predator"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And I had to break it to her. That was hard. I turned her world upside down. She had kids, she involved with him and everything.",
+      "outcome_source": "s10-e6-maribelle-dating-website-predator @ 47:04",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Maribelle informed her of the deception. No later outcome or institutional contact is described. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P26",
+      "name": "[unnamed] recent ex-girlfriend",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was stalked and contacted through fake numbers and personas, and received an intimate image of Maribelle as part of his continuing behavior.",
+      "perpetrator_role": "Maribelle’s former partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e6-maribelle-dating-website-predator"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "His most recent ex-girlfriend has reached out to me. He's currently doing the same thing to her. The stalking, the fake numbers, the fake text messages, the fake people, the same story, everything.",
+      "outcome_source": "s10-e6-maribelle-dating-website-predator @ 50:13",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She reached out to Maribelle. No institutional report on her own behalf or protective outcome is stated. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P27",
+      "name": "Beth (hit-and-run)",
+      "role_in_story": "central_survivor",
+      "harm": "A drunk driver struck her and drove on, leaving her near death.",
+      "perpetrator_role": "the drunk driver",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s10-e7-nadia-something-in-his-eyes"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "emergency responders and hospital",
+          "initiated_by": "family_or_friends",
+          "when": "immediately after the hit-and-run",
+          "what_was_asked": "Emergency life-saving care",
+          "what_institution_did": "Responders transported her to hospital; she survived despite a grave prognosis.",
+          "quote": "By the grace of God, my aunt bus survived. And the doctors told my family that she would have died if not for the bystander who stopped to render aid.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 9:27",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "By the grace of God, my aunt bus survived. And the doctors told my family that she would have died if not for the bystander who stopped to render aid.",
+      "outcome_source": "s10-e7-nadia-something-in-his-eyes @ 9:27",
+      "protection_contributors": [
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "And the doctors told my family that she would have died if not for the bystander who stopped to render aid.",
+      "decisive_work_source": "s10-e7-nadia-something-in-his-eyes @ 9:27",
+      "time_to_first_effective_action": "Immediately after the collision",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "She survived this injury, married and raised a family; her much later death was due to cancer. A later acquaintance who helped her was a serial killer, but the episode does not describe an assault by him on her. Those circumstances are not recoded as a separate established attack. The bystander’s first aid was identified as life-saving. He was neither acting as a verified institutional EMT nor a preexisting friend; his claimed qualification was not confirmed. The required contributor categories do not fit this stranger, so decisive_work_by is unclear."
+    },
+    {
+      "person_id": "P28",
+      "name": "Charles Hubber",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was stabbed to death after meeting the assailant at a bowling alley.",
+      "perpetrator_role": "the man found dead atop him",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s10-e7-nadia-something-in-his-eyes"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Naperville investigators",
+          "initiated_by": "institution",
+          "when": "discovery of the two bodies",
+          "what_was_asked": "Determine what happened",
+          "what_institution_did": "Initially investigated an apparent double homicide.",
+          "quote": "Investigators initially thought they had a double homicide on their hands, and a killer on the loose, but a coroner's report revealed otherwise.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 14:37",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "coroner",
+          "initiated_by": "institution",
+          "when": "autopsies",
+          "what_was_asked": "Determine causes of death",
+          "what_institution_did": "Determined the attacker severed his own artery while stabbing Charles.",
+          "quote": "The autopsies determined that [perpetrator] had, in his rage of stabbing Mr. Hubber accidentally severed his own femoral artery and had led to death laying atop of him.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 14:37",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "The autopsies determined that [perpetrator] had, in his rage of stabbing Mr. Hubber accidentally severed his own femoral artery and had led to death laying atop of him.",
+      "outcome_source": "s10-e7-nadia-something-in-his-eyes @ 14:37",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "high",
+      "notes": "The transcript variously uses Hubber/Hubbard. The assailant died during the attack; later identification cannot constitute protection."
+    },
+    {
+      "person_id": "P29",
+      "name": "Deborah Koleander",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was abducted and raped, escaped and reported it; disappeared before trial and was later found dead.",
+      "perpetrator_role": "the serial rape and murder suspect",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": true,
+      "episodes": [
+        "s10-e7-nadia-something-in-his-eyes"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police / Cain County",
+          "initiated_by": "person",
+          "when": "after escaping the June 23, 1980 attack",
+          "what_was_asked": "Report kidnapping and rape",
+          "what_institution_did": "Responded to the case and charged the attacker, who was then released on bail.",
+          "quote": "Deborah managed to escape and ran to a neighbor's house where she called 911. [perpetrator] was charged in Cain County with deviates sexual conduct, rape, and aggravated kidnapping, then released from jail after posting bail.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 15:41",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "Cain County court",
+          "initiated_by": "institution",
+          "when": "pending trial, summer 1980",
+          "what_was_asked": "Pretrial proceedings",
+          "what_institution_did": "Released the defendant after bail.",
+          "quote": "[perpetrator] was charged in Cain County with deviates sexual conduct, rape, and aggravated kidnapping, then released from jail after posting bail.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 15:41",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": "The later disappearance is not proof that the court knew of the private threats."
+        },
+        {
+          "n": 3,
+          "institution_type": "prosecutor",
+          "institution": "prosecutors in her case",
+          "initiated_by": "institution",
+          "when": "after she vanished",
+          "what_was_asked": "Keep the case pending while searching",
+          "what_institution_did": "Requested multiple continuances.",
+          "quote": "Prosecutors sought multiple continuances while a search for Koleander took place,",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 18:46",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "court in her case",
+          "initiated_by": "institution",
+          "when": "1981",
+          "what_was_asked": "Proceed with the case",
+          "what_institution_did": "Dismissed the case on speedy-trial grounds.",
+          "quote": "but the murder case was dismissed in 1981 due to speedy trial rights.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 18:46",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "record_checked_by_show",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "medical_or_therapy",
+          "institution": "autopsy authorities",
+          "initiated_by": "institution",
+          "when": "1982, after discovery of her body",
+          "what_was_asked": "Determine cause of death",
+          "what_institution_did": "Could not establish the mechanism of death but ruled it a homicide.",
+          "quote": "An autopsy was unable to determine how she died, but her death was ruled a homicide.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 18:46",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "In 1982, several months after [perpetrator]'s death, Deborah Koliander's body was discovered by a local farmer in a shallow grave. An autopsy was unable to determine how she died, but her death was ruled a homicide.",
+      "outcome_source": "s10-e7-nadia-something-in-his-eyes @ 18:46",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "high",
+      "notes": "The episode’s spellings include Koleander/Collander/Koliander. It calls the dismissed proceeding a murder case although describing a pre-disappearance rape/kidnapping prosecution. That inconsistency is preserved rather than resolved externally."
+    },
+    {
+      "person_id": "P30",
+      "name": "[unnamed] woman attacked outside North Aurora restaurant",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was attacked after refusing the suspect’s advances and identified him from a photograph months later.",
+      "perpetrator_role": "the serial rape and murder suspect",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e7-nadia-something-in-his-eyes"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "investigating police",
+          "initiated_by": "unclear",
+          "when": "months after December 22, 1980 assault",
+          "what_was_asked": "Identify the assailant",
+          "what_institution_did": "Linked him to the assault using her photographic identification.",
+          "quote": "Police said the woman identified [perpetrator] from a photograph and linked him to the case months later.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 17:46",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Police said the woman identified [perpetrator] from a photograph and linked him to the case months later.",
+      "outcome_source": "s10-e7-nadia-something-in-his-eyes @ 17:46",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "No arrest, charge, or safety outcome specific to her assault is reported."
+    },
+    {
+      "person_id": "P31",
+      "name": "Pamela Maurer",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was sexually assaulted and strangled at age 16; her body was found on a roadside.",
+      "perpetrator_role": "the later DNA-linked suspect",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s10-e7-nadia-something-in-his-eyes"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "investigating detectives",
+          "initiated_by": "institution",
+          "when": "1976 and following years",
+          "what_was_asked": "Solve her murder",
+          "what_institution_did": "Investigated and preserved biological evidence before DNA testing was available.",
+          "quote": "Thankfully, detectives who investigated the murder of Pamela Mauer preserved DNA evidence from her body before the technology was available to be tested.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 19:48",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "investigating authorities",
+          "initiated_by": "institution",
+          "when": "2001",
+          "what_was_asked": "Identify her killer",
+          "what_institution_did": "Created a DNA profile but generated no hits.",
+          "quote": "And in 2001, this evidence was used to create a DNA profile of her suspected killer. No hits were generated at the time.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 20:51",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "investigating authorities",
+          "initiated_by": "institution",
+          "when": "2019–January 13, 2020",
+          "what_was_asked": "Identify her killer",
+          "what_institution_did": "Used new DNA technology to create a composite and announced a DNA link to the deceased suspect.",
+          "quote": "This profile helped detectives Link [perpetrator] to the case, and on January 13, 2020, 44 years exactly after Pamela's body had been discovered, authorities announced that DNA evidence connected [perpetrator] to the 1976 killing.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 20:51",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show",
+            "institution_statement"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "An autopsy later revealed that Maurer had been strangled and authorities said she had been sexually assaulted.",
+      "outcome_source": "s10-e7-nadia-something-in-his-eyes @ 19:48",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "high",
+      "notes": "Identification came 44 years after her body was found. It did not protect her retrospectively."
+    },
+    {
+      "person_id": "P32",
+      "name": "Debra McCall",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Disappeared at age 16 after leaving school; police linked a photo found in the suspect’s house to her case, but she remains missing.",
+      "perpetrator_role": "the suspected serial killer",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e7-nadia-something-in-his-eyes"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "investigating police / Downers Grove Police Department",
+          "initiated_by": "institution",
+          "when": "after disappearance; later investigation",
+          "what_was_asked": "Locate her and determine what happened",
+          "what_institution_did": "Linked the suspect to her disappearance; continued to classify her as endangered missing and seek information.",
+          "quote": "Police later shared they had evidence linking [perpetrator] to the 1979 disappearance of a missing downer's grove high school student, Debra McCall.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 20:51",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "If she was one of his victims, she's the only victim who remains missing. She was last seen leaving her school. Her DNA and dental records are available for comparison should her body be found. Currently, her case is classified as endangered missing with foul play suspected.",
+      "outcome_source": "s10-e7-nadia-something-in-his-eyes @ 21:53",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "high",
+      "notes": "Also called Debbie. Death and the suspect’s responsibility are not confirmed. Her DNA and dental records are retained for comparison."
+    },
+    {
+      "person_id": "P33",
+      "name": "Annette Lazar",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was threatened at gunpoint, choked and raped; she survived by flattering the attacker until he released her.",
+      "perpetrator_role": "the serial rape and murder suspect",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e7-nadia-something-in-his-eyes"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Aurora police",
+          "initiated_by": "person",
+          "when": "1979, after the assault",
+          "what_was_asked": "Report rape and prevent future victims",
+          "what_institution_did": "Investigated and referred the case to the state’s attorney.",
+          "quote": "Police said the case was investigated and given to the Cain County State's attorney in 1979,",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 22:59",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "prosecutor",
+          "institution": "Cain County State’s attorney",
+          "initiated_by": "institution",
+          "when": "1979 referral",
+          "what_was_asked": "Prosecute rape",
+          "what_institution_did": "No charges resulted from the analysis.",
+          "quote": "but no charges came from the analysis.",
+          "source": "s10-e7-nadia-something-in-his-eyes @ 22:59",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Police said the case was investigated and given to the Cain County State's attorney in 1979, but no charges came from the analysis.",
+      "outcome_source": "s10-e7-nadia-something-in-his-eyes @ 22:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "high",
+      "notes": "The transcript renders her name several ways. Her own tactics enabled escape; no institution delivered effective protection or prosecution."
+    },
+    {
+      "person_id": "P34",
+      "name": "Olivia (friendship and bereavement)",
+      "role_in_story": "central_survivor",
+      "harm": "A trusted older friend lied about her life and gifts, disappeared after arrest and died, leaving Olivia with severe grief, abandonment and obsessive uncertainty.",
+      "perpetrator_role": "her older friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-ep8-olivia-was-it-all-a-lie",
+        "s10-e9-olivia-loose-pills"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "I didn't try to reach out to law enforcement because it seemed like probably something they wouldn't share with somebody who wasn't family any information on.",
+            "source": "s10-ep8-olivia-was-it-all-a-lie @ 50:19"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "her manager at the new grocery store",
+          "initiated_by": "person",
+          "when": "the morning after the missed arraignment",
+          "what_was_asked": "Share the distressing situation with a trusted manager",
+          "what_institution_did": "Listened to an extended conversation; no other response is described.",
+          "quote": "So I went in. I had a really long conversation with her, trying to fill her in on everything.",
+          "source": "s10-ep8-olivia-was-it-all-a-lie @ 47:12",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Receiving the account alone is not coded as a concrete protective step."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "her therapist",
+          "initiated_by": "person",
+          "when": "after the friend fled, and ongoing",
+          "what_was_asked": "Help processing the friendship trauma and grief",
+          "what_institution_did": "Provided therapy sessions attended with her partner, described as supporting both women’s healing.",
+          "quote": "And since then, Skyler comes to almost all of my therapy sessions with me. She's very supportive and helps me. She's just kind of a huge part in my healing journey.",
+          "source": "s10-e9-olivia-loose-pills @ 55:12",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "police station holding the truck",
+          "initiated_by": "family_or_friends",
+          "when": "March, after the friend’s death",
+          "what_was_asked": "Recover belongings and understand the death",
+          "what_institution_did": "Returned property and required a hurried truck cleanup that Olivia found distressing.",
+          "quote": "And then he took us to this large evidence locker. Well, evidence garage. And they pulled the truck out and they opened up all the doors and gave us some trash bags and then said just to start cleaning it.",
+          "source": "s10-e9-olivia-loose-pills @ 28:01",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "A rushed, upsetting process is not by itself coded as intentional punishment or institutional concealment."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And then I have days that I remember her as somebody who really deeply hurt me. And sometimes I think maybe she used that lost part of me to her advantage and she could be someone she always I think wanted to be with me. And although I'm glad maybe that I could give that to her, I also really wish I could have had fully who she was because it's just not fair what happened. And it's not fair that I was left with so many unanswered questions and all the lies I was told.",
+      "outcome_source": "s10-e9-olivia-loose-pills @ 43:48",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "high",
+      "notes": "The friend’s theft prosecution was not initiated to protect Olivia from emotional harm. Her death ended the friendship, while therapy supported recovery. Allegations about death-certificate statistics and the cause of death remain unverified; no overdose finding is inferred."
+    },
+    {
+      "person_id": "P35",
+      "name": "Olivia (child sexual abuse)",
+      "role_in_story": "central_survivor",
+      "harm": "Experienced sexual abuse as a child, with continuing depression, anxiety and PTSD into adulthood.",
+      "perpetrator_role": "a childhood sexual abuser, relationship not stated",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e9-olivia-loose-pills"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "victim_services",
+          "institution": "survivor support groups",
+          "initiated_by": "person",
+          "when": "before the friendship-trauma comparison",
+          "what_was_asked": "Support for abuse-related trauma",
+          "what_institution_did": "Provided a support-group setting for her earlier abuse. Specific interventions and outcomes are not described.",
+          "quote": "And I've been to support groups for that.",
+          "source": "s10-e9-olivia-loose-pills @ 56:14",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I've always struggled with depression and anxiety and PTSD as a result of my abuse.",
+      "outcome_source": "s10-e9-olivia-loose-pills @ 51:06",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She says she attended support groups for this earlier abuse. Neither the perpetrator nor reporting, investigation, or effective protection is described; support is not treated as proof that institutions stopped the harm."
+    },
+    {
+      "person_id": "P36",
+      "name": "Skyler",
+      "role_in_story": "co_victim",
+      "harm": "Shared the friendship with Olivia, was deceived and left grieving, and experienced the distressing return trip in the vehicle where the friend died.",
+      "perpetrator_role": "the older friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-ep8-olivia-was-it-all-a-lie",
+        "s10-e9-olivia-loose-pills"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Olivia’s therapist",
+          "initiated_by": "family_or_friends",
+          "when": "after the friend fled and died",
+          "what_was_asked": "Support while accompanying Olivia",
+          "what_institution_did": "Included her in sessions and gave her a safe space to process her own trauma.",
+          "quote": "And I think in a lot of ways ways it helped her heal from everything as well because it directly impacted her too. And she had a safe place to talk about how it affected her too.",
+          "source": "s10-e9-olivia-loose-pills @ 55:12",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "police station holding the truck",
+          "initiated_by": "family_or_friends",
+          "when": "March after death",
+          "what_was_asked": "Recover belongings",
+          "what_institution_did": "Released the truck and belongings; she helped clean and drove the vehicle home.",
+          "quote": "And then he took us to this large evidence locker. Well, evidence garage. And they pulled the truck out and they opened up all the doors and gave us some trash bags and then said just to start cleaning it.",
+          "source": "s10-e9-olivia-loose-pills @ 28:01",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I think we're still going through our own process of grief from [perpetrator] in our own ways.",
+      "outcome_source": "s10-e9-olivia-loose-pills @ 54:12",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Also spelled Skylar in the transcript. Therapy assisted her recovery, but no institutional action stopped the deception before the friend’s death."
+    },
+    {
+      "person_id": "P37",
+      "name": "Mia (religious anti-gay pressure)",
+      "role_in_story": "central_survivor",
+      "harm": "Religious teachings shamed her sexual orientation and led her to marry a man despite knowing she was gay, suppressing her identity and fearing the loss of her job and community.",
+      "perpetrator_role": "religious institutions and educators promoting anti-gay teachings",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-ep10-mia-violated"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "Southern Baptist church tradition",
+          "initiated_by": "institution",
+          "when": "childhood and early adulthood",
+          "what_was_asked": "Religious belonging and guidance",
+          "what_institution_did": "Taught that LGBTQ identity was sinful and heterosexual marriage was the only appropriate relationship.",
+          "quote": "And part of that belief system is very traditional in that. They believe that being LGBTQ is a sin and that the only appropriate relationship is between one man and one woman who are married.",
+          "source": "s10-ep10-mia-violated @ 5:02",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "A teaching applied to the community, not an individually documented disciplinary hearing."
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "her Christian college",
+          "initiated_by": "institution",
+          "when": "college years",
+          "what_was_asked": "Religious education",
+          "what_institution_did": "Hosted speakers who claimed abstinence, prayer and heterosexual marriage would change sexuality.",
+          "quote": "My college had a lot of ex-gays, which is not a real thing. Come and speak and teach us if we would just save ourselves for marriage and basically be excellent, pray away the gay, that God would reward us with magical straighthood. So I did that and surprise, surprise, it did not work.",
+          "source": "s10-ep10-mia-violated @ 5:02",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Not a claim that formal individualized conversion therapy was provided."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "I also came to the belief that there was nothing wrong with me for being gay and that that was okay.",
+      "outcome_source": "s10-ep10-mia-violated @ 6:04",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Institutional participation in harmful teaching is itself recorded; the episode does not establish that she disclosed being gay to individual church or college authorities. Her later freedom came through her own change of beliefs and relationships, not a protective institutional response."
+    },
+    {
+      "person_id": "P38",
+      "name": "Mia (catfishing and stalking)",
+      "role_in_story": "central_survivor",
+      "harm": "A man impersonated his wife to obtain intimate photos and a romantic relationship, entered Mia’s home under false pretenses, and monitored her location.",
+      "perpetrator_role": "the man impersonating his wife",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-ep10-mia-violated"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police station",
+          "initiated_by": "person",
+          "when": "immediately after discovering impersonation",
+          "what_was_asked": "Report impersonation and violation",
+          "what_institution_did": "Called her dumb, did not take the matter seriously and may only have pretended to take a report.",
+          "quote": "The police did not take it seriously. And they were like, you were dumb for doing that. I don't even know if they took an actual report or not. They pretended to.",
+          "source": "s10-ep10-mia-violated @ 23:49",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She avoided further police contact because she felt humiliated.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "her therapist",
+          "initiated_by": "person",
+          "when": "after the deception",
+          "what_was_asked": "Recover trust and process trauma",
+          "what_institution_did": "Provided therapy which she says helped her regain stability, trust in others and trust in herself.",
+          "quote": "It's made a lot of difference in my life and I feel like I'm able to have a stable life, be able to actually trust people, which is difficult to do after you've been misled. And I've learned to trust myself again too, which was also really hard after this.",
+          "source": "s10-ep10-mia-violated @ 34:04",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Helpful treatment is distinguished from protection against the original offense."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "I didn't go back to the police because I felt like they didn't take me seriously and they made me feel really humiliated.",
+      "outcome_source": "s10-ep10-mia-violated @ 25:50",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "high",
+      "notes": "Police blamed her and may not have actually filed a report. The actual wife promised to stop contact; no later institutional enforcement is described. Therapy helped recovery but did not retrospectively prevent the exploitation."
+    },
+    {
+      "person_id": "P39",
+      "name": "[unnamed] other closeted woman targeted on Whisper",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was romantically deceived by the same impersonator, sent intimate pictures and considered leaving her husband.",
+      "perpetrator_role": "the man impersonating his wife",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-ep10-mia-violated"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I was ready to leave my husband for her. Like, oh my gosh.",
+      "outcome_source": "s10-ep10-mia-violated @ 20:42",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She alerted Mia and compared experiences. No report on her own behalf, later safety outcome, or final relationship outcome is described. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P40",
+      "name": "[unnamed] actual wife whose images were used",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Her husband impersonated her and sent her intimate photographs without her consent.",
+      "perpetrator_role": "her husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-ep10-mia-violated"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police station",
+          "initiated_by": "other_victim",
+          "when": "when Mia reported the impersonation",
+          "what_was_asked": "Report impersonation and unauthorized image sending",
+          "what_institution_did": "Did not take Mia’s report seriously; no investigation of the wife’s image abuse is described.",
+          "quote": "The police did not take it seriously. And they were like, you were dumb for doing that. I don't even know if they took an actual report or not. They pretended to.",
+          "source": "s10-ep10-mia-violated @ 23:49",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": "Blaming was directed at Mia, not explicitly at this wife."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She said that she would try to make sure that everything was deleted off her husband's phone. but that he was kind of shady.",
+      "outcome_source": "s10-ep10-mia-violated @ 29:58",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The fake first name is not assumed to be the actual wife’s name, because Mia says she later learned her actual name. Mia’s report included impersonating someone and sending images without permission. The wife promised deletion but completion was not confirmed."
+    },
+    {
+      "person_id": "P41",
+      "name": "Jake",
+      "role_in_story": "co_victim",
+      "harm": "Was deceived into a friendship with the impersonator while the man exploited his wife, and felt both violated trust and the loss of a friend.",
+      "perpetrator_role": "the man who impersonated his wife",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-ep10-mia-violated"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He was like, I felt like I lost a friend because we had been talking all the time too as friends.",
+      "outcome_source": "s10-ep10-mia-violated @ 23:49",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Mia made a report about her own exploitation; it is not clear she reported his separate emotional harm. Their later amicable divorce is not described as caused by the catfisher; it related to their mixed-orientation marriage. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P42",
+      "name": "Emily (previous dating deception)",
+      "role_in_story": "central_survivor",
+      "harm": "A man she had briefly dated turned out to be married, leaving her hurt and prompting her to reconsider what she sought in relationships.",
+      "perpetrator_role": "the married man she dated before her husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e11-emily-destroying-people"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "It turned out that he was actually married. That was not something I was interested in and so I was in kind of this broken place of I need to look beyond the list that I had set for myself and just really focus on the person,",
+      "outcome_source": "s10-e11-emily-destroying-people @ 5:33",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Brief separate harm and aftermath are stated; no institutional involvement is described. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P43",
+      "name": "Emily (husband’s financial and emotional abuse)",
+      "role_in_story": "central_survivor",
+      "harm": "Her husband stole her identity, forged financial transactions, accumulated debt, lied and blamed her, leaving her with ruined credit and ongoing coercive co-parenting.",
+      "perpetrator_role": "her husband, later former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e11-emily-destroying-people",
+        "s10-e12-vanessa-bet-hes-arrested"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "victim_services",
+          "institution": "GAMONON / Gamblers Anonymous family support",
+          "initiated_by": "person",
+          "when": "after early credit-card theft",
+          "what_was_asked": "Support living with a person reporting gambling addiction",
+          "what_institution_did": "She attended family support meetings and the couple attended gambling-related meetings; attendance later stopped.",
+          "quote": "I started attending GAMONON, which is similar to ALANON. The support group for spouses or partners or family members of those that have that addiction.",
+          "source": "s10-e11-emily-destroying-people @ 7:42",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "card issuers / online financial reporting channel",
+          "initiated_by": "person",
+          "when": "after the purported carjacking",
+          "what_was_asked": "Report unauthorized card use",
+          "what_institution_did": "She reported card use online; no response is described.",
+          "quote": "Credit cards and things that had been in his wallet had been used. And so I did the de-geligence of getting online and reporting it and things like that.",
+          "source": "s10-e11-emily-destroying-people @ 18:05",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Destination of the online report is not named. It was later revealed that the carjacking story was false."
+        },
+        {
+          "n": 3,
+          "institution_type": "other",
+          "institution": "her divorce lawyer",
+          "initiated_by": "person",
+          "when": "after discovery of identity theft",
+          "what_was_asked": "Separate safely and pursue divorce",
+          "what_institution_did": "Recommended getting him out of the home.",
+          "quote": "Because [perpetrator] was refusing to divorce, Emily's lawyer's first recommendation was getting him to move out of the house.",
+          "source": "s10-e11-emily-destroying-people @ 32:27",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "divorce and custody court",
+          "initiated_by": "person",
+          "when": "within months of separation",
+          "what_was_asked": "Divorce and a custody agreement",
+          "what_institution_did": "Finalized divorce with standard shared conservatorship and visitation.",
+          "quote": "And then we had just this standard custody agreement of every other weekend, kind of thing with overnight and joint conservatorship.",
+          "source": "s10-e11-emily-destroying-people @ 33:29",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": "Initial shared custody left her unable to exclude unsafe arrangements."
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "local police department",
+          "initiated_by": "person",
+          "when": "after divorce and learning of other victims",
+          "what_was_asked": "Prosecution for identity theft",
+          "what_institution_did": "Received her written report and extensive evidence.",
+          "quote": "So I walked in the police department, I filled out my report, I provided them with piles of evidence, and I felt a huge relief and like a weight off my shoulders.",
+          "source": "s10-e11-emily-destroying-people @ 43:55",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "investigating detective",
+          "initiated_by": "person",
+          "when": "follow-up call after report",
+          "what_was_asked": "Investigation and accountability",
+          "what_institution_did": "Asked why she had married, stayed and delayed reporting, shifting blame toward her.",
+          "quote": "You know, why didn't you press charges earlier? Why didn't you leave him before? Why did you marry him? Just all these questions, again, kind of putting it back on, is this my fault?",
+          "source": "s10-e11-emily-destroying-people @ 44:56",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "prosecutor",
+          "institution": "district attorney",
+          "initiated_by": "institution",
+          "when": "after detective reviewed evidence",
+          "what_was_asked": "Prosecute identity theft and forgery",
+          "what_institution_did": "Declined to take the case to court, as conveyed to her.",
+          "quote": "Despite all of the evidence she had presented to detectives, including letters from [perpetrator] admitting his wrongdoings, Emily was told the district attorney wouldn't take the case to court.",
+          "source": "s10-e11-emily-destroying-people @ 44:56",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "police",
+          "institution": "investigating detective",
+          "initiated_by": "institution",
+          "when": "conclusion of investigation",
+          "what_was_asked": "Accountability for repeated financial abuse",
+          "what_institution_did": "Suggested the man might simply need Gamblers Anonymous.",
+          "quote": "And the detective eventually summed it up and said, you know, it just sounds like he might need to go to gambler's anonymous.",
+          "source": "s10-e11-emily-destroying-people @ 44:56",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "Minimized the conduct as gambling rather than addressing identity theft."
+        },
+        {
+          "n": 9,
+          "institution_type": "other",
+          "institution": "shared custody lawyer",
+          "initiated_by": "person",
+          "when": "after unsafe housing and repeated evictions",
+          "what_was_asked": "Revise custody arrangements for both mothers",
+          "what_institution_did": "Represented both women in coordinated custody litigation.",
+          "quote": "And so we together actually got the same lawyer and sued him for custody. He was served on the same day at the same time for both of us and took him back to court to revise our custody agreements.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 10,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "person",
+          "when": "coordinated custody cases",
+          "what_was_asked": "Decision-making authority and safer visitation",
+          "what_institution_did": "Made Emily sole conservator and limited overnight visitation.",
+          "quote": "Now I'm sole conservator, which means I make all the decisions I don't have to consult with him about any decisions that I make for our son. And also there's limited visitation in terms of overnight, but when he is in a stable place, my son does spend the night one night during those weekends.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "Now I'm sole conservator, which means I make all the decisions I don't have to consult with him about any decisions that I make for our son. And also there's limited visitation in terms of overnight, but when he is in a stable place, my son does spend the night one night during those weekends.",
+      "outcome_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "protection_contributors": [
+        "the_person",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "And so we together actually got the same lawyer and sued him for custody. He was served on the same day at the same time for both of us and took him back to court to revise our custody agreements.",
+      "decisive_work_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 3,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "Divorce and modified custody gave practical protection, while financial loss and abusive communication continued. The later felony case concerned an employer’s loss, not a prosecution of her identity theft."
+    },
+    {
+      "person_id": "P44",
+      "name": "Vanessa",
+      "role_in_story": "central_survivor",
+      "harm": "Her husband gambled away household resources, took costly loans, lied and bullied her, forced entry and used threats involving the children, leaving financial ruin and continuing co-parenting stress.",
+      "perpetrator_role": "her husband, later former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e12-vanessa-bet-hes-arrested"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "their bank",
+          "initiated_by": "person",
+          "when": "about a year into the marriage",
+          "what_was_asked": "Dispute supposed fraud",
+          "what_institution_did": "Refunded about half of approximately $4,000 in disputed charges, leaving the account negative.",
+          "quote": "The couple ended up getting about half of their money back from the bank after they reported the charges as fraudulent, but their account was still negative.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 13:20",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "title-loan lender",
+          "initiated_by": "institution",
+          "when": "before nursing school",
+          "what_was_asked": "Avoid losing their car",
+          "what_institution_did": "Notified her of overdue payments and threatened repossession; she visited to negotiate repayment.",
+          "quote": "that it was past due on a payment and that they were gonna basically capitalize on it and take the car. I had to go with my girlfriend from class because I could not believe that this was happening and we went to the title alone place and had to talk to them about it and figure out what is going on and how we were going to go about keeping the car, what we needed to pay them to keep the vehicle and not put us under and keep us afloat and keep our bills paid and all the same stuff.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 25:55",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "The lender was seeking repayment, not protecting her from her husband; family funds ultimately enabled her to keep the vehicle."
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "marriage counselor",
+          "initiated_by": "person",
+          "when": "months after payday-loan crisis",
+          "what_was_asked": "Try to repair the marriage",
+          "what_institution_did": "Provided counseling that helped a little but did not resolve the abuse.",
+          "quote": "So I feel like mentally at this point I was done. I wanted the marriage to end, but I also didn't want to look like a quitter. My kids' eyes, when they grew up in my parents's eyes, and so we went to counseling, and it helped a little bit",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 39:32",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "other",
+          "institution": "her divorce attorney",
+          "initiated_by": "person",
+          "when": "during separation and divorce",
+          "what_was_asked": "Negotiate divorce",
+          "what_institution_did": "Represented her after direct negotiations failed.",
+          "quote": "And so we ended up having to go through our attorneys with all this.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 43:42",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "responding police",
+          "initiated_by": "family_or_friends",
+          "when": "the night before the first court date",
+          "what_was_asked": "Stop forced entry, intimidation and an attempted removal of the daughter",
+          "what_institution_did": "Responded but prioritized the father’s request to say goodbye to the child rather than addressing the reported intimidation.",
+          "quote": "And he says, well, he really just wants to say goodbye to his daughter. Is there any way that he can do that?",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 48:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": "No arrest or protective step is described. The statement that she was portrayed as mean is her interpretation, not an explicit police accusation."
+        },
+        {
+          "n": 6,
+          "institution_type": "court",
+          "institution": "divorce court",
+          "initiated_by": "person",
+          "when": "first court date",
+          "what_was_asked": "Temporary divorce and child arrangements",
+          "what_institution_did": "Entered temporary orders, including a duty for him to maintain the children’s health insurance.",
+          "quote": "So then we went to court the next day. We had temporary orders placed. And in the state where we live, you have to, I believe it's 60 or 90 days, but I can't remember now, but you have to basically think about your divorce for a certain amount of time to make sure that you wanna do it before they can actually make it final. So they did temporary orders, which then make him have to cover the health insurance of the kids",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 49:57",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "other",
+          "institution": "her attorney",
+          "initiated_by": "person",
+          "when": "after learning the insurance was invalid",
+          "what_was_asked": "Enforce temporary orders",
+          "what_institution_did": "Brought the lapse in coverage back before the court.",
+          "quote": "And so I then go to my attorney about this, and so we were able to get the divorce finalized on the grounds that we then went to court in October, basically holding him in contempt of the temporary orders because he let the health insurance falter.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 51:02",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "court",
+          "institution": "divorce court",
+          "initiated_by": "person",
+          "when": "October hearing on noncompliance",
+          "what_was_asked": "Enforce orders and finalize divorce",
+          "what_institution_did": "Finalized the divorce at the hearing on the insurance lapse.",
+          "quote": "So, then when we were there, the judge just said, hey, let's just do it all. We ended up getting the divorced finalized on that exact date. We finally were divorced.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 51:02",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "bankruptcy court",
+          "initiated_by": "person",
+          "when": "after the marriage ended",
+          "what_was_asked": "Financial relief",
+          "what_institution_did": "She filed bankruptcy; discharge or terms are not reported.",
+          "quote": "And ultimately, she had to file bankruptcy. And her and the kids had to move in with her mom for several years.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 54:11",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": "Filing is established; successful discharge is not inferred."
+        },
+        {
+          "n": 10,
+          "institution_type": "other",
+          "institution": "shared custody lawyer",
+          "initiated_by": "person",
+          "when": "after repeated evictions and unsafe housing",
+          "what_was_asked": "Coordinate custody changes",
+          "what_institution_did": "Represented both mothers in synchronized custody cases.",
+          "quote": "And so we together actually got the same lawyer and sued him for custody. He was served on the same day at the same time for both of us and took him back to court to revise our custody agreements.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 11,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "person",
+          "when": "coordinated custody cases",
+          "what_was_asked": "Safer custody arrangements",
+          "what_institution_did": "Changed Vanessa’s custody terms; exact provisions are not supplied.",
+          "quote": "We both got some changes, they look a little bit different.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "We both got some changes, they look a little bit different.",
+      "outcome_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "protection_contributors": [
+        "the_person",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "And so we together actually got the same lawyer and sued him for custody. He was served on the same day at the same time for both of us and took him back to court to revise our custody agreements.",
+      "decisive_work_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "time_to_first_effective_action": "Partial bank refund during the first disputed-charge episode; exact interval not stated.",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "high",
+      "notes": "Her exact revised custody terms are not stated. She filed bankruptcy and lived with her mother for years; unpaid child support and controlling communication continued. The intervention provided some legal separation and custody changes without ending all harm."
+    },
+    {
+      "person_id": "P45",
+      "name": "[unnamed] Vanessa’s daughter",
+      "role_in_story": "child",
+      "harm": "Faced financial deprivation, witnessed intimidation and a threatened removal, and at 13 felt responsible for shielding the younger boys from seeing their father arrested.",
+      "perpetrator_role": "his or her father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e12-vanessa-bet-hes-arrested"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "responding police",
+          "initiated_by": "family_or_friends",
+          "when": "forced-entry incident",
+          "what_was_asked": "Protect the child and mother",
+          "what_institution_did": "Asked the mother to let the father say goodbye after the intimidation episode.",
+          "quote": "And he says, well, he really just wants to say goodbye to his daughter. Is there any way that he can do that?",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 48:56",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "divorce court",
+          "initiated_by": "family_or_friends",
+          "when": "temporary divorce orders",
+          "what_was_asked": "Health coverage and stability",
+          "what_institution_did": "Required the father to provide insurance, which later lapsed.",
+          "quote": "So then we went to court the next day. We had temporary orders placed. And in the state where we live, you have to, I believe it's 60 or 90 days, but I can't remember now, but you have to basically think about your divorce for a certain amount of time to make sure that you wanna do it before they can actually make it final. So they did temporary orders, which then make him have to cover the health insurance of the kids",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 49:57",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "divorce court",
+          "initiated_by": "family_or_friends",
+          "when": "October",
+          "what_was_asked": "Enforce child-related orders",
+          "what_institution_did": "Heard the issue of noncompliance and finalized the parents’ divorce.",
+          "quote": "And so I then go to my attorney about this, and so we were able to get the divorce finalized on the grounds that we then went to court in October, basically holding him in contempt of the temporary orders because he let the health insurance falter.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 51:02",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "family_or_friends",
+          "when": "later coordinated custody case",
+          "what_was_asked": "Safer visitation and decision-making",
+          "what_institution_did": "Granted changes to the custody arrangements; the particular terms are not stated.",
+          "quote": "We both got some changes, they look a little bit different.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "We both got some changes, they look a little bit different.",
+      "outcome_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "protection_contributors": [
+        "family_or_friends",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "And so we together actually got the same lawyer and sued him for custody. He was served on the same day at the same time for both of us and took him back to court to revise our custody agreements.",
+      "decisive_work_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "No child name is given. Custody changes supplied partial protection while contact continued. The felony arrest was for employer theft, not a disposition of harm to this child."
+    },
+    {
+      "person_id": "P46",
+      "name": "[unnamed] Vanessa’s son",
+      "role_in_story": "child",
+      "harm": "Experienced household financial instability, loss of insurance coverage and insecure visitation arrangements; his father later gave him a misleading explanation of the arrest.",
+      "perpetrator_role": "his or her father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e12-vanessa-bet-hes-arrested"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "divorce court",
+          "initiated_by": "family_or_friends",
+          "when": "temporary divorce orders",
+          "what_was_asked": "Health coverage and stability",
+          "what_institution_did": "Required the father to provide insurance, which later lapsed.",
+          "quote": "So then we went to court the next day. We had temporary orders placed. And in the state where we live, you have to, I believe it's 60 or 90 days, but I can't remember now, but you have to basically think about your divorce for a certain amount of time to make sure that you wanna do it before they can actually make it final. So they did temporary orders, which then make him have to cover the health insurance of the kids",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 49:57",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "divorce court",
+          "initiated_by": "family_or_friends",
+          "when": "October",
+          "what_was_asked": "Enforce child-related orders",
+          "what_institution_did": "Heard the issue of noncompliance and finalized the parents’ divorce.",
+          "quote": "And so I then go to my attorney about this, and so we were able to get the divorce finalized on the grounds that we then went to court in October, basically holding him in contempt of the temporary orders because he let the health insurance falter.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 51:02",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "family_or_friends",
+          "when": "later coordinated custody case",
+          "what_was_asked": "Safer visitation and decision-making",
+          "what_institution_did": "Granted changes to the custody arrangements; the particular terms are not stated.",
+          "quote": "We both got some changes, they look a little bit different.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "We both got some changes, they look a little bit different.",
+      "outcome_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "protection_contributors": [
+        "family_or_friends",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "And so we together actually got the same lawyer and sued him for custody. He was served on the same day at the same time for both of us and took him back to court to revise our custody agreements.",
+      "decisive_work_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "No child name is given. Custody changes supplied partial protection while contact continued. The felony arrest was for employer theft, not a disposition of harm to this child."
+    },
+    {
+      "person_id": "P47",
+      "name": "[unnamed] Emily’s son",
+      "role_in_story": "child",
+      "harm": "His father depleted household resources, failed to provide stable visitation housing and used ongoing conflict in co-parenting; his mother sought greater custody control to protect him.",
+      "perpetrator_role": "his or her father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e11-emily-destroying-people",
+        "s10-e12-vanessa-bet-hes-arrested"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "family_or_friends",
+          "when": "later coordinated custody case",
+          "what_was_asked": "Safer visitation and decision-making",
+          "what_institution_did": "Limited the father’s visitation and made Emily sole conservator.",
+          "quote": "Now I'm sole conservator, which means I make all the decisions I don't have to consult with him about any decisions that I make for our son. And also there's limited visitation in terms of overnight, but when he is in a stable place, my son does spend the night one night during those weekends.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "Now I'm sole conservator, which means I make all the decisions I don't have to consult with him about any decisions that I make for our son. And also there's limited visitation in terms of overnight, but when he is in a stable place, my son does spend the night one night during those weekends.",
+      "outcome_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "protection_contributors": [
+        "family_or_friends",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "And so we together actually got the same lawyer and sued him for custody. He was served on the same day at the same time for both of us and took him back to court to revise our custody agreements.",
+      "decisive_work_source": "s10-e12-vanessa-bet-hes-arrested @ 62:35",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "No child name is given. Custody changes supplied partial protection while contact continued. The felony arrest was for employer theft, not a disposition of harm to this child."
+    },
+    {
+      "person_id": "P48",
+      "name": "[unnamed] Vanessa’s mother (intimidation)",
+      "role_in_story": "co_victim",
+      "harm": "Was confronted at close range and yelled at after calling 911 when the father forced entry into her daughter’s home and tried to leave with the child.",
+      "perpetrator_role": "her daughter’s estranged husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e12-vanessa-bet-hes-arrested"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "responding police",
+          "initiated_by": "person",
+          "when": "forced-entry incident",
+          "what_was_asked": "Stop intimidation and unauthorized entry",
+          "what_institution_did": "Responded but no action specific to protecting the grandmother is described.",
+          "quote": "And then they had this dispute, just talking about everything in the front yard, and the police comes the door and talks to me, and I talk to him about what's happening.",
+          "source": "s10-e12-vanessa-bet-hes-arrested @ 48:56",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He immediately gets very angry and gets up in her face and starts yelling at her. I really thought he was going to hit her. My daughter then starts crying and I grab my daughter and I take her into my bedroom and put on the show for her to distract her and my mom is on the phone with 911 and he's still yelling and then he leaves because she's on the phone with the cops.",
+      "outcome_source": "s10-e12-vanessa-bet-hes-arrested @ 47:53",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The attacker also called police asking for her eviction. Police did not evict her in the reported account; no protective measure for her is described."
+    },
+    {
+      "person_id": "P49",
+      "name": "[unnamed] abandoned child",
+      "role_in_story": "child",
+      "harm": "The father concealed the child’s existence after leaving the child and mother; another father later adopted the child.",
+      "perpetrator_role": "Emily and Vanessa’s former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e11-emily-destroying-people"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I think about that child, like when he turns 18 and if he wants to know, I don't know if he knows that his dad adopted him,",
+      "outcome_source": "s10-e11-emily-destroying-people @ 39:48",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "The child appeared happy and healthy when Emily found the family. Adoption is reported, but the legal process and any institutional knowledge of abandonment are not described. No protective causal claim is inferred. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P50",
+      "name": "[unnamed] girlfriend stalked after Emily’s divorce",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Was pursued through new phone numbers, social-media accounts and contacts with her family after breaking up; changed job and moved but still sought help.",
+      "perpetrator_role": "Emily and Vanessa’s former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e12-vanessa-bet-hes-arrested"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She'd mood, she'd changed her job, and she was reaching out to us to see what else that she could do to keep him away from her.",
+      "outcome_source": "s10-e12-vanessa-bet-hes-arrested @ 75:05",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "She asked the two former wives for help; no institutional report or response is stated. The transcript wording “mood” is retained in the quotation. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P51",
+      "name": "[unnamed] parent who co-signed a car",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Co-signed a vehicle purchase for the man, who stopped paying and left the parent to deal with the debt.",
+      "perpetrator_role": "the man dating their daughter",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e11-emily-destroying-people"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Another story of a woman he dated whose parent co-signed a car purchasing a car with him and he again skipped out on the payments and just left them to deal with it",
+      "outcome_source": "s10-e11-emily-destroying-people @ 40:49",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "The sentence crosses the 40:49/41:52 paragraph boundary. The parent was left with the missed-payment consequences; no institutional remedy is reported. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    },
+    {
+      "person_id": "P52",
+      "name": "[unnamed] mutual friend repeatedly stolen from",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Experienced repeated theft by the man over approximately 20 years, forgave him, and later acknowledged the history to Emily.",
+      "perpetrator_role": "his longtime acquaintance",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s10-e11-emily-destroying-people"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "That was an individual that [perpetrator] had stolen from him multiple times over those 20 years, and he always forgave him.",
+      "outcome_source": "s10-e11-emily-destroying-people @ 41:52",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "No institutional report or recovery of the stolen money is described. The last known response was personal forgiveness. Institutional reach is unknown, not an inferred statement that no report was ever made. The outcome records the absence of demonstrated institutional protection."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Other women drugged, raped and recorded by Bailey’s attacker; individual stories and identities are not supplied.",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "So he then told me that I was quote unquote lucky because later in that year, [perpetrator] started drugging, raping, and videoing women.",
+      "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 19:45"
+    },
+    {
+      "description": "Other women Bailey knows who did not report assaults because they expected doubt and disdain.",
+      "count_stated": null,
+      "reached_institution": "no",
+      "quote": "I can think of so many women I know who have a story. And most of them never went forward because most of them thought that if they did go forward, they would be met with doubt that they would be met with, disdain that they would be met with.",
+      "source": "s10-e1-bailey-im-going-to-fcking-kill-you @ 22:56"
+    },
+    {
+      "description": "Additional friends who witnessed Anne’s killing and continued to struggle; individual eyewitness identities are not supplied.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "but some of my best friends were with her when it happened and witnessed some of the most horrific experiences. I can't even imagine even to this day that they're still dealing with.",
+      "source": "s10-e2-megan-shocking-realization @ 6:21"
+    },
+    {
+      "description": "Bar staff who lost work or left following business conflict; individual experiences are not developed.",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "It had resulted in some of his staff leaving and his staff being angry with the way that they were treated. They had to let go staff because business was not as lucrative as they had hoped.",
+      "source": "s10-e4-emma-monster-inside @ 17:38"
+    },
+    {
+      "description": "Additional women whose allegations about Emma’s husband appeared online, beyond the specifically narrated cases.",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "And then, probably an hour later, I see more and more stories. Just flooding my newsfeed",
+      "source": "s10-e4-emma-monster-inside @ 31:06"
+    },
+    {
+      "description": "Angie’s mother, whom her husband tried to run over with a bicycle; no injury or later response is stated.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "And he tried to run her over. And my mom is like 65, 70 years old at the time,",
+      "source": "s10-e5-angie-dark-triad @ 5:31"
+    },
+    {
+      "description": "The first wife of Maribelle’s partner, whom he cheated on with Evelyn. Her individual aftermath is not described.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "He was married to one other woman before her, and he cheated on her with Evelyn, and Evelyn and [perpetrator] started off their relationship staying in a hotel all the time because he worked down on the road and his story about moving and his same MO,",
+      "source": "s10-e6-maribelle-dating-website-predator @ 28:30"
+    },
+    {
+      "description": "Maribelle’s roommate and the roommate’s daughter, whose fear led the household to separate; the child’s own experience is not described.",
+      "count_stated": 2,
+      "reached_institution": "unknown",
+      "quote": "it ended up costing me my roommate. We're still best friends, but we ended up not living together anymore because she was in fear for her child.",
+      "source": "s10-e6-maribelle-dating-website-predator @ 42:55"
+    },
+    {
+      "description": "Up to 12 suspected murder victims in the Illinois cases; this total overlaps individually described people and is an upper estimate, not 12 additional victims.",
+      "count_stated": 12,
+      "reached_institution": "yes",
+      "quote": "In 2020, police investigators revealed that they suspected [perpetrator] may be responsible for as many as 12 murders and 9 rapes across Illinois.",
+      "source": "s10-e7-nadia-something-in-his-eyes @ 22:59"
+    },
+    {
+      "description": "Up to 9 suspected rape victims in the Illinois cases; this total overlaps individually described people and is an upper estimate, not 9 additional victims.",
+      "count_stated": 9,
+      "reached_institution": "yes",
+      "quote": "In 2020, police investigators revealed that they suspected [perpetrator] may be responsible for as many as 12 murders and 9 rapes across Illinois.",
+      "source": "s10-e7-nadia-something-in-his-eyes @ 22:59"
+    },
+    {
+      "description": "The girlfriend of Charles, whom police believed the killer may also have intended to kill; no completed assault or aftermath is established.",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "Law enforcement also said the scene where the bodies were found suggested that [perpetrator] may have planned to also kill Hubbard's girlfriend, who was sleeping a few feet away in another room.",
+      "source": "s10-e7-nadia-something-in-his-eyes @ 15:41"
+    },
+    {
+      "description": "A family that funded an earlier engagement ring and recovered money or the ring after tracing the man through his family; the number and identities of payers are not stated.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "There was a story from a family that had paid for an engagement ring to another person that he was engaged to before myself and his previous X-Wife. And they had paid for that and he ended up... The relationship ended, I'm not sure what happened, but he skipped town and ponded, and they basically tracked him down through his own family to get the money back or to get the ring back so they wouldn't press charges.",
+      "source": "s10-e11-emily-destroying-people @ 40:49"
+    },
+    {
+      "description": "Mother of a childhood acquaintance who said the man used to steal from her as a child; no particular theft or response is described.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "And she was sort of like, I never liked this person. He used to steal from me, even when he was a kid.",
+      "source": "s10-e11-emily-destroying-people @ 36:40"
+    },
+    {
+      "description": "Two women preceding Maribelle who were also given the dead-wife-and-child story; overlap with other mentioned girlfriends is uncertain.",
+      "count_stated": 2,
+      "reached_institution": "unknown",
+      "quote": "He never had the wife and kidded died story that was new with the two right before me and me, and she didn't know about the two right before me,",
+      "source": "s10-e6-maribelle-dating-website-predator @ 28:30"
+    }
+  ],
+  "coder_notes": "All six season-10 chunks were read in full, in order, through their manifest last lines; LINE COUNTS MATCH was verified before reading. Verbatim quotation notes were appended to /tmp/notes.md after each chunk. INDEX.txt and ten potentially relevant unassigned episodes were read in full, with no continuation or discussion of a season-10 story found. Unrelated unassigned educational case examples, advertisements, and teasers are not part of this season’s person cohort. No other-season transcripts or other coders’ work were read. Separate harms by different perpetrators have separate records. Unknown institutional contact is marked unclear rather than inferred absent; the outcome not_protected in such cases means no effective institutional protection is demonstrated, not proof that nothing ever occurred. Treatment, institutional investigation, and safety are distinguished: helpful recovery treatment or later identification of a deceased killer does not automatically mean the underlying harm was stopped. Partial protection includes limited safety actions or changed custody despite continued harm. An eventual divorce is protection where it supplied the specific legal release sought after separation. Allegations, uncertain identifications, and reported court results are not independently verified; transcript errors and inconsistent spellings are retained in quotations. Perpetrator names are replaced by [perpetrator]; other non-victim names are described by role. Unknown names, collective bare mentions, overlapping counts and near misses are identified without inventing individual identities. The five-year career exclusion following Angie’s emergency hold is distinguished from the emergency care itself. No institution is assumed to have learned of abuse simply because medication, a marriage, or a later adoption is mentioned. Notes and downloaded transcripts are excluded from the commit. Rachel is mentioned as a friend and the person who recognized the stranger was unknown to their deceased friend, but no separate account of harm and aftermath is developed for her. The counts are person/harm records, not unique individuals. Private preparation artifacts: /tmp/notes.md, /tmp/ca_build.py, and /tmp/CA-files-opened.md."
+}
