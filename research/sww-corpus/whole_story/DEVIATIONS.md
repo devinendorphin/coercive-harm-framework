@@ -68,9 +68,10 @@ double coding is reported, never used to pick a preferred result.
 **Why:** the usage limit still stops Claude coders every few hours; Endorphin approved moving more
 neutral coding to Codex. **What:** Codex neutral coders `CA` and `CB` (separate tasks) for seasons
 20, 21, 23, 25 and 26, with the same kit (`sww-coding-kit`, unchanged since `ee0585e`). Claude keeps
-season 22 (neutral A/B) and all six pre-registered framing pairs (S2, S3, S4, S13, S22, S24).
-**Consequence, stated now:** the Claude-only result rests on 11 seasons (S1–S6, S14–S19, S22, S24
-minus none: S1, S2, S3, S4, S5, S6, S14, S15, S16, S17, S18, S19, S22, S24 — 14 seasons) and the
-Codex-only result on 11 (S7–S12, S17 cross-check, S20, S21, S23, S25, S26). The three-way reporting
+seasons 13 and 22 (neutral A/B) and all six pre-registered framing pairs (S2, S3, S4, S13, S22, S24).
+**Consequence, stated now:** the Claude-only result rests on 15 seasons (S1, S2, S3, S4, S5, S6,
+S13, S14, S15, S16, S17, S18, S19, S22, S24) and the Codex-only result on 12 (S7, S8, S9, S10, S11, S12,
+S17 as cross-check, S20, S21, S23, S25, S26). (Drafting this entry exposed that S13 had no neutral
+pair assigned to either model; it is assigned to Claude here, so every season S1–S26 has one.) The three-way reporting
 rule of D3 applies unchanged; no season is coded by Claude neutral coders and Codex neutral coders
 both, except S17 (the planned cross-check).
