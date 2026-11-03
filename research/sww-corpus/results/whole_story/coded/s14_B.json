@@ -1,0 +1,1837 @@
+{
+ "season": 14,
+ "coder": "B",
+ "reading_log": [
+  {
+   "file": "s14_01.txt",
+   "last_line_number": 117,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s14_02.txt",
+   "last_line_number": 102,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s14_03.txt",
+   "last_line_number": 116,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s14_04.txt",
+   "last_line_number": 98,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s14_05.txt",
+   "last_line_number": 92,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s14_06.txt",
+   "last_line_number": 99,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s14_07.txt",
+   "last_line_number": 109,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s14_08.txt",
+   "last_line_number": 89,
+   "read_in_full": true,
+   "problems": ""
+  }
+ ],
+ "unassigned_checked": [
+  {
+   "slug": "INDEX.txt",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "Read the index as instructed. No listed episode is described as continuing, updating or discussing the season-14 story (data-points topic episodes, a BLM resource episode, a season-13 release note, another show's trailer, and a WCN interview with a different Texas survivor), so none was opened. The season's own update episodes (Ep13, Ep14) are inside s14_08.txt."
+  }
+ ],
+ "persons": [
+  {
+   "person_id": "P01",
+   "name": "Kaylen",
+   "role_in_story": "central_survivor",
+   "harm": "Six years (2007-2013) of emotional, physical (spitting, grabbing, throwing objects, chest-bumping, hitting her in the chest at a custody exchange), sexual (repeated forced sex including rape the night before she left), financial abuse and covert sex recording by her then-partner/husband, followed by stalking, tracking, harassment and child-support evasion after she left.",
+   "perpetrator_role": "her ex-husband (father of Emerson)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e1-his-moods-really-swing",
+    "s14-e2-complete-and-utter-coercion",
+    "s14-e3-oh-here-we-go",
+    "s14-e4-next-level-evil",
+    "s14-e5-what-a-fcking-psycho",
+    "s14-ep6-full-force",
+    "s14-e7-this-is-a-dog-that-bites",
+    "s14-ep8-we-went-public",
+    "s14-e9-mind-fck",
+    "s14-e10-a-very-bad-person",
+    "s14-e11-being-soft-is-hard-as-fck",
+    "s14-e12-classic-jake-bullsht",
+    "s14-ep13-wcn-presents-kaylan-melissa-sww-s14-updates-part-1",
+    "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "fear_of_abuser",
+     "cost_or_access",
+     "other",
+     "did_not_know_it_was_abuse"
+    ],
+    "quotes": [
+     {
+      "reason": "fear_of_abuser",
+      "quote": "I can never call him out on his bad behavior because it gets so much worse for me.",
+      "source": "s14-e2-complete-and-utter-coercion @ 9:33"
+     },
+     {
+      "reason": "cost_or_access",
+      "quote": "I have no money. I am in a city without my family. He's pretty much isolated me.",
+      "source": "s14-e2-complete-and-utter-coercion @ 47:46"
+     },
+     {
+      "reason": "other",
+      "quote": "He's taken everyone from me. And the people I do have, I am too embarrassed to be like, let me tell you what's going on.",
+      "source": "s14-e2-complete-and-utter-coercion @ 48:46"
+     },
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "I'd never heard of triangulation. I felt like I was being financially abused while it was happening, but I didn't even know that that was really a term.",
+      "source": "s14-ep13-wcn-presents-kaylan-melissa-sww-s14-updates-part-1 @ 16:11"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "Emerson's pediatrician",
+     "initiated_by": "institution",
+     "when": "2013 (before the custody hearings)",
+     "what_was_asked": "(Pediatrician asked on her own about safety at home.)",
+     "what_institution_did": "Asked whether Kaylen and Emerson were safe, noted the answer in the file and wrote a statement for court.",
+     "quote": "She asked me, are you okay? What's going on at home? Are you safe? Is she safe? And I said, I think so. I don't think anything would happen. But probably something would happen to me before it would happen to her. But know that if that ever happened, he is responsible. She made note of that in our file. And she wrote a statement for me for court.",
+     "source": "s14-e5-what-a-fcking-psycho @ 27:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Statement used in the 2013 custody/restraining-order proceeding.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "Washington family court (divorce, temporary orders)",
+     "initiated_by": "person",
+     "when": "Sept 2013 onward (divorce final April 22, 2014)",
+     "what_was_asked": "Divorce, custody, a restraining order protecting her and Emerson; he had filed for legal separation claiming she kidnapped Emerson.",
+     "what_institution_did": "Granted her a restraining order and her proposed restrictive parenting plan, ordered him to pay $500 of her fees, but found she had not proved he was a threat to Emerson.",
+     "quote": "She felt that I proved that he was a threat to me, but I did not prove that he was a threat to Emerson. I was granted a restraining order, but not for her.",
+     "source": "s14-e5-what-a-fcking-psycho @ 27:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Order not valid in California; he hit her at a custody exchange; legal costs reached $33,000.",
+     "notes": "For Kaylen's own protection the court acted; for Emerson it declined (see Emerson's record)."
+    },
+    {
+     "n": 3,
+     "institution_type": "police",
+     "institution": "Local police, Orange County, California (Target parking lot)",
+     "initiated_by": "third_party",
+     "when": "2013 (during temporary orders)",
+     "what_was_asked": "Help after he ripped her phone away and hit her in the chest at a custody exchange; a bystander offered to call.",
+     "what_institution_did": "Questioned both, told him to leave her alone and issued her a temporary restraining order, since the Washington order was not valid in California.",
+     "quote": "The police come. They're questioning him, they're questioning me. I'm like, he leaves tomorrow. They issue me a temporary restraining order",
+     "source": "s14-e5-what-a-fcking-psycho @ 29:44",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She was told she could file it or not; exchanges afterwards took place at the police station.",
+     "notes": "No arrest shown."
+    },
+    {
+     "n": 4,
+     "institution_type": "employer_or_hr",
+     "institution": "A store at Mission Viejo Mall (manager of a young employee)",
+     "initiated_by": "person",
+     "when": "2014",
+     "what_was_asked": "Stop an employee from telling the perpetrator when Kaylen was in the store.",
+     "what_institution_did": "The story does not say what the manager did; Kaylen thinks the employee left or was fired.",
+     "quote": "I called the store and spoke with her manager and said, look, I am a domestic violence survivor. Your employee is telling him where I am. I don't feel safe. And I cannot come into your store if she's going to do things like that. I think that she either left or. got fired",
+     "source": "s14-ep6-full-force @ 6:37",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Not stated.",
+     "notes": ""
+    },
+    {
+     "n": 5,
+     "institution_type": "prosecutor",
+     "institution": "Washington state child-support enforcement / prosecutor's office",
+     "initiated_by": "person",
+     "when": "2013 onward",
+     "what_was_asked": "Enforcement of child support he evaded (part of the financial abuse she describes).",
+     "what_institution_did": "Garnished his account, held his passport, put him on a contempt payment plan; later returned his passport (Aug 2021) so he could take a job.",
+     "quote": "they keep garnishing my checking account because I'm not paying my child support. I'm figuring ways around it.",
+     "source": "s14-e5-what-a-fcking-psycho @ 39:07",
+     "response": "acted_partly",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Arrears around $21,882-$23,000 at season end.",
+     "notes": "Quote is the perpetrator's own words as reported by Melissa. Passport return shown by a prosecutor's letter (e10 @ 41:43)."
+    },
+    {
+     "n": 6,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 7,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    },
+    {
+     "n": 8,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (after newspaper inquiry)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "2023 (after the season)",
+     "what_was_asked": "Response to the host's evidence; a reporter from The Stranger went to SPD.",
+     "what_institution_did": "Finally returned the host's call, said they would return people's calls, and contacted Kaylen.",
+     "quote": "He went to SPD and they finally returned my phone call. What I recall about that phone conversation that I had was I was very angry and questioning the officer about what took them so long and how ridiculous it is that the survivors and I have basically done their job for them. She didn't say much, essentially said they were going to return people's phone calls now. She had reached out to Kalin at that point.",
+     "source": "s14-ep13-wcn-presents-kaylan-melissa-sww-s14-updates-part-1 @ 12:04",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Kaylen filed a report of the rape (next contact).",
+     "notes": "SPD unit had stopped assigning new adult-victim cases (Seattle Times memo read on air)."
+    },
+    {
+     "n": 9,
+     "institution_type": "police",
+     "institution": "Seattle Police Department",
+     "initiated_by": "person",
+     "when": "2023",
+     "what_was_asked": "Record the rape the night before she left Seattle (2013) on file, explicitly asking that nothing further be done, in case others come forward.",
+     "what_institution_did": "Took and filed the report and assigned her an advocate.",
+     "quote": "I did call and file a police report for him raping me before I left Seattle. Just to be clear, even saying that is hard. I have never considered myself a rape survivor, and I would much rather the Seattle Police Department not spend time on me per se. I just wanted it in there documented in case anybody else comes forward so that there is a history of it. But I told them at that time, I don't want anything to be done.",
+     "source": "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2 @ 7:18",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Advocate provided.",
+     "notes": "Coded believed_and_acted because documentation was the only action she asked for; no further step shown (would otherwise be did_nothing_or_delayed)."
+    },
+    {
+     "n": 10,
+     "institution_type": "victim_services",
+     "institution": "Victim advocate (assigned with police report)",
+     "initiated_by": "institution",
+     "when": "2023",
+     "what_was_asked": "Support.",
+     "what_institution_did": "Validated that there was domestic violence, financial and sexual abuse and said she should have had an advocate in court.",
+     "quote": "I don't understand why you weren't provided an advocate when you first went to court. There's clearly domestic violence, financial abuse, sexual abuse.",
+     "source": "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2 @ 8:18",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Not stated.",
+     "notes": ""
+    },
+    {
+     "n": 11,
+     "institution_type": "court",
+     "institution": "Washington court child-support modification hearing (state prosecutor appearing)",
+     "initiated_by": "unclear",
+     "when": "2023 (after the season)",
+     "what_was_asked": "He petitioned to lower support; the prosecutor argued a history of financial abuse and manipulation.",
+     "what_institution_did": "Lowered support from $650 to $421 but added $150/month toward the $23,000 arrears, taking judicial notice of the debt; the judge accepted his explanation of Venmo deposits.",
+     "quote": "In the final orders, the official judgment is they lowered it to $421 from $6.50, but he has to pay an additional $150 each month that goes toward the back amount.",
+     "source": "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2 @ 16:48",
+     "response": "acted_partly",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Arrears payable indefinitely (he waived the age limit to regain his passport).",
+     "notes": "Prosecutor: 'we do have some history in this case of financial abuse and manipulation' (ep14 @ 14:46). Initiated by the perpetrator's petition."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "The judge had said initially, yeah, he is dangerous to you. That's why they gave me a restraining order. but they said that he was not a danger to Emerson.",
+   "outcome_source": "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2 @ 3:10",
+   "protection_contributors": [
+    "the_person",
+    "family_or_friends",
+    "institution"
+   ],
+   "decisive_work_by": "the_person",
+   "decisive_work_quote": "I had a lot of paperwork for the judge to go through.",
+   "decisive_work_source": "s14-e5-what-a-fcking-psycho @ 27:35",
+   "time_to_first_effective_action": "restraining order granted in the 2013 divorce/temporary-orders proceedings, months after she left Seattle (he filed for separation May 29, 2013)",
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "document_read_on_air",
+    "second_witness",
+    "record_checked_by_show"
+   ],
+   "confidence": "medium",
+   "notes": "Harm stopped mainly because she fled to California (2013); the 2013 order gave some protection but he stalked her, used her car and pool, assaulted her at an exchange and kept harassing/evading support; no contact since 2016-2018. Covert/blackmail sex recordings (ep8, ep13) never reached an institution except via the host's 2022 report. Her separate childhood sexual assault at 12 (different perpetrator, 1996) is mentioned with no aftermath and is not given its own record. Couples therapy and a therapist she saw are mentioned without abuse response. Kaylen also led the survivors' contacts with Converge Media (see P08)."
+  },
+  {
+   "person_id": "P02",
+   "name": "Emerson",
+   "role_in_story": "child",
+   "harm": "Daughter of Kaylen and the perpetrator: shaken as an infant, hit hard enough to leave handprints at about age one, a laptop thrown near her face, witnessed him hitting her mother, neglected on visits (sunburn, no food/water), and pressured/manipulated by him on a video call at age nine (2020).",
+   "perpetrator_role": "her father",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e1-his-moods-really-swing",
+    "s14-e2-complete-and-utter-coercion",
+    "s14-e4-next-level-evil",
+    "s14-e5-what-a-fcking-psycho",
+    "s14-ep6-full-force",
+    "s14-e7-this-is-a-dog-that-bites",
+    "s14-ep8-we-went-public",
+    "s14-e10-a-very-bad-person",
+    "s14-e12-classic-jake-bullsht",
+    "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "Looking back now, I should have taken her to the emergency room right then, or I just should have called the police. I didn't. That's my biggest regret is that I didn't tell someone.",
+      "source": "s14-e2-complete-and-utter-coercion @ 43:36"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "Emerson's pediatrician",
+     "initiated_by": "institution",
+     "when": "2013",
+     "what_was_asked": "(Pediatrician raised safety on her own.)",
+     "what_institution_did": "Asked if mother and child were safe, noted it in the file, wrote a court statement.",
+     "quote": "She asked me, are you okay? What's going on at home? Are you safe? Is she safe?",
+     "source": "s14-e5-what-a-fcking-psycho @ 27:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Statement given to court.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "Washington family court (temporary orders / divorce)",
+     "initiated_by": "family_or_friends",
+     "when": "Sept 2013 - April 2014",
+     "what_was_asked": "Protection for Emerson and restricted visitation.",
+     "what_institution_did": "Refused to include Emerson in the restraining order, but adopted the mother's parenting plan (six-hour visits once a month, no overnights, public exchanges).",
+     "quote": "She felt that I proved that he was a threat to me, but I did not prove that he was a threat to Emerson. I was granted a restraining order, but not for her.",
+     "source": "s14-e5-what-a-fcking-psycho @ 27:35",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Unsupervised visits continued; neglect on visits; Emerson had nightmares.",
+     "notes": "Could also be coded disbelieved for the protective-order request."
+    },
+    {
+     "n": 3,
+     "institution_type": "medical_or_therapy",
+     "institution": "Emerson's therapist",
+     "initiated_by": "family_or_friends",
+     "when": "2014-2015",
+     "what_was_asked": "Treatment and a statement supporting supervised/no visitation.",
+     "what_institution_did": "Treated Emerson for anxiety from witnessing domestic violence and wrote a statement recommending supervised visits.",
+     "quote": "The therapist stated that she had been treating Emerson for a year due to anxiety from witnessing domestic violence inflicted on her mother by her father.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 21:38",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Used in the modification petition.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "court",
+     "institution": "California family court (parenting plan modification)",
+     "initiated_by": "family_or_friends",
+     "when": "about 2015",
+     "what_was_asked": "Supervised visits or termination of visitation, backed by the therapist's statement.",
+     "what_institution_did": "Judge sympathised with the crying father, told the mother he did not know why she was there and dismissed the case.",
+     "quote": "And the judge looked at him and said, why aren't you calling your daughter? He started crying and the judge felt, sorry for him and said, call your daughter and looked at me and said, I don't know why you're here.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 22:39",
+     "response": "disbelieved",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Visitation continued unchanged under threat of contempt.",
+     "notes": "The court kept the child in visits the therapist recommended supervising; Kaylen: 'I am allowing this neglect to happen because the court is forcing me' (ep6 @ 23:33)."
+    },
+    {
+     "n": 5,
+     "institution_type": "court",
+     "institution": "Family court (agreed modification)",
+     "initiated_by": "family_or_friends",
+     "when": "May 17, 2016",
+     "what_was_asked": "No contact/no visitation after he hit Ivy; he agreed.",
+     "what_institution_did": "Entered an order: no contact except letters, anger management and psychological evaluation before any reinstatement, sole legal and physical custody to the mother.",
+     "quote": "Father agrees to no contact with the child except for writing letters sent to the following PO box.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 24:44",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "He has never completed the conditions; last saw her in person before 2016.",
+     "notes": ""
+    },
+    {
+     "n": 6,
+     "institution_type": "school_or_university",
+     "institution": "Emerson's school",
+     "initiated_by": "family_or_friends",
+     "when": "after 2016",
+     "what_was_asked": "Make sure the father could not see her.",
+     "what_institution_did": "Not stated beyond being informed.",
+     "quote": "I had to tell her school made sure that they knew that he was not allowed to see her.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 26:53",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Not stated.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": true,
+   "outcome": "protected",
+   "outcome_quote": "He is not allowed to call or speak to her or see her unless he does those two things and he has not done them.",
+   "outcome_source": "s14-e7-this-is-a-dog-that-bites @ 24:44",
+   "protection_contributors": [
+    "family_or_friends",
+    "institution",
+    "other_victims"
+   ],
+   "decisive_work_by": "family_or_friends",
+   "decisive_work_quote": "I went and filed right away. because he said he would agree to whatever I wanted.",
+   "decisive_work_source": "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2 @ 6:16",
+   "time_to_first_effective_action": "about two and a half years after the first court proceedings (Sept 2013 to the May 17, 2016 order)",
+   "months_to_first_effective_action": 32,
+   "contacts_before_first_effective_action": 4,
+   "evidence_types": [
+    "document_read_on_air",
+    "second_witness",
+    "record_checked_by_show"
+   ],
+   "confidence": "medium",
+   "notes": "harmed_by_institution_ever=true because the 2015 court dismissed the request for supervision and kept her in unsupervised visits under threat of contempt (judgement call). The 2016 order came by the father's agreement after the Ivy case (other victim's case). In 2020 he pressured her on a video call despite the no-contact order (mother had allowed messaging); mother took her away and he did not come. Host saw the handprint photo ('I've seen the pictures', e2 @ 43:36). Emerson's hitting was also mentioned in the host's 2022 FBI report but not recorded as a separate contact."
+  },
+  {
+   "person_id": "P03",
+   "name": "Melissa",
+   "role_in_story": "central_survivor",
+   "harm": "Childhood friend groomed into an affair (2012-13): coerced sex, pushed into being photographed/filmed and possibly secretly recorded, back scratched until bleeding, car attacked with her inside, financial exploitation, faked suicide threats, and while pregnant with his child repeated messages telling her to kill herself, threats to carve her face and wishes that she and the baby die; later legal harassment (false harassment petitions 2015 and 2022).",
+   "perpetrator_role": "former partner (father of her daughter Ivy)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e2-complete-and-utter-coercion",
+    "s14-e3-oh-here-we-go",
+    "s14-e4-next-level-evil",
+    "s14-e5-what-a-fcking-psycho",
+    "s14-ep6-full-force",
+    "s14-e7-this-is-a-dog-that-bites",
+    "s14-ep8-we-went-public",
+    "s14-e10-a-very-bad-person",
+    "s14-e11-being-soft-is-hard-as-fck",
+    "s14-e12-classic-jake-bullsht",
+    "s14-ep13-wcn-presents-kaylan-melissa-sww-s14-updates-part-1",
+    "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (911)",
+     "initiated_by": "person",
+     "when": "early 2013",
+     "what_was_asked": "Help: he punched the window by her head, jumped on the car and chased them.",
+     "what_institution_did": "Met them, took a full report, went looking for him at his home and salon and offered to pursue charges.",
+     "quote": "We met the police and they did a full police report and they wanted to know where he would go. They wanted to go talk to him and I had no clue.",
+     "source": "s14-e3-oh-here-we-go @ 50:18",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The car owner (her ex-husband) decided not to press charges to avoid escalation; she later said the case was dismissed because they declined to press charges (e11 @ 10:39).",
+     "notes": "Step stalled because the victims declined charges, not shown as police failure."
+    },
+    {
+     "n": 2,
+     "institution_type": "medical_or_therapy",
+     "institution": "Hospital / her obstetrician",
+     "initiated_by": "institution",
+     "when": "Jan 10, 2014 (Ivy's birth)",
+     "what_was_asked": "(Doctor saw her reaction to his text that he hoped she and the baby would die.)",
+     "what_institution_did": "Put security on her room so that every visitor had to be approved.",
+     "quote": "My doctor can see my physical reaction to this text message and she says, I'm putting security on your room. I don't want this man up here.",
+     "source": "s14-e5-what-a-fcking-psycho @ 42:08",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "He visited for about 10 minutes after the birth only with her permission.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "Washington criminal court (sentencing in Ivy's assault case)",
+     "initiated_by": "person",
+     "when": "March 29, 2017",
+     "what_was_asked": "Five-year restraining order.",
+     "what_institution_did": "Granted a five-year restraining order (covering Melissa and Ivy, mutual).",
+     "quote": "I had asked for a five year restraining order. They granted it.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 18:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "No contact for five years.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "court",
+     "institution": "Washington court (protection order renewal), via prosecutor's office guidance",
+     "initiated_by": "person",
+     "when": "April 2022",
+     "what_was_asked": "Renew the expiring order for Ivy; she went without a lawyer.",
+     "what_institution_did": "Granted an emergency order, then at the contested hearing found severe domestic violence, renewed the order for Ivy and added Melissa as a protected person.",
+     "quote": "She told me that I had proved that there had been domestic violence towards me. And so she added me to the order as well,",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 10:39",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "In Dec 2022 he filed an anti-harassment petition against her in Snohomish County; the motion was denied pending more evidence (e12 @ 14:42).",
+     "notes": ""
+    },
+    {
+     "n": 5,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 6,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "She told me that I had proved that there had been domestic violence towards me. And so she added me to the order as well,",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 10:39",
+   "protection_contributors": [
+    "the_person",
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "She pretty quickly ruled that There's more than enough evidence that there's been severe domestic violence in all of this.",
+   "decisive_work_source": "s14-e11-being-soft-is-hard-as-fck @ 10:39",
+   "time_to_first_effective_action": "about 11 months after her first police contact (car attack early 2013 to hospital security at the birth, Jan 2014)",
+   "months_to_first_effective_action": 11,
+   "contacts_before_first_effective_action": 1,
+   "evidence_types": [
+    "second_witness",
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "Not coded harmed_by_institution: in 2015 police served her with a harassment order he obtained on false claims; her lawyer moved it to family court as a mutual one-year no-contact order by agreement (ep6 @ 33:51-38:07) - an institutional process driven by his counter-accusation, without a finding against her. Dec 2022 counter-petition unresolved at season end. Sexual-coercion/recording allegations never investigated. Her own decision (with her therapist) to block him in 2016 also ended contact."
+  },
+  {
+   "person_id": "P04",
+   "name": "Ivy",
+   "role_in_story": "child",
+   "harm": "Slapped across the face with full force at age two during a visit (April 14, 2016), leaving a full handprint bruise on her face and neck; father had earlier said he wished she did not exist.",
+   "perpetrator_role": "her father",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s14-ep6-full-force",
+    "s14-e7-this-is-a-dog-that-bites",
+    "s14-e11-being-soft-is-hard-as-fck",
+    "s14-e12-classic-jake-bullsht"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "Ivy's pediatrician's office",
+     "initiated_by": "family_or_friends",
+     "when": "April 14, 2016",
+     "what_was_asked": "Check for neck injury after the father's 'missed catch' story.",
+     "what_institution_did": "Recognised likely abuse, sent her to the hospital and called the ER ahead.",
+     "quote": "we don't have any appointments, but we think you should probably just take her to the hospital. I drove her to the hospital. The pediatrician had called the emergency room and told them we were coming.",
+     "source": "s14-ep6-full-force @ 45:12",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "ER waiting for them.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "medical_or_therapy",
+     "institution": "Hospital emergency room",
+     "initiated_by": "family_or_friends",
+     "when": "April 14, 2016",
+     "what_was_asked": "Examination.",
+     "what_institution_did": "Doctor identified child abuse and called CPS and law enforcement; full exam.",
+     "quote": "The doctor came in and took one look at her and said, I have to call CPS, and I have to call law enforcement, because this is clearly child abuse.",
+     "source": "s14-ep6-full-force @ 46:13",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "CPS and a sheriff's deputy came.",
+     "notes": "Recorded hospital call reporting 'possible childhood abuse' played on air."
+    },
+    {
+     "n": 3,
+     "institution_type": "child_protection",
+     "institution": "CPS (Washington)",
+     "initiated_by": "institution",
+     "when": "April 14, 2016",
+     "what_was_asked": "(Called by hospital.)",
+     "what_institution_did": "Caseworker came to the hospital, rejected the father's story, identified a full-force slap and referred the case to the Seattle Children's review team.",
+     "quote": "But I was a little surprised when a CPS caseworker actually showed up to the hospital. They were all very adamant that there is absolutely no way that his story could be true.",
+     "source": "s14-ep6-full-force @ 47:14",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Referral to child-abuse medical team.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "County sheriff's department (deputy at hospital)",
+     "initiated_by": "institution",
+     "when": "April 14, 2016",
+     "what_was_asked": "(Called by hospital.)",
+     "what_institution_did": "Took the police report; an emergency restraining order was put through that night.",
+     "quote": "They put through an emergency restraining order so that he could not come anywhere near her. They took the police report.",
+     "source": "s14-ep6-full-force @ 50:19",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Case went to detectives.",
+     "notes": "'They' is ambiguous (hospital/CPS/sheriff) for the emergency order."
+    },
+    {
+     "n": 5,
+     "institution_type": "medical_or_therapy",
+     "institution": "Seattle Children's Hospital child-abuse review team",
+     "initiated_by": "institution",
+     "when": "April 2016",
+     "what_was_asked": "(CPS referral.)",
+     "what_institution_did": "Found extreme child abuse and ordered full-body x-rays.",
+     "quote": "They came back a couple days later and said, this is extreme child abuse.",
+     "source": "s14-ep6-full-force @ 51:25",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "X-rays showed no further injuries.",
+     "notes": ""
+    },
+    {
+     "n": 6,
+     "institution_type": "police",
+     "institution": "County sheriff's department",
+     "initiated_by": "institution",
+     "when": "April 2016",
+     "what_was_asked": "Criminal charges.",
+     "what_institution_did": "Left a message declining to move forward with charges.",
+     "quote": "we decided not to move forward with your case. We don't feel like this is a case that really should have charges filed.",
+     "source": "s14-ep6-full-force @ 52:30",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Melissa called CPS.",
+     "notes": ""
+    },
+    {
+     "n": 7,
+     "institution_type": "child_protection",
+     "institution": "CPS upper management",
+     "initiated_by": "family_or_friends",
+     "when": "April 2016",
+     "what_was_asked": "Melissa asked CPS what was happening.",
+     "what_institution_did": "Caseworker escalated to management, which told the sheriff to reconsider; detectives then interviewed the father.",
+     "quote": "I referred this case to the upper management at CPS, like her manager, and that person reached out and said, we want you to reconsider this case.",
+     "source": "s14-ep6-full-force @ 53:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Two-hour interview of the father the next day.",
+     "notes": ""
+    },
+    {
+     "n": 8,
+     "institution_type": "police",
+     "institution": "Sheriff's detective",
+     "initiated_by": "institution",
+     "when": "April 2016",
+     "what_was_asked": "Charges.",
+     "what_institution_did": "After the father cried and admitted the slap, recommended she not press charges because it could ruin his life; sent it to the prosecutor only when she insisted.",
+     "quote": "The detective called me after and said, I had [perpetrator] in here and I'm going to recommend that you don't press charges. He cried a lot and he just really seemed like he felt bad and if you go forward with these charges it could really ruin his life.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 2:13",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'And he said, okay, I'll send it to the prosecutor.' (e7 @ 3:13)",
+     "notes": "Minimisation; Melissa later: 'the detective twice tried to bury that case' (e12 @ 29:07)."
+    },
+    {
+     "n": 9,
+     "institution_type": "prosecutor",
+     "institution": "County prosecutor",
+     "initiated_by": "institution",
+     "when": "March 2017 (about 11 months later, after defence continuances)",
+     "what_was_asked": "Prosecution.",
+     "what_institution_did": "Secured a guilty plea to 30 days and asked the judge for actual jail rather than house arrest; asked Melissa for a victim impact statement.",
+     "quote": "He's agreeing to 30 days in jail. They're asking for it to be served on house arrest. We're going to ask the judge to put him in county to serve the 30 days in actual jail.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 12:26",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Sentencing next day.",
+     "notes": ""
+    },
+    {
+     "n": 10,
+     "institution_type": "court",
+     "institution": "Criminal court (sentencing judge)",
+     "initiated_by": "institution",
+     "when": "March 29-30, 2017",
+     "what_was_asked": "Jail, not house arrest; five-year restraining order.",
+     "what_institution_did": "Said 30 days was not enough, refused house arrest, had him taken into custody immediately and granted a five-year restraining order.",
+     "quote": "he said, absolutely not, he's going right now and he called the bailiff in and they handcuffed him and hauled him out right there. I had asked for a five year restraining order. They granted it.",
+     "source": "s14-e7-this-is-a-dog-that-bites @ 18:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "He served 21 days.",
+     "notes": ""
+    },
+    {
+     "n": 11,
+     "institution_type": "court",
+     "institution": "Washington court (protection order renewal)",
+     "initiated_by": "family_or_friends",
+     "when": "April 2022",
+     "what_was_asked": "Renew the order for Ivy.",
+     "what_institution_did": "Granted an emergency order and then renewed it after a contested hearing.",
+     "quote": "She pretty quickly ruled that There's more than enough evidence that there's been severe domestic violence in all of this. And so she said, I'm gonna go ahead and grant the restraining order for your daughter.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 10:39",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "No contact since 2016.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "That was honestly the end of [perpetrator] and Ivy's life and [perpetrator] and my life.",
+   "outcome_source": "s14-e7-this-is-a-dog-that-bites @ 18:35",
+   "protection_contributors": [
+    "family_or_friends",
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "They didn't want to take the case to begin with. The only reason they did was because CPS called them and said, will you please reconsider.",
+   "decisive_work_source": "s14-e7-this-is-a-dog-that-bites @ 4:14",
+   "time_to_first_effective_action": "same day (emergency restraining order at the hospital, April 14, 2016)",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "conviction",
+    "document_read_on_air",
+    "second_witness"
+   ],
+   "confidence": "high",
+   "notes": "Harm was a single incident already over at first contact; the protective action (orders, conviction) was delivered. Melissa's persistence (insisting on charges) also contributed. Victim impact statement read on air."
+  },
+  {
+   "person_id": "P05",
+   "name": "Julie",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Front-desk coworker at the salon (2007-08) repeatedly pressured and coerced into sex while intoxicated, about four or five times, in a use-and-discard cycle; feared retaliation at work.",
+   "perpetrator_role": "coworker (hair stylist)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e2-complete-and-utter-coercion",
+    "s14-e11-being-soft-is-hard-as-fck"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "fear_of_abuser",
+     "did_not_know_it_was_abuse",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "fear_of_abuser",
+      "quote": "I was scared of retaliation at work. I was afraid that if I didn't sleep with him or do what he wanted that he would make me pay for it at work.",
+      "source": "s14-e2-complete-and-utter-coercion @ 14:40"
+     },
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "it took me so long to understand that coercion isn't consent.",
+      "source": "s14-e2-complete-and-utter-coercion @ 14:40"
+     },
+     {
+      "reason": "other",
+      "quote": "I can't speak for the other women, but that's why I never said anything until now. It was because I held onto that shame for so long.",
+      "source": "s14-e2-complete-and-utter-coercion @ 18:50"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Other reason = shame. Only institutional contact is the host's 2022 report, ~15 years later; inclusion in the evidence inferred from 'recorded interviews with all the victims'. The employer (salon) never learned of it."
+  },
+  {
+   "person_id": "P06",
+   "name": "Carly",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Coworker drawn into a secret, deceptive sexual relationship while he was with Kaylen; describes being his 'never ending well of supply' and his violent 'jokes' that a coworker should be killed.",
+   "perpetrator_role": "coworker / casual partner",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e1-his-moods-really-swing",
+    "s14-e2-complete-and-utter-coercion",
+    "s14-e11-being-soft-is-hard-as-fck",
+    "s14-e12-classic-jake-bullsht"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "It's part of the shame. And it's part of why I didn't tell anyone what was happening with me and [perpetrator], because I knew it was wrong.",
+      "source": "s14-e1-his-moods-really-swing @ 40:16"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Harm is thin (manipulation/deception rather than a crime); included because the season tells her story and the host lists her among survivors. Shame given as reason for silence. 'Carly' is also named as having emailed Converge repeatedly (e10 @ 55:16), possibly a transcription of 'Kaylen' - not coded."
+  },
+  {
+   "person_id": "P07",
+   "name": "Mimi",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Later wife (about 2014-2021): yelling, triangulation, and an assault in which he pinned her down and strangled her until she blacked out, telling her to say goodbye to everything she loved; recorded screaming at her.",
+   "perpetrator_role": "her ex-husband",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-ep6-full-force",
+    "s14-e7-this-is-a-dog-that-bites",
+    "s14-ep8-we-went-public",
+    "s14-e10-a-very-bad-person",
+    "s14-e11-being-soft-is-hard-as-fck"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "she's not participating in the season out of caution for her personal safety.",
+      "source": "s14-ep6-full-force @ 7:44"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "record_checked_by_show",
+    "document_read_on_air",
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Not interviewed on air; she 'provided evidence in these matters' to the host, so her account is assumed to be in the 2022 police submission. Her social-media post with neck photos was read by the host on air. No police report of the strangling is mentioned. She later left and filed for divorce."
+  },
+  {
+   "person_id": "P08",
+   "name": "Sarah",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Long-distance partner (July 2020 - Feb 2021): love-bombing, cheating concealed with location tricks, guilt-tripping and reality-twisting, financial reliance on her, pressured into being filmed during sex and probably recorded without her knowledge by cameras in his apartment.",
+   "perpetrator_role": "former boyfriend",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e7-this-is-a-dog-that-bites",
+    "s14-ep8-we-went-public",
+    "s14-e9-mind-fck",
+    "s14-e10-a-very-bad-person",
+    "s14-e11-being-soft-is-hard-as-fck",
+    "s14-e12-classic-jake-bullsht"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "there were times that I was still being recorded and never knew about it. I don't have a way of proving it.",
+      "source": "s14-ep8-we-went-public @ 10:15"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "employer_or_hr",
+     "institution": "Converge Media (perpetrator's employer/freelance outlet)",
+     "initiated_by": "third_party",
+     "when": "March 2-4, 2022",
+     "what_was_asked": "A former studio host sent the company the Instagram page's survivor posts and urged a public statement and background checks.",
+     "what_institution_did": "Cut ties with the perpetrator the next day; announced an internal investigation.",
+     "quote": "Converged media severed its relationship with [perpetrator] on March 2, 2022, after allegations were brought to our attention by an individual who approached converged media directly with",
+     "source": "s14-e10-a-very-bad-person @ 54:14",
+     "response": "believed_and_acted",
+     "basis": [
+      "institution_statement",
+      "person_account"
+     ],
+     "what_happened_next": "Statement only after social-media pressure; investigation outcome never shared.",
+     "notes": "Former freelancer alleges they kept using his footage (disputed by co-founder)."
+    },
+    {
+     "n": 2,
+     "institution_type": "employer_or_hr",
+     "institution": "Converge Media (statement, Zoom call, emails)",
+     "initiated_by": "person",
+     "when": "March - July 2022",
+     "what_was_asked": "Kaylen, Melissa and Sarah asked for a public acknowledgement/apology to women he met through Converge and the investigation result.",
+     "what_institution_did": "Delayed, turned off comments, credited his work under an altered name, and on the call defended the company and complained about the page's harm to the business; a later statement did not acknowledge victims.",
+     "quote": "They started off from the get-go attacking us really and telling us every way that [perpetrator] Instagram had hurt their business and hurt their company and hurt them individually.",
+     "source": "s14-e10-a-very-bad-person @ 59:20",
+     "response": "protected_itself",
+     "basis": [
+      "person_account",
+      "institution_statement",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Survivors ceased communication; July 26, 2022 statement added background checks; co-founder later apologised on the podcast.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "platform",
+     "institution": "Instagram (Meta)",
+     "initiated_by": "third_party",
+     "when": "August 2022",
+     "what_was_asked": "(Others reported the survivors' warning page.)",
+     "what_institution_did": "Removed the page for 'human exploitation' with no dispute possible and wiped Sarah's personal and business Instagram and Facebook accounts.",
+     "quote": "We were reported for human exploitation, which is a charge that you can't even dispute.",
+     "source": "s14-e12-classic-jake-bullsht @ 26:01",
+     "response": "blamed_punished_or_counter_accused",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Sarah lost her accounts, photos of her child and business page.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 5,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": true,
+   "outcome": "harmed_by_institution",
+   "outcome_quote": "My personal Instagram, my business, Facebook, and personal Facebook were all wiped with it because I was the one who created it.",
+   "outcome_source": "s14-e12-classic-jake-bullsht @ 26:01",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness",
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "Other reason = could not prove covert recording. Harm ended when she left (Feb 2021) before any contact. Converge severance (removal of his platform) is recorded for her because her relationship fell in the Converge period and she took part in the call; it protected other women rather than her. Platform takedown is the final institutional act."
+  },
+  {
+   "person_id": "P09",
+   "name": "Maria",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Met via Instagram/Tinder (Dec 2021): worn down into sex, then in a shower room at his workplace filmed, pushed off and had her head shoved back down; suspects a hidden camera in his bedroom; he refused to give her the video.",
+   "perpetrator_role": "date",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e9-mind-fck",
+    "s14-e11-being-soft-is-hard-as-fck"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "What is the legal ramifications for him doing this? There's video of me, but I assume that there is. I want him held accountable for that.",
+      "source": "s14-e9-mind-fck @ 37:03"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "employer_or_hr",
+     "institution": "Converge Media",
+     "initiated_by": "third_party",
+     "when": "March 2022",
+     "what_was_asked": "Survivors' posts (including her story, told to the page) forwarded to the company.",
+     "what_institution_did": "Severed ties with the perpetrator.",
+     "quote": "Converged media severed its relationship with [perpetrator] on March 2, 2022, after allegations were brought to our attention by an individual who approached converged media directly with",
+     "source": "s14-e10-a-very-bad-person @ 54:14",
+     "response": "believed_and_acted",
+     "basis": [
+      "institution_statement"
+     ],
+     "what_happened_next": "No investigation result shared.",
+     "notes": "The locker-room incident took place in the building of his workplace; link of her story to the company's decision is inferred from the page."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 3,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "What is the legal ramifications for him doing this? There's video of me, but I assume that there is. I want him held accountable for that.",
+   "outcome_source": "s14-e9-mind-fck @ 37:03",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Wants legal accountability for the recording; none delivered."
+  },
+  {
+   "person_id": "P10",
+   "name": "Kit",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Dated about a month via Facebook Dating: berated and screamed at ('careless bitch') in her car, blamed for his lateness, not repaid money; concerned she was secretly filmed.",
+   "perpetrator_role": "date",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e9-mind-fck",
+    "s14-e11-being-soft-is-hard-as-fck"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "I never responded to his text again and I I never saw him again",
+      "source": "s14-e9-mind-fck @ 15:27"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Name is a pseudonym (anonymous). She ended it after a background check showed domestic-violence charges. No institution except the host's report."
+  },
+  {
+   "person_id": "P11",
+   "name": "Clementine",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Tinder hookups (Feb-Mar 2021): slapped during sex with a remark about leaving marks, and filmed during oral sex without being asked.",
+   "perpetrator_role": "casual partner",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e9-mind-fck",
+    "s14-e11-being-soft-is-hard-as-fck"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "And then I drove him to the airport and said goodbye immediately, deleted his contact information. I blocked him on Instagram for some reason.",
+      "source": "s14-e9-mind-fck @ 48:41"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "She warned Carrie privately. Mentions a previous assault on a first date by someone else and her own childhood abuse (no story; not recorded)."
+  },
+  {
+   "person_id": "P12",
+   "name": "Carrie",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Hinge date (Feb 2022): manipulation with false cancer claims and a suicide threat used to pressure her to come over for sex; fears she was secretly filmed from his backpack.",
+   "perpetrator_role": "date",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e9-mind-fck",
+    "s14-e10-a-very-bad-person",
+    "s14-e11-being-soft-is-hard-as-fck",
+    "s14-ep13-wcn-presents-kaylan-melissa-sww-s14-updates-part-1"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "He asked me to have sex with him. When I said I couldn't come over, he threatened suicide,",
+      "source": "s14-e10-a-very-bad-person @ 4:31"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Learned of the warning page from a coworker; no institution except the host's report."
+  },
+  {
+   "person_id": "P13",
+   "name": "Violet",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Instagram contact turned date (Dec 2021): emotionally exploitative use of suicidal ideation, studied communication; assumes she was secretly recorded in his apartment; lasting trauma.",
+   "perpetrator_role": "date",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e10-a-very-bad-person",
+    "s14-e11-being-soft-is-hard-as-fck"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "I won't know whether he recorded this or not. I'm just gonna assume that he did.",
+      "source": "s14-e10-a-very-bad-person @ 13:43"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department (Sexual Assault and Child Abuse Unit / Sex Crimes)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 27 - Dec 2022",
+     "what_was_asked": "The host sent a timeline, recorded interviews with the season's survivors and other evidence (non-consensual recording, sexual coercion, domestic violence) and asked for an investigation / search warrant for his cameras and hard drives.",
+     "what_institution_did": "A detective returned the host's call and forwarded the evidence to a sergeant; no investigation step and no contact with any victim was shown by the end of the season.",
+     "quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air",
+      "record_checked_by_show"
+     ],
+     "what_happened_next": "Host followed up Oct 24 and Dec 16, 2022; detective had not even opened the evidence folder; petition launched. In 2023 SPD returned the host's call only after a newspaper (The Stranger) inquired.",
+     "notes": "Contact made by the host on behalf of all interviewed survivors ('recorded interviews with all the victims'); this person's inclusion is inferred from that. "
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "FBI (National Threat Operations Center intake), Seattle",
+     "initiated_by": "journalist_or_podcast",
+     "when": "Sept 2022",
+     "what_was_asked": "Report of decades of non-consensual pornography, sexual coercion and domestic violence by the perpetrator.",
+     "what_institution_did": "Took high-level intake information, asked whether crimes occurred on federal land, and referred the host to the Washington State Patrol (whose line had no option to report a crime).",
+     "quote": "Like I said, I do believe the Washington State Police is going to be your best avenue.",
+     "source": "s14-e11-being-soft-is-hard-as-fck @ 21:16",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "No FBI update by end of season ('we have still not received any updates from the Seattle PD or the FBI').",
+     "notes": "Federal law-enforcement intake; Washington State Patrol call had no crime-report option. "
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "As of the airing of this episode, Thursday, December 22nd, 2022, we have still not received any updates from the Seattle PD or the FBI. To our knowledge, they have not reached out to a single victim to investigate these matters.",
+   "outcome_source": "s14-e11-being-soft-is-hard-as-fck @ 29:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Other reason = uncertainty whether she was recorded. She is a therapist; mentions a former sexual assault by someone else (bare)."
+  },
+  {
+   "person_id": "P14",
+   "name": "[unnamed] young woman (early 20s) whose account was sent to the Instagram page",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Pressured to have sex despite saying no at least ten times; he begged and cried, pushed her head down saying she owed him, then left her to walk alone at 3 a.m. and blocked her as punishment.",
+   "perpetrator_role": "date",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s14-e10-a-very-bad-person"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "I didn't reply and he blocked me on Instagram and his phone as punishment.",
+      "source": "s14-e10-a-very-bad-person @ 24:07"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "I didn't reply and he blocked me on Instagram and his phone as punishment.",
+   "outcome_source": "s14-e10-a-very-bad-person @ 24:07",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "Message read by Kaylen; she wished to remain anonymous. Not stated whether she was among the host's interviewees."
+  }
+ ],
+ "others_mentioned": [
+  {
+   "description": "Courtney, the perpetrator's ex-girlfriend and mother of his son and first daughter: 'scared of' him and hid her name at the hospital when giving birth; a family-court visitation case and a CPS investigation are mentioned without stated reasons",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "I just know that Courtney was scared of [perpetrator]. When she went into labor, she had another name on her door, so he didn't know where to find her.",
+   "source": "s14-e1-his-moods-really-swing @ 29:02"
+  },
+  {
+   "description": "Bowie, the perpetrator's son, who saw him kick a cat; Kaylen warned his mother to keep him away",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "Bowie told me that he got mad and kicked the cat and so I got his cats and I packed them up and I took them to the shelter.",
+   "source": "s14-e4-next-level-evil @ 38:40"
+  },
+  {
+   "description": "Former studio host and a Converge colleague threatened with assault by the perpetrator in 2020; the colleague reportedly told the company co-founder",
+   "count_stated": 2,
+   "reached_institution": "yes",
+   "quote": "He was mad. I mean, he threatened to salt me and Bobby in front of witnesses.",
+   "source": "s14-e10-a-very-bad-person @ 49:06"
+  },
+  {
+   "description": "Woman whom the perpetrator told that his daughter Emerson had died, to excuse ghosting her",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "He actually told me that his daughter Emerson had died. And that's why he went through these long periods of no communication.",
+   "source": "s14-e10-a-very-bad-person @ 20:58"
+  },
+  {
+   "description": "Woman (via a friend) who feared she had been recorded in his apartment and wanted to go to the police; outcome unknown",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "She wants to go to the police. And I was the one I think that talked to her. I encouraged her to go to the police.",
+   "source": "s14-e10-a-very-bad-person @ 37:37"
+  },
+  {
+   "description": "Women whose relationships overlapped Sarah's",
+   "count_stated": 12,
+   "reached_institution": "unknown",
+   "quote": "There are 12 people that overlap Sarah that we know of.",
+   "source": "s14-e10-a-very-bad-person @ 31:32"
+  },
+  {
+   "description": "Women who contacted the page about contact with him during his time at Converge",
+   "count_stated": 25,
+   "reached_institution": "unknown",
+   "quote": "I wanna say it was between 25 and 30 women that had contacted us, that had some kind of contact with [perpetrator] during his time at Converge.",
+   "source": "s14-e10-a-very-bad-person @ 62:36"
+  },
+  {
+   "description": "Total women on the survivors' timeline",
+   "count_stated": 45,
+   "reached_institution": "unknown",
+   "quote": "The number that we have just from the timeline that was impartial that we created was around 45.",
+   "source": "s14-e12-classic-jake-bullsht @ 19:48"
+  },
+  {
+   "description": "Converge Media women ('queens') described by the co-founder as also harmed by him",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "The flip side is that we also had these queens here who were on the call because they also been harmed by [perpetrator].",
+   "source": "s14-e10-a-very-bad-person @ 94:42"
+  },
+  {
+   "description": "Woman who posted his texts boasting about making women feel awful",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "There was one woman who posted text messages between her and [perpetrator] where he was basically, God, this would mean me so sick.",
+   "source": "s14-e9-mind-fck @ 50:42"
+  },
+  {
+   "description": "Woman in an on-and-off casual relationship with him for over a decade who contacted the survivors after the season",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "One of the women that had contacted us, she had an ongoing on and off casual relationship that went on for over a decade through all of this.",
+   "source": "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2 @ 28:13"
+  },
+  {
+   "description": "Woman still dating him when the page appeared",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "This one girl was still dating him, I believe, and she found the Instagram page.",
+   "source": "s14-ep8-we-went-public @ 41:02"
+  }
+ ],
+ "coder_notes": "All 8 chunk files read in full to their stated last lines (E1-E12 plus two WCN update episodes Ep13-Ep14). One perpetrator throughout (name withheld). Interpretive choices: (1) The host's Sept-Dec 2022 report to Seattle PD and the FBI covered 'recorded interviews with all the victims', so it is recorded as a contact (did_nothing_or_delayed) for every interviewed adult survivor (and Mimi, who provided evidence); this makes those survivors 'reached' only via the podcast. (2) perpetrator_convicted refers to the harm in that record: only Ivy's assault produced a conviction (30 days, 21 served). (3) The perpetrator's own false harassment petitions against Melissa (2015, 2022) are counter-accusations through courts, noted rather than coded as contacts. (4) Converge Media's handling is coded for Sarah and Maria (Converge-era victims whose stories were on the page); Kaylen and Melissa also took part. (5) Bare mentions of other harms to survivors by different perpetrators (Kaylen's sexual assault at 12 in 1996, Clementine's prior first-date assault, Violet's and Carrie's earlier abuse) have no aftermath and are not given records. (6) The friend-to-friend warning to an MxPx band manager is not an institution. Speech-to-text garbles: Converge co-founder's name and 'Carly' emailing Converge (possibly 'Kaylen') left as-is. No unassigned episode opened."
+}
