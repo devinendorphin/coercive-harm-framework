@@ -1,0 +1,1596 @@
+{
+ "season": 16,
+ "coder": "A",
+ "reading_log": [
+  {
+   "file": "s16_01.txt",
+   "last_line_number": 108,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s16_02.txt",
+   "last_line_number": 118,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s16_03.txt",
+   "last_line_number": 104,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s16_04.txt",
+   "last_line_number": 113,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s16_05.txt",
+   "last_line_number": 104,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s16_06.txt",
+   "last_line_number": 102,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s16_07.txt",
+   "last_line_number": 7,
+   "read_in_full": true,
+   "problems": ""
+  }
+ ],
+ "unassigned_checked": [
+  {
+   "slug": "INDEX.txt",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "required list of unassigned episodes"
+  },
+  {
+   "slug": "exciting-sww-updates",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "show-update episode; checked whether it updates season 16 - it concerns seasons 12-14 only"
+  },
+  {
+   "slug": "data-points-cons-schemes-fraud",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "season 16 centres on a father's fraud schemes and E7 announced Data Points episodes; checked for discussion of this story - none"
+  },
+  {
+   "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "host describes her mother as narcissistic; checked for discussion of this story - none"
+  }
+ ],
+ "persons": [
+  {
+   "never_reached": {
+    "reasons": [
+     "protecting_others",
+     "fear_of_abuser",
+     "earlier_disbelief",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "protecting_others",
+      "quote": "and asking what happened, walking up the stairs and coming and checking on us. And I pretended to be asleep. I learned from a very young age that I needed to protect my parents.",
+      "source": "s16-e2-raised-by-wolves @ 26:10"
+     },
+     {
+      "reason": "fear_of_abuser",
+      "quote": "There were several times where I would say to my parents, how about I fucking call CPS? How about that? Like, as I got older, I'd get really brave and say something like that and I would regret it.",
+      "source": "s16-e11-qa @ 29:31"
+     },
+     {
+      "reason": "earlier_disbelief",
+      "quote": "I never thought to bring my problems to my parents really because when I did I was told to shut the fuck up or that I was too sensitive or that it was me that was the problem",
+      "source": "s16-e2-raised-by-wolves @ 27:13"
+     },
+     {
+      "reason": "other",
+      "quote": "My dad for hours prepared me for this. Barking orders at me telling me exactly what I couldn't couldn't say, coaching me, making sure that I knew exactly what to say",
+      "source": "s16-e2-raised-by-wolves @ 47:54"
+     }
+    ]
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "local police (Rocklin house)",
+     "initiated_by": "unclear",
+     "when": "around third/fourth grade, during a 911 call about a domestic violence incident between her parents",
+     "what_was_asked": "Someone called 911 about a violent fight between her parents (glass, blood).",
+     "what_institution_did": "Officers came, asked what happened and checked on the children upstairs; no further step is shown. Tiffany pretended to be asleep.",
+     "quote": "and asking what happened, walking up the stairs and coming and checking on us. And I pretended to be asleep. I learned from a very young age that I needed to protect my parents.",
+     "source": "s16-e2-raised-by-wolves @ 26:10",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Nothing changed; the abuse continued.",
+     "notes": "The call concerned the parents' fight; the story says there were 'several domestic violence incidences, both with my parents assaulting us or Tony or assaulting one another'. Tiffany concealed; could also be coded unclear."
+    },
+    {
+     "n": 2,
+     "institution_type": "child_protection",
+     "institution": "CPS",
+     "initiated_by": "third_party",
+     "when": "Auburn house (about fifth/sixth grade), after a physical altercation at a custody exchange",
+     "what_was_asked": "A CPS call (parents claimed by Tony's biological father) prompting an assessment of the household.",
+     "what_institution_did": "A CPS worker interviewed Tiffany alone in the garage after her father had coached her; she repeated the coached answers, the worker thanked her and left, and nothing happened.",
+     "quote": "The CPS woman came. She took me to the garage where there was like a card table separate from my parents. She asked me questions and I reported to her exactly what I was coached to say. She said thank you very much. She left and nothing happened.",
+     "source": "s16-e2-raised-by-wolves @ 48:55",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "CPS determined the homes were safe enough; Tiffany still feels guilt about the coached interview.",
+     "notes": "The worker received a coached account; the story does not show the worker doubting or probing it."
+    },
+    {
+     "n": 3,
+     "institution_type": "police",
+     "institution": "police (called by Tiffany, about age 14)",
+     "initiated_by": "person",
+     "when": "after the eighth-grade Washington DC trip",
+     "what_was_asked": "Tiffany, alone at home at night, called 911, hospitals and police because her parents had not picked her up and could not be found.",
+     "what_institution_did": "Not stated; her drunk mother eventually phoned in the middle of the night - the parents had forgotten her and gone to Tahoe.",
+     "quote": "So I then called the police and told them what happened and that I came home from this trip and I couldn't find my parents. Eventually in the middle of the night, I got a call and it was from my mom who was drunk and they had apparently just forgotten about me",
+     "source": "s16-e3-something-was-wrong @ 33:25",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No follow-up shown.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "medical_or_therapy",
+     "institution": "hospital nursing staff at the birth of her first child",
+     "initiated_by": "institution",
+     "when": "2009, birth of her first son",
+     "what_was_asked": "Tiffany, after a C-section, begged the nurse for her baby, whom her mother had taken from her husband in the hallway.",
+     "what_institution_did": "A nurse on her own initiative had earlier sent the mother to the waiting room; another nurse went into the hall and made the grandmother hand the baby back.",
+     "quote": "And so the nurse went out to the hall and essentially interceded and was like, okay, grandma, you need to give the baby back to dad.",
+     "source": "s16-e6-cons-gonna-con @ 52:10",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "A brief protective step on the day; the mother's emotional abuse continued for years until Tiffany cut contact.",
+     "notes": "Small-scale contact; included because the institution itself saw and acted on the mother's behaviour."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P01",
+   "name": "Tiffany (parents)",
+   "role_in_story": "central_survivor",
+   "harm": "Childhood-to-adulthood physical, emotional and body-image abuse by her mother (nail-digging, head slammed into concrete, hair-grabbing, food withholding, years of fat-shaming), neglect and endangerment by both parents (drunk driving, abandonment), and exploitation and manipulation by her father (child labour in his office, coaching her to lie to CPS).",
+   "perpetrator_role": "her mother and her father",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e1-spoiler-alert-its-all-fcked-up",
+    "s16-e2-raised-by-wolves",
+    "s16-e3-something-was-wrong",
+    "s16-e4-knock-at-the-door",
+    "s16-e5-paperwork-fckery",
+    "s16-e6-cons-gonna-con",
+    "s16-e7-5150",
+    "s16-e8-memories-for-blessing",
+    "s16-ep9-taking-up-space",
+    "s16-e10-tikkun-olam",
+    "s16-e11-qa"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "yes",
+   "outcome": "not_protected",
+   "outcome_quote": "I pushed her off of me and she fell back into the wall a bit and I said, don't ever put your fucking hands on me. Ever again. She had a look in her eye like she knew that I meant it.",
+   "outcome_source": "s16-e4-knock-at-the-door @ 45:18",
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Physical abuse ended because Tiffany stood up to her mother (about age 18); emotional abuse ended when she went no contact with both parents after a baby-shower incident (a friend's mother had to make her mother leave). Second witnesses: husband, camp acquaintance, two longtime friends, an anonymous former associate. Kaiser Permanente (weight class at ~10, later eating-disorder treatment) is not coded as a contact because the abuse is not shown being raised there. Store employees asked 'are you okay?' (not an institution). Separately, at 19 she was held at gunpoint during the police/SWAT raid on the family home over her father's fraud; this endangerment is noted here but not coded because it was not a response to her harm (if a reader treats it as such, harmed_by_institution_ever would be true). Her father was convicted of crimes against others, not of harming her."
+  },
+  {
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "I was afraid that my friend was gonna believe him and be mad at me. I felt like it was my fault because I had been drinking. I'd wanted to pretend it didn't happen.",
+      "source": "s16-e4-knock-at-the-door @ 32:44"
+     },
+     {
+      "reason": "other",
+      "quote": "I never, ever considered pursuing legal charges ever.",
+      "source": "s16-e4-knock-at-the-door @ 35:50"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P02",
+   "name": "Tiffany (friend's boyfriend)",
+   "role_in_story": "central_survivor",
+   "harm": "At about 16-17, while very intoxicated and falling asleep at a friend's house in South Lake Tahoe, she woke to her friend's boyfriend sexually assaulting her.",
+   "perpetrator_role": "her friend's boyfriend (a few years older)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e4-knock-at-the-door",
+    "s16-e7-5150"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "I never, ever considered pursuing legal charges ever.",
+   "outcome_source": "s16-e4-knock-at-the-door @ 35:50",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "high",
+   "notes": "'Other' reasons: fear her friend would believe him, self-blame for drinking, wish to pretend it did not happen; the conversation also cites low prosecution rates as a deterrent. Years later she told the friend, who replied that police had once removed him from her house (see others_mentioned). She stopped telling people she was bisexual after this."
+  },
+  {
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "And I never saw those kids again. Because when I told my parents, my mom was like, that's it. You're not going there anymore.",
+      "source": "s16-e3-something-was-wrong @ 24:12"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P03",
+   "name": "Tiffany (school bullying)",
+   "role_in_story": "central_survivor",
+   "harm": "Daily bullying about her body at Catholic school in seventh/eighth grade by a boy, ending with him asking in front of about 20 kids whether she would become a Columbine-style shooter.",
+   "perpetrator_role": "a male classmate (bully)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e3-something-was-wrong"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "And I never saw those kids again. Because when I told my parents, my mom was like, that's it. You're not going there anymore.",
+   "outcome_source": "s16-e3-something-was-wrong @ 24:12",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "The story does not say whether the school was ever told; 'other' = her mother withdrew her from the school instead. Further bullying at a Christian school and a fifth-grade teacher's public weigh-ins are mentioned but not separately coded. Inclusion as a 'harm' record is a judgment call."
+  },
+  {
+   "never_reached": {
+    "reasons": [
+     "institution_was_abusers"
+    ],
+    "quotes": [
+     {
+      "reason": "institution_was_abusers",
+      "quote": "I told my employer at the time, and she threw a fit, and within a week she fired me because she was mad that I was going to be pregnant when we were supposed to be having a corporate retreat that I was supposed to be running.",
+      "source": "s16-e6-cons-gonna-con @ 47:07"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P04",
+   "name": "Tiffany (employer)",
+   "role_in_story": "central_survivor",
+   "harm": "Fired by her nonprofit employer within a week of telling her boss she was pregnant, leaving her pregnant, jobless and uninsured.",
+   "perpetrator_role": "her employer/boss at a nonprofit",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e6-cons-gonna-con"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "Now I'm pregnant and jobless. I have no medical insurance.",
+   "outcome_source": "s16-e6-cons-gonna-con @ 47:07",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "The harm was done by the employer itself; no complaint anywhere else is mentioned and no reason for not complaining is stated. She found another job in cosmetics. Inclusion is a judgment call."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "child_protection",
+     "institution": "CPS",
+     "initiated_by": "third_party",
+     "when": "Auburn house, after a custody-exchange altercation",
+     "what_was_asked": "Assessment of the household after a CPS call.",
+     "what_institution_did": "Interviewed Tony and Tiffany (coached) and found the homes safe enough; nothing happened.",
+     "quote": "The CPS woman came. She took me to the garage where there was like a card table separate from my parents. She asked me questions and I reported to her exactly what I was coached to say. She said thank you very much. She left and nothing happened.",
+     "source": "s16-e2-raised-by-wolves @ 48:55",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No change for the household.",
+     "notes": "Unclear whether Bobby's situation was considered; the assessment was framed around Tony."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P05",
+   "name": "Bobby (parents)",
+   "role_in_story": "co_victim",
+   "harm": "Grew up in the same violent, alcohol-soaked household, witnessed the abuse of his siblings, and was subjected to performance pressure and his mother's fat-phobia; developed an eating disorder at 11-12, later substance use and a suicide attempt.",
+   "perpetrator_role": "his mother and his father",
+   "perpetrator_convicted": "no",
+   "deceased": true,
+   "episodes": [
+    "s16-e1-spoiler-alert-its-all-fcked-up",
+    "s16-e2-raised-by-wolves",
+    "s16-e3-something-was-wrong",
+    "s16-e4-knock-at-the-door",
+    "s16-e5-paperwork-fckery",
+    "s16-e7-5150"
+   ],
+   "reached_institution": "unclear",
+   "harm_ongoing_at_first_contact": "unclear",
+   "outcome": "not_protected",
+   "outcome_quote": "So he is also, you know, obviously a victim. He also had to deal with some really, really, really fucked up stuff that no kid should ever have to deal with.",
+   "outcome_source": "s16-e4-knock-at-the-door @ 6:13",
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Medical contacts not coded as harm reaching an institution: psychologist after the dog bite; eating-disorder treatment ('When Bobby's eating disorder became undeniable, they put him into treatment' e4 @ 22:08; Kaiser treated both siblings e3 @ 3:08); stomach pumping and a 5150 hold after a suicide attempt (e5 @ 31:48); rehab. In the dog-bite lawsuit, Tiffany believes the judge put the award in a trust only Bobby could access because he 'could probably smell my parents fucking scams' (e1 @ 46:21) - noted, not coded. He was later killed by a sheriff's deputy (P07)."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police",
+     "initiated_by": "unclear",
+     "when": "immediately after the attack (Auburn)",
+     "what_was_asked": "Response to the attack.",
+     "what_institution_did": "Police were called and the boy was brought before a juvenile judge.",
+     "quote": "I know that my brother came home, the police were called that boy that did that to him, went in front of some sort of juvenile judge who made him write an apology letter.",
+     "source": "s16-e2-raised-by-wolves @ 46:53",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The case went to juvenile court.",
+     "notes": "Thin account; police action is inferred from the case reaching a juvenile judge."
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "juvenile court",
+     "initiated_by": "institution",
+     "when": "shortly after",
+     "what_was_asked": "Juvenile proceedings.",
+     "what_institution_did": "The juvenile judge made the boy write an apology letter; nothing else is known.",
+     "quote": "I know that my brother came home, the police were called that boy that did that to him, went in front of some sort of juvenile judge who made him write an apology letter. I don't know what else",
+     "source": "s16-e2-raised-by-wolves @ 46:53",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Unknown; Tiffany says it was extremely traumatic for everyone.",
+     "notes": "An apology letter for an attempted drowning with a death threat is coded as less than the situation called for; she says she does not know what else happened."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "the police were called that boy that did that to him, went in front of some sort of juvenile judge who made him write an apology letter.",
+   "decisive_work_source": "s16-e2-raised-by-wolves @ 46:53",
+   "time_to_first_effective_action": "immediately (police called right after)",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 0,
+   "person_id": "P06",
+   "name": "Bobby (neighbor teen)",
+   "role_in_story": "co_victim",
+   "harm": "As a young child he was forced into a full-size trash can by a 16-17-year-old neighbour boy who filled it with water from a hose, held the lid down and said he would drown him.",
+   "perpetrator_role": "a 16-17-year-old neighbourhood boy",
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "episodes": [
+    "s16-e2-raised-by-wolves"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "partly_protected",
+   "outcome_quote": "went in front of some sort of juvenile judge who made him write an apology letter. I don't know what else",
+   "outcome_source": "s16-e2-raised-by-wolves @ 46:53",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Mother found him by hearing screams. Who called the police is not stated."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Los Angeles County Sheriff's deputies at the scene",
+     "initiated_by": "third_party",
+     "when": "2012, at the scene, moments after the shooting",
+     "what_was_asked": "The bystander who had called 911 asked the deputy why he shot Bobby.",
+     "what_institution_did": "The deputy claimed Bobby went for his gun; the witness called him a liar.",
+     "quote": "I said, you son of a bitch. And the guy that did, the cop that did it, walked over to the other squad car next to me, leaned up against it, and I asked him, why did you shoot him? He says, he went from my gun.",
+     "source": "s16-e8-memories-for-blessing @ 6:14",
+     "response": "blamed_punished_or_counter_accused",
+     "basis": [
+      "second_witness"
+     ],
+     "what_happened_next": "Officers' dash cams were turned off; the witness says they high-fived.",
+     "notes": "The institution itself caused the harm; this contact codes its immediate account blaming Bobby."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Los Angeles County Sheriff's Department, via a police chaplain",
+     "initiated_by": "institution",
+     "when": "the evening of the death",
+     "what_was_asked": "Death notification to the family.",
+     "what_institution_did": "A sheriff's chaplain told the family Bobby had gone after an officer's gun.",
+     "quote": "And they remember asking the chaplain what happened. And he said that Bobby had gone after one of the officer's guns.",
+     "source": "s16-e7-5150 @ 55:18",
+     "response": "protected_itself",
+     "basis": [
+      "person_account",
+      "second_witness"
+     ],
+     "what_happened_next": "The family later learned of the eyewitness account contradicting this.",
+     "notes": "Could also be coded blamed_punished_or_counter_accused; protected_itself chosen because the official version shielded the deputies and was contradicted by the eyewitness."
+    },
+    {
+     "n": 3,
+     "institution_type": "other",
+     "institution": "Los Angeles County (coroner/county holding the body and belongings)",
+     "initiated_by": "family_or_friends",
+     "when": "the weeks after the death",
+     "what_was_asked": "The family asked for Bobby's body and belongings so they could hold a viewing.",
+     "what_institution_did": "The county withheld the body for nearly three weeks without explanation and would not release his things because an officer had shot him.",
+     "quote": "But the problem was the Los Angeles County wasn't returning his body. And they wouldn't explain why. They wouldn't give us any of his things because an officer had shot him. We were being treated like we did something wrong and they were basically in cover-up mode.",
+     "source": "s16-e8-memories-for-blessing @ 13:30",
+     "response": "protected_itself",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'It was nearly three weeks before we got his body'; he had to be cremated and the viewing was barely possible.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "prosecutor",
+     "institution": "criminal justice system (no prosecuting agency named)",
+     "initiated_by": "unclear",
+     "when": "after the death",
+     "what_was_asked": "Criminal accountability for the deputy (implicit).",
+     "what_institution_did": "No criminal charges were brought.",
+     "quote": "there wouldn't be any sort of legal charges given that police officers are protected against legal charges in most states from murder",
+     "source": "s16-e8-memories-for-blessing @ 23:53",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The family turned to a civil suit.",
+     "notes": "Relayed second-hand from the mother; who, if anyone, asked for charges is not stated."
+    },
+    {
+     "n": 5,
+     "institution_type": "other",
+     "institution": "Mayor of Paramount",
+     "initiated_by": "third_party",
+     "when": "about a month after the death (approximate)",
+     "what_was_asked": "The eyewitness asked the mayor to have the officer taken off service.",
+     "what_institution_did": "The mayor spoke to the officer, who was put on leave; per the witness he later returned and was promoted.",
+     "quote": "No the mayor went to the officer And that's when the officer bucked up a little bit and then got put on leave",
+     "source": "s16-e10-tikkun-olam @ 29:45",
+     "response": "acted_partly",
+     "basis": [
+      "second_witness"
+     ],
+     "what_happened_next": "Officer reportedly returned and was promoted.",
+     "notes": "Relayed by the co-producer from her phone call with the witness."
+    },
+    {
+     "n": 6,
+     "institution_type": "court",
+     "institution": "civil court (lawsuit against Los Angeles County Sheriff's Department, via a civil rights attorney)",
+     "initiated_by": "family_or_friends",
+     "when": "filed February 15, 2013; settled May 27, 2015",
+     "what_was_asked": "Damages and accountability for the killing, sought by the parents and Bobby's estate on behalf of his daughter.",
+     "what_institution_did": "The case ended in a recommended settlement about two years after filing; no finding against the deputy is described.",
+     "quote": "It does say it's a recommendation to settle for the lawsuit filed by [perpetrator] and [perpetrator]. And it does say they filed it on February 15th, 2013. So within one year, two, 15, 13, and then the settlement was reached May 27th, 2015.",
+     "source": "s16-e10-tikkun-olam @ 23:39",
+     "response": "acted_partly",
+     "basis": [
+      "record_checked_by_show",
+      "court_outcome"
+     ],
+     "what_happened_next": "The parents reportedly bought a home with the settlement; Tiffany suspects her father funded a new scam with it.",
+     "notes": "[perpetrator] here = Bobby's mother and father (perpetrators in other records), who were the plaintiffs. Settlement is money only; Tiffany notes the officer pays nothing."
+    },
+    {
+     "n": 7,
+     "institution_type": "police",
+     "institution": "Paramount Police Department / LAPD (records requests)",
+     "initiated_by": "journalist_or_podcast",
+     "when": "2023, during production",
+     "what_was_asked": "Records about the deputy and the case.",
+     "what_institution_did": "No outcome reported.",
+     "quote": "That's when I put out the email to the LAPD. I just filed for everything. Every option, checked every box, I don't know what will happen, but we'll find out.",
+     "source": "s16-e10-tikkun-olam @ 29:45",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Pending at season end.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": true,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P07",
+   "name": "Bobby (sheriff's deputy)",
+   "role_in_story": "co_victim",
+   "harm": "In 2012, aged 22 and in a mental health crisis after his car broke down near Paramount (Los Angeles County), he was shot twice in the chest at point blank range by a Los Angeles County sheriff's deputy who responded to a bystander's 5150 call; the witness says officers high-fived and said 'good job' as he lay dying.",
+   "perpetrator_role": "a Los Angeles County sheriff's deputy",
+   "perpetrator_convicted": "no",
+   "deceased": true,
+   "episodes": [
+    "s16-e1-spoiler-alert-its-all-fcked-up",
+    "s16-e2-raised-by-wolves",
+    "s16-e7-5150",
+    "s16-e8-memories-for-blessing",
+    "s16-ep9-taking-up-space",
+    "s16-e10-tikkun-olam",
+    "s16-e11-qa"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "harmed_by_institution",
+   "outcome_quote": "I'm pretty sure he said he got a promotion of some sort",
+   "outcome_source": "s16-e10-tikkun-olam @ 29:45",
+   "evidence_types": [
+    "second_witness",
+    "document_read_on_air",
+    "record_checked_by_show"
+   ],
+   "confidence": "medium",
+   "notes": "Died from the harm, which the institution itself inflicted; the settlement is recorded as a contact, not protection. The show names the deputy; omitted here. Police first described him as a Hispanic male. Bruising on his head was unexplained ('somebody said he probably fell on impact'). Bob's request to attend the funeral from prison was denied."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "child_protection",
+     "institution": "CPS",
+     "initiated_by": "unclear",
+     "when": "when Tony was younger",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "Not stated; Tiffany does not remember CPS coming.",
+     "quote": "There was actually a CPS call that was made at some point when Tony was younger, but I don't remember the CPS people coming to the house or myself being interviewed.",
+     "source": "s16-e2-raised-by-wolves @ 47:54",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Not stated.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "child_protection",
+     "institution": "CPS",
+     "initiated_by": "third_party",
+     "when": "Auburn house, after a physical altercation at a custody exchange",
+     "what_was_asked": "Assessment of Tony's safety after a CPS call (parents claimed his biological father made it).",
+     "what_institution_did": "Interviewed Tony separately and Tiffany (coached) and decided Tony could stay in either household.",
+     "quote": "CPS looked into it and they determined that it was safe enough for Tony, according to them, to continue to be in either household, which is very sad to think about",
+     "source": "s16-e2-raised-by-wolves @ 49:57",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Tony remained in both abusive households.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P08",
+   "name": "Tony (mother and stepfather)",
+   "role_in_story": "co_victim",
+   "harm": "As a child and teen, the 'scapegoat' half-brother was beaten by his mother and stepfather, punched, kicked and spat on by his mother, excluded from family life and used in their stories as a joke.",
+   "perpetrator_role": "his mother and his stepfather",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e1-spoiler-alert-its-all-fcked-up",
+    "s16-e2-raised-by-wolves",
+    "s16-e4-knock-at-the-door"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "yes",
+   "outcome": "not_protected",
+   "outcome_quote": "CPS looked into it and they determined that it was safe enough for Tony, according to them, to continue to be in either household, which is very sad to think about",
+   "outcome_source": "s16-e2-raised-by-wolves @ 49:57",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Harm ended as he grew up and moved away, not through any institution. Tony is not interviewed. The CPS decision could arguably be 'disbelieved', but the story shows only the determination."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "child_protection",
+     "institution": "CPS",
+     "initiated_by": "third_party",
+     "when": "Auburn house period",
+     "what_was_asked": "Assessment after a custody-exchange altercation.",
+     "what_institution_did": "Found it safe for Tony to stay in either household, including his father's.",
+     "quote": "CPS looked into it and they determined that it was safe enough for Tony, according to them, to continue to be in either household, which is very sad to think about",
+     "source": "s16-e2-raised-by-wolves @ 49:57",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No change shown.",
+     "notes": "Unclear whether the father's own abuse was raised with CPS."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P09",
+   "name": "Tony (biological father)",
+   "role_in_story": "co_victim",
+   "harm": "Physically abused by his biological father in Reno during custody time.",
+   "perpetrator_role": "his biological father",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e1-spoiler-alert-its-all-fcked-up",
+    "s16-e2-raised-by-wolves"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "unclear",
+   "outcome": "not_protected",
+   "outcome_quote": "What I knew about Tony's dad was that he was also very physically abusive towards Tony",
+   "outcome_source": "s16-e1-spoiler-alert-its-all-fcked-up @ 47:26",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Hearsay; Tiffany 'would hear stories' of this abuse."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Placer County Sheriff's Office / prosecution of the stepfather",
+     "initiated_by": "institution",
+     "when": "2007 raid and after",
+     "what_was_asked": "Investigation of the business (driven by elder-fraud complaints).",
+     "what_institution_did": "Investigators interviewed his mother; per Tiffany, as part of avoiding charges she was required to repay some money, and she paid part of the debt in Tony's name.",
+     "quote": "I do know that she paid part of the money that they had racked up under Tony's name.",
+     "source": "s16-e6-cons-gonna-con @ 17:55",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Stepfather imprisoned for elder abuse; no charge for the identity theft is documented.",
+     "notes": "Tiffany believes repayment was a condition imposed on the mother; she says she does not know exactly what took place."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "I do know that she paid part of the money that they had racked up under Tony's name.",
+   "decisive_work_source": "s16-e6-cons-gonna-con @ 17:55",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P10",
+   "name": "Tony (identity theft)",
+   "role_in_story": "co_victim",
+   "harm": "As an adult, his stepfather ran the National Medical Services business in Tony's name beyond what Tony had agreed to, posing as him and racking up thousands of dollars of debt that destroyed his credit.",
+   "perpetrator_role": "his stepfather (with his mother's knowledge, per Tiffany)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e5-paperwork-fckery",
+    "s16-e6-cons-gonna-con",
+    "s16-e10-tikkun-olam"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "unclear",
+   "outcome": "partly_protected",
+   "outcome_quote": "I do know that she paid part of the money that they had racked up under Tony's name. She had paid some of it back.",
+   "outcome_source": "s16-e6-cons-gonna-con @ 17:55",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Tiffany told Tony what was happening; he replied 'okay'. Whether Tony reported anything is not stated."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "prosecutor",
+     "institution": "California Attorney General's Office, Special Crimes Unit (with the Department of Corporations)",
+     "initiated_by": "unclear",
+     "when": "1999-2003",
+     "what_was_asked": "Investigation of securities fraud.",
+     "what_institution_did": "A special agent interviewed 25 alleged victims; Harry testified at the preliminary hearing.",
+     "quote": "Due to Harry's advanced age, he was able to testify at the preliminary trial, but by the time the actual trial started, Harry had passed away",
+     "source": "s16-e3-something-was-wrong @ 45:49",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Case went to trial; his testimony was read in.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "court (October 2003 convictions)",
+     "initiated_by": "institution",
+     "when": "October 2003",
+     "what_was_asked": "Criminal conviction.",
+     "what_institution_did": "Convicted the perpetrator of four counts under Corporations Code 25110.",
+     "quote": "So in October of 2003, [perpetrator] was convicted of four counts of violating corporations code section 25110.",
+     "source": "s16-e3-something-was-wrong @ 37:30",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Probation, later violated; jail time.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "other",
+     "institution": "a receiver who liquidated the company holding the CDs",
+     "initiated_by": "unclear",
+     "when": "not stated",
+     "what_was_asked": "Return of his money.",
+     "what_institution_did": "He recovered $24,931.26 of his $30,000.",
+     "quote": "Eventually, Harry recovered $24,931 and 26 cents of his initial investment after a receiver liquidated the company that held title to the CDs that held Harry's money.",
+     "source": "s16-e3-something-was-wrong @ 44:40",
+     "response": "acted_partly",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Lost about $5,000.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [
+    "the_person",
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "Due to Harry's advanced age, he was able to testify at the preliminary trial, but by the time the actual trial started, Harry had passed away",
+   "decisive_work_source": "s16-e3-something-was-wrong @ 45:49",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P11",
+   "name": "Harry F.",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "An 80-year-old man sold a 25/30-year certificate of deposit when he asked for a 3-year CD with $30,000; stonewalled when he tried to get out; lost about $5,000 plus taxes on interest never received.",
+   "perpetrator_role": "Tiffany's father (his financial adviser/salesman)",
+   "perpetrator_convicted": "yes",
+   "deceased": true,
+   "episodes": [
+    "s16-e3-something-was-wrong"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "unclear",
+   "outcome": "protected",
+   "outcome_quote": "So in October of 2003, [perpetrator] was convicted of four counts of violating corporations code section 25110.",
+   "outcome_source": "s16-e3-something-was-wrong @ 37:30",
+   "evidence_types": [
+    "document_read_on_air",
+    "record_checked_by_show",
+    "conviction"
+   ],
+   "confidence": "medium",
+   "notes": "Source: 2009 appeal read on air. He died of age before trial (not from the harm). Who first reported is not stated; Harry 'continued to pursue the matter' with the perpetrator himself. Whether his own count was among the four convictions is not stated."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Placer County Sheriff's Office (investigator) and Placer County DA",
+     "initiated_by": "institution",
+     "when": "from August 2007",
+     "what_was_asked": "Investigation and prosecution.",
+     "what_institution_did": "Executed a search warrant at the store, investigated extensively, interviewed the victims and testified at trial.",
+     "quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+     "source": "s16-e10-tikkun-olam @ 15:26",
+     "response": "believed_and_acted",
+     "basis": [
+      "institution_statement",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Prosecuted quickly to verdict.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "Placer County Superior Court (jury trial)",
+     "initiated_by": "institution",
+     "when": "about 2008",
+     "what_was_asked": "Criminal conviction.",
+     "what_institution_did": "Jury convicted on five counts of financial elder abuse and five of grand theft; state prison sentence.",
+     "quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+     "source": "s16-e10-tikkun-olam @ 5:17",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Perpetrator appealed.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "California Court of Appeal, Third District",
+     "initiated_by": "institution",
+     "when": "April 29, 2009",
+     "what_was_asked": "Defendant's appeal.",
+     "what_institution_did": "Affirmed the judgment.",
+     "quote": "We shall affirm the judgment so they denied his appeal.",
+     "source": "s16-e10-tikkun-olam @ 6:18",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Sentence stood.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+   "decisive_work_source": "s16-e10-tikkun-olam @ 15:26",
+   "time_to_first_effective_action": "search warrant executed August 2007, about five months after her March 2007 purchase",
+   "months_to_first_effective_action": 5,
+   "contacts_before_first_effective_action": 0,
+   "person_id": "P12",
+   "name": "[unnamed] 83-year-old housebound woman (lift chair)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Paid for a lift chair in March 2007; was strung along for months with stories (the chair burned in a truck fire) and never received the chair or a refund.",
+   "perpetrator_role": "Tiffany's father, via his store National Medical Services",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s16-e6-cons-gonna-con",
+    "s16-e7-5150",
+    "s16-e10-tikkun-olam"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "protected",
+   "outcome_quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+   "outcome_source": "s16-e10-tikkun-olam @ 5:17",
+   "evidence_types": [
+    "document_read_on_air",
+    "record_checked_by_show",
+    "conviction"
+   ],
+   "confidence": "medium",
+   "notes": "Her daughter took her to the store and helped chase the order. The story does not say who reported her case; outcome 'protected' rests on the conviction - she never received the chair or her money back. Months figure measured from purchase."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "other",
+     "institution": "their credit card company's fraud department",
+     "initiated_by": "person",
+     "when": "2007, two days after an unauthorized $3,901 charge",
+     "what_was_asked": "Reversal of an unauthorized charge.",
+     "what_institution_did": "Reversed the charge.",
+     "quote": "They contacted the credit card company, fraud department, and eventually the charge got reversed.",
+     "source": "s16-e10-tikkun-olam @ 8:21",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Trailer was also fraudulently registered in a business owned by the perpetrator's ex-wife.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Placer County Sheriff's Office (investigator) and Placer County DA",
+     "initiated_by": "institution",
+     "when": "from August 2007",
+     "what_was_asked": "Investigation and prosecution.",
+     "what_institution_did": "Executed a search warrant at the store, investigated extensively, interviewed the victims and testified at trial.",
+     "quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+     "source": "s16-e10-tikkun-olam @ 15:26",
+     "response": "believed_and_acted",
+     "basis": [
+      "institution_statement",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Prosecuted quickly to verdict.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "Placer County Superior Court (jury trial)",
+     "initiated_by": "institution",
+     "when": "about 2008",
+     "what_was_asked": "Criminal conviction.",
+     "what_institution_did": "Jury convicted on five counts of financial elder abuse and five of grand theft; state prison sentence.",
+     "quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+     "source": "s16-e10-tikkun-olam @ 5:17",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Perpetrator appealed.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "court",
+     "institution": "California Court of Appeal, Third District",
+     "initiated_by": "institution",
+     "when": "April 29, 2009",
+     "what_was_asked": "Defendant's appeal.",
+     "what_institution_did": "Affirmed the judgment.",
+     "quote": "We shall affirm the judgment so they denied his appeal.",
+     "source": "s16-e10-tikkun-olam @ 6:18",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Sentence stood.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+   "decisive_work_source": "s16-e10-tikkun-olam @ 15:26",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 0,
+   "person_id": "P13",
+   "name": "[unnamed] 83-year-old man (scooter trailer)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Bought a trailer for his motorized scooter; was hit with an unauthorized $3,901 credit card charge and the trailer's title was registered in another business's name.",
+   "perpetrator_role": "Tiffany's father, via his store National Medical Services",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s16-e6-cons-gonna-con",
+    "s16-e7-5150",
+    "s16-e10-tikkun-olam"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "protected",
+   "outcome_quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+   "outcome_source": "s16-e10-tikkun-olam @ 5:17",
+   "evidence_types": [
+    "document_read_on_air",
+    "record_checked_by_show",
+    "conviction"
+   ],
+   "confidence": "medium",
+   "notes": "Joint victim with his 81-year-old wife (P14). The fraud-department reversal is coded as the first effective action; dates not given."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "other",
+     "institution": "their credit card company's fraud department",
+     "initiated_by": "person",
+     "when": "2007, two days after an unauthorized $3,901 charge",
+     "what_was_asked": "Reversal of an unauthorized charge.",
+     "what_institution_did": "Reversed the charge.",
+     "quote": "They contacted the credit card company, fraud department, and eventually the charge got reversed.",
+     "source": "s16-e10-tikkun-olam @ 8:21",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Trailer was also fraudulently registered in a business owned by the perpetrator's ex-wife.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Placer County Sheriff's Office (investigator) and Placer County DA",
+     "initiated_by": "institution",
+     "when": "from August 2007",
+     "what_was_asked": "Investigation and prosecution.",
+     "what_institution_did": "Executed a search warrant at the store, investigated extensively, interviewed the victims and testified at trial.",
+     "quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+     "source": "s16-e10-tikkun-olam @ 15:26",
+     "response": "believed_and_acted",
+     "basis": [
+      "institution_statement",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Prosecuted quickly to verdict.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "Placer County Superior Court (jury trial)",
+     "initiated_by": "institution",
+     "when": "about 2008",
+     "what_was_asked": "Criminal conviction.",
+     "what_institution_did": "Jury convicted on five counts of financial elder abuse and five of grand theft; state prison sentence.",
+     "quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+     "source": "s16-e10-tikkun-olam @ 5:17",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Perpetrator appealed.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "court",
+     "institution": "California Court of Appeal, Third District",
+     "initiated_by": "institution",
+     "when": "April 29, 2009",
+     "what_was_asked": "Defendant's appeal.",
+     "what_institution_did": "Affirmed the judgment.",
+     "quote": "We shall affirm the judgment so they denied his appeal.",
+     "source": "s16-e10-tikkun-olam @ 6:18",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Sentence stood.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+   "decisive_work_source": "s16-e10-tikkun-olam @ 15:26",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 0,
+   "person_id": "P14",
+   "name": "[unnamed] 81-year-old woman (scooter trailer, wife)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "With her 83-year-old husband, defrauded over a scooter trailer: unauthorized $3,901 credit card charge and misregistered title.",
+   "perpetrator_role": "Tiffany's father, via his store National Medical Services",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s16-e6-cons-gonna-con",
+    "s16-e7-5150",
+    "s16-e10-tikkun-olam"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "protected",
+   "outcome_quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+   "outcome_source": "s16-e10-tikkun-olam @ 5:17",
+   "evidence_types": [
+    "document_read_on_air",
+    "record_checked_by_show",
+    "conviction"
+   ],
+   "confidence": "medium",
+   "notes": "Joint victim with her husband (P13); same contacts."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "unnamed authority (presumably law enforcement)",
+     "initiated_by": "person",
+     "when": "2007, while the perpetrator was in jail",
+     "what_was_asked": "Report that she paid $800 cash for a car lift never delivered.",
+     "what_institution_did": "Took her report; her case became part of the prosecution.",
+     "quote": "When she did not receive it, she called again. This time defendant told her of the business in Florida was behind and it would take longer for the lift to arrive when she was still waiting. The defendant was in jail. She called and made a report of defendant's actions regarding the list.",
+     "source": "s16-e10-tikkun-olam @ 10:25",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Included among the convicted counts (inferred from the appeal summary).",
+     "notes": "Which agency received the report is not named."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Placer County Sheriff's Office (investigator) and Placer County DA",
+     "initiated_by": "institution",
+     "when": "from August 2007",
+     "what_was_asked": "Investigation and prosecution.",
+     "what_institution_did": "Executed a search warrant at the store, investigated extensively, interviewed the victims and testified at trial.",
+     "quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+     "source": "s16-e10-tikkun-olam @ 15:26",
+     "response": "believed_and_acted",
+     "basis": [
+      "institution_statement",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Prosecuted quickly to verdict.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "Placer County Superior Court (jury trial)",
+     "initiated_by": "institution",
+     "when": "about 2008",
+     "what_was_asked": "Criminal conviction.",
+     "what_institution_did": "Jury convicted on five counts of financial elder abuse and five of grand theft; state prison sentence.",
+     "quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+     "source": "s16-e10-tikkun-olam @ 5:17",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Perpetrator appealed.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "court",
+     "institution": "California Court of Appeal, Third District",
+     "initiated_by": "institution",
+     "when": "April 29, 2009",
+     "what_was_asked": "Defendant's appeal.",
+     "what_institution_did": "Affirmed the judgment.",
+     "quote": "We shall affirm the judgment so they denied his appeal.",
+     "source": "s16-e10-tikkun-olam @ 6:18",
+     "response": "believed_and_acted",
+     "basis": [
+      "document_read_on_air",
+      "court_outcome"
+     ],
+     "what_happened_next": "Sentence stood.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [
+    "institution",
+    "the_person"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "talked to Mr. [perpetrator], the victims, and witnesses, and took the stand at trial.",
+   "decisive_work_source": "s16-e10-tikkun-olam @ 15:26",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 0,
+   "person_id": "P15",
+   "name": "[unnamed] 74-year-old woman who uses a wheelchair (car lift)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Paid $800 cash (borrowed from her sister-in-law) for a lift for her car; was told of hurricanes and delays and never received it.",
+   "perpetrator_role": "Tiffany's father, via his store National Medical Services",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s16-e6-cons-gonna-con",
+    "s16-e7-5150",
+    "s16-e10-tikkun-olam"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "protected",
+   "outcome_quote": "The trial court sentenced defendant on the financial elder abuse case to state prison for the upper term of four years on count one and to a consecutive one year term on each of the other counts.",
+   "outcome_source": "s16-e10-tikkun-olam @ 5:17",
+   "evidence_types": [
+    "document_read_on_air",
+    "record_checked_by_show",
+    "conviction"
+   ],
+   "confidence": "medium",
+   "notes": "Her report came after the perpetrator was already jailed; 'protected' rests on the conviction, no restitution is mentioned. contacts_before_first_effective_action = 0 (her report is coded as contributing)."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "court (sentencing hearing)",
+     "initiated_by": "family_or_friends",
+     "when": "about 16 years after the murder (2023)",
+     "what_was_asked": "Justice; the daughter delivered a victim impact statement.",
+     "what_institution_did": "Held the hearing at which she read her statement; 'justice' was received.",
+     "quote": "And she shares about what that day and weeks leading up to that day were like for her all of the wild twists and turns that even brought her to knowing that this event in court was taking place, and how everything came together about sharing her victim impact statement, and the justice that was received, but also the cost of the justice that she received.",
+     "source": "s16-e4-knock-at-the-door @ 2:01",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Told fully in a separate show episode, not this season.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P16",
+   "name": "[unnamed] co-producer's mother",
+   "role_in_story": "other",
+   "harm": "Murdered by her son (the co-producer's brother) about 16 years before her daughter read a victim impact statement in court.",
+   "perpetrator_role": "her son",
+   "perpetrator_convicted": "yes",
+   "deceased": true,
+   "episodes": [
+    "s16-e4-knock-at-the-door",
+    "s16-e10-tikkun-olam"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "not_protected",
+   "outcome_quote": "And she shares about what that day and weeks leading up to that day were like for her all of the wild twists and turns that even brought her to knowing that this event in court was taking place, and how everything came together about sharing her victim impact statement, and the justice that was received, but also the cost of the justice that she received.",
+   "outcome_source": "s16-e4-knock-at-the-door @ 2:01",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Killed by the harm, so any conviction is not protection. 'Conviction' is inferred from 'the justice that was received'; details belong to another programme. Also 'I lost my mom' (e10 @ 19:34)."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P17",
+   "name": "Jenna Jean",
+   "role_in_story": "update_or_listener_story",
+   "harm": "Dated a narcissistic, emotionally abusive liar (her story was told in season 15, episode 6).",
+   "perpetrator_role": "a former dating partner",
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "episodes": [
+    "s16-e11-qa"
+   ],
+   "reached_institution": "unclear",
+   "harm_ongoing_at_first_contact": "unclear",
+   "outcome": "not_protected",
+   "outcome_quote": "In my episode, I mentioned how after my experience of dating a narcissistic, emotionally abusive liar, I stopped dating for a really long time. I'm actually just now starting to get back into the dating scene.",
+   "outcome_source": "s16-e11-qa @ 22:08",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Q&A question only; nothing is said about institutions, so 'not_protected' just means no institutional action is described here."
+  },
+  {
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "court that convicted him",
+     "initiated_by": "institution",
+     "when": "1994",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "Convicted him of a crime he did not commit.",
+     "quote": "who spent over 29 years incarcerated for a crime he did not commit.",
+     "source": "s16-e11-qa @ 3:29",
+     "response": "blamed_punished_or_counter_accused",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "29 years in prison.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "courts/authorities that released him",
+     "initiated_by": "unclear",
+     "when": "May 2023",
+     "what_was_asked": "Release.",
+     "what_institution_did": "He was released from prison.",
+     "quote": "The victim of the crime spent decades trying to be heard and for the truth to get out and he ended up being released from prison in May.",
+     "source": "s16-e11-qa @ 3:29",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Interviewed for a future episode.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": true,
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "unclear",
+   "decisive_work_quote": "The victim of the crime spent decades trying to be heard and for the truth to get out",
+   "decisive_work_source": "s16-e11-qa @ 3:29",
+   "time_to_first_effective_action": "over 29 years after conviction",
+   "months_to_first_effective_action": 348,
+   "contacts_before_first_effective_action": 1,
+   "person_id": "P18",
+   "name": "Patrick Brown",
+   "role_in_story": "update_or_listener_story",
+   "harm": "Wrongfully convicted in 1994 and incarcerated for over 29 years for a crime he did not commit.",
+   "perpetrator_role": "the criminal justice system that convicted him",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s16-e11-qa"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "yes",
+   "outcome": "protected",
+   "outcome_quote": "The victim of the crime spent decades trying to be heard and for the truth to get out and he ended up being released from prison in May.",
+   "outcome_source": "s16-e11-qa @ 3:29",
+   "evidence_types": [
+    "record_checked_by_show"
+   ],
+   "confidence": "low",
+   "notes": "Mentioned in Q&A as the subject of a future episode; episode notes cite the National Registry of Exonerations. The harm was inflicted by an institution. The victim of the original crime pushed for decades for the truth; that person fits none of the contributor codes, so decisive_work_by is 'unclear'."
+  }
+ ],
+ "others_mentioned": [
+  {
+   "description": "other alleged victims of Tiffany's father's 2003 securities (CD) fraud, aged 62-78, interviewed by a special agent (25 including Harry F.)",
+   "count_stated": 25,
+   "reached_institution": "yes",
+   "quote": "So your time he had 25 victims in this case that they interviewed.",
+   "source": "s16-e3-something-was-wrong @ 41:37"
+  },
+  {
+   "description": "the fifth elderly National Medical Services victim in the 2009 appeal, not described on air",
+   "count_stated": 5,
+   "reached_institution": "yes",
+   "quote": "financially abused five elderly victims who came to him to purchase products to assist their mobility.",
+   "source": "s16-e10-tikkun-olam @ 4:13"
+  },
+  {
+   "description": "a family whose elderly relative going into hospice was delivered a used, incomplete hospital bed",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "This was for their elderly relative who was, I believe, coming home from the hospital the next week, going into hospice care.",
+   "source": "s16-e6-cons-gonna-con @ 13:49"
+  },
+  {
+   "description": "people defrauded nationwide by a family friend's missing-children charity scheme (federal indictment, 1997)",
+   "count_stated": null,
+   "reached_institution": "yes",
+   "quote": "It says a Carmichael man was accused Thursday by a federal grand jury of using heightened concern about missing children in the mid 90s to swindle people nationwide out of 2.8 million.",
+   "source": "s16-e1-spoiler-alert-its-all-fcked-up @ 36:59"
+  },
+  {
+   "description": "investors in the same family friend's earlier magazine venture (state civil suit settled)",
+   "count_stated": 40,
+   "reached_institution": "yes",
+   "quote": "At least 40 investors statewide paid 750,000 for stock in that venture.",
+   "source": "s16-e1-spoiler-alert-its-all-fcked-up @ 40:08"
+  },
+  {
+   "description": "a restaurant worker Tiffany's father threw a hot pizza at",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "he got so enraged that he threw the extremely hot pizza on the person who worked their face.",
+   "source": "s16-e1-spoiler-alert-its-all-fcked-up @ 31:48"
+  },
+  {
+   "description": "Tiffany's former friend, girlfriend of the man who assaulted Tiffany, from whose house police once removed him",
+   "count_stated": 1,
+   "reached_institution": "yes",
+   "quote": "the last time I saw him, the police were removing him from my house, so this doesn't surprise me.",
+   "source": "s16-e4-knock-at-the-door @ 33:47"
+  },
+  {
+   "description": "the assailant's sister (Tiffany speculates he may have abused her)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "I wonder if he abused his sister, or if he had done something that she knew about",
+   "source": "s16-e4-knock-at-the-door @ 35:50"
+  },
+  {
+   "description": "Tiffany's oldest half-brother, a 'forgotten child' of her father's first marriage",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "It was like [perpetrator] just wanted to forget he ever existed because it didn't fit his narrative.",
+   "source": "s16-e4-knock-at-the-door @ 7:15"
+  },
+  {
+   "description": "Tiffany's mother as a child, abused by her own brothers",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "What I know about them is that they were abusive and that my mom didn't have a relationship with them",
+   "source": "s16-e1-spoiler-alert-its-all-fcked-up @ 12:09"
+  }
+ ],
+ "coder_notes": "Season 16 is the host's own memoir season (Tiffany Reese). All seven chunk files were read in full to their last lines. The season's one-line-per-segment structure meant files were read in 25-30-line parts. Main institutional threads: CPS and police contacts in childhood (no protective action; child coached by father), her brother Bobby's 2012 killing by a Los Angeles County sheriff's deputy (counter-accusation, body withheld, no charges, officer briefly on leave, civil settlement 2015), and her father's prosecutions for elder securities fraud (2003) and financial elder abuse via National Medical Services (convicted, upheld on appeal 2009). The father is a perpetrator against his children and against the elder victims; the elder victims' records rest on the appeal document read on air. Judgment calls flagged in notes: inclusion of Tiffany's school bullying and employer firing as separate harms, Q&A items (Jenna Jean, Patrick Brown), the co-producer's mother, and the decision not to code the SWAT raid (Tiffany held at gunpoint at 19) as a response to her own harm. Perpetrator names are replaced with [perpetrator] in quotes; in P07 contact 6 the [perpetrator] placeholders are Bobby's parents (plaintiffs there, perpetrators in other records). Unassigned episodes not opened: their titles and descriptions concern unrelated topics."
+}
