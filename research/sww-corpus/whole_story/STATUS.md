@@ -24,6 +24,9 @@ read to its last line, quotations verified against the transcripts with `tools/c
 - S24 B: 6 of 199 quotations below the 0.8 match bar, several on coded responses — check by hand.
 - Coders differ on what counts as an institution (restaurant staff, a president's remarks) and on
   person-finding (host/listener asides). These show up as disagreement; do not override codes.
+- Naming (S-21): some quotations keep a non-victim's first name (e.g. S15 A, an agency owner),
+  because the instructions only required replacing perpetrator names. Scrub non-victim names from
+  any quotation before it is published in RESULTS.md or elsewhere.
 - Isolation of coders is by instruction; several wrote helper scripts outside their folder.
 
 ## Rebuilding the transcripts in a new container

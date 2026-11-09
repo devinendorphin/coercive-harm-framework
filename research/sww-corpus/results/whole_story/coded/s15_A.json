@@ -1,0 +1,2413 @@
+{
+ "season": 15,
+ "coder": "A",
+ "reading_log": [
+  {
+   "file": "s15_01.txt",
+   "last_line_number": 100,
+   "read_in_full": true,
+   "problems": "Read in parts across several sessions; notes kept after each file."
+  },
+  {
+   "file": "s15_02.txt",
+   "last_line_number": 113,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s15_03.txt",
+   "last_line_number": 112,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s15_04.txt",
+   "last_line_number": 98,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s15_05.txt",
+   "last_line_number": 113,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s15_06.txt",
+   "last_line_number": 121,
+   "read_in_full": true,
+   "problems": "Reading tool showed an empty line 122 after line 121; line 121 is the last content line."
+  },
+  {
+   "file": "s15_07.txt",
+   "last_line_number": 113,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s15_08.txt",
+   "last_line_number": 87,
+   "read_in_full": true,
+   "problems": ""
+  }
+ ],
+ "unassigned_checked": [
+  {
+   "slug": "INDEX.txt",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "required list of unassigned episodes"
+  },
+  {
+   "slug": "data-points-stalking-featuring-lenora-claire",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "possible discussion of stalking/cyberstalking cases such as Lex Fitzgerald's; on reading, it contains only general statistics and resources and mentions no Season 15 person"
+  },
+  {
+   "slug": "data-points-cons-schemes-fraud",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "possible discussion of fraud/impersonation stories (Jenna Jean, Season 9 updates); on reading, it contains only general statistics and resources and mentions no Season 15 person"
+  },
+  {
+   "slug": "data-points-false-reporting-and-its-impact-on-survivors",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "possible discussion of false CPS reports (Lex) or disbelief of survivors; on reading, it contains only general statistics and resources and mentions no Season 15 person"
+  },
+  {
+   "slug": "data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "possible discussion of doxxing/cyber harassment or online child exploitation (Lex, Diana); on reading, it contains only general statistics and resources and mentions no Season 15 person"
+  },
+  {
+   "slug": "data-points-how-social-media-impacts-our-mental-health-featuring-dr-corey-emanuel",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "possible discussion of cyberbullying of creators (Lex, Jenna Jean); on reading, it contains only general statistics and resources and mentions no Season 15 person"
+  }
+ ],
+ "persons": [
+  {
+   "person_id": "P01",
+   "name": "Holly Madison",
+   "role_in_story": "central_survivor",
+   "harm": "Moved into the Playboy Mansion as one of the founder's live-in girlfriends; sexually coerced on her first night while heavily intoxicated, then subjected to years of control (curfew, banned from working, rules), triangulation, surveillance by his security, unpaid labour on the TV show, and verbal and emotional abuse.",
+   "perpetrator_role": "her much older live-in boyfriend, the Playboy founder",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e1-holly-madison-theyre-not-bobbleheads"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other",
+     "fear_of_abuser",
+     "did_not_know_it_was_abuse"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "And people think that's a little strange because I talk about a situation where boundaries were crossed. And people assume you would just want to run away from that. But I didn't have anywhere to live.",
+      "source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 16:42"
+     },
+     {
+      "reason": "fear_of_abuser",
+      "quote": "it was always super important to me when I was talking about [perpetrator] to the press to Say really positive things not only because I cared about him But because I didn't want to get in trouble",
+      "source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 53:59"
+     },
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "In the beginning, I fell for it, hook line and sinker. I thought the problem was all the other women.",
+      "source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 31:09"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "I left, and it was emotionally harrowing for me because I did feel very, very guilty. He had trained me well.",
+   "outcome_source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 60:08",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "The perpetrator is referred to on air by transcribed forms of his nickname; not recorded here. The only institution-like contact was Holly going to his secretary's office with receipts about being unpaid for the TV show (@44:39-45:42; the secretary 'called somebody and made something happen'); this concerned pay, not the sexual/emotional abuse, so it is not coded as the harm reaching an institution. The production company (the show) is an employer-like body but the abuse was not raised with it. Holly also mentions going 'straight from one really controlling relationship to another' (next boyfriend, security following her, @61:08) but the season tells nothing further, so no separate record. Family were not told: 'I'm not comfortable talking about anything like that with my family, so they didn't know.' (@24:58)."
+  },
+  {
+   "person_id": "P02",
+   "name": "Valentina",
+   "role_in_story": "central_survivor",
+   "harm": "As a college senior walking home at night she was strangled unconscious, threatened with a knife and raped by a stranger in an alley; she suffered a concussion.",
+   "perpetrator_role": "a stranger, later identified as a serial rapist from the college town",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s15-e2-valentina-wait-youre-supposed-to-help-me"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "local police (responding officer)",
+     "initiated_by": "person",
+     "when": "immediately after the attack, that night",
+     "what_was_asked": "help after being attacked",
+     "what_institution_did": "Came quickly and questioned her, but the officer checked her friend's phone and asked whether she 'does this a lot', and told her father she was hiding things.",
+     "quote": "One thing that was sort of odd was when she came in that police officer that had come to talk to me initially he stopped her and asked to see her phone and look through her text and saw that I texted her that I was attacked and he said does she do this a lot.",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 12:25",
+     "response": "disbelieved",
+     "basis": [
+      "person_account",
+      "second_witness"
+     ],
+     "what_happened_next": "She was taken to hospital; the same officer later took over her case as detective.",
+     "notes": "Same night: 'the officer ended up getting mad at my dad and saying that I wasn't being forthright with my information and that I was hiding things which was not true.' (@13:26). Friend was a witness to the phone check (as recounted by Valentina)."
+    },
+    {
+     "n": 2,
+     "institution_type": "medical_or_therapy",
+     "institution": "ambulance and hospital",
+     "initiated_by": "institution",
+     "when": "the same night",
+     "what_was_asked": "medical care",
+     "what_institution_did": "Took her by ambulance to hospital, where a rape kit was done.",
+     "quote": "he was trying to talk to the officer, trying to get a timeline just because he didn't want to be around me in the hospital when I was getting things like the rape kit done",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 12:25",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She went home with her parents to finish the semester at home.",
+     "notes": "Concussion recognised only later by Valentina herself."
+    },
+    {
+     "n": 3,
+     "institution_type": "school_or_university",
+     "institution": "her university professors",
+     "initiated_by": "person",
+     "when": "rest of that semester",
+     "what_was_asked": "to finish coursework from home",
+     "what_institution_did": "Most teachers accommodated her; one psychology professor suggested she take the semester off.",
+     "quote": "most of the teachers that I reached out to about doing homework and things like that and getting information at home because of what happened were very, very willing to work with me except for one of my psychology professors was like, you should think about taking this semester off.",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 13:26",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She graduated on time.",
+     "notes": "One professor's response would be closer to did_nothing_or_delayed."
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "local police officers investigating",
+     "initiated_by": "institution",
+     "when": "in the following weeks",
+     "what_was_asked": "to find out who attacked her",
+     "what_institution_did": "Treated her and her family as if they were hiding things; claimed the man she had been with was not cooperating, which he denied.",
+     "quote": "The officers were saying that he wasn't participating and when I reached out to him, he said that wasn't true. He had given them all the samples that they requested. So a lot of it was strange, especially how the officers acted towards me and my family at that time, they acted like I was hiding things that everyone was hiding things.",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 14:27",
+     "response": "disbelieved",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No suspect was identified.",
+     "notes": "'If felt like they thought I was just a drunk girl that passed out on the middle of the road' (@15:32); 'The way they handled the situation was like, I was completely in the wrong' (@15:32) - also supports blamed_punished_or_counter_accused."
+    },
+    {
+     "n": 5,
+     "institution_type": "school_or_university",
+     "institution": "university president",
+     "initiated_by": "family_or_friends",
+     "when": "after the attack",
+     "what_was_asked": "her father wrote in frustration at the police handling",
+     "what_institution_did": "The president had not known and expressed sympathy; no further step shown.",
+     "quote": "It was technically off campus, so my dad, he ended up writing a letter to the president because he was so frustrated. The president didn't know anything about this and it was like, I'm so sorry this happened.",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 16:32",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Nothing further described.",
+     "notes": ""
+    },
+    {
+     "n": 6,
+     "institution_type": "victim_services",
+     "institution": "an advocate center",
+     "initiated_by": "person",
+     "when": "after the attack",
+     "what_was_asked": "help and support",
+     "what_institution_did": "Told her she had already done everything right; not as helpful as hoped.",
+     "quote": "There was an advocate center that someone referred me to and I walked there and they told me that I was doing everything right basically and that I had already done everything they would have told me to do. It wasn't as helpful as I would have hoped",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 16:32",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": ""
+    },
+    {
+     "n": 7,
+     "institution_type": "police",
+     "institution": "police detectives",
+     "initiated_by": "institution",
+     "when": "during the investigation",
+     "what_was_asked": "investigation of the attack",
+     "what_institution_did": "A detective said he believed her, but was replaced by the original responding officer, who was defensive; the investigation went nowhere.",
+     "quote": "I ended up talking to a specific detective during most of that initially and he ended up saying to me at one point I believe something happened to you which was sort of amazing for me to hear",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 17:36",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'That detective ended up being switched out. The new detective was the police officer that had initially responded to my case.' He was 'very defensive and not pleasant to work with.' Case unsolved.",
+     "notes": ""
+    },
+    {
+     "n": 8,
+     "institution_type": "medical_or_therapy",
+     "institution": "therapist",
+     "initiated_by": "person",
+     "when": "right after the attack",
+     "what_was_asked": "therapy",
+     "what_institution_did": "Provided therapy.",
+     "quote": "I had been seeing a therapist right after that happened and I thought I felt better",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 18:36",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": ""
+    },
+    {
+     "n": 9,
+     "institution_type": "police",
+     "institution": "local police",
+     "initiated_by": "person",
+     "when": "after news of a serial rapist's arrest in a neighbouring town",
+     "what_was_asked": "whether the arrested man had been considered for her case",
+     "what_institution_did": "Said he was the top suspect they thought of, but had never contacted her.",
+     "quote": "And like, oh, yeah, you're of the top one we thought of when all this came down and I was just like, I don't understand why no one called B or anything like that, but okay.",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 24:49",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She was not told about the court case.",
+     "notes": ""
+    },
+    {
+     "n": 10,
+     "institution_type": "court",
+     "institution": "court/prosecution (caller not specified)",
+     "initiated_by": "institution",
+     "when": "after the serial rapist's court case",
+     "what_was_asked": "",
+     "what_institution_did": "He pleaded/admitted to attacks including hers (uncharged); someone called to tell her and apologise; he was sentenced to 40 years.",
+     "quote": "He admitted to having attacked these women and they got his statement about other women that he wasn't charged for and one of them ended up being me, which it was crazy because that was the first time that someone had called me and been like, hey, so he admitted to what he did to you and we're so, so sorry this happened.",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 24:49",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "'He ended up getting 40 years in prison.' (@25:52) She receives updates on where he is held.",
+     "notes": "Her own attack was not charged; the conviction came through other victims."
+    },
+    {
+     "n": 11,
+     "institution_type": "medical_or_therapy",
+     "institution": "new therapist",
+     "initiated_by": "person",
+     "when": "after the arrest news",
+     "what_was_asked": "therapy",
+     "what_institution_did": "Found a therapist who helped.",
+     "quote": "I went back to therapy and I ended up finding a therapist that really made me feel feel better",
+     "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 26:54",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": true,
+   "outcome": "partly_protected",
+   "outcome_quote": "Almost nine years later. He is in prison I still get the updates of where he's at and everything.",
+   "outcome_source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 26:54",
+   "protection_contributors": [
+    "other_victims",
+    "institution"
+   ],
+   "decisive_work_by": "other_victims",
+   "decisive_work_quote": "One of his victims, the one who ended up getting the rape kit done and knew who he was, was a friend of his girlfriend at the time. He had finally attacked someone that knew who he was, which is how he was discovered.",
+   "decisive_work_source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 22:44",
+   "time_to_first_effective_action": "years later, after her graduation, when he was caught for another attack",
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 9,
+   "evidence_types": [
+    "conviction",
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Coded partly_protected: the attacker is imprisoned for 40 years (protecting others and her), but her own case was never charged and police treated her as untruthful; the identification came via another victim and DNA testing. harmed_by_institution_ever true because police treated her as the wrongdoer ('it was like I was the one who was in the wrong', @15:32). Decisive work could alternatively be 'institution' (DNA testing linked him to the college attacks, @18:36). Decisive-work quote timestamp: the passage begins at [22:44] and continues into [23:48]. Other victims (4-6 per papers) recorded under others_mentioned."
+  },
+  {
+   "person_id": "P03",
+   "name": "Naomi",
+   "role_in_story": "central_survivor",
+   "harm": "A therapist colleague who became her best friend manipulated her for about two years with fabricated tragedies, triangulated her against other friends, spread rumours, forcibly kissed her (tongue in mouth) without consent, and forged friends' signatures on loans.",
+   "perpetrator_role": "a therapist colleague and close friend at the agency where she worked as receptionist",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-ep3-alice-john-naomi-you-wouldnt-believe-it",
+    "s15-e4-alice-john-naomi-the-wheels-fall-off"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "He was like, you need to go to work and you need to tell Steve. I was like, I don't know if I can do that. Everybody loves her. What if they don't believe me?",
+      "source": "s15-ep3-alice-john-naomi-you-wouldnt-believe-it @ 39:24"
+     },
+     {
+      "reason": "other",
+      "quote": "If I blow this up and it goes awry, I won't have a job or I'm not going to enjoy going to work. I can't do that right now. So I ignored it.",
+      "source": "s15-ep3-alice-john-naomi-you-wouldnt-believe-it @ 41:31"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "employer_or_hr",
+     "institution": "the agency owner (her boss, a family friend)",
+     "initiated_by": "person",
+     "when": "a few days after the claimed major car accident, about two years into the friendship",
+     "what_was_asked": "to look into whether the claimed accident really happened",
+     "what_institution_did": "Initially brushed it off as concussion fog, agreed to look into it, and three weeks later told her it had happened.",
+     "quote": "And he was like, oh, I'm sure with her concussion, the details are foggy. And I was like, look, Steve, I feel like shit going behind my friends back to you. I need you to look into this for me.",
+     "source": "s15-ep3-alice-john-naomi-you-wouldnt-believe-it @ 54:17",
+     "response": "disbelieved",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'Three weeks later, he called me... And he's like, hey, it happened... everything happened.' (E4 @3:07); Naomi felt like 'the shittiest friend' and doubled down on the friendship; the boss paid the colleague's salary during leave.",
+     "notes": "The boss's name is given in the show; he is not a harmed person, so described by role."
+    },
+    {
+     "n": 2,
+     "institution_type": "employer_or_hr",
+     "institution": "the agency owner (her boss)",
+     "initiated_by": "person",
+     "when": "months later, after the colleague claimed cancer and chemotherapy within days",
+     "what_was_asked": "to believe that she was lying and take it seriously",
+     "what_institution_did": "First told her to 'chill on accusations', then after her explanation consulted knowledgeable friends and an HR lawyer, concluded it was 'maybe not true', and restricted appointments on company time.",
+     "quote": "And he's like, chill on accusations. She's going through a lot of motions or heightened. She's probably not processed everything.",
+     "source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 9:25",
+     "response": "acted_partly",
+     "basis": [
+      "person_account",
+      "second_witness"
+     ],
+     "what_happened_next": "'After I explained the whole cancer thing, he started taking me seriously.' (@11:26); 'He consulted with an HR lawyer... you can go to your appointments but not on company time.' (@26:00). The colleague checked herself into a mental health facility, could not then be fired, admitted the lies and quit.",
+     "notes": "Initial response was disbelief; coded acted_partly because concrete steps followed but stopped short of dismissal. Second witness: colleague John and Alice discuss the same events."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "She was in a mental health facility and she she understood Blabberlaw, and she knew that she could not be fired. So she quit while she was there.",
+   "outcome_source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 43:36",
+   "protection_contributors": [
+    "the_person",
+    "other_victims",
+    "institution"
+   ],
+   "decisive_work_by": "the_person",
+   "decisive_work_quote": "After I explained the whole cancer thing, he started taking me seriously. He was like, okay, let me look into it.",
+   "decisive_work_source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 11:26",
+   "time_to_first_effective_action": "about four or five months after first raising concerns (after the cancer claim)",
+   "months_to_first_effective_action": 4,
+   "contacts_before_first_effective_action": 1,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Naomi also checked the stories herself, contacted Alice and then the colleague's mother, who confirmed none of the tragedies happened ('the wheels fall off like this when she gets stressed', E4 @32:22). The forced kiss was never reported to the employer. The perpetrator's name is used in the show and not recorded here. Outcome is partly_protected because the employer's attendance restrictions contributed to 'the walls closing in' but the colleague left by quitting; no licensing action was possible (see Alice). Forged signatures led Naomi to monitor her credit for a year (E4 @44:31)."
+  },
+  {
+   "person_id": "P04",
+   "name": "Alice",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Roommate of the same therapist; the perpetrator drank and replaced her alcohol, used drugs in her leased apartment, lied about treatment, intimidated her (flipped hidden wine bottle), and spread lies that Alice's family was in a cult and her father had died.",
+   "perpetrator_role": "her grad-school classmate and roommate (a therapist)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-ep3-alice-john-naomi-you-wouldnt-believe-it",
+    "s15-e4-alice-john-naomi-the-wheels-fall-off"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "Alice's own therapist",
+     "initiated_by": "person",
+     "when": "while living with the perpetrator",
+     "what_was_asked": "guidance on setting limits",
+     "what_institution_did": "Guided her on setting limits with compassion.",
+     "quote": "I was also getting guidance from my own therapist at this time and learning how to navigate this and set limits and also show compassion and empathy.",
+     "source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 20:47",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She asked the perpetrator to move out; she moved out the next month.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "regulator_or_licensing",
+     "institution": "the licensing body where their licences are based",
+     "initiated_by": "person",
+     "when": "after the lies came out",
+     "what_was_asked": "to make a report about the therapist",
+     "what_institution_did": "Told them they could not report because they were not clients.",
+     "quote": "A couple of us tried to make a report where our license is based. It's complicated, but basically we were given the feedback that we couldn't because we weren't clients. That sucked. I felt helpless.",
+     "source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 36:26",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No contact since; the perpetrator reportedly went to rehab.",
+     "notes": "Speaker is not named on air; attributed to Alice from context (licensed therapist, 'There's been no contact since then'); could be John. The report was refused on standing, not on the merits."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "There's been no contact since then. I hope she got help. I wish her well.",
+   "outcome_source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 37:28",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Alice ended the living arrangement herself. John (team lead colleague) and Cora (friend whose house and cats were neglected and damaged while the perpetrator house-sat, E4 @38:28-40:31) are not given separate records: John describes no harm to himself beyond being deceived; Cora is recorded in others_mentioned."
+  },
+  {
+   "person_id": "P05",
+   "name": "Diana",
+   "role_in_story": "central_survivor",
+   "harm": "Her husband (a retired police officer and veteran) groomed and deceived her, lied about his military injuries, and secretly sexually abused her niece and daughter and shared images of her children; after his arrest he blamed her and phoned her from jail with cruel messages, including after her sister's suicide.",
+   "perpetrator_role": "her husband",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s15-e5-diana-the-devil-in-disguise",
+    "wcn-presents-sww-s15-e5-updates-part-1",
+    "wcn-presents-sww-s15-e5-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "FBI and Homeland Security",
+     "initiated_by": "institution",
+     "when": "September 30, 2021",
+     "what_was_asked": "",
+     "what_institution_did": "Arrested her husband after an undercover operation, searched the home, explained the charges and arranged interviews of the children.",
+     "quote": "He informed me that they had been watching my husband for a period of time and that he has been arrested for sexual exploitation of a minor and production and manufacturing of sexual exploitation pornography.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 16:30",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Children interviewed at a child advocacy center the next day; she filed for divorce the following Monday.",
+     "notes": "Diana did not report; the FBI acted on its own investigation."
+    },
+    {
+     "n": 2,
+     "institution_type": "prosecutor",
+     "institution": "prosecuting district attorney (federal) and victim advocate",
+     "initiated_by": "institution",
+     "when": "before sentencing, 2023",
+     "what_was_asked": "to be heard at sentencing",
+     "what_institution_did": "Prosecutor kept her informed; a victim advocate prepared her for court but required her to remove words like 'monster' and not address him.",
+     "quote": "I had said in there a couple times that [perpetrator] is a monster and my victim impact advocate, she's like, you can't say that in court, the judge won't allow it.",
+     "source": "wcn-presents-sww-s15-e5-updates-part-1 @ 14:29",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She read an edited statement at sentencing.",
+     "notes": "Perpetrator name in quote replaced with [perpetrator]."
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "federal court",
+     "initiated_by": "institution",
+     "when": "plea in 2022-23; sentencing November 13, 2023",
+     "what_was_asked": "the harshest punishment possible",
+     "what_institution_did": "Accepted his guilty plea and sentenced him to the full 30 years without parole; the judge condemned the conduct.",
+     "quote": "But the plea agreement that he took was a mandatory minimum of 15 years with a maximum of 30. And he was sentenced to the full 30 years, no chance of parole.",
+     "source": "wcn-presents-sww-s15-e5-updates-part-2 @ 10:17",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "State charges (seven county counts) still pending; he will be segregated in federal prison.",
+     "notes": "Judge's remarks read from the court transcript (Part 2 @8:10)."
+    },
+    {
+     "n": 4,
+     "institution_type": "victim_services",
+     "institution": "organizations reached through the child advocacy center",
+     "initiated_by": "institution",
+     "when": "after the arrest",
+     "what_was_asked": "",
+     "what_institution_did": "Paid to replace the beds and furniture and helped pay bills while she took time off.",
+     "quote": "my local center was able to put me in touch with an organization who paid for the replacement of all of the beds where the children had been assaulted.",
+     "source": "wcn-presents-sww-s15-e5-updates-part-2 @ 16:31",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": ""
+    },
+    {
+     "n": 5,
+     "institution_type": "school_or_university",
+     "institution": "the children's high school and elementary school principals and counselors",
+     "initiated_by": "person",
+     "when": "after the news coverage, late 2021",
+     "what_was_asked": "shut down bullying and provide services to the children",
+     "what_institution_did": "Were very supportive and made the children feel safe.",
+     "quote": "I wanted to make sure that I had the support of the school behind me, and they were very supportive and making sure that the kids felt safe and that this was a space that they could go to and get away from it.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 39:34",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Children returned to school and activities.",
+     "notes": "Concerns secondary harm (bullying after news coverage) on behalf of all the children."
+    },
+    {
+     "n": 6,
+     "institution_type": "medical_or_therapy",
+     "institution": "trauma therapist",
+     "initiated_by": "person",
+     "when": "from late 2021, ongoing",
+     "what_was_asked": "trauma therapy for herself and the children",
+     "what_institution_did": "Weekly trauma therapy; helped with Gracie's disclosure.",
+     "quote": "And this is something that I've discovered with trauma therapy once a week for the last year and a half now",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 52:08",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Continuing.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "he doesn't get to steal our joy and our light anymore because he's going away and we don't ever have to deal with him ever again.",
+   "outcome_source": "wcn-presents-sww-s15-e5-updates-part-2 @ 11:20",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "Fortunately the person that he was talking to was an undercover FBI agent.",
+   "decisive_work_source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+   "time_to_first_effective_action": "immediately - the FBI arrest was the first contact",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "conviction",
+    "document_read_on_air",
+    "second_witness"
+   ],
+   "confidence": "high",
+   "notes": "He continued to phone her from jail (blaming her for her sister's suicide, E5 @51:05; calling two weeks before sentencing, Part 1 @28:52), so protection was partial until sentencing; at the last point the season reaches he is sentenced to 30 years. Diana's victim impact statement read on air in E5 and Part 1. Diana's prior abusive marriage is mentioned only in passing ('just came out of an abusive marriage', Part 1 @25:46) - no separate record. County dispatch call (E5 @15:22) concerned the raid, not the harm, so not coded."
+  },
+  {
+   "person_id": "P06",
+   "name": "Tessa",
+   "role_in_story": "child",
+   "harm": "Diana's teenage niece in foster care with Diana's family; raped repeatedly by the foster uncle, who filmed the abuse and shared it in an online group.",
+   "perpetrator_role": "her foster uncle (Diana's husband)",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s15-e5-diana-the-devil-in-disguise",
+    "wcn-presents-sww-s15-e5-updates-part-1",
+    "wcn-presents-sww-s15-e5-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "FBI (undercover operation) and Homeland Security",
+     "initiated_by": "institution",
+     "when": "September 2021",
+     "what_was_asked": "",
+     "what_institution_did": "Detected the abuse material online through an undercover agent and arrested him.",
+     "quote": "He provided photos and videos of him sexually abusing your niece Tessa.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Interview at child advocacy center the next day.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "child advocacy center interview with FBI, county detectives and children's services advocate",
+     "initiated_by": "institution",
+     "when": "the day after the arrest",
+     "what_was_asked": "",
+     "what_institution_did": "Interviewed her for hours; she disclosed everything; the deputy told the family he had been raping her.",
+     "quote": "The county deputy had informedosed that [perpetrator] had been raping her over a period of time and she was just glad that he was finally caught. It would all end.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 27:50",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Federal and state charges.",
+     "notes": "Perpetrator name in quote replaced with [perpetrator]."
+    },
+    {
+     "n": 3,
+     "institution_type": "child_protection",
+     "institution": "family services / child protective services",
+     "initiated_by": "family_or_friends",
+     "when": "after the disclosure",
+     "what_was_asked": "Diana notified them as foster parent, per protocol",
+     "what_institution_did": "Re-interviewed the nieces; Tessa moved to a previous supportive foster family at her own wish.",
+     "quote": "I felt like we were victimizing her yet again. Having to go over everything that she had already just said to the FBI",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 46:55",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'She went to go stay with another foster family that she had stayed at previously and have become very supportive of her.'",
+     "notes": "Diana felt the re-interview re-victimized her."
+    },
+    {
+     "n": 4,
+     "institution_type": "court",
+     "institution": "federal court (prosecutor read her victim impact statement)",
+     "initiated_by": "institution",
+     "when": "November 13, 2023",
+     "what_was_asked": "",
+     "what_institution_did": "Prosecutor read her statement; he was sentenced to the full 30 years.",
+     "quote": "Tessa was there with her older sister. She gave her victim impact statement. She didn't read it herself. The district prosecuting attorney read it, which I think was a very wise choice.",
+     "source": "wcn-presents-sww-s15-e5-updates-part-2 @ 3:05",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Sentenced to 30 years, no parole.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "She is actually graduating high school an entire year early. So incredibly proud of her. She has astounded me with her progress and her commitment to her therapy.",
+   "outcome_source": "wcn-presents-sww-s15-e5-updates-part-2 @ 20:46",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "Fortunately the person that he was talking to was an undercover FBI agent.",
+   "decisive_work_source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+   "time_to_first_effective_action": "the FBI arrest was the first contact",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "conviction",
+    "second_witness",
+    "document_read_on_air"
+   ],
+   "confidence": "high",
+   "notes": "Season does not say whether she had told anyone before; she was 'just glad that he was finally caught'. Her mother (Diana's sister) died by suicide in October 2022 (others_mentioned). The perpetrator claimed she 'came on to me' (E5 @49:01)."
+  },
+  {
+   "person_id": "P07",
+   "name": "Gracie",
+   "role_in_story": "child",
+   "harm": "Diana's daughter, adopted by the perpetrator at 11; groomed, molested and groped almost daily, shown pornography, threatened into silence; her photos were shared in the online group.",
+   "perpetrator_role": "her adoptive father (stepfather)",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s15-e5-diana-the-devil-in-disguise",
+    "wcn-presents-sww-s15-e5-updates-part-1",
+    "wcn-presents-sww-s15-e5-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "fear_of_abuser",
+     "protecting_others",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "fear_of_abuser",
+      "quote": "I never told my mom about what he was doing to me because I was scared of him. He threatened me and said I would take away all my mom's happiness if I ever told her.",
+      "source": "wcn-presents-sww-s15-e5-updates-part-2 @ 4:05"
+     },
+     {
+      "reason": "protecting_others",
+      "quote": "[perpetrator] had told Gracie, you're not going to say anything to your mom about this because your mom is finally happy. Do you really want to take that away from her?",
+      "source": "s15-e5-diana-the-devil-in-disguise @ 53:10"
+     },
+     {
+      "reason": "other",
+      "quote": "And she said, well, I can't look at him in a courtroom. Mom, I can't stand up there and look at him.",
+      "source": "s15-e5-diana-the-devil-in-disguise @ 55:12"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "FBI undercover operation and child advocacy center interview",
+     "initiated_by": "institution",
+     "when": "September 2021",
+     "what_was_asked": "",
+     "what_institution_did": "Arrested the perpetrator, who had shared her photos; interviewed her briefly; she did not disclose then.",
+     "quote": "She was scared to say anything when she was interviewed and thought that she would get into trouble.",
+     "source": "wcn-presents-sww-s15-e5-updates-part-1 @ 23:42",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Abuse ended with the arrest.",
+     "notes": "Interviews of the other children were 'a couple minutes' (E5 @28:57)."
+    },
+    {
+     "n": 2,
+     "institution_type": "medical_or_therapy",
+     "institution": "family trauma therapist",
+     "initiated_by": "person",
+     "when": "several months after the arrest",
+     "what_was_asked": "",
+     "what_institution_did": "Facilitated her disclosure to her mother and advised discussing whether to file a complaint.",
+     "quote": "We're going to trauma therapy once a week and the trauma therapist says Gracie needs to talk about some things with you. Gracie had disclosed some things that had happened to her.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 53:10",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She chose not to file a police report because she could not face him in court.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "federal court (prosecutor read her victim impact statement)",
+     "initiated_by": "institution",
+     "when": "November 13, 2023",
+     "what_was_asked": "that he be imprisoned for life",
+     "what_institution_did": "Prosecutor read her statement; he was sentenced to 30 years without parole.",
+     "quote": "Gracie had a statement and I personally could not read her statement because I would have broke down and cried. The district prosecuting attorney read her statement",
+     "source": "wcn-presents-sww-s15-e5-updates-part-2 @ 3:05",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "",
+     "notes": "Season does not say whether any charge related specifically to her."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "Other than that, the girls are doing amazing. Their grades are up. Gracie and Tegan are just fantastic teenagers",
+   "outcome_source": "wcn-presents-sww-s15-e5-updates-part-2 @ 19:46",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "Fortunately the person that he was talking to was an undercover FBI agent.",
+   "decisive_work_source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+   "time_to_first_effective_action": "the FBI arrest was the first contact",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "conviction",
+    "document_read_on_air",
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Perpetrator's pseudonym in quotes replaced with [perpetrator]. Her later self-harm and suicidal ideation are in Diana's statement (Part 1 @24:43)."
+  },
+  {
+   "person_id": "P08",
+   "name": "Tegan",
+   "role_in_story": "child",
+   "harm": "Diana's younger daughter; the perpetrator shared her photos with the online group, discussed sexual acts and planned to trade her for abuse at a 'teddy bear party'.",
+   "perpetrator_role": "her adoptive father (stepfather)",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s15-e5-diana-the-devil-in-disguise",
+    "wcn-presents-sww-s15-e5-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "FBI undercover operation and child advocacy center interview",
+     "initiated_by": "institution",
+     "when": "September 2021",
+     "what_was_asked": "",
+     "what_institution_did": "Intercepted the plan through an undercover agent, arrested him, interviewed the children.",
+     "quote": "He was actually talking to someone about making plans to go across state lines for something called a teddy bear party where essentially he was wanting to exchange my two daughters and my two nieces with another person's children for child sexual assault. Fortunately the person that he was talking to was an undercover FBI agent.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Perpetrator sentenced to 30 years.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "Tegan is a champion barrel racer again. She's getting back on the horse and loving everything that they are experiencing",
+   "outcome_source": "wcn-presents-sww-s15-e5-updates-part-2 @ 19:46",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "Fortunately the person that he was talking to was an undercover FBI agent.",
+   "decisive_work_source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+   "time_to_first_effective_action": "the FBI arrest was the first contact",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "conviction",
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Named only in the update episode. In E5 @53:10 the transcript says 'It's just Gracie Avery and me at home' after the nieces left; Avery is the younger niece's name, so this is probably a slip/transcription for the younger daughter. Little of her own story is told."
+  },
+  {
+   "person_id": "P09",
+   "name": "Avery",
+   "role_in_story": "child",
+   "harm": "Diana's younger niece in foster care; the perpetrator shared her photos with the online group, discussed sexual acts and planned to trade her for abuse.",
+   "perpetrator_role": "her foster uncle (Diana's husband)",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s15-e5-diana-the-devil-in-disguise",
+    "wcn-presents-sww-s15-e5-updates-part-1"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "FBI undercover operation and child advocacy center interview",
+     "initiated_by": "institution",
+     "when": "September 2021",
+     "what_was_asked": "",
+     "what_institution_did": "Arrested the perpetrator and interviewed the children.",
+     "quote": "He also sent photos of my daughters and my other niece talking to the other members in the group about all of the things that he wanted to do to them sexually.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "child_protection",
+     "institution": "family services / child protective services",
+     "initiated_by": "family_or_friends",
+     "when": "after the disclosure",
+     "what_was_asked": "",
+     "what_institution_did": "Re-interviewed the nieces; Avery stayed with Diana a few months then joined her sister's foster family at her own wish.",
+     "quote": "My other niece, her younger sister, Avery, she decided that she wanted to stay. It stayed that way for a couple more months. She said that she missed her sister and she wanted to go stay with her.",
+     "source": "s15-e5-diana-the-devil-in-disguise @ 46:55",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "So, he's going to be spending the rest of his life in prison.",
+   "outcome_source": "wcn-presents-sww-s15-e5-updates-part-2 @ 10:17",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "Fortunately the person that he was talking to was an undercover FBI agent.",
+   "decisive_work_source": "s15-e5-diana-the-devil-in-disguise @ 26:49",
+   "time_to_first_effective_action": "the FBI arrest was the first contact",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "conviction",
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Little of her own story is told; her mother died by suicide in October 2022."
+  },
+  {
+   "person_id": "P10",
+   "name": "Jenna Jean",
+   "role_in_story": "central_survivor",
+   "harm": "A Hinge boyfriend in Hawaii claimed to be an FBI agent, love-bombed her, lied about his life, read her texts and told her 'the FBI' had reported she was texting her ex, repeatedly broke up with her and became verbally mean; she later realised the whole relationship was built on lies.",
+   "perpetrator_role": "her boyfriend (claimed to be an FBI agent)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e6-jenna-jean-laughing-through-the-pain"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "did_not_know_it_was_abuse"
+    ],
+    "quotes": [
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "I didn't break up with him because he was a liar and everything in our relationship, I thought was a lie. I still didn't know at that point. I broke up with him because he was mean.",
+      "source": "s15-e6-jenna-jean-laughing-through-the-pain @ 47:59"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "her therapist",
+     "initiated_by": "person",
+     "when": "from January of the following year, renewed after the 'incriminating phone call'",
+     "what_was_asked": "help processing the relationship and learning to trust again",
+     "what_institution_did": "Provided therapy and validation.",
+     "quote": "Quickly sign up for therapy again. I had already been going to therapy since January. So when I got that incriminating phone call, I signed up for therapy.",
+     "source": "s15-e6-jenna-jean-laughing-through-the-pain @ 55:08",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'I have a year of therapy under my belt.' (@71:31)",
+     "notes": "Therapist: 'you don't want to be a super villain. You are a superhero.' (@73:31)"
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "So I will not talk to him again.",
+   "outcome_source": "s15-e6-jenna-jean-laughing-through-the-pain @ 70:30",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "She ended the relationship herself. Informal checks (not coded as institutional contacts): a friend's mother who works for the FBI said interrogation talk 'is not a thing' (@53:04); a friend in the US intelligence community could not find him in a work email database (@64:23). Her TikTok went viral and drew hate comments on TikTok and Yahoo (platforms, but she did not report to them). Second witnesses: her surfer friend, her roommate, and another woman who went on one date with him (others_mentioned)."
+  },
+  {
+   "person_id": "P11",
+   "name": "Emilia",
+   "role_in_story": "central_survivor",
+   "harm": "A 46-year-old healthcare coworker (she was 22-23) pursued her, kept the relationship secret, verbally abused and body-shamed her, coerced her into threesomes, sexually assaulted her 'pretty much every night', slapped her during sex, discouraged her psychiatric treatment, made her drive him drunk to surgeries and pose as a nursing student, tracked her location, took her phone and impersonated her to her friends and sister, and held her at his house.",
+   "perpetrator_role": "her older coworker and on-off boyfriend, a surgical healthcare professional",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e7-emilia-you-just-need-me"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "protecting_others",
+     "abuser_status_or_connections",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "protecting_others",
+      "quote": "I was like you're the whole reason I never reported him I didn't want to leave his son without a dad",
+      "source": "s15-e7-emilia-you-just-need-me @ 83:45"
+     },
+     {
+      "reason": "abuser_status_or_connections",
+      "quote": "He's a big powerful man and we can't take that away from him. We have to make sure he can't lose his job",
+      "source": "s15-e7-emilia-you-just-need-me @ 82:43"
+     },
+     {
+      "reason": "other",
+      "quote": "If you report him, you're just gonna come out as the crazy ex girlfriend. He's gonna end up suing you for trying to say stuff about him.",
+      "source": "s15-e7-emilia-you-just-need-me @ 81:43"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "mandatory counseling provided through the hospital where she worked",
+     "initiated_by": "institution",
+     "when": "beginning of 2022, after a breakdown at work",
+     "what_was_asked": "",
+     "what_institution_did": "Sent her home and set up mandatory therapy; the therapist identified the trauma bond and helped her pull away.",
+     "quote": "My therapist was like this is a trauma bond. It's going to be very hard for you to break it and it is going to hurt.",
+     "source": "s15-e7-emilia-you-just-need-me @ 58:41",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She limited contact, but the abuse continued through 2022.",
+     "notes": "The counseling was triggered by a friend's death, not the abuse; the abuse was then processed in therapy."
+    },
+    {
+     "n": 2,
+     "institution_type": "employer_or_hr",
+     "institution": "ethics board of the hospital where he works",
+     "initiated_by": "person",
+     "when": "after she cut him off (2022 or later)",
+     "what_was_asked": "anonymous report about him",
+     "what_institution_did": "Not known.",
+     "quote": "I did make an anonymous report to the ethics board for the hospital he's working at. I have no idea how far they went as far as investigating him or them keeping him.",
+     "source": "s15-e7-emilia-you-just-need-me @ 85:50",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Nothing known.",
+     "notes": "The content of the report is not specified; context suggests his working drunk ('he doesn't deserve his job')."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "I had to get my number change. I have switched jobs multiple times because I don't want him to know where I'm at.",
+   "outcome_source": "s15-e7-emilia-you-just-need-me @ 83:45",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Not coded as harm reaching an institution: ER visits for suicidal crisis and after her overdose (abuse not stated as raised; at his request the doctor he worked for checked on her, @68:06); a psychiatrist who asked 'are you sure it's not your period?' about her mood (@17:32); the office manager who saw them together and warned he would 'throw y'all under the bus' (@28:14) - he learned of the relationship, not the abuse. She threatened police/restraining order to make him stop contacting her (@84:45) but did not file. She ended it by quitting her job, moving and blocking him. Show title spells 'Emilia'; transcript says 'Amelia'."
+  },
+  {
+   "person_id": "P12",
+   "name": "Lex Fitzgerald",
+   "role_in_story": "central_survivor",
+   "harm": "A family content creator targeted for nearly four years by an organised group of online harassers (via Discord) who made hundreds of fake accounts, doxxed her address and phone, followed the family to hotels, posted her old Playboy photos tagged with her children's names, mocked her miscarriage, contacted brands and her children's school, sent anonymous false CPS reports twice, and drop-shipped oranges to her home with a threat.",
+   "perpetrator_role": "a group of online harassers, one of whom was charged with stalking",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s15-e8-lex-fitzgerald-actively-seeking-to-cause-us-harm",
+    "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "local police department (Connecticut)",
+     "initiated_by": "person",
+     "when": "October 2020, after her newborn's name and photo were posted",
+     "what_was_asked": "to document the harassment and be on the lookout",
+     "what_institution_did": "Said little could be done unless someone was in front of their home.",
+     "quote": "They told us unless they were in front of our home, there isn't much that they could do. It was discouraging.",
+     "source": "s15-e8-lex-fitzgerald-actively-seeking-to-cause-us-harm @ 14:20",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Harassment continued.",
+     "notes": "In general she says police asked 'have they come to you in person?' and told her 'just stop posting' (@36:19)."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "local police department",
+     "initiated_by": "person",
+     "when": "early 2021, after the milk-donation harassment and messages to her donor",
+     "what_was_asked": "help with the harassment",
+     "what_institution_did": "Again said they would only help if someone tried to access their property.",
+     "quote": "When this happened, we reached out to our local police department. For the second time, and still, they said they would only help us if they were trying to gain access to our property, we were feeling fed up.",
+     "source": "s15-e8-lex-fitzgerald-actively-seeking-to-cause-us-harm @ 23:30",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The family decided to travel full time for safety.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "child_protection",
+     "institution": "Tennessee Department of Children's Services",
+     "initiated_by": "third_party",
+     "when": "June 12, 2021 (anonymous false complaint by a harasser)",
+     "what_was_asked": "",
+     "what_institution_did": "Caseworker visited, said she suspected the complaint was harassment, checked the children and left; explained how to seek charges for a harassing complaint.",
+     "quote": "Thankfully, our case worker that we had for this experience was incredible, and she actually began the conversation letting us know she suspected that this complaint was made to harass our family.",
+     "source": "s15-e8-lex-fitzgerald-actively-seeking-to-cause-us-harm @ 38:27",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Case closed as unfounded.",
+     "notes": "'She was helping us understand how we would go about seeking criminal charges against the person who made the complaint.' (@40:28). The CPS visit itself was a harm caused by the harassers' use of the institution."
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "police department in the South Dakota town where they were staying (intake officer and detective)",
+     "initiated_by": "person",
+     "when": "July 30, 2021",
+     "what_was_asked": "to file an official report of cyber harassment and stalking",
+     "what_institution_did": "Intake officer listened for over an hour and took a report; a detective investigated, identified the group, subpoenaed the Discord chat.",
+     "quote": "Finally, a police officer took us seriously and on July 30th, we filed an official police report with the local police department in the town that we were staying in.",
+     "source": "s15-e8-lex-fitzgerald-actively-seeking-to-cause-us-harm @ 54:16",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Investigation with a private detective she hired identified a group of people.",
+     "notes": "'the group and the whole chat was subpoenaed by the police department as well.' (E9 @29:48)"
+    },
+    {
+     "n": 5,
+     "institution_type": "court",
+     "institution": "State of Texas (protective order application)",
+     "initiated_by": "person",
+     "when": "December 21, 2021",
+     "what_was_asked": "a protective order against the harasser",
+     "what_institution_did": "Told her protective orders are for domestic issues only.",
+     "quote": "After filing all that paperwork, we were then told that protective orders are for domestic issues only. It was so disheartening.",
+     "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 24:03",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": "Refusal on eligibility grounds, not disbelief."
+    },
+    {
+     "n": 6,
+     "institution_type": "victim_services",
+     "institution": "victim service sources (unnamed)",
+     "initiated_by": "person",
+     "when": "around December 2021",
+     "what_was_asked": "services or guidance",
+     "what_institution_did": "Did not provide services to stalking victims directly.",
+     "quote": "We also had reached out to sources, but they did not provide services or guidance directly to victims of stock Texas",
+     "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 25:05",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": "Transcript is garbled ('victims of stock Texas')."
+    },
+    {
+     "n": 7,
+     "institution_type": "police",
+     "institution": "South Dakota police detective / prosecution",
+     "initiated_by": "institution",
+     "when": "January 27, 2022",
+     "what_was_asked": "",
+     "what_institution_did": "Filed charges (three counts of stalking) against one harasser and issued a warrant.",
+     "quote": "She had gone ahead with official charges. They were being filed against one of the women who was harassing our family.",
+     "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 27:09",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "The warrant was never executed because she lived in another state; the harassment continued.",
+     "notes": "Warrant text read on air (@28:12)."
+    },
+    {
+     "n": 8,
+     "institution_type": "platform",
+     "institution": "Discord",
+     "initiated_by": "person",
+     "when": "March 9, 2022",
+     "what_was_asked": "remove the harassment Discord server",
+     "what_institution_did": "Required specific links she did not have; did nothing.",
+     "quote": "They gave me some nonsense response that I have to send them specific links to the discord But it was not something that I had because I wasn't in the discord itself.",
+     "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 37:59",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'Discord was a dead end. It didn't seem like they cared enough.'",
+     "notes": ""
+    },
+    {
+     "n": 9,
+     "institution_type": "police",
+     "institution": "sheriff's department where the charged woman lives (and the South Dakota department)",
+     "initiated_by": "person",
+     "when": "March 14, 2022",
+     "what_was_asked": "to serve the warrant / take over the case",
+     "what_institution_did": "Said nothing could be done unless the state extradited; refused to take over the case.",
+     "quote": "The deputy had said that unless the state had extra-dited, there is nothing that they could do. It was upsetting to hear that.",
+     "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 40:06",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'pretty much why it's still an act of warrant to this day.'",
+     "notes": "Abrasive refusal to take over the case (@40:06)."
+    },
+    {
+     "n": 10,
+     "institution_type": "child_protection",
+     "institution": "child protective services (Texas)",
+     "initiated_by": "third_party",
+     "when": "autumn 2022 (second false complaint by the group)",
+     "what_was_asked": "",
+     "what_institution_did": "Caseworker visited and questioned the children; less understanding; complaint found unfounded and closed.",
+     "quote": "This person wasn't as open and instantly understanding of everything that we have been through. She didn't communicate as openly as the other caseworker had.",
+     "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 48:31",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'both of the CPS claims came back unfounded and were closed.'",
+     "notes": "No indication this caseworker recognised the harassment."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "That's what was taking so long with the warrant and pretty much why it's still an act of warrant to this day.",
+   "outcome_source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 40:06",
+   "protection_contributors": [
+    "the_person",
+    "institution"
+   ],
+   "decisive_work_by": "the_person",
+   "decisive_work_quote": "I'm so grateful to that detective and that intake police officer into the PI for working together and for taking us seriously and allowing that to take place.",
+   "decisive_work_source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 28:12",
+   "time_to_first_effective_action": "about nine months after first going to police (October 2020 to July 30, 2021); charges about fifteen months after",
+   "months_to_first_effective_action": 9,
+   "contacts_before_first_effective_action": 3,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "She hired a private detective (and later a cybersecurity firm) and kept pressing police; decisive work could also be read as 'institution' (detective's investigation). Also sought lawyers, who required unaffordable retainers ('$15,000 retainer', E9 @65:08) - not coded as institutional contacts. A harasser emailed her claiming SHE was stalking/defaming and threatened a cease-and-desist (E9 @50:42-54:51, read on air) - counter-accusation by a perpetrator, not an institution. harmed_by_institution_ever false, though police telling her to 'just stop posting' (E8 @36:19) borders on blame. Husband and children were also targeted (others_mentioned). The miscarriage followed the harassment (E9 @5:05)."
+  },
+  {
+   "person_id": "P13",
+   "name": "Danielle",
+   "role_in_story": "update_or_listener_story",
+   "harm": "(Season 9, updated here) Former partner and father of her daughter, a fraudster with a fake British accent and fake identity, verbally abused and threatened her, threatened to abduct their daughter, and after the breakup used litigation (custody filing, restraining orders against her and her father), threatening voicemails, impersonation and surveillance to harass her.",
+   "perpetrator_role": "her ex-partner, father of her daughter",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e10-what-came-next-presents-sww-s9-updates-part-1",
+    "s15-e11-what-came-next-presents-sww-s9-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "family court judge (Los Angeles County)",
+     "initiated_by": "person",
+     "when": "before the Season 9 podcast (2021)",
+     "what_was_asked": "a restraining order",
+     "what_institution_did": "Denied the restraining order.",
+     "quote": "the reason I held off on doing that was because the custody hearing would be in front of the exact same judge that denied my restraining order. I did not want to risk her giving him any type of custody.",
+     "source": "s15-e10-what-came-next-presents-sww-s9-updates-part-1 @ 23:00",
+     "response": "disbelieved",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She delayed filing for custody for fear of the same judge.",
+     "notes": "The reason for the denial is not stated; Danielle believes it was because 'I had no physical abuse' (@24:05). Could be coded did_nothing_or_delayed."
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "family court (custody case)",
+     "initiated_by": "person",
+     "when": "end of 2021",
+     "what_was_asked": "custody; permission to serve him",
+     "what_institution_did": "Allowed service by publication after she hired a PI; ordered mediation; merged the cases under the judge who had denied her restraining order; ordered a full evaluation split between parties.",
+     "quote": "I had actually successfully served him because this judge allowed me to... I had to hire a private investigator to track him down to serve him.",
+     "source": "s15-e10-what-came-next-presents-sww-s9-updates-part-1 @ 41:39",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'Now it's the end of 2021, and we have to wait to go back to court on this. So there's no resolution.' (@45:44)",
+     "notes": "Earlier his own filings were continued repeatedly without service (@26:08)."
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "family court",
+     "initiated_by": "person",
+     "when": "April or May 2022",
+     "what_was_asked": "to compel him to file required paperwork",
+     "what_institution_did": "Ordered him to do the paperwork and awarded her $2,500 in lawyer's fees.",
+     "quote": "the judge winds up awarding me $2500 to cover the layers fee for having to take him to court to tell him to do what he's supposed to do. So this is the first time this judge has done anything against him.",
+     "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 6:02",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Negotiations on a custody agreement.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "court",
+     "institution": "family court",
+     "initiated_by": "person",
+     "when": "October 2022",
+     "what_was_asked": "to enter the custody agreement despite his refusal to re-sign",
+     "what_institution_did": "Allowed resubmission without his signature.",
+     "quote": "The next morning is the court thing, and he's a no-show to this. But on the call, the court agrees to basically let us resummit without",
+     "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 28:45",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The same day he filed a restraining order against her claiming harassment.",
+     "notes": "Earlier the court had sent the agreement back because a clause letting him sue her did not belong in it (@18:24)."
+    },
+    {
+     "n": 5,
+     "institution_type": "court",
+     "institution": "family court",
+     "initiated_by": "person",
+     "when": "February 2023",
+     "what_was_asked": "signed custody order",
+     "what_institution_did": "Signed the order: full custody to her, zero visitation, and added clauses requiring him to sign adoption papers and reimburse PI costs.",
+     "quote": "They said that he must sign any paperwork related to an adoption and that if he does not give me an email address to notify him that he waives his right for notification and if I have to hire a private investigator to locate him in order to do whatever is necessary for this, that he must reimburse me for those expenses.",
+     "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 34:51",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "She can now get her daughter a passport and has legal protection.",
+     "notes": "'In February, so last month, I finally, after two years, got the sign quarter of my custody agreement in place.' (@33:51)"
+    },
+    {
+     "n": 6,
+     "institution_type": "police",
+     "institution": "detective who handled the car case",
+     "initiated_by": "unclear",
+     "when": "2022-23",
+     "what_was_asked": "",
+     "what_institution_did": "Suspected he was lying and had contact with Danielle but said he could not get him.",
+     "quote": "And I spoke with him and he's like, I wish I could get this guy. Unfortunately, he's one of those people that uses the things in the system that are created to actually protect domestic violence victims. He's used them to exploit the system.",
+     "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 40:02",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": "Recounted by the host Amy, who spoke to the detective. Shows belief but no available legal step."
+    },
+    {
+     "n": 7,
+     "institution_type": "medical_or_therapy",
+     "institution": "her therapist",
+     "initiated_by": "person",
+     "when": "while still with him and after",
+     "what_was_asked": "",
+     "what_institution_did": "Therapy.",
+     "quote": "I told my therapist at the time that let's say I decided to just walk away and leave.",
+     "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 36:55",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": "Also 'I had a really brilliant therapist' (E10 @40:37)."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "I think justice could have played out better in the courts. I think if there were real justice, he would be behind bars. But at least I get justice for me. And that is that I have custody of my daughter.",
+   "outcome_source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 37:55",
+   "protection_contributors": [
+    "the_person",
+    "family_or_friends",
+    "institution"
+   ],
+   "decisive_work_by": "the_person",
+   "decisive_work_quote": "I was getting really forceful with my lawyer. I was like, enough with his games. Get this signed.",
+   "decisive_work_source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 18:24",
+   "time_to_first_effective_action": "custody order 'after two years' of litigation",
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 1,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "Update episodes only; Season 9 itself is not in this folder. A threatening voicemail from him was played on air (E10 @28:16-30:17). He filed a restraining order against her father (E10 @26:08) and against her (E11 @29:47) - counter-accusations by the perpetrator; court responses not stated. She hired a PI and a lawyer at great cost ('you just get screwed if you can't pay for a lawyer', @36:55); Kenji ran his plates. Now works as a victim advocate."
+  },
+  {
+   "person_id": "P14",
+   "name": "[unnamed] Danielle's daughter",
+   "role_in_story": "child",
+   "harm": "Her father threatened to abduct her, used her to control her mother, and fought for custody while not seeing her.",
+   "perpetrator_role": "her father",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e10-what-came-next-presents-sww-s9-updates-part-1",
+    "s15-e11-what-came-next-presents-sww-s9-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "family court",
+     "initiated_by": "family_or_friends",
+     "when": "February 2023",
+     "what_was_asked": "full custody to her mother with zero visitation",
+     "what_institution_did": "Granted full custody to her mother, zero visitation, with adoption and PI-reimbursement clauses.",
+     "quote": "He gets zero visitation, he has no rights, and I have an incredible relationship at the end of the day.",
+     "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 37:55",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "",
+     "notes": "Earlier custody contacts are recorded under Danielle."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "there was always the risk that if he managed to show up to her school and get her, I would not get her back because I didn't have a legal document in place stating that I was the legal parent. It was always risky, so it makes me feel great about that.",
+   "outcome_source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 35:55",
+   "protection_contributors": [
+    "family_or_friends",
+    "institution"
+   ],
+   "decisive_work_by": "family_or_friends",
+   "decisive_work_quote": "I was getting really forceful with my lawyer. I was like, enough with his games. Get this signed.",
+   "decisive_work_source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 18:24",
+   "time_to_first_effective_action": "about two years of custody litigation",
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Her own story is told only through her mother."
+  },
+  {
+   "person_id": "P15",
+   "name": "Kenji",
+   "role_in_story": "update_or_listener_story",
+   "harm": "(Season 9, updated here) Partner of a woman who became involved with the same man; his children were exposed to the man, and the man threatened him by voicemail.",
+   "perpetrator_role": "the man who dated his partner (Danielle's ex)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e10-what-came-next-presents-sww-s9-updates-part-1",
+    "s15-e11-what-came-next-presents-sww-s9-updates-part-2"
+   ],
+   "reached_institution": "unclear",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "he had already been cataloging everything because of all the concerns with neglect of the children being exposed to this abusive monster.",
+      "source": "s15-e10-what-came-next-presents-sww-s9-updates-part-1 @ 10:32"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "He's going off on all kinds of threats. Threatening me, threatening Kenji, it was a little jarring to hear that, to hear these direct threats.",
+   "outcome_source": "s15-e10-what-came-next-presents-sww-s9-updates-part-1 @ 30:17",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "low",
+   "notes": "Did not take part in the update episodes; Danielle shares with his consent. The update does not describe any institutional contact for him in this season, though Season 9 may have; reached_institution coded unclear. He 'fought so hard to keep them [his children] safe' (@7:31)."
+  },
+  {
+   "person_id": "P16",
+   "name": "Darcy",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Dated and lived with the same man, had a child with him; Danielle believes he assaulted her; he had a car put in her name and threatened her when she tried to recover it.",
+   "perpetrator_role": "her boyfriend (Danielle's ex)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e10-what-came-next-presents-sww-s9-updates-part-1",
+    "s15-e11-what-came-next-presents-sww-s9-updates-part-2"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "court (restraining order)",
+     "initiated_by": "person",
+     "when": "around the time of Danielle's restraining order",
+     "what_was_asked": "a restraining order",
+     "what_institution_did": "Not stated.",
+     "quote": "she had asked Kenji if I would talk to her that she was done with him. She wanted to pursue her restraining order.",
+     "source": "s15-e10-what-came-next-presents-sww-s9-updates-part-1 @ 17:49",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She resumed contact with him and had his baby in 2021.",
+     "notes": "Season 9 references 'restraining orders' of other women; outcome for Darcy not given here."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "police",
+     "initiated_by": "third_party",
+     "when": "late 2022",
+     "what_was_asked": "he tried to report her for taking back the car",
+     "what_institution_did": "Because the car was in her name, he had to hand it over; police tracked him down to retrieve it.",
+     "quote": "He tried to follow a police report against her for trying to get the car back, but it was in her name. And so he wound up having to actually hand over the vehicle.",
+     "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 33:51",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'They tracked him down to get the car from an address and was yet another girlfriend there.'",
+     "notes": "Initiated by the perpetrator as a counter-report; the police outcome favoured her."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "And so he wound up having to actually hand over the vehicle.",
+   "outcome_source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 33:51",
+   "protection_contributors": [
+    "family_or_friends",
+    "institution"
+   ],
+   "decisive_work_by": "unclear",
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Story told only by Danielle and the hosts, who describe her as both a victim and someone who fed information to him ('I think she's both a victim and an abuser', E10 @7:31). 'The only thing I actually do believe that she ever says is the assaults.' (E10 @17:49). Kenji helped her get the car back."
+  },
+  {
+   "person_id": "P17",
+   "name": "Samantha",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Dated the same man for about four months; he had her put a car in her name and lied about a work trip.",
+   "perpetrator_role": "her boyfriend (Danielle's ex)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e11-what-came-next-presents-sww-s9-updates-part-2"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "What had happened is that she had a GPS on the car. He said he had gone for a work trip to New York and it was still pinging in LA when it should have been at the airport. And so that's when she hired the private investigator.",
+      "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 4:01"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "She was just like, look, I feel so ashamed and embarrassed.",
+   "outcome_source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 4:01",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Pseudonym given by Danielle. A private investigator is not an institution. What happened afterwards is not stated."
+  },
+  {
+   "person_id": "P18",
+   "name": "Zara",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Dated the same man (under an alias) for about a year and a half under a fake identity; was about to quit her job and move in with him.",
+   "perpetrator_role": "her boyfriend (Danielle's ex, using an alias)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e11-what-came-next-presents-sww-s9-updates-part-2"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "did_not_know_it_was_abuse"
+    ],
+    "quotes": [
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "She was a little in denial. She denied him being abusive. She always really even reluctant to say that he verbally abused her.",
+      "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 26:44"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "Honestly, he's gone gone. She's got a new boyfriend and she's doing great.",
+   "outcome_source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 32:50",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Pseudonym. Her sister contacted Danielle; Danielle and another victim staged an intervention. He broke up with her after learning the VIN had been run."
+  },
+  {
+   "person_id": "P19",
+   "name": "[unnamed] Purdue University student (TEDx case)",
+   "role_in_story": "update_or_listener_story",
+   "harm": "Fell asleep in her boyfriend's dorm bunk; another man got in behind her and engaged in sexual contact while she believed he was her boyfriend.",
+   "perpetrator_role": "a male acquaintance in her boyfriend's dorm room",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police",
+     "initiated_by": "unclear",
+     "when": "after the incident",
+     "what_was_asked": "",
+     "what_institution_did": "Arrested him after he admitted it.",
+     "quote": "The boyfriend went down and confronted [perpetrator]. [perpetrator] admitted what he had done. The police arrested him.",
+     "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 31:21",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Tried before a jury.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "criminal court (jury)",
+     "initiated_by": "institution",
+     "when": "trial",
+     "what_was_asked": "",
+     "what_institution_did": "Jury acquitted; conviction expunged.",
+     "quote": "The jury acquitted him. And his conviction was expunged.",
+     "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 31:21",
+     "response": "unclear",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Advocates tried and failed to change Indiana law.",
+     "notes": "Guest attributes the acquittal to the law's failure to define consent / criminalise sex by deception, not to disbelief; no listed code fits cleanly."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "and we were not successful in doing so.",
+   "outcome_source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 32:28",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Told by expert guest Joyce Short (from her TEDx talk). Accused man's surname in quotes replaced with [perpetrator]. The 'conviction expunged' wording conflicts with 'acquitted' as transcribed."
+  },
+  {
+   "person_id": "P20",
+   "name": "Andrea Constand",
+   "role_in_story": "update_or_listener_story",
+   "harm": "Sexually assaulted by a celebrity entertainer (as stated in the show).",
+   "perpetrator_role": "a celebrity entertainer",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "Pennsylvania criminal court (jury)",
+     "initiated_by": "unclear",
+     "when": "trial",
+     "what_was_asked": "",
+     "what_institution_did": "Jury convicted him, using a definition of consent a juror knew.",
+     "quote": "they were able to convict [perpetrator] of sexually assaulting Andrea Constan.",
+     "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 19:57",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Undone on appeal.",
+     "notes": "Perpetrator name in quote replaced with [perpetrator]."
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "Pennsylvania Supreme Court",
+     "initiated_by": "third_party",
+     "when": "after conviction",
+     "what_was_asked": "",
+     "what_institution_did": "Overturned the outcome (per the guest, 'a terrible overstepping').",
+     "quote": "What happened subsequently was a terrible overstepping of the Supreme Court in Pennsylvania, completely contrary to the laws of Pennsylvania, quite frankly.",
+     "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 19:57",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'the Supreme Court refused to listen to the case, which was a horrific miscarriage of justice.'",
+     "notes": "Transcript is muddled about which court did what."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "the Supreme Court refused to listen to the case, which was a horrific miscarriage of justice.",
+   "outcome_source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 19:57",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Mentioned briefly by expert guest as an example; perpetrator_convicted coded 'no' because the conviction was overturned as told. Could be treated as a bare mention."
+  },
+  {
+   "person_id": "P21",
+   "name": "Jennifer Siebel Newsom",
+   "role_in_story": "update_or_listener_story",
+   "harm": "Sexually assaulted by a film producer (as stated in the show); one of four survivors in his Los Angeles trial.",
+   "perpetrator_role": "a film producer",
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "episodes": [
+    "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "Los Angeles criminal trial (jury)",
+     "initiated_by": "unclear",
+     "when": "LA trial",
+     "what_was_asked": "",
+     "what_institution_did": "She was grilled on the stand by the defence; male jurors cited her later email; she did not receive justice.",
+     "quote": "And they were saying things like, well, I didn't like the fact that she emailed him afterwards. Those were the attitudes of some of the men on the jury.",
+     "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 23:00",
+     "response": "disbelieved",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "",
+     "notes": "'There were four survivors involved in that, and only one received justice.' (@21:58). Defence grilling is the defence attorney's conduct, not the court's."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "There were four survivors involved in that, and only one received justice.",
+   "outcome_source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 21:58",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Brief example from expert guest; the season does not say she was not among the 'one'; inferred from context. Could be treated as a bare mention."
+  },
+  {
+   "person_id": "P22",
+   "name": "Amy B. Chesler",
+   "role_in_story": "update_or_listener_story",
+   "harm": "(Season 7, updated here) Abused by her brother for years; he murdered their mother in 2007; at his 2021 parole hearing he threatened to have her whole family killed and recited her former address.",
+   "perpetrator_role": "her brother",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s15-e13-what-came-next-presents-sww-s7-updates"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police (before the murder)",
+     "initiated_by": "family_or_friends",
+     "when": "before 2007",
+     "what_was_asked": "help with the brother's abuse",
+     "what_institution_did": "Not stated in this season.",
+     "quote": "As simple as victim-shaming when they don't realize it, like, oh man, why didn't she call the cops? Well, we did, like lots.",
+     "source": "s15-e13-what-came-next-presents-sww-s7-updates @ 16:20",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Her brother murdered their mother on September 25, 2007.",
+     "notes": "Details are in Season 7, not in this folder."
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "parole board",
+     "initiated_by": "institution",
+     "when": "April-August 3, 2021",
+     "what_was_asked": "to give a victim impact statement for the first time",
+     "what_institution_did": "Initially approved her for the wrong inmate's hearing; at the hearing let him speak first, asked her to mute when he threatened her, let him postpone two years and approved a prison move, filed her statement unheard; off record dismissed his prison stabbings.",
+     "quote": "The Pearlboard asked me to mute and turn off my camera at that point, which I did.",
+     "source": "s15-e13-what-came-next-presents-sww-s7-updates @ 9:13",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "He was moved prisons twice; 'here I was being re-interjected into the abuse and victimized all over again.' (@11:17)",
+     "notes": "'off the record, quote unquote, yeah, he could have stabbed 90 more people, but you know, once you're in prison, people kind of turn a blind eye' (@10:15)."
+    },
+    {
+     "n": 3,
+     "institution_type": "other",
+     "institution": "prison investigative services unit (corrections)",
+     "initiated_by": "person",
+     "when": "2022",
+     "what_was_asked": "help filing over the death threat; information",
+     "what_institution_did": "Ignored many calls; after she said she would attend the next hearing as media, a staff member told her he was under investigation for attempted murder.",
+     "quote": "Like I was calling day after day after day after day, leaving messages, the people were saying, oh, well, he said he'd call you back.",
+     "source": "s15-e13-what-came-next-presents-sww-s7-updates @ 19:20",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'So at this very moment, I'm actually filing something against him for that additional death threat.' (@20:22)",
+     "notes": "Initially did_nothing_or_delayed; a staff member then gave information and encouragement."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "I highly doubt your brother will get out. You should keep doing everything you're doing.",
+   "outcome_source": "s15-e13-what-came-next-presents-sww-s7-updates @ 19:20",
+   "protection_contributors": [
+    "the_person",
+    "institution"
+   ],
+   "decisive_work_by": "unclear",
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Brother is imprisoned (15-to-life) but continues to threaten her; parole remains possible. Amy is the co-host of What Came Next. Online trolls and a catfish impersonating her (Facebook/Instagram refuse to verify her, @17:16) are other harms by other people, not coded. harmed_by_institution_ever kept false, though she describes the parole process as re-victimizing."
+  },
+  {
+   "person_id": "P23",
+   "name": "Hadas",
+   "role_in_story": "co_victim",
+   "harm": "Abused by her son, who murdered her on September 25, 2007.",
+   "perpetrator_role": "her son",
+   "perpetrator_convicted": "yes",
+   "deceased": true,
+   "episodes": [
+    "s15-e13-what-came-next-presents-sww-s7-updates"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police (before the murder)",
+     "initiated_by": "family_or_friends",
+     "when": "before 2007",
+     "what_was_asked": "help with the son's abuse",
+     "what_institution_did": "Not stated in this season.",
+     "quote": "As simple as victim-shaming when they don't realize it, like, oh man, why didn't she call the cops? Well, we did, like lots.",
+     "source": "s15-e13-what-came-next-presents-sww-s7-updates @ 16:20",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She was murdered.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "criminal court",
+     "initiated_by": "institution",
+     "when": "after 2007",
+     "what_was_asked": "",
+     "what_institution_did": "Son sentenced to 15 years to life.",
+     "quote": "I received notice that my brother served 85% of his 15-to-life sentence.",
+     "source": "s15-e13-what-came-next-presents-sww-s7-updates @ 6:11",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "Parole hearing 2021, postponed two years.",
+     "notes": "Conviction after death is not protection of this person."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "My brother murdered my mother on September 25, 2007",
+   "outcome_source": "s15-e13-what-came-next-presents-sww-s7-updates @ 3:07",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "conviction"
+   ],
+   "confidence": "low",
+   "notes": "Named in the episode intro ('she and her mother Hadas'). Story details are in Season 7."
+  }
+ ],
+ "others_mentioned": [
+  {
+   "description": "another live-in girlfriend kicked out after a co-girlfriend reported her secret boyfriend; banned from parties",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "And one of the other girls ratted on her, so [perpetrator] was very angry, kicked her out, packed up all her stuff in boxes, put it at the back gate for her to pick up.",
+   "source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 23:53"
+  },
+  {
+   "description": "a former girlfriend who said on Howard Stern they didn't have sex and was kicked out",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "I know one of them went on Howard Stern and said they didn't have sex. I found out later she got kicked out for it",
+   "source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 12:34"
+  },
+  {
+   "description": "the other live-in girlfriends (including Bridget and Kendra) subjected to the same rules, sex nights and triangulation",
+   "count_stated": 7,
+   "reached_institution": "no",
+   "quote": "Have had seven girlfriends at the time that I started coming up to the pool parties",
+   "source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 7:23"
+  },
+  {
+   "description": "a secretary in the 1970s who died by suicide in a drug-related incident (as described in a documentary)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "In the documentary, it talked about how he had an incident with a secretary back in the 70s. She was in a compromised position and ended up suicide",
+   "source": "s15-e1-holly-madison-theyre-not-bobbleheads @ 15:39"
+  },
+  {
+   "description": "other women attacked by the same serial rapist (papers say four to six)",
+   "count_stated": 6,
+   "reached_institution": "yes",
+   "quote": "I feel like it's been from four to six that I've seen in the papers, but I'm not exactly sure.",
+   "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 25:52"
+  },
+  {
+   "description": "the victim who knew him, had a rape kit done and led to his identification",
+   "count_stated": 1,
+   "reached_institution": "yes",
+   "quote": "One of his victims, the one who ended up getting the rape kit done and knew who he was, was a",
+   "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 22:44"
+  },
+  {
+   "description": "a woman he followed home and raped when he was 15",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "He had started following a woman home that was walking downtown and he followed her into her house and raped her.",
+   "source": "s15-e2-valentina-wait-youre-supposed-to-help-me @ 23:48"
+  },
+  {
+   "description": "Cora, friend whose apartment and cats were left in filth and whose belongings were damaged while the therapist house-sat",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "Korra told me not one piece of poop, not one puddle of pee was cleaned up. There was feces and pee everywhere.",
+   "source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 39:29"
+  },
+  {
+   "description": "friends whose signatures the therapist forged on loans as cosigner",
+   "count_stated": null,
+   "reached_institution": "no",
+   "quote": "She was forging our friends, signatures on loans, like Quick Lones as a cosigner.",
+   "source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 44:31"
+  },
+  {
+   "description": "coworkers about whom the therapist (via her mother) spread career-ending false claims",
+   "count_stated": null,
+   "reached_institution": "no",
+   "quote": "her mom brought up some things about our friends and a couple people that we worked with that were just so blatantly untrue.",
+   "source": "s15-e4-alice-john-naomi-the-wheels-fall-off @ 34:26"
+  },
+  {
+   "description": "Anne Marie, Diana's sister and Tessa's mother, who died by suicide after learning of the abuse",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "On October 21st, 2022, my sister, Anne-Marie, mother to Tessa, Avery, and Mackenzie, and grandmother to Willow, left this world.",
+   "source": "wcn-presents-sww-s15-e5-updates-part-1 @ 27:51"
+  },
+  {
+   "description": "the perpetrator's own two children (Diana's stepchildren), interviewed at the child advocacy center",
+   "count_stated": 2,
+   "reached_institution": "yes",
+   "quote": "Not only do I have my two children, I have his two children and my nieces.",
+   "source": "s15-e5-diana-the-devil-in-disguise @ 20:34"
+  },
+  {
+   "description": "another woman whose ex was in the same Kik group",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "Her ex was in the same kick account as [perpetrator].",
+   "source": "wcn-presents-sww-s15-e5-updates-part-1 @ 8:18"
+  },
+  {
+   "description": "a woman who went on one date with the fake FBI agent and felt frightened",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "She said she felt really nervous around him. And so she actually never went on a second date with him.",
+   "source": "s15-e6-jenna-jean-laughing-through-the-pain @ 60:20"
+  },
+  {
+   "description": "people who contacted Jenna with similar experiences of men posing as FBI agents (different perpetrators)",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "another amazing group of people who reached out and was like, hey, this same thing happened to me or something very similar happened to me.",
+   "source": "s15-e6-jenna-jean-laughing-through-the-pain @ 58:16"
+  },
+  {
+   "description": "an ex of Emilia's abuser who tried to press charges",
+   "count_stated": 1,
+   "reached_institution": "yes",
+   "quote": "I know one of his exes, she still talks to him. She actually tried to press charges against him at one point.",
+   "source": "s15-e7-emilia-you-just-need-me @ 88:59"
+  },
+  {
+   "description": "a nurse's best friend who dated him years earlier; and a hospital coworker he gave the silent treatment",
+   "count_stated": 2,
+   "reached_institution": "no",
+   "quote": "he dated my best friend when I worked at this other hospital. I know a lot about him. You need to stay away from him.",
+   "source": "s15-e7-emilia-you-just-need-me @ 81:43"
+  },
+  {
+   "description": "15 to 20 women he was talking to at any time on dating apps, offering money and relationships",
+   "count_stated": 20,
+   "reached_institution": "no",
+   "quote": "He is probably talking to 15 to 20 women at any given point and he's telling all these women the same thing.",
+   "source": "s15-e7-emilia-you-just-need-me @ 44:06"
+  },
+  {
+   "description": "Emilia's friends, guy best friend and little sister whom he messaged from her phone posing as her (soliciting threesomes and nudes)",
+   "count_stated": null,
+   "reached_institution": "no",
+   "quote": "He actually also texted one of my guy best friends asking him to send pictures of himself.",
+   "source": "s15-e7-emilia-you-just-need-me @ 74:21"
+  },
+  {
+   "description": "his son, endangered by his drunk driving (child endangerment charge)",
+   "count_stated": 1,
+   "reached_institution": "yes",
+   "quote": "It turns out he had child endangerment, drunk driving because he had his kid with him.",
+   "source": "s15-e7-emilia-you-just-need-me @ 22:54"
+  },
+  {
+   "description": "Lex's husband, targeted with cheating claims and compared to a family annihilator",
+   "count_stated": 1,
+   "reached_institution": "yes",
+   "quote": "They basically were comparing my husband to a man who murdered his wife and kids.",
+   "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 20:57"
+  },
+  {
+   "description": "Lex's children, tagged in sexualised posts, mocked, and subjected to two CPS visits",
+   "count_stated": 4,
+   "reached_institution": "yes",
+   "quote": "So CPS once again shows up and once again my children are put through conversations that no four",
+   "source": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly @ 46:20"
+  },
+  {
+   "description": "Stacey, who had a child with Danielle's ex 12-13 years ago and cannot complete an adoption because courts cannot find him",
+   "count_stated": 1,
+   "reached_institution": "yes",
+   "quote": "She cannot get this through the courts about adoption, because I think at one point should try to file for child support they can never find him.",
+   "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 8:09"
+  },
+  {
+   "description": "women with restraining orders against Danielle's ex (including one given the pseudonym Karesa)",
+   "count_stated": null,
+   "reached_institution": "yes",
+   "quote": "Ironically, the PI had told me that all of those women on the restraining orders, he had reached out to and told them about the podcast too.",
+   "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 4:01"
+  },
+  {
+   "description": "a woman who dated him at the same time as another victim for about five months and was told the same lies",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "I think I was only dating him around five months. He wasn't physically abusive towards her. But again, he was telling her all these lies as well about him.",
+   "source": "s15-e11-what-came-next-presents-sww-s9-updates-part-2 @ 5:01"
+  },
+  {
+   "description": "another woman he married and got pregnant",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "They're also telling me about the Private Investigators report, about the other woman he married, and got pregnant.",
+   "source": "s15-e10-what-came-next-presents-sww-s9-updates-part-1 @ 16:40"
+  },
+  {
+   "description": "Nina Lucas, CAN chief of staff, victim of a consent violation (not described)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "I was the victim of an incredible consent violation. And what I was doing is I was trying to find out what I could do about it, how I could pursue justice",
+   "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 4:05"
+  },
+  {
+   "description": "the host, a sexual assault survivor (not described)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "as a fellow sexual assault survivor myself",
+   "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 5:06"
+  },
+  {
+   "description": "the other survivors in the Los Angeles trial of a film producer (one received justice)",
+   "count_stated": 3,
+   "reached_institution": "yes",
+   "quote": "There were four survivors involved in that, and only one received justice.",
+   "source": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws @ 21:58"
+  },
+  {
+   "description": "Amy's paternal uncle, who faced sibling abuse from Amy's father",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "Things that you shared and named, like sibling abuse, was something I faced at the hands of your dad,",
+   "source": "s15-e13-what-came-next-presents-sww-s7-updates @ 5:08"
+  },
+  {
+   "description": "men catfished by a fake account impersonating Amy",
+   "count_stated": null,
+   "reached_institution": "no",
+   "quote": "they've actually created relationships with men that have devoted their time and I think some of them money in order to be in a relationship with me and it wasn't even me",
+   "source": "s15-e13-what-came-next-presents-sww-s7-updates @ 17:16"
+  }
+ ],
+ "coder_notes": "All eight chunk files read in full to their stated last lines. The season folder contains 13 numbered episodes plus two unnumbered 'WCN Presents SWW S15 E5 Updates' episodes (Diana), which I treated as part of the season. E10-E11 update Season 9 (Danielle) and E13 updates Season 7 (Amy B. Chesler); persons from those updates are coded from what these episodes say only, so their institutional histories are incomplete. E12 is an expert episode (Consent Awareness Network); the public-figure examples (Andrea Constand, Jennifer Siebel Newsom) and the TEDx Purdue case are coded with low confidence and could be treated as bare mentions. Perpetrator names (including show pseudonyms) are replaced with [perpetrator] in quotations; non-harmed people quoted verbatim (e.g. the agency owner's first name) are left as spoken because the instructions say to change nothing else in a quotation. Where a quote crosses a timestamp marker the source gives the marker where the passage begins. Valentina's 'decisive work' quote begins at 22:44 and continues into 23:48. Unassigned: only titles that could plausibly touch Season 15 themes were opened; none referred to Season 15 people. Work was interrupted several times by usage limits; notes.md was kept after every file and the JSON was built from it."
+}
