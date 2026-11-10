@@ -1,0 +1,1673 @@
+{
+  "season": 22,
+  "coder": "B",
+  "reading_log": [
+    {
+      "file": "s22_01.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s22_02.txt",
+      "last_line_number": 112,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s22_03.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": "Reading was interrupted by usage limits several times across the files; each time I resumed at the next unread line, so no lines were skipped."
+    },
+    {
+      "file": "s22_04.txt",
+      "last_line_number": 100,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s22_05.txt",
+      "last_line_number": 99,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s22_06.txt",
+      "last_line_number": 118,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s22_07.txt",
+      "last_line_number": 105,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s22_08.txt",
+      "last_line_number": 5,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "INDEX.txt",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Index of unassigned episodes, read to find any that continue S22."
+    },
+    {
+      "slug": "data-points-cons-schemes-fraud",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Fraud/scam data episode that might discuss the season's fraud story; it does not (general statistics and resources only)."
+    },
+    {
+      "slug": "data-points-false-reporting-and-its-impact-on-survivors",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "False-reporting data episode that might discuss the perpetrator's false accusations; it does not (general data; Brian Banks example from another case)."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "never_reached": {
+        "reasons": [
+          "cost_or_access",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "cost_or_access",
+            "quote": "And again, by the way, this is just a bluff. I can't afford lawyers for crud and I'm not going to go to my parents for that because they've supported me through a lot.",
+            "source": "s22-e6-a-weak-bridge-collapses @ 32:42"
+          },
+          {
+            "reason": "other",
+            "quote": "I really wouldn't want to know that their son was foolish enough to get himself in a situation like this. They'd be too disappointed in me.",
+            "source": "s22-e6-a-weak-bridge-collapses @ 33:49"
+          },
+          {
+            "reason": "other",
+            "quote": "It's a civil matter, not a criminal matter anyway.",
+            "source": "s22-e6-a-weak-bridge-collapses @ 26:33"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "his bank (financial institution)",
+          "initiated_by": "person",
+          "when": "June 2023",
+          "what_was_asked": "Stop and reverse unexplained charges on his card",
+          "what_institution_did": "Reversed 10-20 fraudulent charges in June and issued replacement cards (four cards and later a new account).",
+          "quote": "So all of this is going down all through June. I would say there were between 10 or 20 charges that my bank reversed in that month alone, and I was able to get that money back.",
+          "source": "s22-e6-a-weak-bridge-collapses @ 7:52",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He kept giving new card/account details to the perpetrator, believing the charges were ordinary identity theft; further losses followed in July.",
+          "notes": "The bank addressed the charges brought to it; it is not shown to have identified the perpetrator."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Indiana State Police (supervising sergeant)",
+          "initiated_by": "journalist_or_podcast",
+          "when": "October-November 2024",
+          "what_was_asked": "Present evidence and testimony (including Tom's organized evidence) for further charges",
+          "what_institution_did": "Met the host, received evidence; police visited the perpetrator in jail to try to get her to talk (she refused); further charges were still under consideration when the season ended.",
+          "quote": "Last week I met with the Indiana State Police to present the evidence and testimony we've collected thus far this season. It all went really well. That's really all I can share for now.",
+          "source": "s22-e5-self-made-woman @ 2:11",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Host: 'Indiana law enforcement who are still considering further charges' (s22-e12 @ 23:45). No charge for Tom's losses is reported by the season's end.",
+          "notes": "Also: 'At this point, the police had already visited [perpetrator] in jail to try and get her to talk and she refused.' (s22-e11 @ 3:12). Coded acted_partly: investigation open, no outcome yet."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Tom (show pseudonym)",
+      "role_in_story": "central_survivor",
+      "harm": "A disabled friend of four years whom the perpetrator manipulated (May-July 2023) with fake bail/homelessness crises, fake 'mom' texts and a notarized promise, taking Venmo/Zelle transfers (about $1,000, a further transfer, $2,500), card details used for repeated fraudulent charges, and a credit card opened in his name; reported to be out about $15,000 and in financial crisis.",
+      "perpetrator_role": "a friend (former disability-advocacy contact)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e5-self-made-woman",
+        "s22-e6-a-weak-bridge-collapses",
+        "s22-e7-scam-the-scammer",
+        "s22-e8-we-got-her",
+        "s22-e9-how-dare-you",
+        "s22-e10-indiana-delvey",
+        "s22-e11-double-down-finale-part-1",
+        "s22-e12-tip-of-the-iceberg-finale-part-2"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "yes",
+      "outcome": "not_protected",
+      "outcome_quote": "He was truly so excited to know that she was just in jail and not even for crimes that she had committed against him.",
+      "outcome_source": "s22-e8-we-got-her @ 29:56",
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "He threatened police and a demand letter but says it was a bluff; he reported only once he learned of the awareness group (Aug 2023 contact from a group member who is a state treasury official, acting privately, not coded as an institutional contact). The perpetrator admitted on a recorded jail call to taking his money and opening a credit card in his name (s22-e9 @ 16:37); the letter to the credit card company never happened (s22-e11 @ 23:43). An anonymous Twitter Space speaker (s22-e8 @ 38:20-40:28: 'my job became collateral', 'somebody struggles with disability') is probably Tom but not confirmed. After her Nov 2024 release she reportedly contacted 'a victim who has told [perpetrator] repeatedly not to contact him since summer of 2023' (s22-e12 @ 31:03), likely Tom."
+    },
+    {
+      "person_id": "P02",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Fishers Police Department",
+          "initiated_by": "person",
+          "when": "December 2021",
+          "what_was_asked": "Report rental fraud",
+          "what_institution_did": "Took the three reports, investigated, contacted the home's owner and obtained his lease prohibiting subletting; a probable cause affidavit followed.",
+          "quote": "According to probable cause documents filed against [perpetrator], police and Fishers began receiving calls about a rental scam in December of 2021. Each of the three victims told police that they had been in contact with [perpetrator] through Facebook about the rental property.",
+          "source": "s22-e4-apparently-all-i-do-is-lie @ 32:22",
+          "response": "believed_and_acted",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Charges came about 16 months later (April 2023).",
+          "notes": "A community member complains of the delay: 'It took almost a year for her to get charged for the original rental scams. And in that year, that was when her crimes really kind of went crazy.' (s22-e6 @ 47:09). Could also be read as delayed."
+        },
+        {
+          "n": 2,
+          "institution_type": "prosecutor",
+          "institution": "Hamilton County prosecutor",
+          "initiated_by": "institution",
+          "when": "April 25, 2023",
+          "what_was_asked": "Charge the perpetrator",
+          "what_institution_did": "Filed nine felony counts (fraud, theft, corrupt business influence); a warrant issued April 26.",
+          "quote": "And then on April 25th, 2023, [perpetrator] is charged with nine felony charges, corrupt business influence, fraud, theft, fraud, theft, fraud, theft, fraud, theft.",
+          "source": "s22-e5-self-made-woman @ 39:52",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "She turned herself in April 28, 2023 and was released on bond; she later missed court and fled.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "Hamilton County court",
+          "initiated_by": "institution",
+          "when": "August 2023",
+          "what_was_asked": "Secure her attendance",
+          "what_institution_did": "After she failed to appear, the judge issued an additional (felony) warrant.",
+          "quote": "The following day, August 24th, 2023, [perpetrator] was again supposed to attend court hearings and failed to appear. Because of this, the judge issued an additional warrant for [perpetrator]'s arrest.",
+          "source": "s22-e7-scam-the-scammer @ 35:45",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Community members located her; sheriff arrested her Sept 9, 2023.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "Hamilton County Sheriff's Office",
+          "initiated_by": "third_party",
+          "when": "September 2023",
+          "what_was_asked": "Arrest her on the warrant at an Airbnb (tip from a community member)",
+          "what_institution_did": "Went to the address and arrested her.",
+          "quote": "And he was like, well, I just wanted to let you know that we got her.",
+          "source": "s22-e8-we-got-her @ 27:52",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Booked Sept 9, 2023; held until plea and sentencing.",
+          "notes": "Location found by a community 'sting' (fake practitioner account); see decisive work notes."
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "Hamilton County court (plea and sentencing)",
+          "initiated_by": "institution",
+          "when": "November 22 and December 18, 2023",
+          "what_was_asked": "Conviction and restitution",
+          "what_institution_did": "Accepted a plea to two counts (fraud, theft; seven dismissed); 730 days with 365 suspended, probation, restitution of $1,300 and $600 x2.",
+          "quote": "Restitution was ordered to her victims in the amounts of 1,300 for one and 600 for the two others and additionally she was placed on probation for 365 days.",
+          "source": "s22-e10-indiana-delvey @ 7:47",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show",
+            "court_outcome"
+          ],
+          "what_happened_next": "Community corrections revoked April 2024 for non-compliance; served jail until Nov 15, 2024. She says she paid two of the victims back.",
+          "notes": "A community member: 'it just seems like the justice system kind of let us down here.' (s22-e10 @ 6:24) - the sentence was seen as light."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "institution",
+        "other_victims"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "During the course of the investigation, police made contact with the actual owner of the home, who stated that [perpetrator] was leasing it from him.",
+      "decisive_work_source": "s22-e4-apparently-all-i-do-is-lie @ 33:25",
+      "time_to_first_effective_action": "police investigation began with the December 2021 reports; charges about 16 months later (April 2023)",
+      "months_to_first_effective_action": 16,
+      "contacts_before_first_effective_action": 0,
+      "name": "[unnamed] three rental-scam victims of the Morgan Street house (charged case)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Each toured a Fishers home the perpetrator was only renting, signed a lease via DocuSign and paid $600-$1,700 to secure it, then had move-in dates pushed back with excuses; never got the home.",
+      "perpetrator_role": "a stranger posing as landlord on Facebook",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e4-apparently-all-i-do-is-lie",
+        "s22-e5-self-made-woman",
+        "s22-e10-indiana-delvey"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "protected",
+      "outcome_quote": "So the prosecutor needed to verify those two amounts because I paid those people back.",
+      "outcome_source": "s22-e10-indiana-delvey @ 5:23",
+      "evidence_types": [
+        "document_read_on_air",
+        "record_checked_by_show",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Group record: the season tells these three victims' story collectively and never separates them; restitution amounts cannot be matched to individuals. 'Kayla' (whom the perpetrator says she overpaid, s22-e12 @ 10:24) may be one of them. The outcome quote is the perpetrator's own claim; restitution payment is otherwise unconfirmed. The community's role was in the re-arrest after flight, not in building the case."
+    },
+    {
+      "person_id": "P03",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Victoria Hampton",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A 70-year-old woman who paid $1,800 in 2021 to sublet the perpetrator's apartment, never got keys or money back, became homeless and had to move to Arizona to live with a friend.",
+      "perpetrator_role": "a stranger offering a sublet",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e4-apparently-all-i-do-is-lie",
+        "s22-e5-self-made-woman",
+        "s22-e6-a-weak-bridge-collapses"
+      ],
+      "reached_institution": "unclear",
+      "harm_ongoing_at_first_contact": "unclear",
+      "outcome": "not_protected",
+      "outcome_quote": "You Victoria is not listed on the case that brought you in.",
+      "outcome_source": "s22-e1-morally-and-ethically-repulsive @ 50:52",
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Known from a TV news clip: 'For a year and a half, Victoria Hampton has been waiting for justice.' (s22-e4 @ 31:22) - implies she sought justice but no institution or report is named. A community member confirms she is not in the charged case. Recaps say this victim's loss 'led to her homelessness' (s22-e5 @ 15:41). Reached_institution coded unclear."
+    },
+    {
+      "person_id": "P04",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Fishers Police Department",
+          "initiated_by": "person",
+          "when": "February 15, 2021",
+          "what_was_asked": "Report being bitten",
+          "what_institution_did": "Took an incident report; no further action is shown.",
+          "quote": "February 15, 2021, [perpetrator]'s then roommate, Abby Espy, called Fisher's Police Department regarding [perpetrator] allegedly biting her on the hand, causing her to bleed.",
+          "source": "s22-e5-self-made-woman @ 13:37",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Several more incident reports in August 2021 with allegations both ways.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "civil court",
+          "initiated_by": "unclear",
+          "when": "after 2021",
+          "what_was_asked": "Not stated",
+          "what_institution_did": "A civil case between the two was heard; outcome not stated.",
+          "quote": "I'm told that the last time Abby and [perpetrator] were in the same room and saw each other was during a civil court case between the two of them.",
+          "source": "s22-e5-self-made-woman @ 15:41",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Not stated.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "law enforcement (unspecified) re identity theft",
+          "initiated_by": "unclear",
+          "when": "2024",
+          "what_was_asked": "Criminal charges for alleged identity theft (Tesla lease signed in Abby's name)",
+          "what_institution_did": "Charges were 'under consideration' but not pursued by season's end.",
+          "quote": "Today, consideration of criminal charges regarding the alleged identity theft related to the civil case regarding the Teslas is ongoing.",
+          "source": "s22-e10-indiana-delvey @ 32:57",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Later: 'further criminal charges have not been pursued at this time.' (s22-e11 @ 1:11)",
+          "notes": "Abby herself did not speak to the show; who raised the identity theft is not stated."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Abby Espy",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "The perpetrator's former roommate: allegedly bitten on the hand until it bled (Feb 2021); later volatile disputes; her room rented out against the lease; her identity allegedly used to lease a Tesla and open a Lyft account.",
+      "perpetrator_role": "her roommate/friend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e2-increasingly-strange",
+        "s22-e5-self-made-woman",
+        "s22-e10-indiana-delvey"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "yes",
+      "outcome": "not_protected",
+      "outcome_quote": "Abby Espy has not responded to our request for comment.",
+      "outcome_source": "s22-e5-self-made-woman @ 13:37",
+      "evidence_types": [
+        "record_checked_by_show",
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Abby never spoke to the show; account is from police reports and the Tesla lawsuit. The roommate relationship and incident reports involved allegations in both directions."
+    },
+    {
+      "person_id": "P05",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "civil court (Indiana)",
+          "initiated_by": "person",
+          "when": "judgment October 26, 2018",
+          "what_was_asked": "Recover the stolen money",
+          "what_institution_did": "Entered judgment for $25,152.94; about $20,592.94 remains unpaid.",
+          "quote": "On October 26, 2018, there was a judgment in civil court. According to my case, it was ruled that [perpetrator] owed her Aunt Linda $25,152.94. And as of today, she still owes $20,592.94.",
+          "source": "s22-e5-self-made-woman @ 12:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show",
+            "court_outcome"
+          ],
+          "what_happened_next": "Most of the judgment unpaid; per the perpetrator, the aunt is considering dropping the lawsuit after the perpetrator's mother's death.",
+          "notes": "A consultant reportedly 'later learned that [perpetrator] was being investigated because of the financial theft against her aunt Linda' (s22-e5 @ 6:17) - investigating body not named, not coded."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "This matter went to civil court, and [perpetrator] and her aunt Linda didn't speak for several years.",
+      "decisive_work_source": "s22-e5-self-made-woman @ 4:13",
+      "time_to_first_effective_action": "judgment in October 2018 (about a year after the 2017 theft)",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "name": "Aunt Linda",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "In 2017 the perpetrator took out credit cards in her aunt's name without consent and ran up over $20,000; noticed after close to a year.",
+      "perpetrator_role": "her niece",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e4-apparently-all-i-do-is-lie",
+        "s22-e5-self-made-woman",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "partly_protected",
+      "outcome_quote": "And as of today, she still owes $20,592.94.",
+      "outcome_source": "s22-e5-self-made-woman @ 12:32",
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Aunt not interviewed. Decisive work coded the_person because she brought the civil suit; who started it is inferred from 'went to civil court'. The perpetrator says 'My aunt is considering dropping a lawsuit' (s22-e11 @ 21:36)."
+    },
+    {
+      "person_id": "P06",
+      "never_reached": {
+        "reasons": [
+          "other",
+          "cost_or_access"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "It's important to note that part of the reason that Edward was more hesitant about going to police regarding the $5,000 that [perpetrator] had taken from him is because he was located in Canada at the time.",
+            "source": "s22-e5-self-made-woman @ 28:31"
+          },
+          {
+            "reason": "cost_or_access",
+            "quote": "I don't have money to pay for a lawyer. Even if I go for court, I'm not gonna get my money back.",
+            "source": "s22-e5-self-made-woman @ 28:31"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Edward Ma",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A Canadian friend from the Twitter mental-health community; the perpetrator impersonated the Indiana governor and others, promising him housing, and took about $5,000; then posed as a lawyer threatening legal action.",
+      "perpetrator_role": "an online friend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e5-self-made-woman",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "And the only thing I can do is talk about it. So I started talking on Twitter about it.",
+      "outcome_source": "s22-e5-self-made-woman @ 29:35",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "A friend urged him to go to local law enforcement; he decided against it. A community member tells the perpetrator 'you will never serve a day in jail for what you did to Edward' (s22-e1 @ 50:52). The perpetrator lists Edward among those she owes (s22-e11 @ 9:19)."
+    },
+    {
+      "person_id": "P07",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "civil court (collections case filed Dec 7, 2022)",
+          "initiated_by": "person",
+          "when": "December 2022 - May 2023",
+          "what_was_asked": "Recover the $5,000 plus fees",
+          "what_institution_did": "Ruled for the company after she failed to appear; nothing could be garnished.",
+          "quote": "I think she even missed actually going to court when she was supposed to, which I think is a reason why the judge ruled in our favor, because she just never even showed up.",
+          "source": "s22-e5-self-made-woman @ 35:44",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Settled May 23, 2023 per records; no money received beyond the $50 deposit.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "So we ended up having to get our lawyers involved to be able to try to get the money and she wasn't cooperating with the lawyers as much.",
+      "decisive_work_source": "s22-e5-self-made-woman @ 34:44",
+      "time_to_first_effective_action": "civil case filed about three weeks after the move; judgment by May 2023",
+      "months_to_first_effective_action": 6,
+      "contacts_before_first_effective_action": 0,
+      "name": "Seth (Bulldogs Moving Company co-owner)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "His young moving company packed, moved and unpacked the perpetrator (Nov 2022) for about $5,000; she paid with a check from a closed account and then ghosted them.",
+      "perpetrator_role": "a customer",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e5-self-made-woman",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "partly_protected",
+      "outcome_quote": "Did you guys end up getting paid back anything to your knowledge? No, we only require $50 deposit on the front end that she paid before the move so that's the only money that actually cleared.",
+      "outcome_source": "s22-e5-self-made-woman @ 36:47",
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Seth later warned the next moving company, which then held her goods in its own storage (s22-e5 @ 37:49). Partly protected: judgment but no recovery."
+    },
+    {
+      "person_id": "P08",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "Utah civil court",
+          "initiated_by": "person",
+          "when": "filed October 2023",
+          "what_was_asked": "Damages of at least $64,618 for breach, fraud, conversion etc.",
+          "what_institution_did": "Lawsuit proceeded to a judgment in Mason Motors' favor.",
+          "quote": "Months after Alex connected with Stephen in October 2023, he and his company Mason Motors filed a lawsuit against [perpetrator] for breaking terms in their two signed agreements.",
+          "source": "s22-e10-indiana-delvey @ 24:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "document_read_on_air",
+            "court_outcome"
+          ],
+          "what_happened_next": "Judgment domesticated in Indiana.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "Indiana court (domestication of foreign judgment)",
+          "initiated_by": "person",
+          "when": "July 5, 2024",
+          "what_was_asked": "Enforce the Utah judgment in Indiana",
+          "what_institution_did": "Ordered the Utah judgment of $68,002.10 recognized in Indiana, allowing garnishment/seizure.",
+          "quote": "The judgment amount is $68,002.10.",
+          "source": "s22-e10-indiana-delvey @ 34:00",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show",
+            "court_outcome"
+          ],
+          "what_happened_next": "Unpaid at season's end; the perpetrator says she was counseled to declare bankruptcy on bigger debts.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "law enforcement (unspecified)",
+          "initiated_by": "unclear",
+          "when": "2024",
+          "what_was_asked": "Criminal charges for identity theft",
+          "what_institution_did": "Considered but not pursued by season's end.",
+          "quote": "and further criminal charges have not been pursued at this time.",
+          "source": "s22-e11-double-down-finale-part-1 @ 1:11",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "None reported.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "So he was able to use Tesla's app in which he could disable the car. And so he disabled it, flew to Indiana, picked the car up and drove it back to Utah.",
+      "decisive_work_source": "s22-e10-indiana-delvey @ 22:30",
+      "time_to_first_effective_action": "car recovered himself in 2023; lawsuit filed October 2023; Indiana enforcement July 2024",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "name": "Stephen (Mason Motors)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A Utah Tesla lessor: the perpetrator crashed a leased blue Tesla (no insurance payout), leased a white Tesla using her former roommate's identity, fell behind on payments, submitted allegedly forged insurance documents and used a fake dead-child story to delay paying.",
+      "perpetrator_role": "a lessee (customer)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e6-a-weak-bridge-collapses",
+        "s22-e10-indiana-delvey",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "yes",
+      "outcome": "partly_protected",
+      "outcome_quote": "And although Stephen and his company, Mason Motors, won the civil case, [perpetrator] has yet to pay the judgment of $68,210, and further criminal charges have not been pursued at this time.",
+      "outcome_source": "s22-e11-double-down-finale-part-1 @ 1:11",
+      "evidence_types": [
+        "document_read_on_air",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "He had already hired a lawyer when a community member (Alex) contacted him; she supplied documentation identifying the white Tesla. Recovery of the car was self-help, not institutional. Judgment figures differ ($68,002.10 vs $68,210). Stephen did not give an interview."
+    },
+    {
+      "person_id": "P09",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Fishers Police Department",
+          "initiated_by": "person",
+          "when": "December 11, 2020",
+          "what_was_asked": "Report a client impersonating political figures over text",
+          "what_institution_did": "Took an incident report; no further action shown.",
+          "quote": "On December 11, 2020, according to a Fishers Police incident report, a local chiropractor called Fishers PD about his client, who was [perpetrator], impersonating political figures over text.",
+          "source": "s22-e5-self-made-woman @ 12:32",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "She filed a HIPAA complaint against him.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "regulator_or_licensing",
+          "institution": "HIPAA complaint body (not named)",
+          "initiated_by": "unclear",
+          "when": "after Dec 2020",
+          "what_was_asked": "(Complaint filed against him by the perpetrator)",
+          "what_institution_did": "Found the perpetrator's complaint invalid; he 'won'.",
+          "quote": "That chiropractor ended up winning and it was proven that [perpetrator]'s claim against him was not valid.",
+          "source": "s22-e5-self-made-woman @ 13:37",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Not stated.",
+          "notes": "initiated_by is unclear because the complaint was the perpetrator's own counter-accusation, not his report."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "[unnamed] local chiropractor",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "His client (the perpetrator) impersonated political figures over text to him; after he reported her to police, she filed a HIPAA complaint against him for reporting.",
+      "perpetrator_role": "his client",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e5-self-made-woman"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "yes",
+      "outcome": "partly_protected",
+      "outcome_quote": "That chiropractor ended up winning and it was proven that [perpetrator]'s claim against him was not valid.",
+      "outcome_source": "s22-e5-self-made-woman @ 13:37",
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "low",
+      "notes": "Known only from the host's summary of a police incident report and records. Partly protected: cleared of the counter-complaint; nothing shown about the impersonation report."
+    },
+    {
+      "person_id": "P10",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Fishers Police Department",
+          "initiated_by": "person",
+          "when": "September 2021",
+          "what_was_asked": "Report the sublet fraud",
+          "what_institution_did": "Investigated; she was repaid a month later.",
+          "quote": "September of 2021, the Fisher's police were investigating [perpetrator] for trying to sublease a unit in the district of Saxony apartment complex. A woman told police that she paid [perpetrator] $1,700 but never received a key to the apartment. The woman was paid back a month later.",
+          "source": "s22-e5-self-made-woman @ 14:38",
+          "response": "acted_partly",
+          "basis": [
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Repaid a month later; no charge shown for this incident.",
+          "notes": "Whether the investigation caused the repayment is not stated."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": "repaid about a month after the police investigation",
+      "months_to_first_effective_action": 1,
+      "contacts_before_first_effective_action": 0,
+      "name": "[unnamed] woman who paid $1,700 for a Saxony apartment sublet",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Paid the perpetrator $1,700 to sublease a unit in the Saxony apartment complex (2021) but never received a key.",
+      "perpetrator_role": "a stranger offering a sublet",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e5-self-made-woman"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "partly_protected",
+      "outcome_quote": "The woman was paid back a month later.",
+      "outcome_source": "s22-e5-self-made-woman @ 15:41",
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "low",
+      "notes": "One-paragraph mention from police records."
+    },
+    {
+      "person_id": "P11",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "So like I didn't even fully know what was going on half the time. And did, yeah, I definitely did not have the knowledge of how to handle that.",
+            "source": "s22-e2-increasingly-strange @ 45:35"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Faith Burnside",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "An online friend who, in spring-summer 2017, received extremely graphic, threatening sexual texts from multiple numbers posing as politicians, which she later learned came from the perpetrator; drawn into hours-long nightly calls.",
+      "perpetrator_role": "an online friend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e2-increasingly-strange",
+        "s22-e5-self-made-woman",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "At this point, I told her, I don't think you're telling me the truth. I'm not going to participate in this anymore.",
+      "outcome_source": "s22-e2-increasingly-strange @ 43:33",
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "The perpetrator denies it (s22-e11 @ 15:26). Faith blocked numbers and stayed Facebook friends only to monitor her."
+    },
+    {
+      "person_id": "P12",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "And my first response to Jeff was, well, if that's happening, we need to file a police report immediately. And I think that was maybe a new thought to him. Of course, he's in Canada.",
+            "source": "s22-e3-murder-for-hire @ 29:10"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Pastor Jeff Thompson",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A Canadian pastor deceived over weeks (March 2022) by texts from multiple fake numbers and forged screenshots claiming a murder-for-hire plot against him by church leaders; he considered fleeing the house with his children.",
+      "perpetrator_role": "an online contact / podcast host",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e3-murder-for-hire",
+        "s22-e5-self-made-woman",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "I think it was the next day and said, Julie, this whole thing is a hoax. I am so, so sorry. She just totally had me duped.",
+      "outcome_source": "s22-e3-murder-for-hire @ 29:10",
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Discovered the hoax himself before any report; issued a public statement to his congregation (read on air, s22-e3 @ 30:11). Declined interview. The perpetrator admitted the plot was fabricated 'for attention' (s22-e4 @ 57:18)."
+    },
+    {
+      "person_id": "P13",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I remember reaching out and just asking her to stop doing that, that I was concerned for her and the way that she was behaving and that I would have to publicly say the stuff that she did.",
+            "source": "s22-e3-murder-for-hire @ 38:17"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Julie Roys",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "An investigative journalist named in the fake murder-for-hire threat and later targeted with fabricated emails the perpetrator sent to a blogger, who published claims for three days that she was unethical/immoral before retracting.",
+      "perpetrator_role": "a citizen-journalist contact",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e3-murder-for-hire",
+        "s22-e5-self-made-woman",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "But again, for three days, he's publishing that I've done something immoral, that I'm this awful person, and with no documentation at that point, again, being duped. And that's just shocking.",
+      "outcome_source": "s22-e3-murder-for-hire @ 37:15",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "She said she would go to police over the threat ('I'm going to go police too', s22-e3 @ 29:10) but it was revealed as a hoax the next day; no report is shown. The blogger's retraction is not an institutional response."
+    },
+    {
+      "person_id": "P14",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I just basically got off the phone and that was really the last interaction that I had with her.",
+            "source": "s22-e4-apparently-all-i-do-is-lie @ 25:14"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Sandy Rusk (the perpetrator)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A mother estranged from her daughter by her church; over five months (Dec 2021-Apr 2022) the perpetrator exploited her pain with invented insider news about the daughter, culminating in a midnight call that the daughter was stranded, sending Sandy driving out to find her.",
+      "perpetrator_role": "an acquaintance from local Facebook groups",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e4-apparently-all-i-do-is-lie",
+        "s22-e5-self-made-woman"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "knowing that this whole evening of Me being worried about my daughter was all just fake",
+      "outcome_source": "s22-e4-apparently-all-i-do-is-lie @ 25:14",
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "She gave no money. She received a jail call from the perpetrator asking for help and refused."
+    },
+    {
+      "person_id": "P15",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "Five years ago, in the first part of the year, it'll be five years, they totally separated her from me. And I've not been able to even see or speak to my daughter since February 28th of 2020.",
+            "source": "s22-e4-apparently-all-i-do-is-lie @ 9:33"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Sandy Rusk (iTown church)",
+      "role_in_story": "other",
+      "harm": "Her daughter, involved with the church since 14 and later on its staff, was separated from her; she has not seen or spoken to her since February 2020.",
+      "perpetrator_role": "her daughter's church (iTown, an ARC church)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e4-apparently-all-i-do-is-lie"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "And even today, they still have control of my daughter, a hundred percent.",
+      "outcome_source": "s22-e4-apparently-all-i-do-is-lie @ 10:34",
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Told as background; she created a Facebook group and TikTok about the church. The show's request for comment to iTown got no response (s22-e4 @ 26:14) - not clearly about her case, so not coded as a contact. Allegation against the church is hers alone."
+    },
+    {
+      "person_id": "P16",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "So I messaged the group admins and I told them and I sent them my doorbell camera footage and I'm pretty sure after that she was removed from the group.",
+            "source": "s22-e6-a-weak-bridge-collapses @ 39:58"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Alyssa (porch items)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "The perpetrator took a baby gate and other people's bags of donated items off her porch at 1 a.m. via a Buy Nothing group.",
+      "perpetrator_role": "a stranger in a Buy Nothing group",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e6-a-weak-bridge-collapses",
+        "s22-e7-scam-the-scammer"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "my involvement in all of this really has come from like a sidebar standpoint because she stole some stuff off my porch, but she didn't technically scam me. She didn't hurt me, but she hurt people that I love.",
+      "outcome_source": "s22-e7-scam-the-scammer @ 32:43",
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Reported only to volunteer group admins (not coded as an institution). Alyssa later led police stings for others' cases (police release Aug 12, 2023 on a non-extraditable bench warrant; sheriff arrest Sept 2023) and reported a probation violation; those contacts are coded under the rental victims or noted in coder_notes."
+    },
+    {
+      "person_id": "P17",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I told him I would not speak to anyone that sends these messages. That was my piece of advice. It was just screenshot at all and don't respond.",
+            "source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 6:18"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Haribo (massage practitioner)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A New Jersey practitioner paid largely with stolen money who was then publicly accused of sexual impropriety, reportedly reported to police for sexual assault after asking her to catch up on payments, and harassed by threatening texts from about seven fake numbers.",
+      "perpetrator_role": "a client",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e5-self-made-woman",
+        "s22-e8-we-got-her",
+        "s22-e11-double-down-finale-part-1",
+        "s22-e12-tip-of-the-iceberg-finale-part-2"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "Hopefully your saga with her has come to an end. Hope you and Levina are well. And he said, thank you, Hannah. I appreciate you for letting me know.",
+      "outcome_source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 6:18",
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Account comes through Hannah, who read their texts on air. The perpetrator's police report against him is the perpetrator's act; what police did with it is not stated. He said 'If it does get ugly' he would take legal action over payments. Harm ended when she was jailed for other matters."
+    },
+    {
+      "person_id": "P18",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police (Elwood area; chief of police)",
+          "initiated_by": "person",
+          "when": "about 2013-2014",
+          "what_was_asked": "Address the false accusation",
+          "what_institution_did": "Interviewed the perpetrator, called in her parents, confronted her with proof the texts were fabricated; the allegations were found false.",
+          "quote": "It's alleged that your parents and you were spoken to by police about falsely accusing one of your church pastors of sexual assault and that the church called you to speak to you upon the realization that you had lied about the accusations",
+          "source": "s22-e1-morally-and-ethically-repulsive @ 13:40",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "She denied it; no charge mentioned. The church also called her in.",
+          "notes": "Detail from the host's recap (s22-e5 @ 6:17-7:19): the pastors went to police immediately; the chief called in her parents; the officer judged her lacking remorse. The pastors' names are withheld here."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "institution",
+        "the_person"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "The chief of police called her parents immediately and said, listen, you need to come down to the police station with [perpetrator] and we need to address an issue.",
+      "decisive_work_source": "s22-e5-self-made-woman @ 7:19",
+      "time_to_first_effective_action": "immediately",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "name": "[unnamed] church pastor couple falsely accused",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "When she was 15-16, the perpetrator fabricated texts claiming her pastor and his wife invited her to watch them have sex, and told a congregation member.",
+      "perpetrator_role": "a teenage member of their congregation",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e1-morally-and-ethically-repulsive",
+        "s22-e5-self-made-woman",
+        "s22-e11-double-down-finale-part-1"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "yes",
+      "outcome": "protected",
+      "outcome_quote": "They're claiming that it was found out that you had fabricated the text messages and therefore the allegations against them were false.",
+      "outcome_source": "s22-e11-double-down-finale-part-1 @ 14:25",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Group record for the couple. Source is a third-party Facebook Live interview relayed by the host. E1 describes 'one of your church pastors'; E5 says 'two'."
+    },
+    {
+      "person_id": "P19",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "Her mom would go from a couple days to a couple weeks without speaking to [perpetrator].",
+            "source": "s22-e9-how-dare-you @ 32:00"
+          }
+        ]
+      },
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Gail (the perpetrator's mother)",
+      "role_in_story": "other",
+      "harm": "While jailed (2023-2024) the perpetrator called her mother incessantly and pressed others to call her; the mother stopped answering for days or weeks. Her identity was also apparently used in texts to Tom.",
+      "perpetrator_role": "her daughter",
+      "perpetrator_convicted": "no",
+      "deceased": true,
+      "episodes": [
+        "s22-e5-self-made-woman",
+        "s22-e6-a-weak-bridge-collapses",
+        "s22-e9-how-dare-you",
+        "s22-e10-indiana-delvey"
+      ],
+      "reached_institution": "no",
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "outcome": "never_reached",
+      "outcome_quote": "After only 27 days of her community corrections program release, on March 29th, 2024, [perpetrator]'s mom, Gail, tragically passed away unexpectedly.",
+      "outcome_source": "s22-e10-indiana-delvey @ 35:02",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Alyssa: 'I think it led to her mother's demise. That's truly speculation' (s22-e9 @ 33:02). Death is not attributed to the harm. Perpetrator asked Alyssa to request a welfare check; she declined."
+    },
+    {
+      "person_id": "P20",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "Wells Fargo (bank)",
+          "initiated_by": "person",
+          "when": "2023",
+          "what_was_asked": "Recover payment on the bad check",
+          "what_institution_did": "Not stated.",
+          "quote": "I'm in process calling Wells Fargo where she wrote a check from a closed account for her appointment.",
+          "source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 13:33",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Not stated.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "Jenny (massage therapist)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Paid with a check from a closed account on January 3, 2023 for an appointment (under a few hundred dollars).",
+      "perpetrator_role": "a client",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s22-e12-tip-of-the-iceberg-finale-part-2"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "not_protected",
+      "outcome_quote": "Someone named Jenny said, I totally was and this is the first time hearing of her horrible crap.",
+      "outcome_source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 13:33",
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Also spelled 'Ginny' (s22-e12 @ 20:42). Outcome unknown; coded not_protected because no effective action is shown."
+    },
+    {
+      "person_id": "P21",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "Elwood City Court",
+          "initiated_by": "unclear",
+          "when": "case opened August 2, 2023; plea December 19, 2024",
+          "what_was_asked": "Not stated",
+          "what_institution_did": "Accepted a guilty plea to misdemeanor theft (with driving cases); $250 fine.",
+          "quote": "The third criminal misdemeanor case was for a case opened on August 2nd, 2023 for theft.",
+          "source": "s22-e11-double-down-finale-part-1 @ 11:21",
+          "response": "believed_and_acted",
+          "basis": [
+            "record_checked_by_show",
+            "court_outcome"
+          ],
+          "what_happened_next": "Fine ordered; no restitution to the cleaner mentioned.",
+          "notes": "The link between this theft case and the house cleaner comes from the perpetrator: 'This is a house cleaner that claimed that I guess she wasn't paid' (s22-e11 @ 7:15). She claims the cleaner was paid twice."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "On December 19, 2024, [perpetrator] pled guilty to three criminal misdemeanor charges in Elwood, Indiana.",
+      "decisive_work_source": "s22-e11-double-down-finale-part-1 @ 10:19",
+      "time_to_first_effective_action": "about 16 months from case opening to plea",
+      "months_to_first_effective_action": 16,
+      "contacts_before_first_effective_action": 0,
+      "name": "[unnamed] house cleaner (Elwood theft case)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Not paid for cleaning work, per the perpetrator's description of the Elwood theft case.",
+      "perpetrator_role": "a client",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s22-e11-double-down-finale-part-1",
+        "s22-e12-tip-of-the-iceberg-finale-part-2"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "protected",
+      "outcome_quote": "On December 19, 2024, [perpetrator] pled guilty to three criminal misdemeanor charges in Elwood, Indiana.",
+      "outcome_source": "s22-e11-double-down-finale-part-1 @ 10:19",
+      "evidence_types": [
+        "record_checked_by_show",
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "Barely described; cleaner never heard. Who reported is not stated."
+    },
+    {
+      "person_id": "P22",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "And I was telling my now husband, my mom, other people who are close to me, and everyone had the same reaction, which was just, no, there's no way that that's what happened.",
+            "source": "s22-e13-truer-crime-with-celisia-stanton @ 6:21"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "state investigators (agency not named), working with FBI self-surrender",
+          "initiated_by": "person",
+          "when": "late 2020",
+          "what_was_asked": "Find out what happened and recover her money",
+          "what_institution_did": "Connected her to the investigator already on the case, who took her account and all her documents but would not confirm she had been defrauded.",
+          "quote": "And so she ended up getting me connected with one of the investigators who had been investigating him. And then I talked on the phone with her and just kind of had to answer some questions on my experience",
+          "source": "s22-e13-truer-crime-with-celisia-stanton @ 8:23",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Charges followed that winter.",
+          "notes": "The advisor had texted her that he turned himself in to the FBI; an investigation predated her contact."
+        },
+        {
+          "n": 2,
+          "institution_type": "victim_services",
+          "institution": "assigned victim advocate",
+          "initiated_by": "institution",
+          "when": "2020-2021",
+          "what_was_asked": "Information and support",
+          "what_institution_did": "Sent a coping pamphlet; she had to chase information by email; no real advocacy.",
+          "quote": "I was assigned a victims advocate. I don't remember if that was the exact name, but that's essentially the function. It was wild because I was like, victim's advocate. I don't remember if that was the exact name, but that's essentially the function. It was wild because I was like, wow, this is I'm getting nothing from this person.",
+          "source": "s22-e13-truer-crime-with-celisia-stanton @ 10:27",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'The victim advocate I had really wasn't helping me through that process.'",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "criminal court (charging, plea, sentencing)",
+          "initiated_by": "institution",
+          "when": "winter 2020 - summer 2021",
+          "what_was_asked": "Accountability and restitution",
+          "what_institution_did": "He pleaded guilty and was sentenced to about seven years; restitution ordered; some assets liquidated and distributed (a small amount, over a year later).",
+          "quote": "He ended up being sentenced to about seven years of prison time.",
+          "source": "s22-e13-truer-crime-with-celisia-stanton @ 21:59",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Little money recovered: 'it was a really small amount of money.'",
+          "notes": "He was free between plea and sentencing and given months to report to prison, which frightened her."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "it was found that from 2017 through November 2020, he defrauded at least 23 of his investor clients out of approximately in the end, it was totaled over $2,300,000.",
+      "decisive_work_source": "s22-e13-truer-crime-with-celisia-stanton @ 21:59",
+      "time_to_first_effective_action": "charged that winter; sentenced summer 2021 (under a year)",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "name": "Celisia Stanton",
+      "role_in_story": "update_or_listener_story",
+      "harm": "A Minneapolis photographer who invested essentially all her savings (tens of thousands of dollars) with a fiduciary financial advisor (2020), who faked account figures and stole it as part of a $2.3 million fraud on at least 23 clients.",
+      "perpetrator_role": "her financial advisor",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s22-e13-truer-crime-with-celisia-stanton"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "protected",
+      "outcome_quote": "He's in prison now. He owes restitution. That likelihood that that's gonna be paid back in any like significant way is very low.",
+      "outcome_source": "s22-e13-truer-crime-with-celisia-stanton @ 23:00",
+      "evidence_types": [
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Separate story (guest episode). Outcome coded protected because conviction (the protective action available) came after the harm had ended; she did not recover her money and says she got no closure from the system. Perpetrator's name (read on air) withheld."
+    },
+    {
+      "person_id": "P23",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police (Ohio)",
+          "initiated_by": "institution",
+          "when": "2002",
+          "what_was_asked": "Investigate the murder",
+          "what_institution_did": "Investigated with little evidence collected; identified a suspect from unreliable witness testimony.",
+          "quote": "They were able to identify a suspect through witness testimony that was not as reliable as one would hope.",
+          "source": "wcn-presents-madison-mcghee-ice-cold-case @ 7:32",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Grand jury did not proceed.",
+          "notes": "Daughter: 'This lack of evidence, this lack of investigation, not interviewing people at the time.' (@ 33:36)"
+        },
+        {
+          "n": 2,
+          "institution_type": "prosecutor",
+          "institution": "prosecutor / grand jury",
+          "initiated_by": "institution",
+          "when": "2002",
+          "what_was_asked": "Indict the suspect",
+          "what_institution_did": "Took the suspect to a grand jury, which found insufficient evidence; charges dropped.",
+          "quote": "They took a person to the grand jury to see if there was enough to take it all the way to trial. They decided that they didn't have enough and they dropped the charges on this suspect.",
+          "source": "wcn-presents-madison-mcghee-ice-cold-case @ 7:32",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'Since then, there's been no new evidence brought up.'",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "prosecutor",
+          "institution": "county / prosecutor's office (records request)",
+          "initiated_by": "family_or_friends",
+          "when": "May 2020 - January 2021",
+          "what_was_asked": "Access to the case file",
+          "what_institution_did": "Promised two and a half weeks; took about eight months and only after she went over the clerk's head; produced a 36-page file.",
+          "quote": "My initial contact was May of 2020 and I received the files in January of 2021.",
+          "source": "wcn-presents-madison-mcghee-ice-cold-case @ 12:42",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She found the file thin and full of holes.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "local police (current)",
+          "initiated_by": "family_or_friends",
+          "when": "2020s",
+          "what_was_asked": "Solve the case",
+          "what_institution_did": "Still name the same main suspect but take no action.",
+          "quote": "To this day, the police still tell me that that's their number one suspect. But that seems so strange to just let this person run around in your town and in your county if you think they murdered someone.",
+          "source": "wcn-presents-madison-mcghee-ice-cold-case @ 22:12",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Daughter investigates herself via her podcast; tips coming in.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "name": "John Cornelius McGee (Madison McGhee's father)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Shot and killed at his front door in Ohio in 2002; his daughter, then six, was told it was a heart attack and learned at 16 that he was murdered. The case remains unsolved.",
+      "perpetrator_role": "unknown killer (police have a main suspect)",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": true,
+      "episodes": [
+        "wcn-presents-madison-mcghee-ice-cold-case"
+      ],
+      "reached_institution": "yes",
+      "harm_ongoing_at_first_contact": "no",
+      "outcome": "not_protected",
+      "outcome_quote": "Since then, there's been no new evidence brought up. There's been no new information that they've uncovered. It's just sat for 22 years.",
+      "outcome_source": "wcn-presents-madison-mcghee-ice-cold-case @ 7:32",
+      "evidence_types": [
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Crossover episode (WCN Presents / What Came Next) found inside the s22 folder; coded because it is part of the season file set. Daughter Madison acts for him. perpetrator_convicted coded charged_not_convicted (charges dropped after grand jury)."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "people the host says claim the perpetrator conned them",
+      "count_stated": 300,
+      "reached_institution": "unknown",
+      "quote": "there are like upwards of 300 victims claiming that you've conned them by now.",
+      "source": "s22-e1-morally-and-ethically-repulsive @ 24:01"
+    },
+    {
+      "description": "people who told a political acquaintance they had given the perpetrator small sums (e.g., $10 for a suicide-prevention walk, classroom)",
+      "count_stated": 200,
+      "reached_institution": "unknown",
+      "quote": "I probably had between 150 to 200 people over that week who reached out to me on social media",
+      "source": "s22-e4-apparently-all-i-do-is-lie @ 36:32"
+    },
+    {
+      "description": "victims counted from Facebook groups beyond the probable cause affidavit",
+      "count_stated": 50,
+      "reached_institution": "unknown",
+      "quote": "My count from Facebook groups was 20 to 50.",
+      "source": "s22-e4-apparently-all-i-do-is-lie @ 51:10"
+    },
+    {
+      "description": "young parents unable to buy their children Christmas gifts / people left homeless",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "so-and-so was left homeless, so-and-so couldn't buy their kids Christmas presents",
+      "source": "s22-e4-apparently-all-i-do-is-lie @ 61:23"
+    },
+    {
+      "description": "former Indiana House Speaker falsely accused by the perpetrator of sexual assault (she later admitted it was untrue); other politicians and governor also named in her claims",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "So it's only [the Speaker]? Yeah. And that turns out to be not true? Yeah.",
+      "source": "s22-e4-apparently-all-i-do-is-lie @ 45:00"
+    },
+    {
+      "description": "Elizabeth, a statehouse worker falsely described as holding the perpetrator and the Speaker at gunpoint",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "I didn't go to the police. I don't know if Elizabeth did.",
+      "source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 27:55"
+    },
+    {
+      "description": "owner of the Morgan Street rental home whose property was sublet without permission (evicting the perpetrator)",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "The owner told police he was in the process of evicting [perpetrator] for attempting to sublease his rental property to several different people.",
+      "source": "s22-e4-apparently-all-i-do-is-lie @ 34:25"
+    },
+    {
+      "description": "Adam, who sued the perpetrator in civil court and was repaid (perpetrator's account)",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "He had sued me and I got him paid back and that was a civil case.",
+      "source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 9:23"
+    },
+    {
+      "description": "second moving company whose truckload was stored when payment failed",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "I think that's when he decided to like put the second truck worth of stuff into his own storage unit.",
+      "source": "s22-e5-self-made-woman @ 37:49"
+    },
+    {
+      "description": "man and wife urged to send $2,000 to the perpetrator posing as car sales rep; Nichols (planned $1,000 down); Annabella (asked for $500 bail) - none reported losing money",
+      "count_stated": 4,
+      "reached_institution": "unknown",
+      "quote": "I didn't give her any money, but I'm concerned that others read her Twitter post",
+      "source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 13:33"
+    },
+    {
+      "description": "political consultant hired for the perpetrator as a teen, left unpaid",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "I believe she still owed him money at the end of that relationship.",
+      "source": "s22-e5-self-made-woman @ 6:17"
+    },
+    {
+      "description": "people reportedly scammed in Europe",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "Because I believe that there were some people discovered in Europe to have been scammed.",
+      "source": "s22-e12-tip-of-the-iceberg-finale-part-2 @ 18:46"
+    },
+    {
+      "description": "Airbnb owner she failed to pay",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "we talked to the Airbnb owner and he told us that he had already had some issues with her not wanting to pay.",
+      "source": "s22-e8-we-got-her @ 27:52"
+    },
+    {
+      "description": "male community-corrections participant asked for his Social Security number to open an AT&T account",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "she requested his personal information, including his social security number, to open an AT&T account for herself",
+      "source": "s22-e10-indiana-delvey @ 37:03"
+    },
+    {
+      "description": "other clients of Celisia Stanton's financial advisor, including a retiring couple and the wife's sister with early-onset dementia whose care money was invested",
+      "count_stated": 23,
+      "reached_institution": "yes",
+      "quote": "he defrauded at least 23 of his investor clients",
+      "source": "s22-e13-truer-crime-with-celisia-stanton @ 21:59"
+    }
+  ],
+  "coder_notes": "Season 22 is about one perpetrator, a young Indiana woman whose scams, impersonations and false accusations affected many people (her name is withheld throughout and replaced by [perpetrator] in quotes). Most of the season is told by community members (a Facebook 'scam awareness' group) and the host rather than by those harmed; many victims never spoke. Community members' work was mostly in finding her after she skipped bond: (1) an Aug 12, 2023 sting where police released her because the only warrant then was a non-extraditable bench warrant from the OWI case ('they basically just let her go', s22-e7 @ 31:42) - this concerned her OWI, not any harmed person's case, so it is not coded as a contact; (2) the Sept 2023 arrest after a fake practitioner account located her, coded under the rental-scam victims. Not coded as persons: Chloe, Justin, Alex Brewster, Lainey, Amanda, Hannah, Mike Neal (participants whose 'harm' was deceit, faked campaign data, co-opted stories or wasted effort; none describe institutional contact on their own harm), the Todd Young/Curtis Hill campaigns and the Madison County GOP (organizations), iTown children's gift drive (the church bought the gifts; no child harmed). The falsely accused Speaker and others are listed in others_mentioned without names because of the accused-person rule. Group records were used for the three charged rental victims and the pastor couple because the season tells each group's story together. E13 (Celisia Stanton, a different perpetrator) and a WCN/What Came Next crossover about Madison McGhee's father (found inside s22_07/s22_08) are coded as separate stories. The perpetrator's own statements (e.g., repaying victims, the aunt dropping her suit) are flagged as such. Reading was interrupted by usage limits several times; I resumed at the next unread line each time, and all eight files were read to their last line."
+}
