@@ -27,6 +27,8 @@ read to its last line, quotations verified against the transcripts with `tools/c
 - Naming (S-21): some quotations keep a non-victim's first name (e.g. S15 A, an agency owner),
   because the instructions only required replacing perpetrator names. Scrub non-victim names from
   any quotation before it is published in RESULTS.md or elsewhere.
+- S22 A kept the perpetrator's name inside quotations taken from news reports, court records or
+  statements read on air (its own deviation from the rule). Redact before any publication.
 - Isolation of coders is by instruction; several wrote helper scripts outside their folder.
 
 ## Rebuilding the transcripts in a new container
