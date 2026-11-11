@@ -11,7 +11,15 @@ The attached environment contained only the earlier sww-coding-kit. The analysis
 was located through the connected GitHub account and cloned at
 `/workspace/coercive-harm-framework`; main initially was `ccfabfb`.
 
-Two stages were committed and pushed to main:
+Two stages were initially committed and pushed to main in error. **Current location:
+`analysis/whole-story-isolated`, unmerged.** Endorphin clarified that another Claude session
+is independently doing the analysis and must not receive this work when it resumes. Main
+has been restored to the original coding-complete commit `ccfabfb`; the analysis commits
+and the temporary revert are no longer in main's ancestry. They were preserved on this
+separate branch. All further work, commits and pushes must stay on this branch; no merge
+or main update without a new explicit instruction.
+
+The completed stages preserved here are:
 
 - `d03752d`: D6 analysis decisions, fixed before opening person records or computing any
   headline. Primary person–harm-per-season analysis plus earliest-identifiable-story
@@ -60,9 +68,11 @@ here. Do not report verification as completed.
    follow the plan consistently. Include unknown/omitted denominators, not just agreed
    percentages. Never mutate coded files. Record newly necessary choices before results.
 3. Run disconfirming tests and read coded quotations for each headline, recording exact
-   sample IDs and counts. Write RESULTS beside the earlier results and external data;
+   sample IDs and counts. Write RESULTS on this branch beside the earlier results and
+   external data;
    update README, docs 04/08/10, audit lean log and continuity; execute the session-log
-   workflow from `.claude/commands/session-log.md`. Commit and push after each stage.
+   workflow from `.claude/commands/session-log.md`. Commit and push after each stage only
+   to `analysis/whole-story-isolated`.
 
 ## Limits and tensions
 
@@ -78,3 +88,16 @@ make the cost visible. No direction of its effect is claimed before arithmetic.
 No new substantive objections were raised; OBJ-031 still needs its whole-story update once
 results exist. No changes to working agreements were proposed. Endorphin's naming,
 no-shortcuts, machine-only and no-subagents instructions remain in force.
+
+## Prompt corrected after the branch-isolation instruction
+
+`sessions/NEXT-SESSION-whole-story-analysis-prompt.md` now continues this branch, uses its
+D6 decisions and matching files, and explicitly prohibits pushing to or merging into main.
+The earlier paste-ready prompt in chat incorrectly located these additions on main and must
+not be used unchanged. A genuinely independent analyst should use the original coding-only
+base and its own branch, without reading this branch's analysis decisions or matches.
+
+The environment change does not establish whether the other Claude read any of the temporary
+main additions. No claim about that session's exposure is made. Pushing alone does not update
+a separate existing checkout. Current main's files and ancestry are restored; this branch
+remains discoverable if someone deliberately reads other branches.

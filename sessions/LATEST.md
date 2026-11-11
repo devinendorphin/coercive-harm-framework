@@ -1,7 +1,8 @@
 # LATEST — Continuity Seed
 
-*Updated 2026-11-11, session `whole-story-analysis-handoff`. Main contains committed
-analysis decisions and identity matches; no whole-story headline has been computed.*
+*Updated 2026-11-11, session `whole-story-analysis-handoff`. The unmerged branch
+`analysis/whole-story-isolated` contains analysis decisions and identity matches;
+no whole-story headline has been computed.*
 
 ## Where the project stands
 
@@ -18,10 +19,11 @@ analysis decisions and identity matches; no whole-story headline has been comput
 
 ## Top 3 priorities for next session
 
-1. **Resume the whole-story analysis from main.** Read
+1. **Resume this analysis on `analysis/whole-story-isolated`, never main.** Read
    `sessions/2026-11-11-whole-story-analysis-handoff.md`, required design documents and
    `results/whole_story/MATCHING-NOTES.md`. Decisions and identity work are pushed in
-   `d03752d` and `b773dac`. Do not restart coding or use subagents.
+   `d03752d` and `b773dac` on this branch. Main is restored to `ccfabfb`. Keep every
+   commit and push on this unmerged branch; do not restart coding or use subagents.
 2. **Validate transcript-site access in the updated environment, then complete checks.**
    Endorphin added podscripts.co and republished the SWW environment; the previous running
    instance retained its old policy. Known S24 B / S04 NEG quotation issues are not waived.
@@ -114,3 +116,8 @@ whole-story analysis choices requested for this session are fixed in D6, not awa
   by corroboration, not by who wrote it. Plain language first. See
   `research/sww-corpus/SELF-AUDIT-2026-11-01.md`.
 
+- **S-24 (Endorphin, 2026-11-11).** **Keep this analysis isolated.** Another Claude session
+  is independently analysing the same coding and is paused under a rate limit. This work
+  and its continuations stay on the unmerged `analysis/whole-story-isolated` branch, in a
+  separate checkout/worktree. Commit and push only there. Do not push or merge this work
+  into main, or incorporate the other analyst's work, without Endorphin's explicit instruction.
