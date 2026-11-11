@@ -1,0 +1,782 @@
+season,pair,id1,id2,method,reason_or_name
+1,A-B,P04,P05,hand,"Lindsay number two: same man met on Match, dated alongside Sarah"
+1,A-B,P05,P06,hand,Lindsay number two's earlier abusive ex-husband
+1,A-B,P09,P10,hand,"Chivas (live-show panelist), abusive partner, mother blamed her"
+1,A-B,P12,P13,hand,"listener caller, high-school girlfriend used abuse disclosure to control her"
+1,A-B,P13,,hand-unmatched,"Alyssa (friend's gaslighting, live show): B has no record"
+1,A-B,,P04,hand-unmatched,girlfriend on the Southwest reservation: A has no record
+1,A-B,P01,P01,auto-name,sarah
+1,A-B,P02,P02,auto-name,perpetrator s first ex fiancee
+1,A-B,P03,P03,auto-name,lulu
+1,A-B,P06,P07,auto-name,real kimmy
+1,A-B,P07,P08,auto-name,real brian
+1,A-B,P08,P09,auto-name,tiffany reese
+1,A-B,P10,P11,auto-name,allison
+1,A-B,P11,P12,auto-name,ray
+2,A-B,P05,P06,hand,"Jason = perpetrator's second husband: deceived about illness, break-in, dog, paint"
+2,A-B,P01,P01,auto-name,tee
+2,A-B,P02,P03,auto-name,perpetrator s son
+2,A-B,P03,P02,auto-name,perpetrator s daughter
+2,A-B,P04,P04,auto-name,jen
+2,A-B,P06,P05,auto-name,doc
+2,A-B,P07,P07,auto-name,sarah
+3,A-B,P05,,hand-unmatched,host's own gaslighter: B has no record
+3,A-B,P01,P01,auto-name,victoria
+3,A-B,P02,P02,auto-name,cj
+3,A-B,P03,P03,auto-name,brad
+3,A-B,P04,P04,auto-name,sara
+4,A-B,P01,P01,hand,"Tom (Bogue): raised in Peoples Temple, beaten"
+4,A-B,P02,P02,hand,Jim (Bogue): coerced false confession blackmail
+4,A-B,P03,P03,hand,Tina (Bogue): daughter taken to Jonestown
+4,A-B,P04,P04,hand,Juanita (Bogue): daughter taken to Jonestown
+4,A-B,P05,P05,hand,Marley (Bogue): stayed in Jonestown
+4,A-B,P06,P06,hand,"Edith (Bogue): Tom's mother, turned against her husband"
+4,A-B,,P10,hand-unmatched,"Mills family (earlier defectors, shot): A has no record"
+4,A-B,P07,P07,auto-name,brian davis
+4,A-B,P08,P08,auto-name,bob houston
+4,A-B,P09,P09,auto-name,patricia parks
+5,A-B,,P10,hand-unmatched,Catherine (babysitter pushed into marriage by pastors): A has no record
+5,A-B,P01,P01,auto-name,julia
+5,A-B,P02,P02,auto-name,kelly
+5,A-B,P03,P03,auto-name,kelly s ex husband s former girlfriend
+5,A-B,P04,P04,auto-name,rachel
+5,A-B,P05,P06,auto-name,daniel
+5,A-B,P06,P07,auto-name,sarah
+5,A-B,P07,P08,auto-name,hannah
+5,A-B,P08,P09,auto-name,rebecca
+5,A-B,P09,P05,auto-name,rachel s mother
+6,A-B,P01,P01,hand,Kaelyn catfished by a female friend
+6,A-B,,P02,hand-unmatched,Kaelyn (ex-boyfriend): A has no record
+6,A-B,P04,P05,hand,"Ilyse, harassing phone caller posing as client"
+6,A-B,P05,P06,hand,"Ilyse, COVID-denier troll"
+6,A-B,P07,P08,hand,"Charlie, harassment after miscarriage post (B's record leads with this harm)"
+6,A-B,P08,,hand-unmatched,"Charlie, Harry Styles trolling: B folded into one record"
+6,A-B,P09,P13,hand,"J.E., Tree of Life massacre"
+6,A-B,P10,P09,hand,"J.E., the anonymous caller"
+6,A-B,P15,,hand-unmatched,Rose Mallinger (killed in massacre): B has no record
+6,A-B,P16,,hand-unmatched,Dr. Jerry Rabinowitz (killed): B has no record
+6,A-B,P17,,hand-unmatched,Daniel Stein (killed): B has no record
+6,A-B,P18,,hand-unmatched,Joyce Feinberg (killed): B has no record
+6,A-B,P19,,hand-unmatched,father of J.E.'s friend (killed): B has no record
+6,A-B,,P12,hand-unmatched,the caller's partner (object thrown): A has no record
+6,A-B,P02,P03,auto-name,tiffany
+6,A-B,P03,P04,auto-name,jez
+6,A-B,P06,P07,auto-name,jill
+6,A-B,P11,P10,auto-name,joel
+6,A-B,P12,P11,auto-name,j e s mother
+6,A-B,P13,P14,auto-name,cecil rosenthal
+6,A-B,P14,P15,auto-name,david rosenthal
+6,A-B,P20,P16,auto-name,tiffany reese
+6,A-B,P21,P17,auto-name,michael reese
+13,A-B,P05,P05,hand,"Natalia, long-distance boyfriend"
+13,A-B,P06,P06,hand,"Natalia, earlier ex-partner"
+13,A-B,P14,P14,hand,crematory owner's former employee
+13,A-B,P21,P21,hand,subordinate patrol officer
+13,A-B,P22,P22,hand,woman at the northern regional campus
+13,A-B,P01,P01,auto-name,amelia
+13,A-B,P02,P02,auto-name,amelia s oldest son
+13,A-B,P03,P03,auto-name,odessa
+13,A-B,P04,P04,auto-name,madison
+13,A-B,P07,P07,auto-name,ruksana
+13,A-B,P08,P08,auto-name,sage
+13,A-B,P09,P09,auto-name,whitney
+13,A-B,P10,P10,auto-name,teresa
+13,A-B,P11,P11,auto-name,iris
+13,A-B,P12,P12,auto-name,zoe
+13,A-B,P13,P13,auto-name,birdie
+13,A-B,P15,P15,auto-name,grace
+13,A-B,P16,P16,auto-name,sadie
+13,A-B,P17,P17,auto-name,levi
+13,A-B,P18,P18,auto-name,claire
+13,A-B,P19,P19,auto-name,riley
+13,A-B,P20,P20,auto-name,arya
+13,A-B,P23,P23,auto-name,gianna
+14,A-B,P14,P14,hand,"young woman in early 20s, same man, Instagram account"
+14,A-B,P15,,hand-unmatched,"Bowie, perpetrator's son: B has no record"
+14,A-B,P16,,hand-unmatched,"John, loft owner: B has no record"
+14,A-B,P01,P01,auto-name,kaylen
+14,A-B,P02,P02,auto-name,emerson
+14,A-B,P03,P03,auto-name,melissa
+14,A-B,P04,P04,auto-name,ivy
+14,A-B,P05,P07,auto-name,mimi
+14,A-B,P06,P08,auto-name,sarah
+14,A-B,P07,P05,auto-name,julie
+14,A-B,P08,P06,auto-name,carly
+14,A-B,P09,P10,auto-name,kit
+14,A-B,P10,P09,auto-name,maria
+14,A-B,P11,P11,auto-name,clementine
+14,A-B,P12,P12,auto-name,carrie
+14,A-B,P13,P13,auto-name,violet
+15,A-B,P01,P01,hand,"Holly (Madison), Playboy Mansion"
+15,A-B,P08,P09,hand,"Tegan/Teagan, Diana's younger daughter"
+15,A-B,P14,,hand-unmatched,Danielle's daughter (S9 update): B has no record
+15,A-B,P20,,hand-unmatched,Andrea Constand (consent episode): B has no record
+15,A-B,P21,,hand-unmatched,Jennifer Siebel Newsom (consent episode): B has no record
+15,A-B,P22,P20,hand,Amy B. Chesler (S7 update)
+15,A-B,,P03,hand-unmatched,victim who knew the serial rapist: A has no record
+15,A-B,,P19,hand-unmatched,Stacey (S9 update): A has no record
+15,A-B,,P22,hand-unmatched,"Amy, impersonation accounts (S7 update): A has no record"
+15,A-B,P02,P02,auto-name,valentina
+15,A-B,P03,P04,auto-name,naomi
+15,A-B,P04,P05,auto-name,alice
+15,A-B,P05,P06,auto-name,diana
+15,A-B,P06,P07,auto-name,tessa
+15,A-B,P07,P08,auto-name,gracie
+15,A-B,P09,P10,auto-name,avery
+15,A-B,P10,P11,auto-name,jenna jean
+15,A-B,P11,P12,auto-name,emilia
+15,A-B,P12,P13,auto-name,lex fitzgerald
+15,A-B,P13,P14,auto-name,danielle
+15,A-B,P15,P15,auto-name,kenji
+15,A-B,P16,P16,auto-name,darcy
+15,A-B,P17,P17,auto-name,samantha
+15,A-B,P18,P18,auto-name,zara
+15,A-B,P19,P23,auto-name,purdue university student
+15,A-B,P23,P21,auto-name,hadas
+16,A-B,P01,P01,hand,"Tiffany, parents' abuse"
+16,A-B,P02,P02,hand,"Tiffany, sexual assault by friend's boyfriend"
+16,A-B,P03,,hand-unmatched,"Tiffany, school bullying: B has no record"
+16,A-B,P04,,hand-unmatched,"Tiffany, fired by employer: B has no record"
+16,A-B,P05,P05,hand,"Bobby, parents"
+16,A-B,P06,P04,hand,"Bobby, neighbor teen"
+16,A-B,P07,P03,hand,"Bobby, sheriff's deputy shooting"
+16,A-B,P08,P06,hand,"Tony, mother and stepfather"
+16,A-B,P09,P07,hand,"Tony, biological father"
+16,A-B,P10,P08,hand,"Tony, identity theft"
+16,A-B,P12,P10,hand,"83-year-old woman, lift chair"
+16,A-B,P13,P11,hand,"83-year-old man, scooter trailer"
+16,A-B,P14,P12,hand,"81-year-old woman, scooter trailer"
+16,A-B,P15,P13,hand,"74-year-old woman, wheelchair lift"
+16,A-B,P16,,hand-unmatched,co-producer's mother: B has no record
+16,A-B,P17,,hand-unmatched,Jenna Jean (Q&A): B has no record
+16,A-B,P18,,hand-unmatched,"Patrick Brown (Q&A, wrongful conviction): B has no record"
+16,A-B,P11,P09,auto-name,harry f
+17,A-B,P01,P01,hand,"Leslie, boyfriend's coercion"
+17,A-B,P02,P02,hand,"Jace, abuse and murder"
+17,A-B,P03,,hand-unmatched,"Jace, birth-family neglect: B has no record"
+17,A-B,P04,P08,hand,"Stacey, restaurant shooting"
+17,A-B,P05,P09,hand,"Stacey, house-church cult"
+17,A-B,P06,P10,hand,"Stacey, boyfriend's threats"
+17,A-B,P07,P04,hand,"Samantha, earlier girlfriend"
+17,A-B,P08,P03,hand,Samantha's infant daughter
+17,A-B,P09,P05,hand,"Samantha's sister, slammed into wall"
+17,A-B,P10,P06,hand,perpetrator's recent ex-girlfriend
+17,A-B,P11,P07,hand,the ex-girlfriend's friend
+18,A-B,P02,P02,hand,woman in first Facebook post about the DJ
+18,A-B,P03,P03,hand,woman in second Facebook post about the DJ
+18,A-B,P04,,hand-unmatched,family member in domestic assault charge: B has no record
+18,A-B,P08,P06,hand,pregnancy-loss doula in first TikTok clip
+18,A-B,P09,P07,hand,doula in second TikTok clip (ten days)
+18,A-B,P12,,hand-unmatched,"Guelph doula, October 2022: B has no record"
+18,A-B,P13,P12,hand,"Amy W., dated the perpetrator"
+18,A-B,P16,P14,hand,doula with the perpetrator at the mall
+18,A-B,P18,P17,hand,mother of Gaby's abuser's second child
+18,A-B,P19,P18,hand,abuser's second wife
+18,A-B,P20,P19,hand,abuser's third wife
+18,A-B,P22,P21,hand,"Tyler, first tattoo shop"
+18,A-B,P23,P24,hand,"Tyler, school bus crash"
+18,A-B,P24,P22,hand,"Tyler, second tattoo shop owner"
+18,A-B,P25,P25,hand,"Tyler, false accusation at 13"
+18,A-B,P27,P26,hand,"Shane, dated the tattoo-shop owner"
+18,A-B,P28,P27,hand,tattoo artist given ketamine
+18,A-B,P32,P31,hand,group of women (anonymous emailer) about the band leader
+18,A-B,,P10,hand-unmatched,friend who came to the Airbnb cottage: A has no record
+18,A-B,P01,P01,auto-name,alexis
+18,A-B,P05,P04,auto-name,karissa
+18,A-B,P06,P05,auto-name,emma
+18,A-B,P07,P11,auto-name,seanna
+18,A-B,P10,P08,auto-name,ashley palmer
+18,A-B,P11,P09,auto-name,doula who supported the perpetrator in june
+18,A-B,P14,P13,auto-name,amy s
+18,A-B,P15,P15,auto-name,audrey
+18,A-B,P17,P16,auto-name,gaby
+18,A-B,P21,P20,auto-name,chris williams
+18,A-B,P26,P23,auto-name,danielle
+18,A-B,P29,P28,auto-name,jimmy imperial
+18,A-B,P30,P30,auto-name,anthony
+18,A-B,P31,P29,auto-name,andrew saxena
+18,A-B,P33,P32,auto-name,autumn
+18,A-B,P34,P33,auto-name,parker
+19,A-B,P01,P01,hand,"Amy, catfished and stalked"
+19,A-B,P03,P03,hand,"Sarah, Amy's PR firm"
+19,A-B,P05,,hand-unmatched,listener survivor of Amy's stalker: B has no separate record
+19,A-B,P06,P05,hand,"Sarah, Tinder ex-boyfriend nurse"
+19,A-B,P07,P06,hand,"Sarah, stranger in Washington DC"
+19,A-B,P09,P08,hand,"Memphis woman, same ex"
+19,A-B,P10,P09,hand,"2007 rape victim, same ex"
+19,A-B,P11,,hand-unmatched,woman at the Bolivar hospital: B has no record
+19,A-B,P12,,hand-unmatched,elderly nursing-home resident 1: B has no record
+19,A-B,P13,,hand-unmatched,elderly nursing-home resident 2: B has no record
+19,A-B,P14,,hand-unmatched,"Oklahoma friend, former Tinder date: B has no record"
+19,A-B,P15,P10,hand,Kaylin/Kaelin (S14 update)
+19,A-B,P20,P20,hand,"Amy, London doula"
+19,A-B,P21,P21,hand,doula whose assault charge was withdrawn
+19,A-B,P23,P15,hand,"Jennifer, first boyfriend"
+19,A-B,P24,P16,hand,"Jennifer, husband"
+19,A-B,,P18,hand-unmatched,Peggy Klingke (stalked and murdered): A has no record
+19,A-B,P02,P02,auto-name,natalie
+19,A-B,P04,P04,auto-name,earlier survivor of amy s stalker
+19,A-B,P08,P07,auto-name,april
+19,A-B,P16,P11,auto-name,emerson
+19,A-B,P17,P12,auto-name,melissa
+19,A-B,P18,P13,auto-name,ivy
+19,A-B,P19,P19,auto-name,shawna
+19,A-B,P22,P14,auto-name,tiffany
+19,A-B,P25,P17,auto-name,lenora claire
+22,A-B,P04,P02,hand,"rental-scam victims: B coded the three as one group record; matched to A's first, same story"
+22,A-B,P05,,hand-unmatched,rental-scam victim 2: B folded the three into one record
+22,A-B,P06,,hand-unmatched,rental-scam victim 3: B folded the three into one record
+22,A-B,P07,P10,hand,"woman who paid $1,700 for the Saxony sublet"
+22,A-B,P09,P05,hand,"Linda, the perpetrator's aunt (credit cards)"
+22,A-B,P12,P12,hand,"Jeff Thompson, Canadian pastor"
+22,A-B,P15,P14,hand,"Sandy Rusk, exploited by the con artist"
+22,A-B,P16,P15,hand,"Sandy Rusk, iTown Church"
+22,A-B,P17,,hand-unmatched,"Alex Brewster, online support group: B has no record"
+22,A-B,P19,P18,hand,falsely accused pastor couple: B coded the couple as one record; matched to A's husband record
+22,A-B,P20,,hand-unmatched,falsely accused pastor (wife): B folded the couple into one record
+22,A-B,P21,P09,hand,Fishers chiropractor
+22,A-B,P22,P17,hand,New Jersey massage practitioner
+22,A-B,P23,,hand-unmatched,former Indiana House staffer falsely said to be dying: B has no record
+22,A-B,P26,P20,hand,"Ginny/Jenny, massage therapist"
+22,A-B,P01,P01,auto-name,tom
+22,A-B,P02,P06,auto-name,edward ma
+22,A-B,P03,P03,auto-name,victoria hampton
+22,A-B,P08,P04,auto-name,abby espy
+22,A-B,P10,P07,auto-name,seth
+22,A-B,P11,P08,auto-name,stephen
+22,A-B,P13,P13,auto-name,julie roys
+22,A-B,P14,P11,auto-name,faith burnside
+22,A-B,P18,P16,auto-name,alyssa
+22,A-B,P24,P19,auto-name,gail
+22,A-B,P25,P21,auto-name,house cleaner
+22,A-B,P27,P22,auto-name,celisia stanton
+22,A-B,P28,P23,auto-name,john cornelius mcgee
+24,A-B,P05,,hand-unmatched,"Hannah Archuleta, Turnabout Ranch (episode 1 overview): B has no record"
+24,A-B,P06,,hand-unmatched,"Paris Hilton, Provo Canyon School: B has no record"
+24,A-B,P07,,hand-unmatched,13-year-old who died at Asheville Academy: B has no record
+24,A-B,P08,,hand-unmatched,12-year-old who died at Asheville Academy: B has no record
+24,A-B,P09,,hand-unmatched,former Red Rock Canyon School student: B has no record
+24,A-B,P12,P08,hand,"Meg, Intermountain Hospital"
+24,A-B,P13,P09,hand,"Meg, Chrysalis School Montana"
+24,A-B,P16,P12,hand,"Leanne, Trails Carolina"
+24,A-B,P17,P13,hand,"Leanne, New Leaf Academy (A's record also covers Pacific Quest)"
+24,A-B,P18,P11,hand,"Leanne, mother"
+24,A-B,P19,P15,hand,"Leanne, older boy at 14"
+24,A-B,P20,P18,hand,"Lindy, Adirondack Leadership Expeditions"
+24,A-B,P21,P16,hand,"Lindy, parents"
+24,A-B,P22,P19,hand,"Kat, beach assault at 14"
+24,A-B,P23,P20,hand,"Kat, Copper Canyon Academy"
+24,A-B,P24,P21,hand,"Kat, Auldern Academy"
+24,A-B,P25,P22,hand,"Kat, former Copper Canyon staff member"
+24,A-B,P26,P23,hand,"Kat, former Auldern staff member's messages"
+24,A-B,P27,P25,hand,Auldern student in relationship with therapist
+24,A-B,P28,P26,hand,"Molly, mother"
+24,A-B,P29,P27,hand,"Molly, Turning Winds"
+24,A-B,P30,P28,hand,"Molly, Turning Winds staff member"
+24,A-B,P31,P30,hand,"Danielle, Second Nature Blue Ridge"
+24,A-B,P32,P31,hand,"Danielle, Carlbrook School"
+24,A-B,P33,P29,hand,"Danielle, parents"
+24,A-B,P37,P39,hand,"Marie, Academy at Ivy Ridge"
+24,A-B,P38,P38,hand,"Marie, father (and stepmother)"
+24,A-B,P40,P42,hand,"Katie, rape at 14"
+24,A-B,P41,P41,hand,"Katie, stepfather"
+24,A-B,P42,P43,hand,"Katie, Island View RTC"
+24,A-B,P43,P44,hand,"Katie, Oakley School"
+24,A-B,P44,P45,hand,"Nicole, DeSisto School"
+24,A-B,P46,P50,hand,"Haley, Utah wilderness program"
+24,A-B,P47,P51,hand,"Haley, Montana boarding school"
+24,A-B,P48,P49,hand,"Haley, parents"
+24,A-B,P49,P52,hand,"Dylan, Hyde School peer"
+24,A-B,P50,P54,hand,"Dylan, Montana boarding school (A's record also covers the Oregon wilderness program)"
+24,A-B,P51,P55,hand,"Dylan, Western Samoa program"
+24,A-B,P52,P56,hand,"Max, SageWalk Wilderness"
+24,A-B,P53,P57,hand,"Max, Mount Bachelor Academy"
+24,A-B,P54,P59,hand,"John Callas, military school"
+24,A-B,P55,P60,hand,"John Callas, private-school bully"
+24,A-B,P56,P62,hand,"doulas defrauded in Ontario (group, S18 update)"
+24,A-B,P57,,hand-unmatched,15-year-old sent to Island View via a TV show: B has no record
+24,A-B,,P14,hand-unmatched,"Leanne, Pacific Quest: A folded into P17"
+24,A-B,,P17,hand-unmatched,"Lindy, bullying: A has no record"
+24,A-B,,P24,hand-unmatched,"Kat, later sexual assault: A has no record"
+24,A-B,,P34,hand-unmatched,student tormented with oven mitts at Ivy Ridge: A has no record
+24,A-B,,P35,hand-unmatched,14-year-old assaulted by students at Ivy Ridge: A has no record
+24,A-B,,P37,hand-unmatched,Julie's family friend at Ivy Ridge: A has no record
+24,A-B,,P46,hand-unmatched,"Nicole, school peers: A has no record"
+24,A-B,,P47,hand-unmatched,"Nicole, older boyfriend: A has no record"
+24,A-B,,P53,hand-unmatched,"Dylan, Catherine Freer wilderness: A folded into P50"
+24,A-B,,P58,hand-unmatched,"John Callas, false accusation: A has no record"
+24,A-B,,P61,hand-unmatched,"John Callas, rape by sister's friend: A has no record"
+24,A-B,P01,P01,auto-name,kristen chase
+24,A-B,P02,P02,auto-name,aaron bacon
+24,A-B,P03,P03,auto-name,lulu
+24,A-B,P04,P04,auto-name,danielle bregoli
+24,A-B,P10,P05,auto-name,taylor goodridge
+24,A-B,P11,P06,auto-name,baruch silvers
+24,A-B,P14,P10,auto-name,malia
+24,A-B,P15,P07,auto-name,year old boy who died at trails carolina
+24,A-B,P34,P32,auto-name,kalin
+24,A-B,P35,P33,auto-name,ed
+24,A-B,P36,P36,auto-name,julie
+24,A-B,P39,P40,auto-name,anthony
+24,A-B,P45,P48,auto-name,brittany
+7,CA-CB,P01,P01,hand,"Amy, older brother's abuse"
+7,CA-CB,P02,P02,hand,"Hadas, son's violence and murder"
+7,CA-CB,P03,P15,hand,"Amy, father's absence and neglect"
+7,CA-CB,P04,P05,hand,"Hadas, former husband's affairs and abandonment"
+7,CA-CB,P05,P03,hand,"Amy, voyeurism by mutual friend"
+7,CA-CB,P06,P04,hand,"Amy, former husband restricting grief"
+7,CA-CB,P07,P07,hand,"Amy's visiting friend, lighter incident"
+7,CA-CB,P09,P06,hand,"Hadas, medical injury"
+7,CA-CB,P10,P11,hand,"Amy's older child, uncle's threats"
+7,CA-CB,P11,P12,hand,"Amy's younger child, uncle's threats"
+7,CA-CB,P13,P19,hand,"Amy, Twitter drug-use accusation"
+7,CA-CB,P14,P20,hand,"Amy, Facebook murder accusation"
+7,CA-CB,P15,P21,hand,"Amy, Instagram death message"
+7,CA-CB,P16,P22,hand,"Amy, online impersonation"
+7,CA-CB,P17,P16,hand,"Amy, school bullying"
+7,CA-CB,,P08,hand-unmatched,brother's Arizona girlfriend: CA has no record
+7,CA-CB,,P13,hand-unmatched,"Amy's older child, marital conflict: CA has no record"
+7,CA-CB,,P14,hand-unmatched,"Amy's younger child, marital conflict: CA has no record"
+7,CA-CB,,P18,hand-unmatched,"Hadas, reputation after reporting a principal: CA has no record"
+7,CA-CB,P08,P09,auto-name,amy s paternal uncle
+7,CA-CB,P12,P10,auto-name,attacked correctional officer
+7,CA-CB,P18,P17,auto-name,tiffany
+8,CA-CB,P01,P01,hand,"Iridian, sister-in-law's manipulation (CA's single record also names partner's brother; CB split by perpetrator)"
+8,CA-CB,,P02,hand-unmatched,"Iridian, partner's brother: CA folded into P01"
+8,CA-CB,,P03,hand-unmatched,"Iridian, sister-in-law's mother: CA folded into P01"
+8,CA-CB,,P08,hand-unmatched,bereaved coworker: CA has no record
+8,CA-CB,P02,P04,auto-name,zachary
+8,CA-CB,P03,P05,auto-name,amber
+8,CA-CB,P04,P06,auto-name,ben
+8,CA-CB,P05,P07,auto-name,daisy
+8,CA-CB,P06,P10,auto-name,ben s mother
+8,CA-CB,P07,P09,auto-name,nail technician
+9,CA-CB,P01,P01,hand,"Danielle, former partner with fabricated identity"
+9,CA-CB,P03,P03,hand,"Kenji, harassment by ex-wife's partner"
+9,CA-CB,P04,P04,hand,"Kenji, marital harm by ex-wife"
+9,CA-CB,P09,P09,hand,"Tammy's child, threatened abduction"
+9,CA-CB,P10,P10,hand,first wife in the 2005 police report
+9,CA-CB,P16,P16,hand,woman who dated him alongside Karissa (five months)
+9,CA-CB,P17,P21,hand,former employer threatened over company website
+9,CA-CB,P18,P19,hand,"Danielle's father, threatened"
+9,CA-CB,P19,P20,hand,Darcy's friend followed after a visit
+9,CA-CB,P20,P18,hand,"Danielle, later dating partner"
+9,CA-CB,P21,,hand-unmatched,"Danielle, online victim-blaming: CB has no record"
+9,CA-CB,,P14,hand-unmatched,"Barbara, overlapping relationship: CA has no record"
+9,CA-CB,,P22,hand-unmatched,Brian Banks (data episode): CA has no record
+9,CA-CB,,P23,hand-unmatched,Kyle Richard (data episode): CA has no record
+9,CA-CB,,P24,hand-unmatched,person whose assault was interrupted (data episode): CA has no record
+9,CA-CB,P02,P02,auto-name,carrie
+9,CA-CB,P05,P05,auto-name,darcy
+9,CA-CB,P06,P06,auto-name,kenji and darcy s son
+9,CA-CB,P07,P07,auto-name,kenji and darcy s daughter
+9,CA-CB,P08,P08,auto-name,tammy
+9,CA-CB,P11,P11,auto-name,stacey
+9,CA-CB,P12,P12,auto-name,stacey s daughter
+9,CA-CB,P13,P15,auto-name,samantha
+9,CA-CB,P14,P17,auto-name,zara
+9,CA-CB,P15,P13,auto-name,valerie
+10,CA-CB,P02,,hand-unmatched,woman whose rape prompted the police appeal: CB has no record
+10,CA-CB,P03,P02,hand,"Megan, deceptive friendship"
+10,CA-CB,P04,P03,hand,"Brooke, deceptive friendship"
+10,CA-CB,P06,P05,hand,"Megan, friend's killing"
+10,CA-CB,P07,P06,hand,"Brooke, friend's killing"
+10,CA-CB,P08,P07,hand,"Ava, earlier boyfriend"
+10,CA-CB,P09,P08,hand,"Ava, husband"
+10,CA-CB,P10,P09,hand,"Ava, cabin violence"
+10,CA-CB,P12,P11,hand,"Emma, earlier boyfriend"
+10,CA-CB,P13,P12,hand,"Emma, rape by former boss"
+10,CA-CB,P14,P10,hand,"Emma, husband"
+10,CA-CB,P17,P15,hand,young woman assaulted by the bar owner
+10,CA-CB,P18,P16,hand,"Angie, husband"
+10,CA-CB,P19,,hand-unmatched,"Angie, other man in arranged encounter: CB folded into P16"
+10,CA-CB,P26,P23,hand,"Maribelle's ex's most recent ex-girlfriend, stalked"
+10,CA-CB,P30,P28,hand,woman attacked outside North Aurora restaurant
+10,CA-CB,P34,P32,hand,"Olivia, deceptive friend"
+10,CA-CB,P35,P34,hand,"Olivia, childhood sexual abuse"
+10,CA-CB,P37,P36,hand,"Mia, religious pressure"
+10,CA-CB,P38,P35,hand,"Mia, catfishing"
+10,CA-CB,P39,P39,hand,other closeted woman targeted by same impersonator
+10,CA-CB,P40,P38,hand,the impersonator's wife whose images were used
+10,CA-CB,P42,P41,hand,"Emily, earlier married boyfriend"
+10,CA-CB,P43,P40,hand,"Emily, husband"
+10,CA-CB,P48,,hand-unmatched,"Vanessa's mother, intimidation: CB has no matching record"
+10,CA-CB,P49,P49,hand,abandoned child of the same man
+10,CA-CB,P50,P52,hand,later girlfriend stalked after the divorce
+10,CA-CB,P51,P50,hand,parent who co-signed a car
+10,CA-CB,,P24,hand-unmatched,perpetrator's earlier wife (S10 Maribelle story): CA has no record
+10,CA-CB,,P43,hand-unmatched,neighbor threatened during Bailey's escape: CA has no record
+10,CA-CB,,P45,hand-unmatched,Maribelle's roommate: CA has no record
+10,CA-CB,P01,P01,auto-name,bailey
+10,CA-CB,P05,P04,auto-name,anne
+10,CA-CB,P11,P44,auto-name,levi
+10,CA-CB,P15,P13,auto-name,year old coworker
+10,CA-CB,P16,P14,auto-name,year old bartender
+10,CA-CB,P20,P17,auto-name,year old trafficking victim
+10,CA-CB,P21,P18,auto-name,trafficking victim
+10,CA-CB,P22,P19,auto-name,maribelle
+10,CA-CB,P23,P20,auto-name,evelyn
+10,CA-CB,P24,P21,auto-name,amy
+10,CA-CB,P25,P22,auto-name,girlfriend of two years
+10,CA-CB,P27,P25,auto-name,beth
+10,CA-CB,P28,P26,auto-name,charles hubber
+10,CA-CB,P29,P27,auto-name,deborah koleander
+10,CA-CB,P31,P29,auto-name,pamela maurer
+10,CA-CB,P32,P30,auto-name,debra mccall
+10,CA-CB,P33,P31,auto-name,annette lazar
+10,CA-CB,P36,P33,auto-name,skyler
+10,CA-CB,P41,P37,auto-name,jake
+10,CA-CB,P44,P42,auto-name,vanessa
+10,CA-CB,P45,P47,auto-name,vanessa s daughter
+10,CA-CB,P46,P48,auto-name,vanessa s son
+10,CA-CB,P47,P46,auto-name,emily s son
+10,CA-CB,P52,P51,auto-name,mutual friend repeatedly stolen from
+11,CA-CB,P01,P01,hand,"Ashley, husband's abuse and murder"
+11,CA-CB,P05,P04,hand,"Lucia, childhood exposure to father's violence"
+11,CA-CB,P06,P06,hand,"Ari, ex-partner's stalking and abduction"
+11,CA-CB,P08,,hand-unmatched,"Ari, medical advice: CB has no record"
+11,CA-CB,P09,,hand-unmatched,"Ari, erroneous suspension notice: CB has no record"
+11,CA-CB,P11,P09,hand,14-year-old targeted by the same online offender
+11,CA-CB,P15,P13,hand,Evelyn's child killed in the shooting
+11,CA-CB,P16,P14,hand,Evelyn's first injured child
+11,CA-CB,P17,P15,hand,Evelyn's second injured child
+11,CA-CB,P19,,hand-unmatched,Sasha's former friend (alleged partner violence): CB has no record
+11,CA-CB,P20,P22,hand,employee who accused the older partner
+11,CA-CB,P23,P20,hand,underage acting student in relationship with coach
+11,CA-CB,P24,P19,hand,"former acting-class friend, toxic relationship with coach"
+11,CA-CB,P26,P24,hand,"Blair, sibling violence"
+11,CA-CB,P27,P25,hand,"Blair, father's abuse"
+11,CA-CB,P28,,hand-unmatched,"mother of the children, spousal abuse: CB has no record"
+11,CA-CB,P35,P33,hand,neighbor bitten on the arm
+11,CA-CB,P36,P35,hand,woman charged by dogs with her daughter
+11,CA-CB,P37,P36,hand,daughter charged by dogs
+11,CA-CB,P39,P39,hand,first woman blocked in driveway
+11,CA-CB,P40,P40,hand,second woman blocked in driveway
+11,CA-CB,P41,P41,hand,man with surfboard
+11,CA-CB,P42,P42,hand,woman trapped in car
+11,CA-CB,P43,P43,hand,man taking out trash
+11,CA-CB,P45,P45,hand,"Dara's younger sister, raped at 13"
+11,CA-CB,P46,,hand-unmatched,Dara's mother: CB has no record
+11,CA-CB,P47,P47,hand,"Lucy, teenage sexual assault"
+11,CA-CB,P48,P48,hand,"Lucy, in-law abuse"
+11,CA-CB,P50,,hand-unmatched,Brian Banks (data episode): CB has no record
+11,CA-CB,P51,,hand-unmatched,Caitlin Mathis (unassigned episode): CB has no record
+11,CA-CB,P52,,hand-unmatched,Jackie Vandagriff (unassigned episode): CB has no record
+11,CA-CB,,P21,hand-unmatched,acting student whose parent objected: CA has no record
+11,CA-CB,,P27,hand-unmatched,second nanny: CA has no record
+11,CA-CB,,P34,hand-unmatched,bulldog owner: CA has no record
+11,CA-CB,,P38,hand-unmatched,owner of dog needing surgery: CA has no record
+11,CA-CB,,P46,hand-unmatched,male survivor who testified at hearing: CA has no record
+11,CA-CB,,P50,hand-unmatched,Lucy's older son: CA has no record
+11,CA-CB,,P51,hand-unmatched,Lucy's younger son: CA has no record
+11,CA-CB,,P52,hand-unmatched,"Lucia, threats and bereavement after Ashley's murder: CA has no record"
+11,CA-CB,P02,P02,auto-name,ashley s older daughter
+11,CA-CB,P03,P03,auto-name,ashley s younger daughter
+11,CA-CB,P04,P05,auto-name,lucia s mother
+11,CA-CB,P07,P07,auto-name,ari s son
+11,CA-CB,P10,P08,auto-name,quinn
+11,CA-CB,P12,P10,auto-name,nina
+11,CA-CB,P13,P11,auto-name,nina s son
+11,CA-CB,P14,P12,auto-name,evelyn
+11,CA-CB,P18,P16,auto-name,sasha
+11,CA-CB,P21,P17,auto-name,willow
+11,CA-CB,P22,P18,auto-name,amelia
+11,CA-CB,P25,P23,auto-name,molly
+11,CA-CB,P29,P26,auto-name,molly s partner
+11,CA-CB,P30,P28,auto-name,vera
+11,CA-CB,P31,P29,auto-name,noel
+11,CA-CB,P32,P30,auto-name,korra
+11,CA-CB,P33,P31,auto-name,vera s mother
+11,CA-CB,P34,P32,auto-name,mae
+11,CA-CB,P38,P37,auto-name,roofing contractor
+11,CA-CB,P44,P44,auto-name,dara
+11,CA-CB,P49,P49,auto-name,owen
+11,CA-CB,P53,P53,auto-name,jessa
+12,CA-CB,P02,P03,hand,"wife of Kenzie's boyfriend, parallel relationship"
+12,CA-CB,P03,P02,hand,coworker who witnessed the shooting
+12,CA-CB,P04,,hand-unmatched,"Kenzie's sister, fake witness-protection story: CB has no record"
+12,CA-CB,P01,P01,auto-name,kenzie
+20,CA-CB,P03,P01,hand,"Lauren, catfishing and coercive control"
+20,CA-CB,P04,P13,hand,"Lauren, college window-peeping"
+20,CA-CB,P05,P14,hand,"Lauren, North Carolina window-banging"
+20,CA-CB,P06,P04,hand,"Shana/Shayna, online impersonation at 14"
+20,CA-CB,P07,,hand-unmatched,"Shana, subsequent boyfriend: CB has no record"
+20,CA-CB,P10,P07,hand,"college roommate, impersonation"
+20,CA-CB,P11,P10,hand,"the real Brody, image theft"
+20,CA-CB,P12,P11,hand,"the real Brody, high-school catfishing"
+20,CA-CB,P13,P12,hand,the real Brody's mother
+20,CA-CB,P15,P15,hand,"catfisher's son, window-banging"
+20,CA-CB,P17,,hand-unmatched,"Megan, surveillance camera: CB has no record"
+20,CA-CB,P18,P16,hand,"John-Michael Lander, childhood trafficking"
+20,CA-CB,P19,P17,hand,"John-Michael Lander, college stalking and rape"
+20,CA-CB,P20,P18,hand,"John-Michael Lander, entertainment-industry coercion"
+20,CA-CB,P21,P19,hand,fifteen-year-old/sophomore student
+20,CA-CB,P22,P22,hand,"catfisher's son, instability"
+20,CA-CB,P23,,hand-unmatched,"magistrate, reputational allegations: CB has no record"
+20,CA-CB,,P20,hand-unmatched,"college roommate, parents' partner swap: CA has no record"
+20,CA-CB,,P21,hand-unmatched,Kyle Richard (data episode): CA has no record
+20,CA-CB,P01,P03,auto-name,monica
+20,CA-CB,P02,P02,auto-name,brie
+20,CA-CB,P08,P05,auto-name,chloe
+20,CA-CB,P09,P06,auto-name,kim
+20,CA-CB,P14,P09,auto-name,savannah
+20,CA-CB,P16,P08,auto-name,reagan
+21,CA-CB,P01,P01,hand,"Gwenevere, childhood abuse by parents"
+21,CA-CB,P02,P02,hand,"Gwenevere, abusive older partner"
+21,CA-CB,P03,P03,hand,"Gwenevere, Texas military rape"
+21,CA-CB,P04,P04,hand,"Gwenevere, Quantico workplace abuse"
+21,CA-CB,P05,P05,hand,"Michelle, maternal neglect"
+21,CA-CB,P06,P06,hand,"Michelle, stepmother household abuse"
+21,CA-CB,P07,P07,hand,"Michelle, teenage rape"
+21,CA-CB,P11,,hand-unmatched,juvenile male victim in sex-offense records: CB has no record
+21,CA-CB,P12,P12,hand,"Krystyn, father's sexual abuse"
+21,CA-CB,P13,P14,hand,"Krystyn, friend's brother / Girl Scout leader's son"
+21,CA-CB,P14,P13,hand,"Krystyn, first husband"
+21,CA-CB,P15,P17,hand,"Mark, father's verbal abuse"
+21,CA-CB,P18,P20,hand,"Jessica, first husband/partner"
+21,CA-CB,P19,P21,hand,"Jessica, later partner, killed"
+21,CA-CB,P20,P22,hand,nonverbal autistic girl
+21,CA-CB,P21,P24,hand,"Jubilee, childhood sexual abuse"
+21,CA-CB,P22,P23,hand,"Jubilee, school bullying"
+21,CA-CB,P23,P25,hand,"Jubilee, workplace harassment"
+21,CA-CB,P24,P26,hand,"Jubilee, religious institutional abuse"
+21,CA-CB,P26,P28,hand,"Jubilee, ex-husband"
+21,CA-CB,P27,P33,hand,"Lauren, partner abuse"
+21,CA-CB,P29,P35,hand,"Rachael/Rachel, deepfakes"
+21,CA-CB,P33,P47,hand,Lauren (S20 update)
+21,CA-CB,P36,P50,hand,impersonator's child (S20 update)
+21,CA-CB,P38,P51,hand,"Amy B. Chesler, death threat (S7 update)"
+21,CA-CB,P48,P42,hand,"John, Selma marcher"
+21,CA-CB,P50,P19,hand,"Jessica, teenage rape"
+21,CA-CB,P51,P62,hand,adult survivor of medical child abuse
+21,CA-CB,P52,P30,hand,Bethel pastor facing infertility
+21,CA-CB,P55,,hand-unmatched,six-year-old complainant against Krystyn's father: CB has no record
+21,CA-CB,P56,,hand-unmatched,recently abused girl (Krystyn's father): CB has no record
+21,CA-CB,P59,,hand-unmatched,Emma's mother: CB has no record
+21,CA-CB,P60,P10,hand,"Mark, planted drugs"
+21,CA-CB,P61,,hand-unmatched,"Michelle, armed attack: CB has no record"
+21,CA-CB,P62,,hand-unmatched,"Michelle's mother, armed attack: CB has no record"
+21,CA-CB,,P15,hand-unmatched,"Krystyn, later peer humiliation: CA has no record"
+21,CA-CB,,P27,hand-unmatched,"Jubilee, landlord neglect: CA has no record"
+21,CA-CB,,P37,hand-unmatched,perpetrator's sister (deepfakes): CA has no record
+21,CA-CB,,P45,hand-unmatched,Dred Scott (data episode): CA has no record
+21,CA-CB,,P60,hand-unmatched,Caitlin Mathis (unassigned episode): CA has no record
+21,CA-CB,,P61,hand-unmatched,Jackie Vandagriff (unassigned episode): CA has no record
+21,CA-CB,,P63,hand-unmatched,teenage babysitter (Krystyn's father): CA has no record
+21,CA-CB,P08,P09,auto-name,michael
+21,CA-CB,P09,P08,auto-name,matthew
+21,CA-CB,P10,P11,auto-name,emma
+21,CA-CB,P16,P16,auto-name,dan
+21,CA-CB,P17,P18,auto-name,susie
+21,CA-CB,P25,P29,auto-name,will
+21,CA-CB,P28,P34,auto-name,annie
+21,CA-CB,P30,P36,auto-name,al
+21,CA-CB,P31,P38,auto-name,perpetrator s twelve year old niece
+21,CA-CB,P32,P46,auto-name,monica
+21,CA-CB,P34,P48,auto-name,brie
+21,CA-CB,P35,P49,auto-name,dani
+21,CA-CB,P37,P54,auto-name,newly targeted doula
+21,CA-CB,P39,P52,auto-name,hadass
+21,CA-CB,P40,P55,auto-name,tara grinstead
+21,CA-CB,P41,P56,auto-name,florence okpealuk
+21,CA-CB,P42,P57,auto-name,joseph balderas
+21,CA-CB,P43,P43,auto-name,susan b anthony
+21,CA-CB,P44,P44,auto-name,sojourner truth
+21,CA-CB,P45,P39,auto-name,james cheney
+21,CA-CB,P46,P40,auto-name,michael schwerner
+21,CA-CB,P47,P41,auto-name,andrew goodman
+21,CA-CB,P49,P59,auto-name,brian banks
+21,CA-CB,P53,P31,auto-name,callie
+21,CA-CB,P54,P32,auto-name,andrew
+21,CA-CB,P57,P53,auto-name,correctional officer
+21,CA-CB,P58,P58,auto-name,payne lindsey
+23,CA-CB,P01,P01,hand,"Kristen, birth-center care"
+23,CA-CB,P09,P10,hand,"Brittany, surrogacy care"
+23,CA-CB,P10,,hand-unmatched,"Brittany, employment/NDA: CB has no record"
+23,CA-CB,P11,P54,hand,"Brianna, birth-center care"
+23,CA-CB,P12,P57,hand,"Brianna, initial OB testing"
+23,CA-CB,P13,P58,hand,"Brianna, postpartum OB care"
+23,CA-CB,P16,P11,hand,"Sarah, Origins birth (meconium)"
+23,CA-CB,P20,P16,hand,"Rose, birth care"
+23,CA-CB,P22,P19,hand,Marie's baby
+23,CA-CB,P25,P24,hand,expert's 15-year-old childhood friend (lupus)
+23,CA-CB,P30,P22,hand,infant at Carolina Community Maternity Center / Fort Mill newborn
+23,CA-CB,P31,P23,hand,woman begging for hospital transfer
+23,CA-CB,P32,P60,hand,Amanda's friend who miscarried and hemorrhaged
+23,CA-CB,P35,P30,hand,"Amy B. Chesler, parole (S7 continuation)"
+23,CA-CB,P37,P34,hand,"Tiffany (host), harassment by podcast subject"
+23,CA-CB,P38,P38,hand,"John Callas, military school"
+23,CA-CB,P39,P40,hand,"John Callas, private-school bullying"
+23,CA-CB,P40,P39,hand,"John Callas, childhood rape"
+23,CA-CB,P41,P43,hand,"Jubilee, ex-husband (S21 update)"
+23,CA-CB,P42,P42,hand,"Jubilee, church (S21 update)"
+23,CA-CB,P43,P44,hand,"Sarah, ex-husband's former girlfriend"
+23,CA-CB,,P04,hand-unmatched,"Kristen, billing: CA has no record"
+23,CA-CB,,P17,hand-unmatched,"Rose, prior sexual assault: CA has no record"
+23,CA-CB,,P36,hand-unmatched,"Tiffany (host), childhood abuse: CA has no record"
+23,CA-CB,,P37,hand-unmatched,"Tiffany (host), workplace: CA has no record"
+23,CA-CB,,P41,hand-unmatched,John's military-school friend: CA has no record
+23,CA-CB,,P46,hand-unmatched,Daisy's grandchild: CA has no record
+23,CA-CB,,P47,hand-unmatched,perpetrator's son who helped gather information: CA has no record
+23,CA-CB,,P49,hand-unmatched,infant carried by Brittany: CA has no record
+23,CA-CB,,P50,hand-unmatched,woman who donated a kidney: CA has no record
+23,CA-CB,,P51,hand-unmatched,woman told to meet her stalker: CA has no record
+23,CA-CB,,P52,hand-unmatched,Brian Banks (data episode): CA has no record
+23,CA-CB,,P53,hand-unmatched,Kyle Richard (data episode): CA has no record
+23,CA-CB,,P59,hand-unmatched,"Brianna, billing: CA has no record"
+23,CA-CB,P02,P02,auto-name,theodore
+23,CA-CB,P03,P03,auto-name,thomas
+23,CA-CB,P04,P05,auto-name,amanda
+23,CA-CB,P05,P06,auto-name,amanda s son
+23,CA-CB,P06,P07,auto-name,chris
+23,CA-CB,P07,P08,auto-name,marquita
+23,CA-CB,P08,P09,auto-name,malik
+23,CA-CB,P14,P55,auto-name,brianna s son
+23,CA-CB,P15,P56,auto-name,brianna s husband
+23,CA-CB,P17,P12,auto-name,tuff
+23,CA-CB,P18,P13,auto-name,barbie
+23,CA-CB,P19,P14,auto-name,sadie
+23,CA-CB,P21,P18,auto-name,marie
+23,CA-CB,P23,P20,auto-name,grace
+23,CA-CB,P24,P21,auto-name,grace s son
+23,CA-CB,P26,P25,auto-name,dr shalane irving
+23,CA-CB,P27,P26,auto-name,patience fraser
+23,CA-CB,P28,P27,auto-name,amari march
+23,CA-CB,P29,P28,auto-name,adriana smith
+23,CA-CB,P33,P32,auto-name,lauren
+23,CA-CB,P34,P33,auto-name,bree
+23,CA-CB,P36,P29,auto-name,hadassah
+23,CA-CB,P44,P45,auto-name,daisy
+23,CA-CB,P45,P31,auto-name,dara
+23,CA-CB,P46,P15,auto-name,barbie s mother
+23,CA-CB,P47,P48,auto-name,sarah s husband
+23,CA-CB,P48,P35,auto-name,tom
+25,CA-CB,P02,P02,hand,"Miranda, professor"
+25,CA-CB,P04,P04,hand,"Rihanna, professor"
+25,CA-CB,P07,P08,hand,"Allegra, peer rape"
+25,CA-CB,P09,P12,hand,"Danny Cords, cyberstalking"
+25,CA-CB,P10,P11,hand,"Danny Cords, conversion therapy"
+25,CA-CB,P11,P13,hand,"Danny Cords, neighbor harassment"
+25,CA-CB,P12,P14,hand,Seattle law-firm employee threatened by same man
+25,CA-CB,P14,P15,hand,"Miranda, childhood (stepfather)"
+25,CA-CB,P16,P16,hand,"Rihanna, childhood sexual abuse"
+25,CA-CB,P19,P39,hand,dancer reporting same student 1
+25,CA-CB,P20,P40,hand,dancer reporting same student 2
+25,CA-CB,P21,P41,hand,dancer reporting same student 3
+25,CA-CB,P22,P42,hand,Greek-life student reporting same student
+25,CA-CB,P23,P43,hand,December 2017 survivor of same student
+25,CA-CB,P24,P09,hand,"Allegra, photographer"
+25,CA-CB,P25,P19,hand,"Lauren, college sexual assaults"
+25,CA-CB,P26,P20,hand,"Lauren, friendship betrayal"
+25,CA-CB,P29,P31,hand,Western University music student stalked
+25,CA-CB,P30,P32,hand,student whose assailant got a semester sanction
+25,CA-CB,P31,P33,hand,faculty survivor facing retaliation
+25,CA-CB,P32,P34,hand,LGBTQ+ reporting student
+25,CA-CB,P33,P37,hand,donor-family student survivor
+25,CA-CB,P35,,hand-unmatched,Kiara: CB has no record
+25,CA-CB,P36,P38,hand,dorm resident targeted by peers
+25,CA-CB,P37,P35,hand,student whose assault was excused
+25,CA-CB,P38,,hand-unmatched,later Title IX investigator's own assault: CB has no record
+25,CA-CB,P43,P44,hand,Liberty University former student
+25,CA-CB,P48,,hand-unmatched,Brian Banks (data episode): CB has no record
+25,CA-CB,P49,,hand-unmatched,woman comic 1: CB has no record
+25,CA-CB,P50,,hand-unmatched,woman comic 2: CB has no record
+25,CA-CB,P51,,hand-unmatched,Summer (BCM update): CB has no record
+25,CA-CB,P52,,hand-unmatched,Daniel (BCM update): CB has no record
+25,CA-CB,P53,,hand-unmatched,stalking survivor who emailed Danny: CB has no record
+25,CA-CB,P54,,hand-unmatched,student who reported Luna's assailant earlier: CB has no record
+25,CA-CB,P55,,hand-unmatched,additional UCO plaintiff 1: CB has no record
+25,CA-CB,P56,,hand-unmatched,additional UCO plaintiff 2: CB has no record
+25,CA-CB,,P45,hand-unmatched,"Nicole Bedera, harassment after publishing: CA has no record"
+25,CA-CB,P01,P01,auto-name,luna
+25,CA-CB,P03,P03,auto-name,olivia
+25,CA-CB,P05,P05,auto-name,morgan
+25,CA-CB,P06,P07,auto-name,marissa
+25,CA-CB,P08,P10,auto-name,ashley
+25,CA-CB,P13,P06,auto-name,amy
+25,CA-CB,P15,P46,auto-name,miranda s mother
+25,CA-CB,P17,P17,auto-name,lindsay
+25,CA-CB,P18,P18,auto-name,uco faculty advocate
+25,CA-CB,P27,P21,auto-name,tiffany
+25,CA-CB,P28,P22,auto-name,amy b chesler
+25,CA-CB,P34,P36,auto-name,listener s friend abused by professor
+25,CA-CB,P39,P24,auto-name,lauren mccluskey
+25,CA-CB,P40,P23,auto-name,emily doe
+25,CA-CB,P41,P25,auto-name,alex cooper
+25,CA-CB,P42,P26,auto-name,lloyd yates
+25,CA-CB,P44,P27,auto-name,madison mogan
+25,CA-CB,P45,P28,auto-name,kaylee gonzalez
+25,CA-CB,P46,P29,auto-name,santa cronodle
+25,CA-CB,P47,P30,auto-name,ethan chapin
+26,CA-CB,P01,P01,hand,"Marie, childhood home"
+26,CA-CB,P02,P02,hand,"Marie, foster homes"
+26,CA-CB,P03,P03,hand,"Marie, former husband"
+26,CA-CB,P04,P05,hand,"Marie's daughter, father's control"
+26,CA-CB,P05,P06,hand,"Marie's son, father's control"
+26,CA-CB,P06,P04,hand,"Marie, former pastor"
+26,CA-CB,P07,P07,hand,"Marie's daughter, pastor's intrusions"
+26,CA-CB,P08,P08,hand,"Marie's son, pastor's intrusions"
+26,CA-CB,P09,P09,hand,"Marie, house fire"
+26,CA-CB,P10,P10,hand,"Marie's daughter, house fire"
+26,CA-CB,P11,P11,hand,"Marie's son, house fire"
+26,CA-CB,P19,,hand-unmatched,Professor Knob: CB has no record
+26,CA-CB,P20,,hand-unmatched,Professor Bolt: CB has no record
+26,CA-CB,P21,P18,hand,"Iris, youth-group leader"
+26,CA-CB,P22,P19,hand,"Iris, church photographer"
+26,CA-CB,P23,P20,hand,"Sophia, rideshare assault"
+26,CA-CB,P24,P22,hand,"Long Beach passenger, 2016"
+26,CA-CB,P25,P24,hand,Amy B. Chesler's mother
+26,CA-CB,P26,P23,hand,"Amy B. Chesler, brother's abuse and mother's murder"
+26,CA-CB,P27,P25,hand,"Jenn Holman, former boyfriend"
+26,CA-CB,P28,P26,hand,"Jenn Holman, later partner"
+26,CA-CB,P30,P28,hand,"Aaron, childhood bullying"
+26,CA-CB,P31,P29,hand,"Aaron, friend's deception and assaults"
+26,CA-CB,P44,P42,hand,Selma marcher addressed as John
+26,CA-CB,P45,,hand-unmatched,Brian Banks (data episode): CB has no record
+26,CA-CB,P46,P44,hand,Marie's separated church friend
+26,CA-CB,P47,P21,hand,"Sophia, earlier sexual assaults"
+26,CA-CB,P48,,hand-unmatched,"Amy B. Chesler, public accusations: CB has no record"
+26,CA-CB,P49,P43,hand,white Boston minister attacked in Selma
+26,CA-CB,P50,,hand-unmatched,Kyle Richard (data episode): CB has no record
+26,CA-CB,,P45,hand-unmatched,"Gary, sibling removed from childhood home: CA has no record"
+26,CA-CB,,P46,hand-unmatched,"Brendan, sibling removed from childhood home: CA has no record"
+26,CA-CB,,P47,hand-unmatched,Marie's twin brother: CA has no record
+26,CA-CB,,P48,hand-unmatched,"Rob, childhood mistreatment: CA has no record"
+26,CA-CB,P12,P12,auto-name,summer
+26,CA-CB,P13,P13,auto-name,daniel
+26,CA-CB,P14,P49,auto-name,james
+26,CA-CB,P15,P14,auto-name,kim
+26,CA-CB,P16,P15,auto-name,hannah
+26,CA-CB,P17,P17,auto-name,nevea
+26,CA-CB,P18,P16,auto-name,professor locke
+26,CA-CB,P29,P27,auto-name,jane doe
+26,CA-CB,P32,P30,auto-name,tyler
+26,CA-CB,P33,P31,auto-name,maria
+26,CA-CB,P34,P34,auto-name,chris
+26,CA-CB,P35,P35,auto-name,christina
+26,CA-CB,P36,P33,auto-name,katie
+26,CA-CB,P37,P32,auto-name,jennifer
+26,CA-CB,P38,P36,auto-name,dred scott
+26,CA-CB,P39,P37,auto-name,susan b anthony
+26,CA-CB,P40,P38,auto-name,sojourner truth
+26,CA-CB,P41,P39,auto-name,james cheney
+26,CA-CB,P42,P40,auto-name,michael schwerner
+26,CA-CB,P43,P41,auto-name,andrew goodman
+17,CA-CB,P01,P05,hand,"Leslie, boyfriend's coercion"
+17,CA-CB,P02,P02,hand,"Jace, abuse and murder"
+17,CA-CB,P16,P01,hand,"Jace, birth-family neglect"
+17,CA-CB,P08,P08,hand,"Stacey, restaurant shooting"
+17,CA-CB,P09,P09,hand,"Stacey, house-church cult"
+17,CA-CB,P12,P10,hand,"Stacey, boyfriend's threats"
+17,CA-CB,P04,P11,hand,"Samantha, earlier girlfriend"
+17,CA-CB,P03,P12,hand,Samantha's infant daughter
+17,CA-CB,P05,P13,hand,"Samantha's sister, slammed into wall"
+17,CA-CB,P06,P14,hand,perpetrator's recent ex-girlfriend
+17,CA-CB,P07,P15,hand,the ex-girlfriend's friend
+17,CA-CB,P10,P03,hand,"Leslie, childhood emotional neglect"
+17,CA-CB,P11,P07,hand,"Stacey, childhood emotional neglect"
+17,CA-CB,P13,P16,hand,Jace's grandmother
+17,CA-CB,P14,P17,hand,Jace's grandfather
+17,CA-CB,P15,P18,hand,Jace's great-aunt
+17,CA-CB,P17,P04,hand,"Leslie, exploitative first date"
+17,CA-CB,,P06,hand-unmatched,"Leslie, online harassment: CA has no record"
