@@ -351,8 +351,33 @@ def select_sample(groups, matches, recs):
             reason=q.get('reason')
             if reason not in seen:
                 seen.add(reason);reason_samples.append({'record':p['key'],'reason':reason,'source':q.get('source')})
+    counts={}
+    for metric in (*THRESH,'never_reached'):
+        rows=[row for row in sample if row['metric']==metric]
+        keys={tuple(row[side]) for row in rows for side in ['left','right']}
+        pairs={tuple(tuple(row[side]) for side in ['left','right']) for row in rows}
+        counts[metric]={'unique_pairs':len(pairs),'unique_coded_records':len(keys)}
+    counts['all']={'unique_coded_records':len({tuple(row[side]) for row in sample for side in ['left','right']})}
     return {'selection':'D7; first eligible positive, negative and disagreement by season/ID; no recoding',
-            'pairs':sample,'reason_examples':reason_samples}
+            'counts':counts,'pairs':sample,'reason_examples':reason_samples}
+
+
+def reading_checks(directory, docs):
+    counts={row[0]:int(row[1]) for row in csv.reader((directory/'chunk_linecounts.tsv').open(),delimiter='\t')}
+    report={}
+    for stem,d in docs.items():
+        prefix=f"s{d['season']:02}/"
+        expected={k for k in counts if k.startswith(prefix)}
+        seen=set();issues=[]
+        for row in d['reading_log']:
+            key=prefix+Path(row['file']).name
+            if key in seen or key not in counts or row['last_line_number']!=counts.get(key) or not row['read_in_full']:
+                issues.append({'file':key,'reported':row['last_line_number'],'expected':counts.get(key)})
+            seen.add(key)
+        if seen!=expected:
+            issues.append({'missing':sorted(expected-seen),'extra':sorted(seen-expected)})
+        report[stem]={'chunks':len(d['reading_log']),'issues':issues}
+    return report
 
 
 def main():
@@ -396,6 +421,18 @@ def main():
             'labels':LABELS,'flags':{'contradictions':len(contradiction),'deceased_protection':len(death),
                                     'quote_records':len(qflags) if qflags is not None else None},
             'quotation_checks':qreport,'framing':fr,'groups':{}}
+    result['flags']['by_file']={}
+    for label,flags in [('contradiction',contradiction),('deceased_protection',death),('quotation',qflags or set())]:
+        result['flags']['by_file'][label]=dict(sorted(Counter(k[0] for k in flags).items()))
+    result['reading_log_checks']=reading_checks(d,docs)
+    result['reading_log_totals']={'entries':sum(len(doc['reading_log']) for doc in docs.values()),
+                                  'files':len(docs),'files_with_issues':sum(bool(x['issues']) for x in result['reading_log_checks'].values())}
+    result['quotation_totals_by_coder']={}
+    for stem,q in qreport.items():
+        c=stem.split('_',1)[1]
+        t=result['quotation_totals_by_coder'].setdefault(c,dict(tested=0,found=0,too_short=0,other_episode=0,person_records_flagged=0))
+        for k in ['tested','found','too_short','other_episode']:t[k]+=q[k]
+        t['person_records_flagged']+=sum(key[0]==stem for key in qflags)
     for group,comps in groups.items():
         pairs=[pair for comp in comps for pair in matches[comp]]
         left=[p for s,a,b in comps for k,p in recs.items() if k[0]==f's{s:02}_{a}']

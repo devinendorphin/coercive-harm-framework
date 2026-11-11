@@ -1,0 +1,568 @@
+{
+  "selection": "D7; first eligible positive, negative and disagreement by season/ID; no recoding",
+  "counts": {
+    "W1": {
+      "unique_pairs": 6,
+      "unique_coded_records": 12
+    },
+    "W2": {
+      "unique_pairs": 6,
+      "unique_coded_records": 12
+    },
+    "W3": {
+      "unique_pairs": 6,
+      "unique_coded_records": 12
+    },
+    "never_reached": {
+      "unique_pairs": 6,
+      "unique_coded_records": 12
+    },
+    "all": {
+      "unique_coded_records": 36
+    }
+  },
+  "pairs": [
+    {
+      "group": "all",
+      "metric": "W1",
+      "category": "agreed_positive",
+      "left": [
+        "s05_A",
+        "P05"
+      ],
+      "right": [
+        "s05_B",
+        "P06"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W1",
+      "category": "agreed_negative",
+      "left": [
+        "s01_A",
+        "P01"
+      ],
+      "right": [
+        "s01_B",
+        "P01"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W1",
+      "category": "disagreed",
+      "left": [
+        "s07_CA",
+        "P01"
+      ],
+      "right": [
+        "s07_CB",
+        "P01"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W2",
+      "category": "agreed_positive",
+      "left": [
+        "s05_A",
+        "P02"
+      ],
+      "right": [
+        "s05_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W2",
+      "category": "agreed_negative",
+      "left": [
+        "s01_A",
+        "P01"
+      ],
+      "right": [
+        "s01_B",
+        "P01"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W2",
+      "category": "disagreed",
+      "left": [
+        "s04_A",
+        "P02"
+      ],
+      "right": [
+        "s04_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W3",
+      "category": "agreed_positive",
+      "left": [
+        "s07_CA",
+        "P01"
+      ],
+      "right": [
+        "s07_CB",
+        "P01"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W3",
+      "category": "agreed_negative",
+      "left": [
+        "s06_A",
+        "P03"
+      ],
+      "right": [
+        "s06_B",
+        "P04"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "W3",
+      "category": "disagreed",
+      "left": [
+        "s06_A",
+        "P10"
+      ],
+      "right": [
+        "s06_B",
+        "P09"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "never_reached",
+      "category": "agreed_positive",
+      "left": [
+        "s01_A",
+        "P02"
+      ],
+      "right": [
+        "s01_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "never_reached",
+      "category": "agreed_negative",
+      "left": [
+        "s01_A",
+        "P01"
+      ],
+      "right": [
+        "s01_B",
+        "P01"
+      ]
+    },
+    {
+      "group": "all",
+      "metric": "never_reached",
+      "category": "disagreed",
+      "left": [
+        "s03_A",
+        "P02"
+      ],
+      "right": [
+        "s03_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W1",
+      "category": "agreed_positive",
+      "left": [
+        "s05_A",
+        "P05"
+      ],
+      "right": [
+        "s05_B",
+        "P06"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W1",
+      "category": "agreed_negative",
+      "left": [
+        "s01_A",
+        "P01"
+      ],
+      "right": [
+        "s01_B",
+        "P01"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W1",
+      "category": "disagreed",
+      "left": [
+        "s13_A",
+        "P02"
+      ],
+      "right": [
+        "s13_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W2",
+      "category": "agreed_positive",
+      "left": [
+        "s05_A",
+        "P02"
+      ],
+      "right": [
+        "s05_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W2",
+      "category": "agreed_negative",
+      "left": [
+        "s01_A",
+        "P01"
+      ],
+      "right": [
+        "s01_B",
+        "P01"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W2",
+      "category": "disagreed",
+      "left": [
+        "s04_A",
+        "P02"
+      ],
+      "right": [
+        "s04_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W3",
+      "category": "agreed_positive",
+      "left": [
+        "s13_A",
+        "P05"
+      ],
+      "right": [
+        "s13_B",
+        "P05"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W3",
+      "category": "agreed_negative",
+      "left": [
+        "s06_A",
+        "P03"
+      ],
+      "right": [
+        "s06_B",
+        "P04"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "W3",
+      "category": "disagreed",
+      "left": [
+        "s06_A",
+        "P10"
+      ],
+      "right": [
+        "s06_B",
+        "P09"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "never_reached",
+      "category": "agreed_positive",
+      "left": [
+        "s01_A",
+        "P02"
+      ],
+      "right": [
+        "s01_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "never_reached",
+      "category": "agreed_negative",
+      "left": [
+        "s01_A",
+        "P01"
+      ],
+      "right": [
+        "s01_B",
+        "P01"
+      ]
+    },
+    {
+      "group": "claude",
+      "metric": "never_reached",
+      "category": "disagreed",
+      "left": [
+        "s03_A",
+        "P02"
+      ],
+      "right": [
+        "s03_B",
+        "P02"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W1",
+      "category": "agreed_positive",
+      "left": [
+        "s09_CA",
+        "P01"
+      ],
+      "right": [
+        "s09_CB",
+        "P01"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W1",
+      "category": "agreed_negative",
+      "left": [
+        "s07_CA",
+        "P02"
+      ],
+      "right": [
+        "s07_CB",
+        "P02"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W1",
+      "category": "disagreed",
+      "left": [
+        "s07_CA",
+        "P01"
+      ],
+      "right": [
+        "s07_CB",
+        "P01"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W2",
+      "category": "agreed_positive",
+      "left": [
+        "s07_CA",
+        "P01"
+      ],
+      "right": [
+        "s07_CB",
+        "P01"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W2",
+      "category": "agreed_negative",
+      "left": [
+        "s07_CA",
+        "P02"
+      ],
+      "right": [
+        "s07_CB",
+        "P02"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W2",
+      "category": "disagreed",
+      "left": [
+        "s10_CA",
+        "P37"
+      ],
+      "right": [
+        "s10_CB",
+        "P36"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W3",
+      "category": "agreed_positive",
+      "left": [
+        "s07_CA",
+        "P01"
+      ],
+      "right": [
+        "s07_CB",
+        "P01"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W3",
+      "category": "agreed_negative",
+      "left": [
+        "s09_CA",
+        "P03"
+      ],
+      "right": [
+        "s09_CB",
+        "P03"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "W3",
+      "category": "disagreed",
+      "left": [
+        "s11_CA",
+        "P53"
+      ],
+      "right": [
+        "s11_CB",
+        "P53"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "never_reached",
+      "category": "agreed_positive",
+      "left": [
+        "s08_CA",
+        "P05"
+      ],
+      "right": [
+        "s08_CB",
+        "P07"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "never_reached",
+      "category": "agreed_negative",
+      "left": [
+        "s07_CA",
+        "P01"
+      ],
+      "right": [
+        "s07_CB",
+        "P01"
+      ]
+    },
+    {
+      "group": "codex",
+      "metric": "never_reached",
+      "category": "disagreed",
+      "left": [
+        "s09_CA",
+        "P14"
+      ],
+      "right": [
+        "s09_CB",
+        "P17"
+      ]
+    }
+  ],
+  "reason_examples": [
+    {
+      "record": [
+        "s01_A",
+        "P02"
+      ],
+      "reason": "did_not_know_it_was_abuse",
+      "source": "s1-e9-unencumbered-by-the-weight-of-women @ 25:11"
+    },
+    {
+      "record": [
+        "s01_A",
+        "P02"
+      ],
+      "reason": "other",
+      "source": "s1-e9-unencumbered-by-the-weight-of-women @ 17:55"
+    },
+    {
+      "record": [
+        "s01_A",
+        "P03"
+      ],
+      "reason": "not_stated",
+      "source": "s1-e12-answers-healing @ 8:13"
+    },
+    {
+      "record": [
+        "s01_A",
+        "P09"
+      ],
+      "reason": "earlier_disbelief",
+      "source": "sww-live-sacramento @ 68:42"
+    },
+    {
+      "record": [
+        "s05_A",
+        "P01"
+      ],
+      "reason": "institution_was_abusers",
+      "source": "s5-e2-exposed-our-sin-julia @ 4:16"
+    },
+    {
+      "record": [
+        "s10_CA",
+        "P10"
+      ],
+      "reason": "cost_or_access",
+      "source": "s10-e3-ava-showing-up-places @ 27:47"
+    },
+    {
+      "record": [
+        "s10_CA",
+        "P13"
+      ],
+      "reason": "fear_of_abuser",
+      "source": "s10-e4-emma-monster-inside @ 44:23"
+    },
+    {
+      "record": [
+        "s11_CA",
+        "P22"
+      ],
+      "reason": "protecting_others",
+      "source": "s11-e7-willow-playing-the-hero @ 33:56"
+    },
+    {
+      "record": [
+        "s18_A",
+        "P24"
+      ],
+      "reason": "abuser_status_or_connections",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 27:46"
+    }
+  ]
+}
