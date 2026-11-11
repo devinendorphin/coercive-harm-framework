@@ -1,0 +1,54 @@
+file,person_id,name,home_season,home_records,reason
+s15_A,P13,Danielle,9,s09_CA P01; s09_CB P01,S9 central survivor; told here only in the S9 update episodes filed under S15 (e10-e11)
+s15_A,P15,Kenji,9,s09_CA P03-P04; s09_CB P03-P04,S9 person; same harm (partner involved with same man); S9 update episodes only
+s15_A,P16,Darcy,9,s09_CA P05; s09_CB P05,S9 person; same man; S9 update episodes only
+s15_A,P17,Samantha,9,s09_CA P13; s09_CB P15,S9 person; same man (four months dating); S9 update episodes only
+s15_A,P18,Zara,9,s09_CA P14; s09_CB P17,S9 person; same man under alias; S9 update episodes only
+s15_A,P22,Amy B. Chesler,7,s07_CA P01; s07_CB P01,S7 central survivor (brother's abuse); S7 update episode filed under S15 (e13)
+s15_A,P23,Hadas,7,s07_CA P02; s07_CB P02,S7 person (killed by her son); S7 update episode only
+s15_B,P14,Danielle,9,s09_CA P01; s09_CB P01,as s15_A P13
+s15_B,P15,Kenji,9,s09_CA P03-P04; s09_CB P03-P04,as s15_A P15
+s15_B,P16,Darcy,9,s09_CA P05; s09_CB P05,as s15_A P16
+s15_B,P17,Samantha,9,s09_CA P13; s09_CB P15,as s15_A P17
+s15_B,P18,Zara,9,s09_CA P14; s09_CB P17,as s15_A P18
+s15_B,P19,Stacey,9,s09_CA P11; s09_CB P11,S9 person (child with the same man); S9 update episodes only
+s15_B,P20,Amy,7,s07_CA P01; s07_CB P01,as s15_A P22
+s15_B,P21,Hadas,7,s07_CA P02; s07_CB P02,as s15_A P23
+s15_B,P22,Amy (impersonation accounts),7,s07_CA P16; s07_CB P22,S7 records cover the same impersonation harm; S7 update episode only
+s19_A,P15,Kaylin,14,s14_A P01; s14_B P01,S14 central survivor; S14 update episodes filed under S19 (e9-e10)
+s19_A,P16,Emerson,14,s14_A P02; s14_B P02,S14 child; S14 update episodes only
+s19_A,P17,Melissa,14,s14_A P03; s14_B P03,S14 person; S14 update episodes only
+s19_A,P18,Ivy,14,s14_A P04; s14_B P04,S14 child; S14 update episodes only
+s19_B,P10,Kaelin,14,s14_A P01; s14_B P01,as s19_A P15
+s19_B,P11,Emerson,14,s14_A P02; s14_B P02,as s19_A P16
+s19_B,P12,Melissa,14,s14_A P03; s14_B P03,as s19_A P17
+s19_B,P13,Ivy,14,s14_A P04; s14_B P04,as s19_A P18
+s21_CA,P32,Monica,20,s20_CA P01; s20_CB P03,S20 person; S20 update in S21 e18 only
+s21_CA,P33,Lauren (online impersonation case),20,s20_CA P03; s20_CB P01,S20 central survivor; S21 e18 only
+s21_CA,P34,Brie,20,s20_CA P02; s20_CB P02,S20 person; S21 e18 only
+s21_CA,P36,[unnamed] child of impersonation perpetrator,20,s20_CA P15/P22; s20_CB P15/P22,S20 records of the perpetrator's son; S21 e18 only
+s21_CA,P38,Amy,7,s07_CA P01; s07_CB P01,S7 survivor; brother's continuing threats; S21 e18 only
+s21_CA,P39,Hadass,7,s07_CA P02; s07_CB P02,S7 person; S21 e18 only
+s21_CA,P57,[unnamed] correctional officer,7,s07_CA P12; s07_CB P10,S7 records of the attacked officer; S21 e18 only
+s21_CB,P46,Monica,20,s20_CA P01; s20_CB P03,as s21_CA P32
+s21_CB,P47,Lauren (season 20 update),20,s20_CA P03; s20_CB P01,as s21_CA P33
+s21_CB,P48,Brie,20,s20_CA P02; s20_CB P02,as s21_CA P34
+s21_CB,P50,[unnamed] child in season 20 update,20,s20_CA P15/P22; s20_CB P15/P22,as s21_CA P36
+s21_CB,P51,Amy B. Chesler (death threat),7,s07_CA P01; s07_CB P01,as s21_CA P38
+s21_CB,P52,Hadass,7,s07_CA P02; s07_CB P02,as s21_CA P39
+s21_CB,P53,[unnamed] correctional officer,7,s07_CA P12; s07_CB P10,as s21_CA P57
+s23_CA,P41,Jubilee (marriage),21,s21_CA P26; s21_CB P28,S21 survivor; S21 update episode filed under S23 (e20)
+s23_CA,P42,Jubilee (church deception and cover-up),21,s21_CA P24; s21_CB P26,S21 survivor (religious institution harm); S23 e20 only
+s23_CB,P42,Jubilee (church manipulation),21,s21_CA P24; s21_CB P26,as s23_CA P42
+s23_CB,P43,Jubilee (ex-husband),21,s21_CA P26; s21_CB P28,as s23_CA P41
+s11_CA,P50,Brian Banks,9,s09_CB P22,coded from the same unassigned data episode in several seasons; first appearance S9
+s21_CA,P49,Brian Banks,9,s09_CB P22,as above
+s21_CB,P59,Brian Banks,9,s09_CB P22,as above
+s23_CB,P52,Brian Banks,9,s09_CB P22,as above
+s25_CA,P48,Brian Banks,9,s09_CB P22,as above
+s26_CA,P45,Brian Banks,9,s09_CB P22,as above
+s20_CB,P21,Kyle Richard,9,s09_CB P23,same unassigned data episode; first appearance S9
+s23_CB,P53,Kyle Richard,9,s09_CB P23,as above
+s26_CA,P50,Kyle Richard,9,s09_CB P23,as above
+s21_CB,P60,Caitlin Mathis,11,s11_CA P51,same unassigned episode; first appearance S11
+s21_CB,P61,Jackie Vandagriff,11,s11_CA P52,as above

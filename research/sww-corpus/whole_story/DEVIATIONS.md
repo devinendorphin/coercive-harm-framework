@@ -103,3 +103,47 @@ that the Claude framing band was measured with the same exposure in place, so it
 effect of the framing sentence on top of it, not the exposure itself; (4) not present any Claude-only
 figure as blinded. **Possible repair, not yet done:** re-code one or more seasons with Claude coders
 run in a clean environment (the kit repository, with no project CLAUDE.md) and compare.
+
+## D6 — 2026-11-11, analysis decisions fixed before any headline was computed
+
+*Written after reading the coded files' structure (record counts, field values, which episodes
+each record cites) and before matching people or computing any figure. Nothing here changes a
+prediction or threshold.*
+
+1. **People who reappear in another season.** Some seasons carry another season's update
+   episodes (S15 e10–e11 = S9 updates, S15 e13 = S7; S19 e9–e10 = S14; S21 e18 = S20, S18, S7;
+   S23 e20 = S21), and some coders coded people from the same unassigned data episode in several
+   seasons. Every such record whose person is already coded in the home season (by either neutral
+   coder) is listed by hand in `../results/whole_story/cross_season_repeats.csv`, identified by
+   name, role and harm only. Records told only in another season's update whose person the home
+   season's coders did not record (e.g. S15 A "Danielle's daughter", S21 "Dani", the newly targeted
+   doula, S23 "Daisy") are not repeats. **Both counts are reported:** *per season* (every record as
+   coded, the plan's default) and *once* (listed repeats removed before matching). A repeat is
+   removed only when its home season is in the set being reported (pooled, Claude-only or
+   Codex-only), so no set loses a person it does not otherwise contain. In the *once* count the
+   home-season record stands for the person, even where the update knows more; this is stated
+   beside the figures.
+2. **Records that contradict themselves.** 21 Codex records give `reached_institution` "unclear"
+   but outcome `never_reached` (S12 CB 1, S17 CA 1, S17 CB 5, S21 CB 14); no other kind of
+   contradiction exists. Coder output is not edited. Reported three ways: *as coded* (the plan:
+   "unclear" leaves the record out of every yes/no share); *without them* (the 21 records removed
+   before matching); and, for the never-reached share only, *read by their outcome* (counted as
+   not reached). W1–W3 need `reached = yes`, so the 21 records cannot enter them as coded.
+3. **Person matching** uses only `name`, `role_in_story`, `harm`, `perpetrator_role` and
+   `episodes`, never a code. Automatic name matching first, then by hand; every hand match and
+   every hand decision that a record has no counterpart goes in `matching_hand.csv` with its
+   reason. A `pair` column names the two coders (A-B, CA-CB, or the S17 cross pairs A-CA, A-CB,
+   B-CA, B-CB).
+4. **S17 in the pooled count.** D4 places S17's Claude pair in the Claude-only set and its Codex
+   pair as the cross-check. The pooled figure uses the Claude pair for S17 (one pair per season);
+   the pooled figure with the Codex pair instead is reported beside it.
+5. **Framing band for the pooled figure.** D3 gives a band to each model's set but none to the
+   pooled set. The pooled headline is judged against the wider of the two bands, so a result
+   counts as decided only if it is decided under both models' measured lean.
+6. **The D5 estimate (unblinded Claude vs blinded Codex) on S17** is: each coder's own figures
+   side by side; agreement on people matched across models; and the direction of every
+   cross-model disagreement on outcome and on the W2 indicator (which way the Claude coder leans
+   relative to the Codex coder). One season and two coders a side cannot separate the exposure
+   from the model family; the results will say so.
+7. **Each coder's own figures in the three-way report** are pooled by coder label: A and B over
+   the Claude seasons, CA and CB over the Codex seasons.
