@@ -93,3 +93,11 @@ Entries are added when the analyst notices its own work leaning toward the insti
    the director's framing is not what the data show"), from one season confounded with model.
    Rewritten before commit. Not a lean toward the institutions studied; a lean toward the
    institution doing the studying.
+8. **I attached a framing cue to a question for the director.** Asking Endorphin whether medical
+   rescue counts as protection, I ended the option with "That would push the figure toward your
+   prediction." The study measures exactly this: one added sentence that tells the reader which
+   answer is wanted. The cue leaned toward the director, not the institution, and was in the
+   question whether or not it moved him. Questions to Endorphin state options and their
+   definitions, not which one favours his hypothesis; consequences go in the results afterwards.
+9. **The D5 record was credited to the supervisor.** It was written after Endorphin raised the
+   coder's warning. Corrected in D5, RESULTS and the session log.

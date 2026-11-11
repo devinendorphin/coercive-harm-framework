@@ -23,27 +23,25 @@ beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
 | 07 | ACTIVE; **needs *Counterman* (2023) on prong 5** and an untested-record rule |
 | 08 | 31 objections; **OBJ-031 PARTLY ANSWERED** (second test: outcomes mostly not protective) |
 | 09 / 10 | ACTIVE; doc 10 Finding B annotated with both tests |
-| SWW whole-story test | **ANALYSED**: protected 21 % (holds); failure responses 31 % (split, not decided; 50 % for central survivors); decisive work 43 % (not decided); ~3 in 10 never reached. Quotation check done (16 of ~9,000 below bar; no change) |
+| SWW whole-story test | **ANALYSED**: protected 21 % (holds); failure responses 31 % (split, not decided; 50 % for central survivors); decisive work 43 % (not decided); ~3 in 10 never reached. Quotation check done (16 of ~9,000 below bar; no change). Rulings D9; S7 memory D10 |
 
 ## Top 3 priorities for next session
 
-1. **Endorphin rules on the open analysis questions** — whether D3's "Claude-only is the
-   pre-registered result" survives D5; whether emergency medical care counts as protection
-   (S23). *Reason:* each one decides how a headline is worded in RESULTS and docs 04/08.
-2. **Clean-environment Claude recode** of one or two seasons (D5's repair; S17 first) from the
-   kit repository. *Reason:* the only way to separate the CLAUDE.md exposure from the model
-   difference; also check whether the earlier power-vector coders were exposed.
-3. **Merge the branch, then decide how doc 09 states the institutional claim.** Suggested
-   wording to test: "single responses are often appropriate; people mostly do not end up
-   protected; disbelief or blame reaches about half of central survivors." *Reason:* the thesis
-   now has a measured outcome claim to replace "present and nameable."
+1. **Brief Endorphin on the results before doc 09 is reworded** (his call: hold doc 09 until he
+   understands more). The reel series is the vehicle; reel 1 (introduction) is drafted in
+   `media/sww-whole-story-reels/`. *Reason:* he has seen only a few seasons.
+2. **Approve or amend `whole_story/PROPOSAL-coder-environment.md`**, then run its exposure
+   experiment on S17 (clean vs deliberately exposed Claude coders). *Reason:* the only way to
+   separate exposure from model; it repairs D5 and D10 as a test.
+3. **Merge both analyses side by side** (D9.1): this branch and `analysis/whole-story-isolated`,
+   each keeping its own decision entries. *Reason:* both edit the same files today.
 
 ## Open decisions awaiting Endorphin
 
-- D3 vs D5 (above); medical rescue as protection (above).
-- The proposed CLAUDE.md agreement on blind coders (`sessions/2026-11-11-whole-story-analysis.md`).
-- Carried: counting rule for CROSS-SEASON; fraud prong scope; psychological homicide scope;
-  base no-harm offense civil or criminal (OBJ-021); posting the reels.
+- Doc 09 wording (held). CROSS-SEASON counting rule (reminder given 2026-11-11). Doc 07:
+  *Counterman* and the untested-record rule. Fraud prong scope; psychological homicide scope;
+  base no-harm offense civil or criminal (OBJ-021; explained 2026-11-11). Reels: one at a time.
+- Paid-usage study: written and PARKED (`research/proposal-paid-access-to-correction.md`).
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 

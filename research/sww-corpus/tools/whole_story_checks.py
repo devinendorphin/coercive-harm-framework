@@ -119,7 +119,9 @@ SAMPLES = {
 }
 
 if __name__ == "__main__":
-    if sys.argv[2] == "figures":
+    if sys.argv[2] == "ruling3":
+        pass
+    elif sys.argv[2] == "figures":
         figures()
     else:
         name = sys.argv[3]; n = int(sys.argv[4]) if len(sys.argv) > 4 else 10; seed = int(sys.argv[5]) if len(sys.argv) > 5 else 20261111
@@ -129,3 +131,30 @@ if __name__ == "__main__":
         pick = random.Random(seed).sample(pool, min(n, len(pool)))
         print(f"SAMPLE {name} ({desc}): {len(pick)} of {len(pool)} matched people, seed {seed}, set {setname}")
         for m in pick: show(m, full=name.startswith("W2"))
+
+# ---- Endorphin's ruling R3 (2026-11-11, made after the results were known; see DEVIATIONS) ----
+# "Count only an institution acting on a report of the harm." Rule fixed before running: a person
+# leaves the decisive-work figure if, in either coder's record, every protective contact
+# (believed_and_acted or acted_partly) is medical_or_therapy care.
+def medical_only(p):
+    prot = [c for c in p.get("contacts") or [] if c.get("response") in ("believed_and_acted", "acted_partly")]
+    return bool(prot) and all(c.get("institution_type") == "medical_or_therapy" for c in prot)
+
+def ruling3():
+    out = {}
+    for setname in ("pooled", "claude", "codex"):
+        M = matched(setname)
+        keep = [m for m in M if not (medical_only(m[3]) or medical_only(m[4]))]
+        o = {"removed_pairs_with_protection": sum(1 for m in M if m[1]["prot_any"] and m[2]["prot_any"] and (medical_only(m[3]) or medical_only(m[4]))),
+             "W3": A.agreed(keep, "W3"), "W1": A.agreed(keep, "W1")}
+        fr = A.framing(); band = fr["pooled" if setname.startswith("pooled") else setname]["band"]
+        o["decision_W3"] = A.decide({k: (o["W3"] if k == "W3" else {"rate": None}) for k in A.THRESH}, band)["W3"]
+        vals = []
+        for s in sorted({m[0] for m in keep}):
+            h = A.agreed([m for m in keep if m[0] != s], "W3"); vals.append((s, h["rate"]))
+        o["W3_leave_one_out"] = {"min": min(vals, key=lambda x: x[1] if x[1] is not None else 9), "max": max(vals, key=lambda x: x[1] or 0)}
+        out[setname] = o
+    print(json.dumps(out, indent=1)); json.dump(out, open(f"{D}/ruling3_checks.json", "w"), indent=1)
+
+if __name__ == "__main__" and sys.argv[2] == "ruling3":
+    ruling3()

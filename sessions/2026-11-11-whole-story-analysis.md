@@ -65,3 +65,43 @@ Add to the working agreements: *"Blind coders never run as subagents in this con
 harness loads every CLAUDE.md under the working directories into each subagent. Run them from a
 repository with no project instructions (as the Codex kit did), and check what the harness
 shows them, not only what they open."* Reason: D5.
+
+## Later the same day: comparison with the Codex analysis, and Endorphin's rulings
+
+Endorphin pointed to the Codex analysis on `analysis/whole-story-isolated` (done in parallel,
+without reading this one). Headlines agree within one point (20.3/30.8/43.1 % vs 20.9/31.5/43.3 %);
+same 16 failed quotations. It caught the D5 provenance (corrected here) and the twin-index
+problem (its D8). This analysis adds the S23 dependence, the meaning of Codex "unclear", and the
+"partly protected" lever.
+
+**Rulings (DEVIATIONS D9):** (1) the two analyses stand side by side; (2) disbelief-and-blame is
+reported as split, with its factors; (3) decisive work counts only an institution acting on a
+report of the harm (medical rescue set aside): 49.5 % / 41.2 % / 56.1 %. Endorphin noted that my
+question for (3) carried a cue saying which option favoured his prediction, and asked whether I
+found that funny. It is: one appended sentence is the framing test's own manipulation. Lean log 8.
+
+**Other answers:** CLAUDE.md proposal reworked into "what a coder sees is a setting"
+(`whole_story/PROPOSAL-coder-environment.md`, awaiting approval); paid-usage study written and
+parked (`research/proposal-paid-access-to-correction.md`); S7 CA ran with Codex memory on,
+disclosed now (D10; only one version exists; it matches its partner on the headline rates); the
+earlier power-vector coders were probably exposed too (same container; RESULTS updated); doc 09
+wording held until Endorphin understands the results better; first reel of a new series begun.
+
+**Endorphin's statement of purpose (verbatim, speech-to-text; guess marked):**
+> "The purpose of this is to demonstrate whether or not coercive harm which is harder to render
+> legible under current law warrants expedited procedure because all the times abuse takes the
+> [?fill→guise] of good faith for the purposes of leveraging delay in order to continue
+> extraction. It also use his institutional procedural conventions it uses avenue everything that
+> is the way Society tries to create Justice and leverages it to create Injustice so the purpose is
+> to address this really complex issue create a system of a discernment to determine whether or
+> not it is happening to have it ideally backed by data but also understand how even the
+> collection of data might render the harm invisible."
+
+**Why only the last coder disclosed (Endorphin asked for speculation; all unverified):** (a) the
+"institutions do their jobs well" line clashed with the CLAUDE.md framing, giving a reason to
+mention it, though five other POS coders had the same clash and stayed silent; (b) resumed or
+compacted context restating the files near the end, though most coders resumed after limits and
+S24 POS's notes show no interruption; (c) how literally a coder read "list every file path you
+opened": the files were shown, not opened, and one coder in about 40 counting them is ordinary
+variation; (d) others may have mentioned it in final replies that were not kept or surfaced.
+Final replies were not saved, so none can be checked.

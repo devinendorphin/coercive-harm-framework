@@ -1,0 +1,122 @@
+{
+ "pooled": {
+  "removed_pairs_with_protection": 18,
+  "W3": {
+   "k": 52,
+   "n": 105,
+   "rate": 0.495,
+   "disagreed": 15,
+   "ci95": [
+    0.401,
+    0.589
+   ]
+  },
+  "W1": {
+   "k": 73,
+   "n": 350,
+   "rate": 0.209,
+   "disagreed": 28,
+   "ci95": [
+    0.169,
+    0.254
+   ]
+  },
+  "decision_W3": {
+   "headline": 0.495,
+   "threshold": 0.5,
+   "distance": 0.005,
+   "band": 0.116,
+   "verdict": "not decided by this method"
+  },
+  "W3_leave_one_out": {
+   "min": [
+    10,
+    0.464
+   ],
+   "max": [
+    16,
+    0.531
+   ]
+  }
+ },
+ "claude": {
+  "removed_pairs_with_protection": 1,
+  "W3": {
+   "k": 21,
+   "n": 51,
+   "rate": 0.412,
+   "disagreed": 9,
+   "ci95": [
+    0.288,
+    0.548
+   ]
+  },
+  "W1": {
+   "k": 44,
+   "n": 146,
+   "rate": 0.301,
+   "disagreed": 13,
+   "ci95": [
+    0.233,
+    0.38
+   ]
+  },
+  "decision_W3": {
+   "headline": 0.412,
+   "threshold": 0.5,
+   "distance": 0.088,
+   "band": 0.116,
+   "verdict": "not decided by this method"
+  },
+  "W3_leave_one_out": {
+   "min": [
+    13,
+    0.341
+   ],
+   "max": [
+    16,
+    0.477
+   ]
+  }
+ },
+ "codex": {
+  "removed_pairs_with_protection": 18,
+  "W3": {
+   "k": 32,
+   "n": 57,
+   "rate": 0.561,
+   "disagreed": 6,
+   "ci95": [
+    0.433,
+    0.682
+   ]
+  },
+  "W1": {
+   "k": 30,
+   "n": 211,
+   "rate": 0.142,
+   "disagreed": 20,
+   "ci95": [
+    0.101,
+    0.196
+   ]
+  },
+  "decision_W3": {
+   "headline": 0.561,
+   "threshold": 0.5,
+   "distance": 0.061,
+   "band": 0.038,
+   "verdict": "not refuted"
+  },
+  "W3_leave_one_out": {
+   "min": [
+    10,
+    0.51
+   ],
+   "max": [
+    23,
+    0.64
+   ]
+  }
+ }
+}

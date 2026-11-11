@@ -104,6 +104,13 @@ effect of the framing sentence on top of it, not the exposure itself; (4) not pr
 figure as blinded. **Possible repair, not yet done:** re-code one or more seasons with Claude coders
 run in a clean environment (the kit repository, with no project CLAUDE.md) and compare.
 
+**How D5 entered the record (added 2026-11-11, Endorphin's account):** the S24 POS coder told the
+supervising Claude it had been shown the files; the supervisor mentioned it in chat; Endorphin
+raised its significance, and that the warning came only from the coder he had paid extra usage to
+finish; the supervisor then wrote this deviation. The formal record followed his intervention and
+is not evidence of an independent supervisory correction. (The Codex branch
+`analysis/whole-story-isolated` records the same.)
+
 ## D6 — 2026-11-11, analysis decisions fixed before any headline was computed
 
 *Written after reading the coded files' structure (record counts, field values, which episodes
@@ -156,3 +163,38 @@ prediction or threshold.*
    and an S26 file); its people count in S21. S26's own episodes 14–15 retell the S7 family's story;
    those records are S7 repeats. People told for the first time in these episodes
    (e.g. S23 "Tom", S25 "Summer" and "Daniel", S19 "Amy (London doula)") are not repeats.
+
+
+## D9 — 2026-11-11, Endorphin's rulings after both analyses were complete
+
+*Numbered after the Codex branch's D7–D8 so the two analyses can sit side by side; made after the
+figures were known, so they govern wording and add figures, and replace none.*
+
+1. **Two analyses, side by side.** This branch's analysis and `analysis/whole-story-isolated`
+   (Codex) both stand; neither replaces the other. When merged, each keeps its own files and
+   decision entries (this branch's D6 and the Codex branch's D6 are different documents).
+2. **Disbelief-and-blame (W2): reported as split**, with no single official figure, and the
+   factors behind the split stated. D3's sentence naming the Claude-only figure as "the one the
+   pre-registration describes" is not applied, because D5 broke the blinding that description
+   assumed.
+3. **Decisive work (W3): only an institution acting on a report of the harm counts.** Rule fixed
+   before computing: a person leaves the W3 figure if, in either coder's record, every protective
+   contact (believed_and_acted or acted_partly) is `medical_or_therapy`. Reported beside the
+   pre-registered figure (`ruling3_checks.json`): all seasons 52/105 = 49.5 % (not decided);
+   Claude 21/51 = 41.2 % (not decided); Codex 32/57 = 56.1 % (not refuted). **Bias note:** the
+   question put to Endorphin ended with a sentence saying this option would move the figure toward
+   his prediction. Endorphin says he decided before reading that sentence.
+
+## D10 — 2026-11-11, disclosed after analysis: the first Codex coder ran with memory on
+
+Endorphin disclosed that the first Codex coder of the study, **S7 CA**, ran with Codex's memory
+feature on (he forgot to turn it off and did not say so at the time, to see how different the
+coding might be). Only one S7 CA file exists (kit branch `s07-CA`, commit `1d61064`, identical to
+`coded/s07_CA.json`), so the memory-on coding is the one in every result. What memory held is not
+known; it may have included this project's framing, so S7 CA is treated as possibly unblinded.
+Check against its memory-off partner S7 CB on the same season: identical protected (33 %) and
+failure-response (44 %) rates on their own records; full agreement on failure responses; the
+lowest reached-agreement of any Codex pair (50 %), because CA wrote "no" where CB wrote "unclear"
+for people with no institutional contact; no project vocabulary in its file. One coder and one
+season cannot measure a memory effect. Removing S7 from the Codex set leaves every Codex verdict
+unchanged (leave-one-season-out, `posthoc_checks.json`).

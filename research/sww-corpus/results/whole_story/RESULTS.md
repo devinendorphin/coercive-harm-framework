@@ -18,6 +18,29 @@ coders were blind as promised.** So every figure below is given three ways: all 
 together, Claude-coded seasons only (**not blind**), and Codex-coded seasons only (**blind**).
 No Claude-only figure here is a blind result.
 
+**How the breach became part of the record.** The last Claude coder (S24, told "institutions
+usually do their jobs well") told the supervising Claude session it had been shown the files; the
+supervisor mentioned it in the chat. It became a formal study deviation because Endorphin raised
+what it meant, and that the warning came only from the coder whose completion he had paid extra
+usage for. This is Endorphin's account; the parallel Codex analysis records the same sequence.
+The deviation was not an independent correction by the supervisor.
+
+## Endorphin's rulings after the results (2026-11-11)
+
+These were made after both analyses were complete and the figures known. They govern how the
+results are worded; they do not replace the pre-registered figures, which stay in the tables.
+
+1. **The two analyses (this one and the Codex branch `analysis/whole-story-isolated`) stand side
+   by side** as independent analyses; neither replaces the other.
+2. **The disbelief-and-blame result is reported as split**, with no single official figure, and
+   the factors that split it are stated (section 2).
+3. **For "who did the work", only an institution acting on a report of the harm counts.** Medical
+   rescue (protection that was only medical or therapy care) is set aside. Figures in section 3.
+   *How this ruling was asked:* the question put to Endorphin ended with a sentence saying which
+   option would move the figure toward his prediction. That sentence was a framing cue of the
+   kind the study's own framing test measures. Endorphin says he chose before reading it; the
+   cue was in the question all the same, and it is recorded here.
+
 ## The short answer
 
 Across 26 seasons, two machine coders per season read every episode in full and recorded, for
@@ -27,8 +50,8 @@ same person 80–82 % of the time; 617 people were found by both.
 | Question (the prediction, and what would refute it) | All seasons | Claude seasons (not blind) | Codex seasons (blind) | Verdict |
 |---|---|---|---|---|
 | **Did institutions protect the people who came to them?** Predicted: fewer than 40 % end protected. | **21 %** (83 of 398) | 28 % (44 of 158) | 16 % (40 of 248) | **Prediction holds, every way it is counted.** About one person in five ended protected. |
-| **Did people meet disbelief, blame, being treated as the problem, or an institution protecting itself?** Predicted: 30 % or more meet at least one. | **31 %** (123 of 391) | 26 % (41 of 155) | 35 % (86 of 249) | **Split.** All seasons: not decided (too close to the line). Claude seasons: refuted by the rule, and D3 names this set as the pre-registered one, but it is not blind and holds in only 7 of 15 leave-one-season-out runs. Codex seasons (blind): prediction holds. |
-| **When protection came, who did the work that got it?** Predicted: the person, their family or friends, other victims, or publicity, in 50 % or more of cases. | **43 %** (52 of 120) | 40 % (21 of 52) | 44 % (32 of 72) | **Not decided** (all seasons; Claude seasons). Codex seasons: refuted by the rule, but only because of one season (S23); without it 63 %. Every figure is below 50 %. |
+| **Did people meet disbelief, blame, being treated as the problem, or an institution protecting itself?** Predicted: 30 % or more meet at least one. | **31 %** (123 of 391) | 26 % (41 of 155) | 35 % (86 of 249) | **Split** (Endorphin's ruling 2). All seasons: not decided (too close to the line). Claude seasons (not blind): refuted by the rule, unstable. Codex seasons (blind): prediction holds. Central survivors: 50 % under both models. |
+| **When protection came, who did the work that got it?** Predicted: the person, their family or friends, other victims, or publicity, in 50 % or more of cases. | **43 %** (52 of 120) | 40 % (21 of 52) | 44 % (32 of 72) | **Not decided** (all seasons; Claude seasons). Codex seasons: refuted by the rule, but only because of one season (S23); without it 63 %. **Under Endorphin's ruling 3** (medical rescue set aside): 50 %, 41 %, 56 % — not decided, not decided, prediction holds. |
 | **How many people never reached any institution?** (no prediction) | 14 % by the plan's rule; **26–33 % had no institutional contact in the story** | 26 % | 3 % by the plan's rule; 26–29 % had no contact | See "The people who were never heard" below: the plan's rule hides most of them for the Codex coders. |
 
 "Protected" means the institution's action stopped the harm or made the person safe. People who
@@ -89,6 +112,14 @@ say which side of 30 % the true figure is on.**
   model (D3) says the Claude-only figure is the one the pre-registration describes; it is
   also the unblinded one and the least stable one. Both are reported; neither is the verdict
   on its own.
+- **Why it is split — the factors, together:** (1) the all-seasons figure sits 1.5 points from
+  the line, inside the 2.9-point framing band; (2) the two models coded different seasons with
+  different habits, so model and season are mixed; (3) the Claude coders were not blind and the
+  Codex coders were; (4) the Claude figure changes verdict when single seasons are left out (8
+  of 15) and the Codex figure does not; (5) how people retold in later seasons are counted
+  matters at this margin: counted once by my rule the Claude figure stays refuted (26.7 %), by
+  the Codex analysis's rule it becomes not decided; (6) the result depends on who is counted:
+  central survivors 50 %, everyone 31 %.
 - **For the central survivor of each season it is one in two: 50 %** (58 of 116), in Claude
   seasons (51 %) and Codex seasons (50 %) alike. The all-people figure is pulled down by
   bystanders, relatives and people mentioned in passing, whose stories say less.
@@ -130,6 +161,14 @@ their quotations, but five of the ten are emergency medical care (a hospital sav
 newborn), which is protection from a medical harm rather than the institution answering a
 report; whether that is the question this prediction asked is a scope question the
 pre-registration did not settle. **Not decided, and the reason is stated.**
+
+**Under Endorphin's ruling 3** (only an institution acting on a report of the harm counts;
+rule fixed before computing: a person is set aside if, in either coder's record, every
+protective contact is medical or therapy care; 18 people leave, all but one from Codex seasons):
+all seasons **50 %** (52 of 105), not decided; Claude seasons 41 % (21 of 51), not decided;
+Codex seasons **56 %** (32 of 57), prediction holds (above the line by more than the Codex band;
+leaving out single seasons, 51–64 %). This is a post-results ruling and is reported beside the
+pre-registered figure, not in its place (`ruling3_checks.json`).
 
 ## 4. The people who were never heard
 
@@ -219,9 +258,12 @@ judging stories. The outside figures read on the show's expert episodes (`EXTERN
 about 69 % of sexual assaults and 71 % of stalking never reported) are of the same order as the
 three in ten unheard here, though the show's people are a selected group, not a sample.
 
-**Open question about the earlier result:** the earlier coders also ran as Claude subagents in
-this project's container, so they were probably shown the same CLAUDE.md files. That has not
-been checked. Their result leaned toward institutions all the same.
+**The earlier result was probably not blind either (checked 2026-11-11).** Its coders were
+"fresh model instances" run from the 2026-11-01 session (`sessions/2026-11-01-sww-abc.md`), and
+that session's branch (`ccr-c49788dd-8fejpj`) exists in both this repository and the ledger
+repository, so both projects' CLAUDE.md files were in that container. No per-coder record of what
+each was shown survives, so this is "probably exposed", not proven. That test also told one of
+its two coders the hypothesis by design. Its result leaned toward institutions all the same.
 
 ## Limits
 
@@ -238,11 +280,15 @@ been checked. Their result leaned toward institutions all the same.
 ## Files
 
 `coded/` (coder output, unedited) · `matching_hand.csv` (hand matches with reasons) ·
-`matching.csv` (all matches) · `cross_season_repeats.csv` · `summary.json` · `posthoc_checks.json`
+`matching.csv` (all matches) · `cross_season_repeats.csv` · `summary.json` · `posthoc_checks.json` · `ruling3_checks.json`
 · `../../tools/analyze_whole_story.py` · `../../tools/whole_story_checks.py`.
 
-**Quotation check (2026-11-11, transcripts rebuilt in-session: 681 files, 388 episodes, one
-more than the 2026-11-01 fetch):** of about 9,000 coder quotations, 16 fall below the 80 %
+**Quotation check (2026-11-11, transcripts rebuilt in-session, 681 files):** rebuilding season
+assignments from the episodes' web addresses gives 388 episodes, not the study's committed 387,
+because some episodes take their season from a duplicate copy (the parallel Codex analysis found
+four and restored the frozen index, its D8). The committed index is the study's; the rebuild was
+used only to find quotations, and the result matches the Codex analysis's frozen-index check
+exactly. of about 9,000 coder quotations, 16 fall below the 80 %
 match bar (S3 B 2, both in `others_mentioned`; S4 NEG 4; S5 A 1; S23 CB 3; S24 B 6); every other
 file is 100 %. Each file's `.quotecheck.json` sits beside it in `coded/`. Leaving out records
 whose deciding quotation was not found removes one person from the protection figure and one
