@@ -29,6 +29,10 @@ reporting: all seasons, Claude-only, Codex-only), `tools/check_quotes.py`. The t
 in the repo; rebuild them only if you need to check a passage (`STATUS.md` says how, about 40
 minutes).
 
+**Read deviation D5 first.** Claude coders were shown the project's CLAUDE.md files by the harness
+and so were not blinded; Codex coders were. Every Claude-coded figure must be labelled unblinded,
+the S17 cross-check used to estimate the difference, and no Claude-only figure presented as blind.
+
 **Decisions to make and commit BEFORE computing any headline** (log each as a dated entry in
 `DEVIATIONS.md` if the plan does not already fix it):
 - People who reappear across seasons (e.g. S14 survivors coded again in S19 update episodes):

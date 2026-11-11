@@ -63,3 +63,10 @@ Entries are added when the analyst notices its own work leaning toward the insti
 2. **Two process slips, not leans, recorded for completeness:** the pilot coders missed the last
    line of every file because of how I built the files (D1.1); and my first framing draw counted a
    summary line as a season (D2). Both were caught and redone before they affected any result.
+3. **I did not check what the coders could see before they started.** Claude Code gives every
+   subagent the CLAUDE.md files of its working directories. I told the coders to open nothing outside
+   their folders and checked the files they listed, but never checked what the harness put in front
+   of them. Every Claude coder was likely primed with the project's own framing ("institutional harm
+   laundering"). This leans the other way from entries 1–2: toward finding failure. It is a breach of
+   the blinding the pre-registration promised, found only because one coder mentioned it in its last
+   report. Recorded as deviation D5; the analysis must treat Claude-coded results as unblinded.

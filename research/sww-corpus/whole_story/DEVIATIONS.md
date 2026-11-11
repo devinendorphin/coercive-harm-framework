@@ -75,3 +75,31 @@ S17 as cross-check, S20, S21, S23, S25, S26). (Drafting this entry exposed that 
 pair assigned to either model; it is assigned to Claude here, so every season S1–S26 has one.) The three-way reporting
 rule of D3 applies unchanged; no season is coded by Claude neutral coders and Codex neutral coders
 both, except S17 (the planned cross-check).
+
+## D5 — 2026-11-11, found after coding: Claude coders saw the project's CLAUDE.md files
+
+**What happened:** the S24 POS coder reported that "the CLAUDE.md contents under /home/user were
+shown to me automatically by the environment". Claude Code loads the CLAUDE.md files of the working
+directories into every subagent's context. Every Claude coder (neutral A/B and framing POS/NEG) ran
+in this session's container, where both `coercive-harm-framework/CLAUDE.md` and
+`veriticide-general-ledger/CLAUDE.md` sit under `/home/user`. Not every coder reported it, but the
+loading is automatic, so **assume all Claude coders were exposed**. Codex coders were not: they
+worked in the separate `sww-coding-kit` repository, which has no project instructions.
+
+**What those files say that matters:** the project studies how institutions handle psychological
+and coercive harm (`coercive-harm-framework/CLAUDE.md` line 8); "sycophancy to power" is its subject
+(line 48); the ledger repo's thesis is "institutional harm laundering" (`veriticide-general-ledger/
+CLAUDE.md` line 8). Neither file states W1–W3 or their thresholds, but together they frame
+institutions as failing victims. The pre-registration promised coders would "not see ... this
+project's documents"; for Claude coders that promise was broken.
+
+**Direction of possible bias:** toward coding institutional failure (the opposite of the earlier
+leans recorded in the self-audit, but contamination all the same).
+
+**What the analysis must do:** (1) report the Claude-coded and Codex-coded results separately (D3
+already requires it) and state that only the Codex coders were blinded as promised; (2) use the S17
+cross-check (two Claude and two Codex coders on the same season) to estimate the difference; (3) note
+that the Claude framing band was measured with the same exposure in place, so it measures the
+effect of the framing sentence on top of it, not the exposure itself; (4) not present any Claude-only
+figure as blinded. **Possible repair, not yet done:** re-code one or more seasons with Claude coders
+run in a clean environment (the kit repository, with no project CLAUDE.md) and compare.

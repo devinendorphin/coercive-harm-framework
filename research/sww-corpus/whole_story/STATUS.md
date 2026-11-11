@@ -1,21 +1,19 @@
-# Whole-story test: run status (updated 2026-11-08)
+# Whole-story test: run status (updated 2026-11-11) — CODING COMPLETE
 
 Coded files are in `../results/whole_story/coded/` (checked on arrival: valid JSON, every chunk
 read to its last line, quotations verified against the transcripts with `tools/check_quotes.py`).
 
-## Done
-- Claude neutral pairs (A, B): S1, S2, S3, S4, S5, S6, S14, S16, S17, S18, S24
-- Claude single coder so far: S15 B, S19 B
-- Codex neutral pairs (CA, CB): S7, S8, S9, S10, S11, S12, S17 (cross-check), S20, S21, S23, S25
-- Codex single: S26 CB
-- Codex framing pair: S13 CPOS / CNEG
-
-## Still to code
-- Claude neutral: S13 A+B, S15 A, S19 A, S22 A+B (in progress in session_01DekSu4xpiRwMGNBweYLj8Z)
-- Claude framing pairs (POS, NEG): S2, S4 (in progress); S3, S13, S22, S24 (not started)
-- Codex: S26 CA (not on the kit repo)
+## Done (all coding complete, 2026-11-11)
+- Neutral pairs, every season S1–S26: Claude A/B for S1–S6, S13–S19, S22, S24; Codex CA/CB for
+  S7–S12, S20, S21, S23, S25, S26; S17 also coded by Codex CA/CB as the cross-check.
+- Framing pairs: Claude POS/NEG for S2, S3, S4, S13, S22, S24; Codex CPOS/CNEG for S13.
 
 ## Known issues to carry into the analysis
+- **Claude coders were not blinded (deviation D5):** the harness loaded the project CLAUDE.md files
+  into every Claude coder's context. Report Claude-coded results as unblinded; Codex coders were
+  blinded. See DEVIATIONS.md D5.
+- Several coders lost their notes on a container change and re-read from file 1; reading logs say so.
+- S04 NEG: 4 of 56 quotations below the 0.8 match bar.
 - Some Codex files contradict themselves: `reached_institution` not "no" but outcome
   `never_reached` (e.g. S17 CB 5 records, S21 CB 14). Count per coder; report headlines with and
   without those records. Do not edit coder output.
