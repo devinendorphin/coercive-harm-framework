@@ -9,6 +9,10 @@ read to its last line, quotations verified against the transcripts with `tools/c
 - Framing pairs: Claude POS/NEG for S2, S3, S4, S13, S22, S24; Codex CPOS/CNEG for S13.
 
 ## Known issues to carry into the analysis
+- **Pinned (Endorphin, 2026-11-11):** the only coder that disclosed the CLAUDE.md exposure (D5) was
+  the last one to finish: S24 POS, the one Endorphin paid extra usage to complete. All other Claude
+  coders received the same files and none mentioned them. Open question, not yet examined: why this
+  one reported it and the others did not.
 - **Claude coders were not blinded (deviation D5):** the harness loaded the project CLAUDE.md files
   into every Claude coder's context. Report Claude-coded results as unblinded; Codex coders were
   blinded. See DEVIATIONS.md D5.
