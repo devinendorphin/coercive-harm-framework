@@ -65,5 +65,13 @@ the S17 cross-check used to estimate the difference, and no Claude-only figure p
    self-audit (lean log: record anything you notice leaning toward the institution's side), and
    `sessions/LATEST.md`; then run `/session-log`.
 
+**How to work (to keep usage down):**
+- **Do the analysis yourself, in this session. Do not start subagents** or any other agents. The
+  coding is finished; nothing in this step needs more coders.
+- **Let scripts do the arithmetic.** Counts, rates, agreement figures, intervals and the framing
+  band come from `tools/analyze_whole_story.py` (extended as needed) run over the coded files. Do
+  not tally by reading files. Read coded records yourself only to check them: the person matching,
+  the samples for each disconfirming test, and the quotations you publish.
+
 **Rules:** no shortcuts; grade evidence by what backs it up, not by who wrote it; plain language in
 everything you report to Endorphin; commit and push after each stage (the container is temporary).
