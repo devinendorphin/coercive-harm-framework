@@ -1,0 +1,61 @@
+from_file,from_id,to_file,to_id,reason
+s01_A,P01,s03_A,P04,Season 1 survivor and explicitly identified Season 1 ex-fiance update.
+s01_A,P08,s16_A,P01,Host’s abuse by her parents; same childhood/family trajectory.
+s01_A,P08,s23_CB,P36,Host’s abuse by her parents; same childhood/family trajectory.
+s01_A,P08,s25_CA,P27,Host’s abuse by her parents; same childhood/family trajectory.
+s07_CA,P01,s15_A,P22,"Amy’s abuse by her brother, mother’s murder and continuing threats/parole updates."
+s07_CA,P01,s21_CA,P38,"Amy’s abuse by her brother, mother’s murder and continuing threats/parole updates."
+s07_CA,P01,s23_CA,P35,"Amy’s abuse by her brother, mother’s murder and continuing threats/parole updates."
+s07_CA,P01,s25_CA,P28,"Amy’s abuse by her brother, mother’s murder and continuing threats/parole updates."
+s07_CA,P01,s26_CA,P26,"Amy’s abuse by her brother, mother’s murder and continuing threats/parole updates."
+s07_CA,P02,s15_A,P23,Amy’s mother murdered by her son; same family case and updates; spelling/role labels vary.
+s07_CA,P02,s16_A,P16,Amy’s mother murdered by her son; same family case and updates; spelling/role labels vary.
+s07_CA,P02,s21_CA,P39,Amy’s mother murdered by her son; same family case and updates; spelling/role labels vary.
+s07_CA,P02,s23_CA,P36,Amy’s mother murdered by her son; same family case and updates; spelling/role labels vary.
+s07_CA,P02,s26_CA,P25,Amy’s mother murdered by her son; same family case and updates; spelling/role labels vary.
+s07_CA,P16,s15_B,P22,"Amy’s online impersonation by unknown catfishing accounts, distinct from brother harm."
+s07_CA,P14,s26_CA,P48,"Amy’s public accusation of involvement in her mother’s murder; same accusation trajectory, separate from brother."
+s07_CA,P12,s21_CA,P57,"Correctional officer attacked by Amy’s imprisoned brother, recounted in update."
+s09_CA,P01,s15_A,P13,Danielle’s Season 9 former partner and father of child; explicit Season 9 update.
+s09_CA,P02,s15_A,P14,Danielle’s daughter; same father’s abduction threats in explicit Season 9 update.
+s09_CA,P03,s15_A,P15,Kenji’s harassment by former wife’s partner; explicit Season 9 update; marital harm kept separate.
+s09_CA,P05,s15_A,P16,"Darcy’s partner, child and car coercion; explicit Season 9 update."
+s09_CA,P13,s15_A,P17,Samantha’s four-month relationship and car deception; explicit Season 9 update.
+s09_CA,P14,s15_A,P18,Zara’s false-identity partner; explicit Season 9 update.
+s09_CA,P11,s15_B,P19,Stacey’s former partner and blocked adoption; explicit Season 9 update.
+s09_CB,P22,s11_CA,P50,Same named wrongful-conviction case recounted in unassigned episode.
+s09_CB,P22,s21_CA,P49,Same named wrongful-conviction case recounted in unassigned episode.
+s09_CB,P22,s23_CB,P52,Same named wrongful-conviction case recounted in unassigned episode.
+s09_CB,P22,s25_CA,P48,Same named wrongful-conviction case recounted in unassigned episode.
+s09_CB,P22,s26_CA,P45,Same named wrongful-conviction case recounted in unassigned episode.
+s09_CB,P23,s20_CB,P21,Same named bystander shot twice while intervening in sexual assault; unassigned episode.
+s09_CB,P23,s23_CB,P53,Same named bystander shot twice while intervening in sexual assault; unassigned episode.
+s09_CB,P23,s26_CA,P50,Same named bystander shot twice while intervening in sexual assault; unassigned episode.
+s11_CA,P51,s21_CB,P60,Same named campus stalking victim and subsequent prison contact.
+s11_CA,P52,s21_CB,P61,Same named murder victim connected to the campus stalker.
+s11_CA,P44,s23_CA,P45,Same Dara rape-survivor legislative advocacy story; update continues prosecution-time-limit campaign.
+s14_A,P01,s19_A,P15,Same Season 14 survivor and father of Emerson; update spells Kaylen as Kaylin/Kaelin.
+s14_A,P02,s19_A,P16,"Emerson, same father and family-court continuation of Season 14 harm."
+s14_A,P03,s19_A,P17,"Melissa, same former partner and father of Ivy; explicit Season 14 update."
+s14_A,P04,s19_A,P18,"Ivy, same father’s assault; explicit Season 14 update."
+s15_A,P10,s16_A,P17,Jenna Jean; explicit reference to Season 15 episode 6.
+s18_A,P07,s19_A,P19,Seanna/Shawna; London doula whose first client fabricated pregnancy; same perpetrator update.
+s20_CA,P03,s21_CA,P33,"Lauren’s roommate impersonation, stalking and protection-order updates; explicit Season 20 continuation."
+s20_CA,P03,s23_CA,P33,"Lauren’s roommate impersonation, stalking and protection-order updates; explicit Season 20 continuation."
+s20_CA,P01,s21_CA,P32,"Monica, same Season 20 impersonator update."
+s20_CA,P02,s21_CA,P34,"Brie/Bree, same Season 20 impersonator and update."
+s20_CA,P02,s23_CA,P34,"Brie/Bree, same Season 20 impersonator and update."
+s20_CA,P22,s21_CA,P36,Impersonator’s son; continuing maternal deception and moves in explicit Season 20 update.
+s21_CA,P26,s23_CA,P41,"Jubilee’s abusive marriage; explicit Season 21 update, same ex-husband."
+s21_CB,P45,s26_CA,P38,Same named slavery case in repeated unassigned episode.
+s21_CA,P43,s26_CA,P39,Same identified voting-rights victim and historical event in repeated unassigned episode.
+s21_CA,P44,s26_CA,P40,Same identified voting-rights victim and historical event in repeated unassigned episode.
+s21_CA,P45,s26_CA,P41,Same identified voting-rights victim and historical event in repeated unassigned episode.
+s21_CA,P46,s26_CA,P42,Same identified voting-rights victim and historical event in repeated unassigned episode.
+s21_CA,P47,s26_CA,P43,Same identified voting-rights victim and historical event in repeated unassigned episode.
+s21_CA,P48,s26_CA,P44,Same identified voting-rights victim and historical event in repeated unassigned episode.
+s23_CA,P38,s24_A,P54,"John Callas, same military-school beatings and story continued across seasons."
+s23_CA,P39,s24_A,P55,"John Callas, same later private-school bully and suicide attempt; military harm kept separate."
+s23_CA,P40,s24_B,P61,"John Callas, same childhood rape by sister’s friend, distinct from school harms."
+s25_CA,P51,s26_CA,P12,Summer; Season 25 closing preview of same friendship/pregnancy-deception story told in Season 26.
+s25_CA,P52,s26_CA,P13,Daniel; Season 25 closing preview of same friendship/pregnancy-deception story told in Season 26.
