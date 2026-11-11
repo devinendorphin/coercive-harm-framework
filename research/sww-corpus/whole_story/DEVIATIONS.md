@@ -103,3 +103,51 @@ that the Claude framing band was measured with the same exposure in place, so it
 effect of the framing sentence on top of it, not the exposure itself; (4) not present any Claude-only
 figure as blinded. **Possible repair, not yet done:** re-code one or more seasons with Claude coders
 run in a clean environment (the kit repository, with no project CLAUDE.md) and compare.
+
+## D6 — 2026-11-11, analysis decisions fixed before computing any headline
+
+These decisions are made after reading the design, plan, status and D5, but before opening
+person records or running the analysis. No coder output is changed.
+
+1. **Repeated appearances.** The primary analysis retains a person–harm story once per
+   season, as the original season-based plan does. A second analysis counts each identifiable
+   person–harm story once across seasons, retaining its earliest season in that reporting
+   group. Separate harms by different perpetrators remain separate (D1.3). Cross-season
+   identity is determined from names, roles, harm descriptions, perpetrator roles and episode
+   references only, before looking at codes; ambiguous identities remain separate and are
+   described. A committed `repeat_links.csv` records links and reasons. In agreed analyses,
+   the earliest matched appearance is retained before testing agreement or eligibility; a
+   later agreed/protected appearance is never selected in preference to an earlier one.
+2. **Contradictions.** Flag a record if `outcome = never_reached` while `reached_institution`
+   is anything other than `no`, or if `reached_institution = no` while the outcome is anything
+   other than `never_reached`. Report the unchanged-code analysis and a sensitivity analysis
+   excluding flagged records. For paired figures exclude a pair if either record is flagged;
+   for own-coder figures exclude only that coder's flagged records. `unclear` is not silently
+   changed to `no` or `yes`. List flags by file and person ID, with no names in the flag report.
+3. **Matching.** Use only the plan's identity fields, never outcome or response codes. The
+   existing script strips parenthesised harm labels, potentially conflating separate harms;
+   preserve those labels. Automatic matching requires a unique, nonempty, normalised full
+   name on both sides. Review identity-only exports of all automatic matches and unmatched
+   records. Record every manual match, rejected automatic match, and unmatched disposition
+   in `matching_hand.csv`, including pair/coder labels and reasons; generate `matching.csv`
+   from that audit trail. Apply the same rule to all four Claude–Codex pairings on S17.
+4. **Three reporting groups and S17.** All seasons uses Claude A/B for S17, the original
+   neutral pair, and the assigned family for every other season (26 seasons). Claude-only
+   uses its 15 seasons and is labelled **unblinded** everywhere. Codex-only includes its 12
+   seasons, including S17, and is labelled **blinded**. Never double-weight S17 in a pooled
+   headline. Also report the pooled sensitivity substituting Codex's S17 pair. For the S17
+   cross-check report A–CA, A–CB, B–CA and B–CB agreement and each family's own and agreed
+   rates; their difference cannot isolate exposure from model-family differences.
+5. **Framing for pooled figures.** D3 requires each family's band but leaves the combined
+   band unspecified. Show both family bands beside pooled figures; use the larger available
+   band for the pooled decision, avoiding unsupported averaging. An unavailable band means
+   the prediction cannot be decided by this method. Calculate differences from exact ratios,
+   not rounded display rates. Claude's band measures the extra sentence on top of its
+   unblinded exposure; Codex's single-season band is a limited check, not a model-wide bound.
+6. **Uncertainty and disconfirmation.** Preserve the plan's prediction-specific agreement
+   rules, own-coder rates, central-survivor and fully-protected-only checks, season results
+   and Wilson intervals. Intervals describe the coded sample; they do not make this a random
+   population sample or account for shared seasons. Before publishing any finding, inspect
+   the specified sensitivity analyses and contrary coded quotations. Save a reproducible
+   quotation-sample manifest and checked observations. Do not treat a matched quotation as
+   proof that its code follows from the passage or that the underlying account is verified.
