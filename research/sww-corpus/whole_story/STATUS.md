@@ -29,6 +29,8 @@ read to its last line, quotations verified against the transcripts with `tools/c
   any quotation before it is published in RESULTS.md or elsewhere.
 - S22 A kept the perpetrator's name inside quotations taken from news reports, court records or
   statements read on air (its own deviation from the rule). Redact before any publication.
+- S22 NEG names people the perpetrator falsely accused (as harmed parties); other S22 coders
+  describe them by role. Treat falsely accused people as unnamed in anything published (S-21).
 - Isolation of coders is by instruction; several wrote helper scripts outside their folder.
 
 ## Rebuilding the transcripts in a new container
