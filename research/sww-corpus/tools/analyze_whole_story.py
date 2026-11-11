@@ -459,6 +459,15 @@ def main():
         ll=[p for p in recs.values() if p['season']==s and p['coder']==a]
         rr=[p for p in recs.values() if p['season']==s and p['coder']==b]
         result['s17_crosscheck'][a+'-'+b]=evaluate(matches[s,a,b],ll,rr)
+    c17=result['s17_crosscheck']['A-B'];x17=result['s17_crosscheck']['CA-CB']
+    result['s17_family_differences']={}
+    for stream,claude,codex in [('agreed',c17['headline'],x17['headline']),
+                                ('left_own',c17['own']['left'],x17['own']['left']),
+                                ('right_own',c17['own']['right'],x17['own']['right'])]:
+        result['s17_family_differences'][stream]={}
+        for m in METRICS:
+            cr,xr=claude[m]['rate'],codex[m]['rate']
+            result['s17_family_differences'][stream][m]=cr-xr if cr is not None and xr is not None else None
     others={}
     for comp in primary+[(17,'CA','CB')]:
         s,a,b=comp

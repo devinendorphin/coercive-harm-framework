@@ -70,3 +70,23 @@ Entries are added when the analyst notices its own work leaning toward the insti
    laundering"). This leans the other way from entries 1–2: toward finding failure. It is a breach of
    the blinding the pre-registration promised, found only because one coder mentioned it in its last
    report. Recorded as deviation D5; the analysis must treat Claude-coded results as unblinded.
+
+4. **Unanswered help-seeking can disappear behind “did not report.”** In the fixed
+   whole-story sample, S10 CA P10 says a police call went unanswered. Calling every
+   never-reached record a choice not to seek help would shift the burden back onto the
+   person. The write-up distinguishes an attempted contact from reaching someone, and
+   preserves the record and its access reason. The S1 earlier-disbelief example concerns
+   a mother, not an institution; it must not be converted into a measured institutional
+   refusal or a proven reason for non-reporting either.
+5. **Matching words can quietly award institutions causal credit.** S11 CB P53 codes the
+   institution as decisive, while its decisive quotation describes a relative about to
+   reveal a fugitive’s whereabouts, motivating surrender to the FBI. The words are there;
+   the exclusive credit does not follow cleanly. The counter-check records this attribution
+   limit and preserves the codes, rather than treating quotation matching as validation.
+6. **A draft explanation hid an institution-as-abuser boundary.** I initially described
+   Julia’s S5 no-reach reason as separating two different harms. Checking the actual record
+   showed that the church was itself the source of that same harm and the coder reserved
+   “reached” for an outside body. The draft was corrected. This sits beside Mia’s S10
+   records, where one coder counts harmful teaching itself as institutional contact. The
+   inconsistent boundary must remain visible, not explained away as if the records were
+   already using a uniform rule. No coder output was rewritten.

@@ -99,6 +99,10 @@ for group,g in s['groups'].items():
 out('## S17 cross-check — Claude unblinded versus Codex blinded');out()
 out('A and B are Claude unblinded; CA and CB are Codex blinded. Exposure and model family '
     'are confounded. Four cross-family comparisons are all shown, alongside both within-family pairs.');out()
+out('Signed differences below are Claude **unblinded** minus Codex **blinded** on S17, in '
+    'percentage points. Coverage and eligible sets differ; these are not causal exposure effects.');out()
+table(['Stream',*short.values()],[[stream]+[pct(q[m]) for m in short]
+      for stream,q in s['s17_family_differences'].items()])
 for label,ev in s['s17_crosscheck'].items():
     out('### '+label);out()
     table(['Measure','Agreed, 95% interval','Left own, 95% interval','Right own, 95% interval'],[
