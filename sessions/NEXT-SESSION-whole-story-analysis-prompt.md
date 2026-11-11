@@ -8,9 +8,8 @@ still missing).*
 ---
 
 This session analyses the **whole-story test** of how institutions treated the people in
-*Something Was Wrong*. The coding is done; your job is the analysis and the write-up. Work on the
-branch that holds `research/sww-corpus/results/whole_story/coded/` (currently
-`ccr-0935b17a-u165ie`); merge it into your working branch first if it is not on `main`.
+*Something Was Wrong*. The coding is done; your job is the analysis and the write-up. Everything
+you need is on `main` (merged 2026-11-11), including `research/sww-corpus/results/whole_story/coded/`.
 
 **Read these first, in this order, and follow them:**
 1. `CLAUDE.md` and `sessions/LATEST.md`, especially standing notes **S-21, S-22 and S-23**.
