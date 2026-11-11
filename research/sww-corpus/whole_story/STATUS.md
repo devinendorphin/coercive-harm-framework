@@ -1,4 +1,11 @@
-# Whole-story test: run status (updated 2026-11-11) — CODING COMPLETE
+# Whole-story test: run status (updated 2026-11-11) — CODING COMPLETE; ANALYSIS DONE
+
+**Analysis (2026-11-11):** `../results/whole_story/RESULTS.md`. Decisions fixed before computing:
+DEVIATIONS D6. Matching: `matching_hand.csv` (546 hand decisions). Repeats:
+`cross_season_repeats.csv` (94 records). Post-hoc checks: `tools/whole_story_checks.py`.
+Open for Endorphin: whether D3's "Claude-only is the pre-registered result" still applies after
+D5 (self-audit lean log 6); the clean-environment Claude recode D5 proposes; whether emergency
+medical care counts as protection for the decisive-work prediction (S23).
 
 Coded files are in `../results/whole_story/coded/` (checked on arrival: valid JSON, every chunk
 read to its last line, quotations verified against the transcripts with `tools/check_quotes.py`).

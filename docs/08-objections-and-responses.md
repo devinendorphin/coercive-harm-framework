@@ -522,7 +522,7 @@ becomes: **"role restriction depends on the slowest and most evadable institutio
 Base rates for board response times are still needed.
 
 ### OBJ-031 — "Your own corpus says institutions mostly respond appropriately." *(raised by the power-vector test, 2026-11-01)*
-**Persona:** empiricist / the framework's own pre-registration. **Status:** `PARTLY ANSWERED` (was CONCEDED for this corpus; revised the same day)
+**Persona:** empiricist / the framework's own pre-registration. **Status:** `PARTLY ANSWERED` (was CONCEDED for this corpus; revised the same day; second test 2026-11-11, below)
 C2 claimed that institutions a survivor turns to reproduce the coercive move-set. The
 pre-registered hand-coded test (two blind coders, κ = 0.83, 200 random institution-mention
 segments, aftermath episodes included) found appropriate responses in **63 %** of agreed
@@ -540,6 +540,17 @@ outcome. The 63 % describes the responses the podcast shows, not the population.
 *inaction* part of C2 is supported at population scale; disbelief, blame-reversal and
 pathologizing are still unmeasured as rates. → `research/sww-corpus/results/power_vector/RESULTS.md`;
 README; docs 04, 10.
+*Second test, 2026-11-11 (whole stories, people not segments; `research/sww-corpus/results/whole_story/RESULTS.md`):*
+the objection's premise holds for single responses and fails for outcomes. Of the people who
+reached an institution, about one in five ended protected (21 %; 16–28 % by model; the
+pre-registered prediction "fewer than 40 %" holds every way it is counted). Disbelief, blame,
+condition-as-dismissal or self-protection appear in 31 % of stories (not decided: the line was
+30 %; the blind Codex coders 35 %, the unblinded Claude coders 26 %), and in 50 % of central
+survivors' stories, so these responses are now measured as rates and are not rare. About three
+in ten people never reached any institution. Who did the work when protection came is not
+decided (43 %, line 50 %). **Status for this corpus: the objection answers "do institutions
+respond appropriately?" and not "do people end up protected?"; the second has the answer
+"mostly not."** Still a selected population, not a rate for the world.
 
 ## How to use this ledger
 

@@ -70,3 +70,26 @@ Entries are added when the analyst notices its own work leaning toward the insti
    laundering"). This leans the other way from entries 1–2: toward finding failure. It is a breach of
    the blinding the pre-registration promised, found only because one coder mentioned it in its last
    report. Recorded as deviation D5; the analysis must treat Claude-coded results as unblinded.
+
+## Lean log, whole-story analysis (2026-11-11)
+
+4. **The plan's never-reached rule hid the unheard in the Codex seasons.** It counts only people
+   coded "never reached" and drops "unclear". Codex coders wrote "unclear" for all 182 people
+   whose story records no institutional contact, so the rule gave 3 % never reached where about
+   28 % had no contact. Reported alone, it would have said nearly everyone reached an
+   institution. Both figures are now reported, the plan's first. Found by reading what the
+   "unclear" records contain.
+5. **The coding rules record an unanswered call as the person's silence.** "And I tried to call
+   the police, but they didn't answer" (S10) is coded never reached, because reaching means
+   bringing the harm to the institution's attention. One in eight sampled never-reached records.
+   Coder output was not edited; the point is reported in RESULTS.
+6. **The deviation rule hands the formal verdict to the most institution-favourable figure.** D3
+   names the Claude-only result as "the one the pre-registration describes". For the
+   disbelief-and-blame prediction that is the only figure that refutes it, and it is the
+   unblinded one and the least stable (7 of 15 leave-one-season-out runs). RESULTS reports it
+   beside the blind and pooled figures rather than as the verdict; Endorphin should rule on
+   whether D3's sentence still applies after D5.
+7. **My first annotation to doc 10 cleared the project's own coders too fast** ("sycophancy to
+   the director's framing is not what the data show"), from one season confounded with model.
+   Rewritten before commit. Not a lean toward the institutions studied; a lean toward the
+   institution doing the studying.

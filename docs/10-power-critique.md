@@ -30,6 +30,14 @@ below is tested for whether it is *real and structural* or merely *dramatic*.
 > were appropriate in 63 % of hand-coded response segments (C2 refuted as worded). Finding B
 > is about how the framework's mechanisms are built, so it stands; what is removed is one
 > corpus line of support for "the move-set is worse up-scale."
+>
+> *Second test, 2026-11-11 (`research/sww-corpus/results/whole_story/RESULTS.md`):* followed whole, about one in
+> five people who reached an institution ended protected, and one in two central survivors met
+> disbelief, blame, being treated as the problem or institutional self-protection. This speaks
+> to outcomes, not to power position (P1/P2 stay refuted). It also bears on Finding A: the
+> unblinded Claude coders, shown a framing that expects institutions to fail, coded *more*
+> favourably to institutions than the blind Codex coders. The visible difference does not run
+> toward the director's framing (one cross-checked season; model and exposure not separable).
 
 **Survives scrutiny. This is the deepest problem.** The framework's central claim is that
 the pattern runs *up* every scale of power. But every enforcement mechanism it built bites
