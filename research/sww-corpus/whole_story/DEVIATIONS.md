@@ -151,3 +151,38 @@ person records or running the analysis. No coder output is changed.
    the specified sensitivity analyses and contrary coded quotations. Save a reproducible
    quotation-sample manifest and checked observations. Do not treat a matched quotation as
    proof that its code follows from the passage or that the underlying account is verified.
+
+## D7 — 2026-11-11, reporting details fixed before the first headline calculation
+
+The continuation uses D6 unchanged. The following implementation details are fixed before
+running the extended analysis, with no coder output edited:
+
+1. Report W2 and W3 indicator agreement on all matched records with non-missing indicators,
+   as the plan's “per field, on matched people” specifies; also report agreement inside each
+   prediction's eligible subset, so absence of contact/protection does not inflate the
+   assessment of those predictions. Unknown reached status and unknown decisive workers
+   are reported as omitted, never treated as negative evidence.
+2. In addition to flagging each failed quotation, report a conservative sensitivity excluding
+   any person record with a contact, outcome, decisive-work or never-reached quotation that
+   fails the script's 80% test (or has fewer than four words). This is broader than excluding
+   only a decisive quotation and avoids deciding which failure matters after seeing results.
+   A missing outcome quotation also flags the record. For a pair, either coder's flag excludes
+   the pair. Other-mentioned quotation failures are reported separately. Unchanged codes
+   remain primary, including after a manual quotation check. Framing bands are recalculated
+   under the same exclusions, including repeat removal within framing streams.
+3. `others_mentioned` entries can overlap each other, named stories and seasons; numbers may
+   be strings or ranges. Preserve the exact stated count and report entries and numeric
+   subtotals separately by season/coder, never call their sum a count of unique unheard people.
+   The repeated-story sensitivity cannot identify or remove overlap in these entries.
+4. Select the quotation-audit sample reproducibly: for each prediction and each of the three
+   primary reporting groups, take the first eligible agreed positive and negative pair in
+   season/ID order, and the first eligible disagreement if present. For never-reaching, take
+   the first agreed yes and no pair and the first disagreement. Inspect both coders' relevant
+   quotations and transcript context, permitting overlap between groups but reporting unique
+   records checked. Also examine every below-bar quotation in S24 B and S04 NEG, and check
+   the first quoted example for each never-reached reason before publishing any example.
+   This is a deliberately contrary-case check, not a random validity estimate.
+5. A further sensitivity excludes records of deceased people coded protected/partly protected,
+   preserving the codes and without assuming that protection of an earlier, distinct harm was
+   impossible. Schema inspection encountered such a record in S17 CB. This checks D1.2's
+   application; it does not recode it or replace the pre-registered analysis.
