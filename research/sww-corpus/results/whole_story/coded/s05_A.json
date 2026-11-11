@@ -1,0 +1,1205 @@
+{
+  "season": 5,
+  "coder": "A",
+  "reading_log": [
+    {
+      "file": "s05_01.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s05_02.txt",
+      "last_line_number": 125,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s05_03.txt",
+      "last_line_number": 107,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s05_04.txt",
+      "last_line_number": 100,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s05_05.txt",
+      "last_line_number": 92,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s05_06.txt",
+      "last_line_number": 92,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s05_07.txt",
+      "last_line_number": 93,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s05_08.txt",
+      "last_line_number": 34,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "INDEX.txt",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Index of unassigned episodes; read to decide which might continue season 5."
+    },
+    {
+      "slug": "black-lives-matter-amplifymelanatedvoices",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Published in 2020 (same period as season 5) and recorded in Sacramento, where Julia and Kelly's church is; checked for any update. Contains protest audio only; nothing about season 5 stories."
+    },
+    {
+      "slug": "all other unassigned episodes (data-points-*, exciting-sww-updates, listen-now-death-county-pa, wcn-presents-caitlin-mathis-dedicated-to-change-2)",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Index descriptions show later topic/expert episodes, a season-13 promo, another show's trailer and a different survivor's story; none indicates a link to season 5."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Julia",
+      "role_in_story": "central_survivor",
+      "harm": "As a teenager and young adult in a charismatic church/youth group she was controlled by the youth pastor (told to stop dating, falsely told 'God told me' she was having sex), worked long unpaid/underpaid hours, and when pregnant outside marriage was shamed by the senior pastor and publicly 'exposed' before the congregation and made to step down from her roles.",
+      "perpetrator_role": "her church's youth pastor (later senior pastor) and the senior pastor (his father)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s5-e1-somewhere-i-belonged-julia",
+        "s5-e2-exposed-our-sin-julia",
+        "s5-e3-sluts-and-teases-kelly",
+        "s5-e6-it-was-all-kind-of-hidden-kelly"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "institution_was_abusers",
+          "did_not_know_it_was_abuse",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "institution_was_abusers",
+            "quote": "Once we told them we were pulled into the [perpetrator] Dad's office, [perpetrator], the senior pastor of the church, pulled us into his office and basically gave us a huge shame talk",
+            "source": "s5-e2-exposed-our-sin-julia @ 4:16"
+          },
+          {
+            "reason": "institution_was_abusers",
+            "quote": "on a Sunday morning, [perpetrator] and [perpetrator] pulled us up in front of the entire church congregation and quote unquote, it exposed our sin by telling the entire church about the fact that I was pregnant outside of marriage",
+            "source": "s5-e2-exposed-our-sin-julia @ 5:19"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "that was kind of my like oh crap moment where I realized you were in a cult.",
+            "source": "s5-e2-exposed-our-sin-julia @ 21:55"
+          },
+          {
+            "reason": "other",
+            "quote": "I thought that I was handling it and that it was fine and it was something I could manage on my own.",
+            "source": "s5-e1-somewhere-i-belonged-julia @ 23:40"
+          },
+          {
+            "reason": "other",
+            "quote": "they knew the entire time that it wasn't okay and that that church was a cult. And what [perpetrator] was doing was just manipulation all around. And they couldn't, they said they couldn't do anything to stop it.",
+            "source": "s5-e1-somewhere-i-belonged-julia @ 23:40"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "It's still active and alive, he is still a pastor.",
+      "outcome_source": "s5-e2-exposed-our-sin-julia @ 31:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "The only institution in the story is the church itself, whose leaders were the perpetrators; no outside body (police, labour authority, etc.) was ever contacted. 'other' reasons: she thought she could manage it alone and did not tell her parents; her parents later said they could not stop it. She left her church job about seven years before recording. The public shaming was done by the church leadership as the abuse itself, so harmed_by_institution_ever is left false (it is the harm, not an institutional response); a reader could argue otherwise. Host Tiffany attended the venue/church and describes the youth pastor from her own observation, and Kelly's episodes corroborate the culture (second_witness)."
+    },
+    {
+      "person_id": "P02",
+      "name": "Kelly",
+      "role_in_story": "central_survivor",
+      "harm": "Married at about 21 to the church youth pastor (the senior pastor's adopted son): isolated from family and friends, controlled over dress and money (her wages paid into his paycheck), repeatedly raped in the marriage, hit and called names on their last night, and demeaned by her father-in-law; during separation she was pressured financially through church-linked couples counseling.",
+      "perpetrator_role": "her ex-husband, a church youth pastor (with her father-in-law, the senior pastor, also demeaning her)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s5-e2-exposed-our-sin-julia",
+        "s5-e3-sluts-and-teases-kelly",
+        "s5-e4-this-is-about-every-woman-kelly",
+        "s5-e5-i-cant-control-what-hell-do-to-you-kelly",
+        "s5-e6-it-was-all-kind-of-hidden-kelly"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "did_not_know_it_was_abuse",
+          "institution_was_abusers",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "He started telling me that if I were to mention my discomfort at the time and proximity to this girl, he would divorce me immediately.",
+            "source": "s5-e3-sluts-and-teases-kelly @ 23:42"
+          },
+          {
+            "reason": "other",
+            "quote": "I felt like it would be my fault that his life was affected negatively if I were to go and say the wrong thing.",
+            "source": "s5-e3-sluts-and-teases-kelly @ 30:56"
+          },
+          {
+            "reason": "other",
+            "quote": "That was the first person that he told me I could not trust was our counselor.",
+            "source": "s5-e3-sluts-and-teases-kelly @ 28:52"
+          },
+          {
+            "reason": "institution_was_abusers",
+            "quote": "all of the counselors that I had seen previously wore people from our life that he had directed me to, and also told me, you know, get help for your problems, but don't you dare say a bad word about me.",
+            "source": "s5-e5-i-cant-control-what-hell-do-to-you-kelly @ 15:54"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I didn't begin to classify it as rape until after we were separated.",
+            "source": "s5-e5-i-cant-control-what-hell-do-to-you-kelly @ 18:07"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "licensed male couples counselor chosen by her husband; church member and tither, paid by the church",
+          "initiated_by": "person",
+          "when": "during separation, about two years before recording",
+          "what_was_asked": "Help in joint counseling; she privately and then jointly described forced sex and said she could not be honest because of his church ties.",
+          "what_institution_did": "Minimized her conflict-of-interest concern and her prior therapy trauma; reframed what she described as rape as her husband not pleasing her well enough; did not tell her of any rights or the option of police.",
+          "quote": "His response to me was that my husband wasn't doing his job to pleasure me and he needed to do better. Not that I had been victimized or that what he did was wrong and hurtful, but just that he wasn't doing his job well enough.",
+          "source": "s5-e5-i-cant-control-what-hell-do-to-you-kelly @ 21:12",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Counseling continued for some weeks.",
+          "notes": "Also did_nothing: 'Did he had any time advise you that you had rights ... He did not, because he didn't describe it as rape.' (@ 20:08)."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "same couples counselor",
+          "initiated_by": "person",
+          "when": "later session, during separation",
+          "what_was_asked": "Kelly disclosed they had never obtained a marriage license.",
+          "what_institution_did": "Attributed the relationship breakdown to their being 'outside of God's will', not to the abuse.",
+          "quote": "he's like, oh yes, that's why you're having so many issues because you're outside of God's will.",
+          "source": "s5-e5-i-cant-control-what-hell-do-to-you-kelly @ 22:14",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Counseling continued.",
+          "notes": "Coded as blame because the reason given placed the cause on the couple's (including her) status rather than his conduct; could also be read as condition_as_dismissal-type deflection."
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "same couples counselor",
+          "initiated_by": "person",
+          "when": "during the counseling period",
+          "what_was_asked": "Confidential therapy.",
+          "what_institution_did": "Disclosed what Kelly said in sessions to her father-in-law, the senior pastor, who then discussed her sessions with her mother.",
+          "quote": "He ended up violating HIPAA after I shared something with him about [perpetrator]. And he went and told [perpetrator].",
+          "source": "s5-e5-i-cant-control-what-hell-do-to-you-kelly @ 17:07",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Father-in-law talked to her mother about the sessions (s5-e6 @ 7:11).",
+          "notes": "Coded protected_itself (closing ranks with the church that paid for the sessions: 'He was also beholden to the church financially for my sessions', s5-e6 @ 6:07). This exposed her, so harmed_by_institution_ever is true."
+        },
+        {
+          "n": 4,
+          "institution_type": "medical_or_therapy",
+          "institution": "same couples counselor",
+          "initiated_by": "person",
+          "when": "asset split during separation",
+          "what_was_asked": "She said she would not put about $5,000 of her income into a fund her ex controlled and that she felt her abuse was continuing.",
+          "what_institution_did": "Had pushed both to sign the arrangement; when she refused, told her he could not control what her ex would do to her.",
+          "quote": "he took a deep breath inside and said, well, if you don't do this, I can't control what he will do to you.",
+          "source": "s5-e5-i-cant-control-what-hell-do-to-you-kelly @ 30:40",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She quit counseling and stopped speaking to her ex; 'radio silence' followed.",
+          "notes": "She describes it as 'he sat there in his chair and mediated the conditions of my continued abuse' (@ 28:34) and felt the remark as a threat. Code chosen for pressuring/endangering her; no code fits exactly."
+        },
+        {
+          "n": 5,
+          "institution_type": "employer_or_hr",
+          "institution": "the church (her employer) — senior pastor and her ex",
+          "initiated_by": "family_or_friends",
+          "when": "after she stopped working there",
+          "what_was_asked": "Her mother, the church accountant, raised that Kelly's paycheck was still being paid and going to her ex though she no longer worked.",
+          "what_institution_did": "Accused her mother of overreacting; her mother was then bullied and ostracized.",
+          "quote": "So she brought it up to [perpetrator] and my ex and they accused her.",
+          "source": "s5-e6-it-was-all-kind-of-hidden-kelly @ 22:46",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Her mother later quit.",
+          "notes": "Second-hand ('this is a second-hand account'). Also counter-accusation of the mother."
+        },
+        {
+          "n": 6,
+          "institution_type": "church",
+          "institution": "church leadership (senior pastor, associate pastor)",
+          "initiated_by": "unclear",
+          "when": "after she left the marriage and church; return visit 3-4 months later",
+          "what_was_asked": "Nothing asked; leadership knew of the separation via her ex and the counselor's disclosures.",
+          "what_institution_did": "Told the congregation not to talk about the relationship, suppressing questions; when she returned the senior pastor grabbed her arm and told her to leave if she was there to cause a scene.",
+          "quote": "When I left the church, the leadership had been very specific about, we do not talk about Kelly and this person's relationship. It's not any of our business. And by saying that, they quenched any dissent, any questions about my reasons for leaving?",
+          "source": "s5-e6-it-was-all-kind-of-hidden-kelly @ 27:00",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She lost every deep relationship there; others apologized on the senior pastor's behalf.",
+          "notes": "Kelly says she never told the senior pastor of the sexual or emotional abuse directly ('I was never open with him about the sexual and emotional abuse', s5-e6 @ 12:20); he 'knew only what my ex had told him, which is likely that I was the abuser'. Whether the abuse itself reached this body is therefore partly unclear."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "That was the most horrific experience of my life, actually. I would rate that as more traumatic than the entire marriage, and the marriage was pretty traumatic.",
+      "outcome_source": "s5-e5-i-cant-control-what-hell-do-to-you-kelly @ 14:54",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "The harm ended because Kelly left (night of her 23rd birthday) and refused further contact, with family support; no institution protected her. No police contact. Premarital counselor and earlier counselors are not coded as contacts because she says she was not allowed to raise the abuse with them. Her ex's father as 'couples counselor' briefly (s5-e5 @ 17:07) is not coded: abuse not raised. second_witness is limited: a fellow youth leader said 'I noticed that too' about the husband's time with the teen girl, and Julia corroborates the church culture; the rape and counseling accounts rest on Kelly's account."
+    },
+    {
+      "person_id": "P03",
+      "name": "[unnamed] Kelly's ex-husband's former girlfriend",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Dated Kelly's ex-husband at about 18; he controlled her dress and whom she saw, and after she ended it he spread lies that she had cheated and demonized her in the church community.",
+      "perpetrator_role": "her former boyfriend (Kelly's ex-husband)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s5-e4-this-is-about-every-woman-kelly"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "He wanted her to dress a certain way. He controlled who she saw.",
+            "source": "s5-e4-this-is-about-every-woman-kelly @ 12:54"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "In reality, it is the opposite except she has recovered, which is amazing and she's doing better than ever, not because of him in spite of him.",
+      "outcome_source": "s5-e4-this-is-about-every-woman-kelly @ 11:50",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Told by Kelly with the woman's permission after speaking to her ('in speaking to her directly, she said that that was a lie'). No reason for not reporting is given; the quote attached to not_stated shows the harm, not a reason."
+    },
+    {
+      "person_id": "P04",
+      "name": "Rachel",
+      "role_in_story": "central_survivor",
+      "harm": "Raised in Scotland and Hawaii by evangelical pastor parents in a cult-like home church: daily corporal punishment (spoon broken over her back, caning while held down), thrown to the floor at 3, backhanded at 15, locked in dark rooms, terrorised with hell and demons, isolated and homeschooled, parentified and emotionally abused; other adults living in the house also disciplined her.",
+      "perpetrator_role": "her father (a pastor) and her mother; also adults living in the household",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": false,
+      "episodes": [
+        "s5-e7-rebellion-is-as-witchcraft-rachel",
+        "s5-e8-everything-was-terrifying-rachel",
+        "s5-e9-let-the-dead-bury-the-dead-rachel",
+        "s5-e10-accomplices-to-our-own-abuse-rachel",
+        "s5-e11-the-gloves-came-off-rachel",
+        "s5-e12-anathema-rachel",
+        "s5-e13-declaring-war-rachel",
+        "s5-e14-im-not-threatening-you-im-promising-you-rachel"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief",
+          "fear_of_abuser",
+          "protecting_others",
+          "did_not_know_it_was_abuse",
+          "institution_was_abusers",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "we had grown up in a place where my father got in front of the entire church, told him that he like almost blinded my mother and everyone applauded him for telling them. And so it felt like even if I did tell anyone, nothing would happen.",
+            "source": "s5-e11-the-gloves-came-off-rachel @ 17:51"
+          },
+          {
+            "reason": "fear_of_abuser",
+            "quote": "it did not seem crazy for them to kill me.",
+            "source": "s5-e11-the-gloves-came-off-rachel @ 17:51"
+          },
+          {
+            "reason": "protecting_others",
+            "quote": "It was a sense of like, if I just shut my mouth and get on with it, then I won't make them angry enough to hurt the other kids.",
+            "source": "s5-e11-the-gloves-came-off-rachel @ 18:52"
+          },
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "Like, that's how normalized it was and how much I didn't realize things were wrong.",
+            "source": "s5-e8-everything-was-terrifying-rachel @ 22:38"
+          },
+          {
+            "reason": "institution_was_abusers",
+            "quote": "there's, I think the church was like, you just, you don't get involved in someone else's family.",
+            "source": "s5-e8-everything-was-terrifying-rachel @ 4:15"
+          },
+          {
+            "reason": "other",
+            "quote": "It was like you've already forgiven him, you don't get to bring that up again.",
+            "source": "s5-e10-accomplices-to-our-own-abuse-rachel @ 7:36"
+          },
+          {
+            "reason": "other",
+            "quote": "So it was like we were made accomplices to it, to our own abuse.",
+            "source": "s5-e10-accomplices-to-our-own-abuse-rachel @ 15:53"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "Hawaii megachurch (Foursquare) the family attended and its pastor",
+          "initiated_by": "family_or_friends",
+          "when": "Hawaii, roughly 1-2 years after the move (Rachel about 14-15)",
+          "what_was_asked": "Rachel's mother wrote a letter to the church and pastor reporting the father's abuse and temper, including that he was continuing to abuse the children.",
+          "what_institution_did": "Gave the father an ultimatum (go to therapy or leave the church); told no one, did not contact police; the family left for Scotland under a public 'church plant' announcement and Rachel was later offered a Bible-college scholarship.",
+          "quote": "They didn't tell anyone. They didn't tell anyone. They didn't go to police. We never have, like we didn't even know what happened. They just came to my father and said either like leave, so we don't have to deal with you or get therapy.",
+          "source": "s5-e11-the-gloves-came-off-rachel @ 20:57",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Father refused therapy; the family returned to Scotland, back under the parents' control and isolated; abuse continued.",
+          "notes": "Account is Rachel's, learned from family years later ('we only understood what was happening and like heard the full story years later'). The ultimatum is a concrete step, so acted_partly was the alternative; protected_itself chosen because the passage shows no report outside the church and a quiet exit ('we'll give you what you want, just go away'). Recorded for each child because the letter reported abuse of the children. "
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "Rachel's own therapist(s) in the US, as an adult",
+          "initiated_by": "person",
+          "when": "adulthood, after leaving home",
+          "what_was_asked": "Therapy for the effects of the abuse; support with cutting off her father.",
+          "what_institution_did": "Accepted her account and supported her boundary decisions and her telling her story.",
+          "quote": "And my therapist was like, why? Why do you have to? I was like, I don't, I don't know. She was like, you don't have to do anything.",
+          "source": "s5-e13-declaring-war-rachel @ 23:47",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She did not reply to her father; continued therapy.",
+          "notes": "Harm had ended; supportive therapy was the response within this provider's role. A later therapist called the podcast 'you getting to testify in a sense' (s5-e14 @ 65:10)."
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "Scottish police (officer who phoned her)",
+          "initiated_by": "third_party",
+          "when": "September of the year before recording",
+          "what_was_asked": "After a family friend's report, the officer asked Rachel to confirm and give a statement.",
+          "what_institution_did": "Took her phone statement, said it was not okay, asked for a written statement, and said the siblings would likely be removed and the parents arrested that weekend.",
+          "quote": "And he said, okay, this is not okay. And I need you to write up your statement and send it in, but we're most likely going to remove your siblings from your parents' home this weekend and arrest them.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 23:44",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Siblings removed and parents arrested within days.",
+          "notes": "The action protected her minor siblings; for Rachel herself the harm had ended years earlier."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "police domestic and child abuse crimes unit / prosecution",
+          "initiated_by": "institution",
+          "when": "following months",
+          "what_was_asked": "Investigation of the father; Rachel helped the detective.",
+          "what_institution_did": "Charged the father only for recent abuse of Daniel; the older abuse, including Rachel's, and the mother's abuse could not be proved.",
+          "quote": "And the issue is that they can't prove any of our abuse. They can only prove the recent abuse against my brother by my father.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 47:25",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Trial pending at the end of the season; mother not charged.",
+          "notes": "No disbelief shown — the stated reason is lack of proof."
+        },
+        {
+          "n": 5,
+          "institution_type": "prosecutor",
+          "institution": "prosecution in Scotland",
+          "initiated_by": "institution",
+          "when": "before trial",
+          "what_was_asked": "Rachel expected to testify.",
+          "what_institution_did": "Decided not to pay for her to travel to Scotland to testify.",
+          "quote": "because I originally would have had to go back to testify against my father, but they decided they didn't want to pay for me to go to Scotland to do that.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 64:10",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She treats the podcast as her testimony.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And the issue is that they can't prove any of our abuse. They can only prove the recent abuse against my brother by my father.",
+      "outcome_source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 47:25",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "Abuse of Rachel ended when she left for college at 17 (and physical abuse at 15), not through any institution; the later arrest/charge concerns Daniel, so under the rules her outcome is not_protected. Her work (connecting with former church members, prompting the friend's report, giving statements) contributed to her siblings' protection. harmed_by_institution_ever left false: the Hawaii church's quiet send-off arguably endangered the children, but the story shows concealment rather than direct blame or punishment of Rachel. She also told police about church members/parents tracking siblings (s5-e14 @ 50:35) and sought restraining orders that were not obtained; recorded under Rebecca. second_witness: siblings' and former members' accounts, police statements by Hannah and Sarah."
+    },
+    {
+      "person_id": "P05",
+      "name": "Daniel",
+      "role_in_story": "child",
+      "harm": "Rachel's youngest brother: physically abused by their father (wrist twisted at about 6, fights, targeted more than his sisters), emotionally controlled and blamed; he made three suicide attempts as a young teen.",
+      "perpetrator_role": "his father (a pastor); mother enabled",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": false,
+      "episodes": [
+        "s5-e8-everything-was-terrifying-rachel",
+        "s5-e12-anathema-rachel",
+        "s5-e13-declaring-war-rachel",
+        "s5-e14-im-not-threatening-you-im-promising-you-rachel"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "Hawaii megachurch (Foursquare) the family attended and its pastor",
+          "initiated_by": "family_or_friends",
+          "when": "Hawaii, roughly 1-2 years after the move (Rachel about 14-15)",
+          "what_was_asked": "Rachel's mother wrote a letter to the church and pastor reporting the father's abuse and temper, including that he was continuing to abuse the children.",
+          "what_institution_did": "Gave the father an ultimatum (go to therapy or leave the church); told no one, did not contact police; the family left for Scotland under a public 'church plant' announcement and Rachel was later offered a Bible-college scholarship.",
+          "quote": "They didn't tell anyone. They didn't tell anyone. They didn't go to police. We never have, like we didn't even know what happened. They just came to my father and said either like leave, so we don't have to deal with you or get therapy.",
+          "source": "s5-e11-the-gloves-came-off-rachel @ 20:57",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Father refused therapy; the family returned to Scotland, back under the parents' control and isolated; abuse continued.",
+          "notes": "Account is Rachel's, learned from family years later ('we only understood what was happening and like heard the full story years later'). The ultimatum is a concrete step, so acted_partly was the alternative; protected_itself chosen because the passage shows no report outside the church and a quiet exit ('we'll give you what you want, just go away'). Recorded for each child because the letter reported abuse of the children. Daniel was about one."
+        },
+        {
+          "n": 2,
+          "institution_type": "child_protection",
+          "institution": "social services (Scotland)",
+          "initiated_by": "third_party",
+          "when": "after his first suicide attempt (about age 12-13)",
+          "what_was_asked": "Sarah told a friend, whose mother (a mandatory reporter) reported the suicide attempt.",
+          "what_institution_did": "Held conversations with the family, including interviews of Daniel with his parents present; approached it as a suicide-attempt case, not abuse.",
+          "quote": "And they're having one-on-ones with social workers, but Daniel won't tell them anything. And I'm like, well, why? I'm like, well, they're interviewing them all together. Why are they interviewing Daniel with our parents?",
+          "source": "s5-e13-declaring-war-rachel @ 48:34",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Daniel made two further attempts, the last at a youth camp.",
+          "notes": "Rachel learned of this months later, second-hand. Whether abuse (as opposed to the attempt) was raised is unclear: 'They were coming at it from you trying to kill yourself' (s5-e14 @ 3:13)."
+        },
+        {
+          "n": 3,
+          "institution_type": "child_protection",
+          "institution": "authorities receiving reports (agency not named; family 'known to them')",
+          "initiated_by": "third_party",
+          "when": "'a while ago', before the September report (order relative to the suicide-attempt involvement unclear)",
+          "what_was_asked": "A former church member reported concerns about the family.",
+          "what_institution_did": "Nothing followed from the report.",
+          "quote": "And apparently a while ago, Haley had actually reported some concerns as well. Haley is the other lady, but it hadn't gone anywhere.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 22:44",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Later said 'several reports had been made'.",
+          "notes": "Agency type inferred (mandatory-reporter report); could be police."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "Scottish police",
+          "initiated_by": "third_party",
+          "when": "September of the year before recording (a Sunday night)",
+          "what_was_asked": "Reports by a family friend, a disclosure by Rebecca to a counselor and a follow-up by another former church member.",
+          "what_institution_did": "Took statements, removed Daniel and Sarah from the parents' home and arrested both parents.",
+          "quote": "And then they said, okay, we're going to come tonight and take Daniel. And so that happens Sunday night.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 27:57",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Siblings placed with their sister Hannah; parents spent a night in jail.",
+          "notes": "Rachel's account; she spoke with the officer directly. "
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "Scottish police",
+          "initiated_by": "institution",
+          "when": "the day after the arrest",
+          "what_was_asked": "Holding the parents.",
+          "what_institution_did": "Released both parents without charge that night, saying there was not enough to charge.",
+          "quote": "And they later said we don't have enough to charge you on. So they released them after that night.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 33:01",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Investigation continued; parents and church members later tried to reach the children, including telling Daniel to tell social workers he lied.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "child_protection",
+          "institution": "social services (Scotland)",
+          "initiated_by": "institution",
+          "when": "after the removal",
+          "what_was_asked": "Safe placement for the minor siblings.",
+          "what_institution_did": "Found the parents unsuitable and had them sign custody over to the oldest sister.",
+          "quote": "Social services had determined that they were not suitable and had actually gotten them to sign over custody of my siblings to my sister.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 44:20",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Siblings living with/under guardianship of Hannah; extended family brought clothes and money.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "police",
+          "institution": "police domestic and child abuse crimes unit / prosecution",
+          "initiated_by": "institution",
+          "when": "months later",
+          "what_was_asked": "Prosecution of the father.",
+          "what_institution_did": "Investigated and decided to charge the father for the recent abuse of Daniel.",
+          "quote": "they are launching an investigation into my father and that it had gone into the domestic and child abuse crimes unit. And so I got transferred to another detective then and did my best to help the investigation anywhere it could and they've decided to press charges.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 44:20",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Trial pending at the end of the season; mother not charged.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "Social services had determined that they were not suitable and had actually gotten them to sign over custody of my siblings to my sister.",
+      "outcome_source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 44:20",
+      "protection_contributors": [
+        "other_victims",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "But I think Catherine's report was what pushed it over the edge. And that's when the police actually got involved.",
+      "decisive_work_source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 22:44",
+      "time_to_first_effective_action": "months after social services first became involved following his first suicide attempt (years after the Hawaii church was told)",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 3,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Daniel is never heard; everything comes from Rachel, much of it second-hand from sisters. Protection came when several reports converged ('It was like everything happened at once', s5-e14 @ 26:55): the family friend's report (which Rachel says 'pushed it over the edge' and which followed Rachel telling her what the parents knew), Rebecca's disclosure to a counselor, the other former member's follow-up, and Rachel/Hannah/Sarah's statements; police then removed him. Because a report alone is not decisive work and the convergence is stressed, decisive_work_by is unclear. Rachel and her sisters are other victims of the same father (other_victims); the family friend is family_or_friends. Basis is Rachel's account even where she reports others' contacts."
+    },
+    {
+      "person_id": "P06",
+      "name": "Sarah",
+      "role_in_story": "co_victim",
+      "harm": "Rachel's younger sister: physical abuse by the father 'spread out' among the children, anxiety dismissed as invented or demonic, left to raise Daniel, and blamed by her parents for his suicide attempt.",
+      "perpetrator_role": "her father (a pastor) and mother",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": false,
+      "episodes": [
+        "s5-e8-everything-was-terrifying-rachel",
+        "s5-e13-declaring-war-rachel",
+        "s5-e14-im-not-threatening-you-im-promising-you-rachel"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "Hawaii megachurch (Foursquare) the family attended and its pastor",
+          "initiated_by": "family_or_friends",
+          "when": "Hawaii, roughly 1-2 years after the move (Rachel about 14-15)",
+          "what_was_asked": "Rachel's mother wrote a letter to the church and pastor reporting the father's abuse and temper, including that he was continuing to abuse the children.",
+          "what_institution_did": "Gave the father an ultimatum (go to therapy or leave the church); told no one, did not contact police; the family left for Scotland under a public 'church plant' announcement and Rachel was later offered a Bible-college scholarship.",
+          "quote": "They didn't tell anyone. They didn't tell anyone. They didn't go to police. We never have, like we didn't even know what happened. They just came to my father and said either like leave, so we don't have to deal with you or get therapy.",
+          "source": "s5-e11-the-gloves-came-off-rachel @ 20:57",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Father refused therapy; the family returned to Scotland, back under the parents' control and isolated; abuse continued.",
+          "notes": "Account is Rachel's, learned from family years later ('we only understood what was happening and like heard the full story years later'). The ultimatum is a concrete step, so acted_partly was the alternative; protected_itself chosen because the passage shows no report outside the church and a quiet exit ('we'll give you what you want, just go away'). Recorded for each child because the letter reported abuse of the children. Sarah was a young child."
+        },
+        {
+          "n": 2,
+          "institution_type": "child_protection",
+          "institution": "social services (Scotland)",
+          "initiated_by": "family_or_friends",
+          "when": "after Daniel's first suicide attempt",
+          "what_was_asked": "Sarah told her friend, whose mother (a mandatory reporter) reported it.",
+          "what_institution_did": "Held conversations with the family; approached it as a suicide-attempt case.",
+          "quote": "And so I said something to my friend Anna, and she said something to, she said something to her mom, who's a mandatory reporter, and so she had to report it, you know, so then they were having like conversations with the family.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 3:13",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No removal until months later.",
+          "notes": "Quoted words are Sarah's as relayed by Rachel. initiated_by family_or_friends (her friend's mother); Sarah started it."
+        },
+        {
+          "n": 3,
+          "institution_type": "child_protection",
+          "institution": "authorities receiving reports (agency not named; family 'known to them')",
+          "initiated_by": "third_party",
+          "when": "'a while ago', before the September report (order relative to the suicide-attempt involvement unclear)",
+          "what_was_asked": "A former church member reported concerns about the family.",
+          "what_institution_did": "Nothing followed from the report.",
+          "quote": "And apparently a while ago, Haley had actually reported some concerns as well. Haley is the other lady, but it hadn't gone anywhere.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 22:44",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Later said 'several reports had been made'.",
+          "notes": "Agency type inferred (mandatory-reporter report); could be police."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "Scottish police",
+          "initiated_by": "third_party",
+          "when": "September of the year before recording (a Sunday night)",
+          "what_was_asked": "Reports by a family friend, a disclosure by Rebecca to a counselor and a follow-up by another former church member.",
+          "what_institution_did": "Took statements, removed Daniel and Sarah from the parents' home and arrested both parents.",
+          "quote": "They removed Daniel and Sarah. She wasn't 18 yet and she was also so in the house that they couldn't leave her there.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 25:55",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Siblings placed with their sister Hannah; parents spent a night in jail.",
+          "notes": "Rachel's account; she spoke with the officer directly. "
+        },
+        {
+          "n": 5,
+          "institution_type": "child_protection",
+          "institution": "social services (Scotland)",
+          "initiated_by": "institution",
+          "when": "after the removal",
+          "what_was_asked": "Safe placement for the minor siblings.",
+          "what_institution_did": "Found the parents unsuitable and had them sign custody over to the oldest sister.",
+          "quote": "Social services had determined that they were not suitable and had actually gotten them to sign over custody of my siblings to my sister.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 44:20",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Siblings living with/under guardianship of Hannah; extended family brought clothes and money.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "They removed Daniel and Sarah. She wasn't 18 yet and she was also so in the house that they couldn't leave her there.",
+      "outcome_source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 25:55",
+      "protection_contributors": [
+        "other_victims",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "But I think Catherine's report was what pushed it over the edge. And that's when the police actually got involved.",
+      "decisive_work_source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 22:44",
+      "time_to_first_effective_action": "months after social services first became involved",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 3,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Sarah gave a police statement with Hannah present. After removal her mother allegedly kept 'losing' her exams to keep access (Rachel's suspicion). Charges cover only Daniel's abuse. Same decisive-work reasoning as Daniel."
+    },
+    {
+      "person_id": "P07",
+      "name": "Hannah",
+      "role_in_story": "co_victim",
+      "harm": "Rachel's next sister: spanked daily as a child; as a young adult at home she was hit and thrown to the ground by their father when she refused to leave him alone with Rebecca, and shoved on another occasion.",
+      "perpetrator_role": "her father (a pastor) and mother",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": false,
+      "episodes": [
+        "s5-e7-rebellion-is-as-witchcraft-rachel",
+        "s5-e8-everything-was-terrifying-rachel",
+        "s5-e12-anathema-rachel",
+        "s5-e13-declaring-war-rachel",
+        "s5-e14-im-not-threatening-you-im-promising-you-rachel"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "It was like you've already forgiven him, you don't get to bring that up again.",
+            "source": "s5-e10-accomplices-to-our-own-abuse-rachel @ 7:36"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "Hawaii megachurch (Foursquare) the family attended and its pastor",
+          "initiated_by": "family_or_friends",
+          "when": "Hawaii, roughly 1-2 years after the move (Rachel about 14-15)",
+          "what_was_asked": "Rachel's mother wrote a letter to the church and pastor reporting the father's abuse and temper, including that he was continuing to abuse the children.",
+          "what_institution_did": "Gave the father an ultimatum (go to therapy or leave the church); told no one, did not contact police; the family left for Scotland under a public 'church plant' announcement and Rachel was later offered a Bible-college scholarship.",
+          "quote": "They didn't tell anyone. They didn't tell anyone. They didn't go to police. We never have, like we didn't even know what happened. They just came to my father and said either like leave, so we don't have to deal with you or get therapy.",
+          "source": "s5-e11-the-gloves-came-off-rachel @ 20:57",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Father refused therapy; the family returned to Scotland, back under the parents' control and isolated; abuse continued.",
+          "notes": "Account is Rachel's, learned from family years later ('we only understood what was happening and like heard the full story years later'). The ultimatum is a concrete step, so acted_partly was the alternative; protected_itself chosen because the passage shows no report outside the church and a quiet exit ('we'll give you what you want, just go away'). Recorded for each child because the letter reported abuse of the children. "
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Scottish police / prosecution",
+          "initiated_by": "institution",
+          "when": "September of the year before recording and after",
+          "what_was_asked": "Statement as part of the investigation.",
+          "what_institution_did": "Took her statement; her own abuse was not charged because it could not be proved.",
+          "quote": "And the issue is that they can't prove any of our abuse. They can only prove the recent abuse against my brother by my father.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 47:25",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Given custody/guardianship of her younger siblings.",
+          "notes": "That police took her statement: 'they got a statement from Hannah' (s5-e14 @ 25:55)."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And the issue is that they can't prove any of our abuse. They can only prove the recent abuse against my brother by my father.",
+      "outcome_source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 47:25",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "By the time of police involvement she was married and living away; the harm to her ended by leaving, not institutional action. She hid the later assault from Rachel ('I wasn't supposed to tell you this'). Accounts come through Rachel."
+    },
+    {
+      "person_id": "P08",
+      "name": "Rebecca",
+      "role_in_story": "co_victim",
+      "harm": "Rachel's younger sister: yanked up by the arm and spanked as a toddler, fought over by the parents, and later nearly hit by the father; after leaving home she was tracked and approached by her parents.",
+      "perpetrator_role": "her father (a pastor) and mother",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": false,
+      "episodes": [
+        "s5-e8-everything-was-terrifying-rachel",
+        "s5-e9-let-the-dead-bury-the-dead-rachel",
+        "s5-e11-the-gloves-came-off-rachel",
+        "s5-e12-anathema-rachel",
+        "s5-e13-declaring-war-rachel",
+        "s5-e14-im-not-threatening-you-im-promising-you-rachel"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "It was like you've already forgiven him, you don't get to bring that up again.",
+            "source": "s5-e10-accomplices-to-our-own-abuse-rachel @ 7:36"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "Hawaii megachurch (Foursquare) the family attended and its pastor",
+          "initiated_by": "family_or_friends",
+          "when": "Hawaii, roughly 1-2 years after the move (Rachel about 14-15)",
+          "what_was_asked": "Rachel's mother wrote a letter to the church and pastor reporting the father's abuse and temper, including that he was continuing to abuse the children.",
+          "what_institution_did": "Gave the father an ultimatum (go to therapy or leave the church); told no one, did not contact police; the family left for Scotland under a public 'church plant' announcement and Rachel was later offered a Bible-college scholarship.",
+          "quote": "They didn't tell anyone. They didn't tell anyone. They didn't go to police. We never have, like we didn't even know what happened. They just came to my father and said either like leave, so we don't have to deal with you or get therapy.",
+          "source": "s5-e11-the-gloves-came-off-rachel @ 20:57",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Father refused therapy; the family returned to Scotland, back under the parents' control and isolated; abuse continued.",
+          "notes": "Account is Rachel's, learned from family years later ('we only understood what was happening and like heard the full story years later'). The ultimatum is a concrete step, so acted_partly was the alternative; protected_itself chosen because the passage shows no report outside the church and a quiet exit ('we'll give you what you want, just go away'). Recorded for each child because the letter reported abuse of the children. Rebecca was about four or five."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "a professional counselor (friend from her new church), informally",
+          "initiated_by": "person",
+          "when": "shortly before the removal, after Daniel's last suicide attempt",
+          "what_was_asked": "Rebecca fled to the counselor's house and told her everything, knowing it would be passed on.",
+          "what_institution_did": "The disclosure was passed on and became one of the reports that triggered police action.",
+          "quote": "And you know, she's a counselor. So like, Rebecca knew like if she told her like it was going to get out and kudos to her.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 26:55",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Police removed Daniel and Sarah days later.",
+          "notes": "That the counselor reported is implied ('I think Rebecca told them that and then Catherine called'), not stated outright."
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "Scottish police / prosecution",
+          "initiated_by": "institution",
+          "when": "following months",
+          "what_was_asked": "Investigation.",
+          "what_institution_did": "Her own abuse not charged (could not be proved).",
+          "quote": "And the issue is that they can't prove any of our abuse. They can only prove the recent abuse against my brother by my father.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 47:25",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "police",
+          "initiated_by": "family_or_friends",
+          "when": "after the removal",
+          "what_was_asked": "Rachel told police that church members were tracking the siblings and the parents were turning up, e.g. at Rebecca's bus stop.",
+          "what_institution_did": "Not stated; the approaches eventually stopped.",
+          "quote": "it to police and I think they stopped after a while and I think my siblings like made it pretty clear that like weird do not want anything to do with you people.",
+          "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 50:35",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Rachel wanted restraining orders for all siblings; none described as obtained.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "it to police and I think they stopped after a while and I think my siblings like made it pretty clear that like weird do not want anything to do with you people.",
+      "outcome_source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 50:35",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "She had moved out before reporting, so the household abuse of her ended by leaving; her disclosure helped protect Daniel and Sarah. The parents' later approaches stopped without any shown institutional cause."
+    },
+    {
+      "person_id": "P09",
+      "name": "[unnamed] Rachel's mother",
+      "role_in_story": "co_victim",
+      "harm": "Assaulted by her husband over years: a thrown mug hit her eye (eye patch for a month, nearly blinded), later pushed and hit; financially controlled (no bank access).",
+      "perpetrator_role": "her husband (a pastor)",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": false,
+      "episodes": [
+        "s5-e7-rebellion-is-as-witchcraft-rachel",
+        "s5-e8-everything-was-terrifying-rachel",
+        "s5-e11-the-gloves-came-off-rachel",
+        "s5-e12-anathema-rachel",
+        "s5-e13-declaring-war-rachel",
+        "s5-e14-im-not-threatening-you-im-promising-you-rachel"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "they would always brag about how divorce was never an option for us.",
+            "source": "s5-e8-everything-was-terrifying-rachel @ 38:03"
+          },
+          {
+            "reason": "other",
+            "quote": "she had told her not to tell anyone at their therapy because other people were there that were involved with other churches and everyone would know.",
+            "source": "s5-e13-declaring-war-rachel @ 1:17"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "the family's home church in Scotland (congregation)",
+          "initiated_by": "third_party",
+          "when": "when Rachel was a child, at the hunting-lodge church",
+          "what_was_asked": "A lodger who heard the assault confronted him; he then confessed to the congregation and offered to step down.",
+          "what_institution_did": "Congregation sympathized with him and praised his honesty; nothing was done for her.",
+          "quote": "I watched everyone turn around and say, oh my gosh, we haven't supported you enough. You know, you've been all alone. You must be so stressed. Like, how brave of you to admit what you did.",
+          "source": "s5-e8-everything-was-terrifying-rachel @ 36:02",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "He stayed in place; violence continued.",
+          "notes": "Rachel watched it; people present later told her 'we felt guilty about it'. The response sides with the abuser; blamed_punished is possible ('they probably assumed she just pushed him to it' is Rachel's guess)."
+        },
+        {
+          "n": 2,
+          "institution_type": "church",
+          "institution": "Christian marriage ministry counselors ('church counselor')",
+          "initiated_by": "unclear",
+          "when": "after the family returned to Scotland; years after Hawaii",
+          "what_was_asked": "Couples counseling the couple attended after Rachel urged therapy; the father raised her letter to the Hawaii church.",
+          "what_institution_did": "Made her apologize to her husband for having reported his abuse.",
+          "quote": "They made my mother apologize to my father for doing that.",
+          "source": "s5-e13-declaring-war-rachel @ 3:20",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She hid a recent assault from the counselors; she later stayed with him.",
+          "notes": "Account comes from the mother via Rachel. The letter to the Hawaii church (recorded under the children) may also have covered her own abuse ('my dad's abuse and my dad's bad temper'); not separately coded here."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "They made my mother apologize to my father for doing that.",
+      "outcome_source": "s5-e13-declaring-war-rachel @ 3:20",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "She is also a perpetrator of the children's abuse (corporal punishment system, emotional abuse, later pressuring Rachel), so she is left unnamed; this record covers only the harm done to her by her husband. Rachel: 'would you classify her as a victim as well? Yes, but she also attacked us.' Police could not prove the older abuse and did not charge her; whether her own victimization was investigated is not stated. She remains with the father."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "a heavy young man in Julia's church barred from social activities by the youth pastor until he lost weight",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "youth pastor told me that I couldn't attend any extra church activities, social activities, where I wasn't working basically until I lose weight",
+      "source": "s5-e1-somewhere-i-belonged-julia @ 33:01"
+    },
+    {
+      "description": "Julia's husband, also shamed before the congregation over the pregnancy",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "My husband was not. He did, I believe he did have to step back from youth leadership for a little bit.",
+      "source": "s5-e2-exposed-our-sin-julia @ 8:29"
+    },
+    {
+      "description": "pastors at Julia's church who left because of how the youth/senior pastor treated them",
+      "count_stated": 3,
+      "reached_institution": "unknown",
+      "quote": "at this point, three pastors that I trusted and respected had left.",
+      "source": "s5-e2-exposed-our-sin-julia @ 18:46"
+    },
+    {
+      "description": "teenage girls in the youth group labelled 'sluts and teases' by Kelly's ex-husband, including Kelly's sister and his sisters",
+      "count_stated": null,
+      "reached_institution": "no",
+      "quote": "my own sister and his sisters were given these titles, sluts and teases.",
+      "source": "s5-e3-sluts-and-teases-kelly @ 25:52"
+    },
+    {
+      "description": "a teenage girl in the youth group with whom Kelly's ex-husband spent inappropriate time (possible grooming; Kelly does not believe abuse occurred while she was a student)",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "One of the biggest fights in my marriage was how my youth pastor, husband, spent far too much time in the company of a teenage girl 10 years younger than him.",
+      "source": "s5-e3-sluts-and-teases-kelly @ 20:26"
+    },
+    {
+      "description": "Kelly's mother, the church accountant, bullied and ostracized after raising the misdirected wages",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "my mom describes that the time that she worked there during this time after she exposed the embezzlement, that she was bullied, that she was ostracized",
+      "source": "s5-e6-it-was-all-kind-of-hidden-kelly @ 22:46"
+    },
+    {
+      "description": "other attendees of Julia and Kelly's church who told the host of spiritual and emotional abuse",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "I've heard from many others who have attended this church, and like Kelly and Julia, they too have told me of their spiritual and emotional abuse.",
+      "source": "s5-e6-it-was-all-kind-of-hidden-kelly @ 3:03"
+    },
+    {
+      "description": "children of another family in Rachel's parents' outreach whose father attacked them and their mother with a stun gun",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "their dad attacked them and their mom with a stung gun and is now in jail",
+      "source": "s5-e8-everything-was-terrifying-rachel @ 6:16"
+    },
+    {
+      "description": "Catherine (former babysitter/church member) and her nieces and nephews, photographed by her husband, a man who had lived in Rachel's household and was arrested for possessing child sexual abuse material; Rachel's parents had known and concealed it",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "They had found the largest amount of child pornography in the area on his computer. He had photos of her nieces and nephews.",
+      "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 9:23"
+    },
+    {
+      "description": "Catherine's sister, pushed by Rachel's parents toward a troubled man and blamed when he left",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "And he ended up leaving the church and they basically made her feel like shit.",
+      "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 16:38"
+    },
+    {
+      "description": "a woman in Rachel's parents' church harassed by a drunk man, which the father treated as a joke",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "Looking back at it now. It seems a lot like sexual harassment. And back then, it was like a joke in the church and my dad thought it was funny.",
+      "source": "s5-e14-im-not-threatening-you-im-promising-you-rachel @ 17:42"
+    },
+    {
+      "description": "the host's own past sexual assault (no story told this season)",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "being a sexual assault victim in my past",
+      "source": "s5-e15-political-gaslighting-featuring-stephanie-moulton-sarkis-phd @ 4:21"
+    },
+    {
+      "description": "a listener who recognized abuse by her parents",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "I got a message from a woman who said the information that she heard from you that I shared on my podcast and sharing your book helps her recognize that she was in an abusive relationship with her parents",
+      "source": "s5-e15-political-gaslighting-featuring-stephanie-moulton-sarkis-phd @ 61:29"
+    }
+  ],
+  "coder_notes": "Season 5 ('survivor short stories') covers three stories: Julia (E1-E2) and Kelly (E3-E6), both from the same Sacramento-area charismatic church whose youth/senior pastor is called by a pseudonym (treated as a perpetrator name and replaced with [perpetrator]; the senior pastor father's pseudonym likewise); Rachel (E7-E14), abused by pastor parents in Scotland/Hawaii; plus an expert episode on political gaslighting (E15) with no season-person content. All eight chunk files were read in full to their stated last lines. Long song-lyric/ad passages were read but contain no content. One unresolved garble: 'my dad hurting Cassie' (s5-e11 @ 9:42), possibly a sibling or the dog; not coded. For Rachel's family, all information about siblings and institutions comes through Rachel, often second-hand; the father's trial was pending at the end of the season. Rachel's mother is both a victim of the father and a perpetrator toward the children; she has a record limited to the harm done to her and is unnamed. Quotes were checked by script against the transcripts (timestamps removed, perpetrator pseudonyms replaced)."
+}

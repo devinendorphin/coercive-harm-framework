@@ -1,0 +1,2204 @@
+{
+  "season": 19,
+  "coder": "B",
+  "reading_log": [
+    {
+      "file": "s19_01.txt",
+      "last_line_number": 110,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s19_02.txt",
+      "last_line_number": 107,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s19_03.txt",
+      "last_line_number": 101,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s19_04.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s19_05.txt",
+      "last_line_number": 112,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s19_06.txt",
+      "last_line_number": 106,
+      "read_in_full": true,
+      "problems": "Reading was interrupted twice by usage limits (during s19_06 and after s19_08); resumed from notes.md at the exact line reached, no lines skipped."
+    },
+    {
+      "file": "s19_07.txt",
+      "last_line_number": 91,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s19_08.txt",
+      "last_line_number": 81,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "INDEX.txt",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Required list of unassigned episodes."
+    },
+    {
+      "slug": "data-points-stalking-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [
+        "P17"
+      ],
+      "why": "Guest-hosted by Lenora Claire, the season 19 finale survivor; checked whether it updates her story. It is statistics and safety tips only; no new facts about her case."
+    },
+    {
+      "slug": "data-points-the-30th-anniversary-of-the-violence-against-women-act-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [
+        "P17"
+      ],
+      "why": "Guest-hosted by Lenora Claire; checked for an update to her story. It is VAWA history and her attending the White House anniversary event; no new facts about her case."
+    },
+    {
+      "slug": "wcn-presents-caitlin-mathis-dedicated-to-change-2",
+      "opened": false,
+      "read_in_full": false,
+      "relevant_to": [],
+      "why": "Not opened: Caitlin Mathis is named in s19 only as a fellow panelist with Lenora Claire; her story is not a season 19 story and the index does not link it to any s19 person."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Amy",
+      "role_in_story": "central_survivor",
+      "harm": "Catfished on Plenty of Fish in 2016 by a man posing as 'Eric'; when she refused odd photo requests he posted her intimate photos with her name and home address, then cyberstalked her for about five years: emails, calls, voicemails, fake profiles with her nude photos, impersonating her on crime victims' pages, attacking her company, employees, colleagues and family.",
+      "perpetrator_role": "a stranger she met on a dating site (catfish), later identified as a man in New Jersey",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e1-amy-the-night-that-everything-changed",
+        "s19-e2-amy-creeping-round-my-backstairs",
+        "s19-e3-amy-fueling-the-fear",
+        "s19-e4-45-amy-the-mystery-was-gone",
+        "s19-e5-55-amy-overcomer",
+        "s19-e11-community-catch-up",
+        "wcn-presents-amy-s19-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "I don't recall telling anybody about it, but I was so terrified I deleted the email and printed it because I didn't even feel comfortable forwarding it to my personal email address.",
+            "source": "s19-e2-amy-creeping-round-my-backstairs @ 6:18"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police (Denver)",
+          "initiated_by": "person",
+          "when": "2016, the night the photos were posted",
+          "what_was_asked": "Help identifying and stopping the man who posted her photos and threatened her.",
+          "what_institution_did": "An officer came, listened, gave her a card, and said nothing could be done without a name and location.",
+          "quote": "given I had no idea who this person actually was or where they were located for that matter, they couldn't do anything. I just remember them giving me a card and they're like, if you get any more information to help us identify who they are, then let us know. We want to help you. But until then, there's not much we can do.",
+          "source": "s19-e2-amy-creeping-round-my-backstairs @ 3:09",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No investigation; she reported to the site herself and tried to move on.",
+          "notes": "She says the officer was kind; the code reflects no concrete step, not disbelief."
+        },
+        {
+          "n": 2,
+          "institution_type": "platform",
+          "institution": "Plenty of Fish",
+          "initiated_by": "person",
+          "when": "2016",
+          "what_was_asked": "Removal of his profile/posts.",
+          "what_institution_did": "Nothing came of repeated reports.",
+          "quote": "I did report his profiles to plenty of fish multiple times, nothing came of it, which is extremely frustrating.",
+          "source": "s19-e2-amy-creeping-round-my-backstairs @ 4:13",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She deleted the site; contact resumed by email in January 2017.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "FBI Internet Crime Complaint Center (IC3)",
+          "initiated_by": "person",
+          "when": "March to May 2020 (four online reports)",
+          "what_was_asked": "Federal help identifying and stopping the stalker.",
+          "what_institution_did": "No response to any of four reports.",
+          "quote": "the fourth report to the FBI was May of 2020 and at that point I just kind of gave up.",
+          "source": "s19-e2-amy-creeping-round-my-backstairs @ 24:02",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Daily harassment continued through 2020; 'I had submitted multiple reports to the FBI at this point ... and I hadn't heard anything.'",
+          "notes": "Four reports to the same institution with the same (non-)response are recorded as one contact."
+        },
+        {
+          "n": 4,
+          "institution_type": "platform",
+          "institution": "social media platforms (Facebook, Instagram, LinkedIn, TikTok)",
+          "initiated_by": "family_or_friends",
+          "when": "2020 onward",
+          "what_was_asked": "Take down fake profiles using her name and nude photos.",
+          "what_institution_did": "Reports by Amy, family, colleagues and her PR firm did not get the accounts removed; some remain up.",
+          "quote": "There should be some accountability for some of these social media platforms where there were false profiles of my daughter created. We knew it. She reported it. They just seemed unwilling to cooperate with doing the right thing and trying to get those shut down.",
+          "source": "s19-e5-55-amy-overcomer @ 41:04",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Fake accounts still online at the update episode; she found pursuing takedowns 'too overwhelming'.",
+          "notes": "Her mother: 'those platforms are still up and running on social media And social media refuses to take them down.' (s19-e3 @ 22:37). Initiated by Amy herself as well as friends/family."
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "FBI Denver field office (special agent on duty)",
+          "initiated_by": "person",
+          "when": "December 2020",
+          "what_was_asked": "Advice on what to do about the online stalking.",
+          "what_institution_did": "The agent listened and escalated to the cyber crime unit; a case was opened through Denver Police in January 2021.",
+          "quote": "I actually got a special agent on duty. I don't know what I said to him, but he listened to me and heard me and heard my story and escalated my case to the cyber crime unit within the FBI field office here. As a result, a case was officially opened actually through the Denver Police Department in January of 2021.",
+          "source": "s19-e3-amy-fueling-the-fear @ 38:17",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "A Denver detective on the FBI cybercrime task force took the case.",
+          "notes": "Call made after her business partner pushed for action and attorneys were consulted."
+        },
+        {
+          "n": 6,
+          "institution_type": "victim_services",
+          "institution": "FBI victim advocate's office (later DA/state victim advocates)",
+          "initiated_by": "institution",
+          "when": "early 2021 onward",
+          "what_was_asked": "",
+          "what_institution_did": "Called her, offered resources including money for therapy and an assigned advocate; later reimbursed therapy and guided her through hearings.",
+          "quote": "she just basically told me that there's a bunch of resources available. Everything from money for therapy, money for rehab, as well as tools and resources and an individual who'll be assigned to my case to guide me through the process.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 3:04",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'I was reimbursed for therapy sessions that I had.' (s19-e5 @ 50:27)",
+          "notes": "Victim notification was slower than her father's own tracking (s19-e4 @ 24:52)."
+        },
+        {
+          "n": 7,
+          "institution_type": "prosecutor",
+          "institution": "US Attorney's office (via FBI)",
+          "initiated_by": "institution",
+          "when": "2021",
+          "what_was_asked": "Federal prosecution.",
+          "what_institution_did": "Declined to take the case; it stayed a local Denver case.",
+          "quote": "Once the case goes into the FBI, the US Attorney's office actually gets involved, and they review the data that's been provided thus far, the documentation, and they decide if they take the case or not. And in this instance, they didn't take it.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 4:06",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Investigated and prosecuted locally (Denver).",
+          "notes": "Declining did not stop the case; coded as no step by this institution."
+        },
+        {
+          "n": 8,
+          "institution_type": "police",
+          "institution": "Denver Police Department detective (FBI cybercrime task force) and other agencies",
+          "initiated_by": "institution",
+          "when": "January to November 2021",
+          "what_was_asked": "Identify and stop the stalker.",
+          "what_institution_did": "Investigated daily, obtained cell tower data and search warrants, identified him in July 2021, searched his New Jersey home in September, arrested him in November 2021 on felony stalking.",
+          "quote": "He was arrested in New Jersey and when he was arrested in November of 21, he was charged with a class five felony, which was stalking.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 16:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Extradited to Denver, held on $50,000 bond, never bonded out.",
+          "notes": "During the September search the agent showed him the warrant with Amy's name: 'He should never have known who did that.' (s19-e4 @ 11:22) - this exposure is why harmed_by_institution_ever is true. No arrest at the search; she was left exposed Sept-Nov."
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "court clerk, civil protection order filing (Denver)",
+          "initiated_by": "person",
+          "when": "September to November 2021",
+          "what_was_asked": "Civil protection order until his arrest.",
+          "what_institution_did": "The clerk questioned whether she was in imminent danger; her mother says she was shamed.",
+          "quote": "The clerk was standing there flipping through my pages, not sitting down, just kind of leaning over the table and she looked at me and said, you know, you have to be in imminent danger, right? I looked at her and I said, I don't know that I'm not.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 14:30",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Outcome of that civil filing not stated; she later obtained a permanent protection order through the criminal case.",
+          "notes": "Mother: 'The first time she went to get a restraining order, they were derogatory towards her. They tried to shame her' (s19-e4 @ 15:30)."
+        },
+        {
+          "n": 10,
+          "institution_type": "prosecutor",
+          "institution": "Denver District Attorney's office (assistant DA)",
+          "initiated_by": "institution",
+          "when": "late 2021 to 2022",
+          "what_was_asked": "Prosecution; she refused any plea.",
+          "what_institution_did": "Prosecuted the felony but pressed her early to consider a plea that could reduce it to a misdemeanor.",
+          "quote": "this guy doesn't have any prior crimes. The way this typically works is it could be pushed to a misdemeanor, because he had no prior record based on what's in the system currently.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 26:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She refused; the defendant unexpectedly pleaded guilty to everything.",
+          "notes": "She praises the prosecutor; acted_partly reflects the plea pressure. Could also be read as believed_and_acted."
+        },
+        {
+          "n": 11,
+          "institution_type": "court",
+          "institution": "Denver criminal court (sentencing judge)",
+          "initiated_by": "institution",
+          "when": "September 2022",
+          "what_was_asked": "Maximum sentence; protection.",
+          "what_institution_did": "Imposed the maximum Colorado sentence (four years plus two years parole) and told Amy it was not her fault; permanent protection order in place.",
+          "quote": "He was ultimately sentenced to the maximum sentence that the state of Colorado allows, which is he got four years with time served plus two years of parole. The judge went out of her way to say that there was no sentence that would do Amy Justice, but that she would do what she could.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 54:40",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "Imprisoned; 'Because I had a criminal case, I do have a permanent protection order against [perpetrator]' (s19-e5 @ 51:32).",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "other",
+          "institution": "Colorado Board of Parole (May 2023 hearing)",
+          "initiated_by": "institution",
+          "when": "May 9, 2023",
+          "what_was_asked": "Deny early parole.",
+          "what_institution_did": "Chair denied parole herself and made the hearing audio a permanent part of his file.",
+          "quote": "I don't typically do this or say this, but I feel like it's necessary to tell you that I am absolutely denying his parole today. And two, I am so sorry for what happened to you.",
+          "source": "s19-e5-55-amy-overcomer @ 30:39",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Second hearing May 2024: he was not released early and will leave at his mandatory release date (late 2024 expected).",
+          "notes": "Family could not attend; impact statements were only considered after Amy fought for it (s19-e5 @ 31:40). Parole hearing audio was played on air."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "What I want you to hear is that I know the defendant is capable of so much worse than the crime he's being sentenced for today. It's for that reason, the only time I've ever felt safe in over five years is when he's in jail.",
+      "outcome_source": "s19-e4-45-amy-the-mystery-was-gone @ 36:13",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "Amy gave them so much information. She documented everything. There was a huge electronic file. She had snippets of voice messages that were left, text messages,",
+      "decisive_work_source": "s19-e3-amy-fueling-the-fear @ 43:25",
+      "time_to_first_effective_action": "about four and a half years after her first police report in 2016; nine months after her first IC3 report (case opened January 2021)",
+      "months_to_first_effective_action": 54,
+      "contacts_before_first_effective_action": 4,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Outcome coded protected because arrest and incarceration stopped the active stalking and she says she feels safe only while he is jailed; but fake accounts remain online ('she is still being victimized because of the technology', father, s19-e5 @ 42:06) and his release (late 2024) loomed at the last update, so partly_protected is defensible. Decisive work: she pressed repeatedly after police/IC3/platform inaction and documented everything; the detective's own investigation (cell tower data, warrants) was also essential. The 2017 email went unreported. Perpetrator named on air; replaced with [perpetrator]."
+    },
+    {
+      "person_id": "P02",
+      "name": "Natalie",
+      "role_in_story": "co_victim",
+      "harm": "Amy's coworker; the same stalker posted comments attacking her and her nonprofit online and, after a fake rental inquiry about her home layout, texted and called her repeatedly at night ('hey Nat are you up?').",
+      "perpetrator_role": "Amy's cyberstalker (stranger)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e2-amy-creeping-round-my-backstairs",
+        "s19-e3-amy-fueling-the-fear",
+        "s19-e4-45-amy-the-mystery-was-gone",
+        "s19-e5-55-amy-overcomer",
+        "wcn-presents-amy-s19-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "platform",
+          "institution": "social media platforms",
+          "initiated_by": "person",
+          "when": "2020",
+          "what_was_asked": "Take down fake profiles and content.",
+          "what_institution_did": "Content was hard to get removed.",
+          "quote": "I do remember how difficult, unfortunately, it was to navigate some of the social media platforms of getting that content down. It was a lot more challenging than I think one would anticipate or expect, especially some of the explicit content.",
+          "source": "s19-e3-amy-fueling-the-fear @ 19:32",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She documented and passed everything to Amy for the police file.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "Denver criminal court (Amy's case; sentencing)",
+          "initiated_by": "other_victim",
+          "when": "2021-2022",
+          "what_was_asked": "Accountability; she gave a victim statement at sentencing.",
+          "what_institution_did": "Convicted and imprisoned the stalker with the maximum sentence.",
+          "quote": "We have felt a weight lifted off of us over the last few months while this defendant has been behind bars.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 45:29",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "She feels safe to post online and walk her dog.",
+          "notes": "Her harm reached police through Amy, who forwarded Natalie's voicemails and texts for documentation."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "I feel safe to walk my dog without fear that he might come around the corner. I feel safe to stay at my office late without fear that he might show up. We no longer have to lock the doors to our office or glance behind our shoulders. We feel safe.",
+      "outcome_source": "s19-e4-45-amy-the-mystery-was-gone @ 46:30",
+      "protection_contributors": [
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "other_victims",
+      "decisive_work_quote": "Amy has spent countless hours educating herself on the criminal justice system to understand how to navigate this devastating crime. Amy is not only an advocate for herself, but she's an advocate for all of us.",
+      "decisive_work_source": "s19-e4-45-amy-the-mystery-was-gone @ 45:29",
+      "time_to_first_effective_action": "about a year after the 2020 harassment of her began (arrest November 2021)",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Natalie's statement at sentencing was read on air. Amy says she did not know of the rental incident until the podcast."
+    },
+    {
+      "person_id": "P03",
+      "name": "Sarah (Amy's PR firm)",
+      "role_in_story": "co_victim",
+      "harm": "Owner of the PR firm managing Amy's company social media (wife of Amy's business partner); the stalker found out who managed the accounts and attacked her and up to three of her team members personally.",
+      "perpetrator_role": "Amy's cyberstalker (stranger)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e2-amy-creeping-round-my-backstairs",
+        "s19-e3-amy-fueling-the-fear",
+        "s19-e4-45-amy-the-mystery-was-gone",
+        "s19-e5-55-amy-overcomer"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "platform",
+          "institution": "social media platforms",
+          "initiated_by": "person",
+          "when": "2020-2021",
+          "what_was_asked": "Remove dummy accounts and comments that were flagged and reported.",
+          "what_institution_did": "Reports did not stop the accounts proliferating.",
+          "quote": "for one person to just proliferate all of these dummy accounts at the speed and they're all being flagged and reported. Really goes to show you some of that reporting internally to those channels is a bunch of BS.",
+          "source": "s19-e3-amy-fueling-the-fear @ 35:10",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Her team deleted comments themselves and documented everything.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "Denver criminal court (Amy's case; sentencing)",
+          "initiated_by": "other_victim",
+          "when": "2022",
+          "what_was_asked": "Accountability; she gave a statement at sentencing.",
+          "what_institution_did": "Convicted and imprisoned the stalker.",
+          "quote": "He was ultimately sentenced to the maximum sentence that the state of Colorado allows, which is he got four years with time served plus two years of parole.",
+          "source": "s19-e4-45-amy-the-mystery-was-gone @ 54:40",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "She describes telling the story 'not under the fear of it happening'.",
+          "notes": "Amy's impact statement: 'Our PR firm was attacked both personally and professionally.'"
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "Maybe part of that is from my cathartic sense of being able to tell the story out loud, not under the fear of it happening.",
+      "outcome_source": "s19-e5-55-amy-overcomer @ 35:55",
+      "protection_contributors": [
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "other_victims",
+      "decisive_work_quote": "Fortunately, Amy was so diligent and her parents making sure that we got this attention and it needed it.",
+      "decisive_work_source": "s19-e4-45-amy-the-mystery-was-gone @ 23:48",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "Her own harm is described briefly; she still gets old dummy requests in her apps (s19-e5 @ 38:02). Distinct from the central Sarah (P05)."
+    },
+    {
+      "person_id": "P04",
+      "name": "[unnamed] earlier survivor of Amy's stalker",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Met the same man about two years before Amy did; he retaliated against her with death threats.",
+      "perpetrator_role": "Amy's cyberstalker",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e4-45-amy-the-mystery-was-gone",
+        "s19-e5-55-amy-overcomer"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "We know of another victim and that victim is too afraid to stand up.",
+            "source": "s19-e4-45-amy-the-mystery-was-gone @ 12:26"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "At this point, the one other victim I've confirmed is a survivor of his, is not in a position and not comfortable coming forward.",
+      "outcome_source": "s19-e5-55-amy-overcomer @ 46:18",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Known only through Amy. Distinct from the listener survivor who came forward after episode 1 and contacted law enforcement (in others_mentioned)."
+    },
+    {
+      "person_id": "P05",
+      "name": "Sarah (ex-boyfriend)",
+      "role_in_story": "central_survivor",
+      "harm": "Tinder boyfriend (2016-2018), an ER/travel nurse, cheated and lied, coerced her into sex, verbally abused and gaslit her, choked her against a wall (Oct 2017), elbowed and kicked her (Jan 2018), then stalked her (following, sitting outside her home, claiming to watch through her window, incessant emails) and ran a smear campaign.",
+      "perpetrator_role": "her ex-boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e6-sarah-the-color-left-his-eyes",
+        "s19-e7-23-sarah-run-girl-run",
+        "s19-e8-33-sarah-taking-your-power-back",
+        "s19-e11-community-catch-up"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I didn't know what a boundary was. I didn't know how to draw that line.",
+            "source": "s19-e6-sarah-the-color-left-his-eyes @ 6:15"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "church couples counselor (counselor through a church)",
+          "initiated_by": "person",
+          "when": "fall 2017",
+          "what_was_asked": "Help communicating; she raised concern she was dating a narcissist.",
+          "what_institution_did": "Dismissed her concern as a serious allegation and reassured him nothing was wrong with him.",
+          "quote": "A couple times I brought up like in the first sessions, you know, I'm concerned that I'm dating a narcissist and this guy was a quack. I guarantee he was not a real therapist because he was like, well, that's a serious allegation.",
+          "source": "s19-e7-23-sarah-run-girl-run @ 31:53",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Abuse escalated; strangled in October 2017.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "church",
+          "institution": "same church counselor",
+          "initiated_by": "person",
+          "when": "February 2018, after the kitchen assault",
+          "what_was_asked": "She told him everything, including the abuse.",
+          "what_institution_did": "Asked her what she did to deserve it.",
+          "quote": "But I told him about the abuse and I'll never forget he asked me what I did to deserve it. The therapist asked me that.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 12:20",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She ended the relationship in the session; he followed her home and began stalking her.",
+          "notes": "The counselor only came out to check when the yelling was audible."
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "Greene County / Springfield court, ex parte order",
+          "initiated_by": "person",
+          "when": "March 23-26, 2018",
+          "what_was_asked": "Restraining order.",
+          "what_institution_did": "Ex parte order issued and served; hearing set.",
+          "quote": "I submitted the Exparte on March 23rd, and they set the hearing for April 3rd. On March 26th, the expert was served to [perpetrator] so he knew that this was actually going to happen",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 19:32",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He 'starts to get vicious', showed up everywhere with other women, texted despite the order.",
+          "notes": "Perpetrator name in the quote replaced with [perpetrator]."
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "Springfield court, full order of protection hearing",
+          "initiated_by": "person",
+          "when": "hearing delayed from April to July 11, 2018",
+          "what_was_asked": "Full order of protection.",
+          "what_institution_did": "Granted the order and made it harsher (50 feet, immediate jail).",
+          "quote": "The judge ended up not only granting the order but made the order even harsher. He couldn't come within 50 feet of me or he would go directly to jail.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 22:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Physical stalking eased as he had a new girlfriend, but a public smear campaign against her lasted years.",
+          "notes": "Delay: 'Our hearing kept getting pushed off as they often do'."
+        },
+        {
+          "n": 5,
+          "institution_type": "other",
+          "institution": "Missouri state courts / sex offender registry",
+          "initiated_by": "institution",
+          "when": "September 2018",
+          "what_was_asked": "",
+          "what_institution_did": "Her case led the state to discover his 2007 rape conviction lost to a clerical error and put him on the registry.",
+          "quote": "in September, what my case had done is open up this look into who [perpetrator] is in the system. That's when we crack open this case that had been lost that [perpetrator] had actually been convicted of a rape in 2007.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 23:34",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "record_checked_by_show"
+          ],
+          "what_happened_next": "Registered; later gave false addresses with only a 'slap on the wrist' from the sheriff.",
+          "notes": "Protects others more than Sarah. Show notes link the registry entry."
+        },
+        {
+          "n": 6,
+          "institution_type": "regulator_or_licensing",
+          "institution": "Missouri nursing board",
+          "initiated_by": "person",
+          "when": "after 2018, reported a couple of times",
+          "what_was_asked": "Remove the nursing license of a registered sex offender.",
+          "what_institution_did": "Did not take the license away for years.",
+          "quote": "His nursing license has been reported since the change in his record. It has a couple times, a couple times by myself. I feel like I've been a squeaky wheel in that situation.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 35:10",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "By March 2024 the host reports 'we have gotten word that [perpetrator] has lost his nursing license.' (s19-e11 @ 3:21) - why is not stated.",
+          "notes": "Context: 'the nursing board still didn't take his nursing license away' (s19-e8 @ 33:08)."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "The judge ended up not only granting the order but made the order even harsher. He couldn't come within 50 feet of me or he would go directly to jail. But he was already in this mode to make my life hell.",
+      "outcome_source": "s19-e8-33-sarah-taking-your-power-back @ 22:32",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "I should have blocked his email but also I think at this point it was helping build my case because he was burying himself more. I had known that I was going to seek a restraining order and all of this was just more proof of look at what he's doing.",
+      "decisive_work_source": "s19-e8-33-sarah-taking-your-power-back @ 18:31",
+      "time_to_first_effective_action": "about five to six months after she first raised it with the church counselor (ex parte order March 2018)",
+      "months_to_first_effective_action": 5,
+      "contacts_before_first_effective_action": 2,
+      "evidence_types": [
+        "document_read_on_air",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Never told police about the strangulation or assault; only friends ('That is something I had told my friends of the church about'). Smear campaign by his new girlfriend: 'The abuse on me, the attacks, they didn't really lighten up for a few years.' (s19-e8 @ 25:41) - hence partly_protected. Email from him read on air; host reviewed the email chain. Childhood neglect and her daughter's father's gaslighting are background only, not coded."
+    },
+    {
+      "person_id": "P06",
+      "name": "Sarah (DC hotel stranger)",
+      "role_in_story": "central_survivor",
+      "harm": "In September 2016 a young man who walked with her around Washington DC followed her into her hotel elevator and forcibly tried to kiss her; she kicked him off.",
+      "perpetrator_role": "a stranger tourist",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e6-sarah-the-color-left-his-eyes"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "It was just a very traumatizing experience and I felt very alone.",
+            "source": "s19-e6-sarah-the-color-left-his-eyes @ 29:20"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And I get up to my floor and run to my room and then I just sit there scared for the rest of the night because I don't know if he saw what floor I went to.",
+      "outcome_source": "s19-e6-sarah-the-color-left-his-eyes @ 28:20",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Separate perpetrator from P05; she only called her boyfriend, who ignored her."
+    },
+    {
+      "person_id": "P07",
+      "name": "April",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Pseudonym. Sarah's ex-boyfriend's later girlfriend and mother of his child; he beat her while pregnant (bruised belly) and kept texting her despite a restraining order.",
+      "perpetrator_role": "her ex-partner, father of her child (Sarah's ex-boyfriend)",
+      "perpetrator_convicted": "charged_not_convicted",
+      "deceased": false,
+      "episodes": [
+        "s19-e8-33-sarah-taking-your-power-back"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "Missouri court, restraining order",
+          "initiated_by": "person",
+          "when": "after May 2020",
+          "what_was_asked": "Restraining order.",
+          "what_institution_did": "She had a restraining order (granted; timing not given).",
+          "quote": "He was sending her texts even though she had a restraining order.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 28:54",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "He violated it.",
+          "notes": "Order granted is inferred from 'she had a restraining order'."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "police / jail",
+          "initiated_by": "person",
+          "when": "after a violation, date not given",
+          "what_was_asked": "Arrest for violating the order.",
+          "what_institution_did": "Arrested and jailed him on a low bond; he bailed out immediately.",
+          "quote": "She got him arrested. He finally at least got arrested and put into jail. He was held on a bond. It was probably like $10,000 and nothing too huge in terms of bond and was immediately bailed out.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 28:54",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She and Sarah found other women to come forward.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "prosecutor",
+          "institution": "district attorney",
+          "initiated_by": "other_victim",
+          "when": "after the arrest",
+          "what_was_asked": "Prosecute, with five women describing similar conduct.",
+          "what_institution_did": "Said it was not enough and dropped the charges.",
+          "quote": "And we took this to the district attorney who was working on this case. He eventually came back and told us, I'm sorry, it's not enough. We don't have a case. Like five women, I guess, is not enough. So they ended up dropping those charges and letting him go.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 29:57",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Victim statements were written but never heard.",
+          "notes": "Reason given is insufficient evidence; could also be read as disbelieved."
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "Missouri family court (custody)",
+          "initiated_by": "person",
+          "when": "ongoing to 2023",
+          "what_was_asked": "Protect her child from an abusive father.",
+          "what_institution_did": "Courts repeatedly found insufficient evidence of abuse; 50-50 custody; another case dropped.",
+          "quote": "Her story is full of her going to court and them telling her she doesn't have enough evidence that he is abusive.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 29:57",
+          "response": "disbelieved",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She shares custody with him.",
+          "notes": "'they had dropped another one of her cases because now they're going through custody battles and the courts have not been fair to her' (@ 28:54)."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "In the state of Missouri, men and women now get 50-50 custody no matter what and she has to live with the fact that she has a child with a man that is abusive.",
+      "outcome_source": "s19-e8-33-sarah-taking-your-power-back @ 28:54",
+      "protection_contributors": [
+        "the_person",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "She got him arrested.",
+      "decisive_work_source": "s19-e8-33-sarah-taking-your-power-back @ 28:54",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Told only through Sarah. She earlier smeared Sarah on his behalf. Sarah saw her photos of bruises (second witness). Restraining order and arrest are partial protection; abuser largely unaffected."
+    },
+    {
+      "person_id": "P08",
+      "name": "[unnamed] Memphis woman",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Sarah's boyfriend rented a room from and dated this woman in Memphis while dating Sarah; he raped her.",
+      "perpetrator_role": "her boyfriend/lodger (Sarah's ex-boyfriend)",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e8-33-sarah-taking-your-power-back"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "They were dating and she finally kicked him out because he raped her.",
+            "source": "s19-e8-33-sarah-taking-your-power-back @ 30:59"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "They were dating and she finally kicked him out because he raped her.",
+      "outcome_source": "s19-e8-33-sarah-taking-your-power-back @ 30:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "She contacted Sarah after a Facebook appeal for victims; whether she was among the five women taken to the DA is not stated. No institutional contact shown; harm ended when she kicked him out. Outcome not_protected per the rule for harm ended by the person's own action; reached_institution unclear."
+    },
+    {
+      "person_id": "P09",
+      "name": "[unnamed] 2007 rape victim",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Raped by Sarah's ex-boyfriend when he was in high school (around 2007).",
+      "perpetrator_role": "a schoolmate (Sarah's later ex-boyfriend)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e8-33-sarah-taking-your-power-back"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "Missouri courts",
+          "initiated_by": "person",
+          "when": "2007",
+          "what_was_asked": "Prosecution after her report.",
+          "what_institution_did": "Convicted him and ordered registration, but misfiled his name so it never appeared on his record until 2018.",
+          "quote": "A female victim made a report that [perpetrator] had raped her. She won her case but they misspelled his name.",
+          "source": "s19-e8-33-sarah-taking-your-power-back @ 34:09",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "The clerical error let him get a nursing license; corrected in 2018 after Sarah's case.",
+          "notes": "The misfiling undermined protection of others but the conviction she sought was delivered."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "he raped a girl, he was charged with this rape, so they proved in a court of law that he did this crime, he was charged, he was forced to be put on a registry, a sexual registry in Missouri, and the Missouri courts filed his name wrong in the system.",
+      "outcome_source": "s19-e8-33-sarah-taking-your-power-back @ 23:34",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "conviction",
+        "record_checked_by_show"
+      ],
+      "confidence": "low",
+      "notes": "Only a few sentences. Show notes link the registry record."
+    },
+    {
+      "person_id": "P10",
+      "name": "Kaelin",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Season 14 survivor: six years (from 2007) of emotional, physical, psychological, sexual and financial abuse by her ex-partner, who recorded their sex and used it as blackmail and raped her; afterwards years of child-support evasion.",
+      "perpetrator_role": "her ex-partner, father of her daughter",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e9-wcn-presents-sww-s14-updates-part-1",
+        "s19-e10-wcn-presents-sww-s14-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "I just cut all my friends off in Seattle for the most part and left because the people that I knew with him, I was afraid to tell.",
+            "source": "s19-e9-wcn-presents-sww-s14-updates-part-1 @ 25:11"
+          },
+          {
+            "reason": "earlier_disbelief",
+            "quote": "Since then, they've reached out to me and apologized for not hearing me when I did try to tell them.",
+            "source": "s19-e9-wcn-presents-sww-s14-updates-part-1 @ 25:11"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "family court (Washington)",
+          "initiated_by": "person",
+          "when": "not stated (years earlier)",
+          "what_was_asked": "Restraining order.",
+          "what_institution_did": "Granted her a restraining order, finding him dangerous to her (but not to her daughter).",
+          "quote": "The judge had said initially, yeah, he is dangerous to you. That's why they gave me a restraining order. But they said that he was not a danger to Emerson.",
+          "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 4:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Visitation for the child continued (see Emerson).",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Seattle Police Department",
+          "initiated_by": "person",
+          "when": "before she left Seattle",
+          "what_was_asked": "Only that the rape be put on record; she asked for no action.",
+          "what_institution_did": "Took the report and assigned her an advocate.",
+          "quote": "But I told them at that time, I don't want anything to be done. I just want this recorded so that you have something on file for him with sexual abuse. I was given an advocate.",
+          "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 8:47",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The advocate said she should have had an advocate when she first went to court.",
+          "notes": "Coded believed_and_acted because recording it and providing an advocate was what she sought."
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "Seattle Police Department",
+          "initiated_by": "journalist_or_podcast",
+          "when": "late 2022, during Season 14",
+          "what_was_asked": "Investigate with the survivors' evidence (host's outreach; petition).",
+          "what_institution_did": "No reply for weeks until a newspaper reporter went to them; then said they would return calls.",
+          "quote": "Part of the process was reaching out to Seattle Police Department, weeks leading up to the season, starting and throughout the season with no reply.",
+          "source": "s19-e9-wcn-presents-sww-s14-updates-part-1 @ 10:46",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "'She didn't say much, essentially said they were gonna return people's phone calls now. She had reached out to Kaylin at that point.' No further action described.",
+          "notes": "SPD's sexual assault unit had stopped assigning new adult-victim cases."
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "child support court and state prosecutor",
+          "initiated_by": "third_party",
+          "when": "2023 (his motion to lower support)",
+          "what_was_asked": "Keep support and address $23,000 arrears and financial abuse.",
+          "what_institution_did": "Prosecutor argued financial abuse; judge lowered support from $650 to $421 but added $150/month toward arrears.",
+          "quote": "In the final orders, the official judgment is they lowered it to 421 from 650, but he has to pay an additional $150 each month that goes toward the back amount",
+          "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 17:02",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Only $77 of the arrears payment reaches her; he owes for life.",
+          "notes": "Initiated by the perpetrator's motion. Judge accepted his Venmo explanation and 'just moved on'; contempt team set $700 'without us'."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "I'm really lucky because I haven't had any contact with him. It's almost seven years now.",
+      "outcome_source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 31:29",
+      "protection_contributors": [
+        "the_person",
+        "other_victims",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "Season 14 story only summarized here; most of her harm and court history is in season 14, not read. Perpetrator's child-support court statement read on air. Separation came from her leaving Seattle; restraining order granted; financial abuse ongoing - partly_protected."
+    },
+    {
+      "person_id": "P11",
+      "name": "Emerson",
+      "role_in_story": "child",
+      "harm": "Kaelin's daughter; forced visits with her abusive father were traumatizing ('the abuse their children faced at his hands').",
+      "perpetrator_role": "her father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e9-wcn-presents-sww-s14-updates-part-1",
+        "s19-e10-wcn-presents-sww-s14-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "family court",
+          "initiated_by": "family_or_friends",
+          "when": "multiple times over years",
+          "what_was_asked": "Supervised visits / no visitation.",
+          "what_institution_did": "Found him not a danger to her, required visits on pain of contempt, and dismissed her mother's request for supervised visits.",
+          "quote": "The judge looked at me and said, he's not coming anyway. I don't know why you're here. And I said, yeah, but he can come.",
+          "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 6:41",
+          "response": "disbelieved",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Visits continued until he agreed to no contact after he hit Ivy.",
+          "notes": "'I did not have a choice because I would be held in contempt had I not allowed the visit.' (@ 5:36) - court kept the child exposed: harmed_by_institution_ever true."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "Emerson's therapist",
+          "initiated_by": "family_or_friends",
+          "when": "not stated",
+          "what_was_asked": "Support/statement on visitation.",
+          "what_institution_did": "Wrote a statement arguing no visitation was best.",
+          "quote": "Her therapist, she sent me a statement arguing no visitation would be best for her",
+          "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 5:36",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The court did not act on it.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "family court",
+          "initiated_by": "family_or_friends",
+          "when": "after he hit Ivy",
+          "what_was_asked": "No contact, no visitation.",
+          "what_institution_did": "Order entered on his agreement.",
+          "quote": "it wasn't until he hit Ivy that he agreed to no contact, no visitation. I went and filed right away, because he said he would agree to whatever I wanted.",
+          "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 6:41",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No contact since; Emerson is thriving in seventh grade.",
+          "notes": "Agreement-driven rather than a contested finding."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "He needed to be out of our lives completely. I think that that is the best decision I ever made.",
+      "outcome_source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 7:46",
+      "protection_contributors": [
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "I went and filed right away, because he said he would agree to whatever I wanted.",
+      "decisive_work_source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 6:41",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 2,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Minor; name as used by the show. Protection came when the father agreed after assaulting Ivy, formalized by the court; arguably not_protected if the agreement, not the court, is seen as decisive."
+    },
+    {
+      "person_id": "P12",
+      "name": "Melissa",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Season 14 survivor: dated the same man for a few months, became pregnant; he recorded sexual videos of her as with Kaelin, cast her as an 'obsessed stalker', and she endured abuse through the family court system.",
+      "perpetrator_role": "her ex-partner, father of her daughter",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e9-wcn-presents-sww-s14-updates-part-1",
+        "s19-e10-wcn-presents-sww-s14-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "family court",
+          "initiated_by": "unclear",
+          "when": "not stated",
+          "what_was_asked": "Not stated in this update.",
+          "what_institution_did": "Not described here beyond 'all of the abuse that went on with that'.",
+          "quote": "but dealing with the family court system and all of the abuse that went on with that, there was a lot to it.",
+          "source": "s19-e9-wcn-presents-sww-s14-updates-part-1 @ 5:36",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Receives part of the arrears payment ordered in Kaelin's case.",
+          "notes": "Details are in season 14, which I was not given."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He preemptively had made himself out to be the victim. We all had the narratives attached to us. Kailin was the bitter, crazy ex. I was the obsessed stalker.",
+      "outcome_source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 22:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "This season does not say enough to code her outcome reliably; not_protected chosen because no protective action for her is described."
+    },
+    {
+      "person_id": "P13",
+      "name": "Ivy",
+      "role_in_story": "child",
+      "harm": "Melissa's daughter; her father assaulted ('hit') her.",
+      "perpetrator_role": "her father",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e9-wcn-presents-sww-s14-updates-part-1",
+        "s19-e10-wcn-presents-sww-s14-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "criminal court",
+          "initiated_by": "unclear",
+          "when": "before late 2022",
+          "what_was_asked": "Prosecution for the assault.",
+          "what_institution_did": "He pleaded guilty (court paperwork exists).",
+          "quote": "Their response was that they already knew about it ahead of time. And so this was nothing new. They were kind of expecting to hear from us and that he had been blackmailed by us into pleading guilty.",
+          "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 24:12",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Not described for Ivy.",
+          "notes": "The guilty plea is known only via this account of his claim; 'I sent them all of the court paperwork.'"
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "it wasn't until he hit Ivy that he agreed to no contact, no visitation.",
+      "outcome_source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 6:41",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "Minor. Very little told; outcome quote concerns the consequence for Emerson's visitation. Protected coded on the conviction alone; whether contact with Ivy continued is not stated."
+    },
+    {
+      "person_id": "P14",
+      "name": "Tiffany (Dallas hotel)",
+      "role_in_story": "other",
+      "harm": "The host: about a year and a half before the episode, at a Dallas hotel, a housekeeping staff member twice tried to force her room door open at night after staff had announced she was alone.",
+      "perpetrator_role": "hotel housekeeping staff member",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e11-community-catch-up"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "hotel front desk and hotel security",
+          "initiated_by": "person",
+          "when": "same night",
+          "what_was_asked": "Security response to an attempted break-in.",
+          "what_institution_did": "Security did a sweep, then told her it was housekeeping checking the room; their attitude changed once it was a staff member, and they did not call police.",
+          "quote": "they call me back and they're like, uh, so the person who tried to get into your room works in housekeeping and he was just checking to see if anybody was still staying in the room. But the complete energy had changed as soon as they knew it was a staff member of the hotel.",
+          "source": "s19-e11-community-catch-up @ 24:10",
+          "response": "protected_itself",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She assumed security had called police; they had not.",
+          "notes": "Could also be disbelieved/did_nothing; quote shows closing ranks around staff."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Dallas police",
+          "initiated_by": "person",
+          "when": "the next evening, from California",
+          "what_was_asked": "Take a report.",
+          "what_institution_did": "Officer tried to rush her off and wrongly said she could not report from out of state; after she asked for his badge number they took a report; nothing came of it.",
+          "quote": "I could definitely tell right away the officer could not be less interested in taking a report and was trying to just rush me off the phone. Then he told me I couldn't make a report because I was no longer in the state.",
+          "source": "s19-e11-community-catch-up @ 26:13",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'And they took the report and I do have a case number, but nothing that I know of came of it.'",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And they took the report and I do have a case number, but nothing that I know of came of it.",
+      "outcome_source": "s19-e11-community-catch-up @ 27:13",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Host's own incident, which she calls 'pretty minor in terms of trauma'. Her season 16 family abuse is only mentioned, not coded."
+    },
+    {
+      "person_id": "P15",
+      "name": "Jennifer (first boyfriend)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "In her mid-20s a man from her church group sexually assaulted her repeatedly in his car, pinned and bruised her, raped her twice (including after a dog bite injury), strangled her, threatened to kill her if she became pregnant, forced Plan B on her, and controlled her while she lived in his mother's house.",
+      "perpetrator_role": "a man from her church group, later her boyfriend",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice",
+        "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "protecting_others",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "aggressively sexually assaulting me. I would have never called it that. It wasn't in my purview.",
+            "source": "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice @ 11:21"
+          },
+          {
+            "reason": "protecting_others",
+            "quote": "If I call the cops, which now I know that's a fallacy and not true, he's going to be arrested. This is going to crush him. This is going to ruin his life. This is going to ruin his mom.",
+            "source": "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice @ 40:23"
+          },
+          {
+            "reason": "other",
+            "quote": "Also, I felt so shameful and so guilty. I thought I let this happen. This was my fault.",
+            "source": "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice @ 40:23"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "church",
+          "institution": "her church leader",
+          "initiated_by": "person",
+          "when": "early, after repeated car assaults",
+          "what_was_asked": "Help with what he was doing.",
+          "what_institution_did": "Said they knew other women had had similar experiences with him and wished they would come forward; did nothing.",
+          "quote": "my own ecclesiastical leader in these instances knew that this person was doing this to women, but there was nothing being done about it.",
+          "source": "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice @ 15:29",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Abuse continued.",
+          "notes": "Could also be protected_itself."
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "college campus counselor / honor code (religious university)",
+          "initiated_by": "person",
+          "when": "mid-2000s",
+          "what_was_asked": "Help getting out.",
+          "what_institution_did": "Told her it was okay to end a friendship and that coming forward could get her expelled under the honor code; no safety plan.",
+          "quote": "So I was at fault. In all actuality, if I had come forward, there was a chance I could have been expelled. They told me that and in lieu of giving me a safety plan or connecting me to resources",
+          "source": "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice @ 22:43",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He stalked outside her window; she was later raped.",
+          "notes": "'The advice that I was given on campus was it is okay to end a friendship. And that was it.' (@ 21:39)"
+        },
+        {
+          "n": 3,
+          "institution_type": "church",
+          "institution": "religious leader (church disciplinary process)",
+          "initiated_by": "person",
+          "when": "while living in his mother's house, before leaving",
+          "what_was_asked": "She reported what was happening.",
+          "what_institution_did": "Asked why she thought she deserved it, said she faced excommunication; gave him a calling with young men instead of discipline.",
+          "quote": "And he goes, why do you think that you deserve this? That was also coupled with him telling me that I would have to go internally,",
+          "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 3:03",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'they have their own courts ... that I would be facing excommunication, basically reprimanded for my part in this' while 'he needs a calling and he doesn't need to be reprimanded'.",
+          "notes": "Also protected_itself (abuser assigned to youth)."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "police station (Orange County, California)",
+          "initiated_by": "family_or_friends",
+          "when": "about nine months after the rape, after she left",
+          "what_was_asked": "Report the rape.",
+          "what_institution_did": "Two male officers questioned her role and whether to believe her.",
+          "quote": "And the questions I was getting were things like, well, why did you invite him over? Painting this story and they're also questioning the validity of it and your role in it. Talk about victim blaming.",
+          "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 6:17",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Report taken; investigator later arranged a covert call.",
+          "notes": "A friend urged her to report and came with her. Also disbelieved."
+        },
+        {
+          "n": 5,
+          "institution_type": "medical_or_therapy",
+          "institution": "therapist in Utah",
+          "initiated_by": "person",
+          "when": "after she moved back to Utah",
+          "what_was_asked": "Therapy.",
+          "what_institution_did": "Named what happened as domestic violence.",
+          "quote": "I got a therapist. And I'll never forget when she looked at me and she goes, Jennifer, you were the victim of domestic violence.",
+          "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 6:17",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Began her healing and path into the field.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "police investigator (Orange County)",
+          "initiated_by": "institution",
+          "when": "after her report",
+          "what_was_asked": "Pursue the case.",
+          "what_institution_did": "Arranged a covert call; he denied it; investigator could not arrest but visited his house; the report stays on file.",
+          "quote": "The investigator, when we hung up, looked at me. He goes, that man knew exactly what to say to cover his ass. I can't arrest him, but I guarantee I'm going to take a trip out to his house, which is exactly what they did.",
+          "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 8:22",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He called her irate; 'if anything were to ever happen in the future, this will be on record and on file for him forever and always.'",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "not_protected",
+      "outcome_quote": "So this man has a long history of abuses and nothing being done about it. I remember feeling like it was such an injustice",
+      "outcome_source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 9:24",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Harm ended when she left with her best friend's help, not through an institution. A second church leader offered help but she did not disclose (not coded as a contact). Bruise photos from her 25th birthday exist but are not read/checked on air. Childhood adversity is background only."
+    },
+    {
+      "person_id": "P16",
+      "name": "Jennifer (husband)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Her husband (father of her two sons) verbally abused her, took money, shoved, pushed and hit her, and punched her in the jaw while she held their newborn.",
+      "perpetrator_role": "her husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "And I am being abused at home. So now who am I going to tell? Because I felt like the biggest fraud.",
+            "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 27:56"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police (whom she had trained)",
+          "initiated_by": "person",
+          "when": "the night he punched her",
+          "what_was_asked": "Emergency response.",
+          "what_institution_did": "Police came; a detective followed up; he fled the state before any arrest is described.",
+          "quote": "I did notify law enforcement, it was full police but these were the exact same police that I had trained and I am now looking them in the eye in my living room.",
+          "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 32:02",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'Their dad ended up taking off. He fled from the police. He drained the bank account completely down to nothing.'",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "employer_or_hr",
+          "institution": "her domestic violence agency employer",
+          "initiated_by": "person",
+          "when": "next day",
+          "what_was_asked": "She expected to be fired.",
+          "what_institution_did": "Supported her and kept her on.",
+          "quote": "she goes, Jennifer, there are so many of us who are survivors. We have board members who are survivors. There are many folks who are survivors. We got you.",
+          "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 33:03",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Legal director arranged her restraining order hearing.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "court (restraining order)",
+          "initiated_by": "person",
+          "when": "after the assault",
+          "what_was_asked": "Restraining order.",
+          "what_institution_did": "Restraining order process completed; he was limited to supervised visits.",
+          "quote": "I was still navigating the court system, dealing with all of his stuff. He had to have supervised visits, so I'm having to go down and register.",
+          "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 34:05",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She stayed in the field and later became a coalition director.",
+          "notes": "Grant of the order is implied ('I had to go through the entire restraining order process') rather than stated."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "He had to have supervised visits, so I'm having to go down and register. And it was just such a mess and it was so overwhelming.",
+      "outcome_source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 34:05",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": "the night she first called police",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Abuse ended when he fled after police were called; restraining order and supervised visits followed. Whether the flight or the institution stopped the harm is not clear; not_protected is defensible."
+    },
+    {
+      "person_id": "P17",
+      "name": "Lenora Claire",
+      "role_in_story": "central_survivor",
+      "harm": "From 2011 a stranger with erotomania who saw her on a magazine cover told her he would stalk her, then sent years of graphic rape, kidnap and murder threats, threatened her boss and husband, tried to take her dog, and in 2017 came to LA Comic Con to kidnap her; after release he resumed stalking.",
+      "perpetrator_role": "a stranger stalker",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing",
+        "s19-e14-lenora-claire-i-caught-my-own-stalker-finale"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "LAPD Northeast Division",
+          "initiated_by": "person",
+          "when": "2011",
+          "what_was_asked": "Help with a stack of threats from a documented stalker.",
+          "what_institution_did": "Told her to dye her hair and get off the internet.",
+          "quote": "I went to police seeking help, and I brought this stack of really intense, very heavy threats. And they looked me in the eye and they told me to dye my hair and get off the internet.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 9:23",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'So they just brushed me off.' She lost her galleries and income.",
+          "notes": "'I go as far as to say that they victim blamed and shame me.'"
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "court (temporary restraining order)",
+          "initiated_by": "person",
+          "when": "around 2013-2015",
+          "what_was_asked": "Restraining order.",
+          "what_institution_did": "Order could be granted but not served while he moved around the country.",
+          "quote": "Just because you can get a restraining order granted, if they evade, you have no way to get it to them. And restraining orders don't go into effect until they're served.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 12:29",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She tracked his IP herself.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "LAPD",
+          "initiated_by": "person",
+          "when": "around 2014-2015",
+          "what_was_asked": "Act on death threats to her boss.",
+          "what_institution_did": "Nothing.",
+          "quote": "So I take his death threats to the police and I'm like, it's not just me. I thought maybe it's it's happening to a man. I still got absolutely nothing from LAPD.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 14:30",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She went public in 2015 (Crime Watch Daily, Jezebel).",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "police called to another victim's workplace",
+          "initiated_by": "third_party",
+          "when": "2015",
+          "what_was_asked": "",
+          "what_institution_did": "Detained him, served her pending restraining order, released him.",
+          "quote": "They didn't arrest him. They detained him and they saw my pending restraining order and they served him and then let him go.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 16:30",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "First TRO in effect.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "other",
+          "institution": "her local congressman",
+          "initiated_by": "family_or_friends",
+          "when": "2015",
+          "what_was_asked": "Help getting law enforcement to act.",
+          "what_institution_did": "Brought her to meet the chief of police and the district attorney.",
+          "quote": "very rapidly, he took me into meet with the chief of police, the then district attorney and got all that stuff going.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 16:30",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No arrest described as a result.",
+          "notes": "Introduced by a friend who is also a stalking survivor."
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "LAPD Threat Management Unit",
+          "initiated_by": "journalist_or_podcast",
+          "when": "2016-2017",
+          "what_was_asked": "Protection from escalating threats.",
+          "what_institution_did": "Elevated her case after a national TV special and assigned a good detective; but did not work weekends when he announced a kidnap plan.",
+          "quote": "My case because of all of that and being on the show was then elevated at LAPD. They have a unit called the threat management unit, which is the best in the entire country.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 22:39",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'I'm telling LAPD, even the special unit that has my case, what's happening, this unit, they don't work on the weekends, which is insane.' (@ 25:46)",
+          "notes": "LAPD and Secret Service later notified her when he escaped a psych facility."
+        },
+        {
+          "n": 7,
+          "institution_type": "police",
+          "institution": "LAPD",
+          "initiated_by": "person",
+          "when": "2017, LA Comic Con",
+          "what_was_asked": "Arrest after she and hired security captured him.",
+          "what_institution_did": "Arrested him; held on $1 million bail.",
+          "quote": "We capture him. He gets arrested.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 26:46",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Held a year on $1M bail awaiting trial.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "prosecutor",
+          "institution": "Los Angeles deputy district attorney",
+          "initiated_by": "institution",
+          "when": "2017-2018",
+          "what_was_asked": "Prosecute rape and death threats; trial.",
+          "what_institution_did": "Dropped the death threats, then took a plea to felony stalking on the courthouse steps.",
+          "quote": "They didn't use any of my death threats, they just let them go.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 27:47",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "'I decided to just accept the plea because I was really not given much of a choice.'",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "Los Angeles criminal court",
+          "initiated_by": "institution",
+          "when": "2018",
+          "what_was_asked": "Conviction and sentence.",
+          "what_institution_did": "Felony stalking conviction; four-year max cut to two under Prop 57.",
+          "quote": "even though I got my stalker on felony stalking max, which should be a four year sentence, it was immediately turned into two. All that work for two years.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 30:50",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Released December 2019.",
+          "notes": "She calls the felony conviction 'a big win'."
+        },
+        {
+          "n": 10,
+          "institution_type": "police",
+          "institution": "police / courts and Department of Corrections (post-release)",
+          "initiated_by": "person",
+          "when": "December 2019 onward",
+          "what_was_asked": "Stop renewed stalking.",
+          "what_institution_did": "Jailed him repeatedly on short misdemeanors; ankle monitor not actually monitored.",
+          "quote": "I've lost track of how many times I've put him back in jail. Unfortunately, every time since it's been a misdemeanor, so it's not very long, because he's gotten slicker about how he does it.",
+          "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 31:48",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He is free in LA with no monitoring; no direct contact for almost a year.",
+          "notes": "'nobody at the Department of Corrections is monitoring that thing.' (@ 32:48)"
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "As for my stalker, the convicted one, I've had to put him in jail multiple times. Unfortunately, I've only been able to get him on misdemeanors after the original felony so it's not for very long.",
+      "outcome_source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 50:20",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "So I caught my own stalker. I had to do that. I didn't have a choice.",
+      "decisive_work_source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 26:46",
+      "time_to_first_effective_action": "about six years after her first police report (2011 to the 2017 arrest)",
+      "months_to_first_effective_action": 72,
+      "contacts_before_first_effective_action": 6,
+      "evidence_types": [
+        "conviction"
+      ],
+      "confidence": "high",
+      "notes": "Stalker named on air; not used. She also mentions being a survivor of domestic violence and sexual assault at other times; no story told, so no separate records. Victim services: she did not know she was eligible and got none for a year (not a contact). Trailer for her episode at end of s19-e13."
+    },
+    {
+      "person_id": "P18",
+      "name": "Peggy Klingke",
+      "role_in_story": "other",
+      "harm": "Stalked and murdered by her ex-boyfriend; her sister later found no laws or resources that could have protected her.",
+      "perpetrator_role": "her ex-boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s19-e1-amy-the-night-that-everything-changed",
+        "s19-e14-lenora-claire-i-caught-my-own-stalker-finale"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "All the signs were there of Peggy being in danger, Peggy being stalked, leading up to her murder.",
+            "source": "s19-e1-amy-the-night-that-everything-changed @ 11:24"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Peggy Klingke, who was stocked and murdered by her ex-boyfriend.",
+      "outcome_source": "s19-e1-amy-the-night-that-everything-changed @ 11:24",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "Told briefly by the season's opening guest; her sister later founded Stalking Awareness Month. Whether Peggy reached any institution is not stated. Borderline between a person record and a bare mention."
+    },
+    {
+      "person_id": "P19",
+      "name": "Shawna (doula)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "London, Ontario doula whose first client faked a pregnancy and fraudulently obtained her services; left fearful of new clients.",
+      "perpetrator_role": "a fraudulent client (woman who faked pregnancies)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e11-community-catch-up"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "Brantford Court of Justice (with the Crown)",
+          "initiated_by": "institution",
+          "when": "December 2023 plea; sentenced February 14, 2024",
+          "what_was_asked": "Accountability; she gave a victim impact statement.",
+          "what_institution_did": "Accepted a guilty plea to 21 of 52 charges and, bound by a joint submission, imposed a two-year conditional sentence of house arrest with a no-contact order.",
+          "quote": "That [perpetrator] received instead of jail time, a two year conditional sentence for house arrest.",
+          "source": "s19-e11-community-catch-up @ 7:31",
+          "response": "acted_partly",
+          "basis": [
+            "document_read_on_air",
+            "court_outcome"
+          ],
+          "what_happened_next": "House arrest, GPS bracelet, counseling, no contact with victims, two-year internet ban.",
+          "notes": "Perpetrator name in the quote replaced with [perpetrator]."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "She's also forbidden to contact the victims and is banned from using internet and social media for two years.",
+      "outcome_source": "s19-e11-community-catch-up @ 8:33",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "Update to an earlier season's story (not read). The host's text discusses the 'doula' victims collectively; the conviction and no-contact order are the protective action, though victims found the sentence inadequate."
+    },
+    {
+      "person_id": "P20",
+      "name": "Amy (London doula)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "London, Ontario doula defrauded by the same fake-pregnancy client; lost about $6,000 including therapy costs and had to implement safety measures.",
+      "perpetrator_role": "a fraudulent client (woman who faked pregnancies)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e11-community-catch-up"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "Brantford Court of Justice (sentencing hearing)",
+          "initiated_by": "institution",
+          "when": "January 17 and February 14, 2024",
+          "what_was_asked": "Accountability; she gave a statement at the sentencing hearing.",
+          "what_institution_did": "Conviction on 21 counts; two-year conditional sentence of house arrest with no-contact order.",
+          "quote": "Another London doula, Amy told the sentencing hearing that she lost about $6,000 by working with [perpetrator] and as a result of therapy costs.",
+          "source": "s19-e11-community-catch-up @ 7:31",
+          "response": "acted_partly",
+          "basis": [
+            "document_read_on_air",
+            "court_outcome"
+          ],
+          "what_happened_next": "Same sentence as for all victims.",
+          "notes": "Perpetrator name in the quote replaced with [perpetrator]."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "She's also forbidden to contact the victims and is banned from using internet and social media for two years.",
+      "outcome_source": "s19-e11-community-catch-up @ 8:33",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "Distinct from P01 Amy."
+    },
+    {
+      "person_id": "P21",
+      "name": "[unnamed] doula whose assault charges were withdrawn",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Doula who spent nearly a week with the fake-pregnancy client and was assaulted by her; diagnosed with complex PTSD.",
+      "perpetrator_role": "a fraudulent client (woman who faked pregnancies)",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s19-e11-community-catch-up"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "prosecutor",
+          "institution": "Crown attorney (with Brantford court)",
+          "initiated_by": "institution",
+          "when": "2023-2024",
+          "what_was_asked": "Prosecution including the assault charges.",
+          "what_institution_did": "Assault charges withdrawn under the plea deal; the perpetrator got a conditional sentence for fraud-related counts.",
+          "quote": "I was one of the victims who had assault charges against her before they were withdrawn. I'm disgusted with her lawyer and our crown attorney.",
+          "source": "s19-e11-community-catch-up @ 10:33",
+          "response": "acted_partly",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "She continues working as a doula and is in treatment for complex PTSD.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "I'm upset. I'm really upset. I was with her for nearly a week. I was one of the victims who had assault charges against her before they were withdrawn.",
+      "outcome_source": "s19-e11-community-catch-up @ 10:33",
+      "protection_contributors": [
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "Quoted from a CTV interview read on air. Partly protected: a conviction and no-contact order exist, but the charges for her assault were dropped."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "The real man whose photos the catfish used ('Eric'), whose images were also circulated",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "The guy he portrayed to be on Plenty of Fish back in 2016, he circulated similar pictures that he had asked for of me. And I know that guy is also a victim.",
+      "source": "s19-e5-55-amy-overcomer @ 47:21"
+    },
+    {
+      "description": "Amy's younger cousins, female employees and a male employee also victimized by her stalker",
+      "count_stated": 7,
+      "reached_institution": "unknown",
+      "quote": "he also victimized two of my younger female cousins, four female employees and one male employee of mine",
+      "source": "s19-e4-45-amy-the-mystery-was-gone @ 38:17"
+    },
+    {
+      "description": "Members of the PR firm's team attacked by Amy's stalker",
+      "count_stated": 3,
+      "reached_institution": "unknown",
+      "quote": "It affected myself and up to three other of our team members that then he latched on to find to start doing personal attacks there too.",
+      "source": "s19-e3-amy-fueling-the-fear @ 33:04"
+    },
+    {
+      "description": "Families and friends of crime victims on whose posts the stalker posted as Amy (missing friend's TikTok, murdered track star's friend, restaurant whose worker was murdered)",
+      "count_stated": null,
+      "reached_institution": "no",
+      "quote": "how many other victims and missing persons and victims of crimes have been impacted by what he said using my name? I honestly have no idea. I'm only aware of a few.",
+      "source": "s19-e2-amy-creeping-round-my-backstairs @ 26:11"
+    },
+    {
+      "description": "Listener survivor of Amy's stalker who came forward after episode 1 and contacted law enforcement",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "she reached out and she has connected with law enforcement and hopefully we will see what we sought out to do, which is more charges for [perpetrator].",
+      "source": "s19-e11-community-catch-up @ 4:27"
+    },
+    {
+      "description": "Third possible victim of Amy's stalker identified from the case file, and other women indicated by named drives found in his home",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "The zip drives would have a first name of a woman and then whore. First name whore. And they found multiple of these. So when I say there's multiple victims, there are multiple victims.",
+      "source": "wcn-presents-amy-s19-updates @ 10:39"
+    },
+    {
+      "description": "Woman in college whose door Amy's stalker put bodily fluids on",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "his parents mentioned that he had an incident in college. He put bodily fluids on a girl's door. No charges were ultimately pressed.",
+      "source": "wcn-presents-amy-s19-updates @ 9:37"
+    },
+    {
+      "description": "Sarah's ex-boyfriend's ex-wife, whom a friend said he hit",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "he has a history of hitting women. He hit his ex-wife.",
+      "source": "s19-e7-23-sarah-run-girl-run @ 24:42"
+    },
+    {
+      "description": "Sarah's friend from Oklahoma whom he threatened by text",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "Like I'm gonna find you and you're gonna pay for this kind of threatening text messages and it got so bad that she finally had to block him.",
+      "source": "s19-e7-23-sarah-run-girl-run @ 7:13"
+    },
+    {
+      "description": "Driver Sarah's ex-boyfriend ran off the road in road rage",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "it was enough aggression that the cops were called, and he ended up having to go back to court in this little town because they wrote him a ticket. Did anything happen? Absolutely not.",
+      "source": "s19-e6-sarah-the-color-left-his-eyes @ 59:18"
+    },
+    {
+      "description": "Five women (including April) who came forward with similar experiences of Sarah's ex-boyfriend, one of whom wrote a victim impact statement",
+      "count_stated": 5,
+      "reached_institution": "yes",
+      "quote": "we were able to get five women total to come forward and say that they had similar occurrences with [perpetrator].",
+      "source": "s19-e8-33-sarah-taking-your-power-back @ 29:57"
+    },
+    {
+      "description": "Woman at a Bolivar hospital who filed a restraining order after he was inappropriate with her",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "he was let go for an incident there because he was inappropriate with a woman. And this was after I had already started going through my court stuff with him, but she ended up filing or restraining order with him.",
+      "source": "s19-e8-33-sarah-taking-your-power-back @ 32:05"
+    },
+    {
+      "description": "Two elderly nursing home residents he beat; he was fired, no charges",
+      "count_stated": 2,
+      "reached_institution": "yes",
+      "quote": "He was working in a nursing home in Rogersville, Missouri, and beat two elderly people so bad one had to get stitches and they just fired him. No charges were pressed.",
+      "source": "s19-e8-33-sarah-taking-your-power-back @ 35:10"
+    },
+    {
+      "description": "Hospital patient he waited for and pulled a gun on",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "And so [perpetrator] waited for him in the parking lot, a patient, and pulled a gun on this guy.",
+      "source": "s19-e8-33-sarah-taking-your-power-back @ 32:05"
+    },
+    {
+      "description": "His young son who watched him beat the family dog",
+      "count_stated": 1,
+      "reached_institution": "no",
+      "quote": "And was this in front of children? Yeah, his son saw all of it.",
+      "source": "s19-e7-23-sarah-run-girl-run @ 39:02"
+    },
+    {
+      "description": "Over 40 women victimized by the Season 14 perpetrator in and around Seattle, including a woman in a decade-long on/off relationship and later coworkers",
+      "count_stated": 40,
+      "reached_institution": "unknown",
+      "quote": "victimized over 40 women in and around the Seattle area.",
+      "source": "s19-e9-wcn-presents-sww-s14-updates-part-1 @ 2:29"
+    },
+    {
+      "description": "Season 14 survivor Sarah (not interviewed in these updates) and 'Mimi', whom the perpetrator cast as 'the abuser'",
+      "count_stated": 2,
+      "reached_institution": "unknown",
+      "quote": "Kailin was the bitter, crazy ex. I was the obsessed stalker. Mimi was the abuser.",
+      "source": "s19-e10-wcn-presents-sww-s14-updates-part-2 @ 22:10"
+    },
+    {
+      "description": "Other doulas defrauded by the fake-pregnancy client (over a dozen gave impact statements; 52 charges)",
+      "count_stated": 12,
+      "reached_institution": "yes",
+      "quote": "[perpetrator] spoke after over a dozen doulas shared that they were traumatized and financially set back by 25-year-old [perpetrator]'s actions",
+      "source": "s19-e11-community-catch-up @ 5:28"
+    },
+    {
+      "description": "Other women Jennifer's first abuser had harmed, known to the church; girls on his mission",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "they had said that they knew there were multiple women who had had experiences like this with him, and that he's wishing that they would come forward.",
+      "source": "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice @ 14:25"
+    },
+    {
+      "description": "Woman charged with failure to protect after her partner murdered their son (Survived and Punished example)",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "Not only was he charged, but she was also charged and that's what you would call like a failure to protect charge.",
+      "source": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing @ 29:59"
+    },
+    {
+      "description": "Others stalked by Lenora's stalker: Ivanka Trump, Kim Kardashian, Gwyneth Paltrow, another woman whose workplace he went to, Tracy Walder; and her boss and husband who received death threats",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "He had been arrested multiple times for stalking her and he jumped bail.",
+      "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 8:23"
+    },
+    {
+      "description": "Harvard security guard assaulted by Lenora's stalker",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "And then the security chased him around and he decked a security guard.",
+      "source": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale @ 20:35"
+    }
+  ],
+  "coder_notes": "All eight chunk files read in full to their stated last lines (s19_06 and s19_08 reading was interrupted by usage limits and resumed exactly where notes.md left off). Season 19 is a stalking season: Amy (e1-e5 plus WCN update), Sarah (e6-e8), two What Came Next season-14 updates (Kaelin, Melissa and their daughters), a community catch-up (host's Dallas hotel incident, Sarah and Amy updates, update on an earlier doula-fraud story), Jennifer Khalifa (e12-e13), Lenora Claire (finale), a Data Points: Racism episode (educational only, no person stories) and a trailer. Perpetrators' names appear on air and in show notes and are replaced with [perpetrator] in quotes. Wherever a quotation contained a perpetrator's name it was replaced with [perpetrator] and nothing else was changed. Season 14 and the earlier doula season were not given to me, so those update records are low confidence. Judgment calls: Amy coded protected though partly_protected is defensible; Jennifer's husband and Emerson coded protected with low confidence; Melissa's outcome is thinly supported; Peggy Klingke is borderline between a record and a bare mention. Unassigned: read INDEX and both Lenora Claire Data Points episodes in full; neither updates her story."
+}

@@ -1,0 +1,2564 @@
+{
+  "season": 9,
+  "coder": "CA",
+  "coder_model": "GPT-6 (Codex)",
+  "reading_log": [
+    {
+      "file": "s09_01.txt",
+      "last_line_number": 122,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s09_02.txt",
+      "last_line_number": 100,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s09_03.txt",
+      "last_line_number": 109,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s09_04.txt",
+      "last_line_number": 113,
+      "read_in_full": true,
+      "problems": "Embedded threat audio in update part 1 is not fully transcribed (28:17 to 31:44); all available text read."
+    },
+    {
+      "file": "s09_05.txt",
+      "last_line_number": 27,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Possible discussion of the season's digital abuse and impersonation; read fully, no season 9 story."
+    },
+    {
+      "slug": "data-points-cons-schemes-fraud",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Possible discussion of the season's identity fraud; read fully, no season 9 story."
+    },
+    {
+      "slug": "data-points-false-reporting-and-its-impact-on-survivors",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Possible discussion of the season's counter-accusations; read fully, no season 9 story."
+    },
+    {
+      "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Possible discussion of the season's coercive control; read fully, no season 9 story."
+    },
+    {
+      "slug": "data-points-stalking-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Possible discussion of the season's stalking; read fully, no season 9 story."
+    },
+    {
+      "slug": "data-points-the-30th-anniversary-of-the-violence-against-women-act-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Possible follow-up on institutional responses; read fully, no season 9 story."
+    },
+    {
+      "slug": "exciting-sww-updates",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Ambiguous updates title; read fully, concerns later season/distribution announcements, not season 9."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Danielle",
+      "role_in_story": "central_survivor",
+      "harm": "Her partner used a fabricated identity, coercive control, financial exploitation, threats against her family and threats to abduct their daughter. After she left, harassment, legal proceedings and disclosure of her private address continued.",
+      "perpetrator_role": "her former partner and the father of her daughter",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e1-psychic-abilities",
+        "s9-e2-perfectly-single",
+        "s9-e3-this-is-bullsht",
+        "s9-e4-were-just-getting-started",
+        "s9-e5-fabricated",
+        "s9-e6-what-the-fck-just-happened",
+        "s9-e7-treasure-hunt",
+        "s9-e8-trapped",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "protecting_others",
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "I didn't see a way out safely or peacefully. And so I stayed.",
+            "source": "s9-e3-this-is-bullsht @ 18:47"
+          },
+          {
+            "reason": "protecting_others",
+            "quote": "I had thought about running away with her and just disappearing, but then I thought, this is a man who knows where my parents live and my half siblings are there, and I wasn't sure if he was capable of showing up with a gun. I mean, he'd been in the military told me he had no problem hitting women constantly. So what was going to stop him from showing up at my parents place and trying to fight my father.",
+            "source": "s9-e3-this-is-bullsht @ 18:47"
+          },
+          {
+            "reason": "earlier_disbelief",
+            "quote": "And the reason I held off on doing that was because the custody hearing would be in front of the exact same judge that denied my restraining order. I did not want to risk her giving him any type of custody.",
+            "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 24:07"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "couples therapist",
+          "initiated_by": "person",
+          "when": "before her July 2013 move",
+          "what_was_asked": "Help repair the relationship after discovering infidelity.",
+          "what_institution_did": "Provided a few couples-therapy sessions; the story gives no abuse-specific intervention or response.",
+          "quote": "Feeling that they could work through this, Danielle got already to agree to attend couples therapy. That was a big deal because it was completely against going to a therapist. We did go to a few sessions, but ultimately we ended up stopping because I had gotten a promotion and I had to move to San Diego.",
+          "source": "s9-e2-perfectly-single @ 5:22",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Sessions stopped with the move; deception and control continued.",
+          "notes": "The therapy concerns the relationship harm; routine pregnancy and pediatric visits are excluded because disclosure of abuse at those appointments is not shown."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "detective investigating the alleged carjacking",
+          "initiated_by": "institution",
+          "when": "when her daughter was about six months old",
+          "what_was_asked": "The detective initiated contact and warned her of possible fraud.",
+          "what_institution_did": "Identified discrepancies in the partner's identity and offered her help.",
+          "quote": "And the detective listen judging my reaction to some of my questions I feel like you might be a victim of fraud and if you need help you can call me.",
+          "source": "s9-e3-this-is-bullsht @ 2:07",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She ended the call and confronted her partner, who persuaded her to move on.",
+          "notes": "The police investigated his report, not a completed prosecution of her abuse."
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "her therapist",
+          "initiated_by": "person",
+          "when": "before she left, including 2020",
+          "what_was_asked": "Help her cope and remain safe/sane while she feared leaving.",
+          "what_institution_did": "Heard her explanation that she felt trapped; the transcript does not describe a specific protective intervention at this stage.",
+          "quote": "And instead, I used my therapist and I said, I just have to stay sane until there's a breaking point, until something happens.",
+          "source": "s9-e3-this-is-bullsht @ 18:47",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She stayed until other survivors and her family helped her leave.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "employer_or_hr",
+          "institution": "her new employer / boss",
+          "initiated_by": "person",
+          "when": "July 2, 2020",
+          "what_was_asked": "Flexibility and reassurance that retaliatory contact would not cost her job.",
+          "what_institution_did": "Her boss responded supportively when she disclosed the situation.",
+          "quote": "So I called her and I was just like, please don't fire me. I know I've only been on the job for three weeks. And she was really, really great.",
+          "source": "s9-e6-what-the-fck-just-happened @ 20:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She continued planning her exit.",
+          "notes": "The precise accommodations and an actual retaliatory complaint to this employer are not specified."
+        },
+        {
+          "n": 5,
+          "institution_type": "other",
+          "institution": "private security hired by her family",
+          "initiated_by": "family_or_friends",
+          "when": "July 2, 2020",
+          "what_was_asked": "Protect her and her family while she left and collected her possessions.",
+          "what_institution_did": "Provided security at the family home and accompanied the removal of weapons and pets from the apartment.",
+          "quote": "So the security guy follows me to our apartment with my dad and basically stands out, I'd watching in Casey somehow shows up. So I got the rifles out, all the ammunition, he had like bow and arrows that he had picked up as a hobby for a total of like two months, but I just basically wanted any sort of weapon out of that house. I also got my two cats.",
+          "source": "s9-e6-what-the-fck-just-happened @ 24:01",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She stayed with family and changed her devices and passwords.",
+          "notes": "Private security is an organisation hired to respond to the threats; it did more than receive a report."
+        },
+        {
+          "n": 6,
+          "institution_type": "other",
+          "institution": "private security at the family home",
+          "initiated_by": "family_or_friends",
+          "when": "late July 3, 2020",
+          "what_was_asked": "Keep the threatening former partner away from the family.",
+          "what_institution_did": "The guard was asleep and did not notice him approach the door.",
+          "quote": "And it turns out she'd actually fall on a sleep. And she didn't notice because he didn't even drive his car. He was being sneaky and parked around the corner and basically snuck up.",
+          "source": "s9-e6-what-the-fck-just-happened @ 33:21",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Her father closed the chained door; the partner left as they tried to call police.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "police",
+          "institution": "local law enforcement",
+          "initiated_by": "family_or_friends",
+          "when": "early July 2020",
+          "what_was_asked": "Protection after the attempted entry and threats against the family.",
+          "what_institution_did": "Issued an emergency protective order.",
+          "quote": "The police issued an emergency protective order, but I still need to deserve him with it.",
+          "source": "s9-e6-what-the-fck-just-happened @ 33:21",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She still needed to serve the order and sought a longer court order.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "court",
+          "institution": "restraining-order court",
+          "initiated_by": "person",
+          "when": "first hearing scheduled July 21, 2020, followed by continuances",
+          "what_was_asked": "A permanent restraining order, preferably three years.",
+          "what_institution_did": "Allowed the respondent time to review evidence and continued the hearing several times.",
+          "quote": "After checking into court, Danielle's lawyer gave already copies of all the evidence that would be presented, already then requested a continuance in order to review the evidence.",
+          "source": "s9-e7-treasure-hunt @ 30:58",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The eventual hearing ended in denial.",
+          "notes": "Continuance is recorded separately from the later substantive decision."
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "restraining-order judge",
+          "initiated_by": "person",
+          "when": "after the 2020 continuances",
+          "what_was_asked": "A permanent order protecting her and her daughter.",
+          "what_institution_did": "Rejected her credibility, criticised her not leaving or removing guns sooner, and denied the order.",
+          "quote": "So she saw this as me being non-credible and she said she didn't find my testimony credible not just because she saw me reading from my notes but because if I had really felt threatened I would have left the first time he made a threat",
+          "source": "s9-e7-treasure-hunt @ 32:59",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "She remained afraid, changed lawyers and tried public exposure instead.",
+          "notes": "The quoted reasoning also blames the victim; the denial left her without the protection sought."
+        },
+        {
+          "n": 10,
+          "institution_type": "other",
+          "institution": "her new lawyer",
+          "initiated_by": "person",
+          "when": "2020, before the website",
+          "what_was_asked": "Legal help and a way to expose the false identity.",
+          "what_institution_did": "Advised creating a factual website using public court records.",
+          "quote": "So she also suggested a website and I was like, could that be considered slander? She said, well, as long as you don't post private information and you're only posting facts, you're good. You can even post the domestic violence cases because they're public records.",
+          "source": "s9-e8-trapped @ 14:00",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Danielle created the site; it helped later survivors find her.",
+          "notes": "Legal advice is recorded as a concrete step, not as a court ruling or full protection."
+        },
+        {
+          "n": 11,
+          "institution_type": "platform",
+          "institution": "website host: privacy/customer-service and legal teams",
+          "initiated_by": "person",
+          "when": "after the website was created in 2020",
+          "what_was_asked": "Find out why her address and phone number were disclosed and correct the safety breach.",
+          "what_institution_did": "Initially denied sharing private data, then acknowledged acting on a purported subpoena and supplied it.",
+          "quote": "And they were like, well, actually, we had a subpoena. And I said, a subpoena, I was like, can you please show me what this subpoena was? So they sent it to me.",
+          "source": "s9-e8-trapped @ 18:13",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Her lawyer considered the subpoena deficient; the disclosure had already exposed her location.",
+          "notes": "Disclosure itself is an institutional harm. No finding of a valid subpoena is assumed from the host's account."
+        },
+        {
+          "n": 12,
+          "institution_type": "platform",
+          "institution": "website host: chief counsel and CEO",
+          "initiated_by": "person",
+          "when": "after the disclosure",
+          "what_was_asked": "An explanation and accountability for releasing her private details to the abuser.",
+          "what_institution_did": "Did not respond to her escalated complaint.",
+          "quote": "I did not get a response back from them.",
+          "source": "s9-e8-trapped @ 22:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "She considered moving and instead added security precautions.",
+          "notes": "The complaint email is read on air; it is a document, regardless of who authored it."
+        },
+        {
+          "n": 13,
+          "institution_type": "medical_or_therapy",
+          "institution": "her therapist",
+          "initiated_by": "person",
+          "when": "after the 2020 address disclosure",
+          "what_was_asked": "Help assess danger and cope with continued threats.",
+          "what_institution_did": "Heard her concerns and shared her view that escalation remained possible; no further safety intervention is described.",
+          "quote": "I talked to my therapist about this. I still think he's fully capable of escalation. I think he's fully capable of killing somebody. And so does my therapist.",
+          "source": "s9-e8-trapped @ 23:17",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She continued security precautions and remained fearful.",
+          "notes": ""
+        },
+        {
+          "n": 14,
+          "institution_type": "court",
+          "institution": "custody court handling the former partner's case",
+          "initiated_by": "third_party",
+          "when": "2021",
+          "what_was_asked": "Resolve custody; she initially avoided appearing because she feared this judge.",
+          "what_institution_did": "Repeatedly continued the case because he had not served her.",
+          "quote": "He would just show up and it was like, nope, I haven't served her yet. So they'd set another date.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 27:16",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She filed in another courthouse and attempted service herself.",
+          "notes": " The complaint/application was initiated by the accused or an associate, coded third_party relative to the person harmed."
+        },
+        {
+          "n": 15,
+          "institution_type": "other",
+          "institution": "private investigator hired to locate the father",
+          "initiated_by": "person",
+          "when": "2021",
+          "what_was_asked": "Locate an address so he could be served in custody proceedings.",
+          "what_institution_did": "Tried to locate him but could not find an address.",
+          "quote": "I had to hire a private investigator to track him down to serve him. We could not locate an address for him or the woman he was seeing.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 43:01",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The court ultimately permitted service by publication.",
+          "notes": ""
+        },
+        {
+          "n": 16,
+          "institution_type": "court",
+          "institution": "second L.A. County custody courthouse",
+          "initiated_by": "person",
+          "when": "end of 2021",
+          "what_was_asked": "Proceed with custody despite inability to locate him.",
+          "what_institution_did": "Allowed service by publication, then required mediation and continued proceedings.",
+          "quote": "ultimately I was allowed to serve him by publication. You actually put a publication in the newspaper.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 43:01",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The original judge combined the cases and made hers the lead case.",
+          "notes": "Permission to serve by publication is a distinct concrete step."
+        },
+        {
+          "n": 17,
+          "institution_type": "court",
+          "institution": "combined custody cases / original judge",
+          "initiated_by": "institution",
+          "when": "2021",
+          "what_was_asked": "Proceed in the alternative courthouse and resolve custody.",
+          "what_institution_did": "Combined the cases under the original judge, defeating the attempted change of courtroom.",
+          "quote": "And so she combines the cases and makes hers the lead case. So despite all of the effort, To get it out of that courtroom, it winds up with her again.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 44:01",
+          "response": "unclear",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Danielle returned before the same judge.",
+          "notes": "A procedural consolidation is not itself coded as proof of concealment or institutional self-protection."
+        },
+        {
+          "n": 18,
+          "institution_type": "court",
+          "institution": "custody judge",
+          "initiated_by": "person",
+          "when": "fall / end of 2021",
+          "what_was_asked": "A full psychological and home-environment evaluation of both parties.",
+          "what_institution_did": "Ordered the full evaluation and split its cost.",
+          "quote": "I asked for a full mental evaluation, and she agreed. I asked for the full mental evaluation of both parties.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 45:02",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He refused to cooperate when he learned his share would be about $3,500.",
+          "notes": "The full evaluation was ordered, not shown completed; the cost-sharing direction is given in the next paragraph."
+        },
+        {
+          "n": 19,
+          "institution_type": "court",
+          "institution": "custody judge",
+          "initiated_by": "person",
+          "when": "April or May 2022",
+          "what_was_asked": "Compel basic paperwork and compensate the cost of bringing him back to court.",
+          "what_institution_did": "Directed him to complete paperwork and awarded her $2,500 in lawyer's fees.",
+          "quote": "And of course, the judge says, you've got to fill out this basic paperwork. And the judge winds up awarding me $2,500 to cover the lawyer's fee for having to take him to court to tell him to do what he's supposed to do.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 5:17",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "He offered to negotiate; custody terms were discussed.",
+          "notes": "This is an award, not evidence that money was paid or that custody was already settled."
+        },
+        {
+          "n": 20,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "person",
+          "when": "after June 2022",
+          "what_was_asked": "Approve the negotiated custody agreement.",
+          "what_institution_did": "Rejected a clause allowing him to sue her as inappropriate to a custody agreement and requested re-signing.",
+          "quote": "It wound up getting to the court and they kicked it back because they were like this line about him suing you doesn't belong in a custody agreement. They said, you need to take this out and re-sign it. So of course, he refused to resign it.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 16:42",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "They waited for the October court date.",
+          "notes": ""
+        },
+        {
+          "n": 21,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "person",
+          "when": "October 2022",
+          "what_was_asked": "Resubmit the agreement despite his refusal to re-sign and absence.",
+          "what_institution_did": "Allowed resubmission without his signature.",
+          "quote": "But on the call, the court agrees to basically let us resubmit without his signature, which is a win for us. And so we're able to move forward with the custody.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 28:04",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "A signed order followed in February, as described in the update.",
+          "notes": ""
+        },
+        {
+          "n": 22,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "person",
+          "when": "February, the month before the update; after two years of proceedings",
+          "what_was_asked": "Full physical and legal custody, zero visitation, and protection from obstruction of a future adoption.",
+          "what_institution_did": "Entered the custody order and added obligations to sign adoption paperwork, supply an email for notice, or bear tracing costs.",
+          "quote": "They said that he must sign any paperwork related to an adoption and that if he does not give me an email address to notify him, that he waives his right for notification. And if I have to hire a private investigator to locate him in order to do whatever is necessary for this, that he must reimburse me for those expenses.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 33:14",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "She reports full custody with zero visitation and relief from the risk of him collecting the child.",
+          "notes": "The year is inferred as 2023 from the update's sequence; the episode gives February and a two-year duration."
+        },
+        {
+          "n": 23,
+          "institution_type": "police",
+          "institution": "detective who handled the alleged carjacking",
+          "initiated_by": "journalist_or_podcast",
+          "when": "by the final update; exact timing not stated",
+          "what_was_asked": "The host asked about stopping the pattern of exploitation.",
+          "what_institution_did": "Said he wished he could act but described the perpetrator exploiting protections in the system; no enforcement is reported.",
+          "quote": "I spoke with him and he's like, I wish I could get this guy. Unfortunately, he's one of those people that uses the things in the system that are created to actually protect domestic violence victims. He's used them to exploit the system.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 38:22",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "institution_statement",
+            "second_witness"
+          ],
+          "what_happened_next": "No prosecution is reported.",
+          "notes": "Contact is recounted by the host; its exact chronological position among the later custody events is not stated. It is placed last as reported in the update, not asserted to have occurred after the order."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "and that is that I have custody of my daughter. He gets zero visitation. He has no rights.",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 37:19",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "I was getting really forceful with my lawyer. I was like, enough with his games. Get this signed.",
+      "decisive_work_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 16:42",
+      "time_to_first_effective_action": "Private security first assisted her July 2020 exit; the final custody order came after two years of custody proceedings.",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "Final protection is the custody order, not a conviction or the fact that she left. Earlier judicial disbelief and the website host disclosure remain institutional harms. No criminal conviction is reported. The episode describes zero visitation; the precise legal scope of the order is not independently inferred."
+    },
+    {
+      "person_id": "P02",
+      "name": "Carrie",
+      "role_in_story": "child",
+      "harm": "Her father spanked and screamed at her, threatened to abduct her and used access to her to control her mother. Her mother feared that he would collect her from school and disappear.",
+      "perpetrator_role": "her father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e2-perfectly-single",
+        "s9-e3-this-is-bullsht",
+        "s9-e6-what-the-fck-just-happened",
+        "s9-e7-treasure-hunt",
+        "s9-e8-trapped",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "I had thought about running away with her and just disappearing, but then I thought, this is a man who knows where my parents live and my half siblings are there, and I wasn't sure if he was capable of showing up with a gun. I mean, he'd been in the military told me he had no problem hitting women constantly. So what was going to stop him from showing up at my parents place and trying to fight my father.",
+            "source": "s9-e3-this-is-bullsht @ 18:47"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local law enforcement",
+          "initiated_by": "family_or_friends",
+          "when": "early July 2020",
+          "what_was_asked": "Protection from threats and abduction.",
+          "what_institution_did": "Granted her and her mother emergency protection.",
+          "quote": "Daniella and her daughter were granted an emergency order of protection by law enforcement in early July.",
+          "source": "s9-e7-treasure-hunt @ 28:55",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "A permanent order required a hearing.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "restraining-order judge",
+          "initiated_by": "family_or_friends",
+          "when": "2020",
+          "what_was_asked": "A permanent protective order against her father.",
+          "what_institution_did": "Denied the mother's request despite the abduction concern.",
+          "quote": "I didn't get a restraining order against him. She dismissed it.",
+          "source": "s9-e7-treasure-hunt @ 34:02",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Her mother relied on family, security precautions and later custody proceedings.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "platform",
+          "institution": "her mother's website host",
+          "initiated_by": "family_or_friends",
+          "when": "2020",
+          "what_was_asked": "Protect private contact/location information.",
+          "what_institution_did": "Disclosed billing data to the father, exposing the mother and daughter's safety.",
+          "quote": "So you guys handed over my private information to a known abuser who sent a legally deficient subpoena. And I cannot stress enough the damage this has caused to me and my daughter's physical safety and emotional well-being.",
+          "source": "s9-e8-trapped @ 21:14",
+          "response": "unclear",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Her mother complained and added security precautions.",
+          "notes": "The host did not provide a protective response; the institutional disclosure itself is the harm. Its motive is not established, so protected_itself is not inferred."
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "family_or_friends",
+          "when": "end of 2021",
+          "what_was_asked": "Resolve custody with safeguards.",
+          "what_institution_did": "Ordered a full evaluation of both parents and the home environments; it stalled over the father's refusal to pay.",
+          "quote": "Once he finds out it's 3,500, he loses his shit and refuses to do anything. Now, it's the end of 2021, and we have to wait to go back to court on this. So there's no resolution.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 46:04",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Further negotiations and court hearings followed.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "family_or_friends",
+          "when": "after June 2022",
+          "what_was_asked": "Approve the custody settlement.",
+          "what_institution_did": "Returned the agreement because the father's proposed lawsuit clause did not belong in it.",
+          "quote": "It wound up getting to the court and they kicked it back because they were like this line about him suing you doesn't belong in a custody agreement. They said, you need to take this out and re-sign it. So of course, he refused to resign it.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 16:42",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The dispute continued to October.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "family_or_friends",
+          "when": "October 2022",
+          "what_was_asked": "Proceed despite refusal to sign.",
+          "what_institution_did": "Allowed resubmission without his signature.",
+          "quote": "But on the call, the court agrees to basically let us resubmit without his signature, which is a win for us. And so we're able to move forward with the custody.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 28:04",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "The final signed order followed.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "custody court",
+          "initiated_by": "family_or_friends",
+          "when": "February by the final update",
+          "what_was_asked": "Sole maternal custody and no paternal visitation.",
+          "what_institution_did": "Issued the order and strengthened provisions preventing obstruction of adoption.",
+          "quote": "and that is that I have custody of my daughter. He gets zero visitation. He has no rights.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 37:19",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "The mother describes her daughter as safe from unregulated collection and able to obtain a passport.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "It was always risky. So it makes me feel great about that. great that I could get her a passport if I want to. I don't have these hurdles. I don't have to do with this stuff anymore.",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 34:16",
+      "protection_contributors": [
+        "family_or_friends",
+        "other_victims",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "I was getting really forceful with my lawyer. I was like, enough with his games. Get this signed.",
+      "decisive_work_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 16:42",
+      "time_to_first_effective_action": "After two years of custody proceedings.",
+      "months_to_first_effective_action": 24,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "Also transcribed as Kerry, Carey or similar. The final custody account gives her mother full legal/physical custody and zero visitation for the father. Routine emergency delivery and pediatric care do not count as responses to this abuse."
+    },
+    {
+      "person_id": "P03",
+      "name": "Kenji (harassment and retaliation)",
+      "role_in_story": "central_survivor",
+      "harm": "His ex-wife's partner threatened him and his children, attempted extortion and workplace retaliation, pursued restraining orders and accusations, and hacked a social account.",
+      "perpetrator_role": "his ex-wife's partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e3-this-is-bullsht",
+        "s9-e4-were-just-getting-started",
+        "s9-e5-fabricated",
+        "s9-e6-what-the-fck-just-happened",
+        "s9-e7-treasure-hunt",
+        "s9-e8-trapped",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "abuser_status_or_connections",
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "abuser_status_or_connections",
+            "quote": "If he really does have friends with the police or military friends, and he wants to come after me, he can do it. So I was concerned.",
+            "source": "s9-e4-were-just-getting-started @ 33:56"
+          },
+          {
+            "reason": "fear_of_abuser",
+            "quote": "So I felt kind of stuck at that point. I wasn't sure what to do.",
+            "source": "s9-e4-were-just-getting-started @ 34:58"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "person",
+          "when": "January 26, 2020, about 2 a.m.",
+          "what_was_asked": "Remove or stop the allegedly armed man at his home and protect him and the children.",
+          "what_institution_did": "Arrived after the man left and said no action was available because no entry or vandalism occurred.",
+          "quote": "break into your property, he didn't vandalize anything, he basically didn't do anything so there's nothing we can do but I will keep an eye out from blah blah blah and that was that.",
+          "source": "s9-e4-were-just-getting-started @ 31:47",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He received more harassing texts afterwards.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "his therapist",
+          "initiated_by": "person",
+          "when": "after January 26, 2020",
+          "what_was_asked": "Help respond to threats and harassment.",
+          "what_institution_did": "Suggested applying for a restraining order.",
+          "quote": "After this text exchange with [perpetrator], Kenji's therapist and close friends began suggesting that he should file for a restraining order of protection against [perpetrator].",
+          "source": "s9-e4-were-just-getting-started @ 33:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He delayed filing because of fears about money and connections.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "other",
+          "institution": "community crime-watch organiser and law-enforcement contacts",
+          "initiated_by": "person",
+          "when": "March 2020",
+          "what_was_asked": "Find out the threatening man's identity.",
+          "what_institution_did": "The volunteer sought police contacts and established that the car was registered to Danielle.",
+          "quote": "So he reached out to some of his law enforcement connections. We got a link to somebody who we believed was his biological father but still to this day we haven't confirmed it. And then the last piece of evidence that [community volunteer] was able to confirm for me was that his red **** it wasn't registered to him. It was registered to Danielle, his supposed ex-fiancé.",
+          "source": "s9-e5-fabricated @ 15:26",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The information reached Darcy; the partner escalated threats.",
+          "notes": "This is a community safety group and law-enforcement-assisted enquiry, not an assertion of a formal police investigation."
+        },
+        {
+          "n": 4,
+          "institution_type": "other",
+          "institution": "private investigator",
+          "initiated_by": "person",
+          "when": "spring 2020",
+          "what_was_asked": "Investigate identity and danger to his family.",
+          "what_institution_did": "Delivered a report finding a fabricated identity, few assets, suspect social-security details and other restraining-order cases.",
+          "quote": "And a few days later, they sent me a report of what they had found. They found out that [perpetrator]'s name was pretty much fake. I mean there was no record of it before 2009, 2010. The identity just kind of appears out of nowhere.",
+          "source": "s9-e5-fabricated @ 33:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He shared the findings with friends and family but lacked an intervention stopping the harassment.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "employer_or_hr",
+          "institution": "his employer: compliance director and legal team",
+          "initiated_by": "third_party",
+          "when": "June 18–19, 2020",
+          "what_was_asked": "Investigate the accusation that he misused the company database.",
+          "what_institution_did": "Met him, disclosed the complaint and heard his explanation of the abuse.",
+          "quote": "basically told me that [perpetrator] had filed a complaint stating that I'd used our company's database to look up personal information about him and his friends.",
+          "source": "s9-e5-fabricated @ 46:14",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The investigation continued.",
+          "notes": "The next contact records the later result; receiving an allegation is not itself equated with believing it. The complaint/application was initiated by the accused or an associate, coded third_party relative to the person harmed."
+        },
+        {
+          "n": 6,
+          "institution_type": "employer_or_hr",
+          "institution": "his employer: compliance director and legal team",
+          "initiated_by": "institution",
+          "when": "a couple of weeks after the June 2020 meeting",
+          "what_was_asked": "Resolve the retaliatory accusation fairly and preserve his employment.",
+          "what_institution_did": "Found no evidence he searched for the complainant's information and cleared him.",
+          "quote": "I was basically cleared of any wrongdoing in the investigation.",
+          "source": "s9-e5-fabricated @ 47:16",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He kept his job; harassment continued.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "police",
+          "institution": "detective handling the battery complaint",
+          "initiated_by": "third_party",
+          "when": "a few months after April 4, 2020; before the October hearing",
+          "what_was_asked": "Understand the allegation and what to do.",
+          "what_institution_did": "Notified him of the complaint, heard his account and advised checking whether charges were actually filed.",
+          "quote": "So, your arrangement dates in October. I wouldn't really lose sleep over this until then. And then the day before your Arraignment hearing, call the court and see if any of the charges have actually been filed.",
+          "source": "s9-e5-fabricated @ 25:41",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He checked in October; the complainant had not filed the necessary material.",
+          "notes": "Kenji describes a charge notification but also says no formal filing followed; do not infer a conviction, an arrest or a completed prosecution. The complaint/application was initiated by the accused or an associate, coded third_party relative to the person harmed."
+        },
+        {
+          "n": 8,
+          "institution_type": "court",
+          "institution": "restraining-order court",
+          "initiated_by": "person",
+          "when": "September 2020",
+          "what_was_asked": "A temporary order based on months of threats and harassment.",
+          "what_institution_did": "Denied his temporary request; he says the reason was not given.",
+          "quote": "For some reason, the judge denies my temporary restraining order. I don't know why.",
+          "source": "s9-e8-trapped @ 9:54",
+          "response": "unclear",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Harassment continued and he later filed again.",
+          "notes": "No motive for the denial is inferred."
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "court handling the battery allegation",
+          "initiated_by": "person",
+          "when": "October 2020",
+          "what_was_asked": "Resolve the complaint against him.",
+          "what_institution_did": "Confirmed no filing and stamped proof of appearance.",
+          "quote": "October comes around, I call the court. She hadn't filed anything the day before the hearing, so I go to the courthouse the next day and they just sign off and say, okay, she hasn't filed anything and here's your proof of appearance stamp, go on your way.",
+          "source": "s9-e5-fabricated @ 26:44",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "No battery case proceeded as described; extortion did not produce the demanded payment.",
+          "notes": ""
+        },
+        {
+          "n": 10,
+          "institution_type": "platform",
+          "institution": "unnamed social-media company",
+          "initiated_by": "person",
+          "when": "early December 2020",
+          "what_was_asked": "Regain control of his hacked account and remove defamatory content.",
+          "what_institution_did": "Required a lengthy identity-verification process before releasing the account back to him.",
+          "quote": "So I had to go through this lengthy process with the company to prove my identity to them so they could release the account back to me and then clean up all the mess he had made on it.",
+          "source": "s9-e8-trapped @ 33:36",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He recovered access and cleaned up the account.",
+          "notes": "No claim is made that the platform identified or sanctioned the hacker."
+        },
+        {
+          "n": 11,
+          "institution_type": "police",
+          "institution": "detective also working with Danielle",
+          "initiated_by": "person",
+          "when": "December 2020",
+          "what_was_asked": "Act on the account hacking.",
+          "what_institution_did": "Declined to investigate, citing proof difficulties and the low-level charge even with proof.",
+          "quote": "And he pretty much admitted well, there's not much he can do because first of all, you'd have to prove that he was the one who actually hacked into your account. And even if I could provide all the proof necessary, I mean, it would just end up being a misdemeanor charge, which would result in pretty much a slap on [perpetrator] wrist. And he was basically saying the police department wasn't gonna have a detective go and investigate all this just for a misdemeanor, which made sense to me,",
+          "source": "s9-e8-trapped @ 34:40",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He remained frustrated and exposed to further harassment.",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "other",
+          "institution": "his lawyer",
+          "initiated_by": "person",
+          "when": "after Christmas 2020",
+          "what_was_asked": "Defend against the new restraining-order application.",
+          "what_institution_did": "Advised a counter-application; he organised witnesses and evidence.",
+          "quote": "when I tell my lawyer about this, and she suggests that we file a restraining order in response because, yeah, this is bullshit. He's going to drag me to court over again another set of false accusations and",
+          "source": "s9-e9-hes-escalated @ 7:43",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "A combined hearing took place in February.",
+          "notes": ""
+        },
+        {
+          "n": 13,
+          "institution_type": "court",
+          "institution": "judge at combined restraining-order hearing",
+          "initiated_by": "person",
+          "when": "February 18, 2021",
+          "what_was_asked": "Dismiss the accusation against him.",
+          "what_institution_did": "Rejected the partner's evidence and denied his request against Kenji.",
+          "quote": "first of all, she denies his restraining order against me saying she doesn't find any credibility to his claims that I've harassed him or done anything to threaten him.",
+          "source": "s9-e9-hes-escalated @ 17:04",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Kenji then received a ruling on his own request.",
+          "notes": ""
+        },
+        {
+          "n": 14,
+          "institution_type": "court",
+          "institution": "same judge at combined hearing",
+          "initiated_by": "person",
+          "when": "February 18, 2021",
+          "what_was_asked": "Obtain his own protective order.",
+          "what_institution_did": "Denied it, doubting the completeness of his text evidence and Darcy's credibility.",
+          "quote": "By then, she turns around and makes a ruling on my restraining order, and she denies my restraining order also. When we asked for an explanation, she basically says that she wasn't sure if my testimony was 100% credible. She felt like I had left out some context and some of the text messages I had attached, which wasn't true, by the way.",
+          "source": "s9-e9-hes-escalated @ 17:04",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "He focused on keeping the children away from the partner through co-parenting arrangements.",
+          "notes": "No later protective order for Kenji is reported."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "I was basically cleared of any wrongdoing in the investigation.",
+      "outcome_source": "s9-e5-fabricated @ 47:16",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "I was basically cleared of any wrongdoing in the investigation.",
+      "decisive_work_source": "s9-e5-fabricated @ 47:16",
+      "time_to_first_effective_action": "Employer cleared him a couple of weeks after the June 2020 interview; earlier enquiries had not stopped the harassment.",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "Employer investigation cleared him and the battery complaint did not proceed, but he did not receive the restraining order he sought. Later updates do not establish that all harassment stopped. Outcome is partial, reflecting those discrete protections, not a claim that the abuser was stopped. Exact date of the later battery-complaint call is unspecified; it is placed near the October court outcome."
+    },
+    {
+      "person_id": "P04",
+      "name": "Kenji (marital harm)",
+      "role_in_story": "central_survivor",
+      "harm": "His wife's abrupt departure, deception, coercive arguments and physical struggle over his keys caused sustained distress; later co-parenting conflict continued.",
+      "perpetrator_role": "his wife / later ex-wife",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e3-this-is-bullsht",
+        "s9-e4-were-just-getting-started",
+        "s9-e5-fabricated",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "Partially because I was afraid to. I'm the type of person, I don't usually lean on people when I have a problem. I don't know if that's just my upbringing or part of being a guy, but guys don't really, our generation were raised to be tough. You don't talk about your feelings. You don't cry. You don't do this. You don't do that. You kind of suck it up and move forward.",
+            "source": "s9-e3-this-is-bullsht @ 38:18"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "marriage and family therapist",
+          "initiated_by": "person",
+          "when": "week after Thanksgiving 2019",
+          "what_was_asked": "Repair the marriage and cope with the crisis.",
+          "what_institution_did": "Provided joint counselling and encouraged him to seek support from friends and family.",
+          "quote": "The therapist told me it was really important for me to kind of like Go lean on my friends family anybody I could and kind of get that support",
+          "source": "s9-e4-were-just-getting-started @ 3:11",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He sought support; the separation continued.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "same therapist",
+          "initiated_by": "person",
+          "when": "second joint session, late 2019",
+          "what_was_asked": "A further attempt to discuss the relationship.",
+          "what_institution_did": "Ended the unproductive call with his wife and recognised possible coaching by the other man.",
+          "quote": "because she's not giving us anything to work with and not really cooperating. And the first thing my therapist says to me was like, I think someone was in the background on that phone call.",
+          "source": "s9-e4-were-just-getting-started @ 8:09",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He continued individual weekly therapy; no reconciliation or protection from the marital harm is described.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "his individual therapist",
+          "initiated_by": "person",
+          "when": "weekly through the events",
+          "what_was_asked": "Emotional support.",
+          "what_institution_did": "Provided continuing support; he calls her a rock.",
+          "quote": "And I have a therapist too. She's been like a rock for me through this whole situation as of July when I had gotten contact with her.",
+          "source": "s9-e9-hes-escalated @ 31:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He retained anxiety about calls and the children's safety.",
+          "notes": "Support and coping help are not automatically coded as institutional protection from the underlying harm."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I do feel like she's this toxic piece of my life that I have to kind of just manage and deal with now. She's very manipulative, she's like already in some ways where she likes to play the victim and turn things around and paint me as the bad guy. It's just no fun to deal with someone like that. She doesn't have to be nice to me, but I just want her to get better.",
+      "outcome_source": "s9-e9-hes-escalated @ 20:11",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Separate from the record of the other man's harassment. Infidelity alone is not treated as a crime; this record follows the narrated manipulation, threats, physical struggle and distress. Co-parenting mediation addressed the children, not a demonstrated end to her treatment of him."
+    },
+    {
+      "person_id": "P05",
+      "name": "Darcy",
+      "role_in_story": "co_victim",
+      "harm": "Her partner used threats, control of devices and contacts, financial extortion, assaults including choking, damage/theft of property and retaliatory legal action. Her employer dismissed her after he repeated her private complaints about work.",
+      "perpetrator_role": "her partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e3-this-is-bullsht",
+        "s9-e4-were-just-getting-started",
+        "s9-e5-fabricated",
+        "s9-e6-what-the-fck-just-happened",
+        "s9-e7-treasure-hunt",
+        "s9-e8-trapped",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "abuser_status_or_connections",
+          "protecting_others",
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "abuser_status_or_connections",
+            "quote": "He said he could do whatever he wanted and get away with it because all the judges were friends of his and also because money gets you anything, insinuating he would pay off anyone it takes.",
+            "source": "s9-e5-fabricated @ 44:14"
+          },
+          {
+            "reason": "protecting_others",
+            "quote": "So she felt like staying in a situation was her way of protecting me,",
+            "source": "s9-e8-trapped @ 11:56"
+          },
+          {
+            "reason": "earlier_disbelief",
+            "quote": "I don't know what to do. The police don't want to help me. They're useless.",
+            "source": "s9-e8-trapped @ 11:56"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "sheriff's station",
+          "initiated_by": "third_party",
+          "when": "March 2, 2020",
+          "what_was_asked": "Her partner reported that she assaulted him during a fight over her phone.",
+          "what_institution_did": "Received his report; he sent her a photograph of it.",
+          "quote": "He did go to the police and file a report, which she showed me. He texted her a picture of him at the police station holding the police report.",
+          "source": "s9-e5-fabricated @ 8:16",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She feared arrest but no arrest that night is described.",
+          "notes": "The partner initiated this; the schema has no perpetrator option, so institution denotes police receipt and is qualified here. Receipt is not evidence that the police accepted his version."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "911 / local police",
+          "initiated_by": "person",
+          "when": "April 4, 2020",
+          "what_was_asked": "Help after he threatened to shoot her and chased her with his car.",
+          "what_institution_did": "A 911 call is documented in her application; the response is not described.",
+          "quote": "Earlier in the day he threatened to shoot me. I feared for my life and I called 911.",
+          "source": "s9-e5-fabricated @ 44:14",
+          "response": "unclear",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Further threats and physical violence followed.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "restraining-order court",
+          "initiated_by": "third_party",
+          "when": "April 2020",
+          "what_was_asked": "Her partner sought an order against her.",
+          "what_institution_did": "Granted him a temporary order, as Kenji recounts.",
+          "quote": "Somehow, [perpetrator] was able to get a temporary restraining order granted against Darcy back in April with pretty much no evidence.",
+          "source": "s9-e8-trapped @ 9:54",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "The reciprocal order became a means of control.",
+          "notes": "Initiated by the partner; the accused is coded as third_party relative to the person harmed. Kenji's assessment of the evidence is not an independent court finding."
+        },
+        {
+          "n": 4,
+          "institution_type": "other",
+          "institution": "recipient of stolen-phone report (not identified)",
+          "initiated_by": "family_or_friends",
+          "when": "May 2020",
+          "what_was_asked": "Report the phone taken by the partner and prevent access to accounts.",
+          "what_institution_did": "A stolen-phone report was made; the recipient and its own response are not specified.",
+          "quote": "We reported her old phone stolen because I was concerned that [perpetrator] was going to use her old phone to Simiswapper, which is a technique to circumvent two-factor authentication so that he could get into her social media accounts, bank accounts, anything sensitive like that.",
+          "source": "s9-e5-fabricated @ 32:55",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Kenji helped her obtain a replacement phone; she resumed contact with the partner.",
+          "notes": "The transcript does not identify police versus provider receipt. Do not infer a police investigation or attribute the replacement-phone transaction to that recipient."
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "person",
+          "when": "June 9–10, 2020",
+          "what_was_asked": "Help stop assaults, threats and property damage.",
+          "what_institution_did": "Took a detailed report and photographs, obtained five-day emergency protection and directed her to seek a longer order.",
+          "quote": "So they grant her an emergency protection order that night. And they say, okay, this emergency order is good for five days, but you need to get to the courthouse ASAP and file for a domestic violence restraining order.",
+          "source": "s9-e5-fabricated @ 39:02",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She filed two days later; police also referred the children's exposure to DCFS.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "child_protection",
+          "institution": "Department of Child and Family Services (DCFS)",
+          "initiated_by": "institution",
+          "when": "June 2020",
+          "what_was_asked": "Police referred domestic violence while the children were home.",
+          "what_institution_did": "A case was opened/referred; the transcript gives no subsequent DCFS action.",
+          "quote": "So the police opened a case with DCFS, which is the Department of Child and Family Services.",
+          "source": "s9-e5-fabricated @ 39:02",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No DCFS disposition is reported.",
+          "notes": "A referral by police is not substituted for evidence of what DCFS actually did."
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "restraining-order court",
+          "initiated_by": "person",
+          "when": "two days after June 9, 2020",
+          "what_was_asked": "Protection based on a detailed written account of abuse.",
+          "what_institution_did": "Received her application; she did not pursue it to a completed hearing.",
+          "quote": "Even though the two restraining orders she had filed back in June and August, she never pursued. She basically dropped those.",
+          "source": "s9-e8-trapped @ 11:56",
+          "response": "unclear",
+          "basis": [
+            "second_witness",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "She resumed contact and violence continued.",
+          "notes": "June and August applications are recorded separately; the quote jointly confirms that both were dropped. The story does not show a merits refusal of her June request."
+        },
+        {
+          "n": 8,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "family_or_friends",
+          "when": "July 5, 2020, after a welfare-check request",
+          "what_was_asked": "Check that she was safe after meeting the partner.",
+          "what_institution_did": "Arrested both parties on domestic-violence charges and held her on $50,000 bond.",
+          "quote": "The next day July 6 6 we figured out that both her and [perpetrator] were rest on domestic violence charges and were both being held on $50,000 bond and they were scheduled to be arraigned the next day to 7th at 830 in the morning.",
+          "source": "s9-e7-treasure-hunt @ 2:10",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She spent a night or more in jail; charges were later dropped.",
+          "notes": "Her precise arrest circumstances are unclear. The account says she later admitted the partner caused the arrest; it does not establish a conviction."
+        },
+        {
+          "n": 9,
+          "institution_type": "prosecutor",
+          "institution": "district attorney",
+          "initiated_by": "institution",
+          "when": "July 2020, after the joint arrest",
+          "what_was_asked": "Resolve the domestic-violence allegations.",
+          "what_institution_did": "Dropped charges against both for insufficient evidence.",
+          "quote": "the next day the charges against both of them were dropped by the DA because there was no evidence or not enough evidence",
+          "source": "s9-e7-treasure-hunt @ 24:52",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "She was released and continued the relationship.",
+          "notes": "Dropping her charge ends that jeopardy but does not stop the partner's abuse."
+        },
+        {
+          "n": 10,
+          "institution_type": "employer_or_hr",
+          "institution": "her employer, boss and co-worker",
+          "initiated_by": "third_party",
+          "when": "August 2020",
+          "what_was_asked": "The partner relayed her private complaints to retaliate against her.",
+          "what_institution_did": "Dismissed her after hearing what she had said about colleagues.",
+          "quote": "That pissed them off so much. They just said we can't work with you anymore. We're fired.",
+          "source": "s9-e8-trapped @ 6:51",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She lost her job and decided to seek another restraining order.",
+          "notes": " The complaint/application was initiated by the accused or an associate, coded third_party relative to the person harmed."
+        },
+        {
+          "n": 11,
+          "institution_type": "police",
+          "institution": "local police called by a neighbour",
+          "initiated_by": "third_party",
+          "when": "August 26, 2020",
+          "what_was_asked": "Stop the assault witnessed outside her house.",
+          "what_institution_did": "Responded but discouraged confidence in protection without video and described low chances of an order.",
+          "quote": "He basically said it's gonna be a he said she said thing and unless you have video showing that he was the aggressor he's gonna turn this right back on you and say that you were the aggressor and no one's gonna be able to prove anything and the charges are gonna get dropped.",
+          "source": "s9-e8-trapped @ 9:54",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She filed another application after urging from Kenji.",
+          "notes": "Police attended; no arrest, investigation beyond the visit, or protective intervention is described."
+        },
+        {
+          "n": 12,
+          "institution_type": "court",
+          "institution": "restraining-order court",
+          "initiated_by": "person",
+          "when": "August 2020",
+          "what_was_asked": "A second restraining order against the partner.",
+          "what_institution_did": "Received another application; she again did not follow through to a hearing.",
+          "quote": "Darcy, once again, doesn't follow through with the court hearing. [perpetrator] is able to beg and plead with her and convince her to drop the case.",
+          "source": "s9-e8-trapped @ 9:54",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "He pursued his own order instead.",
+          "notes": ""
+        },
+        {
+          "n": 13,
+          "institution_type": "court",
+          "institution": "restraining-order judge",
+          "initiated_by": "third_party",
+          "when": "October 2020",
+          "what_was_asked": "The partner pursued an order while telling her the hearing had been cancelled.",
+          "what_institution_did": "Granted a one-year restraining order against her in her absence.",
+          "quote": "And sure enough, [perpetrator] had been granted a one-year restraining order against Darcy.",
+          "source": "s9-e8-trapped @ 24:21",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "She was vulnerable to arrest for responding while he could initiate contact.",
+          "notes": "The partner initiated the case (initiated_by third_party for the accused); she reportedly relied on his false statement that it had been dropped."
+        },
+        {
+          "n": 14,
+          "institution_type": "police",
+          "institution": "local police",
+          "initiated_by": "person",
+          "when": "November 2020",
+          "what_was_asked": "Recover both sets of car keys he stole.",
+          "what_institution_did": "Declined to act, calling the keys community property because he had lived with her over 30 days.",
+          "quote": "They gave her the run around and told her, oh, you know, since this guy's been living with you for more than 30 days, their car keys are considered community property. So there's nothing they can do about it.",
+          "source": "s9-e8-trapped @ 27:28",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She tried to recover the keys herself and through others.",
+          "notes": ""
+        },
+        {
+          "n": 15,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "person",
+          "when": "next car-key incident in November 2020",
+          "what_was_asked": "Remove him from her home and recover the keys.",
+          "what_institution_did": "Obtained one key, refused further action over the other, and let him leave.",
+          "quote": "But you got one back. They basically tell our, your only recourse is to file a restraining order at this point. And they just let [perpetrator] leave. They don't really do anything to stop them.",
+          "source": "s9-e8-trapped @ 31:32",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Further violence and threats continued.",
+          "notes": ""
+        },
+        {
+          "n": 16,
+          "institution_type": "police",
+          "institution": "police station during car recovery",
+          "initiated_by": "third_party",
+          "when": "by the final update; after the 2022 vehicle discovery",
+          "what_was_asked": "The partner tried to report her for reclaiming her own car.",
+          "what_institution_did": "Recognised her ownership, and he had to surrender the vehicle.",
+          "quote": "From what I understand, he went to the police station, and he tried to file a police report against her for trying to get the car back. But it was in her name, and so he wound up having to actually hand over the vehicle.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 32:08",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "The vehicle was recovered; no final protective order or complete end to coercion is described.",
+          "notes": "The account is indirect and qualified; it supports limited protection of property, not broader safety. The complaint/application was initiated by the accused or an associate, coded third_party relative to the person harmed."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "But it was in her name, and so he wound up having to actually hand over the vehicle.",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 32:08",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "But she did ask for his husband. in getting the car back. They went to get the car back, and at first, she wound up giving it back to him after they retrieved it. That's most likely because he made a bunch of threats against her. The second time, she decided to do it again. From what I understand, he went to the police station, and he tried to file a police report against her for trying to get the car back. But it was in her name, and so he wound up having to actually hand over the vehicle.",
+      "decisive_work_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 32:08",
+      "time_to_first_effective_action": "Emergency protection the night of the June 9 assault report; an earlier 911 call on April 4 has no response described (about two months earlier).",
+      "months_to_first_effective_action": 2,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Her accounts are largely recounted by Kenji and Danielle, with her handwritten application read on air. Temporary protection and eventual recovery of a car are concrete steps, but the final update does not establish durable protection or an end to the relationship. The car-recovery account is qualified by the speaker as what she understands happened. No claim of an independent institutional verification of all allegations is made."
+    },
+    {
+      "person_id": "P06",
+      "name": "[unnamed] Kenji and Darcy's son",
+      "role_in_story": "child",
+      "harm": "He witnessed coercive physical conflict on his first day of school, stopped participating, and later felt responsible for protecting his mother.",
+      "perpetrator_role": "their mother's partner; also exposure through their mother's decisions",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e4-were-just-getting-started",
+        "s9-e5-fabricated",
+        "s9-e6-what-the-fck-just-happened",
+        "s9-e8-trapped",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "family_or_friends",
+          "when": "January 26, 2020",
+          "what_was_asked": "Protect the children and their father from the threatening visitor.",
+          "what_institution_did": "Arrived after the man left and said there was nothing they could do.",
+          "quote": "break into your property, he didn't vandalize anything, he basically didn't do anything so there's nothing we can do but I will keep an eye out from blah blah blah and that was that.",
+          "source": "s9-e4-were-just-getting-started @ 31:47",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No order or other safety action resulted.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "family_or_friends",
+          "when": "June 9–10, 2020",
+          "what_was_asked": "Respond to violence in the home while the children slept upstairs.",
+          "what_institution_did": "Took the mother's report and referred the children's exposure to child protection.",
+          "quote": "So the police opened a case with DCFS, which is the Department of Child and Family Services.",
+          "source": "s9-e5-fabricated @ 39:02",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "A DCFS referral was opened.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "child_protection",
+          "institution": "DCFS",
+          "initiated_by": "institution",
+          "when": "June 2020",
+          "what_was_asked": "Assess safety after domestic violence while children were present.",
+          "what_institution_did": "A case/referral is reported; no DCFS action or result is given.",
+          "quote": "So the police opened a case with DCFS, which is the Department of Child and Family Services.",
+          "source": "s9-e5-fabricated @ 39:02",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Further violent incidents occurred; no disposition is supplied.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "local police",
+          "initiated_by": "third_party",
+          "when": "August 26, 2020",
+          "what_was_asked": "Stop violence witnessed by a neighbour and the children.",
+          "what_institution_did": "Responded but described the system as unlikely to protect without stronger proof.",
+          "quote": "But anyways the police show up by this time they're well familiar with [perpetrator] and Darcy and this whole story and the police officer this particular officer pretty much tells Darcy look the system for domestic violence is broken in California. You can go follow restraining order right now and press charges domestic violence charges against in California. You can go follow a restraining order right now and press charges domestic violence charges against him but you got like a 20% chance of getting it granted maybe 30% if you get the right judge.",
+          "source": "s9-e8-trapped @ 8:54",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "The father found the children shaken; the mother's next application was not pursued.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "co-parenting mediation / agreement",
+          "initiated_by": "family_or_friends",
+          "when": "March 2021",
+          "what_was_asked": "Keep the partner away from the children.",
+          "what_institution_did": "The parents reached an agreement excluding him, and the father believed she was following it.",
+          "quote": "During the meeting, both parties agreed that [perpetrator] would not be allowed around their children. I agreed not to fight for full physical custody because she promised that [perpetrator] wouldn't be around the kids at all. I believe she's kept the kids away from [perpetrator].",
+          "source": "s9-e9-hes-escalated @ 19:11",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The children still feared for their mother.",
+          "notes": "The account establishes an agreement, not independent verification of every later exchange. Later update says the children were not reporting seeing him, although their mother still had contact."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "During the meeting, both parties agreed that [perpetrator] would not be allowed around their children. I agreed not to fight for full physical custody because she promised that [perpetrator] wouldn't be around the kids at all. I believe she's kept the kids away from [perpetrator]. And there've been multiple incidents the past few weeks where the kids have confided in me that they're scared for their mom. They don't like [perpetrator], they don't trust him.",
+      "outcome_source": "s9-e9-hes-escalated @ 19:11",
+      "protection_contributors": [
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "I think I need to file for full custody of the kids because I just don't trust that they're safe with her anymore. I don't trust that she's able to make decisions to protect them. In every situation like this, she just shrugs her shoulders and says, well, I can't stop them. I don't have any control. And as a parent, that's a really scary thing, right? I don't know anybody who would say that and just kind of admit that they can't stop someone from coming in and hurting them or potentially hurting their own children. That March, Darcy and Kenji went to a mediation hearing to reach a co-parenting agreement. During the meeting, both parties agreed that [perpetrator] would not be allowed around their children. I agreed not to fight for full physical custody because she promised that [perpetrator] wouldn't be around the kids at all.",
+      "decisive_work_source": "s9-e9-hes-escalated @ 19:11",
+      "time_to_first_effective_action": "March 2021 mediation, after earlier calls and a DCFS referral.",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 4,
+      "evidence_types": [
+        "second_witness",
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "One record per child. Shared events are included for both rather than counting the children as a single person. Mediation reportedly kept the partner away from them, but fear for their mother continued. The school contact alone did not disclose abuse."
+    },
+    {
+      "person_id": "P07",
+      "name": "[unnamed] Kenji and Darcy's daughter",
+      "role_in_story": "child",
+      "harm": "She was exposed to violent conflict and threats involving her mother's partner and later feared for her mother's safety.",
+      "perpetrator_role": "their mother's partner; also exposure through their mother's decisions",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e4-were-just-getting-started",
+        "s9-e5-fabricated",
+        "s9-e6-what-the-fck-just-happened",
+        "s9-e8-trapped",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "family_or_friends",
+          "when": "January 26, 2020",
+          "what_was_asked": "Protect the children and their father from the threatening visitor.",
+          "what_institution_did": "Arrived after the man left and said there was nothing they could do.",
+          "quote": "break into your property, he didn't vandalize anything, he basically didn't do anything so there's nothing we can do but I will keep an eye out from blah blah blah and that was that.",
+          "source": "s9-e4-were-just-getting-started @ 31:47",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No order or other safety action resulted.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "responding local police",
+          "initiated_by": "family_or_friends",
+          "when": "June 9–10, 2020",
+          "what_was_asked": "Respond to violence in the home while the children slept upstairs.",
+          "what_institution_did": "Took the mother's report and referred the children's exposure to child protection.",
+          "quote": "So the police opened a case with DCFS, which is the Department of Child and Family Services.",
+          "source": "s9-e5-fabricated @ 39:02",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "A DCFS referral was opened.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "child_protection",
+          "institution": "DCFS",
+          "initiated_by": "institution",
+          "when": "June 2020",
+          "what_was_asked": "Assess safety after domestic violence while children were present.",
+          "what_institution_did": "A case/referral is reported; no DCFS action or result is given.",
+          "quote": "So the police opened a case with DCFS, which is the Department of Child and Family Services.",
+          "source": "s9-e5-fabricated @ 39:02",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "Further violent incidents occurred; no disposition is supplied.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "local police",
+          "initiated_by": "third_party",
+          "when": "August 26, 2020",
+          "what_was_asked": "Stop violence witnessed by a neighbour and the children.",
+          "what_institution_did": "Responded but described the system as unlikely to protect without stronger proof.",
+          "quote": "But anyways the police show up by this time they're well familiar with [perpetrator] and Darcy and this whole story and the police officer this particular officer pretty much tells Darcy look the system for domestic violence is broken in California. You can go follow restraining order right now and press charges domestic violence charges against in California. You can go follow a restraining order right now and press charges domestic violence charges against him but you got like a 20% chance of getting it granted maybe 30% if you get the right judge.",
+          "source": "s9-e8-trapped @ 8:54",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "The father found the children shaken; the mother's next application was not pursued.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "co-parenting mediation / agreement",
+          "initiated_by": "family_or_friends",
+          "when": "March 2021",
+          "what_was_asked": "Keep the partner away from the children.",
+          "what_institution_did": "The parents reached an agreement excluding him, and the father believed she was following it.",
+          "quote": "During the meeting, both parties agreed that [perpetrator] would not be allowed around their children. I agreed not to fight for full physical custody because she promised that [perpetrator] wouldn't be around the kids at all. I believe she's kept the kids away from [perpetrator].",
+          "source": "s9-e9-hes-escalated @ 19:11",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The children still feared for their mother.",
+          "notes": "The account establishes an agreement, not independent verification of every later exchange. Later update says the children were not reporting seeing him, although their mother still had contact."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "During the meeting, both parties agreed that [perpetrator] would not be allowed around their children. I agreed not to fight for full physical custody because she promised that [perpetrator] wouldn't be around the kids at all. I believe she's kept the kids away from [perpetrator]. And there've been multiple incidents the past few weeks where the kids have confided in me that they're scared for their mom. They don't like [perpetrator], they don't trust him.",
+      "outcome_source": "s9-e9-hes-escalated @ 19:11",
+      "protection_contributors": [
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "I think I need to file for full custody of the kids because I just don't trust that they're safe with her anymore. I don't trust that she's able to make decisions to protect them. In every situation like this, she just shrugs her shoulders and says, well, I can't stop them. I don't have any control. And as a parent, that's a really scary thing, right? I don't know anybody who would say that and just kind of admit that they can't stop someone from coming in and hurting them or potentially hurting their own children. That March, Darcy and Kenji went to a mediation hearing to reach a co-parenting agreement. During the meeting, both parties agreed that [perpetrator] would not be allowed around their children. I agreed not to fight for full physical custody because she promised that [perpetrator] wouldn't be around the kids at all.",
+      "decisive_work_source": "s9-e9-hes-escalated @ 19:11",
+      "time_to_first_effective_action": "March 2021 mediation, after earlier calls and a DCFS referral.",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 4,
+      "evidence_types": [
+        "second_witness",
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "One record per child. Shared events are included for both rather than counting the children as a single person. Mediation reportedly kept the partner away from them, but fear for their mother continued. The school contact alone did not disclose abuse."
+    },
+    {
+      "person_id": "P08",
+      "name": "Tammy",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Her partner became controlling and violent during pregnancy, threatened abduction and retaliation, and caused her to lose her school-psychologist job after she sought an order.",
+      "perpetrator_role": "her partner / husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e4-were-just-getting-started",
+        "s9-e5-fabricated",
+        "s9-e7-treasure-hunt",
+        "s9-e9-hes-escalated",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "restraining-order court",
+          "initiated_by": "person",
+          "when": "application after pregnancy in 2017; hearing January 2018",
+          "what_was_asked": "Protection from threats, violence and abduction.",
+          "what_institution_did": "Heard the case; a transcript was found and read/described. The precise order and enforcement outcome are not provided.",
+          "quote": "So we also found a courts transcript of the restraining order case between [perpetrator] and Tammy back in January of 2018.",
+          "source": "s9-e7-treasure-hunt @ 9:23",
+          "response": "unclear",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "He retaliated through her employer and she moved to her parents.",
+          "notes": "Do not infer a granted/enforced order merely from a case title or hearing transcript."
+        },
+        {
+          "n": 2,
+          "institution_type": "employer_or_hr",
+          "institution": "high school where she worked as a school psychologist",
+          "initiated_by": "institution",
+          "when": "after she filed for protection, around 2017–18",
+          "what_was_asked": "He complained that she sent explicit messages/images during school hours.",
+          "what_institution_did": "Dismissed her after his complaint.",
+          "quote": "She was a school psychologist. I believe at a high school and he did basically the same thing He tried to do to me where he went to Tammy's boss or whoever at the school and told the boss that oh Tammy had sent him some explicit messages or inappropriate photos of herself to him during school hours or something like that and got her fired from her job.",
+          "source": "s9-e7-treasure-hunt @ 10:24",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "second_witness",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "She relocated to her parents and delivered the baby there.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "to live with her parents and she has her baby up there and she's able to get some distance between her and [perpetrator]. So I think she's still safe from them as of today.",
+      "outcome_source": "s9-e7-treasure-hunt @ 11:25",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Also transcribed Tami. Safety is attributed to moving north to her parents, not demonstrated institutional protection. A restraining-order hearing and transcript are described; a durable order with demonstrated protection is not established. The school dismissal is a direct institutional harm. She had not responded to requests for further information by the original season."
+    },
+    {
+      "person_id": "P09",
+      "name": "[unnamed] Tammy's daughter",
+      "role_in_story": "child",
+      "harm": "Her father threatened to take or kidnap her while controlling and threatening her pregnant mother.",
+      "perpetrator_role": "her father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e3-this-is-bullsht",
+        "s9-e7-treasure-hunt"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "restraining-order court hearing the mother's case",
+          "initiated_by": "family_or_friends",
+          "when": "2017–January 2018",
+          "what_was_asked": "Protection from the father's threats to abduct the baby.",
+          "what_institution_did": "The threat appeared in the case discussed from the transcript; the child-specific ruling is not given.",
+          "quote": "[perpetrator] began to use the baby as a pawn in their relationship too and say that he would kidnap their baby or take their baby away from her or do all kinds of stuff to her in the child And that's when she decided to file for their strenning order",
+          "source": "s9-e7-treasure-hunt @ 10:24",
+          "response": "unclear",
+          "basis": [
+            "document_read_on_air",
+            "second_witness"
+          ],
+          "what_happened_next": "Her mother moved away and gave birth near family.",
+          "notes": "The source mistranscribes the accused's name as Already; it is redacted as [perpetrator]."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "to live with her parents and she has her baby up there and she's able to get some distance between her and [perpetrator]. So I think she's still safe from them as of today.",
+      "outcome_source": "s9-e7-treasure-hunt @ 11:25",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "The threat and maternal court case give this child a distinct story. The mother relocated and the child was born there; the transcript does not identify a later child-specific order or institutional action causing safety. Birth and current welfare details are limited."
+    },
+    {
+      "person_id": "P10",
+      "name": "[unnamed] former wife in the 2005 police report",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A former wife told him to leave during a dispute over suspected infidelity; he refused. The narrated police report describes an ensuing physical struggle and both parties being arrested.",
+      "perpetrator_role": "her husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e7-treasure-hunt"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police responding to the 2005 domestic incident",
+          "initiated_by": "third_party",
+          "when": "2005",
+          "what_was_asked": "He filed a report against her; her own request is not stated.",
+          "what_institution_did": "Arrested both parties and jailed them overnight.",
+          "quote": "They both got arrested for domestic violence that night. They both spent the night in jail.",
+          "source": "s9-e7-treasure-hunt @ 12:25",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "document_read_on_air"
+          ],
+          "what_happened_next": "His later immigration claim used the incident; her later institutional outcome is not stated.",
+          "notes": " The complaint/application was initiated by the accused or an associate, coded third_party relative to the person harmed."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "They both got arrested for domestic violence that night. They both spent the night in jail.",
+      "outcome_source": "s9-e7-treasure-hunt @ 12:25",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "low",
+      "notes": "This is a disputed account reconstructed from his police report and immigration application by other survivors. They question his victim narrative and interpret his conduct as baiting. The account does not establish who initiated all violence, whose charges proceeded, or a final outcome. Record preserves that uncertainty and does not endorse his allegation that she abused him."
+    },
+    {
+      "person_id": "P11",
+      "name": "Stacey",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "She describes a controlling and verbally abusive relationship that ended in 2009. Later inability to locate him and obtain adoption consent obstructed her daughter's step-parent adoption.",
+      "perpetrator_role": "her former partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e9-hes-escalated",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "child-support / family court",
+          "initiated_by": "person",
+          "when": "after the separation; date not stated",
+          "what_was_asked": "Child support.",
+          "what_institution_did": "A filing registered him as father, but he could not be located.",
+          "quote": "because I think at one point she'd try to file for child support they could never find him even though his name is not on the birth certificate that somehow registered him as the father",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 7:20",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No payment/enforcement is reported; the registration mattered in later adoption proceedings.",
+          "notes": "The speaker qualifies the chronology with I think; no child-support order is inferred."
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "family/adoption court",
+          "initiated_by": "person",
+          "when": "by the final update",
+          "what_was_asked": "Her husband to adopt her daughter.",
+          "what_institution_did": "Required the biological father's consent, which she could not obtain.",
+          "quote": "so she has to get him to sign off on these adoption paperwork for her child that's 13 that he's never seen in his life",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 7:20",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "The adoption remained blocked as described.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "she cannot get this through the courts about adoption because I think at one point she'd try to file for child support they could never find him even though his name is not on the birth certificate that somehow registered him as the father so she has to get him to sign off on these adoption paperwork for her child that's 13 that he's never seen in his life",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 7:20",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Also transcribed Stacy. Distinct from the fictitious mother with a similar name in his invented biography. The relationship ended before the institutional difficulty described, but the consent/child-support obstacle persisted. No successful adoption is reported for her by the update."
+    },
+    {
+      "person_id": "P12",
+      "name": "[unnamed] Stacey's daughter",
+      "role_in_story": "child",
+      "harm": "Her father had no contact with her and the unresolved paternal registration/consent requirement blocked adoption by her mother's husband. She wanted to meet her half-siblings.",
+      "perpetrator_role": "her biological father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e9-hes-escalated",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "child-support / family court",
+          "initiated_by": "family_or_friends",
+          "when": "date not stated",
+          "what_was_asked": "Child support.",
+          "what_institution_did": "Recorded him as father in the proceedings but he could not be located.",
+          "quote": "because I think at one point she'd try to file for child support they could never find him even though his name is not on the birth certificate that somehow registered him as the father",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 7:20",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No recovery of support is described.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "adoption court",
+          "initiated_by": "family_or_friends",
+          "when": "by the final update",
+          "what_was_asked": "Adoption by her mother's husband.",
+          "what_institution_did": "Required the absent biological father to sign, preventing completion as recounted.",
+          "quote": "so she has to get him to sign off on these adoption paperwork for her child that's 13 that he's never seen in his life",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 7:20",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No completed adoption is reported.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "so she has to get him to sign off on these adoption paperwork for her child that's 13 that he's never seen in his life",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 7:20",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Her mother reports the father has never seen her. No institutional action resolving the adoption is given. Absence of a visit is not equated with a protective court order."
+    },
+    {
+      "person_id": "P13",
+      "name": "Samantha",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Within a roughly four-month relationship she financed or registered a car for him after he claimed buying it himself would disrupt a house purchase. Suspected travel lies led her to hire an investigator and learn the wider deception.",
+      "perpetrator_role": "her boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "private investigator",
+          "initiated_by": "person",
+          "when": "February 2022",
+          "what_was_asked": "Investigate the boyfriend after the car GPS contradicted a claimed work trip.",
+          "what_institution_did": "Found the podcast and public records, contacted Danielle and passed information to his client.",
+          "quote": "He tells me that during his investigation, he's stumbled upon the podcast and a bunch of those court records that were open records. He was contacting everybody. I gave him all the information that I had, filled in a lot of blanks for him.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 2:00",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She spoke to Danielle; no later protective outcome is stated.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She was just like, look, I feel so ashamed and embarrassed. I said to her, I get it. Like, if anybody understands that, it's me, but girl, you got the shit figured out at four months. You knew to like hire a private investigator.",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 3:05",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The update gives discovery and distress, not a confirmed separation, recovery of the vehicle or protective sanction. The outcome means no effective institutional protection is shown, not that her later life is known to be unsafe."
+    },
+    {
+      "person_id": "P14",
+      "name": "Zara",
+      "role_in_story": "update_or_listener_story",
+      "harm": "She dated him for about a year and a half under another claimed identity and considered quitting her job and moving into a house she had never seen. Her family arranged an evidence-based intervention.",
+      "perpetrator_role": "her boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "private investigator contacted through Danielle",
+          "initiated_by": "third_party",
+          "when": "before the October 2022 hearing",
+          "what_was_asked": "Identify the owner of the boyfriend's vehicle as part of checking his claims.",
+          "what_institution_did": "Ran the VIN and supplied owner details, revealing another survivor's ownership.",
+          "quote": "Within the next hour, he texts me back the name and address of the registered owner of his vehicle.",
+          "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 30:06",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "He learned the VIN had been shared and reportedly ended the relationship.",
+          "notes": "The investigator received the request through Danielle/family; this was fact-finding and no police protection is shown."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She said she's great, honestly. He's gone, gone. She's got a new boyfriend and she's doing great.",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 31:06",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The reported happy ending followed family/survivor intervention and his ending the relationship after learning that vehicle information was shared. A private investigator assisted fact-finding, but no institutional protective order or sanction caused the end of harm. That distinction is why the institutional outcome is not_protected despite a reported personal recovery. She denied physical/verbal abuse at the intervention; deception is the harm coded."
+    },
+    {
+      "person_id": "P15",
+      "name": "Valerie",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Her car was used by the man and he answered calls to her phone, which Kenji interpreted as coercive control. Attempts to warn her or recover stolen keys through her did not reach her reliably.",
+      "perpetrator_role": "her partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e7-treasure-hunt",
+        "s9-e8-trapped"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "so I figured at this point, well, I'm not gonna get the car keys back, but I try it at least.",
+      "outcome_source": "s9-e8-trapped @ 29:31",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Consent to use her car/phone and her own view are not known. Kenji explicitly attributes controlling behaviour to him, but recognises that a threatening text from her phone may have been his impersonation. No institutional report by Valerie is treated as established from that message. No independent protection for her is described."
+    },
+    {
+      "person_id": "P16",
+      "name": "[unnamed] woman who dated him alongside Carissa",
+      "role_in_story": "update_or_listener_story",
+      "harm": "She described receiving the same invented identity and fake accent during a relationship of about five months and learning she and Carissa had been dating him at the same time.",
+      "perpetrator_role": "her former boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "This woman who reached out to me on Instagram was friends with Carissa. She said, hey, Carissa told me about the podcast. I had already known that this private investigator had told Carissa. And she said, I actually dated already at the exact same time as Carissa. That's how we met.",
+      "outcome_source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 4:10",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "No institutional contact or protective outcome for this particular woman is described. Carissa's restraining-order case is not attributed to her. The speaker says he was not physically abusive toward her; deception remains the harm. not_protected marks absence of demonstrated institutional protection, not a claim of current ongoing harm."
+    },
+    {
+      "person_id": "P17",
+      "name": "[unnamed] former employer threatened over the company website",
+      "role_in_story": "other",
+      "harm": "After a short period of employment, the man reportedly threatened to hold the business website hostage over a demanded raise and then threatened the boss after being dismissed.",
+      "perpetrator_role": "a former employee",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e5-fabricated"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "local police",
+          "initiated_by": "person",
+          "when": "roughly a year before the March 2020 discovery",
+          "what_was_asked": "Report threats after firing the employee.",
+          "what_institution_did": "Received a report; nothing beyond the report is described.",
+          "quote": "So the boss called the police and found the police report with them. I never got the details of the police report.",
+          "source": "s9-e5-fabricated @ 11:21",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "The report's later result is unknown.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "So the boss called the police and found the police report with them. I never got the details of the police report.",
+      "outcome_source": "s9-e5-fabricated @ 11:21",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "This is reported by Kenji from his brother-in-law's recollection. He expressly says he never obtained details of the report; there is no police response or protective outcome to infer. The person is an unnamed boss, not the business as an abstract victim."
+    },
+    {
+      "person_id": "P18",
+      "name": "[unnamed] Danielle's father figure",
+      "role_in_story": "other",
+      "harm": "He was threatened with serious violence at a child's birthday party and later confronted the former partner at the chained family door. A later service attempt at the family home was followed by a restraining-order application against him.",
+      "perpetrator_role": "his daughter's partner / former partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e3-this-is-bullsht",
+        "s9-e6-what-the-fck-just-happened",
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "family's private security",
+          "initiated_by": "family_or_friends",
+          "when": "July 3, 2020",
+          "what_was_asked": "Protect the family home from the threatening partner.",
+          "what_institution_did": "The guard fell asleep and failed to detect the approach.",
+          "quote": "And it turns out she'd actually fall on a sleep. And she didn't notice because he didn't even drive his car. He was being sneaky and parked around the corner and basically snuck up.",
+          "source": "s9-e6-what-the-fck-just-happened @ 33:21",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "The father himself closed the chained door and the man left.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "court",
+          "institution": "restraining-order court",
+          "initiated_by": "third_party",
+          "when": "2021",
+          "what_was_asked": "The former partner alleged the father threatened him while papers were delivered.",
+          "what_institution_did": "An application was filed; no court response or order is described.",
+          "quote": "He gets back in his car and speeds off, but proceeds to file a restraining order against my father saying he has video proof that my dad threatened to beat him up.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 26:13",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "The father's later legal position is not given.",
+          "notes": "The accused initiated the application; the accused is coded as third_party relative to the person harmed. Filing by an applicant is not treated as a granted order."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "He gets back in his car and speeds off, but proceeds to file a restraining order against my father saying he has video proof that my dad threatened to beat him up.",
+      "outcome_source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 26:13",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "low",
+      "notes": "The transcripts alternate father, stepfather, dad and stepmom in describing family members. These passages may concern more than one father figure; identity cannot be resolved, so this provisional record must not be used as a certain unique-person count without review. A possible heart attack is not attributed to the abuse or treated as an abuse-specific medical contact. No outcome of the application against him is given."
+    },
+    {
+      "person_id": "P19",
+      "name": "[unnamed] Darcy's friend followed after a visit",
+      "role_in_story": "other",
+      "harm": "After visiting Darcy, she was followed by the partner, who claimed he was calling police to have her arrested for drink-driving. She then cut off contact with Darcy.",
+      "perpetrator_role": "her friend's partner",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-e8-trapped"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "and then after that incident I guess that's when Darcy's friend, you know one of her really close friends just had to cut her off completely because That's when Darcy's friend, one of her really close friends just had to cut her off completely because Darcy wasn't doing anything to stop this guy and now this guy was trying to come after her and ruin her life",
+      "outcome_source": "s9-e8-trapped @ 32:33",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Kenji explicitly says he does not know whether police were actually called. No actual arrest or institutional action is inferred. This friend is not automatically merged with the best friend threatened with a CPS report elsewhere in the story."
+    },
+    {
+      "person_id": "P20",
+      "name": "Danielle (later dating relationship)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "A later dating partner minimised her experience, called her unready for a relationship, and suggested her advocacy was attention-seeking. She identified manipulations with a dating coach and ended contact.",
+      "perpetrator_role": "a later dating partner who had previously been a social worker",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "dating coach",
+          "initiated_by": "person",
+          "when": "about two weeks before the September 2021 call",
+          "what_was_asked": "Help recognise unhealthy relationship patterns and pursue a healthy partnership.",
+          "what_institution_did": "Helped her identify manipulations and red flags.",
+          "quote": "I had hired a dating coach two weeks prior to that. and she was starting to help me see all these little manipulations.",
+          "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 34:48",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She cut off the partner and later entered a healthier relationship.",
+          "notes": "Coaching is an organised paid helping service, coded other; departure was her own action."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I basically hung up on him at that point and blocked him.",
+      "outcome_source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 34:48",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Separate harm by a different partner. She explicitly says red flags need not amount to abuse; this record preserves her account of manipulation without inventing violence. She ended contact herself; the dating coach helped her recognise it but no institutional action stopped the man. The partner's former profession is not itself an institutional contact."
+    },
+    {
+      "person_id": "P21",
+      "name": "Danielle (online victim-blaming after publication)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Online commenters criticised her voice and questioned how a successful woman could have been victimised; she withdrew from social-media engagement to protect herself.",
+      "perpetrator_role": "online commenters, distinct from the former partner's impersonation",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I had to hide off social media. And that was really to just protect me from, I think the internet trolls is what we're going to call them.",
+      "outcome_source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 13:46",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "No platform complaint or moderation response is described. The former partner's attempt to lure her via the website remains in her main record; this record covers the distinct public comments and victim-blaming."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Danielle's sister, threatened with job loss and planted drugs; no individual aftermath or institutional response is given.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "can plant drugs on her and make sure she gets fired from her job",
+      "source": "s9-e2-perfectly-single @ 11:30"
+    },
+    {
+      "description": "Other restraining-order applicants besides Tammy; Carissa is later identified as one applicant. Do not add Carissa as an extra fourth applicant.",
+      "count_stated": 3,
+      "reached_institution": "yes",
+      "quote": "Also, he found out that already had three other domestic violence restraining orders that had been filed against him in the past. In addition to the one that we had found against his ex-girlfriend, Tami,",
+      "source": "s9-e5-fabricated @ 35:00"
+    },
+    {
+      "description": "Carissa: identified as a restraining-order applicant and a woman dating him concurrently with another woman; insufficient separate story/outcome beyond the bare reference.",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "So one of those restraining orders was a woman named Karissa.",
+      "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 4:10"
+    },
+    {
+      "description": "Darcy's best friend threatened with having her children taken by CPS; no actual report or individual aftermath shown. May overlap with the later friend followed after a visit.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "He contacted my best friend after an argument and threatened to have CPS take her kids away because he claimed I had provided him with info that implied she was an unfit mom.",
+      "source": "s9-e5-fabricated @ 44:14"
+    },
+    {
+      "description": "[unnamed] another girlfriend, another girlfriend: association and intimate photographs described, but no sufficiently specific account of harm and aftermath to make a person record.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "[another girlfriend] refuses to give Darcy any information. She's saying that's not her business, she wants to stay out of it, She's not confirming or denying that she's also in a relationship with [perpetrator].",
+      "source": "s9-e8-trapped @ 4:50"
+    },
+    {
+      "description": "Yet another girlfriend at the location where the car was recovered; no individual story.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "They tracked him down to get the car from an address and was yet another girlfriend there.",
+      "source": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2 @ 32:08"
+    },
+    {
+      "description": "Darcy's baby with the perpetrator, born in 2021; no distinct account of harm to this child is given.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "2021 with him when the podcast came out.",
+      "source": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1 @ 22:06"
+    },
+    {
+      "description": "Additional hypothetical or unknown victims are discussed, but no numeric total is supplied; no count inferred.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "And so I thought, oh, that was interesting because both Daniel and Darcy have tattoos of [perpetrator]'s name on them. So this must be one of his marks. This must be something he gets all his victims to do for him. So ever since I read that, I've been wondering how many other women are out there with [perpetrator]'s name tattooed somewhere on them and I'm sure there's more than a few.",
+      "source": "s9-e7-treasure-hunt @ 13:26"
+    }
+  ],
+  "coder_notes": "All five season chunks were read in full, in order. Build printed LINE COUNTS MATCH. All 18 lines of unassigned/INDEX.txt and the seven listed unassigned episodes were read in full; none continues or discusses season 9. Unrelated stories/examples/advertisements in these episodes are not added to season 9. No other seasons, branches, pull requests, commits or issues were opened during this assignment. Repository inputs were fetched from main via the GitHub connector before downloading transcripts; all transcript network access used the unchanged build_kit.py fetch. The workspace substitutes for /tmp because of writable-path restrictions. Raw transcript JSON and notes remain local and are not committed. Notes are quotations, kept after every season chunk. Update part 1 jumps from 28:17 to 31:44 around an embedded recording; words not transcribed there were not inferred. Automatic-transcription errors, incomplete grammatical sentences and spelling variants are retained in evidence. Name redactions replace the accused with [perpetrator]; other non-survivors are described by role. No external legal/medical claims are used to alter what the story says. Contact timing that is not given is marked explicitly; order within those undated contacts is approximate. Accused-initiated complaints are coded initiated_by third_party relative to the person harmed; the notes identify the actual initiator. No institution contact is invented from its mere mention or an accused person's unconfirmed threat. Unknown outcomes cannot be encoded directly in this example schema: where contact status is unclear, not_protected means no effective institutional protection is shown, not that no private safety or eventual recovery occurred. Civil orders and allegations are not criminal convictions. Father/stepfather identity is uncertain and flagged in that provisional record. Bare mentions may overlap and must not be summed as disjoint people. The extra assembly script only creates/checks this JSON and is not a research input or committed deliverable. Files opened (including files read by the downloader/build and this assembly process):\n/workspace/scratch/5f804805d933/sww-coding-kit/CODEX-TASK.md\n/workspace/scratch/5f804805d933/sww-coding-kit/INSTRUCTIONS.md\n/workspace/scratch/5f804805d933/sww-coding-kit/OUTPUT-FORMAT.json\n/workspace/scratch/5f804805d933/sww-coding-kit/manifest.json\n/workspace/scratch/5f804805d933/sww-coding-kit/build_kit.py\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/s09/s09_01.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/s09/s09_02.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/s09/s09_03.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/s09/s09_04.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/s09/s09_05.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/INDEX.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/data-points-cons-schemes-fraud.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/data-points-false-reporting-and-its-impact-on-survivors.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/data-points-stalking-featuring-lenora-claire.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/data-points-the-30th-anniversary-of-the-violence-against-women-act-featuring-lenora-claire.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/read/unassigned/exciting-sww-updates.txt\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e1-psychic-abilities.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e2-perfectly-single.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e3-this-is-bullsht.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e4-were-just-getting-started.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e5-fabricated.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e6-what-the-fck-just-happened.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e7-treasure-hunt.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e8-trapped.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-e9-hes-escalated.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/black-lives-matter-amplifymelanatedvoices.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-cons-schemes-fraud.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-false-reporting-and-its-impact-on-survivors.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-how-social-media-impacts-kids-mental-health-featuring-dr-corey-emanuel.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-how-social-media-impacts-our-mental-health-featuring-dr-corey-emanuel.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-male-survivors-of-sexual-assault-featuring-leron-barton.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-munchausen-syndrome-by-proxy-featuring-andrea-dunlop.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-ptsd-featuring-dr-danielle-moore.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-stalking-featuring-lenora-claire.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-the-30th-anniversary-of-the-violence-against-women-act-featuring-lenora-claire.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/data-points-the-intersection-of-true-crime-the-lgbtqia-community-featuring-jimanekia-eborn.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/exciting-sww-updates.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/listen-now-death-county-pa.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/sww/wcn-presents-caitlin-mathis-dedicated-to-change-2.json\n/workspace/scratch/5f804805d933/sww-coding-kit/tmp/notes.md\n/workspace/scratch/5f804805d933/sww-coding-kit/coded/_assemble.py\n/workspace/scratch/5f804805d933/sww-coding-kit/coded/s09_CA.json"
+}

@@ -57,7 +57,9 @@ From `research/ada-accommodation-architecture.md`:
    / no reports" move (seed L118) is doctrinally a *reassignment/role-design
    accommodation* that removes the leverage through which harm propagates, enabling
    the person to meet the conduct standard going forward. `[NORMATIVE]`
-   `NEEDS-LIBERTY-REVIEW`.
+   **`CLEARED-WITH-AMENDMENTS` (2026-11-01, doc 07 R2-5):** justified as protection of others
+   on documented conduct, not as care; documented basis disclosed; least-restrictive,
+   time-limited, reviewed, appealable, with a restoration path.
 4. **Honest-capacity-statement culture.** Normalizing the statement of one's
    limitations without it reading as weakness (seed L118). The cultural diagnosis is
    `[SUPPORTED]` (organizational-behavior/psychological-safety literature); the remedy
@@ -76,9 +78,13 @@ very unique situation that... is everywhere in every industry." Sketch, all
 - **Design levers:** remove/limit budget authority; remove direct reports; scope to
   individual-contributor or outreach-type work the person does well; define
   escalation and review.
-- **Framing to the person:** role fit and structural design, on the model of ADA
-  reassignment — *not* accusation or diagnosis. Pairs with the self-directed pathways
-  (doc 06), which the person must arrive at themselves.
+- ~~**Framing to the person:** role fit and structural design, on the model of ADA
+  reassignment — *not* accusation or diagnosis.~~ **Withdrawn 2026-11-01 (doc 07 R2-5).**
+  Presenting a protective measure as care is the care-register override X7 names, and a
+  person not told the documented basis cannot contest it.
+- **Communication to the person:** the documented conduct basis, the protective purpose,
+  the review date, the appeal route and the restoration path. Non-punitive in design;
+  honest in statement. The doc 06 pathways are offered, never a condition of restoration.
 
 ## 3. Acknowledged incompleteness
 

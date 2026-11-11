@@ -1,0 +1,2275 @@
+{
+  "season": 20,
+  "coder": "CA",
+  "coder_model": "GPT-6",
+  "reading_log": [
+    {
+      "file": "s20_01.txt",
+      "last_line_number": 114,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s20_02.txt",
+      "last_line_number": 101,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s20_03.txt",
+      "last_line_number": 97,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s20_04.txt",
+      "last_line_number": 101,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s20_05.txt",
+      "last_line_number": 110,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s20_06.txt",
+      "last_line_number": 100,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s20_07.txt",
+      "last_line_number": 115,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s20_08.txt",
+      "last_line_number": 80,
+      "read_in_full": true,
+      "problems": "Output truncation corrected by rereading lines 58–70."
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "data-points-stalking-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    },
+    {
+      "slug": "data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    },
+    {
+      "slug": "data-points-male-survivors-of-sexual-assault-featuring-leron-barton",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    },
+    {
+      "slug": "data-points-cons-schemes-fraud",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    },
+    {
+      "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    },
+    {
+      "slug": "data-points-ptsd-featuring-dr-danielle-moore",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    },
+    {
+      "slug": "data-points-how-social-media-impacts-our-mental-health-featuring-dr-corey-emanuel",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    },
+    {
+      "slug": "data-points-how-social-media-impacts-kids-mental-health-featuring-dr-corey-emanuel",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Checked for continuation/discussion of season digital coercion, stalking, exploitation or trauma (male-survivor episode also for the athlete story). Educational discussion only; no individual update."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Monica",
+      "role_in_story": "central_survivor",
+      "harm": "A friend impersonated a boyfriend and his relatives, sexually exploited and emotionally abused her, and interfered with later relationships.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e10-i-have-so-much-proof-its-insane-babygirl",
+        "s20-e7-the-confession"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Her therapist",
+          "initiated_by": "person",
+          "when": "August 30, 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "She booked and attended an appointment after discovery; the therapist response is not specified.",
+          "quote": "So I booked it before I went to therapy.",
+          "source": "s20-e7-the-confession @ 35:18",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "North Carolina detective",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "One interview; no further action for her described.",
+          "quote": "I did talk to a detective once, and that was someone in North Carolina. But other than that, I have not been able to talk to anyone legally or do anything like that.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 9:12",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "Restraining-order process; exact official unspecified",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "She could not obtain an order; reason and decision-maker not supplied.",
+          "quote": "I couldn't even get a restraining order, which was very scary to me because she left the North Carolina area and we knew she was probably coming back to the Iowa area where her family is at, which would put me at the closest distance-wise to her.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 8:12",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "So yeah, I mean, there's nothing I could do to protect myself in any way, shape or form, nothing I could do unless something else happened.",
+      "outcome_source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 8:12",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "She independently left the fictitious relationship, later discovered the deception and became engaged. No effective legal protection reported. Earlier traumatic relationship lacks sufficient specific harm details for a separate record."
+    },
+    {
+      "person_id": "P02",
+      "name": "Brie",
+      "role_in_story": "central_survivor",
+      "harm": "Her friend impersonated a boyfriend and relatives for almost four years, sexually exploited and emotionally abused her, tracked her location and retained indoor-camera access.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e10-i-have-so-much-proof-its-insane-babygirl",
+        "s20-e2-brody-is-going-to-get-you-every-time",
+        "s20-e7-the-confession",
+        "s20-e9-the-real-brody",
+        "s20-e11-finale-part-1-shes-a-loose-cannon",
+        "s20-e12-finale-part-2-we-wont-stop-fighting"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Her therapist",
+          "initiated_by": "person",
+          "when": "Summer 2021 (clarified in episode 3)",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "She entered therapy about relationship distress; exact therapist response unspecified.",
+          "quote": "I had started therapy and [perpetrator] used to say that my therapist was crazy and it's not fair that my therapist didn't get his side of anything and how I'd made everyone hate him.",
+          "source": "s20-e2-brody-is-going-to-get-you-every-time @ 34:56",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Police station and multiple offices",
+          "initiated_by": "person",
+          "when": "After August 29, 2023 discovery",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Repeated referrals delayed documenting her account; told to attend court at designated hours.",
+          "quote": "I was retelling it over and over and I felt insane. I don't feel like anyone really took it really serious.",
+          "source": "s20-e7-the-confession @ 29:08",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "Restraining-order court",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Initial application dismissed after staff supplied the wrong form.",
+          "quote": "had given me the wrong one to fill out. So it was automatically dismissed. You could tell they really didn't even read it.",
+          "source": "s20-e7-the-confession @ 30:12",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "Restraining-order court",
+          "initiated_by": "person",
+          "when": "September 1, 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Second application on correct papers granted.",
+          "quote": "So the second time I attempted, I got the right papers filled out. It was granted.",
+          "source": "s20-e7-the-confession @ 30:12",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "Officers serving court papers",
+          "initiated_by": "institution",
+          "when": "About eight days after September 1",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Order and misdemeanor papers took over a week to serve.",
+          "quote": "I know it was longer than a week to serve my restraining order and then the misdemeanor cyber-stalking charges as well.",
+          "source": "s20-e7-the-confession @ 30:12",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "North Carolina detectives",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "After at least five detectives, undisclosed camera access was identified as grounds to try cyberstalking charges.",
+          "quote": "But then the thing that really got them was us having that camera that she still had access to and I didn't know that she had access to. They said, yeah, you can definitely try and file charges for that one.",
+          "source": "s20-e9-the-real-brody @ 45:48",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "Magistrate office",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "A magistrate knowing both parties referred filing to a colleague.",
+          "quote": "I said, so I'm gonna get one of the other managers. So my other manager, I text her, I said, hey, can you do this?",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 49:00",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Recorded magistrate account; transcription says managers. Date relative to service is not clear."
+        },
+        {
+          "n": 8,
+          "institution_type": "employer_or_hr",
+          "institution": "Wilmington hospital management/HR",
+          "initiated_by": "third_party",
+          "when": "After discovery in August 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "After a coworker disclosed abuse, manager considered HR but said he could not fire without charges/evidence; perpetrator later resigned.",
+          "quote": "And after all of that happened He told me he was like what I hope will happen is she just doesn't come back They said I can't just fire someone due to this because there's no incriminating evidence Etc.",
+          "source": "s20-e9-the-real-brody @ 32:21",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Harm brought to employer by a coworker. No finding that the employer protected itself."
+        },
+        {
+          "n": 9,
+          "institution_type": "prosecutor",
+          "institution": "District attorney/assistant district attorney, North Carolina",
+          "initiated_by": "person",
+          "when": "October 20, 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "After brief review, discussed misdemeanor/social-media restriction or dismissal to seek stronger charges.",
+          "quote": "I don't think this judge is going to go for these charges. We can either drop them and try for something else, or we can go ahead and try and get these.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 4:06",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 10,
+          "institution_type": "court",
+          "institution": "North Carolina misdemeanor court",
+          "initiated_by": "person",
+          "when": "October 20, 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Misdemeanor dismissed at survivors’ choice to pursue stronger charges; no ban or conviction implemented.",
+          "quote": "I think we have enough to get a felony on her like I wouldn't take that and They both agreed and that's what they did. They dismissed the misdemeanor I believe they talked to the DA after and they said okay, just bring us anything you have So I think they set up a day to meet with her or him set up a day to meet with her or him.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 7:11",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 11,
+          "institution_type": "prosecutor",
+          "institution": "District attorney, North Carolina",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Said extortion/threats to obtain nudes would be needed for more; no stronger action then.",
+          "quote": "The DA told them if they don't have threats from [perpetrator] threatening to get nudes from them, like give me nudes or I'll tell your family or some sort of threat that there's nothing they could do about it or extortion.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 7:11",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "police",
+          "institution": "North Carolina detective",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Referred victims to local agencies; agreed to consider new timeline, without a confirmed reopening.",
+          "quote": "I'm sure if you want to I can take a look at it. Like I said, I don't believe we saw any charges.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 58:19",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 13,
+          "institution_type": "prosecutor",
+          "institution": "Assistant district attorney, New Hanover/Pender County",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Agreed to brief supervising DA by email on new evidence and possible reopening.",
+          "quote": "Yeah, let me, I'll email [the district attorney] and kind of just give him your email and tell him what's going on with the case and remind him of it.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 69:57",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 14,
+          "institution_type": "police",
+          "institution": "FBI Charlotte field office",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Public-information officer referred journalist to national intake/online reporting.",
+          "quote": "But I mean, the best way to report this would be to go to our National Threat Assessment Center, because they're the ones that would, first of all, they're trained professionally to ask the right questions and get the right information on like me.",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 7:38",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 15,
+          "institution_type": "police",
+          "institution": "FBI national intake",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Recorded report, could not receive evidence there, recommended local police and IC3.",
+          "quote": "So I can't say what will happen with the information you provided me other than it has been documented here within our system.",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 10:48",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 16,
+          "institution_type": "police",
+          "institution": "FBI Florida field office",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Recorded report and later special agent called back and interviewed the male image victim.",
+          "quote": "When you get a chance, could you please give me a call back?",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 16:58",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Callback and subsequent interview are beyond intake, but do not establish arrest."
+        },
+        {
+          "n": 17,
+          "institution_type": "prosecutor",
+          "institution": "ADA with another attorney and sex-crimes officer",
+          "initiated_by": "person",
+          "when": "May 23, 2024 and follow-up",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Reviewed organized evidence in detail and identified four possible charges; no new filing established.",
+          "quote": "The ADA and I believe two other officials followed up and said that they foresaw four potential charges. Whether or not they are going to move forward with that, we don't know.",
+          "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 5:17",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 18,
+          "institution_type": "employer_or_hr",
+          "institution": "New North Carolina hospital, unnamed",
+          "initiated_by": "third_party",
+          "when": "By June 2024",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "A later employer learned of the situation and released her from the job.",
+          "quote": "They found out and they let her go.",
+          "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 29:10",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "No claim this ended the survivors’ stalking; immediate information source for employer not specified."
+        },
+        {
+          "n": 19,
+          "institution_type": "regulator_or_licensing",
+          "institution": "North Carolina respiratory licensing board",
+          "initiated_by": "third_party",
+          "when": "By June 2024",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Multiple people contacted the board; revocation hoped for, not reported as achieved.",
+          "quote": "It looks like the respiratory board, after reaching out multiple times and multiple people reaching out, and hopefully they will take her license away, at least in North Carolina, so she can't work here, which would be really great.",
+          "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 29:10",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "Because they have they both have their restraining orders with her.",
+      "outcome_source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 63:31",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution",
+        "other_victims",
+        "journalists_podcast_or_virality"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "So the second time I attempted, I got the right papers filled out. It was granted.",
+      "decisive_work_source": "s20-e7-the-confession @ 30:12",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "Limited legal boundary, not a claim police ended the relationship: she escaped through discovery and friends. Misdemeanor dismissed to pursue stronger charges; none established by season end. Accounts of forms, ex parte requests and dismissal are inconsistent, but later recorded conversation explicitly says both retain orders. Effectiveness beyond legal boundary uncertain."
+    },
+    {
+      "person_id": "P03",
+      "name": "Lauren (impersonation and coercive friendship)",
+      "role_in_story": "central_survivor",
+      "harm": "Her roommate impersonated a boyfriend and family, coerced intimate exchanges including remote vibrator use, monitored her and isolated and emotionally abused her.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e12-finale-part-2-we-wont-stop-fighting",
+        "s20-e4-fake",
+        "s20-e6-rot-in-hell",
+        "s20-e10-i-have-so-much-proof-its-insane-babygirl",
+        "s20-e11-finale-part-1-shes-a-loose-cannon",
+        "s20-e9-the-real-brody"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Therapists and medication provider, unnamed",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Therapy did not help without understanding deception; medication helped.",
+          "quote": "But at the time they didn't know what was going on and I didn't know what was going on so the therapy didn't really help. Medication helped and I'm still taking medication to this day.",
+          "source": "s20-e4-fake @ 32:31",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "Post-relationship therapist",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Explained withdrawal could be depression even when staying home felt comfortable.",
+          "quote": "Basically, the therapist said that just because you're comfortable staying home doesn't mean you're not depressed.",
+          "source": "s20-e4-fake @ 47:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Chronology only establishes after earlier therapy, not exact position relative to legal contacts."
+        },
+        {
+          "n": 3,
+          "institution_type": "other",
+          "institution": "Internet service support",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Confirmed her work devices were denied network access and her roommate had that ability.",
+          "quote": "I can tell you right now that both your laptop and your cell phone for some reason do not have access to this system.",
+          "source": "s20-e6-rot-in-hell @ 41:25",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "Local police station",
+          "initiated_by": "person",
+          "when": "August 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Searched identities, found no records and initially said nothing could be done.",
+          "quote": "He could not find anybody in the system with that name. I asked about the brother. The police said that they could not find anything.",
+          "source": "s20-e6-rot-in-hell @ 47:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "court",
+          "institution": "Restraining-order process through police/court",
+          "initiated_by": "person",
+          "when": "By August 24, 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Obtained a restraining order after providing evidence of impersonation.",
+          "quote": "I woke up, I went to the police station, got a restraining order.",
+          "source": "s20-e6-rot-in-hell @ 51:49",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Narrative says police station; exact issuing official not given."
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "North Carolina detective",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Reviewed messages but identified only stalking grounds, despite broader abuse.",
+          "quote": "She looked through the messages and even still she didn't think that there was anything to charge her with besides the stalking.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 6:10",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Two meetings reported; no distinguishable dates/responses to split."
+        },
+        {
+          "n": 7,
+          "institution_type": "employer_or_hr",
+          "institution": "Wilmington hospital management/HR",
+          "initiated_by": "third_party",
+          "when": "After discovery in August 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "After a coworker disclosed abuse, manager considered HR but said he could not fire without charges/evidence; perpetrator later resigned.",
+          "quote": "And after all of that happened He told me he was like what I hope will happen is she just doesn't come back They said I can't just fire someone due to this because there's no incriminating evidence Etc.",
+          "source": "s20-e9-the-real-brody @ 32:21",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Harm brought to employer by a coworker. No finding that the employer protected itself."
+        },
+        {
+          "n": 8,
+          "institution_type": "prosecutor",
+          "institution": "District attorney/assistant district attorney, North Carolina",
+          "initiated_by": "person",
+          "when": "October 20, 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "After brief review, discussed misdemeanor/social-media restriction or dismissal to seek stronger charges.",
+          "quote": "I don't think this judge is going to go for these charges. We can either drop them and try for something else, or we can go ahead and try and get these.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 4:06",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "North Carolina misdemeanor court",
+          "initiated_by": "person",
+          "when": "October 20, 2023",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Misdemeanor dismissed at survivors’ choice to pursue stronger charges; no ban or conviction implemented.",
+          "quote": "I think we have enough to get a felony on her like I wouldn't take that and They both agreed and that's what they did. They dismissed the misdemeanor I believe they talked to the DA after and they said okay, just bring us anything you have So I think they set up a day to meet with her or him set up a day to meet with her or him.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 7:11",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 10,
+          "institution_type": "prosecutor",
+          "institution": "District attorney, North Carolina",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Said extortion/threats to obtain nudes would be needed for more; no stronger action then.",
+          "quote": "The DA told them if they don't have threats from [perpetrator] threatening to get nudes from them, like give me nudes or I'll tell your family or some sort of threat that there's nothing they could do about it or extortion.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 7:11",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 11,
+          "institution_type": "police",
+          "institution": "North Carolina detective",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Referred victims to local agencies; agreed to consider new timeline, without a confirmed reopening.",
+          "quote": "I'm sure if you want to I can take a look at it. Like I said, I don't believe we saw any charges.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 58:19",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "prosecutor",
+          "institution": "Assistant district attorney, New Hanover/Pender County",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Agreed to brief supervising DA by email on new evidence and possible reopening.",
+          "quote": "Yeah, let me, I'll email [the district attorney] and kind of just give him your email and tell him what's going on with the case and remind him of it.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 69:57",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 13,
+          "institution_type": "police",
+          "institution": "FBI Charlotte field office",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Public-information officer referred journalist to national intake/online reporting.",
+          "quote": "But I mean, the best way to report this would be to go to our National Threat Assessment Center, because they're the ones that would, first of all, they're trained professionally to ask the right questions and get the right information on like me.",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 7:38",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 14,
+          "institution_type": "police",
+          "institution": "FBI national intake",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Recorded report, could not receive evidence there, recommended local police and IC3.",
+          "quote": "So I can't say what will happen with the information you provided me other than it has been documented here within our system.",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 10:48",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 15,
+          "institution_type": "police",
+          "institution": "FBI Florida field office",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Recorded report and later special agent called back and interviewed the male image victim.",
+          "quote": "When you get a chance, could you please give me a call back?",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 16:58",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Callback and subsequent interview are beyond intake, but do not establish arrest."
+        },
+        {
+          "n": 16,
+          "institution_type": "prosecutor",
+          "institution": "ADA with another attorney and sex-crimes officer",
+          "initiated_by": "person",
+          "when": "May 23, 2024 and follow-up",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Reviewed organized evidence in detail and identified four possible charges; no new filing established.",
+          "quote": "The ADA and I believe two other officials followed up and said that they foresaw four potential charges. Whether or not they are going to move forward with that, we don't know.",
+          "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 5:17",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 17,
+          "institution_type": "employer_or_hr",
+          "institution": "New North Carolina hospital, unnamed",
+          "initiated_by": "third_party",
+          "when": "By June 2024",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "A later employer learned of the situation and released her from the job.",
+          "quote": "They found out and they let her go.",
+          "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 29:10",
+          "response": "believed_and_acted",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "No claim this ended the survivors’ stalking; immediate information source for employer not specified."
+        },
+        {
+          "n": 18,
+          "institution_type": "regulator_or_licensing",
+          "institution": "North Carolina respiratory licensing board",
+          "initiated_by": "third_party",
+          "when": "By June 2024",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Multiple people contacted the board; revocation hoped for, not reported as achieved.",
+          "quote": "It looks like the respiratory board, after reaching out multiple times and multiple people reaching out, and hopefully they will take her license away, at least in North Carolina, so she can't work here, which would be really great.",
+          "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 29:10",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "This is someone that I had a restraining order against. And she goes to my family and tries to be close to them.",
+      "outcome_source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 39:29",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution",
+        "other_victims",
+        "journalists_podcast_or_virality"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "She started doing everything she could to find out what was going on.",
+      "decisive_work_source": "s20-e6-rot-in-hell @ 43:27",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "She blocked the fictitious boyfriend and moved out with family help before legal protection. The order is only a partial legal boundary; later proximity to family and taunting caused fear. No adjudicated violation or conviction is established. Unknown window-peepers kept separate because identity is not proved."
+    },
+    {
+      "person_id": "P04",
+      "name": "Lauren (college window-peeping)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "An unknown man watched her bedroom for hours; she developed paranoia and PTSD.",
+      "perpetrator_role": "an unidentified window-peeper",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e4-fake"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Campus safety",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Searched and found nothing while noises continued.",
+          "quote": "I called campus safety and they came by, they looked around, they didn't see anything.",
+          "source": "s20-e4-fake @ 35:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Local police",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Next-morning search after neighbor confirmed a man watching; nothing found.",
+          "quote": "They happened to look around the house but at this point, you know, there was nothing for them to see.",
+          "source": "s20-e4-fake @ 36:39",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "Local police",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Three or four further calls that month; responses not described.",
+          "quote": "I called the police probably three or four times in that same month because I kept hearing things and became really paranoid about it.",
+          "source": "s20-e4-fake @ 36:39",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "medical_or_therapy",
+          "institution": "Diagnosing provider, unspecified",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Diagnosed PTSD; treatment unspecified.",
+          "quote": "I was diagnosed with PTSD because of it.",
+          "source": "s20-e4-fake @ 36:39",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I was diagnosed with PTSD because of it.",
+      "outcome_source": "s20-e4-fake @ 36:39",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "No culprit or protective resolution reported. Subsequent calls aggregated only because individual responses are not distinguishable."
+    },
+    {
+      "person_id": "P05",
+      "name": "Lauren (North Carolina window-banging)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "An unknown person banged at windows and shone a light upstairs while she cared for her roommate’s child.",
+      "perpetrator_role": "an unidentified person outside the home",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e4-fake",
+        "s20-e10-i-have-so-much-proof-its-insane-babygirl"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Pender County Sheriff's Office",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "On-duty officer and another deputy attended; home cleared and officer stayed until family arrived.",
+          "quote": "Like it keep knocking knocking so I went there with my pills doing everything checked the whole house and then um because they didn't want to go upstairs because she said she heard something upstairs so I cleared the house and told everything good up there then her I stayed there until Lauren's mom came she's um and said she was out of town and she was like thank you for coming and I said hey you know y'all a good friend.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 44:02",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "I went up there and got Lauren and the son and brought them back to our house and they stayed for a few days.",
+      "outcome_source": "s20-e4-fake @ 40:45",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "Like it keep knocking knocking so I went there with my pills doing everything checked the whole house and then um because they didn't want to go upstairs because she said she heard something upstairs so I cleared the house and told everything good up there then her I stayed there until Lauren's mom came she's um and said she was out of town and she was like thank you for coming and I said hey you know y'all a good friend.",
+      "decisive_work_source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 44:02",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Police cleared the house and stayed until family collected them. Later noises/fear continued. Suspicion of roommate involvement is not established identity."
+    },
+    {
+      "person_id": "P06",
+      "name": "Shana (online impersonation)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "At fourteen she was deceived by fictitious boys, solicited for nudes, stood up and bullied by peers.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e8-what-the-fck-happened"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "She's going to leak my nudes. She's going to say all these things about me and I felt I have to play it cool.",
+            "source": "s20-e8-what-the-fck-happened @ 21:22"
+          },
+          {
+            "reason": "other",
+            "quote": "I knew that if these people online who were making fun of me for having a fake boyfriend or having an internet boyfriend found out the amount of hell that I would get in school for sending pictures to a female.",
+            "source": "s20-e8-what-the-fck-happened @ 19:22"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I don't think I told anybody.",
+      "outcome_source": "s20-e8-what-the-fck-happened @ 20:22",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Also transcribed Shayna/Shaina. Later family disclosure and public advocacy do not establish an individualized institutional response to this childhood harm."
+    },
+    {
+      "person_id": "P07",
+      "name": "Shana (subsequent boyfriend)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A later boyfriend verbally degraded her and policed social media posts.",
+      "perpetrator_role": "a subsequent boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e12-finale-part-2-we-wont-stop-fighting"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "The relationship that I jumped into right after the whole [perpetrator] situation it was so similar to the things that Monica mentioned down to the you know why are you posting things on social media?",
+            "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 13:44"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "Those exact words have been said to me and I just so want young women, my daughter to grow up knowing the signs, knowing what a healthy relationship looks like, knowing her worth, being safe on the internet.",
+      "outcome_source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 13:44",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "No institutional contact described; no means absence from account, not certainty about private history. She later reports a happy marriage with another partner."
+    },
+    {
+      "person_id": "P08",
+      "name": "Chloe",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Her friend used fake boys, notes and social media to set her against Kim and undermine her self-worth.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e8-what-the-fck-happened"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "earlier_disbelief"
+        ],
+        "quotes": [
+          {
+            "reason": "earlier_disbelief",
+            "quote": "I never talked about it, because I was like, people are going to think I'm crazy.",
+            "source": "s20-e8-what-the-fck-happened @ 24:27"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I never came out about it. I never talked about it, because I was like, people are going to think I'm crazy.",
+      "outcome_source": "s20-e8-what-the-fck-happened @ 24:27",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": ""
+    },
+    {
+      "person_id": "P09",
+      "name": "Kim",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A fabricated boy courted both her and Chloe, creating a friendship rift and repeated failed meetings.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e8-what-the-fck-happened"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "We were supposed to meet this guy and it never happened.",
+            "source": "s20-e8-what-the-fck-happened @ 26:31"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "She always had different friend groups, ones that I would say were more acquaintances in public and then there were the group of friends that were more popular and quote-unquote so to speak prettier so she thought I don't know I really don't know her thought process it's crazy so Kim and I we did not get along after this and I have recently spoke to her about this.",
+      "outcome_source": "s20-e8-what-the-fck-happened @ 29:34",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Secondhand account with individual aftermath: continued fictitious relationship, failed meetings and friendship rupture. No institutional contact stated."
+    },
+    {
+      "person_id": "P10",
+      "name": "[unnamed] college roommate (impersonation)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Her roommate impersonated a romantic partner, invented accidents, induced a thousand-mile round trip, sexually exploited vulnerability and sabotaged her next relationship.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e8-what-the-fck-happened",
+        "s20-e12-finale-part-2-we-wont-stop-fighting"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "I could have tried to press charges, but there was no laws on the books.",
+            "source": "s20-e8-what-the-fck-happened @ 55:43"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "Senators in her professional/family network",
+          "initiated_by": "person",
+          "when": "By June 2024",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Began approaching network about legal reform; no institutional response yet reported.",
+          "quote": "I've also started to tap into my network of senators.",
+          "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 34:16",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "So she tried to manipulate and mess with my life for months to come to the point that I transferred colleges after that semester.",
+      "outcome_source": "s20-e8-what-the-fck-happened @ 50:30",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Independently exposed deception and changed colleges. Later legislative advocacy is not effective protection. Calling hospitals to find a fictitious patient is not disclosure of her harm."
+    },
+    {
+      "person_id": "P11",
+      "name": "The real Brody (image theft and stalking)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A woman repeatedly appropriated his photos to abuse others; he describes reputational damage, relationship breakdown, increased drinking and fear of being followed.",
+      "perpetrator_role": "a woman using his photographs and identity",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e11-finale-part-1-shes-a-loose-cannon",
+        "s20-e9-the-real-brody"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "Lawyers in his area",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Said they lacked North Carolina jurisdiction and could not help.",
+          "quote": "I went to the lawyers that I know here and they're like, well, we don't have jurisdiction in North Carolina. We can't do anything.",
+          "source": "s20-e9-the-real-brody @ 21:55",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "North Carolina detective",
+          "initiated_by": "institution",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Interviewed him and said the case was transferring, suggesting he could pursue a local order.",
+          "quote": "She's told me the case was getting transferred to someone else, but that was pretty much it. It was a very simplistic phone call asking X, Y and Z, how are you related to this?",
+          "source": "s20-e9-the-real-brody @ 22:58",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "FBI Florida field office",
+          "initiated_by": "journalist_or_podcast",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Recorded report and later agent called back.",
+          "quote": "Yeah, I will definitely get all this information documented for you. And I'm going to make a report out of this, okay?",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 13:53",
+          "response": "acted_partly",
+          "basis": [
+            "institution_statement"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Later callback/interview supports more than intake alone."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "FBI Florida agents and interested federal prosecutor",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Interviewed him and sought an applicable statute; no warrant or charge established.",
+          "quote": "But she was like, we have a prosecutor that's very interested in this case. And for you at least, we want to try to get justice. So we're going to try to find a statue that we can get her on.",
+          "source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 18:03",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "So that's the number one thing I'm scared about because I don't know if she's watching me, if she's around me somehow.",
+      "outcome_source": "s20-e11-finale-part-1-shes-a-loose-cannon @ 19:07",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "record_checked_by_show"
+      ],
+      "confidence": "medium",
+      "notes": "The real Brody is the survivor’s show label, distinct from a fabricated perpetrator persona. No conviction or effective intervention by season end."
+    },
+    {
+      "person_id": "P12",
+      "name": "The real Brody (high-school catfishing)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "An online woman and purported friend manipulated him for months while refusing visual contact.",
+      "perpetrator_role": "an unknown online impersonator; attribution to later image thief unconfirmed",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e9-the-real-brody"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And then I was like, dude, this is not a real human being.",
+            "source": "s20-e9-the-real-brody @ 8:31"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "Well, yeah, we realized it was bullshit. It was only a couple of months.",
+      "outcome_source": "s20-e9-the-real-brody @ 8:31",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "He ended contact and recalls finding the true photo owner. No institution described for this separate harm."
+    },
+    {
+      "person_id": "P13",
+      "name": "[unnamed] the real Brody's mother",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Her picture and fabricated death were used in the impersonation, compromising desired privacy.",
+      "perpetrator_role": "the woman appropriating her son’s images",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e9-the-real-brody"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "You're putting my mother's picture out there, putting now her in a sense of jeopardy because she cares about her identity being very secure.",
+            "source": "s20-e9-the-real-brody @ 27:03"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "She wasn't very happy about it and then on top of that this bitch told",
+      "outcome_source": "s20-e9-the-real-brody @ 27:03",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Her son reports she learned of the privacy breach and was unhappy. No individualized institutional report stated."
+    },
+    {
+      "person_id": "P14",
+      "name": "Savannah",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A fictitious boyfriend induced her to fly to Omaha, stay with the impersonator through failed meetings, and care for the stranger’s child.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e10-i-have-so-much-proof-its-insane-babygirl"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And then yeah, Savannah had found out from her friends that [perpetrator] was [perpetrator].",
+            "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 22:51"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And then she gets back to me and tells me that she deleted [perpetrator]'s number and [perpetrator]'s number.",
+      "outcome_source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 19:37",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Pseudonym; reported via friends and a supporting witness. She ended contact after friends disclosed the deception; no institution reported."
+    },
+    {
+      "person_id": "P15",
+      "name": "[unnamed] the impersonator’s son (window-banging)",
+      "role_in_story": "child",
+      "harm": "An unknown person banged on the windows and shone a light upstairs, frightening him while Lauren was caring for him.",
+      "perpetrator_role": "an unidentified person outside the home",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e4-fake",
+        "s20-e10-i-have-so-much-proof-its-insane-babygirl"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Pender County Sheriff's Office",
+          "initiated_by": "family_or_friends",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Cleared home and stayed until family collected him and Lauren.",
+          "quote": "Like it keep knocking knocking so I went there with my pills doing everything checked the whole house and then um because they didn't want to go upstairs because she said she heard something upstairs so I cleared the house and told everything good up there then her I stayed there until Lauren's mom came she's um and said she was out of town and she was like thank you for coming and I said hey you know y'all a good friend.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 44:02",
+          "response": "believed_and_acted",
+          "basis": [
+            "institution_statement",
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "I went up there and got Lauren and the son and brought them back to our house and they stayed for a few days.",
+      "outcome_source": "s20-e4-fake @ 40:45",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "Like it keep knocking knocking so I went there with my pills doing everything checked the whole house and then um because they didn't want to go upstairs because she said she heard something upstairs so I cleared the house and told everything good up there then her I stayed there until Lauren's mom came she's um and said she was out of town and she was like thank you for coming and I said hey you know y'all a good friend.",
+      "decisive_work_source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 44:02",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Police cleared the home and stayed until family collected him and Lauren. Partial protection addresses that incident only; no identification or enduring resolution of the threat is reported."
+    },
+    {
+      "person_id": "P16",
+      "name": "Reagan",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "An earlier fictitious relationship used the same man’s images for roughly eighteen months to two years; she identified and contacted the real image owner.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e9-the-real-brody"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "She explained everything to me, like how everything happened and I think she met him on Hinge and there was a fake Instagram, fake TikTok, everything utilizing my pictures.",
+            "source": "s20-e9-the-real-brody @ 13:39"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "some girl in Iowa has been using my pictures and catfishing, she got catfished for like the last like year and a half, two years.",
+      "outcome_source": "s20-e9-the-real-brody @ 13:39",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Secondhand account from image owner, who confronted the perpetrator. No individualized institutional contact described; avoid assuming shared group actions concerned her case specifically."
+    },
+    {
+      "person_id": "P17",
+      "name": "Megan",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "The roommate’s surveillance camera and hostile exclusion made her feel watched and unsafe visiting Lauren.",
+      "perpetrator_role": "her friend who impersonated romantic partners",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e5-evil-to-her-core"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And I didn't want her watching me, which I knew was happening.",
+            "source": "s20-e5-evil-to-her-core @ 28:00"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "After that time I never hung out at Lawrence again because I felt so creeped out and kind of disturbed by the spy operation with cameras going on.",
+      "outcome_source": "s20-e5-evil-to-her-core @ 28:00",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Her own account gives both privacy harm and the aftermath of avoiding the apartment. Not the perpetrator’s sister with the same first name. No report of her individual harm to an institution."
+    },
+    {
+      "person_id": "P18",
+      "name": "John-Michael Lander (childhood trafficking)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Professionals sponsoring his diving sexually trafficked him through high school, with his mother forcing continued attendance; the network regained control after he returned from college.",
+      "perpetrator_role": "a group of professional sponsors including doctors, a lawyer and therapists, assisted by his mother",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "wcn-presents-john-michael-lander-an-athletes-silence"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "Diving coach",
+          "initiated_by": "person",
+          "when": "About age fourteen",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Normalized abuse and threatened his team place for disclosure.",
+          "quote": "If you want to keep your place on the team, you won't talk about it to anyone. We all deal with this, you just have to suck it up and go forward.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 9:42",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "Wright State University dance professor",
+          "initiated_by": "institution",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Elicited disclosure and coordinated with casting director to relocate him where traffickers could not find him.",
+          "quote": "The professor at Wright State contacted the All My Children casting director and those two coordinated a way for me to get back to LA, find a place for me to live so that the professionals couldn't find me.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 22:59",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "Five prospective therapists, unnamed",
+          "initiated_by": "person",
+          "when": "After 2007",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Refused care on learning he was a male sex-abuse survivor.",
+          "quote": "Once they found out that I was a male sex abuse survivor, they didn't want to have anything to do with me. They would give me excuses like, we're just not a fit. You need to find somebody else.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 25:59",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Five rejections collectively reported; not enough detail to separate individual contacts. Does not prove disbelief as opposed to refusal."
+        },
+        {
+          "n": 4,
+          "institution_type": "medical_or_therapy",
+          "institution": "Eventual therapist",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Used journaling, grief and present-focused work to help him understand and heal.",
+          "quote": "She was the first person that started to help me realize what was going on. She started to have me journal, which ended up being my book.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 25:59",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "victim_services",
+          "institution": "Darkness to Light",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Validated his story and encouraged disclosure.",
+          "quote": "They were the first group of people that started saying that you do have a story that needs to be heard. And they encouraged me to move forward.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 29:11",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "victim_services",
+          "institution": "National Coalition to End Sexual Exploitation",
+          "initiated_by": "institution",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Invited him to keynote at a global summit.",
+          "quote": "After I did the TED Talk and it was released, NACOSI, the National Coalition to End Sexual Exploitation, invited me to be a keynote speaker in Washington DC for their global summit.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 30:11",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "victim_services",
+          "institution": "The Army of Survivors",
+          "initiated_by": "institution",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Invited him to join board; he accepted.",
+          "quote": "And then through Nicosia, [a founder], who is one of the founders of the Army of Survivors reached out to me and asked me if I'd be interested in being on their board. I said, definitely yes.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 31:11",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "school_or_university",
+          "institution": "Ohio State University-related compensation process",
+          "initiated_by": "person",
+          "when": "Denial 1 of three, exact dates unknown",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Denied his claim/story using limitations and teenage-status grounds.",
+          "quote": "They've used the argument of statute of limitation, which had run out.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 10:43",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Three denials reported, but dates, separate reasons and exact deciding body unspecified. No assumption it was a court judgment."
+        },
+        {
+          "n": 9,
+          "institution_type": "school_or_university",
+          "institution": "Ohio State University-related compensation process",
+          "initiated_by": "person",
+          "when": "Denial 2 of three, exact dates unknown",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Denied his claim/story using limitations and teenage-status grounds.",
+          "quote": "They've used the argument of statute of limitation, which had run out.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 10:43",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Three denials reported, but dates, separate reasons and exact deciding body unspecified. No assumption it was a court judgment."
+        },
+        {
+          "n": 10,
+          "institution_type": "school_or_university",
+          "institution": "Ohio State University-related compensation process",
+          "initiated_by": "person",
+          "when": "Denial 3 of three, exact dates unknown",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Denied his claim/story using limitations and teenage-status grounds.",
+          "quote": "They've used the argument of statute of limitation, which had run out.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 10:43",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Three denials reported, but dates, separate reasons and exact deciding body unspecified. No assumption it was a court judgment."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "The professor at Wright State contacted the All My Children casting director and those two coordinated a way for me to get back to LA, find a place for me to live so that the professionals couldn't find me.",
+      "outcome_source": "wcn-presents-john-michael-lander-an-athletes-silence @ 22:59",
+      "protection_contributors": [
+        "the_person",
+        "institution"
+      ],
+      "decisive_work_by": "institution",
+      "decisive_work_quote": "The professor at Wright State contacted the All My Children casting director and those two coordinated a way for me to get back to LA, find a place for me to live so that the professionals couldn't find me.",
+      "decisive_work_source": "wcn-presents-john-michael-lander-an-athletes-silence @ 22:59",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "The university professor and casting director coordinated a safe relocation beyond the trafficking network’s reach. This is the institutional protective action, distinct from later therapy and denied compensation. No conviction reported. Three limitations-based denials have no dates or specified deciding body. Five prospective therapist refusals cannot be individually separated from the narrative."
+    },
+    {
+      "person_id": "P19",
+      "name": "John-Michael Lander (college stalking and rape)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "A graduate student stalked him, gave him wine and raped him; he awoke injured and became unable to function at college.",
+      "perpetrator_role": "a graduate student",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "wcn-presents-john-michael-lander-an-athletes-silence"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "University-area medical center",
+          "initiated_by": "family_or_friends",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Performed a rape kit; he describes care as demoralizing in a context denying male rape.",
+          "quote": "Going through the rape kit and everything was demoralizing and it was embarrassing.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 20:56",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": "Account does not identify which provider voiced the general claim that men could not be raped; no unsupported clinician-specific disbelief code."
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "University of California, Irvine",
+          "initiated_by": "institution",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Contacted parents and sent him home as having failed college; he was returned to the trafficking network.",
+          "quote": "They said, no, you basically have flunked out of college. You gotta go. What had happened is they had contacted my parents.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 20:56",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "My parents contacted the lawyer and the lawyer was the one who brought me back home and put me back in to the circle of these professionals.",
+      "outcome_source": "wcn-presents-john-michael-lander-an-athletes-silence @ 20:56",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "University response returned him to traffickers. No police investigation or sanction described. Later therapy addresses combined trauma, recorded also in childhood-trafficking record."
+    },
+    {
+      "person_id": "P20",
+      "name": "John-Michael Lander (entertainment-industry coercion)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Directors/producers conditioned roles on sex and pressured him into underwear auditions; refusal cost roles and he later left the industry.",
+      "perpetrator_role": "entertainment-industry directors and producers",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "wcn-presents-john-michael-lander-an-athletes-silence"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "Film and television casting/production employers",
+          "initiated_by": "institution",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Withheld roles for refusing sex and required underwear auditions.",
+          "quote": "There were many times that I lost roles because I would not sleep with the director or the producer.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 22:59",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "There were many times that I lost roles because I would not sleep with the director or the producer.",
+      "outcome_source": "wcn-presents-john-michael-lander-an-athletes-silence @ 22:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Prospective employers themselves imposed the harmful conditions. No separate formal complaint or independent protective response described."
+    },
+    {
+      "person_id": "P21",
+      "name": "[unnamed] fifteen-year-old student",
+      "role_in_story": "other",
+      "harm": "An adult aged thirty-five had a sexual relationship with him, supported by family because the adult paid bills.",
+      "perpetrator_role": "an adult described as the student’s boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "wcn-presents-john-michael-lander-an-athletes-silence"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "school_or_university",
+          "institution": "High school teacher",
+          "initiated_by": "person",
+          "when": "2007",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Recognized the age concern and reported to assistant principal.",
+          "quote": "I told him that I was gonna have to report it because as teachers, we have to do that.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 24:59",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "school_or_university",
+          "institution": "High school assistant principal",
+          "initiated_by": "third_party",
+          "when": "2007",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "Said school knew but could not act because family approved.",
+          "quote": "There's nothing that we can do because his mother and grandmother are aware and supported it.",
+          "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 24:59",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "There's nothing that we can do because his mother and grandmother are aware and supported it.",
+      "outcome_source": "wcn-presents-john-michael-lander-an-athletes-silence @ 24:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Teacher reported to assistant principal; no police/child-protection referral or later fate stated."
+    },
+    {
+      "person_id": "P22",
+      "name": "[unnamed] the impersonator’s son (maternal disruption)",
+      "role_in_story": "child",
+      "harm": "His mother repeatedly moved him and involved him in validating fictitious identities; adults describe him as collateral damage from her conduct.",
+      "perpetrator_role": "his mother",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e12-finale-part-2-we-wont-stop-fighting"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "She needs to be held accountable and it's completely heartbreaking her child is unfortunately collateral damage.",
+            "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 25:05"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "Her child deserves better than this chaos she's placed him in.",
+      "outcome_source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 25:05",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "No child-protection report, custody change or effective institutional response to her parenting is described. School attendance and adults’ wishes for removal do not prove such contacts."
+    },
+    {
+      "person_id": "P23",
+      "name": "[unnamed] magistrate (reputational allegations)",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A former family acquaintance spread allegations of a sexual relationship; he describes concern for his marriage and professional reputation and blocked her.",
+      "perpetrator_role": "a former family acquaintance",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s20-e10-i-have-so-much-proof-its-insane-babygirl"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "A judge consulted by the magistrate",
+          "initiated_by": "person",
+          "when": "Not precisely dated",
+          "what_was_asked": "Safety, support or accountability regarding this harm; see response and notes for specifics.",
+          "what_institution_did": "The magistrate says he discussed the allegations with a judge; no judicial response described.",
+          "quote": "Yeah, well we heard about it and I talked to my judge, [a judge] about that.",
+          "source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 39:51",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No further outcome for this contact specified; later contacts and final outcome recorded separately.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "So I blocked her.",
+      "outcome_source": "s20-e10-i-have-so-much-proof-its-insane-babygirl @ 54:08",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Name withheld because the same individual is accused of misconduct in the narrative. He denies it; the journalist calls the source unreliable. This record codes the reported reputational harm without deciding the misconduct allegation. He says he told a judge, but no investigation or protective disposition is described."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Other confirmed female victims; aggregate overlaps coded individuals, not an additional count.",
+      "count_stated": 20,
+      "reached_institution": "unknown",
+      "quote": "I feel like it's misunderstood that we're the only ones affected when we've confirmed more than 20 female victims so far, not including the men she's stalked throughout the years.",
+      "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 25:05"
+    },
+    {
+      "description": "Anonymous other high-school victims, possibly five; overlaps other totals.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "We have one, two, three, four, four anonymous others from high school that we know of, possibly five.",
+      "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 4:17"
+    },
+    {
+      "description": "Other confirmed victims declining an interview; overlap with totals unknown.",
+      "count_stated": 8,
+      "reached_institution": "unknown",
+      "quote": "Then we have one, two, three, four, five, six, seven, eight other victims who I, we have personally confirmed with one way or the other who did not want to be on the podcast.",
+      "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 4:17"
+    },
+    {
+      "description": "Another possible Omaha victim after Savannah; unconfirmed.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "We had heard secondhand that there was potentially another victim in Omaha that happened after Savannah.",
+      "source": "s20-e12-finale-part-2-we-wont-stop-fighting @ 5:17"
+    },
+    {
+      "description": "Victoria and an unnamed man reportedly impersonated to each other; no individual aftermath.",
+      "count_stated": 2,
+      "reached_institution": "unknown",
+      "quote": "making herself the middleman in their relationship, catfishing them both.",
+      "source": "s20-e9-the-real-brody @ 25:59"
+    },
+    {
+      "description": "Other young men trafficked by the same professional network; individual aftermath absent.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "Years later, I ran into boys who were being trafficked by these same professionals before they all started to die off.",
+      "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 28:06"
+    },
+    {
+      "description": "Other Ohio State survivors compensated; individual stories absent.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "Ohio State has paid out millions and millions of dollars to survivors.",
+      "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 9:42"
+    },
+    {
+      "description": "Future medical students disclosed their own abuse following an educational talk; individual stories not supplied.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "After the panelists were finished, several doctors came up, our future doctors, and told me their",
+      "source": "wcn-presents-john-michael-lander-an-athletes-silence @ 31:11"
+    }
+  ],
+  "coder_notes": "LINE COUNTS MATCH verified before reading. All eight chunks read fully in order; complete timestamped verbatim passages retained in /tmp/notes.md after each file. Unassigned INDEX.txt read and eight potentially relevant episodes read fully. Others in index concern unrelated stories/topics or older service updates. Athlete crossover included because explicitly part of assigned season manifest. Ad teasers, examples/statistics and next-season trailer are not substantive season stories. No-institution/no for secondary people means no disclosure stated, not proof about unstated private history; not_stated quotes anchor the available account without inventing a reason. Shared legal contacts repeated only for explicitly involved survivors. Historical victims are not assumed individually covered by general group reports. Contacts sequenced within each reported institutional path; timing across therapy/legal/advocacy paths often uncertain. Institutional responses, temporary orders, dismissed charges and later investigation remain distinct; no conviction reported. Partial-protection coding for the women reflects extant legal boundaries, not a claim institutions ended the fictitious relationships. Anonymous claims/therapist refusals/calls aggregate only where distinct details unavailable. Unknown peeper identity kept separate from roommate allegations. Perpetrator/accused names and non-survivor names redacted to roles in quotations; transcription errors preserved. No web search, other branches, other coders or outside updates consulted. Athlete trafficking outcome reflects the professor’s coordinated escape; this was an institutional contribution, unlike purely independent flight. The child’s two distinct harms are separate records."
+}

@@ -1,0 +1,329 @@
+{
+  "season": 12,
+  "coder": "CA",
+  "coder_model": "GPT-6",
+  "reading_log": [
+    {
+      "file": "s12_01.txt",
+      "last_line_number": 98,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s12_02.txt",
+      "last_line_number": 104,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s12_03.txt",
+      "last_line_number": 67,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "data-points-cons-schemes-fraud",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Fraud and false-identity/job scams overlap the central deception; checked for a season-specific discussion or update. Read through line 16; no season 12 person-specific continuation or update found."
+    },
+    {
+      "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Love bombing and psychological manipulation overlap the season; checked for discussion or continuation of Kenzie’s story. Read through line 16; no season 12 person-specific continuation or update found."
+    },
+    {
+      "slug": "exciting-sww-updates",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "An update episode adjacent to the season transition could contain season 12 follow-up. Read through line 7; no season 12 person-specific continuation or update found."
+    },
+    {
+      "slug": "data-points-stalking-featuring-lenora-claire",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Surveillance and the van-following episode could be revisited in this discussion. Read through line 12; no season 12 person-specific continuation or update found."
+    },
+    {
+      "slug": "data-points-ptsd-featuring-dr-danielle-moore",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Witnessing violence and ongoing trauma are central to the coworker’s story and Kenzie’s aftermath; checked for discussion or follow-up. Read through line 19; no season 12 person-specific continuation or update found."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Kenzie",
+      "role_in_story": "central_survivor",
+      "harm": "Her boyfriend constructed an elaborate false identity and relationship, including a fictitious child, cancer, career, and witness-protection program. He induced surveillance fears, caregiving, and spending on the nonexistent child while concealing his marriage; she describes lasting emotional harm and difficulty trusting and dating.",
+      "perpetrator_role": "her boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s12-e1-witpro",
+        "s12-e2-people-are-watching",
+        "s12-e3-im-being-followed",
+        "s12-e4-constant-state-of-chaos",
+        "s12-e5-hold-the-fck-up",
+        "s12-e6-my-darkness-was-hooked"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "And you can pay me back, leave it somewhere on the porch, and we'll call it even, because I'm not trying to start a court case. I'm not trying to get into legal.",
+            "source": "s12-e5-hold-the-fck-up @ 40:08"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "her employer",
+          "initiated_by": "person",
+          "when": "After exposing the deception and ending the relationship",
+          "what_was_asked": "Time away from work to recover.",
+          "what_institution_did": "Her boss allowed leave and reassured her that her job would remain available.",
+          "quote": "My boss let me take a leave. I was like, I'm having trouble. I'm can't get up in the morning.",
+          "source": "s12-e6-my-darkness-was-hooked @ 21:41",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She received support from friends and continued to experience trauma triggers.",
+          "notes": "The next paragraph at 22:42 quotes reassurance that the job is there. This is concrete recovery support; it did not stop the relationship or sanction the boyfriend. Residual emotional harm continued."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And she shuts the door and it's like, we're done. Like, who's done? You and me or you and [perpetrator]. Oh, she's like, no, me and [perpetrator], we're done. Oh my God.",
+      "outcome_source": "s12-e5-hold-the-fck-up @ 31:59",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "Her friends uncovered the deception and she ended the relationship; no institution caused that ending. Employer leave was supportive but is not coded as institutional protection. Podcast interviews and publication are the retelling through which the story is heard, not a separate organization exercising protective or adjudicative authority; they are not counted as institutional contacts. The alleged agents, trial, medical treatment of the boyfriend, and divorce mediation were parts of his false narrative and are not contacts by real institutions with her harm. Consulting doctor friends about his purported cancer was not disclosure of her abuse. At s12-e5-hold-the-fck-up @ 45:15 she describes looking into suing and believes her state requires physical injury for an emotional-distress claim; no lawyer or court contacted is identified, so no legal refusal is invented. At 40:08 she asks him privately for repayment; receipt of payment is not confirmed. Her reluctance to litigate and to attach her name publicly to his are stated barriers to those routes, not evidence she never told any institution. No conviction or sanction is stated. The single outcome code does not deny the recovery support she received."
+    },
+    {
+      "person_id": "P02",
+      "name": "[unnamed] boyfriend's wife",
+      "role_in_story": "co_victim",
+      "harm": "Her husband concealed a long parallel relationship and, by his admission relayed by Kenzie, financed that relationship using his wife’s money. Kenzie attempted to alert her with a video documenting the relationship; the true recipient and the wife’s subsequent choices remain uncertain.",
+      "perpetrator_role": "her husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s12-e4-constant-state-of-chaos",
+        "s12-e5-hold-the-fck-up",
+        "s12-e6-my-darkness-was-hooked"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And she replied, he came clean, it sucks. I don't wanna talk to you. Please don't contact me again, thanks for understanding.",
+      "outcome_source": "s12-e6-my-darkness-was-hooked @ 17:36",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "No institutional contact or protection is described for her, but absence of disclosure in this account does not establish that none occurred; reached_institution is unclear. The outcome is limited to no institutional protection demonstrated, not a claim about what she eventually did. Kenzie immediately questions whether the husband impersonated the wife in this reply. The supposed divorce and mediation paperwork supplied to Kenzie are not treated as real court contacts. The claim the wife or her family offered hush money is not corroborated and is not coded as an institutional settlement. Financial harm is attributed to the husband’s admission as reported by Kenzie (s12-e5-hold-the-fck-up @ 39:08), not independent access to the wife’s accounts."
+    },
+    {
+      "person_id": "P03",
+      "name": "[unnamed] Kenzie’s coworker who witnessed the shooting",
+      "role_in_story": "other",
+      "harm": "While dining with her boyfriend, she witnessed a police chase and shooting ending in a crash and a mutilated body landing in front of her. She describes continuing trauma and difficulty finding people or therapists who understand.",
+      "perpetrator_role": "participants in a gang shootout and ensuing police chase",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s12-e3-im-being-followed"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "police at the shooting and crash",
+          "initiated_by": "institution",
+          "when": "At the witnessed incident, about four years before her conversation with Kenzie",
+          "what_was_asked": "Not stated; police were already involved in the chase.",
+          "what_institution_did": "Police arrived at the scene; the account does not describe a specific response to her trauma.",
+          "quote": "And she did what we would all do, which is screamed her head off. Cops showed up.",
+          "source": "s12-e3-im-being-followed @ 26:15",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She later spoke with police and therapists and referred to a court case.",
+          "notes": "Do not substitute the boyfriend’s invented witness-protection narrative for her account. The shooting by police is part of what she witnessed; no deliberate targeting of her by police is described."
+        },
+        {
+          "n": 2,
+          "institution_type": "medical_or_therapy",
+          "institution": "therapists she spoke with",
+          "initiated_by": "person",
+          "when": "After the traumatic incident; dates and number of visits unspecified",
+          "what_was_asked": "Understanding and support for the effects of witnessing the violence.",
+          "what_institution_did": "She found therapists less understanding and comforting than police acquaintances; no specific dismissal or treatment is described.",
+          "quote": "She found the most comfort talking to other cops and detectives and things, people who are involved in these kinds of situations every day, then she did from talking to therapists or friends or whatnot, because she was like, they don't understand, and it's not their fault.",
+          "source": "s12-e3-im-being-followed @ 29:21",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She continued seeking an outlet and later shared her story with Kenzie and the boyfriend.",
+          "notes": "An unspecified series is grouped because the transcript does not supply separable visits. Lack of understanding is not an explicit disbelief or mental-health dismissal."
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "other cops and detectives",
+          "initiated_by": "person",
+          "when": "After the incident; sequence relative to therapy and trial not specified",
+          "what_was_asked": "Understanding from people familiar with violence.",
+          "what_institution_did": "Conversations with police and detectives provided her the greatest comfort; specific protective measures are not stated.",
+          "quote": "She found the most comfort talking to other cops and detectives and things, people who are involved in these kinds of situations every day, then she did from talking to therapists or friends or whatnot, because she was like, they don't understand, and it's not their fault.",
+          "source": "s12-e3-im-being-followed @ 29:21",
+          "response": "acted_partly",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She still found few people understood and connected with Kenzie over their purportedly similar experiences.",
+          "notes": "Supportive discussion is the concrete partial action. These may have been informal conversations with officers; no formal case response is inferred. Their number and precise dates are unspecified."
+        },
+        {
+          "n": 4,
+          "institution_type": "court",
+          "institution": "court handling the shooting case",
+          "initiated_by": "unclear",
+          "when": "Case ended a couple of months before the coworker told Kenzie, in approximately early 2021",
+          "what_was_asked": "Not stated.",
+          "what_institution_did": "A related court case concluded; the verdict, charges, her participation and protective effects are not reported.",
+          "quote": "She's telling me all this information, and she was like, yeah, like the court case just ended a couple of months ago.",
+          "source": "s12-e3-im-being-followed @ 26:15",
+          "response": "unclear",
+          "basis": [
+            "second_witness"
+          ],
+          "what_happened_next": "She continued to describe the trauma and difficulty getting understanding.",
+          "notes": "A case is reported, but this does not establish a conviction or a protective result. Order after informal support contacts is approximate, not a claimed exact chronology."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She's also getting upset because she's saying how she can never really find the right people to talk to, the right therapist because this is such a rare and unique situation.",
+      "outcome_source": "s12-e3-im-being-followed @ 28:21",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Included because an actual separate story of harm and its aftermath is recounted. Kenzie says she checked distinguishing details and it was not the same event her boyfriend claimed to witness. His invented shooting victims and agents are excluded. The coworker’s experience is relayed secondhand by Kenzie; the court outcome and exact institutional chronology are unknown. No effective protective intervention is established, despite comfort from conversations. Do not infer that police deliberately harmed her or that an unreported conviction protected her after the witnessed violence had already ended. No additional record for her dining companion: no separate harm and aftermath are given. No diagnosis is asserted."
+    },
+    {
+      "person_id": "P04",
+      "name": "[unnamed] Kenzie’s sister",
+      "role_in_story": "co_victim",
+      "harm": "The boyfriend’s fabricated witness-protection story caused her to fear federal surveillance of her own computer and danger to her sister. She later learned the deception and describes anger and continuing concern about the effects on her sister.",
+      "perpetrator_role": "her sister’s boyfriend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s12-e1-witpro",
+        "s12-e2-people-are-watching",
+        "s12-e3-im-being-followed",
+        "s12-e4-constant-state-of-chaos",
+        "s12-e6-my-darkness-was-hooked"
+      ],
+      "reached_institution": "unclear",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "I was so pissed off. And I wanted to call him. I wanted to do so many things, but I was like, I don't obviously don't want to overstep my boundaries. I love my sister and I don't want to hurt her any more than she already is.",
+      "outcome_source": "s12-e6-my-darkness-was-hooked @ 23:43",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Included for directly described coercive spillover, not simply for witnessing Kenzie’s distress: at s12-e2-people-are-watching @ 24:36 she says she feared agents hacking her computer because she researched him. The purported federal surveillance is part of the deception, not an actual institutional contact or institutional harm. No institutional contact on her behalf is reported; reached_institution remains unclear rather than asserting a never-report history. Outcome means no demonstrated institutional protection. Her discovery of the truth and support for her sister were private/family actions."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Other women previously subjected to the boyfriend’s false-identity relationships; no individual histories or institutional outcomes supplied.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "He's like, I've done this before. I have this in writing actually. He was like, I have done this to many women before,",
+      "source": "s12-e5-hold-the-fck-up @ 35:06"
+    },
+    {
+      "description": "The real child whose photographs were taken from the internet and passed off as his daughter. No aftermath for the child is described; the fictitious daughter is not a separate person.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "I was like, who is the child you've been showing me? Who is that? And he was like, well, that's my wife's friend's daughter. And I just pull all of her photos and things off of the internet and pass them off as my own.",
+      "source": "s12-e5-hold-the-fck-up @ 42:09"
+    }
+  ],
+  "coder_notes": "All three assigned chunk files were read in order, in consecutive line ranges, through the manifest’s final lines; the build reported LINE COUNTS MATCH. The unassigned INDEX was read through line 18 and five potentially relevant episodes were read in full; none supplies a continuation of this season. Verbatim paragraph notes with source slugs and timestamps are retained in /tmp/notes.md. No transcript was skipped or truncated in the actual consecutive reads. The account contains fictional agents, trials, cancer, mediation, and a daughter; these are not evidence of real institutional responses. A real coworker’s witnessed violence and the wife’s harm are distinguished from those fabrications. Supporting friends are witnesses and investigators, not separate person records without an individual harm-and-aftermath story; the sister is included because she explicitly describes personally feared computer surveillance. No harm to the former wife is inferred from a six-week marriage and divorce or from speculation that she was traumatized. The assistant persona and invented mass-shooting victims are not real harmed people established by the account. Unrelated promotional stories and generic educational examples/statistics in unassigned episodes are not added as season 12 persons. For secondary people without a disclosed institutional history, reached_institution is unclear and not_protected denotes no institutional protection demonstrated; the schema offers no unknown outcome. Contact order for the coworker and timing of workplace contact are approximate where the account does not specify chronology. No missing duration or number of visits is invented. Perpetrator names in quotations are replaced with [perpetrator]; no other quotation wording is changed. Podcast production and personal conversations with friends/family are not themselves treated as responding institutions; the podcast is the source of these accounts, not a protective authority. Kenzie’s employer is the actual responding organization in her record."
+}

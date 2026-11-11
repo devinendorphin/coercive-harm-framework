@@ -1,0 +1,2525 @@
+{
+ "season": 18,
+ "coder": "A",
+ "reading_log": [
+  {
+   "file": "s18_01.txt",
+   "last_line_number": 115,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s18_02.txt",
+   "last_line_number": 113,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s18_03.txt",
+   "last_line_number": 107,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s18_04.txt",
+   "last_line_number": 108,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s18_05.txt",
+   "last_line_number": 112,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s18_06.txt",
+   "last_line_number": 91,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s18_07.txt",
+   "last_line_number": 89,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s18_08.txt",
+   "last_line_number": 95,
+   "read_in_full": true,
+   "problems": ""
+  }
+ ],
+ "unassigned_checked": [
+  {
+   "slug": "INDEX",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "Required list of unassigned episodes."
+  },
+  {
+   "slug": "data-points-false-reporting-and-its-impact-on-survivors",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "Season 18 heavily involves false reporting (doula-fraud perpetrator, false accusations against Amy W. and Tyler); checked whether it discusses these stories. It does not mention any season 18 person."
+  },
+  {
+   "slug": "data-points-munchausen-syndrome-by-proxy-featuring-andrea-dunlop",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "Season 18 discusses factitious disorder/Munchausen in the doula-fraud story; checked for discussion. None found."
+  },
+  {
+   "slug": "data-points-cons-schemes-fraud",
+   "opened": true,
+   "read_in_full": true,
+   "relevant_to": [],
+   "why": "Season 18 includes fraud (doula fraud, loans); checked for discussion. Generic statistics only; no season 18 story."
+  }
+ ],
+ "persons": [
+  {
+   "person_id": "P01",
+   "name": "Alexis",
+   "role_in_story": "central_survivor",
+   "harm": "Dating-app boyfriend (a DJ who lied about his age, names and children) emotionally manipulated and gaslit her, left her paying for everything, cheated, iced her out, and turned blame on her when she found him in a bedroom with an unconscious woman (later understood as likely a sexual assault).",
+   "perpetrator_role": "her boyfriend (a DJ she met on a dating app)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "But I have never really been quite ready to share my story up until now, the only people who I've shared my story with, concerning this particular individual, has been with my best friend, my husband, and with my therapist.",
+      "source": "s18-e1-alexis-youre-not-alone @ 2:07"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "her therapist",
+     "initiated_by": "person",
+     "when": "after the relationship (timing not given)",
+     "what_was_asked": "Not stated; she shared her story.",
+     "what_institution_did": "The story says only that she told her therapist; no response is described.",
+     "quote": "the only people who I've shared my story with, concerning this particular individual, has been with my best friend, my husband, and with my therapist.",
+     "source": "s18-e1-alexis-youre-not-alone @ 2:07",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Nothing further about the therapist.",
+     "notes": "Only institutional contact for her own harm. Her mother threatened to call police when she could not reach her (26:12) but this was not about the abuse and no call was made."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "I did feel a huge sense of relief that I was finally done. I didn't have to deal with him anymore.",
+   "outcome_source": "s18-e1-alexis-youre-not-alone @ 61:11",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Relationship ended when he broke up with her (no institution involved). Her harm reached only a therapist, with no response described; coded reached=yes on a literal reading (therapy provider is an institution) - a reader may prefer 'no'. She later learned 20+ Black women had come forward and police dropped a case against him (see others_mentioned) and that he was arrested for domestic assault on a family member (P04)."
+  },
+  {
+   "person_id": "P02",
+   "name": "[unnamed] survivor in first Facebook post (assaulted at his apartment)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Passed out after drinking at his apartment (after asking her boyfriend not to leave her alone with him) and woke to him sexually assaulting her.",
+   "perpetrator_role": "Alexis's ex-boyfriend (the DJ)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone"
+   ],
+   "reached_institution": "unclear",
+   "never_reached": {
+    "reasons": [
+     "earlier_disbelief",
+     "abuser_status_or_connections"
+    ],
+    "quotes": [
+     {
+      "reason": "earlier_disbelief",
+      "quote": "When she told her boyfriend about it he responded saying he didn't want to hear about that bullshit. She's lying, she's making it up. He didn't believe her.",
+      "source": "s18-e1-alexis-youre-not-alone @ 68:38"
+     },
+     {
+      "reason": "abuser_status_or_connections",
+      "quote": "She has tried to do what she can to expose this group of men for what they really are but they have so many people in this community fooled that she hasn't been listened to.",
+      "source": "s18-e1-alexis-youre-not-alone @ 68:38"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "She has tried to do what she can to expose this group of men for what they really are but they have so many people in this community fooled that she hasn't been listened to.",
+   "outcome_source": "s18-e1-alexis-youre-not-alone @ 68:38",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Known only through Alexis's reading of Facebook posts. Whether she was among the 'more than 20 black women' whose case police dropped (70:38) is not stated, hence reached=unclear."
+  },
+  {
+   "person_id": "P03",
+   "name": "[unnamed] survivor in second Facebook post (forced oral attempt)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Passed out while loosely dating one of his friends and woke to him trying to force himself into her mouth; he cussed her out when she pushed him off.",
+   "perpetrator_role": "Alexis's ex-boyfriend (the DJ)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone"
+   ],
+   "reached_institution": "unclear",
+   "never_reached": {
+    "reasons": [
+     "abuser_status_or_connections"
+    ],
+    "quotes": [
+     {
+      "reason": "abuser_status_or_connections",
+      "quote": "That whole crew that she mentioned, they were all in this together, and nobody was ever listening to her.",
+      "source": "s18-e1-alexis-youre-not-alone @ 69:38"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "This was something that she frequently posted about and even on her Instagram, she frequently posted about wanting to out him as an abuser, but nobody was listening to her.",
+   "outcome_source": "s18-e1-alexis-youre-not-alone @ 69:38",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Known only through posts Alexis read. Not stated whether she was part of the 20+ women whose police case was dropped."
+  },
+  {
+   "person_id": "P04",
+   "name": "[unnamed] family member (domestic assault charge)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Alexis's background search showed he was arrested for domestic assault on a family member in the summer of the year they broke up.",
+   "perpetrator_role": "Alexis's ex-boyfriend (the DJ)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police (not named)",
+     "initiated_by": "unclear",
+     "when": "June or July of the year Alexis and he broke up",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "Arrested him for domestic assault on a family member.",
+     "quote": "I also saw that in June or July of the year that we broke up, he got arrested for domestic assault on a family member was what the charge said.",
+     "source": "s18-e1-alexis-youre-not-alone @ 72:46",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Released on bail.",
+     "notes": "Known only from a background-search site Alexis consulted; basis is her account of that record."
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "court / bail process (not named)",
+     "initiated_by": "institution",
+     "when": "after the arrest",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "He was released on bail and apparently served no time.",
+     "quote": "It looked like he got out on bail and it didn't look like he really had to serve any time for it, which unfortunately I feel like happens so often with people like this.",
+     "source": "s18-e1-alexis-youre-not-alone @ 73:49",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No further information.",
+     "notes": "Outcome of charge unknown; 'didn't look like he really had to serve any time' is Alexis's inference."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "When you think you have them, they get off somehow and they just get set free like nothing ever happened",
+   "outcome_source": "s18-e1-alexis-youre-not-alone @ 73:49",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "I also saw that in June or July of the year that we broke up, he got arrested for domestic assault on a family member was what the charge said.",
+   "decisive_work_source": "s18-e1-alexis-youre-not-alone @ 72:46",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Very thin; included because the season gives a harm and an institutional aftermath. Conviction status unknown (coded charged_not_convicted on Alexis's reading that he got off)."
+  },
+  {
+   "person_id": "P05",
+   "name": "Karissa",
+   "role_in_story": "central_survivor",
+   "harm": "Over about a year and two months a 'friend' manipulated her with constant demands and manufactured medical emergencies, had her drive to distant hospitals and pay for meals, had her support a claimed sexual assault by a brother (a ten-hour hospital exam), and later claimed a pregnancy from that assault by Snapchat; the friend's claims were apparently fabricated.",
+   "perpetrator_role": "a friend (her ex-girlfriend's best friend), later charged in a doula-fraud case",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone",
+    "s18-e2-karissa-yeah-shes-done-that-before",
+    "s18-e3-karissa-just-vibing",
+    "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "did_not_know_it_was_abuse",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "There was nothing I could figure out that made it make sense which is why I kind of let it happen because I couldn't prove it either way.",
+      "source": "s18-e3-karissa-just-vibing @ 24:55"
+     },
+     {
+      "reason": "other",
+      "quote": "And I think I kept rushing them off because she is someone who can be easily judged in society. I was trying to not be that person.",
+      "source": "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor @ 11:38"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "I just didn't answer. And that was the last time her and I talked.",
+   "outcome_source": "s18-e3-karissa-just-vibing @ 29:15",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Karissa ended contact herself in February; the perpetrator was arrested about a month later on doula-related charges (not for anything done to Karissa) and was in custody awaiting proceedings at last report: 'As far as I know, she's been in jail and has had weekly Zoom court hearings' (s18-ep4 @ 19:53). The hospital/sexual-assault-centre visit Karissa accompanied concerned the perpetrator's own claimed assault, not Karissa's harm, so it is not coded as a contact. Karissa also submitted her story to the podcast before the arrest. Second witnesses: her ex Emma, her best friend, and the perpetrator's 'cottage friend' who later contacted her."
+  },
+  {
+   "person_id": "P06",
+   "name": "Emma",
+   "role_in_story": "co_victim",
+   "harm": "Karissa's then-girlfriend and the perpetrator's best friend; was lied to for months that the perpetrator's mother had died of an overdose, and had the perpetrator insert herself into her relationship.",
+   "perpetrator_role": "her best friend (later charged in a doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone",
+    "s18-e2-karissa-yeah-shes-done-that-before",
+    "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "I think that's why Emma's thing was she wanted to believe that [perpetrator] was doing things to protect herself and not just for the sake of lying.",
+      "source": "s18-e1-alexis-youre-not-alone @ 20:41"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "She was distraught. She was embarrassed because she was so close to her.",
+   "outcome_source": "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor @ 12:40",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told only through Karissa. Emma confronted the perpetrator by message and resumed the friendship; contact ended after the breakup with Karissa. The perpetrator's mother confirmed the lie ('yeah, she's done that before')."
+  },
+  {
+   "person_id": "P07",
+   "name": "Seanna (Shauna)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "A new doula whose first client faked a full-term labour for about three days in August 2022 (nudity and touch under false pretences, sleep deprivation, feeling unable to leave); an ultrasound showed no pregnancy. She then spent months trying to stop the perpetrator targeting other doulas.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone",
+    "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor",
+    "s18-e5-seanna-how-is-there-more"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police (welfare check)",
+     "initiated_by": "person",
+     "when": "the day she got home (August 2022)",
+     "what_was_asked": "A welfare check on the client, telling police she was faking a pregnancy.",
+     "what_institution_did": "Police questioned what she was worried about and did not act.",
+     "quote": "I had called the police the day that I got home for a welfare check and they didn't want to do anything. They were like, well, what do you mean? What are you worried about?",
+     "source": "s18-e5-seanna-how-is-there-more @ 21:47",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She warned other doulas by name herself.",
+     "notes": "Arguably also disbelief ('can you follow the threat of what I'm telling you?'); coded did_nothing as the quote shows inaction most directly."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Brantford police (detectives)",
+     "initiated_by": "other_victim",
+     "when": "late 2022 - January 2023",
+     "what_was_asked": "That police investigate the perpetrator; Seanna gave a police interview.",
+     "what_institution_did": "After repeated calls (one doula pressing hard) police opened an investigation and interviewed doulas, but nothing visible followed.",
+     "quote": "A couple of us called the police again. One, doula really got on the police's butt about it. And so they finally opened an investigation. I went for a police interview. It must have been January that I went, and again, nothing was happening. They weren't doing anything.",
+     "source": "s18-e5-seanna-how-is-there-more @ 31:06",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Doulas kept sending each new victim to police; frustration led to TikTok posts.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "regulator_or_licensing",
+     "institution": "College of Social Workers (Ontario)",
+     "initiated_by": "person",
+     "when": "late 2022 - early 2023",
+     "what_was_asked": "That the regulator act on the perpetrator's social-work licence.",
+     "what_institution_did": "Took a statement but did not suspend or review the licence until after the arrest, and asked her to stop sending doulas.",
+     "quote": "I reported her to the College of Social Workers. They took a statement and didn't do anything with it. And I would check every couple of weeks to see if she was still licensed as a social worker, and they never took her license. They never put her under review or anything until she got arrested.",
+     "source": "s18-e5-seanna-how-is-there-more @ 31:06",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She kept referring doulas; later received an email telling her to stop.",
+     "notes": "'I eventually got an email saying you can stop sending us dolas now' (31:06-32:10)."
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "Brantford police (arrest)",
+     "initiated_by": "journalists_podcast_or_virality",
+     "when": "March 2023, within a week of TikTok posts going viral",
+     "what_was_asked": "Arrest / stop the perpetrator.",
+     "what_institution_did": "Arrested and charged her (more than 30 charges relating to doulas); she was held in custody without bail.",
+     "quote": "We tried this from all angles and then finally we were like nothing is working, nothing is happening. We got to go to TikTok. We posted on TikTok and then within a week she was arrested.",
+     "source": "s18-e5-seanna-how-is-there-more @ 37:14",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Perpetrator in custody with ongoing hearings; Seanna hopes for a guilty plea.",
+     "notes": "News audio of the arrest was played on air (s18-ep4 @ 9:27-10:30). Not stated whether Seanna's own case is among the charges."
+    },
+    {
+     "n": 5,
+     "institution_type": "court",
+     "institution": "Ontario criminal court",
+     "initiated_by": "institution",
+     "when": "2023, ongoing at recording",
+     "what_was_asked": "A conviction (she hopes for a guilty plea).",
+     "what_institution_did": "Perpetrator kept in custody; hearings ongoing, no outcome at recording.",
+     "quote": "She isn't custody and I've been keeping up with hearings and hopefully we will be finding out more soon. I am really hoping that she please guilty because I do not want to go through a trial.",
+     "source": "s18-e5-seanna-how-is-there-more @ 38:15",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No outcome by the end of the season.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "I'm pretty sure I jumped up and down because finally something was happening. She was finally somewhere that she couldn't victimize more duels.",
+   "outcome_source": "s18-e5-seanna-how-is-there-more @ 37:14",
+   "protection_contributors": [
+    "the_person",
+    "other_victims",
+    "journalists_podcast_or_virality",
+    "institution"
+   ],
+   "decisive_work_by": "journalists_podcast_or_virality",
+   "decisive_work_quote": "We tried this from all angles and then finally we were like nothing is working, nothing is happening. We got to go to TikTok. We posted on TikTok and then within a week she was arrested.",
+   "decisive_work_source": "s18-e5-seanna-how-is-there-more @ 37:14",
+   "time_to_first_effective_action": "about seven months after her first police call (August 2022 to arrest in March 2023)",
+   "months_to_first_effective_action": 7,
+   "contacts_before_first_effective_action": 3,
+   "evidence_types": [
+    "document_read_on_air",
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Harm had ended before any contact; protection coded on the arrest/detention that removed the perpetrator's access to doulas (what Seanna sought). Not a conviction; she expects the perpetrator will eventually be released. Audio recording of the faked contraction was played on air; news reports played; corroborated by other doulas and her mentor. Also called the hospital about the 'broken water' (not a harm report) and witnessed the OB tell the perpetrator there was no pregnancy."
+  },
+  {
+   "person_id": "P08",
+   "name": "[unnamed] pregnancy-and-infant-loss doula in first TikTok clip",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Contacted on Instagram by a woman claiming a 32-week stillbirth from rape; supported her by phone through a faked labour and 'emergency surgery'; none of it was true.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e3-karissa-just-vibing"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police (not named)",
+     "initiated_by": "unclear",
+     "when": "early 2023",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "The clip says only that police were involved.",
+     "quote": "There is police involvement in this.",
+     "source": "s18-e3-karissa-just-vibing @ 36:29",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The perpetrator was later arrested.",
+     "notes": "Not stated whether this doula reported herself or whether her case is among the charges."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "I am far from okay. But I don't want to see anyone else get hit with this and get the trauma from this and the emotional damage because there are people that are walking away from their careers because of this",
+   "outcome_source": "s18-e3-karissa-just-vibing @ 37:29",
+   "protection_contributors": [
+    "the_person",
+    "journalists_podcast_or_virality",
+    "institution"
+   ],
+   "decisive_work_by": "unclear",
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "low",
+   "notes": "Known only from a TikTok audio clip played on air (counted as document_read_on_air). Outcome coded partly_protected because the clip predates the arrest and it is not stated her case was charged; the season later reports the arrest."
+  },
+  {
+   "person_id": "P09",
+   "name": "[unnamed] queer doula in second TikTok clip",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "DM'd in November 2022; with a colleague gave about ten days of round-the-clock phone support through a faked stillbirth labour, 'airlift', 'assault by doctors' and 'pelvic cancer', including saying goodbyes.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e3-karissa-just-vibing"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police station (not named)",
+     "initiated_by": "person",
+     "when": "between November 2022 and early 2023",
+     "what_was_asked": "To report what happened.",
+     "what_institution_did": "Took her full account at a police station; further steps not described in the clip.",
+     "quote": "The last time I told the story from start to finish was in a police station, so it's been quite right for the last couple months.",
+     "source": "s18-e3-karissa-just-vibing @ 38:29",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The perpetrator was later arrested.",
+     "notes": "The clip also says 'yes, the police are involved'."
+    },
+    {
+     "n": 2,
+     "institution_type": "regulator_or_licensing",
+     "institution": "the perpetrator's governing body (social work)",
+     "initiated_by": "unclear",
+     "when": "before March 2023",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "Received a report; no response described.",
+     "quote": "Yes, she has been reported to her governing body.",
+     "source": "s18-e3-karissa-just-vibing @ 38:29",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Not stated.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "There's at least 50 of us that we know of right now, primarily in Southern Ontario and across Canada.",
+   "outcome_source": "s18-e3-karissa-just-vibing @ 38:29",
+   "protection_contributors": [
+    "the_person",
+    "journalists_podcast_or_virality",
+    "institution"
+   ],
+   "decisive_work_by": "unclear",
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "low",
+   "notes": "Known only from a TikTok clip played on air. Arrest followed later; not stated whether her case is charged."
+  },
+  {
+   "person_id": "P10",
+   "name": "Ashley Palmer",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Doula who connected with the perpetrator in January 2023 to provide services for a claimed stillbirth.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor"
+   ],
+   "reached_institution": "unclear",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "Penticton Regional Hospital",
+     "initiated_by": "person",
+     "when": "January 2023",
+     "what_was_asked": "To confirm the client was a patient.",
+     "what_institution_did": "Told her no one by that name was registered.",
+     "quote": "Palmer said she started to question [perpetrator]'s story when the Pinticton Regional Hospital said there was nobody registered by that name.",
+     "source": "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor @ 10:30",
+     "response": "unclear",
+     "basis": [
+      "institution_statement"
+     ],
+     "what_happened_next": "The client admitted she was in Ontario and not having a stillbirth.",
+     "notes": "A verification call, not a harm report."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "Palmer shared her story to warn other doulas of what happened, hoping no one else will be impacted.",
+   "outcome_source": "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor @ 10:30",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "low",
+   "notes": "Known only from a news clip. Not stated whether she reported to police or whether her case is among the charges."
+  },
+  {
+   "person_id": "P11",
+   "name": "[unnamed] doula who supported the perpetrator in June 2022",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Supported a claimed stillbirth in June 2022 (the perpetrator's best friend was also duped); never got confirmation of what was real.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e5-seanna-how-is-there-more"
+   ],
+   "reached_institution": "unclear",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "hospital (not named)",
+     "initiated_by": "person",
+     "when": "June 2022",
+     "what_was_asked": "To confirm the client's scheduled induction.",
+     "what_institution_did": "Said she was never scheduled and that she needed help, but not a doula.",
+     "quote": "And the hospital said, not only do we not have her scheduled for today, we don't have her scheduled ever. The hospital said to her, listen, she needs help, but it's not a duel she needs.",
+     "source": "s18-e5-seanna-how-is-there-more @ 24:54",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She stepped back; the perpetrator later described her as having 'shit talked' her to other doulas.",
+     "notes": "Verification call rather than a harm report."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "So when I was talking to her, she said, I've never gotten confirmation that she's not pregnant.",
+   "outcome_source": "s18-e5-seanna-how-is-there-more @ 24:54",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told through Seanna."
+  },
+  {
+   "person_id": "P12",
+   "name": "[unnamed] Guelph doula (October 2022)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Was paid $700 by the perpetrator for a claimed 37-week pregnancy; after other doulas warned her she returned the money and was then guilt-tripped by message.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e5-seanna-how-is-there-more"
+   ],
+   "reached_institution": "unclear",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "This duolo was just like, forget it. I'm not part of this, she didn't even respond to that message.",
+   "outcome_source": "s18-e5-seanna-how-is-there-more @ 27:59",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told through Seanna. Warned off by doulas, not by any institution. Whether she went to police is not stated (the group 'kept sending people to the cops')."
+  },
+  {
+   "person_id": "P13",
+   "name": "Amy (Amy W.)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Dated the perpetrator briefly in February 2023 after meeting on Facebook dating; took out loans for her (not repaid) and for an Airbnb, was drawn into a faked stillbirth labour, and was then falsely reported to police for sexual assault by the perpetrator.",
+   "perpetrator_role": "a woman she was dating (later charged in the doula-fraud case and with public mischief)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e5-seanna-how-is-there-more",
+    "s18-e6-amy-amy-s-very-calculated",
+    "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Brantford police (detective)",
+     "initiated_by": "institution",
+     "when": "22 February 2023",
+     "what_was_asked": "Police contacted her about the perpetrator's report that Amy had sexually assaulted her.",
+     "what_institution_did": "The detective told her police did not believe the allegation and wanted to open a public-mischief case against the perpetrator, pending kit results.",
+     "quote": "the detective basically was saying we don't believe that that's what happened because this has happened before. They were like, we want to open a case of public mission against her for wasting public resources and wasting our time basically not telling the truth about you.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 14:31",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She had to wait for the perpetrator's sexual-assault kit results.",
+     "notes": "The police believed Amy; step pending, hence acted_partly."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Brantford police",
+     "initiated_by": "person",
+     "when": "late February - March 2023",
+     "what_was_asked": "That police add a charge for the perpetrator continuing to call her; Amy gave statements and her texts.",
+     "what_institution_did": "Took her evidence twice but kept telling her they were waiting on kit results.",
+     "quote": "I had to advocate for myself to the police. I was like, why aren't you adding my charge on to her because she still continued to call me and they kept saying, what were waiting for the kit results?",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 15:34",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She kept checking in on the case.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "victim_services",
+     "institution": "victim services",
+     "initiated_by": "unclear",
+     "when": "February-March 2023 onward",
+     "what_was_asked": "Updates on the case.",
+     "what_institution_did": "Gave her follow-ups on the case.",
+     "quote": "I was able to have access to victim services to get follow-ups on the case.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 16:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Notified of the charge.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "Brantford police (charge)",
+     "initiated_by": "institution",
+     "when": "March 2023",
+     "what_was_asked": "Charge for the false report.",
+     "what_institution_did": "Laid a charge against the perpetrator and moved forward with the case.",
+     "quote": "The next day I got a call saying the church has been laid to her. We're gonna go ahead and move forward with this case. I was like I'm glad that they finally did it. That happened in March.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 16:35",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Amy moved out of province later that spring.",
+     "notes": "'church' is a transcription of 'charge'."
+    },
+    {
+     "n": 5,
+     "institution_type": "police",
+     "institution": "Brantford police (case closed)",
+     "initiated_by": "person",
+     "when": "later in 2023",
+     "what_was_asked": "An update on her case.",
+     "what_institution_did": "Told her the case had been closed without having informed her.",
+     "quote": "I called the police station and ran for it and I was like, what's going on? I haven't got an update about anything. And they're like, well, your case has been closed. They didn't even bother to tell me anything",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 39:53",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She retained access to court dates as a registered victim; last court date about 5-6 September.",
+     "notes": "Detective unavailable until 24 September; she was unsure whether victim services knew the case was dropped."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "I was in contact with victim services and they were giving me updates about the case. I called the police station and ran for it and I was like, what's going on? I haven't got an update about anything. And they're like, well, your case has been closed.",
+   "outcome_source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 39:53",
+   "protection_contributors": [
+    "the_person",
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "the detective basically was saying we don't believe that that's what happened because this has happened before.",
+   "decisive_work_source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 14:31",
+   "time_to_first_effective_action": "about a month (police contact 22 February; charge laid in March)",
+   "months_to_first_effective_action": 1,
+   "contacts_before_first_effective_action": 3,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Police rejected the false allegation on their own knowledge of the perpetrator's history (decisive=institution); Amy contributed texts and pressed. The specific charge was later closed, so coded partly_protected; the perpetrator remained in custody on the doula charges. Her financial losses (loans) were not raised with any institution. Host comments that police 'were able to see through the accusations' (43:59). Still has PTSD episodes. She posted on TikTok but took it down after being told of a publication ban."
+  },
+  {
+   "person_id": "P14",
+   "name": "Amy S.",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Indigenous doula who spent about four hours supporting a faked stillbirth labour in February 2023 and brought in a second doula (Audrey); her main trauma was guilt for others' harm.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e6-amy-amy-s-very-calculated",
+    "s18-e7-amy-s-audrey-birth-fetish",
+    "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "earlier_disbelief"
+    ],
+    "quotes": [
+     {
+      "reason": "earlier_disbelief",
+      "quote": "people aren't believed and were gaslit and that had happened to so many doules the year before when people were going to the police and all of this was happening. And that was the reason that I didn't go to them at the beginning.",
+      "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 31:19"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "regulator_or_licensing",
+     "institution": "College of Social Workers (Ontario)",
+     "initiated_by": "person",
+     "when": "late February 2023",
+     "what_was_asked": "That the regulator stop the perpetrator working with vulnerable people.",
+     "what_institution_did": "Would not say whether there was an investigation and told her to check the public register monthly.",
+     "quote": "I asked those questions, is there an investigation going? And of course they can't tell you that. She still listed as a registered social worker. They're like, we updated it monthly, keep your eye out, check back monthly.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 8:20",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Licence unchanged until after the arrest (per Seanna).",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "medical_or_therapy",
+     "institution": "her therapist",
+     "initiated_by": "person",
+     "when": "a few days after (February 2023)",
+     "what_was_asked": "An earlier appointment to talk it through.",
+     "what_institution_did": "Saw her and later suggested she make a public video.",
+     "quote": "My therapist was actually the one that suggested that I make a video.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 22:47",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She posted a TikTok warning doulas.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "police",
+     "institution": "Brantford police (officer running the case)",
+     "initiated_by": "person",
+     "when": "the weekend before the arrest (March 2023)",
+     "what_was_asked": "To report that the perpetrator was with another doula at that moment.",
+     "what_institution_did": "The officer took the doula's report by three-way call; police had already called the perpetrator in.",
+     "quote": "As the stool is driving to the police station, I actually three-way called in the police officer that was running the case. And this was my very first time talking to him or the police about the situation at all.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 26:07",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The perpetrator was arrested on the Monday.",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "Brantford police (arrest)",
+     "initiated_by": "journalists_podcast_or_virality",
+     "when": "Monday after her video",
+     "what_was_asked": "Stop the perpetrator.",
+     "what_institution_did": "Arrested her; she remained in jail.",
+     "quote": "She was arrested on the Monday and we know over the weekend that she was still reaching out to dolas.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 31:19",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Perpetrator held in custody.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "The power of social media just blows my mind. I'm still shocked. She's been in jail since she was arrested.",
+   "outcome_source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 32:20",
+   "protection_contributors": [
+    "the_person",
+    "other_victims",
+    "journalists_podcast_or_virality",
+    "institution"
+   ],
+   "decisive_work_by": "journalists_podcast_or_virality",
+   "decisive_work_quote": "When I posted the TikTok video, I honestly just wanted to protect Ula.",
+   "decisive_work_source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 26:07",
+   "time_to_first_effective_action": "a few weeks after the harm (February to March 2023)",
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 3,
+   "evidence_types": [
+    "second_witness",
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "Her own TikTok (the first posted) started the viral wave that preceded the arrest. Not stated whether her own case is among the charges. Second witnesses: Amy W., Audrey."
+  },
+  {
+   "person_id": "P15",
+   "name": "Audrey",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Doula/personal support worker kept for two days (17-19 February 2023) supporting a faked stillbirth labour; the perpetrator repeatedly stripped, needed physical help, touched herself during a back rub, and kept her as an 'emotional hostage' until Audrey found a warning post and fled.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e6-amy-amy-s-very-calculated",
+    "s18-e7-amy-s-audrey-birth-fetish",
+    "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Brantford police (detective in charge)",
+     "initiated_by": "person",
+     "when": "the day after she left (February 2023)",
+     "what_was_asked": "To give a statement and stop the perpetrator.",
+     "what_institution_did": "Took her statement, said they probably had enough to charge, and reassured her.",
+     "quote": "The officer took my statement and then said that they probably had enough to move forward with charges against her, and that he couldn't guarantee what would happen, but he said something would happen.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 4:14",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Arrest followed about three weeks later.",
+     "notes": "Statement taken and investigation continuing; no immediate action, so acted_partly."
+    },
+    {
+     "n": 2,
+     "institution_type": "medical_or_therapy",
+     "institution": "therapist funded through police victim services",
+     "initiated_by": "person",
+     "when": "immediately after",
+     "what_was_asked": "Therapy.",
+     "what_institution_did": "She was able to start with a therapist almost immediately (funding already in place from an unrelated January incident).",
+     "quote": "Luckily I was able to find a therapist almost immediately after I had encountered [perpetrator] because of something that had happened to me in January. I had already been allowed funding through police victim services for a therapist.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 11:27",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Not described further.",
+     "notes": "'[perpetrator]' replaces a garbled transcription of the perpetrator's name."
+    },
+    {
+     "n": 3,
+     "institution_type": "police",
+     "institution": "Brantford police (arrest)",
+     "initiated_by": "journalists_podcast_or_virality",
+     "when": "March 2023",
+     "what_was_asked": "Stop the perpetrator.",
+     "what_institution_did": "Arrested her; held in custody.",
+     "quote": "I feel the buzz of my phone and I looked at it and there's news of her having been arrested. It is hitting the news cycles and I was just in tears because of the relief that I was feeling.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 32:20",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "In custody; Audrey expects a mental-health approach and probation.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "I knew it wasn't over over, but it was something.",
+   "outcome_source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 32:20",
+   "protection_contributors": [
+    "the_person",
+    "other_victims",
+    "journalists_podcast_or_virality",
+    "institution"
+   ],
+   "decisive_work_by": "journalists_podcast_or_virality",
+   "decisive_work_quote": "A week or so after these TikToks really started to go viral, she was arrested.",
+   "decisive_work_source": "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor @ 9:27",
+   "time_to_first_effective_action": "about three weeks after her police statement",
+   "months_to_first_effective_action": 1,
+   "contacts_before_first_effective_action": 2,
+   "evidence_types": [
+    "second_witness",
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "Earlier doulas had already pressed police ('because of duelists who came before me, they had already been at the police insisting that an investigation be opened', 4:14). Decisive coded as virality per the season's repeated linking of the arrest to TikTok; a reader could argue other_victims or institution. Audrey also stopped two new doulas from in-person support. Amy S. corroborates."
+  },
+  {
+   "person_id": "P16",
+   "name": "[unnamed] doula with the perpetrator at a mall (weekend before the arrest)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Was supporting the perpetrator in person and had driven her somewhere when she recognised her from Amy S.'s warning video.",
+   "perpetrator_role": "a woman posing as a pregnant client (later charged in the doula-fraud case)",
+   "perpetrator_convicted": "charged_not_convicted",
+   "deceased": false,
+   "episodes": [
+    "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Brantford police (officer running the case)",
+     "initiated_by": "person",
+     "when": "the weekend before the arrest",
+     "what_was_asked": "To report the perpetrator was with her right then.",
+     "what_institution_did": "The officer took her account by phone as she drove to a police station.",
+     "quote": "I got off the through-way call and let them talk so she could tell him what was going on.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 26:07",
+     "response": "unclear",
+     "basis": [
+      "second_witness"
+     ],
+     "what_happened_next": "Arrest followed on the Monday.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "Brantford police (arrest)",
+     "initiated_by": "journalists_podcast_or_virality",
+     "when": "the following Monday",
+     "what_was_asked": "Stop the perpetrator.",
+     "what_institution_did": "Arrested her.",
+     "quote": "She was arrested on the Monday and we know over the weekend that she was still reaching out to dolas.",
+     "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 31:19",
+     "response": "believed_and_acted",
+     "basis": [
+      "second_witness",
+      "document_read_on_air"
+     ],
+     "what_happened_next": "Perpetrator held in custody.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "I just sat there the thinking about if I hadn't posted that video, who knows what could have happened with this doula.",
+   "outcome_source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 26:07",
+   "protection_contributors": [
+    "other_victims",
+    "journalists_podcast_or_virality",
+    "institution"
+   ],
+   "decisive_work_by": "journalists_podcast_or_virality",
+   "decisive_work_quote": "I just sat there the thinking about if I hadn't posted that video, who knows what could have happened with this doula.",
+   "decisive_work_source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 26:07",
+   "time_to_first_effective_action": "within days",
+   "months_to_first_effective_action": 0,
+   "contacts_before_first_effective_action": 1,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told through Amy S. She left the perpetrator (on Amy S.'s advice) before police acted, so the harm stopped through her own exit; arrest followed days later."
+  },
+  {
+   "person_id": "P17",
+   "name": "Gaby",
+   "role_in_story": "central_survivor",
+   "harm": "Tinder boyfriend (ex-military) abused her for about 18 months: threatened her with a knife, elbowed, tackled, sprayed and bruised her, controlled and accused her, strangled her (April 7, 2022) and on April 21, 2022 beat her saying he would kill her.",
+   "perpetrator_role": "her live-in boyfriend",
+   "perpetrator_convicted": "yes",
+   "deceased": false,
+   "episodes": [
+    "s18-e1-alexis-youre-not-alone",
+    "s18-e9-gaby-beyond-the-shame"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "other",
+     "protecting_others"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "There's this shame related to it. Who can you call to let them know the situation? And there was no one that I could think of.",
+      "source": "s18-e9-gaby-beyond-the-shame @ 28:14"
+     },
+     {
+      "reason": "protecting_others",
+      "quote": "I had not told them that he had struck me really hard in the ribs. They just thought it was a dispute.",
+      "source": "s18-e9-gaby-beyond-the-shame @ 12:41"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police (city not named)",
+     "initiated_by": "person",
+     "when": "December 2020",
+     "what_was_asked": "Help leaving with her belongings after an argument (she and neighbours called).",
+     "what_institution_did": "Police came, did not arrest him after he argued they had no right to be there, and told her to leave.",
+     "quote": "He knows how the police system works and was able to combat with them and they just left and told me to leave.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 12:41",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She covered for him; abuse continued through 2021-2022.",
+     "notes": "She had not told police about the elbow to the ribs; a child was present. Neighbours also called."
+    },
+    {
+     "n": 2,
+     "institution_type": "police",
+     "institution": "police (city not named)",
+     "initiated_by": "third_party",
+     "when": "21 April 2022",
+     "what_was_asked": "Responded during the assault (who called is not stated); she reported what happened.",
+     "what_institution_did": "Took a report, arrested him (adding an obstruction-of-phone charge) and sent an investigator who documented her injuries.",
+     "quote": "He was taken into custody that night. When the cops got him, he had my phone in his back pocket and was charged with the obstruction of phone as well. They had an investigator come and speak to me. She had documented all the injuries that she could see.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 28:14",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "First appearance next day.",
+     "notes": "An officer questioned how she got her foot to his face (27:07); she explained she was kicking him off."
+    },
+    {
+     "n": 3,
+     "institution_type": "court",
+     "institution": "court (first appearance)",
+     "initiated_by": "institution",
+     "when": "22 April 2022",
+     "what_was_asked": "Charges read and bail set; she was asked whether she wanted leniency on bail.",
+     "what_institution_did": "Read charges, set bail and imposed an automatic protection order; asked victims whether they wanted leniency.",
+     "quote": "The first being that they ask women if they would like to request leniency for their abusers bail. I remember saying, let me think about that.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 29:15",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She refused leniency; automatic protection order issued ('We get an automatic protection order', 30:18).",
+     "notes": ""
+    },
+    {
+     "n": 4,
+     "institution_type": "police",
+     "institution": "police department / jail (release notification)",
+     "initiated_by": "person",
+     "when": "about 24 April 2022",
+     "what_was_asked": "Assurance he was still in jail before she entered the house.",
+     "what_institution_did": "Told her he had already been released early that morning; she had received no VINE alert.",
+     "quote": "They go ahead and connect me to the jail and they inform me that he had been released in the early morning hours. I proceed to let them have it because what would have happened if he had not moved his truck I would have walked right into his home with a very angry abuser and would have been open bait at that point.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 32:21",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "He was out on bail for four months; she moved repeatedly in fear.",
+     "notes": "Failure to notify arguably endangered her; harmed_by_institution_ever set true on this basis."
+    },
+    {
+     "n": 5,
+     "institution_type": "prosecutor",
+     "institution": "District Attorney's Office",
+     "initiated_by": "institution",
+     "when": "2022",
+     "what_was_asked": "Asked her help to build the case.",
+     "what_institution_did": "Prosecuted, but charged only one assault although it could have charged each one.",
+     "quote": "The state had the ability to charge him with assault for every time he hit me, but instead they only charged him once. I let the courts know that I was not happy with this. I felt that everything had been done to protect him",
+     "source": "s18-e9-gaby-beyond-the-shame @ 51:05",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Plea deal; sentencing.",
+     "notes": ""
+    },
+    {
+     "n": 6,
+     "institution_type": "victim_services",
+     "institution": "county-assigned DV specialist therapist",
+     "initiated_by": "institution",
+     "when": "2022",
+     "what_was_asked": "Support.",
+     "what_institution_did": "Provided a DV-specialist therapist who worried about her safety and advised her.",
+     "quote": "One, the county assigned to me is a DB specialist and then I have my own personal one and they are both worried.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 41:46",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Therapy continued.",
+     "notes": ""
+    },
+    {
+     "n": 7,
+     "institution_type": "court",
+     "institution": "criminal court (plea and sentencing)",
+     "initiated_by": "institution",
+     "when": "about four months after the arrest",
+     "what_was_asked": "Maximum sentence and a permanent protection order; she read a 58-page victim impact statement.",
+     "what_institution_did": "Accepted his plea; sentenced him to six months work release and three years probation with a three-year protection order; arranged a deputy escort and victim advocate.",
+     "quote": "In the end, my case is considered a win. He ended up serving six months of job release, which is different than jail, and getting three years of probation.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 54:13",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account",
+      "court_outcome"
+     ],
+     "what_happened_next": "She later returned to court for a permanent restraining order.",
+     "notes": "Misdemeanor only; permanent order refused at sentencing as a civil matter."
+    },
+    {
+     "n": 8,
+     "institution_type": "court",
+     "institution": "court (permanent restraining order)",
+     "initiated_by": "person",
+     "when": "after sentencing",
+     "what_was_asked": "A permanent restraining order.",
+     "what_institution_did": "Heard her application; his defence used things she had told two other women, which she says did not matter in her case.",
+     "quote": "I had to go back to court to get the permanent restraining order. And in his defense, he stated things that I had told these two women.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 56:21",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She feels safer now that people know who he is.",
+     "notes": "Grant is implied ('It didn't thinkfully matter in my case', 57:29) but not stated outright."
+    }
+   ],
+   "harmed_by_institution_ever": true,
+   "outcome": "protected",
+   "outcome_quote": "I feel safer because now people know who he is. I shared his photo with security and now we're two years into things so I feel a little bit more protected.",
+   "outcome_source": "s18-e9-gaby-beyond-the-shame @ 59:33",
+   "protection_contributors": [
+    "the_person",
+    "other_victims",
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "He was taken into custody that night. When the cops got him, he had my phone in his back pocket and was charged with the obstruction of phone as well.",
+   "decisive_work_source": "s18-e9-gaby-beyond-the-shame @ 28:14",
+   "time_to_first_effective_action": "about 16 months after the first police call (December 2020 to the April 2022 arrest)",
+   "months_to_first_effective_action": 16,
+   "contacts_before_first_effective_action": 1,
+   "evidence_types": [
+    "person_account_alone",
+    "conviction"
+   ],
+   "confidence": "high",
+   "notes": "Conviction by plea (misdemeanor). Her victim impact statement (with ex-partners' accounts) she believes raised the sentence from 60 days and two years probation. Photos and texts of 20 incidents are mentioned but not read on air, so evidence otherwise rests on her account plus the conviction. A child was present at incidents. harmed_by_institution_ever=true for the unnotified release (contact 4)."
+  },
+  {
+   "person_id": "P18",
+   "name": "[unnamed] mother of the abuser's second child",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Attacked in bed by Gaby's abuser, who tried to take her phone and bruised her (domestic violence case 1); he later violated the protection order; he also told Gaby he had a plan to kill her.",
+   "perpetrator_role": "her ex-partner (Gaby's abuser)",
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "episodes": [
+    "s18-e9-gaby-beyond-the-shame"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "police (DV incident 1, 2015-2016)",
+     "initiated_by": "unclear",
+     "when": "2015 or 2016",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "A domestic violence report/charge was recorded and a protection order followed.",
+     "quote": "The second charge was a violation of the protection order against the victim from the first domestic violence that was reported.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 38:41",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "He violated the order.",
+     "notes": "From records Gaby obtained and described (not read verbatim)."
+    },
+    {
+     "n": 2,
+     "institution_type": "court",
+     "institution": "court (protection order)",
+     "initiated_by": "unclear",
+     "when": "after DV incident 1",
+     "what_was_asked": "Protection.",
+     "what_institution_did": "Issued a protection order, which he then violated.",
+     "quote": "He's defiant of the law, he thinks he's above the law, but he's now proven that even with the projection order, you are not safe.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 38:41",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Violation charged as DV case 2.",
+     "notes": ""
+    },
+    {
+     "n": 3,
+     "institution_type": "military",
+     "institution": "U.S. military",
+     "initiated_by": "unclear",
+     "when": "before his discharge",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "Discharged him other than honorable for beating her.",
+     "quote": "in reality, he got released with other than honorable for beating his second child's mom, which is who DV cases one and two ended up being with.",
+     "source": "s18-e9-gaby-beyond-the-shame @ 37:40",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "He went on to abuse Gaby.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "He's defiant of the law, he thinks he's above the law, but he's now proven that even with the projection order, you are not safe.",
+   "outcome_source": "s18-e9-gaby-beyond-the-shame @ 38:41",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "in reality, he got released with other than honorable for beating his second child's mom, which is who DV cases one and two ended up being with.",
+   "decisive_work_source": "s18-e9-gaby-beyond-the-shame @ 37:40",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told through Gaby (from records and the third wife). He minimised it and claimed to be the victim. She later contacted Gaby saying she believed her, but also relayed Gaby's words back to him. Conviction status of DV cases not stated."
+  },
+  {
+   "person_id": "P19",
+   "name": "[unnamed] abuser's second wife",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Married to Gaby's abuser in the military; suffered strangulation, punching, pushing, kicking, emotional abuse and lies.",
+   "perpetrator_role": "her ex-husband (Gaby's abuser)",
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "episodes": [
+    "s18-e9-gaby-beyond-the-shame"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "She informed me that there had been a lot of DB incidents but nothing had been recorded.",
+      "source": "s18-e9-gaby-beyond-the-shame @ 35:29"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "She informed me that there had been a lot of DB incidents but nothing had been recorded.",
+   "outcome_source": "s18-e9-gaby-beyond-the-shame @ 35:29",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told through Gaby; later helped with Gaby's victim impact statement."
+  },
+  {
+   "person_id": "P20",
+   "name": "[unnamed] abuser's third wife",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Married to Gaby's abuser; he punched her at least once and lied to her; she left the country where they were stationed.",
+   "perpetrator_role": "her ex-husband (Gaby's abuser)",
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "episodes": [
+    "s18-e9-gaby-beyond-the-shame"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "She did not say anything against him. She ended up leaving the country that they were stationed in. She kept everything to herself.",
+      "source": "s18-e9-gaby-beyond-the-shame @ 37:40"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "She kept everything to herself.",
+   "outcome_source": "s18-e9-gaby-beyond-the-shame @ 37:40",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told through Gaby; she found the punching incident in old messages ('I completely forgot about this') and shared them for Gaby's statement."
+  },
+  {
+   "person_id": "P21",
+   "name": "Chris Williams",
+   "role_in_story": "other",
+   "harm": "A Hinge date who had agreed to join him on a weekend trip disappeared en route after texting that she was in an unmatched Uber, causing him about 48 hours of fear for her safety, then never contacted him again.",
+   "perpetrator_role": "a woman he had dated once",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e10-chris-williams-silence-is-ridiculous"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "Well, did she ask you for money? I'm like, no, it's not even like it. It wasn't even like that.",
+      "source": "s18-e10-chris-williams-silence-is-ridiculous @ 21:42"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "I still have not heard from her. It is absolutely bizarre. I don't plan on ever speaking to her again.",
+   "outcome_source": "s18-e10-chris-williams-silence-is-ridiculous @ 25:58",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Borderline inclusion: not abuse or fraud as such. He did contact Burbank police and airport police, but about HER welfare, not a harm to himself; police reviewed surveillance and found her safe at home ('We have located her and she said, home in good health', 24:58). Coded never_reached because the police contact did not concern harm to him. A reader may prefer to exclude this record."
+  },
+  {
+   "person_id": "P22",
+   "name": "Tyler (first shop)",
+   "role_in_story": "central_survivor",
+   "harm": "At his apprenticeship shop he was overworked and inconsistently paid; after leaving he was threatened with court over a non-compete by an intimidating owner, went three months without work and fell into debt.",
+   "perpetrator_role": "the owner of his first tattoo shop",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e11-tyler-dont-tell-anyone"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "fear_of_abuser"
+    ],
+    "quotes": [
+     {
+      "reason": "fear_of_abuser",
+      "quote": "this guy was the owner pretty intimidating guy with a large group of people who actually legitimately could have caused me some harm, so I was like, I'm just going to stay out of it.",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 7:18"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "So I didn't work for three months, got into a lot of debt, which was pretty awful.",
+   "outcome_source": "s18-e11-tyler-dont-tell-anyone @ 7:18",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Separate perpetrator from the main tattoo-shop story. Rehab (for alcohol) is mentioned but not as a response to this harm."
+  },
+  {
+   "person_id": "P23",
+   "name": "Tyler (school bus crash)",
+   "role_in_story": "central_survivor",
+   "harm": "As a child in Washington he and his brother were the last children on a school bus whose driver had been drinking and drove off a mountain cliff.",
+   "perpetrator_role": "a school bus driver",
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "episodes": [
+    "s18-e11-tyler-dont-tell-anyone"
+   ],
+   "reached_institution": "unclear",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "The bus driver was apparently drinking and driving, and obviously we didn't know. She drove off the cliff, I cannot make that up.",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 28:47"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "Ever since then, I am terrified of long drives.",
+   "outcome_source": "s18-e11-tyler-dont-tell-anyone @ 28:47",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Mentioned to explain his fear of driving; no aftermath involving any institution is told."
+  },
+  {
+   "person_id": "P24",
+   "name": "Tyler (tattoo shop owner)",
+   "role_in_story": "central_survivor",
+   "harm": "At the new shop where he worked for about a year the owner baited him with false progressive values, disregarded his boundaries and property (took his massage table, left his career equipment at a convention), pressured him to a strip club and lap dance, pressured him about polyamory, and made him lie about why he left; after he went public he received death threats.",
+   "perpetrator_role": "the owner of the tattoo shop he worked at",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e11-tyler-dont-tell-anyone",
+    "s18-e12-tyler-shane-connelly-believe-victims-more"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "abuser_status_or_connections",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "abuser_status_or_connections",
+      "quote": "There's this power dynamic where even if I did call him out, he could single-handedly destroy my career.",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 27:46"
+     },
+     {
+      "reason": "other",
+      "quote": "I didn't have enough evidence that the time to fully be like this guy is a predator. I only had enough to just be like, yeah, he's fucking creepy and weird and I don't like it and I need to get out.",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 38:58"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "It did get a lot of traction within the community, and a lot of people really stepped up to the plate. A lot of his sponsors dropped him immediately. But it still doesn't feel like enough. I mean, he's still tattooing in the same location.",
+   "outcome_source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 44:38",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "He quit (harm ended by his exit). He later publicly backed Shane, describing his own and his girlfriend's experiences; conventions banned the perpetrator and sponsors dropped him, but those responses concerned the assault allegations, so are coded under Shane. Second witnesses: the neighbouring booth (equipment), Danielle, Connelly."
+  },
+  {
+   "person_id": "P25",
+   "name": "Tyler (false accusation at school)",
+   "role_in_story": "central_survivor",
+   "harm": "At 13, soon after coming out as trans, a classmate (urged by her parents) falsely told the principal he was molesting children on the school bus; the school questioned him.",
+   "perpetrator_role": "a classmate and her parents",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e12-tyler-shane-connelly-believe-victims-more"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "harm_ongoing_at_first_contact": "yes",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "school_or_university",
+     "institution": "his school in Indiana (principal)",
+     "initiated_by": "third_party",
+     "when": "age 13",
+     "what_was_asked": "The accuser's side reported him to the principal.",
+     "what_institution_did": "Called him in and questioned him, then asked the children, who said they did not know him.",
+     "quote": "So the school calls me in and was questioning what have you ever touched these kids. I was like, what? Where is this coming from? I don't even know these kids. They asked the kids and they're like, we don't even know that kid.",
+     "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 42:36",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "The story implies the matter ended; years later the girl apologised.",
+     "notes": "Questioning a 13-year-old was 'really traumatic'; the school's conclusion is not stated."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "protected",
+   "outcome_quote": "Then it was a couple years later, that girl, she had actually reached out to me and apologized.",
+   "outcome_source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 42:36",
+   "protection_contributors": [
+    "institution"
+   ],
+   "decisive_work_by": "institution",
+   "decisive_work_quote": "They asked the kids and they're like, we don't even know that kid.",
+   "decisive_work_source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 42:36",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 0,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Coded protected on the inference that the school's own inquiry ended the accusation; the story does not state the outcome explicitly."
+  },
+  {
+   "person_id": "P26",
+   "name": "Danielle",
+   "role_in_story": "co_victim",
+   "harm": "Tyler's girlfriend; the tattoo-shop owner pressed his groin against her at a bar and later grabbed her thigh under a restaurant table, after a pattern of over-long hugs.",
+   "perpetrator_role": "her boyfriend's employer (the tattoo-shop owner)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e11-tyler-dont-tell-anyone",
+    "s18-e12-tyler-shane-connelly-believe-victims-more"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other",
+     "abuser_status_or_connections",
+     "earlier_disbelief"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "She's like, no, there's the whole plausible deny ability thing. He could just be like, I did not do that. And it's my word against his. She was worried she was going to get painted as lying.",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 26:46"
+     },
+     {
+      "reason": "abuser_status_or_connections",
+      "quote": "He's got such a huge platform, and he's a much more well-known artist.",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 27:46"
+     },
+     {
+      "reason": "earlier_disbelief",
+      "quote": "It's just gonna escalate and I either get into an altercation with him or I quit or get fired and then maybe get painted as a strange jealous coworker because he's done that to people before.",
+      "source": "s18-e11-tyler-dont-tell-anyone @ 28:47"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "So we're like, whatever. We'll just let it go.",
+   "outcome_source": "s18-e11-tyler-dont-tell-anyone @ 27:46",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "Told through Tyler, who later described her experience publicly."
+  },
+  {
+   "person_id": "P27",
+   "name": "Shane",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Non-binary person who dated the tattoo-shop owner for about two years; after a night out he violently sexually assaulted them, ignoring stated boundaries; he later publicly named them (doxxed) and claimed they fabricated it.",
+   "perpetrator_role": "a man they were dating (the tattoo-shop owner)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e11-tyler-dont-tell-anyone",
+    "s18-e12-tyler-shane-connelly-believe-victims-more"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "it had crossed my mind to go to the hospital, but I was worried that if I did go get a rape kit done that it wouldn't come back as rape because the bruises are different and because I had pretended like everything was okay.",
+      "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 13:20"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "no",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "police",
+     "institution": "Seattle Police Department",
+     "initiated_by": "person",
+     "when": "a few days after the assault",
+     "what_was_asked": "To report the rape and have it investigated.",
+     "what_institution_did": "Made them wait three and a half hours, gave them a Dropbox for screenshots, and never followed up; the sexual assault unit was being cut.",
+     "quote": "I have heard from them all of once and that was after I contacted them to get a hold of them again. I actually haven't been contacted personally since they gave me the Dropbox to put screenshots in. After that, it seemed like they weren't going to be helpful, they weren't going to move forward in the investigation.",
+     "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 16:21",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account",
+      "second_witness"
+     ],
+     "what_happened_next": "They looked for a lawyer; Tyler later learned SPD was not taking adult sexual assault cases.",
+     "notes": "Someone repeatedly asked 'did you say no?' (17:22) but it is ambiguous whether that was police, a lawyer or friends; not used for coding."
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "Seattle Tattoo Expo, Portland convention and Evergreen Tattoo convention; sponsors",
+     "initiated_by": "journalists_podcast_or_virality",
+     "when": "after the public posts",
+     "what_was_asked": "Accountability after Shane's public statement and supporting posts.",
+     "what_institution_did": "The conventions banned him and sponsors dropped him.",
+     "quote": "The Seattle Tattoo Expo immediately banned him, sort of the Portland one and the Evergreen Tattoo convention.",
+     "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 37:18",
+     "response": "believed_and_acted",
+     "basis": [
+      "second_witness"
+     ],
+     "what_happened_next": "He kept tattooing at his shop with some supporters.",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "partly_protected",
+   "outcome_quote": "But it still doesn't feel like enough. I mean, he's still tattooing in the same location. He still has some supporters. It's sad that this is the best-case scenario.",
+   "outcome_source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 44:38",
+   "protection_contributors": [
+    "the_person",
+    "other_victims",
+    "journalists_podcast_or_virality",
+    "institution"
+   ],
+   "decisive_work_by": "journalists_podcast_or_virality",
+   "decisive_work_quote": "They ended up sharing their story the next morning and we made a public statement. And it went from there.",
+   "decisive_work_source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 23:42",
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": 1,
+   "evidence_types": [
+    "document_read_on_air",
+    "second_witness"
+   ],
+   "confidence": "medium",
+   "notes": "The perpetrator's own text reply was read on air (14:20). The harm ended when Shane left; partial protection came via community/industry bans after publicity, not criminal action. Shane planned a civil suit. Second witnesses: partner, Tyler, Tyler's friend with a similar experience, Connelly."
+  },
+  {
+   "person_id": "P28",
+   "name": "[unnamed] tattoo artist given ketamine by the shop owner",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Pressured at a party into taking what he was told was a little cocaine; it was ketamine and he was incapacitated; when he confronted the owner and warned co-workers, the owner painted him as crazy.",
+   "perpetrator_role": "the tattoo-shop owner",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e12-tyler-shane-connelly-believe-victims-more"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "This guy tried to confront [perpetrator] about it, [perpetrator] gasped him and ignored him, so then he starts telling people, not even publicly, like just telling people that he worked with, watch out for this guy.",
+      "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 29:58"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "After everything came out, I imagine now he probably feels very vindicated.",
+   "outcome_source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 29:58",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Told through Tyler, who spoke to him."
+  },
+  {
+   "person_id": "P29",
+   "name": "Jimmy Imperial",
+   "role_in_story": "central_survivor",
+   "harm": "Was beaten up in the band leader's apartment by him and his roommates (2019) during a crisis that led to suicidal thoughts and rehab; years later the band leader controlled and berated him, fired him, joked privately about wanting to kill the band and about having sex with Jimmy's wife, and targeted them in songs and online attacks; the band leader later took a restraining order out against Jimmy.",
+   "perpetrator_role": "his bandmate and band leader",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e13-jimmy-andrew-anthony-everyone-lets-gather-around-the-dumpster",
+    "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "I thought it was my fault, I thought I did something wrong. I was just very confused, I was already depressed as hell.",
+      "source": "s18-e13-jimmy-andrew-anthony-everyone-lets-gather-around-the-dumpster @ 6:16"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "I was able to take away what he loved. He can never be a rock star. You can never go public. He can't have social media, at least not as wide as he wants.",
+   "outcome_source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 31:10",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "Screenshots of the band leader's texts were read on air (s18-ep14 @ 5:23-6:23). His own harm never went to police. The only institution involved was a court: the band leader obtained a restraining order against Jimmy over his posts (s18-ep14 @ 29:05); Jimmy did not attend the hearing and the outcome is not given, so it is noted but not coded as a contact or as institutional harm. Jimmy and his wife were blamed by others for a bomb threat at the band leader's father's funeral."
+  },
+  {
+   "person_id": "P30",
+   "name": "Anthony",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Drummer who was berated, blamed and finally fired by text by the band leader, who privately said he wanted to murder the band and made sexual comments about Anthony's wife.",
+   "perpetrator_role": "his band leader",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e13-jimmy-andrew-anthony-everyone-lets-gather-around-the-dumpster",
+    "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "I'd already left. I had no contact with him and I was starting to hear about the legal trouble. I was like, I don't need this. I'm done with him.",
+      "source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 27:00"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "And at one point he goes, you know what? Fuck you. You're fired. You won't be missed. And that was it.",
+   "outcome_source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 11:31",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air",
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Mistreatment within a band; included because the season presents the band members as harmed. Harm ended with his firing."
+  },
+  {
+   "person_id": "P31",
+   "name": "Andrew Saxena",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Bassist in the band leader's bands on and off for over ten years; was harangued, treated as a threat for having a life outside the band, and subjected to chaotic, abusive band dynamics.",
+   "perpetrator_role": "his school friend and band leader",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e13-jimmy-andrew-anthony-everyone-lets-gather-around-the-dumpster",
+    "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "The people in my life were always like, why do you put up with it? And it was almost like, it was part of my identification of wanting to be an artist, wanting to stay a musician. I'm like, for a long time, it was almost an obligation.",
+      "source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 32:10"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "We're all doing our own projects and everything is blooming.",
+   "outcome_source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 32:10",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "second_witness"
+   ],
+   "confidence": "low",
+   "notes": "Borderline harm (interpersonal/band mistreatment). Left the band."
+  },
+  {
+   "person_id": "P32",
+   "name": "Lucia Rising (anonymous emailer) and the group of women she represents",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "A group of women who say the band leader sexually assaulted, stalked and harassed them over about 20 years; his friends defended him and they were shamed or strong-armed into silence.",
+   "perpetrator_role": "the band leader",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart"
+   ],
+   "reached_institution": "yes",
+   "never_reached": {
+    "reasons": [
+     "abuser_status_or_connections"
+    ],
+    "quotes": [
+     {
+      "reason": "abuser_status_or_connections",
+      "quote": "I'm part of a group of women who have been sexually assaulted by [perpetrator] in the past. And any time we spoke up about it, his friends came to his defense and made us feel like it was game over.",
+      "source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 21:46"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "unclear",
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "unspecified (rape kit)",
+     "initiated_by": "unclear",
+     "when": "not stated",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "At least one rape kit was done; no result described.",
+     "quote": "There's for sure been one rape kit or an instance of a rape kit. Two cases that have been filed.",
+     "source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 22:46",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Not stated.",
+     "notes": ""
+    },
+    {
+     "n": 2,
+     "institution_type": "other",
+     "institution": "unspecified authority (two cases filed)",
+     "initiated_by": "unclear",
+     "when": "not stated",
+     "what_was_asked": "Not stated.",
+     "what_institution_did": "Two cases were filed; outcome not described.",
+     "quote": "There's for sure been one rape kit or an instance of a rape kit. Two cases that have been filed.",
+     "source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 22:46",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "No outcome given; the women went silent after threats of being sued.",
+     "notes": "Whether police or court is not stated."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "outcome": "not_protected",
+   "outcome_quote": "he still, to that day, had people hushing these women or, like, threatening them, denying them of their fucking pain and trauma, and that's so fucked up. These women, to this day, don't feel safe.",
+   "outcome_source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 32:10",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "low",
+   "notes": "A group record: the season gives no individual stories, only emails from an anonymous representative (an email was read on air). Their blog came down when they were scared off: 'Once the bomb threat thing came out, the girls shut down their WordPress blog. They got scared through threats of being sued.' (s18-ep14 @ 30:07)."
+  },
+  {
+   "person_id": "P33",
+   "name": "Autumn",
+   "role_in_story": "central_survivor",
+   "harm": "Boyfriend in Boston (around 2012) controlled and gaslit her, pressured her into rough, choking, filmed sex and group sex, dealt drugs from her home, cheated, and in a jealous rage abandoned her at the roadside and locked her out.",
+   "perpetrator_role": "her ex-boyfriend (later a porn producer accused of abusing sex workers)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart",
+    "s18-e15-autumn-he-needs-to-be-stopped"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "did_not_know_it_was_abuse",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "There were probably a lot of red flags at first, but I was so damaged from The breakup with my ex that I ignored all of them",
+      "source": "s18-e15-autumn-he-needs-to-be-stopped @ 6:28"
+     },
+     {
+      "reason": "other",
+      "quote": "The biggest thing was that I married one of his friends, so I felt obligated to keep the peace.",
+      "source": "s18-e15-autumn-he-needs-to-be-stopped @ 30:23"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "outcome": "never_reached",
+   "outcome_quote": "That's where I decided to contact you and tell my story and hopefully get him held accountable for what he's doing to these other women in the sex work industry.",
+   "outcome_source": "s18-e15-autumn-he-needs-to-be-stopped @ 33:31",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Relationship ended around Valentine's Day 2013 (no institution). She came forward to the podcast after a Twitter account collected sex workers' allegations; the account reportedly got him removed from OnlyFans (see others_mentioned)."
+  },
+  {
+   "person_id": "P34",
+   "name": "Parker",
+   "role_in_story": "co_victim",
+   "harm": "Autumn's husband; her ex-boyfriend left a car registered in Parker's name and ran up about $2,500 in parking tickets, leading to a warrant for Parker's arrest that hurt his job prospects.",
+   "perpetrator_role": "a friend who bought his car (Autumn's ex-boyfriend)",
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "episodes": [
+    "s18-e15-autumn-he-needs-to-be-stopped"
+   ],
+   "reached_institution": "no",
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "He was so nervous to talk to [perpetrator] about it.",
+      "source": "s18-e15-autumn-he-needs-to-be-stopped @ 27:15"
+     }
+    ]
+   },
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "contacts": [],
+   "harmed_by_institution_ever": true,
+   "outcome": "never_reached",
+   "outcome_quote": "I ended up messaging him myself because I'm just gonna say what I need to say to you and if you don't like it, that's too bad.",
+   "outcome_source": "s18-e15-autumn-he-needs-to-be-stopped @ 27:15",
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Resolved privately: Autumn messaged the ex, who paid. The arrest warrant against Parker (for tickets the ex ran up) is why harmed_by_institution_ever=true, though the institution never learned of the underlying harm."
+  }
+ ],
+ "others_mentioned": [
+  {
+   "description": "More than 20 Black women who came forward saying Alexis's ex sexually assaulted them; police case dropped",
+   "count_stated": 20,
+   "reached_institution": "yes",
+   "quote": "Upon doing more digging, I ended up finding out that more than 20 black women have come forward, saying that he has sexually assaulted them. The police did try to get in contact with him, but again, he is a white male who is victimizing black women and apparently he didn't answer the phone and they just decided the case wasn't important enough and the case was dropped.",
+   "source": "s18-e1-alexis-youre-not-alone @ 70:38"
+  },
+  {
+   "description": "Woman found passed out in the bedroom the night Alexis broke in (suspected assault)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "It really didn't cross my mind at all that he was assaulting somebody who was probably unconscious.",
+   "source": "s18-e1-alexis-youre-not-alone @ 66:36"
+  },
+  {
+   "description": "Ex who wrote the blog post warning about Alexis's ex",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "And it started talking about how he is a predator and he abuses women, ended saying, stay away from this man.",
+   "source": "s18-e1-alexis-youre-not-alone @ 22:09"
+  },
+  {
+   "description": "Woman Alexis's ex dated simultaneously",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "she did realize that something was up about him and she decided to move on",
+   "source": "s18-e1-alexis-youre-not-alone @ 64:31"
+  },
+  {
+   "description": "At least 50 doulas targeted by the doula-fraud perpetrator (most not individually described)",
+   "count_stated": 50,
+   "reached_institution": "yes",
+   "quote": "There's at least 50 of us that we know of right now, primarily in Southern Ontario and across Canada.",
+   "source": "s18-e3-karissa-just-vibing @ 38:29"
+  },
+  {
+   "description": "Woman whose miscarriage the perpetrator announced aloud in a hospital waiting room",
+   "count_stated": 1,
+   "reached_institution": "no",
+   "quote": "And now everybody in this room knows why this poor woman is here.",
+   "source": "s18-e3-karissa-just-vibing @ 3:14"
+  },
+  {
+   "description": "The perpetrator's friend who attended a faked labour and was told not to tell Karissa (the 'cottage friend'); also the perpetrator's best friend duped in the June 2022 stillbirth",
+   "count_stated": 2,
+   "reached_institution": "unknown",
+   "quote": "Her other friend was not into it because she's sitting here being like, what the hell is happening, but can't say anything because [perpetrator] told her not to tell me.",
+   "source": "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor @ 19:53"
+  },
+  {
+   "description": "Doulas subjected to sexualised behaviour (perpetrator touching herself, stripping in a bath, urinating)",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "With some of the other doulas, she became more overt with her sexuality, if you will.",
+   "source": "s18-e5-seanna-how-is-there-more @ 34:10"
+  },
+  {
+   "description": "Victims in the US (Texas, Florida) and a UK funeral home director who sent money",
+   "count_stated": 3,
+   "reached_institution": "unknown",
+   "quote": "I know that she even contacted a funeral home in the UK who sent her money because she claimed she had a stillbirth.",
+   "source": "s18-e5-seanna-how-is-there-more @ 30:04"
+  },
+  {
+   "description": "Listener who briefly dated the doula-fraud perpetrator and was falsely accused of sexual assault by her",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "Somebody else saying, [perpetrator] was a girl that she was dating briefly. When she conned another doula, she accused me of sexual assault.",
+   "source": "s18-e5-seanna-how-is-there-more @ 41:17"
+  },
+  {
+   "description": "Backup doula targeted by the same perpetrator in 2021",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "it turns out that [perpetrator] had actually done this to her or something similar to her in 2021.",
+   "source": "s18-e6-amy-amy-s-very-calculated @ 49:20"
+  },
+  {
+   "description": "Doula who spent five days at the perpetrator's home after the Airbnb incident; at least two more doulas scammed after Audrey; local doula with a recent loss",
+   "count_stated": 4,
+   "reached_institution": "unknown",
+   "quote": "I had personal knowledge that she was out there trying to find other doulas to scam and she did manage to scam at least two more that I know of.",
+   "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 17:39"
+  },
+  {
+   "description": "An 11-year-old boy and the perpetrator's late father, both said to have been falsely accused by the doula-fraud perpetrator",
+   "count_stated": 2,
+   "reached_institution": "unknown",
+   "quote": "just imagine an 11-year-old boy having a 24-year-old woman accuse him of doing these horrible things.",
+   "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 28:15"
+  },
+  {
+   "description": "Doulas who did not go to police (majority)",
+   "count_stated": null,
+   "reached_institution": "no",
+   "quote": "The majority of people didn't go to police about this.",
+   "source": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated @ 49:17"
+  },
+  {
+   "description": "Gaby's abuser's first wife (he took a baseball bat to her car)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "from what she knew, he caught her cheating and he took a baseball bat to the car.",
+   "source": "s18-e9-gaby-beyond-the-shame @ 36:29"
+  },
+  {
+   "description": "Children of Gaby's abuser present during assaults",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "One of the children was present during that.",
+   "source": "s18-e9-gaby-beyond-the-shame @ 11:39"
+  },
+  {
+   "description": "Abuser's later girlfriend whom Gaby informed",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "I started informing the other women.",
+   "source": "s18-e9-gaby-beyond-the-shame @ 44:54"
+  },
+  {
+   "description": "About 20 similar experiences and ~300 messages about the tattoo-shop owner (drugging with morphine/ketamine, coerced Polaroid nudes, harassment of cam girls)",
+   "count_stated": 20,
+   "reached_institution": "unknown",
+   "quote": "There was at least 20 experiences that were similar some worse than others.",
+   "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 27:52"
+  },
+  {
+   "description": "Tyler's close friend with a similar experience with the tattoo-shop owner",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "I was not opposed to being hit, but there was no explicit conversation on whether that was a cage started happening.",
+   "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 24:44"
+  },
+  {
+   "description": "Ex referenced in graffiti about the tattoo-shop owner",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "we saw graffiti on a wall that said [perpetrator] sexually assaults people and we had confronted him about it and he was like, oh, it's just like my crazy ex.",
+   "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 25:45"
+  },
+  {
+   "description": "The tattoo-shop owner's girlfriend (isolated and villainised by him)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "But I think [perpetrator] was feeding her information to make her believe that people didn't like her so she didn't come around as much so he could do whatever he wanted.",
+   "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 7:12"
+  },
+  {
+   "description": "Tyler's own childhood assault (no story told)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "He did kind of remind me of someone from my childhood who had assaulted me",
+   "source": "s18-e11-tyler-dont-tell-anyone @ 9:23"
+  },
+  {
+   "description": "Tyler's brother Nathan, also on the crashed school bus",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "Me and Nathan arrived in the bus home one day, Nathan being my brother, were the last kids on the bus",
+   "source": "s18-e11-tyler-dont-tell-anyone @ 28:47"
+  },
+  {
+   "description": "About 20 women who accused a North Carolina tattooer (different perpetrator)",
+   "count_stated": 20,
+   "reached_institution": "unknown",
+   "quote": "20 other women came forward after that on this anonymous Facebook group and were all sharing their story.",
+   "source": "s18-e12-tyler-shane-connelly-believe-victims-more @ 39:22"
+  },
+  {
+   "description": "Woman ('Aaron') bullied almost to suicide by a man from another band (different perpetrator)",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "She was bullied almost to suicide by this dude from another punkish band.",
+   "source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 13:33"
+  },
+  {
+   "description": "Former drummer and other musicians mistreated by the band leader",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "One of them was a drummer. He obviously had a fake handle that said, remember me, the drummer.",
+   "source": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart @ 22:46"
+  },
+  {
+   "description": "16-year-old girl Autumn's ex slept with",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "I did find out he had slept with her and I believe she was under age at the time.",
+   "source": "s18-e15-autumn-he-needs-to-be-stopped @ 15:55"
+  },
+  {
+   "description": "Sex workers and ex-girlfriends alleging drugging and violence by Autumn's ex (Twitter account); he was removed from OnlyFans",
+   "count_stated": null,
+   "reached_institution": "yes",
+   "quote": "I'm not sure if he got kicked off of only fans before or after this, but according to the Twitter he was doing both, and then because of the Twitter he got kicked off of only fans.",
+   "source": "s18-e15-autumn-he-needs-to-be-stopped @ 31:26"
+  },
+  {
+   "description": "Autumn's ex's OnlyFans ex-girlfriend whose details he posted, leading to threats",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "People started messaging her and threatening her to give him his money",
+   "source": "s18-e15-autumn-he-needs-to-be-stopped @ 30:23"
+  }
+ ],
+ "coder_notes": "All eight chunk files were read in full to their stated last lines. The season has six story arcs: Alexis (E1); the doula-fraud perpetrator (E2-E8: Karissa, Seanna, Amy W., Amy S., Audrey and doulas heard in clips); Gaby (E9); Chris Williams (E10); the Seattle tattoo-shop owner (E11-E12: Tyler, Danielle, Shane); a Los Angeles band leader (E13-E14: Jimmy, Anthony, Andrew, a group of women); Autumn (E15). The S18 preview episode only replays clips. Naming: perpetrators' names (including garbled transcriptions of them) are replaced with [perpetrator] in every quote; no other change was made to quotations. A few quotes run across a transcript line break; the bracketed timestamp marker at the break is omitted and the source gives the timestamp where the quote starts. All quotes were machine-checked against the transcripts. Judgement calls: (1) For the doula-fraud arc, the arrest/detention (no conviction by season end) is treated as protection for doulas whose harm had ended, since it removed the perpetrator's access to doulas; decisive work coded as TikTok virality because several survivors state the arrest followed within a week of the videos, though other victims' repeated police reports also contributed. (2) Karissa's and Emma's harm never reached an institution; the hospital visits Karissa accompanied concerned the perpetrator's own (likely false) claims. (3) Chris Williams (P21), Andrew (P31) and Anthony (P30) are borderline 'harm' inclusions and are flagged low confidence. (4) The 'Lucia Rising' group (P32) is a single record standing for an unknown number of women. (5) Tyler has four records for separate perpetrators. (6) Alexis's harm reached only a therapist with no response described. Unassigned: three data-point episodes on related themes were opened and read in full; none continue or discuss any season 18 story."
+}

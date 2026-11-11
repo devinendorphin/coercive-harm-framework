@@ -48,8 +48,15 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    detected, and the seasons share a profile beyond control narratives (p = 0.004). But
    "core functions in nearly every case" **failed** as pre-registered for isolation and
    perception control. The corpus is curated (one selection process). Stays `[SUPPORTED]`:
-   illustrative, not a base rate. Institutional self-similarity (C2) was **not
-   adequately tested**: see the power audit in `research/sww-corpus/README.md`.
+   illustrative, not a base rate. Institutional self-similarity (C2) was then tested
+   directly (2026-11-01, pre-registered, two blind coders, κ = 0.83): appropriate responses
+   were **63 %** of institutional-response segments, so C2 as worded ("institutions mostly
+   reproduce the moves") is **refuted in this corpus**. The neutralizing moves are present
+   and nameable, chiefly inaction. Case files cite appropriate responses as counter-evidence
+   at equal weight (`research/sww-corpus/results/power_vector/RESULTS.md`). The 63 % describes
+   the responses the podcast shows; population figures read on its expert episodes (about 69 %
+   of sexual assaults unreported; fewer than 1 in 10 reported ones ending in a felony
+   conviction) show most cases never reach an outcome (`EXTERNAL_DATA.md`).
 5. **The documentation burden.** `[SUPPORTED]` (`research/documentation-labor-burden.md`,
    2026-10-04, from the operator's account):
    - in victim-initiated forums the record must be made contemporaneously (FRE 803(5)),

@@ -87,7 +87,19 @@ This is consistent with Biderman's and Herman's cross-setting convergence (see
 `coercion-continuity-across-scale.md`). It does **not** reach "nearly every case shows the
 core functions." That pre-registered criterion failed for two of the three core functions.
 
-**C2, fractal self-similarity: not adequately tested by this corpus study.** *(Corrected
+**C2, the power-vector test (2026-11-01): refuted in this corpus as worded.** The
+pre-registered hand-coded test (two blind coders, κ = 0.83, 200 segments, aftermath episodes
+included) found appropriate responses in **63 %** of agreed response segments, above the
+40 % refutation line; both coders refute independently. Power position did not predict
+impunity or failure rates (P1, P2 refuted); the function profile did not differ by power
+position (P3 not refuted). The neutralizing moves are present and nameable (mostly
+inaction; pathologizing absent), but they do not dominate. Full results:
+`results/power_vector/RESULTS.md`. The literature status below (`[SUPPORTED]`, from
+institutional-betrayal and custody research) is about other populations and is unchanged;
+**this corpus does not add support to "institutions mostly neutralize."**
+
+**C2, fractal self-similarity: not adequately tested by this corpus study.** *(Superseded
+for this corpus by the power-vector test above; kept as the record.)* *(Corrected
 in the power audit. The first version said "not established here," which put an
 instrument failure onto the claim.)* Its evidential status in the framework rests on the
 literature: institutional betrayal (Smith & Freyd 2014) and the custody inversion of abuse
@@ -222,7 +234,7 @@ before any verdict is written.
   rate.
 - **doc 02, cluster coherence (OBJ-001):** partial corpus-level support for co-occurrence
   of isolation, perception control, reversal and threats. It is not a validated instrument.
-- **Next test, if wanted:** see `preregistration-power-vector.md`. Perpetrator power
+- **Next test, run 2026-11-01:** see `preregistration-power-vector.md` and `results/power_vector/RESULTS.md`. Perpetrator power
   position is coded by a coder blind to the rates, and C2 segments are hand-coded,
   update and aftermath episodes included.
 

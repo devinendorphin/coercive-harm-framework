@@ -1,0 +1,2287 @@
+{
+  "season": 7,
+  "coder": "CA",
+  "coder_model": "GPT-6",
+  "reading_log": [
+    {
+      "file": "s07_01.txt",
+      "last_line_number": 111,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s07_02.txt",
+      "last_line_number": 105,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s07_03.txt",
+      "last_line_number": 109,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s07_04.txt",
+      "last_line_number": 33,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "exciting-sww-updates",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Generic update title could contain case news; read all 7 lines. Network and season-format announcements only."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Amy (brother)",
+      "role_in_story": "central_survivor",
+      "harm": "Her older brother physically, sexually and emotionally abused her, murdered her mother, then continued threats to her and her children from custody.",
+      "perpetrator_role": "older brother",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s7-e1-extreme-anger",
+        "s7-e2-the-perfect-shitstorm",
+        "s7-e3-everything-to-escape-him",
+        "s7-e4-the-killer-might-be-inside",
+        "s7-e5-convict",
+        "s7-e6-something-good-comes-out-of-everything",
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates",
+        "wcn-presents-amy-b-chesler-season-7-update"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "did_not_know_it_was_abuse",
+          "other",
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "did_not_know_it_was_abuse",
+            "quote": "I didn't know what sibling abuse meant.",
+            "source": "s7-e1-extreme-anger @ 25:58"
+          },
+          {
+            "reason": "other",
+            "quote": "So you keep it a secret.",
+            "source": "s7-e1-extreme-anger @ 25:58"
+          },
+          {
+            "reason": "fear_of_abuser",
+            "quote": "And he made me promise I would never tell mom, and you know, it was an on purpose, I cut myself.",
+            "source": "s7-e1-extreme-anger @ 27:01"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Calabasas sheriff’s station",
+          "initiated_by": "family_or_friends",
+          "when": "brother about 16–17 onward, repeated for roughly five years",
+          "what_was_asked": "Stop household violence",
+          "what_institution_did": "Brief detentions followed by release home.",
+          "quote": "So he would come back within a few hours, maybe half a day a day again.",
+          "source": "s7-e2-the-perfect-shitstorm @ 24:52",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Violence continued.",
+          "notes": "Mother called; no report of concealed sexual abuse is established."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Los Angeles police / jail system",
+          "initiated_by": "family_or_friends",
+          "when": "during college, repeated",
+          "what_was_asked": "Stop violence",
+          "what_institution_did": "Repeated arrests and jail stays of varying length.",
+          "quote": "Sometimes he was there for like three months.",
+          "source": "s7-e3-everything-to-escape-him @ 26:54",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Mother readmitted him.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "911 operator",
+          "initiated_by": "person",
+          "when": "September 25, 2007",
+          "what_was_asked": "Emergency response to reported murder",
+          "what_institution_did": "Warned Amy not to enter while the killer might be inside.",
+          "quote": "And I'm opening up our door and she's like, don't go inside.",
+          "source": "s7-e4-the-killer-might-be-inside @ 17:22",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy nevertheless entered and found her mother.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "sheriff’s deputies",
+          "initiated_by": "person",
+          "when": "same night",
+          "what_was_asked": "Investigate murder and danger",
+          "what_institution_did": "Arrived, questioned her and processed the scene.",
+          "quote": "They started questioning me immediately and started processing the house.",
+          "source": "s7-e4-the-killer-might-be-inside @ 22:39",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Detectives searched for suspect.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "homicide detectives",
+          "initiated_by": "institution",
+          "when": "same night",
+          "what_was_asked": "Find suspect",
+          "what_institution_did": "Located the stolen car but initially not the suspect.",
+          "quote": "No, we didn't get [perpetrator], we got the car.",
+          "source": "s7-e4-the-killer-might-be-inside @ 30:53",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Search continued.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "arresting officers",
+          "initiated_by": "third_party",
+          "when": "September 25–26, 2007",
+          "what_was_asked": "Detain suspect",
+          "what_institution_did": "Surrounded car; suspect surrendered.",
+          "quote": "And he, I think, hid in the car for about half an hour or so and eventually stepped out and turned himself, gave himself to the police.",
+          "source": "s7-e4-the-killer-might-be-inside @ 38:10",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Custody continued, but threats did not end.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "court",
+          "institution": "court governing estate, unnamed",
+          "initiated_by": "unclear",
+          "when": "pending murder conviction",
+          "what_was_asked": "Release inheritance",
+          "what_institution_did": "Even her share could not be released pending conviction.",
+          "quote": "My 50% share wasn't even freed legally because he hadn't been convicted.",
+          "source": "s7-e5-convict @ 16:58",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She lived on an older insurance payment.",
+          "notes": "Institution inferred from reported legal estate restriction; no particular ruling named."
+        },
+        {
+          "n": 8,
+          "institution_type": "prosecutor",
+          "institution": "district attorney",
+          "initiated_by": "institution",
+          "when": "original murder prosecution",
+          "what_was_asked": "Conviction and safety",
+          "what_institution_did": "Plea resolution instead of trial.",
+          "quote": "In the end, uh, was a plea deal in essence, which implies that in a very short time, he actually will be up for parole.",
+          "source": "s7-e5-convict @ 23:07",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Parole would be possible.",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "court",
+          "institution": "murder sentencing court",
+          "initiated_by": "institution",
+          "when": "original sentence",
+          "what_was_asked": "Sentence brother",
+          "what_institution_did": "Received 15 years to life.",
+          "quote": "10 days later, exactly, I received notice that my brother served 85% of his 15 to life sentence.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 5:30",
+          "response": "acted_partly",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Parole process began in 2021.",
+          "notes": ""
+        },
+        {
+          "n": 10,
+          "institution_type": "medical_or_therapy",
+          "institution": "her therapists",
+          "initiated_by": "person",
+          "when": "after murder, during healing",
+          "what_was_asked": "Help process trauma",
+          "what_institution_did": "Encouraged writing as catharsis.",
+          "quote": "I knew and therapists had suggested, hey, you like words, it gives you catharsis to write, write your book.",
+          "source": "s7-e6-something-good-comes-out-of-everything @ 6:18",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Writing supported healing, not cessation of threats.",
+          "notes": ""
+        },
+        {
+          "n": 11,
+          "institution_type": "other",
+          "institution": "prison notification system",
+          "initiated_by": "person",
+          "when": "before original interview",
+          "what_was_asked": "Notify transfer and parole events",
+          "what_institution_did": "Transferred him without notifying her.",
+          "quote": "He was moved prisons and I didn't know.",
+          "source": "s7-e5-convict @ 24:07",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She searched online and maintained list registration.",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "other",
+          "institution": "officer responsible for prisoner",
+          "initiated_by": "person",
+          "when": "Christmas Eve after transfer",
+          "what_was_asked": "Custody and conduct information",
+          "what_institution_did": "Returned call but could not disclose requested information.",
+          "quote": "Even though I confirmed my identity, even though I confirmed I was on the list of notification for all these things, I can't actually get any information.",
+          "source": "s7-e5-convict @ 28:09",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She remained uncertain about parole.",
+          "notes": "Privacy restriction stated, not inferred disbelief."
+        },
+        {
+          "n": 13,
+          "institution_type": "other",
+          "institution": "parole administration",
+          "initiated_by": "person",
+          "when": "weeks before August 3, 2021",
+          "what_was_asked": "Permission for impact statement",
+          "what_institution_did": "Initially approved wrong inmate’s hearing.",
+          "quote": "I found that I was approved for the wrong parole board hearing.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 6:33",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She caught error and attended correct hearing.",
+          "notes": ""
+        },
+        {
+          "n": 14,
+          "institution_type": "other",
+          "institution": "parole board",
+          "initiated_by": "person",
+          "when": "August 3, 2021 after death threat",
+          "what_was_asked": "Be heard and safe",
+          "what_institution_did": "Asked Amy to mute and turn off her camera after threat.",
+          "quote": "The parole board asked me to mute and turn.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 8:34",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Perpetrator was allowed to postpone.",
+          "notes": "Silencing after threat directly shown; Amy describes revictimization."
+        },
+        {
+          "n": 15,
+          "institution_type": "other",
+          "institution": "parole board",
+          "initiated_by": "person",
+          "when": "same hearing, later",
+          "what_was_asked": "Give statement",
+          "what_institution_did": "Allowed perpetrator to leave and filed her statement.",
+          "quote": "We will file your statement.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 9:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No protective threat response described then.",
+          "notes": ""
+        },
+        {
+          "n": 16,
+          "institution_type": "other",
+          "institution": "prison investigative services",
+          "initiated_by": "person",
+          "when": "by 2022",
+          "what_was_asked": "Report threat and obtain help",
+          "what_institution_did": "Repeated calls went unanswered.",
+          "quote": "Never did.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 17:45",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She persisted and discussed recording next hearing.",
+          "notes": ""
+        },
+        {
+          "n": 17,
+          "institution_type": "other",
+          "institution": "prison staff",
+          "initiated_by": "person",
+          "when": "Yom Kippur about 15 years after murder",
+          "what_was_asked": "Information and safety assistance",
+          "what_institution_did": "Disclosed attempted-murder investigation and urged continued documentation.",
+          "quote": "But just so you know, your brother's actually under investigation for attempted murder right now.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 18:48",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She pursued threat complaint.",
+          "notes": ""
+        },
+        {
+          "n": 18,
+          "institution_type": "other",
+          "institution": "prison inquiry",
+          "initiated_by": "person",
+          "when": "before March 23, 2023",
+          "what_was_asked": "Act on death threat",
+          "what_institution_did": "Letter rejected quoted words as not meeting threat criteria.",
+          "quote": "Specifically, we retrieve the transcript and they actually quoted, it says according to the transcript, he stated, I'm gonna ask some friends to come to see you then he says my address which I obviously won't say is that where you still live and then he repeats my address it says although we understand and empathize with you what you've been through and the loss of your mother that statement alone is not suitable and does not meet the criteria for a threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 3:31",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Amy escalated.",
+          "notes": "Amy says they omitted threatening gestures and later words."
+        },
+        {
+          "n": 19,
+          "institution_type": "victim_services",
+          "institution": "California prison victim resources staff and supervisor",
+          "initiated_by": "institution",
+          "when": "March 23, 2023",
+          "what_was_asked": "Explain postponement and threat options",
+          "what_institution_did": "Reported postponement, could not give details, escalated call.",
+          "quote": "How about I put you in touch with my supervisor as well?",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 5:37",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Chief called back.",
+          "notes": ""
+        },
+        {
+          "n": 20,
+          "institution_type": "victim_services",
+          "institution": "chief of victim resources for California prisons",
+          "initiated_by": "person",
+          "when": "March 23, 2023",
+          "what_was_asked": "Understand charges and safety options",
+          "what_institution_did": "Guided her through obtaining records and suggested police/prosecutor contact.",
+          "quote": "You can file a police report to try to get your brother for this extra crime of the threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 8:42",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She made both contacts.",
+          "notes": ""
+        },
+        {
+          "n": 21,
+          "institution_type": "court",
+          "institution": "courthouse clerk",
+          "initiated_by": "person",
+          "when": "March 23, 2023",
+          "what_was_asked": "Identify prosecutor",
+          "what_institution_did": "Provided prosecutor’s name.",
+          "quote": "She gave it to me.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 9:43",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy contacted prosecutor.",
+          "notes": ""
+        },
+        {
+          "n": 22,
+          "institution_type": "police",
+          "institution": "sheriff’s station",
+          "initiated_by": "person",
+          "when": "March 23, 2023",
+          "what_was_asked": "Report death threat",
+          "what_institution_did": "Received report; later account identifies assigned detective.",
+          "quote": "I had also filed a police report on March 23rd.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 9:43",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Prosecutor separately advanced charges.",
+          "notes": "Report receipt alone; assignment not evidence of concrete investigation. Amy later informed detective of sentencing."
+        },
+        {
+          "n": 23,
+          "institution_type": "victim_services",
+          "institution": "chief of victim resources",
+          "initiated_by": "person",
+          "when": "before March 30, 2023",
+          "what_was_asked": "Obtain parole transcript",
+          "what_institution_did": "Obtained and sent transcript.",
+          "quote": "And magically, by that time, the chief officer of the victim resources had gotten me the transcript for that parole hearing.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 11:48",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy supplied evidence to prosecutor.",
+          "notes": ""
+        },
+        {
+          "n": 24,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "person",
+          "when": "March 24–April 2023",
+          "what_was_asked": "Prosecute threats",
+          "what_institution_did": "Reviewed evidence and pursued threat charges before parole.",
+          "quote": "There's absolutely enough evidence to go after him for the death threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 13:49",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Threat charges included at sentencing.",
+          "notes": ""
+        },
+        {
+          "n": 25,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "person",
+          "when": "before April 17, 2023",
+          "what_was_asked": "Prevent hiring someone to harm her",
+          "what_institution_did": "Arranged segregation in response to concern.",
+          "quote": "He said, absolutely, he will be solitary so he cannot hire someone to hurt you.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 16:56",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She prepared to attend court.",
+          "notes": ""
+        },
+        {
+          "n": 26,
+          "institution_type": "court",
+          "institution": "sentencing judge",
+          "initiated_by": "person",
+          "when": "before April 17, 2023",
+          "what_was_asked": "Record hearing as media",
+          "what_institution_did": "Denied permission and upheld denial after prosecutor advocated.",
+          "quote": "She said, no, it'll make it a hoopla.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 17:56",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She attended without own recording permission.",
+          "notes": "Stated reason was courtroom disruption; no concealment motive inferred."
+        },
+        {
+          "n": 27,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "person",
+          "when": "April 17, 2023 arrival",
+          "what_was_asked": "Safe courthouse access",
+          "what_institution_did": "Provided secure parking, entry and security.",
+          "quote": "He drove us from the outside into the employee parking lot, walked us in, got us security.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 22:02",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She attended.",
+          "notes": ""
+        },
+        {
+          "n": 28,
+          "institution_type": "court",
+          "institution": "court reporter and bailiffs",
+          "initiated_by": "institution",
+          "when": "April 17, 2023 before statement",
+          "what_was_asked": "Participate and manage anxiety",
+          "what_institution_did": "Repeatedly shushed survivor and supporter.",
+          "quote": "Even the court reporter came over at one point and was like, you guys need to be quiet.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 25:04",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Supporter challenged treatment.",
+          "notes": ""
+        },
+        {
+          "n": 29,
+          "institution_type": "court",
+          "institution": "sentencing judge",
+          "initiated_by": "person",
+          "when": "April 17, 2023 plea",
+          "what_was_asked": "Make statement despite conditional plea demand",
+          "what_institution_did": "Affirmed her legal right and accepted plea.",
+          "quote": "The judge says, sir, it's her legal right to make a statement this is not signed and delivered yet but you can't say she can't make a statement she gets to make a statement whether you want her to or not especially if there is a charge for a death threat against her she is technically a victim on file in this situation today so he actually fucking ends up pleading guilty.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 29:15",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy gave statement.",
+          "notes": ""
+        },
+        {
+          "n": 30,
+          "institution_type": "court",
+          "institution": "sentencing judge",
+          "initiated_by": "person",
+          "when": "during impact statement",
+          "what_was_asked": "Not be talked over",
+          "what_institution_did": "Allowed defense conversation and attributed talking to lawyer.",
+          "quote": "She says, it's his lawyer talking.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 30:15",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Amy paused repeatedly and eventually finished.",
+          "notes": ""
+        },
+        {
+          "n": 31,
+          "institution_type": "court",
+          "institution": "prison crimes sentencing court",
+          "initiated_by": "person",
+          "when": "April 17, 2023",
+          "what_was_asked": "Safety from threats",
+          "what_institution_did": "Imposed six years for threats to Amy and children.",
+          "quote": "They also gave him 6 years for the death threats against me and my children.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 42:38",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "Consecutive sentences and third strike reduced release risk.",
+          "notes": ""
+        },
+        {
+          "n": 32,
+          "institution_type": "court",
+          "institution": "sentencing judge",
+          "initiated_by": "institution",
+          "when": "April 17, 2023",
+          "what_was_asked": "Prevent release",
+          "what_institution_did": "Denied next parole hearing.",
+          "quote": "Then the judge went on to deny his next parole hearing.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 43:41",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Denial duration not specified.",
+          "notes": ""
+        },
+        {
+          "n": 33,
+          "institution_type": "court",
+          "institution": "sentencing judge",
+          "initiated_by": "institution",
+          "when": "April 17, 2023 after statement",
+          "what_was_asked": "Protection from direct or proxy contact",
+          "what_institution_did": "Extended proposed 30-day order to ten years.",
+          "quote": "But by the time I had finished my victim impact statement, she said, okay, I'm giving you a 10 year restraining order.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 46:44",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Amy left feeling lighter.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "protected",
+      "outcome_quote": "But by the time I had finished my victim impact statement, she said, okay, I'm giving you a 10 year restraining order.",
+      "outcome_source": "wcn-presents-amy-b-chesler-season-7-update @ 46:44",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "the_person",
+      "decisive_work_quote": "I gave him everything.",
+      "decisive_work_source": "wcn-presents-amy-b-chesler-season-7-update @ 13:49",
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "high",
+      "notes": "Protection refers to the 2023 sentences and order, not elimination of every fear. Childhood sexual abuse was concealed; other household violence reached police. Repeated calls without individually identifiable dates are recorded as series rather than invented incidents. Decisive work concerns 2023 threat protection: she escalated after rejection and supplied letters and transcript; prosecutor and victim-services chief also did essential work. Exact number or elapsed time before first partly protective childhood intervention is not recoverable."
+    },
+    {
+      "person_id": "P02",
+      "name": "Hadas (son)",
+      "role_in_story": "co_victim",
+      "harm": "Her son repeatedly assaulted her, including a flamethrower attack, and murdered her in September 2007.",
+      "perpetrator_role": "son",
+      "perpetrator_convicted": "yes",
+      "deceased": true,
+      "episodes": [
+        "s7-e1-extreme-anger",
+        "s7-e2-the-perfect-shitstorm",
+        "s7-e3-everything-to-escape-him",
+        "s7-e4-the-killer-might-be-inside",
+        "s7-e5-convict",
+        "s7-e6-something-good-comes-out-of-everything",
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates",
+        "wcn-presents-amy-b-chesler-season-7-update"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "Calabasas sheriff’s station",
+          "initiated_by": "family_or_friends",
+          "when": "brother about 16–17 onward, repeated for roughly five years",
+          "what_was_asked": "Stop household violence",
+          "what_institution_did": "Brief detentions followed by release home.",
+          "quote": "So he would come back within a few hours, maybe half a day a day again.",
+          "source": "s7-e2-the-perfect-shitstorm @ 24:52",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Violence continued.",
+          "notes": "Mother called; no report of concealed sexual abuse is established."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "Los Angeles police / jail system",
+          "initiated_by": "family_or_friends",
+          "when": "during college, repeated",
+          "what_was_asked": "Stop violence",
+          "what_institution_did": "Repeated arrests and jail stays of varying length.",
+          "quote": "Sometimes he was there for like three months.",
+          "source": "s7-e3-everything-to-escape-him @ 26:54",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Mother readmitted him.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "police",
+          "institution": "police responding to improvised flamethrower assault",
+          "initiated_by": "person",
+          "when": "during Amy’s college years",
+          "what_was_asked": "Stop assault",
+          "what_institution_did": "Said they could not help if she would not press and maintain charges.",
+          "quote": "We can't help you.",
+          "source": "s7-e3-everything-to-escape-him @ 26:54",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Son returned repeatedly.",
+          "notes": "Amy’s understanding of legal process; no independent legal explanation supplied."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "sheriff’s deputies",
+          "initiated_by": "person",
+          "when": "same night",
+          "what_was_asked": "Investigate murder and danger",
+          "what_institution_did": "Arrived, questioned her and processed the scene.",
+          "quote": "They started questioning me immediately and started processing the house.",
+          "source": "s7-e4-the-killer-might-be-inside @ 22:39",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Detectives searched for suspect.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "homicide detectives",
+          "initiated_by": "institution",
+          "when": "same night",
+          "what_was_asked": "Find suspect",
+          "what_institution_did": "Located the stolen car but initially not the suspect.",
+          "quote": "No, we didn't get [perpetrator], we got the car.",
+          "source": "s7-e4-the-killer-might-be-inside @ 30:53",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Search continued.",
+          "notes": ""
+        },
+        {
+          "n": 6,
+          "institution_type": "police",
+          "institution": "arresting officers",
+          "initiated_by": "third_party",
+          "when": "September 25–26, 2007",
+          "what_was_asked": "Detain suspect",
+          "what_institution_did": "Surrounded car; suspect surrendered.",
+          "quote": "And he, I think, hid in the car for about half an hour or so and eventually stepped out and turned himself, gave himself to the police.",
+          "source": "s7-e4-the-killer-might-be-inside @ 38:10",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Custody continued, but threats did not end.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "prosecutor",
+          "institution": "district attorney",
+          "initiated_by": "institution",
+          "when": "original murder prosecution",
+          "what_was_asked": "Conviction and safety",
+          "what_institution_did": "Plea resolution instead of trial.",
+          "quote": "In the end, uh, was a plea deal in essence, which implies that in a very short time, he actually will be up for parole.",
+          "source": "s7-e5-convict @ 23:07",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Parole would be possible.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "court",
+          "institution": "murder sentencing court",
+          "initiated_by": "institution",
+          "when": "original sentence",
+          "what_was_asked": "Sentence brother",
+          "what_institution_did": "Received 15 years to life.",
+          "quote": "10 days later, exactly, I received notice that my brother served 85% of his 15 to life sentence.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 5:30",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Accountability after death; not personal protection.",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "other",
+          "institution": "parole board",
+          "initiated_by": "family_or_friends",
+          "when": "August 3, 2021",
+          "what_was_asked": "Oppose release and hear family statement",
+          "what_institution_did": "Allowed postponement and departure before statement.",
+          "quote": "After he asks if he has to listen to me, he gets up and he walks out.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 9:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Statement filed.",
+          "notes": ""
+        },
+        {
+          "n": 10,
+          "institution_type": "court",
+          "institution": "sentencing court and prosecutor",
+          "initiated_by": "institution",
+          "when": "April 17, 2023",
+          "what_was_asked": "Further accountability",
+          "what_institution_did": "Removed youth-offender status associated with murder.",
+          "quote": "They went backwards and removed [perpetrator]'s youth offender status.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 42:38",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Daughter described retroactive justice.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "There's nothing that can bring her back.",
+      "outcome_source": "wcn-presents-amy-b-chesler-season-7-update @ 48:46",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air",
+        "conviction"
+      ],
+      "confidence": "high",
+      "notes": "Name also transcribed Hadass, Dossie and other variants. Later accountability cannot protect a deceased person. Number of repeated police contacts cannot be reconstructed."
+    },
+    {
+      "person_id": "P03",
+      "name": "Amy (father’s neglect)",
+      "role_in_story": "central_survivor",
+      "harm": "Absent and unreliable father failed to provide parental support.",
+      "perpetrator_role": "father",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-e1-extreme-anger",
+        "s7-e3-everything-to-escape-him"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "So I just don't think I ever expected it.",
+            "source": "s7-e3-everything-to-escape-him @ 8:15"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I have always called him dad, but he's never been a dad to me.",
+      "outcome_source": "s7-e3-everything-to-escape-him @ 8:15",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": " No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P04",
+      "name": "Hadas (former husband)",
+      "role_in_story": "co_victim",
+      "harm": "Affairs, abandonment and evasion of support caused financial and emotional harm; her diary describes distress.",
+      "perpetrator_role": "former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-e1-extreme-anger",
+        "s7-e3-everything-to-escape-him",
+        "s7-e6-something-good-comes-out-of-everything"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "unspecified legal channels for support",
+          "initiated_by": "person",
+          "when": "before son’s murder",
+          "what_was_asked": "Obtain support",
+          "what_institution_did": "Legal efforts described as exhausted without securing needed help.",
+          "quote": "If she's not even reaching out for money, she had exhausted everything legally.",
+          "source": "s7-e3-everything-to-escape-him @ 5:09",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She sought help directly from former husband; he did not help.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "If she's not even reaching out for money, she had exhausted everything legally.",
+      "outcome_source": "s7-e3-everything-to-escape-him @ 5:09",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "Legal channels are unspecified; no particular ruling or motive inferred."
+    },
+    {
+      "person_id": "P05",
+      "name": "Amy (mutual friend’s voyeurism)",
+      "role_in_story": "central_survivor",
+      "harm": "A trusted mutual friend secretly watched her have sex from a closet; she learned years later from a friend who called it a compliment.",
+      "perpetrator_role": "mutual friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-e3-everything-to-escape-him"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I had in essence never shown any reciprocal desire to hook up or do anything with him or date him or, and when my girlfriend told me, she told me I should be, you know, take it as a compliment.",
+            "source": "s7-e3-everything-to-escape-him @ 22:40"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "I had in essence never shown any reciprocal desire to hook up or do anything with him or date him or, and when my girlfriend told me, she told me I should be, you know, take it as a compliment.",
+      "outcome_source": "s7-e3-everything-to-escape-him @ 22:40",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "No institutional response shown. No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P06",
+      "name": "Amy (former husband)",
+      "role_in_story": "central_survivor",
+      "harm": "Her former husband constrained how she discussed grief and murder; conflict affected children and she left the marriage.",
+      "perpetrator_role": "former husband",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-e5-convict",
+        "s7-e6-something-good-comes-out-of-everything",
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "The person I was married to wasn't comfortable with me sharing all the time.",
+            "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 3:24"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "In the moment, I freed myself from that marriage and started focusing more on my own healing in myself.",
+      "outcome_source": "s7-e6-something-good-comes-out-of-everything @ 7:27",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Therapy is described for abuse and grief, but harm disclosure about marriage is not established. Divorce itself does not establish harm disclosure. No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P07",
+      "name": "[unnamed] Amy’s visiting friend",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Older brother made a sexual comment and held a lighter under her buttocks; parents barred her from visiting after disclosure.",
+      "perpetrator_role": "friend’s older brother",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-e2-the-perfect-shitstorm"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And like, again, the 1990s, 1996, 1997, maybe 98, I guess that could slide from an older brother and she kind of laughed at him and then he took a lighter and like lit it under her ass And of course she went home and told her parents as she should and my mom was extremely embarrassed and punished him But I'm my friend was no longer allowed over my house and at that point I think that might have been when I started seeking way more Opportunities and when I found I could seek those opportunities, mom would give me the freedom, because she was realizing that nobody should be around [perpetrator].",
+            "source": "s7-e2-the-perfect-shitstorm @ 10:29"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And like, again, the 1990s, 1996, 1997, maybe 98, I guess that could slide from an older brother and she kind of laughed at him and then he took a lighter and like lit it under her ass And of course she went home and told her parents as she should and my mom was extremely embarrassed and punished him But I'm my friend was no longer allowed over my house and at that point I think that might have been when I started seeking way more Opportunities and when I found I could seek those opportunities, mom would give me the freedom, because she was realizing that nobody should be around [perpetrator].",
+      "outcome_source": "s7-e2-the-perfect-shitstorm @ 10:29",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Parental punishment and access restrictions were informal, not institutional. No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P08",
+      "name": "[unnamed] Amy’s paternal uncle",
+      "role_in_story": "update_or_listener_story",
+      "harm": "He disclosed sibling abuse by Amy’s father after reading her book and recognizing that the harm had a name.",
+      "perpetrator_role": "brother",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "Things that you shared and named like sibling abuse was something I faced at the hands of your dad and I didn't even know there was a name for it.",
+            "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 5:30"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "Things that you shared and named like sibling abuse was something I faced at the hands of your dad and I didn't even know there was a name for it.",
+      "outcome_source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 5:30",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Included for disclosure and later recognition, despite no specific abusive acts supplied. No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P09",
+      "name": "Hadas (medical injury and disability)",
+      "role_in_story": "co_victim",
+      "harm": "An allergic medication reaction following surgery caused prolonged vomiting and spinal injury; years of disability followed, without benefits or nursing assistance.",
+      "perpetrator_role": "medical providers; individual responsibility unspecified",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-e2-the-perfect-shitstorm",
+        "s7-e3-everything-to-escape-him"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "surgical and medical providers",
+          "initiated_by": "unclear",
+          "when": "after school accident",
+          "what_was_asked": "Treat ankle injury",
+          "what_institution_did": "Surgery involved medication allergy and further injury.",
+          "quote": "She was allergic to and she ruptured two discs in her back from throwing up for 18 hours.",
+          "source": "s7-e2-the-perfect-shitstorm @ 13:34",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Bedbound or wheelchair-bound for about three years.",
+          "notes": "Treatment harm itself; later response to notification of complication not detailed."
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "benefits and nursing provision, unnamed",
+          "initiated_by": "unclear",
+          "when": "during disability",
+          "what_was_asked": "Benefits and nursing care",
+          "what_institution_did": "Denied assistance.",
+          "quote": "She wasn't given a nurse to do basic things.",
+          "source": "s7-e2-the-perfect-shitstorm @ 14:35",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Family provided care.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "San Francisco specialist",
+          "initiated_by": "family_or_friends",
+          "when": "Amy about 15, last surgery",
+          "what_was_asked": "Specialist treatment",
+          "what_institution_did": "Further surgery described.",
+          "quote": "So I got my permit just in time for mom to have her last surgery.",
+          "source": "s7-e2-the-perfect-shitstorm @ 42:30",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Ultimately returned to work.",
+          "notes": "Effect of surgery not individually described."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "She had overcome this immense disability, these menstruals with her son kind of overcoming.",
+      "outcome_source": "s7-e3-everything-to-escape-him @ 33:58",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "No intentional abuse or malpractice finding asserted. Recovery is stated, but no specific protective institutional action is established as its cause."
+    },
+    {
+      "person_id": "P10",
+      "name": "[unnamed] Amy’s child 1",
+      "role_in_story": "child",
+      "harm": "Uncle threatened to kill Amy’s family, including the children.",
+      "perpetrator_role": "maternal uncle",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s7-e1-extreme-anger",
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates",
+        "wcn-presents-amy-b-chesler-season-7-update"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "parole board",
+          "initiated_by": "family_or_friends",
+          "when": "August 3, 2021 after death threat",
+          "what_was_asked": "Be heard and safe",
+          "what_institution_did": "Asked Amy to mute and turn off her camera after threat.",
+          "quote": "The parole board asked me to mute and turn.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 8:34",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Perpetrator was allowed to postpone.",
+          "notes": "Silencing after threat directly shown; Amy describes revictimization."
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "parole board",
+          "initiated_by": "family_or_friends",
+          "when": "same hearing, later",
+          "what_was_asked": "Give statement",
+          "what_institution_did": "Allowed perpetrator to leave and filed her statement.",
+          "quote": "We will file your statement.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 9:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No protective threat response described then.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "other",
+          "institution": "prison investigative services",
+          "initiated_by": "family_or_friends",
+          "when": "by 2022",
+          "what_was_asked": "Report threat and obtain help",
+          "what_institution_did": "Repeated calls went unanswered.",
+          "quote": "Never did.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 17:45",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She persisted and discussed recording next hearing.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "other",
+          "institution": "prison staff",
+          "initiated_by": "family_or_friends",
+          "when": "Yom Kippur about 15 years after murder",
+          "what_was_asked": "Information and safety assistance",
+          "what_institution_did": "Disclosed attempted-murder investigation and urged continued documentation.",
+          "quote": "But just so you know, your brother's actually under investigation for attempted murder right now.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 18:48",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She pursued threat complaint.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "other",
+          "institution": "prison inquiry",
+          "initiated_by": "family_or_friends",
+          "when": "before March 23, 2023",
+          "what_was_asked": "Act on death threat",
+          "what_institution_did": "Letter rejected quoted words as not meeting threat criteria.",
+          "quote": "Specifically, we retrieve the transcript and they actually quoted, it says according to the transcript, he stated, I'm gonna ask some friends to come to see you then he says my address which I obviously won't say is that where you still live and then he repeats my address it says although we understand and empathize with you what you've been through and the loss of your mother that statement alone is not suitable and does not meet the criteria for a threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 3:31",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Amy escalated.",
+          "notes": "Amy says they omitted threatening gestures and later words."
+        },
+        {
+          "n": 6,
+          "institution_type": "victim_services",
+          "institution": "California prison victim resources staff and supervisor",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Explain postponement and threat options",
+          "what_institution_did": "Reported postponement, could not give details, escalated call.",
+          "quote": "How about I put you in touch with my supervisor as well?",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 5:37",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Chief called back.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "victim_services",
+          "institution": "chief of victim resources for California prisons",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Understand charges and safety options",
+          "what_institution_did": "Guided her through obtaining records and suggested police/prosecutor contact.",
+          "quote": "You can file a police report to try to get your brother for this extra crime of the threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 8:42",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She made both contacts.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "court",
+          "institution": "courthouse clerk",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Identify prosecutor",
+          "what_institution_did": "Provided prosecutor’s name.",
+          "quote": "She gave it to me.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 9:43",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy contacted prosecutor.",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "police",
+          "institution": "sheriff’s station",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Report death threat",
+          "what_institution_did": "Received report; later account identifies assigned detective.",
+          "quote": "I had also filed a police report on March 23rd.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 9:43",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Prosecutor separately advanced charges.",
+          "notes": "Report receipt alone; assignment not evidence of concrete investigation. Amy later informed detective of sentencing."
+        },
+        {
+          "n": 10,
+          "institution_type": "victim_services",
+          "institution": "chief of victim resources",
+          "initiated_by": "family_or_friends",
+          "when": "before March 30, 2023",
+          "what_was_asked": "Obtain parole transcript",
+          "what_institution_did": "Obtained and sent transcript.",
+          "quote": "And magically, by that time, the chief officer of the victim resources had gotten me the transcript for that parole hearing.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 11:48",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy supplied evidence to prosecutor.",
+          "notes": ""
+        },
+        {
+          "n": 11,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "family_or_friends",
+          "when": "March 24–April 2023",
+          "what_was_asked": "Prosecute threats",
+          "what_institution_did": "Reviewed evidence and pursued threat charges before parole.",
+          "quote": "There's absolutely enough evidence to go after him for the death threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 13:49",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Threat charges included at sentencing.",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "family_or_friends",
+          "when": "before April 17, 2023",
+          "what_was_asked": "Prevent hiring someone to harm her",
+          "what_institution_did": "Arranged segregation in response to concern.",
+          "quote": "He said, absolutely, he will be solitary so he cannot hire someone to hurt you.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 16:56",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She prepared to attend court.",
+          "notes": ""
+        },
+        {
+          "n": 13,
+          "institution_type": "court",
+          "institution": "prison crimes sentencing court",
+          "initiated_by": "family_or_friends",
+          "when": "April 17, 2023",
+          "what_was_asked": "Safety from threats",
+          "what_institution_did": "Imposed six years for threats to Amy and children.",
+          "quote": "They also gave him 6 years for the death threats against me and my children.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 42:38",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "Consecutive sentences and third strike reduced release risk.",
+          "notes": ""
+        },
+        {
+          "n": 14,
+          "institution_type": "court",
+          "institution": "sentencing judge",
+          "initiated_by": "family_or_friends",
+          "when": "April 17, 2023",
+          "what_was_asked": "Prevent release",
+          "what_institution_did": "Denied next parole hearing.",
+          "quote": "Then the judge went on to deny his next parole hearing.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 43:41",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Denial duration not specified.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "They also gave him 6 years for the death threats against me and my children.",
+      "outcome_source": "wcn-presents-amy-b-chesler-season-7-update @ 42:38",
+      "protection_contributors": [
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "I gave him everything.",
+      "decisive_work_source": "wcn-presents-amy-b-chesler-season-7-update @ 13:49",
+      "time_to_first_effective_action": "Threat August 3, 2021; effective prosecution March–April 2023; sentencing April 17, 2023.",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Two children mentioned; numbered only to distinguish records, not identify birth order. Same joint threat, not separate events. Mother’s institutional advocacy about the joint family threat is also recorded here; those contacts are shared, not additional independent incidents. Exact count before effective protection remains uncertain."
+    },
+    {
+      "person_id": "P11",
+      "name": "[unnamed] Amy’s child 2",
+      "role_in_story": "child",
+      "harm": "Uncle threatened to kill Amy’s family, including the children.",
+      "perpetrator_role": "maternal uncle",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s7-e1-extreme-anger",
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates",
+        "wcn-presents-amy-b-chesler-season-7-update"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "parole board",
+          "initiated_by": "family_or_friends",
+          "when": "August 3, 2021 after death threat",
+          "what_was_asked": "Be heard and safe",
+          "what_institution_did": "Asked Amy to mute and turn off her camera after threat.",
+          "quote": "The parole board asked me to mute and turn.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 8:34",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Perpetrator was allowed to postpone.",
+          "notes": "Silencing after threat directly shown; Amy describes revictimization."
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "parole board",
+          "initiated_by": "family_or_friends",
+          "when": "same hearing, later",
+          "what_was_asked": "Give statement",
+          "what_institution_did": "Allowed perpetrator to leave and filed her statement.",
+          "quote": "We will file your statement.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 9:35",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "No protective threat response described then.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "other",
+          "institution": "prison investigative services",
+          "initiated_by": "family_or_friends",
+          "when": "by 2022",
+          "what_was_asked": "Report threat and obtain help",
+          "what_institution_did": "Repeated calls went unanswered.",
+          "quote": "Never did.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 17:45",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She persisted and discussed recording next hearing.",
+          "notes": ""
+        },
+        {
+          "n": 4,
+          "institution_type": "other",
+          "institution": "prison staff",
+          "initiated_by": "family_or_friends",
+          "when": "Yom Kippur about 15 years after murder",
+          "what_was_asked": "Information and safety assistance",
+          "what_institution_did": "Disclosed attempted-murder investigation and urged continued documentation.",
+          "quote": "But just so you know, your brother's actually under investigation for attempted murder right now.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 18:48",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She pursued threat complaint.",
+          "notes": ""
+        },
+        {
+          "n": 5,
+          "institution_type": "other",
+          "institution": "prison inquiry",
+          "initiated_by": "family_or_friends",
+          "when": "before March 23, 2023",
+          "what_was_asked": "Act on death threat",
+          "what_institution_did": "Letter rejected quoted words as not meeting threat criteria.",
+          "quote": "Specifically, we retrieve the transcript and they actually quoted, it says according to the transcript, he stated, I'm gonna ask some friends to come to see you then he says my address which I obviously won't say is that where you still live and then he repeats my address it says although we understand and empathize with you what you've been through and the loss of your mother that statement alone is not suitable and does not meet the criteria for a threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 3:31",
+          "response": "disbelieved",
+          "basis": [
+            "person_account",
+            "document_read_on_air"
+          ],
+          "what_happened_next": "Amy escalated.",
+          "notes": "Amy says they omitted threatening gestures and later words."
+        },
+        {
+          "n": 6,
+          "institution_type": "victim_services",
+          "institution": "California prison victim resources staff and supervisor",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Explain postponement and threat options",
+          "what_institution_did": "Reported postponement, could not give details, escalated call.",
+          "quote": "How about I put you in touch with my supervisor as well?",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 5:37",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Chief called back.",
+          "notes": ""
+        },
+        {
+          "n": 7,
+          "institution_type": "victim_services",
+          "institution": "chief of victim resources for California prisons",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Understand charges and safety options",
+          "what_institution_did": "Guided her through obtaining records and suggested police/prosecutor contact.",
+          "quote": "You can file a police report to try to get your brother for this extra crime of the threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 8:42",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She made both contacts.",
+          "notes": ""
+        },
+        {
+          "n": 8,
+          "institution_type": "court",
+          "institution": "courthouse clerk",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Identify prosecutor",
+          "what_institution_did": "Provided prosecutor’s name.",
+          "quote": "She gave it to me.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 9:43",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy contacted prosecutor.",
+          "notes": ""
+        },
+        {
+          "n": 9,
+          "institution_type": "police",
+          "institution": "sheriff’s station",
+          "initiated_by": "family_or_friends",
+          "when": "March 23, 2023",
+          "what_was_asked": "Report death threat",
+          "what_institution_did": "Received report; later account identifies assigned detective.",
+          "quote": "I had also filed a police report on March 23rd.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 9:43",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Prosecutor separately advanced charges.",
+          "notes": "Report receipt alone; assignment not evidence of concrete investigation. Amy later informed detective of sentencing."
+        },
+        {
+          "n": 10,
+          "institution_type": "victim_services",
+          "institution": "chief of victim resources",
+          "initiated_by": "family_or_friends",
+          "when": "before March 30, 2023",
+          "what_was_asked": "Obtain parole transcript",
+          "what_institution_did": "Obtained and sent transcript.",
+          "quote": "And magically, by that time, the chief officer of the victim resources had gotten me the transcript for that parole hearing.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 11:48",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Amy supplied evidence to prosecutor.",
+          "notes": ""
+        },
+        {
+          "n": 11,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "family_or_friends",
+          "when": "March 24–April 2023",
+          "what_was_asked": "Prosecute threats",
+          "what_institution_did": "Reviewed evidence and pursued threat charges before parole.",
+          "quote": "There's absolutely enough evidence to go after him for the death threat.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 13:49",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Threat charges included at sentencing.",
+          "notes": ""
+        },
+        {
+          "n": 12,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "family_or_friends",
+          "when": "before April 17, 2023",
+          "what_was_asked": "Prevent hiring someone to harm her",
+          "what_institution_did": "Arranged segregation in response to concern.",
+          "quote": "He said, absolutely, he will be solitary so he cannot hire someone to hurt you.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 16:56",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She prepared to attend court.",
+          "notes": ""
+        },
+        {
+          "n": 13,
+          "institution_type": "court",
+          "institution": "prison crimes sentencing court",
+          "initiated_by": "family_or_friends",
+          "when": "April 17, 2023",
+          "what_was_asked": "Safety from threats",
+          "what_institution_did": "Imposed six years for threats to Amy and children.",
+          "quote": "They also gave him 6 years for the death threats against me and my children.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 42:38",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness",
+            "court_outcome"
+          ],
+          "what_happened_next": "Consecutive sentences and third strike reduced release risk.",
+          "notes": ""
+        },
+        {
+          "n": 14,
+          "institution_type": "court",
+          "institution": "sentencing judge",
+          "initiated_by": "family_or_friends",
+          "when": "April 17, 2023",
+          "what_was_asked": "Prevent release",
+          "what_institution_did": "Denied next parole hearing.",
+          "quote": "Then the judge went on to deny his next parole hearing.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 43:41",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Denial duration not specified.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "protected",
+      "outcome_quote": "They also gave him 6 years for the death threats against me and my children.",
+      "outcome_source": "wcn-presents-amy-b-chesler-season-7-update @ 42:38",
+      "protection_contributors": [
+        "family_or_friends",
+        "institution"
+      ],
+      "decisive_work_by": "family_or_friends",
+      "decisive_work_quote": "I gave him everything.",
+      "decisive_work_source": "wcn-presents-amy-b-chesler-season-7-update @ 13:49",
+      "time_to_first_effective_action": "Threat August 3, 2021; effective prosecution March–April 2023; sentencing April 17, 2023.",
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness",
+        "conviction"
+      ],
+      "confidence": "medium",
+      "notes": "Two children mentioned; numbered only to distinguish records, not identify birth order. Same joint threat, not separate events. Mother’s institutional advocacy about the joint family threat is also recorded here; those contacts are shared, not additional independent incidents. Exact count before effective protection remains uncertain."
+    },
+    {
+      "person_id": "P12",
+      "name": "[unnamed] attacked correctional officer",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Inmate attacked officer with handmade mace and shank; other officers intervened, and criminal prosecution followed.",
+      "perpetrator_role": "prison inmate",
+      "perpetrator_convicted": "yes",
+      "deceased": false,
+      "episodes": [
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates",
+        "wcn-presents-amy-b-chesler-season-7-update"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "responding correctional officers",
+          "initiated_by": "institution",
+          "when": "prison assault, before March 2023",
+          "what_was_asked": "Stop attack",
+          "what_institution_did": "Other officers intervened and were injured.",
+          "quote": "A bunch of other officers got involved and got hurt in the process of trying to stop my brother.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 11:48",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Recorded attack led to charges.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "prosecutor",
+          "institution": "prison crimes district attorney",
+          "initiated_by": "institution",
+          "when": "March–April 2023",
+          "what_was_asked": "Prosecute assault",
+          "what_institution_did": "Brought five charges.",
+          "quote": "He was being given one count with five charges for attempted murder, attack on the public official, two weapons charges, and something else I keep forgetting.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 10:44",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Sentencing followed.",
+          "notes": ""
+        },
+        {
+          "n": 3,
+          "institution_type": "court",
+          "institution": "prison crimes sentencing court",
+          "initiated_by": "institution",
+          "when": "April 17, 2023",
+          "what_was_asked": "Sentence attacker",
+          "what_institution_did": "Imposed 30 years to life.",
+          "quote": "He went after him for the five charges against the correctional officer, which he received and took 30 years to life sentence for.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 41:34",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "court_outcome"
+          ],
+          "what_happened_next": "Consecutive sentences imposed.",
+          "notes": ""
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "A bunch of other officers got involved and got hurt in the process of trying to stop my brother.",
+      "outcome_source": "wcn-presents-amy-b-chesler-season-7-update @ 11:48",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "record_checked_by_show",
+        "conviction"
+      ],
+      "confidence": "low",
+      "notes": "Injury already occurred. Specific cessation/protective effect of intervention not established; later conviction alone not coded as protection."
+    },
+    {
+      "person_id": "P13",
+      "name": "Amy (online drug accusation)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Commenter claimed her chapped lips meant drug use; she publicly corrected it.",
+      "perpetrator_role": "Twitter commenter",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "that comment and I corrected that person.",
+            "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 13:41"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "that comment and I corrected that person.",
+      "outcome_source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 13:41",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Public posting/message is not itself report to platform staff. No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P14",
+      "name": "Amy (online murder accusation)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Commenter accused her of murdering her mother for money; she publicly denied it.",
+      "perpetrator_role": "Facebook commenter",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "So I found that comment and I actually hopped on it too.",
+            "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 13:41"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "So I found that comment and I actually hopped on it too.",
+      "outcome_source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 13:41",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Public posting/message is not itself report to platform staff. No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P15",
+      "name": "Amy (online death message)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "User messaged that she deserved to die; she described distress at the message.",
+      "perpetrator_role": "Instagram user",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "How somebody stepped away from our episode thinking that or having the impetus to send that is just insane to me, whether it was just dumb trolling or not.",
+            "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 14:44"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "How somebody stepped away from our episode thinking that or having the impetus to send that is just insane to me, whether it was just dumb trolling or not.",
+      "outcome_source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 14:44",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Public posting/message is not itself report to platform staff. No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P16",
+      "name": "Amy (impersonation)",
+      "role_in_story": "update_or_listener_story",
+      "harm": "Impersonator used her identity to form fake romantic relationships, reportedly obtaining money from some men; fake accounts continued.",
+      "perpetrator_role": "online impersonator",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "platform",
+          "institution": "Facebook",
+          "initiated_by": "person",
+          "when": "after television appearance",
+          "what_was_asked": "Verify authentic identity",
+          "what_institution_did": "Refused verification while fake accounts continued.",
+          "quote": "On the same side of the coin, Facebook and Instagram refuses to verify me.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 15:44",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Other people continued being deceived.",
+          "notes": "Platforms jointly described, not separately dated requests."
+        },
+        {
+          "n": 2,
+          "institution_type": "platform",
+          "institution": "Instagram",
+          "initiated_by": "person",
+          "when": "after television appearance",
+          "what_was_asked": "Verify authentic identity",
+          "what_institution_did": "Refused verification while fake accounts continued.",
+          "quote": "On the same side of the coin, Facebook and Instagram refuses to verify me.",
+          "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 15:44",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Other people continued being deceived.",
+          "notes": "Platforms jointly described, not separately dated requests."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "So these accounts just keep popping up.",
+      "outcome_source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 15:44",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": "Refusal of identity verification described; no specific account-removal response reported."
+    },
+    {
+      "person_id": "P17",
+      "name": "Amy (school bullying)",
+      "role_in_story": "central_survivor",
+      "harm": "School peers picked on her; she coped through hobbies and finding happiness internally.",
+      "perpetrator_role": "school peers",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s7-e2-the-perfect-shitstorm"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "I was picked on in school as well to be honest you know a lot but I guess I just life had been so But I guess I just, life had been so harried already that it rolled off my back, like being picked on wasn't that big of a deal, I guess, in relation to everything else I had experienced.",
+            "source": "s7-e2-the-perfect-shitstorm @ 38:28"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "So I just, I found what made me happy internally.",
+      "outcome_source": "s7-e2-the-perfect-shitstorm @ 38:28",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "person_account_alone"
+      ],
+      "confidence": "medium",
+      "notes": " No institutional disclosure for this distinct harm is narrated. Never-reached describes the available account, not proof no contact ever occurred."
+    },
+    {
+      "person_id": "P18",
+      "name": "Tiffany (courthouse treatment)",
+      "role_in_story": "other",
+      "harm": "Supporting Amy in court, she was threatened with removal, repeatedly silenced, felt cornered and left crying.",
+      "perpetrator_role": "court staff and sheriff",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "wcn-presents-amy-b-chesler-season-7-update"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "court",
+          "institution": "court reporter and Los Angeles County sheriff",
+          "initiated_by": "institution",
+          "when": "April 17, 2023",
+          "what_was_asked": "Support Amy while managing anxiety",
+          "what_institution_did": "Sheriff threatened removal and staff repeatedly shushed them.",
+          "quote": "One of the sheriffs, he threatened that he was going to kick me out of the room and told me to be calm.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 34:24",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "She became distressed.",
+          "notes": ""
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "courthouse sheriff",
+          "initiated_by": "institution",
+          "when": "after sentencing",
+          "what_was_asked": "Clarify ability to speak and escort arrangements",
+          "what_institution_did": "Offered escort but staff yelled while she felt cornered.",
+          "quote": "And I'm like cornered by this Los Angeles County Sheriff and I start crying and I'm like, please just let me out of here.",
+          "source": "wcn-presents-amy-b-chesler-season-7-update @ 37:25",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She left crying.",
+          "notes": "Escort offer a partly supportive step; selected code reflects direct intimidation described."
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "harmed_by_institution",
+      "outcome_quote": "I had to leave the building.",
+      "outcome_source": "wcn-presents-amy-b-chesler-season-7-update @ 37:25",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Host gives direct account of intimidation and aftermath; not included merely for being a support person."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Additional correctional officers injured while intervening",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "A bunch of other officers got involved and got hurt in the process of trying to stop my brother.",
+      "source": "wcn-presents-amy-b-chesler-season-7-update @ 11:48"
+    },
+    {
+      "description": "Inmates perpetrator claimed he stabbed; claim not independently confirmed",
+      "count_stated": 90,
+      "reached_institution": "yes",
+      "quote": "I've stabbed over 90 more people.",
+      "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 8:34"
+    },
+    {
+      "description": "Men deceived through fake accounts of Amy; some reportedly paid money",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "And they've actually created relationships with men that have devoted their time and I think some of them money in order to be in a relationship with me.",
+      "source": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates @ 15:44"
+    },
+    {
+      "description": "Other girlfriends exploited by brother, including girlfriend in Arizona",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "He had a serious girlfriend in Arizona that he went and lived with for a bit that gave mom and I a little bit of freedom, but then he came back because",
+      "source": "s7-e2-the-perfect-shitstorm @ 36:16"
+    },
+    {
+      "description": "Schoolgirls watched in underwear by principal; Hadas reported him",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "Well, that meant in the early 90s, I had a friend who wore skirts and would go on the monkey bars and the principal used to watch the girls on the monkey bars in their underwear, like flipping and my mom caught him and like, she turned him in and she earned this really bad reputation of being a shit starter.",
+      "source": "s7-e1-extreme-anger @ 14:22"
+    },
+    {
+      "description": "Playground acquaintance’s murdered mother",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "And I kept finding community, like I had somebody reach out to me that I'd met on the playground and said, hey, I just saw your post and, oh my God, my mom was murdered.",
+      "source": "s7-e6-something-good-comes-out-of-everything @ 2:11"
+    },
+    {
+      "description": "Host’s murdered brother, mentioned without a developed case narrative",
+      "count_stated": 1,
+      "reached_institution": "yes",
+      "quote": "And I actually wasn't't I was being serious because I am scared of cops since the Los Angeles County Sheriff's treating us like we're the fucking murderers are the same people who fucking murdered my brother he's now standing over me while I'm in a seat and I'm like can I talk and he says yeah and then I start talking and the stenographer start yelling at me and I'm",
+      "source": "wcn-presents-amy-b-chesler-season-7-update @ 36:25"
+    }
+  ],
+  "coder_notes": "LINE COUNTS MATCH. All four chunks read fully, in order; INDEX.txt through line 18. Other index entries did not identify season 7 continuation. Quotation notes retained after each chunk at /tmp/notes.md. Non-report codes for ancillary harms are limited to narrated institutional contacts, not proof of absence. No unexplained passage omitted. Advertisements and upcoming-show guest montages are not developed season stories and are not expanded into guessed records. Later conviction does not protect someone already killed. Institution protection, not personal coping, determines outcomes. Repeated undated childhood contacts are recorded as series. Model name available to this assistant is GPT-6 (Codex), with no more specific backend variant disclosed. Files directly read during this task: /workspace/sww-coding-kit/AGENTS.md; /workspace/sww-coding-kit/CODEX-TASK.md; /workspace/sww-coding-kit/INSTRUCTIONS.md; /workspace/sww-coding-kit/OUTPUT-FORMAT.json; /workspace/sww-coding-kit/README.md; /workspace/sww-coding-kit/manifest.json; /workspace/sww-coding-kit/build_kit.py; /tmp/read/s07/s07_01.txt; /tmp/read/s07/s07_02.txt; /tmp/read/s07/s07_03.txt; /tmp/read/s07/s07_04.txt; /tmp/read/unassigned/INDEX.txt; /tmp/read/unassigned/exciting-sww-updates.txt; /tmp/notes.md; /workspace/sww-coding-kit/coded/s07_CA.json. The build script additionally opened only the eight season-7 and sixteen unassigned JSON downloads specified by manifest.json. Before instructions were available, Git metadata was inspected to locate and obtain the task files from main; no other coder output was read."
+}

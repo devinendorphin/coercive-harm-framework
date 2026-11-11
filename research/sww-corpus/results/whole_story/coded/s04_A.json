@@ -1,0 +1,853 @@
+{
+  "season": 4,
+  "coder": "A",
+  "reading_log": [
+    {
+      "file": "s04_01.txt",
+      "last_line_number": 124,
+      "read_in_full": true,
+      "problems": "Read in 25-line parts. Long ad and song-lyric runs were read but contain no content."
+    },
+    {
+      "file": "s04_02.txt",
+      "last_line_number": 116,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s04_03.txt",
+      "last_line_number": 55,
+      "read_in_full": true,
+      "problems": "Contains the end of E7 and E8, a COVID-19 mental-health interview with no person stories."
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "INDEX.txt",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Read the list. No listed episode concerns the People's Temple, Jonestown or the Bogue family, so no episode transcript was opened."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Tom",
+      "role_in_story": "central_survivor",
+      "harm": "Raised in the People's Temple from early childhood, he was repeatedly beaten and whipped, given punishments that injured him, held in isolation and sent to Jonestown against his will. There he was shackled to another boy and forced into hard labour, and he was shot in the leg by Temple gunmen at the Port Kaituma airstrip while escaping in November 1978.",
+      "perpetrator_role": "the People's Temple leader and Temple leadership/members acting on his orders (including the airstrip gunmen)",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown",
+        "s4-e2-living-with-the-dogs",
+        "s4-ep3-a-constant-evolvement-of-power",
+        "s4-e4-we-will-kill-you",
+        "s4-e5-close-the-door-or-die",
+        "s4-e6-learned-to-fight-back-in-my-dreams",
+        "s4-e7-the-world-is-gonna-come-together-season-four-finale"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other",
+          "fear_of_abuser",
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "About an hour later, my mother shows up, followed by two of the church goons. My gut clenches, and Brian runs out the back of my uncle's house as we both knew what this meant. I was held isolated in the church for about two weeks, and then I was sent to Jonestown, escorted by [perpetrator] himself.",
+            "source": "s4-ep3-a-constant-evolvement-of-power @ 35:18"
+          },
+          {
+            "reason": "other",
+            "quote": "And Old Bear Plan was gonna be was to get to Matthew's Ridge, where we were going to contact their, because there's a military base there, a small contingent. And we were going to contact them to the US consulate in Georgetown Guyana and get out of there.",
+            "source": "s4-e4-we-will-kill-you @ 11:29"
+          },
+          {
+            "reason": "fear_of_abuser",
+            "quote": "It's like and you think this guy didn't know to stay out of the way. So that was a direct message to people. We will kill you.",
+            "source": "s4-e4-we-will-kill-you @ 5:19"
+          },
+          {
+            "reason": "institution_was_abusers",
+            "quote": "Well, considering that the district attorney of Minnesota was one of the church members, as was many of the sheriff's department, police department. Oh, yeah. Wow. And when I say many, I don't mean most.",
+            "source": "s4-ep3-a-constant-evolvement-of-power @ 18:50"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation visiting Jonestown",
+          "initiated_by": "family_or_friends",
+          "when": "18 November 1978, during the congressional visit",
+          "what_was_asked": "To leave Jonestown with the congressman's party.",
+          "what_institution_did": "Ryan accepted the defectors' request and arranged for them to leave with his party by truck to the Port Kaituma airstrip, ordering a second plane because of their number.",
+          "quote": "So we all went down to tell Ryan we were leaving. And then when we went down and told him that, then it started growing. And so first was the park's family, then it was my family, and then there were some others that started telling them they wanted to leave too. So the next thing Ryan knew is he had a group on his hands that wanted to leave. Everything wasn't rosy and paradise. And that was the first news he got of it that away because until then it had been playing the role. So he said, okay, you know, as well, you guys go get on the truck and, you know, we're gonna start heading out to the airport.",
+          "source": "s4-e5-close-the-door-or-die @ 13:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "At the airstrip, Temple gunmen attacked the planes; Ryan and four others were killed and others wounded.",
+          "notes": "Tom saw the note being passed to the reporters and told his father, who organised the family; the family then told Ryan they wanted to leave (Jim's account). Tom: 'we're going to go into the embassy. Those plans weren't to happen.' Ryan's visit itself followed requests from a defector's father and the Concerned Relatives Group, and press reports."
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation",
+          "initiated_by": "person",
+          "when": "18 November 1978, boarding at the Port Kaituma airstrip",
+          "what_was_asked": "The defectors warned the congressman that one man posing as a defector was part of the leader's entourage.",
+          "what_institution_did": "The delegation gave the man only a cursory pat search and missed his gun.",
+          "quote": "And we tell the congressman that [perpetrator] is not a defector He is one of [perpetrator] he was part of [perpetrator]'s entourage and [perpetrator] had been so Beat down by [perpetrator] over the years that he was kind of at the point he would just do whatever [perpetrator] said he basically came in a tomaton you're okay fine I'll go do this right and so so they kind of did a little pat search I remember watching do the patterns is like really that's your search so they totally missed the gun that [perpetrator] was carrying.",
+          "source": "s4-e5-close-the-door-or-die @ 16:38",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The man pulled the gun on the smaller plane and shot a defector, while gunmen on a tractor opened fire on the planes.",
+          "notes": "Speaker is Tom ('we tell the congressman'). Names of the gunman replaced with [perpetrator]."
+        },
+        {
+          "n": 3,
+          "institution_type": "medical_or_therapy",
+          "institution": "Georgetown Hospital (Guyana)",
+          "initiated_by": "unclear",
+          "when": "From about 20 November 1978, for a month",
+          "what_was_asked": "Treatment of his gunshot wound.",
+          "what_institution_did": "Treated his leg wound during a month in hospital.",
+          "quote": "And the next morning, they flew us out. And then I was in the George Town Hospital for a month, recovering from my leg.",
+          "source": "s4-e5-close-the-door-or-die @ 24:55",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He returned to the US and was interviewed by the FBI.",
+          "notes": "Same passage repeated at s4-e6-learned-to-fight-back-in-my-dreams @ 7:17."
+        },
+        {
+          "n": 4,
+          "institution_type": "police",
+          "institution": "FBI",
+          "initiated_by": "institution",
+          "when": "On return to the United States, late November 1978",
+          "what_was_asked": "Not stated; the FBI questioned the survivors.",
+          "what_institution_did": "Interviewed the survivors for several hours (individually, in trailers in a warehouse). Nothing further is shown.",
+          "quote": "Then we came back and we got to the States and we were interviewed several hours by the FBI.",
+          "source": "s4-e5-close-the-door-or-die @ 25:58",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The family flew on to San Francisco. The season shows no result of the interviews.",
+          "notes": "Coded did_nothing_or_delayed under the rule that taking a report with no further step shown takes this code; the season does not say what the FBI did with the interviews (the host says FBI documentation was used in narration). "
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "During the reunion, Tom learned that five people had died during the airstrip shooting. Congressman Leo Ryan, defector Patricia Parks, a photographer from the San Francisco Examiner, and two NBC news reporters were tragically lost during the shooting. Congressman Ryan remains the only US representative to be killed in the line of duty. 12 others were wounded, including Tom and his sister Tina, both of which had",
+      "outcome_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 2:03",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "other_victims",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "decisive_work_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "time_to_first_effective_action": "The same day the family told Congressman Ryan they wanted to leave (18 November 1978), after roughly 13 years in the Temple; it was his first institutional contact.",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Protection is partial: leaving with the congressional delegation got him out of Jonestown before the mass deaths, but he was shot at the airstrip while under the delegation's escort and spent three days wounded in the jungle. The perpetrator was not stopped by any institution; he died at Jonestown the same day. The decisive work is unclear because the host credits Ryan and journalists together; Ryan's visit was prompted by a defector's father, the Concerned Relatives Group and an Examiner article (s4-e5-close-the-door-or-die @ 7:15), and the family's own escape plan and approach to Ryan also mattered. Not coded as contacts: (a) at age 9 a maintenance worker 'called it in' and unnamed people picked him up, put him in a church overnight and sent him to his aunt (s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown @ 17:35); it is unclear who they were or whether the abuse was raised, and his mother took him back. (b) At the Jonestown nurses' station the leader's son and wife saw the shackle wounds and the shackles were removed '[perpetrator] said to take... the shackles off' (s4-e4-we-will-kill-you @ 16:31): this was the Temple's own infirmary under the perpetrator's authority, not an outside institution. Later unrelated harms (slugged by a stranger at 19, scammed at 22; s4-e6-learned-to-fight-back-in-my-dreams @ 20:06) are bare mentions with no story, so no separate records. Evidence: book excerpts (A Thousand Lives, Raven) and Tom's 2013 essay read on air; Jim corroborates."
+    },
+    {
+      "person_id": "P02",
+      "name": "Jim",
+      "role_in_story": "central_survivor",
+      "harm": "An adult member for 13 years, he was blackmailed with a coerced false confession to molesting his daughters. The Temple turned his wife against him, left him penniless and homeless, made him transport stolen food and then forced him, under threat of prosecution, into exile and labour in Guyana, where he was kept low, watched and publicly berated.",
+      "perpetrator_role": "the People's Temple leader and his associate pastors/Temple leadership",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown",
+        "s4-e2-living-with-the-dogs",
+        "s4-ep3-a-constant-evolvement-of-power",
+        "s4-e4-we-will-kill-you",
+        "s4-e5-close-the-door-or-die",
+        "s4-e6-learned-to-fight-back-in-my-dreams",
+        "s4-e7-the-world-is-gonna-come-together-season-four-finale"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "fear_of_abuser",
+          "abuser_status_or_connections",
+          "institution_was_abusers"
+        ],
+        "quotes": [
+          {
+            "reason": "fear_of_abuser",
+            "quote": "Well, we just figured out you molested three of your daughters. This was after how many visits? About a half a dozen visits. How many visits? I have about a half a dozen visits. And so, from then on, I kind of became a good little doggy. I mean, you just don't beat that.",
+            "source": "s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown @ 25:54"
+          },
+          {
+            "reason": "abuser_status_or_connections",
+            "quote": "When he called [perpetrator] to complain, the preacher was too busy to talk to him. Bogue was at a loss. [perpetrator] was esteemed in the community, friendly with local power brokers.",
+            "source": "s4-e2-living-with-the-dogs @ 23:46"
+          },
+          {
+            "reason": "abuser_status_or_connections",
+            "quote": "where he developed a healthy fear of authority. Who was he to defy [perpetrator]?",
+            "source": "s4-e2-living-with-the-dogs @ 24:49"
+          },
+          {
+            "reason": "institution_was_abusers",
+            "quote": "Well, considering that the district attorney of Minnesota was one of the church members, as was many of the sheriff's department, police department. Oh, yeah. Wow. And when I say many, I don't mean most. I'm just saying many. But the most powerful one was the district attorney.",
+            "source": "s4-ep3-a-constant-evolvement-of-power @ 18:50"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "police",
+          "institution": "county law enforcement (\"the county\" officer who stopped the truck), with the county district attorney's office in the background",
+          "initiated_by": "institution",
+          "when": "About 1974 (before he was sent to Guyana, about two years before Tom's July 1976 arrival)",
+          "what_was_asked": "Nothing; police stopped the truck carrying stolen government food that the Temple had him drive.",
+          "what_institution_did": "Held him personally responsible for the stolen food. The Temple then used the threat of prosecution, made credible because the district attorney and some deputies were Temple members, to force him to go to Guyana.",
+          "quote": "And I was driving a truck loaded with this food and all to take it to this place where we was going to hide it. And the county woman somewhere pulled us over. And I had to accept that it was my job. Right. You know, it was my thing, separate from the group. Right. You could be held responsible. I was held responsible.",
+          "source": "s4-ep3-a-constant-evolvement-of-power @ 17:49",
+          "response": "blamed_punished_or_counter_accused",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "Given the choice of prosecution or going to Guyana, he went to build Jonestown.",
+          "notes": "The police learned of the incident, not of the coercion behind it; it is included because the forced crime was part of the abuse tactic the season describes ('putting them in illegal situations, forcing members to take the blame, then using the incident as blackmail', s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown @ 26:56). Whether he was ever charged is not stated. The DA's membership is Tom's account. 'county woman' is probably a transcription of 'county [man/sheriff]'; it is left as transcribed."
+        },
+        {
+          "n": 2,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation visiting Jonestown",
+          "initiated_by": "person",
+          "when": "18 November 1978, during the congressional visit",
+          "what_was_asked": "For his family to leave Jonestown with the congressman's party.",
+          "what_institution_did": "Ryan accepted the defectors' request and arranged for them to leave with his party by truck to the Port Kaituma airstrip, ordering a second plane because of their number.",
+          "quote": "So we all went down to tell Ryan we were leaving. And then when we went down and told him that, then it started growing. And so first was the park's family, then it was my family, and then there were some others that started telling them they wanted to leave too. So the next thing Ryan knew is he had a group on his hands that wanted to leave. Everything wasn't rosy and paradise. And that was the first news he got of it that away because until then it had been playing the role. So he said, okay, you know, as well, you guys go get on the truck and, you know, we're gonna start heading out to the airport.",
+          "source": "s4-e5-close-the-door-or-die @ 13:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "At the airstrip, Temple gunmen attacked the planes; Ryan and four others were killed and others wounded.",
+          "notes": "Jim organised the family's escape after Tom told him about the note and the Parks family."
+        },
+        {
+          "n": 3,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation",
+          "initiated_by": "person",
+          "when": "18 November 1978, boarding at the Port Kaituma airstrip",
+          "what_was_asked": "The defectors warned the congressman that one man posing as a defector was part of the leader's entourage.",
+          "what_institution_did": "The delegation gave the man only a cursory pat search and missed his gun.",
+          "quote": "And we tell the congressman that [perpetrator] is not a defector He is one of [perpetrator] he was part of [perpetrator]'s entourage and [perpetrator] had been so Beat down by [perpetrator] over the years that he was kind of at the point he would just do whatever [perpetrator] said he basically came in a tomaton you're okay fine I'll go do this right and so so they kind of did a little pat search I remember watching do the patterns is like really that's your search so they totally missed the gun that [perpetrator] was carrying.",
+          "source": "s4-e5-close-the-door-or-die @ 16:38",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The man pulled the gun on the smaller plane and shot a defector, while gunmen on a tractor opened fire on the planes.",
+          "notes": "Speaker is Tom ('we tell the congressman'). Names of the gunman replaced with [perpetrator]."
+        },
+        {
+          "n": 4,
+          "institution_type": "other",
+          "institution": "government authorities (unspecified; US government per Jim) after the airstrip shooting",
+          "initiated_by": "unclear",
+          "when": "Late November 1978, in Guyana",
+          "what_was_asked": "To be allowed to fly home (the family had bought the tickets).",
+          "what_institution_did": "Would not let them board until relatives in San Francisco lobbied widely, reportedly calling even the President. The government paid their lodging and then back-billed Jim for it.",
+          "quote": "In fact, my family bought all of our tickets to come back and they wouldn't let us on the plane yet. And finally, they called and they even called the President, I guess, my sister and one time sister-in-law, and they were working like crazy from San Francisco and they was calling everybody, and then they finally let us on the plane to leave down there",
+          "source": "s4-e6-learned-to-fight-back-in-my-dreams @ 8:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "They were flown out and interviewed by the FBI in the US.",
+          "notes": "Back-billing: 'The government paid for it as a primary and then Dad was backbilled for it from the government.' (s4-e6-learned-to-fight-back-in-my-dreams @ 7:17). Who held up the boarding is not specified."
+        },
+        {
+          "n": 5,
+          "institution_type": "police",
+          "institution": "FBI",
+          "initiated_by": "institution",
+          "when": "On return to the United States, late November 1978",
+          "what_was_asked": "Not stated; the FBI questioned the survivors.",
+          "what_institution_did": "Interviewed the survivors for several hours (individually, in trailers in a warehouse). Nothing further is shown.",
+          "quote": "Then we came back and we got to the states and we were interviewed several hours by the FBI and Individual trailers which was really strange and we went to the big warehouse And here's all these trailers and each of one of us are sent to a trailer",
+          "source": "s4-e6-learned-to-fight-back-in-my-dreams @ 8:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The family flew on to San Francisco. The season shows no result of the interviews.",
+          "notes": "Coded did_nothing_or_delayed under the rule that taking a report with no further step shown takes this code; the season does not say what the FBI did with the interviews (the host says FBI documentation was used in narration). "
+        }
+      ],
+      "harmed_by_institution_ever": true,
+      "outcome": "partly_protected",
+      "outcome_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "outcome_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "protection_contributors": [
+        "the_person",
+        "family_or_friends",
+        "other_victims",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "decisive_work_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "time_to_first_effective_action": "About four years after the police stop (c. 1974) that led to his exile, and about 13 years after he joined: Congressman Ryan's delegation took the family out on 18 November 1978.",
+      "months_to_first_effective_action": 48,
+      "contacts_before_first_effective_action": 1,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "harmed_by_institution_ever is true because of the police stop, where he was 'held responsible' for a crime the Temple made him commit; this is low-certainty. Not coded as a contact: a Mendocino County Sheriff's deputy served him an eviction order and separation petition obtained by his wife on the leader's instructions (s4-e2-living-with-the-dogs @ 22:45). The institution was used as an instrument of the abuse, but his harm was never raised with it. That could arguably also count as harm by an institution. Protection is partial: the delegation got him out, but the escape ended in the airstrip shooting, his daughter Marley died at Jonestown, and no institution stopped the perpetrator, who died at Jonestown. Months figure is approximate (mid-1974 to November 1978). Evidence: excerpts from A Thousand Lives read on air; Tom corroborates."
+    },
+    {
+      "person_id": "P03",
+      "name": "Tina",
+      "role_in_story": "co_victim",
+      "harm": "Jim's daughter, brought to Jonestown in 1977. She lived under its conditions, was shot in the leg by Temple gunmen while helping Tom close the plane door at the airstrip, and then hid wounded in the jungle for three days.",
+      "perpetrator_role": "the People's Temple leader and the Temple gunmen acting for him",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s4-e2-living-with-the-dogs",
+        "s4-e5-close-the-door-or-die",
+        "s4-e6-learned-to-fight-back-in-my-dreams"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation visiting Jonestown",
+          "initiated_by": "family_or_friends",
+          "when": "18 November 1978, during the congressional visit",
+          "what_was_asked": "For the family to leave Jonestown with the congressman's party.",
+          "what_institution_did": "Ryan accepted the defectors' request and arranged for them to leave with his party by truck to the Port Kaituma airstrip, ordering a second plane because of their number.",
+          "quote": "So we all went down to tell Ryan we were leaving. And then when we went down and told him that, then it started growing. And so first was the park's family, then it was my family, and then there were some others that started telling them they wanted to leave too. So the next thing Ryan knew is he had a group on his hands that wanted to leave. Everything wasn't rosy and paradise. And that was the first news he got of it that away because until then it had been playing the role. So he said, okay, you know, as well, you guys go get on the truck and, you know, we're gonna start heading out to the airport.",
+          "source": "s4-e5-close-the-door-or-die @ 13:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "At the airstrip, Temple gunmen attacked the planes; Ryan and four others were killed and others wounded.",
+          "notes": "She was among the family members who left on the truck (Jim: 'I was on there with Juan Nida and Tom and Tina')."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "FBI",
+          "initiated_by": "institution",
+          "when": "On return to the United States, late November 1978",
+          "what_was_asked": "Not stated; the FBI questioned the survivors.",
+          "what_institution_did": "Interviewed the survivors for several hours (individually, in trailers in a warehouse). Nothing further is shown.",
+          "quote": "Then we came back and we got to the states and we were interviewed several hours by the FBI and Individual trailers which was really strange and we went to the big warehouse And here's all these trailers and each of one of us are sent to a trailer",
+          "source": "s4-e6-learned-to-fight-back-in-my-dreams @ 8:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The family flew on to San Francisco. The season shows no result of the interviews.",
+          "notes": "Coded did_nothing_or_delayed under the rule that taking a report with no further step shown takes this code; the season does not say what the FBI did with the interviews (the host says FBI documentation was used in narration). Jim says 'each of one of us' were interviewed; that Tina was included is inferred."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "During the reunion, Tom learned that five people had died during the airstrip shooting. Congressman Leo Ryan, defector Patricia Parks, a photographer from the San Francisco Examiner, and two NBC news reporters were tragically lost during the shooting. Congressman Ryan remains the only US representative to be killed in the line of duty. 12 others were wounded, including Tom and his sister Tina, both of which had",
+      "outcome_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 2:03",
+      "protection_contributors": [
+        "family_or_friends",
+        "other_victims",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "decisive_work_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "time_to_first_effective_action": "Same day as the family's approach to Congressman Ryan (18 November 1978).",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "She was not interviewed; her story comes from Tom, Jim and host narration. She got out of Jonestown with the delegation but was shot during the escape. Quote showing her shooting: 'Tom and Tina close the door on the plane, which was very vital, and they both got shot.' (s4-e5-close-the-door-or-die @ 19:42). Afterwards Jim enrolled her in computer school (s4-e6-learned-to-fight-back-in-my-dreams @ 11:20)."
+    },
+    {
+      "person_id": "P04",
+      "name": "Juanita",
+      "role_in_story": "co_victim",
+      "harm": "Jim's daughter, brought to Jonestown in 1977. She lived under its conditions, was on the plane during the airstrip attack and fled into the jungle with Tom for three days.",
+      "perpetrator_role": "the People's Temple leader and the Temple gunmen acting for him",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s4-e2-living-with-the-dogs",
+        "s4-e5-close-the-door-or-die",
+        "s4-e6-learned-to-fight-back-in-my-dreams"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation visiting Jonestown",
+          "initiated_by": "family_or_friends",
+          "when": "18 November 1978, during the congressional visit",
+          "what_was_asked": "For the family to leave Jonestown with the congressman's party.",
+          "what_institution_did": "Ryan accepted the defectors' request and arranged for them to leave with his party by truck to the Port Kaituma airstrip, ordering a second plane because of their number.",
+          "quote": "So we all went down to tell Ryan we were leaving. And then when we went down and told him that, then it started growing. And so first was the park's family, then it was my family, and then there were some others that started telling them they wanted to leave too. So the next thing Ryan knew is he had a group on his hands that wanted to leave. Everything wasn't rosy and paradise. And that was the first news he got of it that away because until then it had been playing the role. So he said, okay, you know, as well, you guys go get on the truck and, you know, we're gonna start heading out to the airport.",
+          "source": "s4-e5-close-the-door-or-die @ 13:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "At the airstrip, Temple gunmen attacked the planes; Ryan and four others were killed and others wounded.",
+          "notes": "She was on the truck and the plane with the family (Jim, s4-e5-close-the-door-or-die @ 17:41)."
+        },
+        {
+          "n": 2,
+          "institution_type": "police",
+          "institution": "FBI",
+          "initiated_by": "institution",
+          "when": "On return to the United States, late November 1978",
+          "what_was_asked": "Not stated; the FBI questioned the survivors.",
+          "what_institution_did": "Interviewed the survivors for several hours (individually, in trailers in a warehouse). Nothing further is shown.",
+          "quote": "Then we came back and we got to the states and we were interviewed several hours by the FBI and Individual trailers which was really strange and we went to the big warehouse And here's all these trailers and each of one of us are sent to a trailer",
+          "source": "s4-e6-learned-to-fight-back-in-my-dreams @ 8:17",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "The family flew on to San Francisco. The season shows no result of the interviews.",
+          "notes": "Coded did_nothing_or_delayed under the rule that taking a report with no further step shown takes this code; the season does not say what the FBI did with the interviews (the host says FBI documentation was used in narration). Jim says 'each of one of us' were interviewed; that Juanita was included is inferred."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "outcome_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "protection_contributors": [
+        "family_or_friends",
+        "other_victims",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "decisive_work_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "time_to_first_effective_action": "Same day as the family's approach to Congressman Ryan (18 November 1978).",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "A thinly told co-victim; she was not interviewed. Coded partly_protected because she was removed from Jonestown but caught in the airstrip attack and had to flee into the jungle. Afterwards Jim enrolled her in computer school (s4-e6-learned-to-fight-back-in-my-dreams @ 11:20)."
+    },
+    {
+      "person_id": "P05",
+      "name": "Marley",
+      "role_in_story": "co_victim",
+      "harm": "Jim and Edith's daughter, brought to Jonestown in 1977. She stayed when the family left because her husband stayed and the leader 'had really captured her', and she died in the mass killing at Jonestown on 18 November 1978.",
+      "perpetrator_role": "the People's Temple leader",
+      "perpetrator_convicted": "no",
+      "deceased": true,
+      "episodes": [
+        "s4-e5-close-the-door-or-die",
+        "s4-e6-learned-to-fight-back-in-my-dreams"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "Well, I actually had three sisters, but two that left. And one sister stayed, because her husband was stained, but the two sisters left with us. And we left one daughter there. [perpetrator] had really captured her.",
+            "source": "s4-e5-close-the-door-or-die @ 20:47"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "Jim and Edith Bogue's daughter and Tom's sister, Marley, and 917 others died that fateful day.",
+      "outcome_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 3:06",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "'other' reason: she stayed because her husband stayed and she was under the leader's control. 'stained' is a transcription of 'staying'. Ambiguity: the congressional delegation was in Jonestown that day investigating concerns about members in general, but nothing shows that her situation was raised with it or that it learned of her harm, so reached_institution is coded 'no' (it could arguably be 'unclear')."
+    },
+    {
+      "person_id": "P06",
+      "name": "Edith",
+      "role_in_story": "co_victim",
+      "harm": "Tom's mother and Jim's wife, a devoted Temple member. The leader directed her actions, including against her husband, and used her relationship with another member to control him. She lived under Jonestown's conditions from 1977 until she and her partner secretly asked the visiting party for help leaving.",
+      "perpetrator_role": "the People's Temple leader",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown",
+        "s4-e2-living-with-the-dogs",
+        "s4-e5-close-the-door-or-die",
+        "s4-e6-learned-to-fight-back-in-my-dreams"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [
+          "other",
+          "fear_of_abuser"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "When he told Edith he was quitting the church, she appeared to take the news calmly, but Edith was smitten with [perpetrator]. And the first thing she did after her husband's announcement was to consult her pastor.",
+            "source": "s4-e2-living-with-the-dogs @ 22:45"
+          },
+          {
+            "reason": "fear_of_abuser",
+            "quote": "What the group had suspected seemed to be true. Not only did some people want to leave, but they also feared coming forward openly.",
+            "source": "s4-e5-close-the-door-or-die @ 10:22"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation (the note passed via a reporter)",
+          "initiated_by": "person",
+          "when": "17-18 November 1978",
+          "what_was_asked": "A secret note asking to leave Jonestown with the congressman's party.",
+          "what_institution_did": "The delegation took the note as confirming its suspicions, and the next day it took the defectors out by truck to the airstrip.",
+          "quote": "Ryderman was informed by another reporter that he had been slipped a secret note from two Temple members asking to leave Jonestown when Ryern's party departed. What the group had suspected seemed to be true.",
+          "source": "s4-e5-close-the-door-or-die @ 9:18",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "The family left on the delegation's truck; the airstrip attack followed.",
+          "notes": "That Edith passed the note rests on Tom's account: 'that's when Ederson got smart. I was standing over in the cottage area when the reporters came through and I actually saw her pass the note to them.' (s4-e5-close-the-door-or-die @ 11:27). Narration says the note was from 'two Temple members'."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "partly_protected",
+      "outcome_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "outcome_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "protection_contributors": [
+        "the_person",
+        "journalists_podcast_or_virality",
+        "institution"
+      ],
+      "decisive_work_by": "unclear",
+      "decisive_work_quote": "I think it's important to highlight that without the push of Congressman Ryan and journalists like Tim Reiterman investigating Jonestown, the Boge family, as well as the other defector families may not have lived that day.",
+      "decisive_work_source": "s4-e6-learned-to-fight-back-in-my-dreams @ 5:09",
+      "time_to_first_effective_action": "Within a day of passing the note (17-18 November 1978).",
+      "months_to_first_effective_action": 0,
+      "contacts_before_first_effective_action": 0,
+      "evidence_types": [
+        "document_read_on_air",
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "The season casts her partly as an instrument of the abuse of Jim, though Tom stresses 'it was due to a circumstance at the time' (s4-e6-learned-to-fight-back-in-my-dreams @ 16:42). She is included as a co-victim under the same coercive control, with low confidence. Whether she was in the FBI interviews is not stated. She survived the airstrip attack."
+    },
+    {
+      "person_id": "P07",
+      "name": "Brian Davis",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "Tom's teenage friend and roommate at the San Francisco temple. He was kept from his mother and given punishments that injured him, and after being sent to Jonestown he was caught escaping, shackled to Tom by welded leg irons that burned deep wounds, forced into 18-hour days of hard labour and beaten with a stick.",
+      "perpetrator_role": "the People's Temple leader and Temple leadership",
+      "perpetrator_convicted": "no",
+      "deceased": false,
+      "episodes": [
+        "s4-ep3-a-constant-evolvement-of-power",
+        "s4-e4-we-will-kill-you"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "So we started walking again and it sure as hell, they caught us from both sides and took us back.",
+            "source": "s4-e4-we-will-kill-you @ 12:30"
+          },
+          {
+            "reason": "other",
+            "quote": "He often spoke of how much he wanted to go back home to his mothers, but his dad wouldn't let him.",
+            "source": "s4-ep3-a-constant-evolvement-of-power @ 29:04"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And so they decided that they were going to chain and shackle us together and make us work 18 hours a day hard labor. So this is active what they did. We went out to the warehouse and they had made these shackles with chains to put between us and they welded them on our legs",
+      "outcome_source": "s4-e4-we-will-kill-you @ 12:30",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "'other' reason: the Temple recaptured the boys before they could reach the military post at Matthews Ridge and the US consulate they were heading for (s4-e4-we-will-kill-you @ 11:29). His father kept him from his mother. After the first escape (he took a Greyhound ticket bought with money skimmed from collection cans) the season does not say how he came back; 'a couple of years later, they sent him' to Jonestown (s4-e4-we-will-kill-you @ 9:24). The shackles were removed at the Temple's own nurses' station on the leader's order (not an outside institution). His fate after the shackling is not stated; whether he survived 18 November 1978 is unknown, so deceased is false (unknown). His story rests on Tom's account and Tom's 2013 essay read on air."
+    },
+    {
+      "person_id": "P08",
+      "name": "Bob Houston",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A long-time railroad worker and principal Temple member who defected and was found crushed between train cars in a San Francisco train yard in 1976. The survivors believe the Temple killed him as a warning to defectors.",
+      "perpetrator_role": "alleged: the People's Temple (the survivors believe the leader's people killed him); not established in the season",
+      "perpetrator_convicted": "unknown",
+      "deceased": true,
+      "episodes": [
+        "s4-e4-we-will-kill-you",
+        "s4-e5-close-the-door-or-die"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "no",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "US Congress: California Congressman Leo Ryan",
+          "initiated_by": "family_or_friends",
+          "when": "After his 1976 death, before November 1978",
+          "what_was_asked": "His father asked his friend the congressman to help look into the suspicious death and to help reconnect with his granddaughters, who were still being raised in the church.",
+          "what_institution_did": "Ryan agreed to help and, also prompted by an Examiner article and the Concerned Relatives Group, went to Jonestown with journalists and relatives.",
+          "quote": "Congressman Leo generously agreed to do his best to help his friend find answers. After reading an article on allegations against the People's Temple in the San Francisco Examiner, Congressman Ryan declared his intention to visit Jonestown. His decision was also influenced by the Concerned Relatives Group, which consisted of church members worried family members.",
+          "source": "s4-e5-close-the-door-or-die @ 7:15",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "Ryan visited Jonestown and was killed at the airstrip on 18 November 1978; the season reports no finding on Bob's death.",
+          "notes": "Basis is host narration (apparently drawn from Raven). His father also worked with journalist Tim Reiterman at the AP, which is how Reiterman learned of the alleged killings of defectors (s4-e5-close-the-door-or-die @ 6:14); that was journalism, not an institution."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "Bob Houston, he was in San Francisco, there somewhere, but he was killed in the train yards. He said it was a suicide, but we know it wasn't.",
+      "outcome_source": "s4-e4-we-will-kill-you @ 5:19",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "low",
+      "notes": "Who said 'it was a suicide' is ambiguous: it could be the leader or an official finding, and it is not coded as a contact. The cause of death is contested in the season (the host calls it a 'suspect train yard incident'). He died, so the outcome is not_protected. Tom and Jim both spoke about him."
+    },
+    {
+      "person_id": "P09",
+      "name": "Patricia (Patti) Parks",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A Jonestown member whose family was the first to tell Congressman Ryan they wanted to leave. She was shot in the head and killed by Temple gunmen on the plane at the Port Kaituma airstrip.",
+      "perpetrator_role": "Temple gunmen acting for the People's Temple leader",
+      "perpetrator_convicted": "no",
+      "deceased": true,
+      "episodes": [
+        "s4-e5-close-the-door-or-die",
+        "s4-e6-learned-to-fight-back-in-my-dreams"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "other",
+          "institution": "US Congress: Congressman Leo Ryan's delegation visiting Jonestown",
+          "initiated_by": "family_or_friends",
+          "when": "18 November 1978, during the congressional visit",
+          "what_was_asked": "To leave Jonestown with the congressman's party.",
+          "what_institution_did": "Ryan accepted the defectors' request and arranged for them to leave with his party by truck to the Port Kaituma airstrip, ordering a second plane because of their number.",
+          "quote": "So we all went down to tell Ryan we were leaving. And then when we went down and told him that, then it started growing. And so first was the park's family, then it was my family, and then there were some others that started telling them they wanted to leave too. So the next thing Ryan knew is he had a group on his hands that wanted to leave. Everything wasn't rosy and paradise. And that was the first news he got of it that away because until then it had been playing the role. So he said, okay, you know, as well, you guys go get on the truck and, you know, we're gonna start heading out to the airport.",
+          "source": "s4-e5-close-the-door-or-die @ 13:32",
+          "response": "believed_and_acted",
+          "basis": [
+            "person_account",
+            "second_witness"
+          ],
+          "what_happened_next": "At the airstrip, Temple gunmen attacked the planes; Ryan and four others were killed and others wounded.",
+          "notes": "The Parks family went first: 'we heard that the the parks family had gone to Ryan and told them they wanted to leave' (s4-e5-close-the-door-or-die @ 12:29)."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And at that point, Patti Parks, who was sitting right in front of me in the airplane, I'm sitting right across from the door. She gets the back of her head shot off.",
+      "outcome_source": "s4-e5-close-the-door-or-die @ 18:41",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Killed while under the delegation's escort, so not protected. Host narration names her as 'defector Patricia Parks' among the dead (s4-e6-learned-to-fight-back-in-my-dreams @ 2:03)."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "People who died in the mass killing at Jonestown on 18 November 1978",
+      "count_stated": 918,
+      "reached_institution": "unknown",
+      "quote": "Tom and Jim narrowly escaped the massacre at Jonestown on November 18, 1978, when 918 other people lost their lives in a mass murder",
+      "source": "s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown @ 1:00"
+    },
+    {
+      "description": "Congressman Leo Ryan, killed at the airstrip, plus a San Francisco Examiner photographer and two NBC reporters killed",
+      "count_stated": 4,
+      "reached_institution": "unknown",
+      "quote": "Congressman Leo Ryan, defector Patricia Parks, a photographer from the San Francisco Examiner, and two NBC news reporters were tragically lost during the shooting.",
+      "source": "s4-e6-learned-to-fight-back-in-my-dreams @ 2:03"
+    },
+    {
+      "description": "Others wounded in the airstrip shooting (12 wounded in total, including Tom and Tina), among them Jackie Speier, journalist Tim Reiterman (shot in the arm) and defector Monica Bagby",
+      "count_stated": 12,
+      "reached_institution": "unknown",
+      "quote": "12 others were wounded, including Tom and his sister Tina",
+      "source": "s4-e6-learned-to-fight-back-in-my-dreams @ 2:03"
+    },
+    {
+      "description": "Chris Lewis, a defector the survivors say was gunned down after leaving",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "There was Chris Lewis. And he grew up in the streets... but the moment he defects from the church, somehow he gets gunned down in the streets.",
+      "source": "s4-e4-we-will-kill-you @ 4:16"
+    },
+    {
+      "description": "Other defectors who 'flat out disappeared for many, many years'",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "so basically some of the others who did defect it. They did stay local. They flat out disappeared for many, many years.",
+      "source": "s4-e4-we-will-kill-you @ 5:19"
+    },
+    {
+      "description": "A family of earlier defectors who were shot after the massacre (the 'mill's family')",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "And then you hear about the mill's family getting shot. They tried to put it on the sun, but they couldn't prove it. You know, so those were previous defectors.",
+      "source": "s4-e6-learned-to-fight-back-in-my-dreams @ 10:19"
+    },
+    {
+      "description": "Bob Houston's daughters, still being raised by their mother in the church",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "helping reconnect with his granddaughters, whom were still being raised by their mother in the church.",
+      "source": "s4-e5-close-the-door-or-die @ 7:15"
+    },
+    {
+      "description": "Children in the Temple who were beaten, including Jim's own, and other children later put on the Jonestown discipline crew",
+      "count_stated": null,
+      "reached_institution": "no",
+      "quote": "He'd watched children, including his own, beaten, and struggled to override his human and paternal instincts to protect them.",
+      "source": "s4-e2-living-with-the-dogs @ 25:50"
+    },
+    {
+      "description": "Temple members (including children) made to sign blank papers later turned into false confessions for blackmail",
+      "count_stated": null,
+      "reached_institution": "no",
+      "quote": "Everybody in there had to sign a blank piece of paper, even the children.",
+      "source": "s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown @ 24:51"
+    },
+    {
+      "description": "Edith's partner, a married Temple member with children, whom the leader also manipulated through the relationship",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "Of course, I didn't know about the other pressures that he was on. And he had a wife and six kids, but [perpetrator] putting with Edith to keep him in control.",
+      "source": "s4-e2-living-with-the-dogs @ 26:50"
+    },
+    {
+      "description": "Other defectors who left with the congressman's party (Parks family and others; about 16 on the truck, '21 or 28' defectors in all), including Parks children and others who fled into the jungle with Tom",
+      "count_stated": null,
+      "reached_institution": "yes",
+      "quote": "Then I think there's 21 defectors at that time. I don't quite remember how many, but they used 21 or 28, something like that.",
+      "source": "s4-e5-close-the-door-or-die @ 16:38"
+    }
+  ],
+  "coder_notes": "Season 4 (Escaping Jonestown, E1-E8) tells the Bogue family's People's Temple story. E8 is a COVID-19 mental-health interview with no harm stories. The perpetrator's name is replaced with [perpetrator] throughout, and so are the names of the airstrip gunman and other Temple agents inside quotations. The central institutional contact for most people is Congressman Leo Ryan's delegation (coded institution_type 'other': US Congress). Its visit was prompted by a defector's father, the Concerned Relatives Group and press reports. The perpetrator died at Jonestown, and the season reports no prosecution of anyone. Key judgment calls: (1) the Temple's own nurses' station and the leader's family are not treated as outside institutions; (2) a sheriff's deputy serving eviction and separation papers on Jim at the leader's instigation is not coded as a contact because the harm was not raised (see Jim's notes); (3) the police stop where Jim was 'held responsible' for the stolen food the Temple made him move is coded as a contact; (4) the FBI interviews are coded did_nothing_or_delayed under the 'report taken, no further step shown' rule; (5) protection is coded partly_protected for the survivors who got out, because the escape under the delegation's escort ended in the airstrip shooting. The host's dedication to her murdered brother (E4) is outside the season's story and is not recorded. All three chunk files were read in full. A bare mention of a young woman said to stay with the leader (E4 @ 21:48) is left out of others_mentioned because the only quotable passage names her and it is unclear whether the show presents her as harmed."
+}

@@ -67,3 +67,47 @@ Appropriate responses are **counter-evidence** and are reported in full.
 
 The standing rule in `preregistration.md` applies: one verdict rule and one
 precision-audit rule for every prediction.
+
+## Operational decisions fixed before coding (2026-11-01)
+
+*Written and committed before any coding, with `power_vector.py`. The analyst has seen
+`results/`; the coders are fresh model instances given only what is listed here.*
+
+- **Part 1 coder:** a model instance given **only** the publisher's notes for the first two
+  narrative episodes of each season (`power_vector.py packet`) and the code definitions above.
+  It is not shown `results/`, `settings.csv`, the README or any close-read file.
+- **Part 2 segments:** a 3-sentence window centred on a transcript sentence that matches the
+  institution list (the pre-registered list, plus counsellors, social workers, caseworkers,
+  DHS, therapists, psychiatrists, nurses, hospital and "staff", which were implied by "program
+  staff", "CPS" and "a medical provider"). Candidates come from **all** episodes, including
+  update, Q&A and WCN episodes. Windows that overlap a drawn window are skipped. Seed 20261101.
+- **Part 2 coders:** two fresh instances. **Coder A** is told the hypothesis; **coder B** gets
+  only the category definitions. Neither sees the other's codes.
+- **Disagreements:** the verdict is computed on segments both coders placed in the same
+  category. Each coder's own verdict is reported beside it, under the one-rule standing note.
+- **Tests:** P1 and P2 use a one-sided permutation test (10,000 shuffles) of the mean rate,
+  `DOWN-INST` against all other coded seasons. P3 repeats `analyze.py`'s R2 statistic with
+  power codes. Rates come from the frozen `results/season_rates.csv`. The transcripts were
+  re-fetched for Part 2 only.
+- **Precision audit (standing rule):** the omnipotence lexicon (P1) and the
+  institutional-failure lexicon (P2) each get the same 20-hit reading audit that isolation,
+  reversal and institutional failure received in the first study. Omnipotence was never audited.
+
+## Deviations (logged before the packet or the sample was drawn)
+
+- **2026-11-01, de-duplication.** The fetched corpus holds two machine transcriptions of 262
+  of its 417 episodes. `episodes()` as first committed iterated every file, so the Part 1
+  packet could show one episode twice where it should show two, and Part 2 would give
+  double-transcribed episodes twice the chance of being drawn and could draw one passage
+  twice. `episodes()` now keeps one transcription per episode (key: the slug without its
+  `sN-eM-` prefix; the longer text is kept), the rule the close-read already used. This
+  implements "the first two narrative episodes" and "200 segments drawn at random from all
+  episodes" as written; no definition, category, threshold or test changed. Nothing had been
+  drawn or coded when it was made.
+- **2026-11-01, residual duplicates (found after drawing, before any Part 2 code was seen).**
+  The de-duplication key missed two listing patterns: 17 episodes (all S24) listed a second
+  time with a `-2` suffix, and WCN episodes listed both with and without a season prefix. The
+  drawn sample therefore gives those episodes double weight and contains two near-duplicate
+  pairs (segments 30/48 and 60/97). **The sample is kept as drawn** (redrawing after coders
+  had started would be a second draw). The pre-registered verdict is computed on all 200; a
+  sensitivity result that drops segments 48 and 97 is reported beside it, never in its place.

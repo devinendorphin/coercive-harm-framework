@@ -1,0 +1,888 @@
+{
+ "season": 1,
+ "coder": "B",
+ "reading_log": [
+  {
+   "file": "s01_01.txt",
+   "last_line_number": 93,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s01_02.txt",
+   "last_line_number": 103,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s01_03.txt",
+   "last_line_number": 100,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s01_04.txt",
+   "last_line_number": 96,
+   "read_in_full": true,
+   "problems": "A usage-limit interruption came after I had read this file to line 96; I wrote its notes after the reset and went on to s01_05. Nothing was skipped."
+  },
+  {
+   "file": "s01_05.txt",
+   "last_line_number": 98,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s01_06.txt",
+   "last_line_number": 94,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s01_07.txt",
+   "last_line_number": 108,
+   "read_in_full": true,
+   "problems": ""
+  },
+  {
+   "file": "s01_08.txt",
+   "last_line_number": 51,
+   "read_in_full": true,
+   "problems": ""
+  }
+ ],
+ "unassigned_checked": [
+  {
+   "slug": "(none opened)",
+   "opened": false,
+   "read_in_full": false,
+   "relevant_to": [],
+   "why": "I read INDEX.txt in full. None of the 16 listed episodes (Black Lives Matter; 12 Data Points topic episodes; Exciting SWW Updates, about season 13; Listen Now: Death County PA; WCN Presents Caitlin Mathis) is described as continuing, updating or discussing Sarah's story or any Season 1 person, so I opened none."
+  }
+ ],
+ "persons": [
+  {
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "did_not_know_it_was_abuse",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "which sounds like brainwashing when you go back and you tell it to somebody, but when it's happened to you very, very slowly, you do not see it.",
+      "source": "s1-e2-it-was-weird @ 24:58"
+     },
+     {
+      "reason": "other",
+      "quote": "could have been brought on by trauma, but it's not evidence enough for me to file an animal abuse report or something that could, you know, specifically pin that on him. So, as of now, I haven't done anything about that.",
+      "source": "s1-e3-maple-finn @ 12:38"
+     }
+    ]
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "other",
+     "institution": "her bank (credit card issuer)",
+     "initiated_by": "person",
+     "when": "the week of the breakup, May 2018",
+     "what_was_asked": "Cancel the card she had added him to as an authorized user and remove him from it.",
+     "what_institution_did": "Cancelled the card and removed him as an authorized user. Months later it still let charges on the old card number go through without flagging them.",
+     "quote": "they looked in my records and saw that back in May, when the week that we'd broken up, I called my bank. I canceled the card that I had him added to as an authorized user because of his new job. ... But for some reason, after I reported that card as lost or stolen and took his name off of the authorized user list, when he used it in July and August, it just didn't get flagged. So the charges went through.",
+     "source": "s1-e9-unencumbered-by-the-weight-of-women @ 32:24",
+     "response": "acted_partly",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "He made four small charges (about $100 in all) on the old card number in July and August 2018. She found them months later while doing her taxes.",
+     "notes": "The quote has an ellipsis that joins two sentences from the same passage."
+    },
+    {
+     "n": 2,
+     "institution_type": "medical_or_therapy",
+     "institution": "counselor (unnamed)",
+     "initiated_by": "person",
+     "when": "right after the breakup, summer 2018",
+     "what_was_asked": "Counseling to recover from the relationship.",
+     "what_institution_did": "Provided counseling. She describes it as hard but valuable and says she completed it.",
+     "quote": "I went to counseling right away, and I was really glad that I did, and it was ugly. I'm not gonna try to sugarcoat it, because you have to face things",
+     "source": "s1-e13-season-1-q-a @ 34:14",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She finished counseling ('as soon as you know everything happened and I was done with counseling', s1-e13 @ 44:34) and then wrote out the whole timeline.",
+     "notes": "Therapy cannot protect her from the abuser. The code means only that the provider took her account and gave the help she sought. The season gives no detail of what the counselor did."
+    },
+    {
+     "n": 3,
+     "institution_type": "other",
+     "institution": "veterinarian treating Maple (Sarah's rehomed dog)",
+     "initiated_by": "third_party",
+     "when": "late June or late July 2018",
+     "what_was_asked": "The dog's new owner took the limping dog to the vet.",
+     "what_institution_did": "The vet asked on its own whether the dog had been abused and found a ruptured ligament on the side where the kick was seen. It said hip dysplasia could have come from trauma. The season shows no report or other step by the vet.",
+     "quote": "Took her to the vet and vet's first question was has this dog been abused? She looks like she's been kicked.",
+     "source": "s1-e3-maple-finn @ 11:34",
+     "response": "unclear",
+     "basis": [
+      "person_account",
+      "second_witness"
+     ],
+     "what_happened_next": "Sarah decided the evidence was not enough to file an animal abuse report. She later threatened to file one if he contacted her again.",
+     "notes": "The harm here is abuse of Sarah's dog, which the vet learned of through the new owner. I record it because an institution learned of part of the harm, but the transcript does not say whether the vet had any further role."
+    },
+    {
+     "n": 4,
+     "institution_type": "other",
+     "institution": "Southwest Airlines",
+     "initiated_by": "person",
+     "when": "while doing her taxes, early 2019",
+     "what_was_asked": "Information on unexplained Southwest charges on her card.",
+     "what_institution_did": "Because the card was in her name, gave her the reservation details, including his name and the name of a woman on the booking.",
+     "quote": "I called Southwest first and because my name was on the card that paid for it, they gave me all the information, they gave me the name I didn't want to hear and a girl that was on the reservation as well.",
+     "source": "s1-e9-unencumbered-by-the-weight-of-women @ 31:21",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She texted him a demand for repayment and he repaid the full amount at once by Apple Pay. She found and contacted the other woman.",
+     "notes": "Quote has small transcription noise ('So I called my bank and they know I called Southwest first'); the excerpt starts at 'I called Southwest first'."
+    },
+    {
+     "n": 5,
+     "institution_type": "other",
+     "institution": "her bank (credit card issuer)",
+     "initiated_by": "person",
+     "when": "early 2019",
+     "what_was_asked": "Asked about the unauthorized charges.",
+     "what_institution_did": "Looked up her records and explained that she had cancelled the card in May but the old number's charges were not flagged. The season shows no reversal or other step.",
+     "quote": "when I called the bank, they reminded me because they looked in my records and saw that back in May, when the week that we'd broken up, I called my bank.",
+     "source": "s1-e9-unencumbered-by-the-weight-of-women @ 32:24",
+     "response": "did_nothing_or_delayed",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Repayment came from the perpetrator after her demand, not from the bank.",
+     "notes": "Coded did_nothing_or_delayed because the bank took her query and no further step is shown."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P01",
+   "name": "Sarah",
+   "role_in_story": "central_survivor",
+   "harm": "Over a roughly eight-month relationship and engagement (Sept 2017 to May 2018) her fiance love-bombed, gaslit and isolated her, posed for months as a fake married couple ('Kimmy and Brian') to manipulate and body-shame her, used scripture to turn her against her family, kicked and injured her dog, and controlled shared money. After the breakup he stalled refunds from their joint wedding fund, tried to log into her accounts, and charged flights to her old credit card.",
+   "perpetrator_role": "her fiance (ex-fiance)",
+   "episodes": [
+    "s1-e1-there-were-no-red-flags",
+    "s1-e2-it-was-weird",
+    "s1-e3-maple-finn",
+    "s1-e4-kimmy-brian",
+    "s1-ep5-the-devil-is-a-good-liar",
+    "s1-e6-my-chest-goes-cold",
+    "s1-ep7-were-done-im-running-youre-insane",
+    "s1-e8-there-is-much-to-confess",
+    "s1-e9-unencumbered-by-the-weight-of-women",
+    "s1-e10-real-kimmy-brian",
+    "s1-e11-this-is-a-pattern",
+    "s1-e12-answers-healing",
+    "s1-e13-season-1-q-a",
+    "s1-e14-we-all-dodged-a-bullet",
+    "sww-live-sacramento"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "yes",
+   "outcome": "not_protected",
+   "outcome_quote": "We're going to come in guns blazing and we're going to get you out of Sacramento and we're not going to treat this like a breakup. We're treating this like a rescue.",
+   "outcome_source": "s1-e8-there-is-much-to-confess @ 11:21",
+   "evidence_types": [
+    "document_read_on_air",
+    "second_witness",
+    "record_checked_by_show"
+   ],
+   "confidence": "medium",
+   "notes": "The abuse ended because Sarah, her family and roommates found the catfishing and she left (breakup Mother's Day weekend, May 2018). No institution brought it about, so the outcome is not_protected. Not coded as institutional contacts: (a) her cousin, a police officer, came with family and watched the perpetrator's house while they took her belongings out (s1-e8 @ 18:38). He acted as family, not as a police response, and the harm was not reported to police. (b) Her call to the bank about the joint newlywed-fund refunds he was stalling ('I contact the bank and within 24 hours, it's done', s1-e8 @ 24:45) was a routine account request, not a report of abuse. (c) Her texts to the perpetrator's brother, who replied 'through the lens' of his role as a church elder (s1-e9 @ 43:49), were to his family and not a complaint to a church body. She threatened several times to go to police or file for a restraining order or animal abuse report (s1-e9 @ 6:17, 26:13, 32:24; s1-e10 @ 65:37) but is never shown doing so. Evidence: texts, the confession text and the brother's texts are read on air. Family, roommates and the ex-fiancee are second witnesses. The host says everything was fact-checked, including vet visits (s1-e9 @ 51:55), and real Kimmy confirmed the robe order from her own records on air (s1-e10 @ 22:35)."
+  },
+  {
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "did_not_know_it_was_abuse",
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "did_not_know_it_was_abuse",
+      "quote": "It took me like a year or a year and a half to figure out that he was logging into everything because she said I would get weird notifications that I had nothing to deal with or I would see things were changed that I hadn't touched.",
+      "source": "s1-e9-unencumbered-by-the-weight-of-women @ 25:11"
+     },
+     {
+      "reason": "other",
+      "quote": "what I think what really kept her linked was the emotional tie because he was apparently fighting cancer.",
+      "source": "s1-e9-unencumbered-by-the-weight-of-women @ 13:33"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P02",
+   "name": "[unnamed] perpetrator's first ex-fiancee",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "Over about six on-and-off years starting when she was 19, he kept her tied to him with an invented cancer, calls from supposed lawyers and fake medical paperwork. He hacked her webcam and sent her photos of herself, logged into her accounts, had friends report where she was, and was harsh and cruel to her face. After her father stopped their wedding, his mother publicly shamed her in a family-wide email.",
+   "perpetrator_role": "her ex-fiance (the same man who later engaged Sarah)",
+   "episodes": [
+    "s1-e9-unencumbered-by-the-weight-of-women",
+    "s1-e11-this-is-a-pattern",
+    "s1-e12-answers-healing",
+    "s1-e13-season-1-q-a",
+    "sww-live-sacramento"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "And if I hear from you again, I'm going to file a restraining order.",
+   "outcome_source": "s1-e9-unencumbered-by-the-weight-of-women @ 17:55",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Her account comes second-hand, relayed by Sarah after long phone calls. She did not speak on air. She said she had the webcam photos he sent, but they are not read on air. His confession text to Sarah ('I lied to you about my ex-fiance', s1-e9 @ 4:12) partly corroborates his dishonesty about her. The couple 'even tried counseling, but it didn't work because he wouldn't be honest' (s1-e9 @ 10:28). That was couples counseling, and the season does not show the abuse being raised there, so it is not coded as a contact. She ended contact in late October 2017 and threatened a restraining order, which the season never shows her filing. She is now with a new partner and friends with Sarah."
+  },
+  {
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "he goes to her Instagram and scrolls down to photos that she posted like years ago and starts liking old photos of her. Always a good move if you don't want to be a creep. So she blocked him instantly.",
+      "source": "s1-e12-answers-healing @ 8:13"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P03",
+   "name": "Lulu",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "After two Hinge dates in March 2017 he researched and criticized her pastor and church. When she went quiet he kept texting for months, then went through her Instagram liking photos from years back.",
+   "perpetrator_role": "a man she briefly dated (Sarah's later fiance)",
+   "episodes": [
+    "s1-e9-unencumbered-by-the-weight-of-women",
+    "s1-e12-answers-healing"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "So she blocked him instantly. That's how she felt.",
+   "outcome_source": "s1-e12-answers-healing @ 8:13",
+   "evidence_types": [
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "'Lulu' is the show's pseudonym. She sent the show screenshots of his texts, which are read on air. Blocking him was her own action on the platform, not a report to it. She is probably the same woman Sarah describes in s1-e9 @ 37:35 as having dated him 'right before you' and blocked him."
+  },
+  {
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "She was uncomfortable with his driving. He drove really recklessly. He could be very harsh with his words.",
+      "source": "s1-e9-unencumbered-by-the-weight-of-women @ 35:29"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P04",
+   "name": "[unnamed] girlfriend on the Southwest reservation",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "In a two-to-three-month relationship in summer 2018 he moved uncomfortably fast, drove recklessly and was harsh with his words. He also booked flights for her using Sarah's old credit card.",
+   "perpetrator_role": "her boyfriend (Sarah's ex-fiance)",
+   "episodes": [
+    "s1-e9-unencumbered-by-the-weight-of-women",
+    "s1-e12-answers-healing",
+    "s1-e13-season-1-q-a"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "They met in late July and I think she called it off two or three months later.",
+   "outcome_source": "s1-e12-answers-healing @ 8:13",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Thin account, relayed by Sarah from Instagram messages. She phoned Southwest herself to change or cancel the reservation, but nothing suggests she raised any harm, so this is not coded as a contact. She had earlier been engaged to a different abusive partner (see others_mentioned). She ended the relationship herself."
+  },
+  {
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "he's tried to like come and see me out here and again it was just I just never Responded I just knew at that point.",
+      "source": "s1-e14-we-all-dodged-a-bullet @ 13:35"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P05",
+   "name": "Lindsay (number two)",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "He dated her (met on Match, about Oct 2017 to Jan 2018) while secretly courting Sarah. He demeaned her views on women in the church, told her to stop reading a female author, pressed her for sexual conversations and sent her an unsolicited nude photo, claimed he had cancer, then cut her off and later kept re-requesting her on Instagram.",
+   "perpetrator_role": "a man she was dating (Sarah's fiance at the time)",
+   "episodes": [
+    "s1-e14-we-all-dodged-a-bullet"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "he was like get mad at me for like not wanting to have like sex scene conversations.",
+   "outcome_source": "s1-e14-we-all-dodged-a-bullet @ 21:45",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "Interviewed directly. The outcome quote shows harm, not an end state. The end state is that she stopped responding and found she was blocked once the podcast came out ('I'm blocked from both of his Instagrams now', s1-e14 @ 30:57). Her parents told her to get out. No institution was involved."
+  },
+  {
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "victim_services",
+     "institution": "a support group (unspecified)",
+     "initiated_by": "person",
+     "when": "after she got out",
+     "what_was_asked": "Support after leaving the abusive marriage.",
+     "what_institution_did": "She attended a support group for a while. The season says nothing about what it did.",
+     "quote": "I was in a support group after for a while because what I was in was really bad",
+     "source": "s1-e14-we-all-dodged-a-bullet @ 45:16",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "She describes years of recovery.",
+     "notes": "The kind of support group is not stated. victim_services is a best guess."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P06",
+   "name": "Lindsay (number two) (ex-husband)",
+   "role_in_story": "update_or_listener_story",
+   "harm": "Earlier, she quickly married a man she says was 'almost identical' to Sarah's fiance and was in what she calls a 'really bad' abusive marriage.",
+   "perpetrator_role": "her ex-husband",
+   "episodes": [
+    "s1-e14-we-all-dodged-a-bullet"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "not_protected",
+   "outcome_quote": "I was able to get out, able to get out safe and alive and went through years of recovery because of what I went through.",
+   "outcome_source": "s1-e14-we-all-dodged-a-bullet @ 44:16",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Mentioned briefly. No institution is shown ending the abuse: she got out herself ('I was able to get out'). Other passages: s1-e14 @ 8:25 ('I've been married before ... the guy who I married was almost identical') and @ 43:11 (host on her 'previous marriage')."
+  },
+  {
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "So they sent a cease and desist letter to him Monday, of this week. It's Thursday now. So that has been sent and his only response was something like, you know, acknowledged and in full compliance.",
+      "source": "s1-e10-real-kimmy-brian @ 62:33"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P07",
+   "name": "real Kimmy",
+   "role_in_story": "other_victim_same_perpetrator",
+   "harm": "The perpetrator, a former coworker of her husband, took photos of her and her child from her social media and altered them to build the fake persona 'Kimmy' he used on Sarah for months. A robe from her clothing line was presented as a gift from 'Kimmy'.",
+   "perpetrator_role": "her husband's former coworker (Sarah's ex-fiance)",
+   "episodes": [
+    "s1-e10-real-kimmy-brian",
+    "s1-e13-season-1-q-a"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "they had their attorney send him a cease and desist letter to which he responded acknowledged",
+   "outcome_source": "s1-e13-season-1-q-a @ 3:03",
+   "evidence_types": [
+    "record_checked_by_show",
+    "document_read_on_air"
+   ],
+   "confidence": "medium",
+   "notes": "The host found her through a reverse image search. Real Kimmy checked her company's order records live with Sarah and found the robe ordered under his name and address (s1-e10 @ 22:35). She and her husband used their own attorney to send a cease and desist letter. A private lawyer acting for them is not an institution, so this is not coded as a contact. They declined to take part in the podcast and were 'a bit freaked out' (s1-e10 @ 4:07). 'Real Kimmy' is the show's label; her real name is not given."
+  },
+  {
+   "perpetrator_convicted": "no",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "Her husband does want to confront him and at least let him know that this is extremely inappropriate",
+      "source": "s1-e10-real-kimmy-brian @ 6:10"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P08",
+   "name": "real Brian",
+   "role_in_story": "co_victim",
+   "harm": "His identity and photos were used for the fake 'Brian', a persona the perpetrator, his former coworker, used to message Sarah, including texts full of racial slurs.",
+   "perpetrator_role": "his former coworker (Sarah's ex-fiance)",
+   "episodes": [
+    "s1-e10-real-kimmy-brian",
+    "s1-e13-season-1-q-a"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "they had their attorney send him a cease and desist letter to which he responded acknowledged",
+   "outcome_source": "s1-e13-season-1-q-a @ 3:03",
+   "evidence_types": [
+    "record_checked_by_show"
+   ],
+   "confidence": "low",
+   "notes": "Told only through his wife. Same private cease-and-desist letter as P07. 'Real Brian' is the show's label."
+  },
+  {
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "other"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "When you live in a nice house, no one checks on you. Exactly. Because that was my experience growing up. No one checked on me.",
+      "source": "sww-live-sacramento @ 63:34"
+     }
+    ]
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "medical_or_therapy",
+     "institution": "her therapist",
+     "initiated_by": "person",
+     "when": "adulthood, at the time of the live show (2019)",
+     "what_was_asked": "Help working through having grown up in an emotionally abusive home.",
+     "what_institution_did": "Her therapist helps her tell real abuse from her fears and reassures her.",
+     "quote": "I come to my therapist and I'm like, am I these? And she's like, no, let's talk about what actual abuse is. And she reminds me what that is. And reminds me, you're okay.",
+     "source": "sww-live-sacramento @ 84:08",
+     "response": "believed_and_acted",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "Ongoing therapy.",
+     "notes": "Contact came long after the childhood abuse. Her father was imprisoned for unrelated crimes, which is not a response to her harm."
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P09",
+   "name": "Tiffany Reese (parents)",
+   "role_in_story": "other",
+   "harm": "The host, Tiffany Reese, was raised by two emotionally abusive parents. She describes her biological father as violent and a master manipulator. While in prison he tried to catfish her with a fake inmate letter to get money from her.",
+   "perpetrator_role": "her parents (biological father and mother)",
+   "episodes": [
+    "s1-e12-answers-healing",
+    "sww-live-sacramento"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "no",
+   "outcome": "not_protected",
+   "outcome_quote": "My father was, and likely still is, but I don't know because I don't have contact with my family anymore, a grifter, criminal, and substance abuser.",
+   "outcome_source": "s1-e12-answers-healing @ 14:30",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "This is the host's own story, told briefly in s1-e12 and at the live show. As a child nobody checked on her ('No one checked on me'). The abuse ended when she cut contact with her family, not through any institution. The 'reason' quote for the period before contact is about outsiders not noticing."
+  },
+  {
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "other",
+     "earlier_disbelief"
+    ],
+    "quotes": [
+     {
+      "reason": "other",
+      "quote": "when I was in my baby situation, I knew nothing about a domestic violence shelter. I just had to endure.",
+      "source": "sww-live-sacramento @ 57:12"
+     },
+     {
+      "reason": "earlier_disbelief",
+      "quote": "I know when I was in my situation and I told my mother what was happening to me, her response was, well what did you do? She said, you got a smart mouth.",
+      "source": "sww-live-sacramento @ 68:42"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P10",
+   "name": "Chivas (domestic violence expert)",
+   "role_in_story": "update_or_listener_story",
+   "harm": "A domestic violence expert on the live-show panel, who describes herself as a survivor. She endured an abusive relationship. When she told her mother, her mother blamed her.",
+   "perpetrator_role": "her abusive partner (unspecified)",
+   "episodes": [
+    "sww-live-sacramento"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "I literally became homeless in order to get out with my three children. Because I had no family in this state or my family was in Indiana. But I said I would rather sleep under a bridge with my three kids before I put up with this another day.",
+   "outcome_source": "sww-live-sacramento @ 81:05",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "medium",
+   "notes": "The transcript renders her name as 'Shabba Smays' and 'Chevy Stairs'. The episode notes credit 'Chivas May'. She fled with her three children, became homeless, and now works for Stand Up Placer, a DV agency (22 years in the field). No institution is shown helping her at the time."
+  },
+  {
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [],
+    "quotes": []
+   },
+   "contacts": [
+    {
+     "n": 1,
+     "institution_type": "court",
+     "institution": "court (divorce and restraining order filings)",
+     "initiated_by": "person",
+     "when": "not stated; within the past three years",
+     "what_was_asked": "A divorce and restraining orders.",
+     "what_institution_did": "She filed for divorce and restraining orders. The season does not say what the court did.",
+     "quote": "I was not as lucky as Sarah and I actually married my abuser and after I filed for divorce and restraining orders. I found out that my ex is schizophrenic.",
+     "source": "s1-e12-answers-healing @ 18:40",
+     "response": "unclear",
+     "basis": [
+      "person_account"
+     ],
+     "what_happened_next": "'It's been a whole crazy three years.'",
+     "notes": ""
+    }
+   ],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P11",
+   "name": "Allison",
+   "role_in_story": "update_or_listener_story",
+   "harm": "A listener (voicemail) who married her abuser, with whom she has a child.",
+   "perpetrator_role": "her ex-husband",
+   "episodes": [
+    "s1-e12-answers-healing"
+   ],
+   "reached_institution": "yes",
+   "harm_ongoing_at_first_contact": "unclear",
+   "outcome": "not_protected",
+   "outcome_quote": "We do have a child together. It's been a whole crazy three years.",
+   "outcome_source": "s1-e12-answers-healing @ 18:40",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Short voicemail. It does not say whether the orders were granted or whether they stopped the abuse. Outcome coded not_protected only because no effective institutional action is shown. The quote mentions the ex's mental illness; that is her statement, not a coded condition."
+  },
+  {
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "I was also engaged to associate path.",
+      "source": "s1-e12-answers-healing @ 17:40"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P12",
+   "name": "Ray",
+   "role_in_story": "update_or_listener_story",
+   "harm": "A listener (voicemail, New York) who was engaged to a man she calls a sociopath. He cast her own feelings and opinions as a grave character flaw that needed his help to fix.",
+   "perpetrator_role": "her ex-fiance",
+   "episodes": [
+    "s1-e12-answers-healing"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "I love how involved your family is in analyzing her behavior. I know my family wishes they had done more of that.",
+   "outcome_source": "s1-e12-answers-healing @ 18:40",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "Very thin. Only the past tense ('was also engaged') suggests the engagement ended. No institution is mentioned."
+  },
+  {
+   "perpetrator_convicted": "unknown",
+   "deceased": false,
+   "never_reached": {
+    "reasons": [
+     "not_stated"
+    ],
+    "quotes": [
+     {
+      "reason": "not_stated",
+      "quote": "I completely cut off all friendships, all family relationships I had, and spent every single day with this girl because I was afraid that she was going to harm herself if I was not there to keep an eye on her.",
+      "source": "s1-e12-answers-healing @ 22:46"
+     }
+    ]
+   },
+   "contacts": [],
+   "harmed_by_institution_ever": false,
+   "protection_contributors": [],
+   "decisive_work_by": null,
+   "decisive_work_quote": null,
+   "decisive_work_source": null,
+   "time_to_first_effective_action": null,
+   "months_to_first_effective_action": null,
+   "contacts_before_first_effective_action": null,
+   "person_id": "P13",
+   "name": "[unnamed] listener caller (high-school girlfriend)",
+   "role_in_story": "update_or_listener_story",
+   "harm": "At 16 or 17 her girlfriend used her disclosure of past sexual abuse to control her and used threats of self-harm to isolate her, until she cut off all friends and family to watch over the girlfriend.",
+   "perpetrator_role": "her high-school girlfriend",
+   "episodes": [
+    "s1-e12-answers-healing"
+   ],
+   "reached_institution": "no",
+   "harm_ongoing_at_first_contact": "not_applicable",
+   "outcome": "never_reached",
+   "outcome_quote": "So this was a pattern she had done in the past and continues to do to this day.",
+   "outcome_source": "s1-e12-answers-healing @ 20:43",
+   "evidence_types": [
+    "person_account_alone"
+   ],
+   "confidence": "low",
+   "notes": "The voicemail is cut off mid-story. It says nothing about how the relationship ended or about any institution. The earlier sexual abuse she mentions was by a different, unnamed perpetrator, with no story told (see others_mentioned)."
+  }
+ ],
+ "others_mentioned": [
+  {
+   "description": "the perpetrator's current girlfriend (2019); Sarah's friend warned her by Instagram message and she blocked them; rumoured engaged by Aug 2019",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "all of a sudden both of their accounts went private and so the three of us were like like something and she never wrote back again",
+   "source": "s1-e11-this-is-a-pattern @ 38:14"
+  },
+  {
+   "description": "woman who led the perpetrator's small group at his San Francisco church and complained to the pastor about him; he was asked to leave (per his own account to Sarah)",
+   "count_stated": null,
+   "reached_institution": "yes",
+   "quote": "the leader of a small group he was in happened to be a woman. And she contacted the pastor or someone in a pastoral role in their church, complaining about him.",
+   "source": "s1-e14-we-all-dodged-a-bullet @ 39:09"
+  },
+  {
+   "description": "the Southwest-reservation girlfriend's earlier abusive fiance (a separate harm to P04, not described)",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "she had been previously engaged to an abusive partner, and they called it off",
+   "source": "s1-e12-answers-healing @ 9:15"
+  },
+  {
+   "description": "real Kimmy and Brian's child, whose photos were used in the catfish persona",
+   "count_stated": null,
+   "reached_institution": "no",
+   "quote": "And then I scrolled way down and I saw the little girl",
+   "source": "s1-e10-real-kimmy-brian @ 18:33"
+  },
+  {
+   "description": "the wife of the perpetrator's brother's friend (a worship leader), whom the brother describes as groomed and sexually assaulted by her father-in-law; told to Sarah as a 'redemption' example",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "through years of discovery, it was found that his wife had been sexually assaulted, several times, including being groomed by his father for years before he actually slept with her.",
+   "source": "s1-e9-unencumbered-by-the-weight-of-women @ 46:53"
+  },
+  {
+   "description": "the listener caller's past sexual abuse (separate harm to P13, not described)",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "I had gone through some sexual abuse in the past.",
+   "source": "s1-e12-answers-healing @ 20:43"
+  },
+  {
+   "description": "the domestic violence expert's three children, who fled with her",
+   "count_stated": 3,
+   "reached_institution": "unknown",
+   "quote": "I literally became homeless in order to get out with my three children.",
+   "source": "sww-live-sacramento @ 81:05"
+  },
+  {
+   "description": "Allison's child with her abusive ex-husband",
+   "count_stated": 1,
+   "reached_institution": "unknown",
+   "quote": "We do have a child together.",
+   "source": "s1-e12-answers-healing @ 18:40"
+  },
+  {
+   "description": "women in the podcast's Facebook group whom the perpetrator approached through fake accounts",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "created fake accounts to then start talking to women who are sharing their vulnerabilities in the Facebook group.",
+   "source": "sww-live-sacramento @ 34:19"
+  },
+  {
+   "description": "the host's mother, described as coming from an abusive childhood into abusive marriages",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "My mother is a textbook narcissist that went from a very abusive childhood herself into extremely abusive marriages coping with drugs and alcohol.",
+   "source": "s1-e12-answers-healing @ 15:33"
+  },
+  {
+   "description": "listeners who left abusive relationships after hearing the podcast",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "we've had people leave abusive relationships after listening to the podcast.",
+   "source": "sww-live-sacramento @ 11:32"
+  },
+  {
+   "description": "another supposed ex-girlfriend of the perpetrator (a nurse) whom 'Kimmy' told Sarah to have him call; Sarah doubts she exists",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "I don't even know if she's real.",
+   "source": "s1-e10-real-kimmy-brian @ 50:06"
+  },
+  {
+   "description": "audience member at the live show who described spiritual abuse (transcript garbled)",
+   "count_stated": null,
+   "reached_institution": "unknown",
+   "quote": "Maybe it's much easier to talk about spiritual years.",
+   "source": "sww-live-sacramento @ 85:12"
+  }
+ ],
+ "coder_notes": "Season 1 of Something Was Wrong: Sarah's engagement to a man the show calls by a pseudonym (a perpetrator name, written here as [perpetrator]), 14 numbered episodes plus a trailer, a therapist bonus episode and the SWW Live Sacramento recording. All 8 chunk files were read to their last line. Main finding: almost none of the harm in this season reached an institution with power over the perpetrator. No police report, court filing, restraining order or platform report was ever made about him. Sarah, the host and the host's friend each threatened to go to police or file for restraining orders, but none is shown doing so. Sarah's contacts are financial (bank, Southwest), therapeutic and a veterinarian. Her protection came from family, roommates and her own detective work. Other women harmed by the same man (first ex-fiancee, Lulu, Lindsay, the summer-2018 girlfriend, real Kimmy and Brian) all dealt with it privately: blocking, cutting contact, a private cease-and-desist letter. Animal abuse of Sarah's dog Maple and his dog Finn is part of Sarah's harm record (animals are not person records). Judgment calls: (1) the cousin who is a police officer and watched the house during the move-out is treated as family, not a police contact; (2) the private attorney letter from real Kimmy and Brian is not an institutional contact; (3) Lindsay's earlier abusive marriage, Tiffany's childhood abuse and the DV expert's story come from expert/live segments and are recorded as separate person records, at low or medium confidence; (4) very thin voicemails (Ray, Allison, the high-school caller) are recorded at low confidence. Season 2's 'T' appears at the live show but her story is withheld for spoilers, so she is not recorded. Unassigned folder: I read the index only; no episode appeared related. Several quotes run across a transcript line break, where a [mm:ss] timestamp marker sits in the text; the marker is left out of the quote, and nothing else is changed. A second usage-limit interruption came after all reading was done and the JSON was written; afterwards I re-verified all quotes."
+}

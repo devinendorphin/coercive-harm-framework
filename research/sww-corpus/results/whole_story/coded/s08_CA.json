@@ -1,0 +1,498 @@
+{
+  "season": 8,
+  "coder": "CA",
+  "coder_model": "GPT-6",
+  "reading_log": [
+    {
+      "file": "s08_01.txt",
+      "last_line_number": 119,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s08_02.txt",
+      "last_line_number": 119,
+      "read_in_full": true,
+      "problems": ""
+    },
+    {
+      "file": "s08_03.txt",
+      "last_line_number": 35,
+      "read_in_full": true,
+      "problems": ""
+    }
+  ],
+  "unassigned_checked": [
+    {
+      "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Read in full through line 16 to check whether the discussion of narcissistic manipulation addressed the season-eight family. It is general educational material and does not continue their stories."
+    },
+    {
+      "slug": "data-points-false-reporting-and-its-impact-on-survivors",
+      "opened": true,
+      "read_in_full": true,
+      "relevant_to": [],
+      "why": "Read in full through line 19 to check whether false allegations in season eight were discussed. It concerns sexual-assault reporting and unrelated examples, not this family; no unrelated people were imported."
+    }
+  ],
+  "persons": [
+    {
+      "person_id": "P01",
+      "name": "Iridian",
+      "role_in_story": "central_survivor",
+      "harm": "Her sister-in-law manipulated and gaslit her, used knowledge of her abortion to intimidate her, spread damaging workplace rumors, and enlisted family hostility. The connected family campaign included racist harassment and condemnation of her abortion.",
+      "perpetrator_role": "her sister-in-law, with her partner's brother and the sister-in-law's mother participating in the connected family harassment",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s8-e1-messy-ass-house-of-cards",
+        "s8-e2-shady",
+        "s8-e3-double-life",
+        "s8-e4-hate-me-if-you-want",
+        "s8-e5-hostile-as-fck",
+        "s8-e6-the-irony-writes-itself-finale"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "Unnamed corporation: her immediate manager",
+          "initiated_by": "person",
+          "when": "At the later contact center, after a coworker approached her about alleged drug sales; exact date not stated.",
+          "what_was_asked": "Make management aware of the drug-dealing rumor and protect her and her partner's employment.",
+          "what_institution_did": "Her manager heard the account and was understanding; management requested that she also speak with additional managers.",
+          "quote": "He didn't go into detail or confirm or deny what he knew or what he knew to be a rumor or a lie, but he was very understanding about where I was coming from. And I talked to his boss, and I talked to another manager in the building per their request.",
+          "source": "s8-e6-the-irony-writes-itself-finale @ 7:53",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She also spoke with her manager's boss and another manager.",
+          "notes": "The two additional conversations are separately counted because she names two additional recipients. Their relative order and individual responses are not specified. No drug test being administered is reported. Referral is a concrete but limited step; no protective result is established."
+        },
+        {
+          "n": 2,
+          "institution_type": "employer_or_hr",
+          "institution": "Unnamed corporation: her manager's boss",
+          "initiated_by": "person",
+          "when": "At the later contact center, after a coworker approached her about alleged drug sales; exact date not stated.",
+          "what_was_asked": "Make management aware of the drug-dealing rumor and protect her and her partner's employment.",
+          "what_institution_did": "This manager heard the account; no investigation, sanction, or protective action is described.",
+          "quote": "And I talked to his boss, and I talked to another manager in the building per their request.",
+          "source": "s8-e6-the-irony-writes-itself-finale @ 7:53",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She told her sister-in-law she had gone to management; later she blocked contact herself.",
+          "notes": "The two additional conversations are separately counted because she names two additional recipients. Their relative order and individual responses are not specified. No drug test being administered is reported. This code records receipt without a further concrete step shown; it does not assert an explicitly refused investigation."
+        },
+        {
+          "n": 3,
+          "institution_type": "employer_or_hr",
+          "institution": "Unnamed corporation: another manager in the building",
+          "initiated_by": "person",
+          "when": "At the later contact center, after a coworker approached her about alleged drug sales; exact date not stated.",
+          "what_was_asked": "Make management aware of the drug-dealing rumor and protect her and her partner's employment.",
+          "what_institution_did": "This manager heard the account; no investigation, sanction, or protective action is described.",
+          "quote": "And I talked to his boss, and I talked to another manager in the building per their request.",
+          "source": "s8-e6-the-irony-writes-itself-finale @ 7:53",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She told her sister-in-law she had gone to management; later she blocked contact herself.",
+          "notes": "The two additional conversations are separately counted because she names two additional recipients. Their relative order and individual responses are not specified. No drug test being administered is reported. This code records receipt without a further concrete step shown; it does not assert an explicitly refused investigation."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And I've had no contact with her or [perpetrator]. I've actually not spoken to [perpetrator] in like a year. I don't really have contact with anyone other than Ben's mom.",
+      "outcome_source": "s8-e6-the-irony-writes-itself-finale @ 20:25",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "high",
+      "notes": "Name follows Iridian in the finale episode notes; the transcript renders her name inconsistently. This is one connected campaign by the sister-in-law and participating family members, rather than separate unrelated harms. Sharing her story with the podcast is not coded as a victim-service institution or as an employer response. Her own no-contact decision, family support, and validation do not establish institutional protection. No reason for delay specifically in contacting management is stated; the threats explain interpersonal silence but are not automatically coded as delayed institutional reporting. Time to effective action and preceding contact count are unknown because no effective institutional protection is shown."
+    },
+    {
+      "person_id": "P02",
+      "name": "Zachary",
+      "role_in_story": "co_victim",
+      "harm": "A supervisor he trusted misled him about her life, disparaged him as untrustworthy, falsely told him his dismissal was driven by homophobia, and threatened him with homophobic abuse after he exposed the deception. He describes severe distress and therapy.",
+      "perpetrator_role": "his former supervisor and supposed friend",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s8-e1-messy-ass-house-of-cards",
+        "s8-e3-double-life",
+        "s8-e4-hate-me-if-you-want",
+        "s8-e6-the-irony-writes-itself-finale"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "unclear",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "medical_or_therapy",
+          "institution": "Unnamed therapy provider",
+          "initiated_by": "person",
+          "when": "After the dismissal and the false claim about homophobic motivation; exact timing not given.",
+          "what_was_asked": "Help with the distress caused by the reported reason for losing his job; specific request not stated.",
+          "what_institution_did": "He says he went through therapy about it. The provider's response, treatment, and results are not described.",
+          "quote": "destroyed me like I went through therapy about it like next level type stuff.",
+          "source": "s8-e1-messy-ass-house-of-cards @ 44:17",
+          "response": "unclear",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "He later returned to work for the larger corporation, learned the deception, blocked his former friend after threats, and eventually clarified the fabricated homophobic allegation with Amber.",
+          "notes": "Therapy is actual contact about this harm, but receipt of care does not establish a specific response or protection. The employer dismissed him for an admitted profanity-related mistake; no disclosure of the manipulation to the employer or discrimination by Amber is established, so that discipline is not misclassified as an institutional response to reported abuse."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "It was pretty vile, so I blocked her number and I've never spoken to her again.",
+      "outcome_source": "s8-e3-double-life @ 31:03",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "high",
+      "notes": "He reports blocking her immediately after the quoted abuse and never speaking to her again (same passage continues); the end of contact was his action, not demonstrated institutional protection. In the finale he says he clarified with Amber that the alleged homophobic statement never occurred. Her first-person clarification and Amber's account corroborate the deception. The transcript's reading of his Snapchat post counts as a document read on air, not independent verification of every underlying claim. Firing for his admitted mistake is not itself coded as institutional abuse. No conviction is reported."
+    },
+    {
+      "person_id": "P03",
+      "name": "Amber",
+      "role_in_story": "co_victim",
+      "harm": "Her coworker spread false statements about her, including attributing homophobia to her, and told colleagues she disliked them so that close work friends and the leadership team missed her wedding.",
+      "perpetrator_role": "her former coworker and wedding attendant",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s8-e1-messy-ass-house-of-cards",
+        "s8-e2-shady",
+        "s8-e4-hate-me-if-you-want",
+        "s8-e5-hostile-as-fck",
+        "s8-e6-the-irony-writes-itself-finale"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "My two really close friends didn't even come to my wedding. And I was heartbroken.",
+            "source": "s8-e2-shady @ 25:10"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "We had a conversation a couple nights ago because when I found out that Amber was going to be part of this, it really kind of shook me and so I had a conversation with her already and was like, I want to speak to her because at this point of course like the cat was out of the bag, I knew how manipulative [perpetrator] was and everything but later on her and I did connect and I did get clarification that what was a ledge never got said. [perpetrator] had literally just made that up.",
+      "outcome_source": "s8-e6-the-irony-writes-itself-finale @ 25:31",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "high",
+      "notes": "No institutional disclosure of the harm to her or response on her behalf is narrated; not_stated records the missing reason, and its quotation establishes the personal context rather than a reason inferred from it. Her former managerial status alone is not a report to an employer about her own harm. The later private clarification with Zachary is interpersonal repair, not institutional protection. Earlier reprimands of the perpetrator about employee boundaries and drug rumors are not shown to respond to this particular harm."
+    },
+    {
+      "person_id": "P04",
+      "name": "Ben",
+      "role_in_story": "co_victim",
+      "harm": "His sister-in-law insinuated he had robbed her and told a coworker he supplied her drugs, placing his reputation and management job at risk. The family conflict also harmed his relationship with his brother.",
+      "perpetrator_role": "his brother's wife",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s8-e1-messy-ass-house-of-cards",
+        "s8-e2-shady",
+        "s8-e5-hostile-as-fck",
+        "s8-e6-the-irony-writes-itself-finale"
+      ],
+      "reached_institution": "yes",
+      "never_reached": {
+        "reasons": [],
+        "quotes": []
+      },
+      "harm_ongoing_at_first_contact": "yes",
+      "contacts": [
+        {
+          "n": 1,
+          "institution_type": "employer_or_hr",
+          "institution": "Unnamed corporation: Iridian's immediate manager",
+          "initiated_by": "family_or_friends",
+          "when": "At the later contact center, after a coworker approached her about alleged drug sales; exact date not stated.",
+          "what_was_asked": "Iridian raised the false drug-sales rumor that implicated him and the risk to both their jobs.",
+          "what_institution_did": "Her manager heard the account and was understanding; management requested that she also speak with additional managers.",
+          "quote": "He didn't go into detail or confirm or deny what he knew or what he knew to be a rumor or a lie, but he was very understanding about where I was coming from. And I talked to his boss, and I talked to another manager in the building per their request.",
+          "source": "s8-e6-the-irony-writes-itself-finale @ 7:53",
+          "response": "acted_partly",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She also spoke with her manager's boss and another manager.",
+          "notes": "The two additional conversations are separately counted because she names two additional recipients. Their relative order and individual responses are not specified. No drug test being administered is reported. Referral is a concrete but limited step; no protective result is established. These are the same meetings as P01, not additional events; Iridian raised the rumor that named Ben and discussed the employment risk to him. Ben is not described attending or initiating the meetings."
+        },
+        {
+          "n": 2,
+          "institution_type": "employer_or_hr",
+          "institution": "Unnamed corporation: Iridian's manager's boss",
+          "initiated_by": "family_or_friends",
+          "when": "At the later contact center, after a coworker approached her about alleged drug sales; exact date not stated.",
+          "what_was_asked": "Iridian raised the false drug-sales rumor that implicated him and the risk to both their jobs.",
+          "what_institution_did": "This manager heard the account; no investigation, sanction, or protective action is described.",
+          "quote": "And I talked to his boss, and I talked to another manager in the building per their request.",
+          "source": "s8-e6-the-irony-writes-itself-finale @ 7:53",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She told her sister-in-law she had gone to management; later she blocked contact herself.",
+          "notes": "The two additional conversations are separately counted because she names two additional recipients. Their relative order and individual responses are not specified. No drug test being administered is reported. This code records receipt without a further concrete step shown; it does not assert an explicitly refused investigation. These are the same meetings as P01, not additional events; Iridian raised the rumor that named Ben and discussed the employment risk to him. Ben is not described attending or initiating the meetings."
+        },
+        {
+          "n": 3,
+          "institution_type": "employer_or_hr",
+          "institution": "Unnamed corporation: another manager in Iridian's building",
+          "initiated_by": "family_or_friends",
+          "when": "At the later contact center, after a coworker approached her about alleged drug sales; exact date not stated.",
+          "what_was_asked": "Iridian raised the false drug-sales rumor that implicated him and the risk to both their jobs.",
+          "what_institution_did": "This manager heard the account; no investigation, sanction, or protective action is described.",
+          "quote": "And I talked to his boss, and I talked to another manager in the building per their request.",
+          "source": "s8-e6-the-irony-writes-itself-finale @ 7:53",
+          "response": "did_nothing_or_delayed",
+          "basis": [
+            "person_account"
+          ],
+          "what_happened_next": "She told her sister-in-law she had gone to management; later she blocked contact herself.",
+          "notes": "The two additional conversations are separately counted because she names two additional recipients. Their relative order and individual responses are not specified. No drug test being administered is reported. This code records receipt without a further concrete step shown; it does not assert an explicitly refused investigation. These are the same meetings as P01, not additional events; Iridian raised the rumor that named Ben and discussed the employment risk to him. Ben is not described attending or initiating the meetings."
+        }
+      ],
+      "harmed_by_institution_ever": false,
+      "outcome": "not_protected",
+      "outcome_quote": "And you got to the point where he told me I want nothing to do with that guy. Like, I don't want anything to have to do with him. And I especially want nothing to have to do with his wife.",
+      "outcome_source": "s8-e5-hostile-as-fck @ 37:51",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "The same account continues that he wanted nothing to do with his brother or sister-in-law. No institutional investigation or protection is shown; the couple decided to stay out of the conflict. The outcome quotation describes the relationship rupture, not a proven final employment outcome. False burglary claims are not shown to have reached police. All evidence about him is narrated by others; person_account_alone is not asserted for him."
+    },
+    {
+      "person_id": "P05",
+      "name": "Daisy",
+      "role_in_story": "child",
+      "harm": "As an infant she was left in a car with the door open while adults smoked beside it. Adults later worried about her care with a grandmother alleged to drink daily; the story does not establish an injury or independently verify the drinking allegation.",
+      "perpetrator_role": "her mother; concerns also involved her maternal grandmother",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s8-e1-messy-ass-house-of-cards",
+        "s8-e2-shady",
+        "s8-e3-double-life",
+        "s8-e4-hate-me-if-you-want",
+        "s8-e5-hostile-as-fck",
+        "s8-e6-the-irony-writes-itself-finale"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "other"
+        ],
+        "quotes": [
+          {
+            "reason": "other",
+            "quote": "And we decided that it's none of our business because of the fact that we didn't have any proof that kids were in danger. You know, we didn't wanna raise the roof or blow anything out of portion.",
+            "source": "s8-e2-shady @ 10:43"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "And we decided that it's none of our business because of the fact that we didn't have any proof that kids were in danger. You know, we didn't wanna raise the roof or blow anything out of portion.",
+      "outcome_source": "s8-e2-shady @ 10:43",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "Other reason: adults explicitly chose not to report because they lacked proof of danger and feared disproportionate consequences for livelihoods. The observed smoke exposure is distinct from unverified suspicions about drugs and unsafe childcare. No clinical injury or child-protection contact is narrated; later birthday scenes do not establish that these concerns were remedied. Claims that the child had brain injury, surgery, or seizures are identified as lies and are not coded as actual harm. Evidence is secondhand to the coder but includes a direct eyewitness account; no child first-person account."
+    },
+    {
+      "person_id": "P06",
+      "name": "[unnamed] Ben's mother",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "After defending Iridian against racist comments, she was shouted at by her son and subjected to hostile group messages from his wife and her mother. She felt guilty about standing up for Iridian and the resulting family conflict.",
+      "perpetrator_role": "her son, his wife, and his wife's mother",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s8-e5-hostile-as-fck",
+        "s8-e6-the-irony-writes-itself-finale"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "And so she told him everything that he had said. And it actually hurt Ben a lot.",
+            "source": "s8-e5-hostile-as-fck @ 35:49"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "The reason I came to learn this was because Ben's mom actually told Ben that everything had happened because she was starting to feel really guilty for standing up for me and not so much for standing up for me but for embarrassing [perpetrator]'s mom on social media and for causing more problems with her son and his wife. And so she told him everything that he had said.",
+      "outcome_source": "s8-e5-hostile-as-fck @ 35:49",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness",
+        "document_read_on_air"
+      ],
+      "confidence": "medium",
+      "notes": "No institutional contact on her behalf or reason for not making one is narrated. The not_stated quotation provides context for the interpersonal disclosure, not an inferred causal explanation. She continues to have contact with Iridian at the end; no later protective institutional response is shown. She is not named in the show and is identified by relationship. Her son is an accused participant in the abuse and is not separately counted as a harmed person."
+    },
+    {
+      "person_id": "P07",
+      "name": "[unnamed] nail technician",
+      "role_in_story": "other_victim_same_perpetrator",
+      "harm": "A client missed an appointment without notice and then falsely said her mother was dying of cancer. He became concerned for someone he regarded as a friend and investigated through a family connection; the story does not quantify financial loss.",
+      "perpetrator_role": "his client",
+      "perpetrator_convicted": "unknown",
+      "deceased": false,
+      "episodes": [
+        "s8-e5-hostile-as-fck",
+        "s8-e6-the-irony-writes-itself-finale"
+      ],
+      "reached_institution": "no",
+      "never_reached": {
+        "reasons": [
+          "not_stated"
+        ],
+        "quotes": [
+          {
+            "reason": "not_stated",
+            "quote": "She canceled an appointment with him at one point and without telling him she just didn't show up. And like for him, this was not usually the case.",
+            "source": "s8-e5-hostile-as-fck @ 54:17"
+          }
+        ]
+      },
+      "harm_ongoing_at_first_contact": "not_applicable",
+      "contacts": [],
+      "harmed_by_institution_ever": false,
+      "outcome": "never_reached",
+      "outcome_quote": "but was like, that's [perpetrator]'s mom and [perpetrator]'s mom is perfectly fine. She definitely did not, she definitely did not get news of cancer this morning.",
+      "outcome_source": "s8-e5-hostile-as-fck @ 56:18",
+      "protection_contributors": [],
+      "decisive_work_by": null,
+      "decisive_work_quote": null,
+      "decisive_work_source": null,
+      "time_to_first_effective_action": null,
+      "months_to_first_effective_action": null,
+      "contacts_before_first_effective_action": null,
+      "evidence_types": [
+        "second_witness"
+      ],
+      "confidence": "medium",
+      "notes": "No report to an institution or reason for not doing so is narrated; the not_stated quotation identifies the context, not a causal explanation. He learned the claim was false that day. The finale explicitly says the narrator does not know whether the client stopped visiting him or acted as though nothing happened. His discovery through a private family inquiry is not institutional protection. The account is Iridian's, not his interview; confidence is limited accordingly."
+    }
+  ],
+  "others_mentioned": [
+    {
+      "description": "Other agents and younger leaders described collectively as subjected to manipulation, control, and workplace disruption; some good leaders left, without individual stories.",
+      "count_stated": null,
+      "reached_institution": "unknown",
+      "quote": "And it was so easy for her to exert control over them because, A, not only does she have power over her agents, you know, the power to say, oh well, if you don't do this, then I, you know, I can make life a living hell for you.",
+      "source": "s8-e1-messy-ass-house-of-cards @ 40:07"
+    },
+    {
+      "description": "Other children in the grandmother's daycare, without individual harm narratives or verified injuries.",
+      "count_stated": null,
+      "reached_institution": "no",
+      "quote": "Like her mom doesn't only watch her baby, but she watches a bunch of other people's kids who aren't their family. And [perpetrator] tells us that she's drinking every day. And we decided that it's none of our business because of the fact that we didn't have any proof that kids were in danger.",
+      "source": "s8-e2-shady @ 10:43"
+    },
+    {
+      "description": "An unnamed bereaved coworker who confided in the perpetrator believing they shared the loss of a husband; no individual aftermath is narrated.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "If that happened, that's just, it's so sad because someone that's grieving is confiding in her and she is grieving with them, but their grief is fake. It's not real or true.",
+      "source": "s8-e4-hate-me-if-you-want @ 23:01"
+    },
+    {
+      "description": "Zachary's unnamed friend targeted for a proposed threesome despite his warning she would not want it; he refused to set her up, and no later experience from her is given.",
+      "count_stated": 1,
+      "reached_institution": "unknown",
+      "quote": "And I didn't want to set my friend up for that because I knew she wasn't that way.",
+      "source": "s8-e4-hate-me-if-you-want @ 29:19"
+    }
+  ],
+  "coder_notes": "Build ended LINE COUNTS MATCH. All three season files were read in order, in full, in consecutive line ranges; notes were recorded after each file. The unassigned INDEX.txt was read in full through line 18; the two checked educational episodes do not update season eight. No other season, branch, PR, issue, or coder output was consulted for this assignment. Only narrated institution contacts are coded: no contact shown is not proof that no unmentioned contact ever happened. The not_stated quotations on never-reached records identify their context; no cause of nonreporting is inferred from them. Family support, self-directed no-contact boundaries, and public storytelling are distinguished from institutional protection. The three employer meetings appear in both Iridian and Ben's records because the same rumor concerned both, and are not six distinct events. Provider details and therapy response are not given. No effective institutional protection or conviction is narrated. Fabricated medical and death stories are not treated as actual injuries. Accused people are not separately entered as harmed persons. Seven records include brief but concrete stories of smoke exposure, family intimidation, and the nail technician's deception; the limits of these accounts are noted. No partial reading or inaccessible transcript remained."
+}
