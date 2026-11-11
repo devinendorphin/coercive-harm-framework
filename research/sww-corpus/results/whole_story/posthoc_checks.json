@@ -1,0 +1,411 @@
+{
+ "pooled": {
+  "without_role_other": {
+   "W1": {
+    "k": 80,
+    "n": 311,
+    "rate": 0.257,
+    "disagreed": 28,
+    "ci95": [
+     0.212,
+     0.309
+    ]
+   },
+   "W2": {
+    "k": 97,
+    "n": 307,
+    "rate": 0.316,
+    "disagreed": 32,
+    "ci95": [
+     0.267,
+     0.37
+    ]
+   },
+   "W3": {
+    "k": 51,
+    "n": 115,
+    "rate": 0.443,
+    "disagreed": 15,
+    "ci95": [
+     0.356,
+     0.535
+    ]
+   },
+   "never_reached": {
+    "k": 66,
+    "n": 405,
+    "rate": 0.163,
+    "disagreed": 10,
+    "ci95": [
+     0.13,
+     0.202
+    ]
+   }
+  },
+  "W1_if_conviction_counts_as_protection": {
+   "k": 95,
+   "n": 397,
+   "rate": 0.239
+  },
+  "W1_counting_partly_protected": {
+   "k": 173,
+   "n": 397,
+   "rate": 0.436
+  },
+  "reached_unclear_with_no_contact_recorded": {
+   "A": {
+    "unclear": 20,
+    "no_contacts": 15
+   },
+   "B": {
+    "unclear": 16,
+    "no_contacts": 10
+   },
+   "CB": {
+    "unclear": 104,
+    "no_contacts": 104
+   },
+   "CA": {
+    "unclear": 71,
+    "no_contacts": 71
+   }
+  },
+  "reached_values_per_coder": {
+   "A": {
+    "people": 299,
+    "yes": 202,
+    "no": 77,
+    "unclear": 20,
+    "not_shown_to_reach": 0.324
+   },
+   "B": {
+    "people": 283,
+    "yes": 189,
+    "no": 78,
+    "unclear": 16,
+    "not_shown_to_reach": 0.332
+   },
+   "CA": {
+    "people": 394,
+    "yes": 290,
+    "no": 33,
+    "unclear": 71,
+    "not_shown_to_reach": 0.264
+   },
+   "CB": {
+    "people": 404,
+    "yes": 286,
+    "no": 14,
+    "unclear": 104,
+    "not_shown_to_reach": 0.292
+   }
+  },
+  "W2_agreed_no_with_W2_words_in_notes": 65,
+  "leave_one_season_out": {
+   "W1": {
+    "min": [
+     18,
+     0.198,
+     "not refuted"
+    ],
+    "max": [
+     21,
+     0.224,
+     "not refuted"
+    ],
+    "verdicts": {
+     "not refuted": 26
+    }
+   },
+   "W2": {
+    "min": [
+     24,
+     0.299,
+     "not decided by this method"
+    ],
+    "max": [
+     18,
+     0.325,
+     "not decided by this method"
+    ],
+    "verdicts": {
+     "not decided by this method": 26
+    }
+   },
+   "W3": {
+    "min": [
+     10,
+     0.402,
+     "not decided by this method"
+    ],
+    "max": [
+     23,
+     0.525,
+     "not decided by this method"
+    ],
+    "verdicts": {
+     "not decided by this method": 26
+    }
+   }
+  }
+ },
+ "claude": {
+  "without_role_other": {
+   "W1": {
+    "k": 44,
+    "n": 143,
+    "rate": 0.308,
+    "disagreed": 14,
+    "ci95": [
+     0.238,
+     0.388
+    ]
+   },
+   "W2": {
+    "k": 38,
+    "n": 142,
+    "rate": 0.268,
+    "disagreed": 15,
+    "ci95": [
+     0.202,
+     0.346
+    ]
+   },
+   "W3": {
+    "k": 21,
+    "n": 50,
+    "rate": 0.42,
+    "disagreed": 9,
+    "ci95": [
+     0.294,
+     0.558
+    ]
+   },
+   "never_reached": {
+    "k": 59,
+    "n": 216,
+    "rate": 0.273,
+    "disagreed": 8,
+    "ci95": [
+     0.218,
+     0.336
+    ]
+   }
+  },
+  "W1_if_conviction_counts_as_protection": {
+   "k": 47,
+   "n": 158,
+   "rate": 0.297
+  },
+  "W1_counting_partly_protected": {
+   "k": 89,
+   "n": 169,
+   "rate": 0.527
+  },
+  "reached_unclear_with_no_contact_recorded": {
+   "A": {
+    "unclear": 20,
+    "no_contacts": 15
+   },
+   "B": {
+    "unclear": 16,
+    "no_contacts": 10
+   }
+  },
+  "reached_values_per_coder": {
+   "A": {
+    "people": 299,
+    "yes": 202,
+    "no": 77,
+    "unclear": 20,
+    "not_shown_to_reach": 0.324
+   },
+   "B": {
+    "people": 283,
+    "yes": 189,
+    "no": 78,
+    "unclear": 16,
+    "not_shown_to_reach": 0.332
+   }
+  },
+  "W2_agreed_no_with_W2_words_in_notes": 37,
+  "leave_one_season_out": {
+   "W1": {
+    "min": [
+     18,
+     0.257,
+     "not refuted"
+    ],
+    "max": [
+     24,
+     0.326,
+     "not refuted"
+    ],
+    "verdicts": {
+     "not refuted": 15
+    }
+   },
+   "W2": {
+    "min": [
+     24,
+     0.209,
+     "refuted"
+    ],
+    "max": [
+     22,
+     0.289,
+     "not decided by this method"
+    ],
+    "verdicts": {
+     "not decided by this method": 8,
+     "refuted": 7
+    }
+   },
+   "W3": {
+    "min": [
+     13,
+     0.333,
+     "refuted"
+    ],
+    "max": [
+     16,
+     0.467,
+     "not decided by this method"
+    ],
+    "verdicts": {
+     "not decided by this method": 12,
+     "refuted": 3
+    }
+   }
+  }
+ },
+ "codex": {
+  "without_role_other": {
+   "W1": {
+    "k": 37,
+    "n": 173,
+    "rate": 0.214,
+    "disagreed": 19,
+    "ci95": [
+     0.159,
+     0.281
+    ]
+   },
+   "W2": {
+    "k": 61,
+    "n": 175,
+    "rate": 0.349,
+    "disagreed": 17,
+    "ci95": [
+     0.282,
+     0.422
+    ]
+   },
+   "W3": {
+    "k": 31,
+    "n": 67,
+    "rate": 0.463,
+    "disagreed": 6,
+    "ci95": [
+     0.349,
+     0.581
+    ]
+   },
+   "never_reached": {
+    "k": 7,
+    "n": 199,
+    "rate": 0.035,
+    "disagreed": 2,
+    "ci95": [
+     0.017,
+     0.071
+    ]
+   }
+  },
+  "W1_if_conviction_counts_as_protection": {
+   "k": 49,
+   "n": 245,
+   "rate": 0.2
+  },
+  "W1_counting_partly_protected": {
+   "k": 92,
+   "n": 238,
+   "rate": 0.387
+  },
+  "reached_unclear_with_no_contact_recorded": {
+   "CB": {
+    "unclear": 109,
+    "no_contacts": 109
+   },
+   "CA": {
+    "unclear": 73,
+    "no_contacts": 73
+   }
+  },
+  "reached_values_per_coder": {
+   "CA": {
+    "people": 411,
+    "yes": 304,
+    "no": 34,
+    "unclear": 73,
+    "not_shown_to_reach": 0.26
+   },
+   "CB": {
+    "people": 422,
+    "yes": 299,
+    "no": 14,
+    "unclear": 109,
+    "not_shown_to_reach": 0.291
+   }
+  },
+  "W2_agreed_no_with_W2_words_in_notes": 30,
+  "leave_one_season_out": {
+   "W1": {
+    "min": [
+     23,
+     0.134,
+     "not refuted"
+    ],
+    "max": [
+     21,
+     0.18,
+     "not refuted"
+    ],
+    "verdicts": {
+     "not refuted": 12
+    }
+   },
+   "W2": {
+    "min": [
+     25,
+     0.332,
+     "not refuted"
+    ],
+    "max": [
+     10,
+     0.359,
+     "not refuted"
+    ],
+    "verdicts": {
+     "not refuted": 12
+    }
+   },
+   "W3": {
+    "min": [
+     10,
+     0.391,
+     "refuted"
+    ],
+    "max": [
+     23,
+     0.627,
+     "not refuted"
+    ],
+    "verdicts": {
+     "refuted": 11,
+     "not refuted": 1
+    }
+   }
+  }
+ }
+}
