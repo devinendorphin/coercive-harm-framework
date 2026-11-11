@@ -102,7 +102,7 @@ failure into neutral quotations. **I read 10 people both coders coded with such 
 all 10 have at least one code their quotation supports. **I read 18 people both coders coded
 without one, chosen because their notes contain words like "disbelief", "blame" or "dismiss"**
 (65 such people, of whom I drew 22 in two samples, 18 different people; the words only found the records to read): 1 looks like a missed disbelief
-(S26, colleagues "had not believed her"); the rest are negations ("does not establish
+(S26, where the coder's own note says colleagues "had not believed her"); the rest are negations ("does not establish
 disbelief") or other senses ("dismissed the misdemeanor"). In Claude's seasons specifically,
 0 of 12. So the count is, if anything, slightly low, by too little to move the verdict.
 
@@ -241,6 +241,10 @@ been checked. Their result leaned toward institutions all the same.
 `matching.csv` (all matches) · `cross_season_repeats.csv` · `summary.json` · `posthoc_checks.json`
 · `../../tools/analyze_whole_story.py` · `../../tools/whole_story_checks.py`.
 
-**Quotation check:** pending; the transcripts are being rebuilt (`STATUS.md`). The 10
-quotations published above come from the coders' records; they are checked against the
-transcripts before this line is changed.
+**Quotation check (2026-11-11, transcripts rebuilt in-session: 681 files, 388 episodes, one
+more than the 2026-11-01 fetch):** of about 9,000 coder quotations, 16 fall below the 80 %
+match bar (S3 B 2, both in `others_mentioned`; S4 NEG 4; S5 A 1; S23 CB 3; S24 B 6); every other
+file is 100 %. Each records' `.quotecheck.json` sits beside it in `coded/`. Leaving out records
+whose deciding quotation was not found removes one person from the protection figure and one
+from the decisive-work figure and changes no verdict (21 %, 31 %, 44 % all seasons). The 10
+quotations published on this page were each found verbatim in the transcripts.

@@ -33,8 +33,8 @@ Branch `ccr-f78b372d-8qdcn9` (from `main` at the 2026-11-11 merge of the coding)
 6. **Docs annotated beside the earlier 63 % result** (not replacing it): corpus README, doc 04
    item 4, doc 08 OBJ-031 (second test paragraph; status line), doc 10 Finding B.
 7. **Self-audit lean log 4–7**; STATUS updated.
-8. **Quotation check**: transcripts being rebuilt in the session (slow fetch); result to be
-   recorded in RESULTS' last line when it finishes.
+8. **Quotation check** (transcripts rebuilt in-session, about 3 hours): 16 of about 9,000
+   quotations below the 80 % bar; no verdict changes; all 10 published quotations found verbatim.
 
 ## Endorphin's input this session (from the session prompt, close to their words)
 

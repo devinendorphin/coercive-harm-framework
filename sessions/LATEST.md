@@ -23,7 +23,7 @@ beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
 | 07 | ACTIVE; **needs *Counterman* (2023) on prong 5** and an untested-record rule |
 | 08 | 31 objections; **OBJ-031 PARTLY ANSWERED** (second test: outcomes mostly not protective) |
 | 09 / 10 | ACTIVE; doc 10 Finding B annotated with both tests |
-| SWW whole-story test | **ANALYSED**: protected 21 % (holds); failure responses 31 % (split, not decided; 50 % for central survivors); decisive work 43 % (not decided); ~3 in 10 never reached. Quotation check pending at session end |
+| SWW whole-story test | **ANALYSED**: protected 21 % (holds); failure responses 31 % (split, not decided; 50 % for central survivors); decisive work 43 % (not decided); ~3 in 10 never reached. Quotation check done (16 of ~9,000 below bar; no change) |
 
 ## Top 3 priorities for next session
 

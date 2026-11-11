@@ -5,7 +5,8 @@ DEVIATIONS D6. Matching: `matching_hand.csv` (546 hand decisions). Repeats:
 `cross_season_repeats.csv` (94 records). Post-hoc checks: `tools/whole_story_checks.py`.
 Open for Endorphin: whether D3's "Claude-only is the pre-registered result" still applies after
 D5 (self-audit lean log 6); the clean-environment Claude recode D5 proposes; whether emergency
-medical care counts as protection for the decisive-work prediction (S23).
+medical care counts as protection for the decisive-work prediction (S23). Quotation check done
+(16 of about 9,000 below the bar; no verdict changes).
 
 Coded files are in `../results/whole_story/coded/` (checked on arrival: valid JSON, every chunk
 read to its last line, quotations verified against the transcripts with `tools/check_quotes.py`).
