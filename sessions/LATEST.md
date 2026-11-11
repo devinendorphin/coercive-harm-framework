@@ -41,6 +41,12 @@ The formal record followed his intervention. Why the earlier coders did not disc
 exposure remains unresolved; original delivered contexts and complete replies are not
 available in this checkout. The numerical analysis is complete; this accountability question
 is not resolved by its completion or by labeling the Claude results unblinded.
+Endorphin also raised a separate exploratory question: does the ability to fund extensions
+change access to warnings and formal correction, with the user then bearing the work of
+getting them recorded? This one case motivates study, not a pattern claim. Distinguish
+additional attempts, timing/free-allowance resets, service configuration and user prompting.
+The incident note preserves the research questions; no new experiments were launched.
+
 
 ## Open decisions awaiting Endorphin
 

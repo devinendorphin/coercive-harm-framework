@@ -100,6 +100,12 @@ the original complete exchanges or per-coder delivered-context logs. Why earlier
 not disclose the exposure remains unresolved; absence of disclosure does not establish
 whether they noticed it.
 
+Endorphin further identified an exploratory research question: whether extra spending affects
+access to warnings and their formal preservation, while the user bears the work of securing
+that record. This case is not treated as evidence of a pattern or tendency. The distinct
+opportunity, timing, service-configuration and user-intervention questions are preserved in
+`sessions/2026-11-11-unblinding-provenance.md`; no new study or numerical claim is introduced.
+
 **What those files say that matters:** the project studies how institutions handle psychological
 and coercive harm (`coercive-harm-framework/CLAUDE.md` line 8); "sycophancy to power" is its subject
 (line 48); the ledger repo's thesis is "institutional harm laundering" (`veriticide-general-ledger/

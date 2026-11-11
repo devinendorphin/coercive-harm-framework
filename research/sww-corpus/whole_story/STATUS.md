@@ -22,6 +22,11 @@ remain flagged and reported with and without exclusions. No coder output was edi
   Endorphin raised its significance; D5 was then written. The formal record followed his
   intervention. It is not evidence of independently initiated supervisory correction.
   A limited review of the saved outputs does not explain why the warning surfaced only then.
+  **Exploratory follow-up:** Endorphin asks whether funding extra usage affects access to
+  discovering and formally recording defects, with correction costs falling on the user.
+  This one-off motivates further study; it does not establish a pattern. The incident note
+  distinguishes payment, additional work, timing and user intervention. No new runs started.
+
 
 - **Claude coders were not blinded (deviation D5):** the harness loaded the project CLAUDE.md files
   into every Claude coder's context. Report Claude-coded results as unblinded; Codex coders were

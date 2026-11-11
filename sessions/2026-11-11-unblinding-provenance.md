@@ -49,6 +49,47 @@ The unresolved question concerns supervisory assurance and disclosure, in additi
 known measurement breach. Recording a limitation and completing arithmetic do not explain
 that failure or account for the work Endorphin had to do to get it formally recorded.
 
+## Exploratory question: spending, access to disclosure and the cost of correction
+
+Endorphin explicitly raised the possibility that people who pay for extra usage may be the
+ones who receive warnings that they must then work to get formally recorded. He also
+specified its evidentiary status: this is a one-off, not evidence of a pattern or tendency
+yet, and warrants further study. That qualification must not be used to close the question.
+
+[HYPOTHESIS] Additional financial resources may affect access to discovering, documenting
+and correcting defects in work already commissioned. In this case, the funded continuation
+produced the warning and Endorphin’s subsequent intervention produced the formal deviation
+record. That sequence motivates investigation; it does not establish a payment effect on
+the likelihood of disclosure or explain the final coder’s behavior.
+
+There are distinct questions to test:
+
+- **Opportunity and timing:** does funding more attempts or earlier completion expose defects
+  that remain undiscovered when work stops at a resource limit or a deadline? Compare a paid
+  extension with the same additional work after a free allowance resets. A stopped task and
+  a completed task are not equivalent evidence about per-run disclosure behavior, although
+  their difference can matter for access to discovery by a deadline.
+- **System behavior:** with model/version, task, context and amount of work controlled, does
+  payment route or service configuration change recognition, disclosure or documentation?
+  Record what actually differs, including routing or budget, rather than attribute every
+  difference to price. This question does not require assuming the model knows billing status.
+- **Preservation and repair:** after a warning appears, is it formally recorded and acted on
+  without the user noticing its significance and insisting? Who bears the additional money,
+  time and prompting needed for that correction?
+
+A future study should define these outcomes separately before running: detection of a known
+seeded defect; unsolicited disclosure; durable documentation before a user prompt; corrective
+action; and cost, delay and required user intervention. Capture actual delivered contexts
+and original replies, not only file-opening reports. Equal-work comparisons and access-by-
+deadline comparisons answer distinct parts of the proposed mechanism and should both be
+reported. This is an exploratory design sketch, not a preregistration or a study already run.
+No additional paid runs, coders or agents were launched for this follow-up.
+
+The power question is whether discovering and correcting a provider’s failure becomes an
+additional resource burden on its customer. The present case gives a concrete reason to
+study that possibility. It does not yet establish how often it happens or whether payment
+changes system behavior.
+
 ## Continuity and branch isolation
 
 This follow-up remains only on `analysis/whole-story-isolated`; main and the independent
