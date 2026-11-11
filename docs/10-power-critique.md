@@ -30,6 +30,18 @@ below is tested for whether it is *real and structural* or merely *dramatic*.
 > were appropriate in 63 % of hand-coded response segments (C2 refuted as worded). Finding B
 > is about how the framework's mechanisms are built, so it stands; what is removed is one
 > corpus line of support for "the move-set is worse up-scale."
+>
+> *Whole-story follow-up, 2026-11-11:* `[SUPPORTED, within the coded sample]`
+> [Across complete stories](../research/sww-corpus/results/whole_story/RESULTS.md), full
+> protection appears in **79/389 agreed eligible stories (20.3%)**, below the 40% line
+> after the framing check. The pool mixes Claude **unblinded** and Codex **blinded**
+> coding; the family figures are 26.9% and 15.8%, respectively. Helpful responses and
+> an eventual lack of full safety can coexist. The pooled predictions concerning the
+> specified adverse responses and outside decisive work are **not decided by this method**.
+> This does not reinstate the refuted power-position comparisons or establish worse
+> treatment up-scale. Broken blinding, S17 disagreement and unknown reached statuses
+> constrain the new finding; the earlier segment result and outside-world data stay visible.
+
 
 **Survives scrutiny. This is the deepest problem.** The framework's central claim is that
 the pattern runs *up* every scale of power. But every enforcement mechanism it built bites

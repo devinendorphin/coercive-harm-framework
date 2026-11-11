@@ -42,3 +42,20 @@ institutionalized here as `/steelman`.
 `sessions/LATEST.md` is the living replacement for the "summary seed" from the old
 chat interface. Every new Claude Code session reads it (via CLAUDE.md) and picks up
 where the last one left off. Standing instructions accumulate there and persist.
+
+## What the institution studies found
+
+[SUPPORTED, within the coded podcast sample] The [whole-story analysis](research/sww-corpus/results/whole_story/RESULTS.md)
+finds full institutional protection in **79 of 389 agreed eligible stories (20.3%)**. The
+pooled predictions about specific adverse responses and about outside decisive work are
+**not decided by the framing check**. Claude-coded figures are **unblinded** after a harness
+exposure; Codex-coded figures are **blinded**, with a limited framing check. Own-coder
+figures, the separate families, repeated stories, omitted records and quotation checks are
+reported alongside the headline.
+
+The [earlier segment result](research/sww-corpus/results/power_vector/RESULTS.md) remains:
+63% of agreed response segments were classified appropriate. Helpful responses can coexist
+with a whole story ending without full safety. The [outside-world figures](research/sww-corpus/results/power_vector/EXTERNAL_DATA.md)
+on non-reporting and case attrition remain beside both studies, with their recorded source
+checks and limits. This analysis is kept on the unmerged `analysis/whole-story-isolated`
+branch; it has not been merged into main.

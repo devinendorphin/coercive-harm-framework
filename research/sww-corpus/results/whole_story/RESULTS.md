@@ -242,7 +242,8 @@ followed individually, and do not establish that all of them never sought help.
 
 The full wording check found **8,841 of 8,857 tested quotations
 (99.8%)** against the machine transcripts. Another 11 quotation entries
-had fewer than four words, including empty entries and were outside that tested denominator. The conservative rule
+had fewer than four words (some were empty) and were outside that tested denominator.
+The conservative rule
 flags 22 person records across neutral and framing files for an unfound,
 too-short or missing quotation; it does not silently remove them from the primary analysis.
 
@@ -260,13 +261,13 @@ too-short or missing quotation; it does not silently remove them from the primar
 All 16 below-bar quotations were also inspected against their source passages. They include
 the four known S04 NEG failures and six known S24 B failures, three S23 CB provider-name
 replacements, one S05 A quotation the heuristic missed despite its wording being present,
-and two S03 B `others_mentioned` quotations. Joined excerpts, redactions and heuristic limits explain these automatic mismatches; several
+and two S03 B `others_mentioned` quotations. Joined excerpts, redactions and heuristic limits
+explain these automatic mismatches; several
 cited timestamps are also imprecise. Finding the words does not prove the coding or the
 underlying account. The automatic failures stay flagged in every stated exclusion.
 The two other-mentioned failures do not exclude person records. Exact IDs, scores and checked
 observations are in [QUOTATION-AUDIT.md](QUOTATION-AUDIT.md); every check row is saved in
 [quotation_checks/](quotation_checks/).
-
 
 There are 21 reached/outcome contradictions across the full input set: S12 CB (1), S17 CA
 (1), S17 CB (5), S21 CB (14). They are preserved in `flags.csv`. Their exclusion leaves the
@@ -274,7 +275,8 @@ primary prediction fractions unchanged because those records did not meet the re
 paired eligibility. Seven deceased-with-protection flags were also inspected: several
 legitimately concern protection from an earlier, separate harm. The S16 conviction-based
 protection call is weaker because a conviction alone does not show the remaining financial loss
-being repaired; the transcript also describes a receiver returning most of the investment. A death flag alone is not grounds to recode; the fixed broad exclusion is
+being repaired; the transcript also describes a receiver returning most of the investment.
+A death flag alone is not grounds to recode; the fixed broad exclusion is
 reported beside unchanged codes.
 
 All 502 reported reading endpoints in 68 coder files match the original committed chunk
@@ -282,7 +284,8 @@ counts. The 387 original canonical transcripts were retrieved; the original inde
 season assignments inherited from discarded duplicates (D8). All 207 rebuilt reading files
 match the original line **and word** counts, and all 502 endpoints match the real rebuilt files.
 [source_validation.json](source_validation.json) and [transcript_manifest.json](transcript_manifest.json)
-record the checks and input hashes. That verifies reported endpoints, not comprehension or the truth of
+record the checks and input hashes. That verifies reported endpoints, not comprehension or the
+truth of
 underlying testimony. No new coders or subagents were used in this continuation.
 
 ## Beside the earlier results and the outside-world data

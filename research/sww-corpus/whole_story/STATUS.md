@@ -1,7 +1,12 @@
-# Whole-story test: run status (updated 2026-11-11) — CODING COMPLETE
+# Whole-story test: run status (updated 2026-11-11) — CODING AND ANALYSIS COMPLETE (isolated branch)
 
-Coded files are in `../results/whole_story/coded/` (checked on arrival: valid JSON, every chunk
-read to its last line, quotations verified against the transcripts with `tools/check_quotes.py`).
+Coded files are in `../results/whole_story/coded/`; their contents are unchanged. The completed
+[analysis](../results/whole_story/RESULTS.md), [arithmetic](../results/whole_story/ARITHMETIC.md)
+and [quotation audit](../results/whole_story/QUOTATION-AUDIT.md) remain on the unmerged
+`analysis/whole-story-isolated` branch. All 502 reported endpoints match the actual rebuilt
+files; all 207 reading files match original line and word counts. The full wording recheck
+found 8,841/8,857 tested quotations, with 11 additional too-short entries; automatic failures
+remain flagged and reported with and without exclusions. No coder output was edited.
 
 ## Done (all coding complete, 2026-11-11)
 - Neutral pairs, every season S1–S26: Claude A/B for S1–S6, S13–S19, S22, S24; Codex CA/CB for
@@ -17,13 +22,12 @@ read to its last line, quotations verified against the transcripts with `tools/c
   into every Claude coder's context. Report Claude-coded results as unblinded; Codex coders were
   blinded. See DEVIATIONS.md D5.
 - Several coders lost their notes on a container change and re-read from file 1; reading logs say so.
-- S04 NEG: 4 of 56 quotations below the 0.8 match bar.
+- S04 NEG: 4 of 56 quotations remain below the 0.8 bar; manually found in the source, with joined excerpts/redactions. The failures remain in the exclusion analysis.
 - Some Codex files contradict themselves: `reached_institution` not "no" but outcome
-  `never_reached` (e.g. S17 CB 5 records, S21 CB 14). Count per coder; report headlines with and
-  without those records. Do not edit coder output.
+  `never_reached` (e.g. S17 CB 5 records, S21 CB 14). There are 21 across the input set, listed by file/ID in `flags.csv`; unchanged and excluded analyses are complete. Do not edit coder output.
 - People from one season reappear as update stories in another (e.g. S14 survivors coded again in
-  S19 B). Decide, before computing, how cross-season repeats are counted; report both ways.
-- S24 B: 6 of 199 quotations below the 0.8 match bar, several on coded responses — check by hand.
+  S19 B). D6 fixed the rule before calculation: per-season primary plus earliest identifiable story once. Both analyses are complete.
+- S24 B: 6 of 199 quotations remain below the 0.8 bar; all checked by hand against the transcripts, with exact passages documented in QUOTATION-AUDIT. They remain flagged in the exclusion analysis.
 - Coders differ on what counts as an institution (restaurant staff, a president's remarks) and on
   person-finding (host/listener asides). These show up as disagreement; do not override codes.
 - Naming (S-21): some quotations keep a non-victim's first name (e.g. S15 A, an agency owner),
@@ -36,6 +40,18 @@ read to its last line, quotations verified against the transcripts with `tools/c
 - Isolation of coders is by instruction; several wrote helper scripts outside their folder.
 
 ## Rebuilding the transcripts in a new container
-`python3 tools/fetch_sww.py /tmp/sww` (about 40 minutes), then `python3 tools/prepare_reading.py
-/tmp/sww /tmp/read whole_story` and `python3 tools/corpus.py index /tmp/sww` (expect 387 episodes,
-16 unassigned).
+
+From `research/sww-corpus/`:
+
+```sh
+python3 -I tools/rebuild_whole_story_sources.py results/whole_story /tmp/sww-frozen
+python3 -I tools/verify_whole_story_sources.py results/whole_story /tmp/sww-frozen /tmp/read
+```
+
+This restores the original 387 canonical episodes and 16 unassigned episodes, retaining
+four season assignments originally inherited from discarded twins (D8). Use `--frozen-index
+results/whole_story/episode_index.txt` when running `prepare_reading.py` or `check_quotes.py`
+on this canonical-only collection. Omitting it incorrectly makes those four episodes
+unassigned. Full reproduction commands and hashes are in the quotation audit and manifests.
+The original `fetch_sww.py` remains available for fetching raw alternate transcriptions;
+later publications must not enter this frozen analysis.

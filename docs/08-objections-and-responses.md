@@ -524,7 +524,7 @@ Base rates for board response times are still needed.
 ### OBJ-031 — "Your own corpus says institutions mostly respond appropriately." *(raised by the power-vector test, 2026-11-01)*
 **Persona:** empiricist / the framework's own pre-registration. **Status:** `PARTLY ANSWERED` (was CONCEDED for this corpus; revised the same day)
 C2 claimed that institutions a survivor turns to reproduce the coercive move-set. The
-pre-registered hand-coded test (two blind coders, κ = 0.83, 200 random institution-mention
+pre-registered hand-coded test (two coders, one told the hypothesis; κ = 0.83; 200 random institution-mention
 segments, aftermath episodes included) found appropriate responses in **63 %** of agreed
 response segments, above the 40 % refutation line; both coders refute independently.
 Perpetrator power position did not predict impunity or institutional-failure rates (P1, P2
@@ -540,6 +540,26 @@ outcome. The 63 % describes the responses the podcast shows, not the population.
 *inaction* part of C2 is supported at population scale; disbelief, blame-reversal and
 pathologizing are still unmeasured as rates. → `research/sww-corpus/results/power_vector/RESULTS.md`;
 README; docs 04, 10.
+
+**Whole-story update, 2026-11-11:** `[SUPPORTED, within the coded sample]` The
+[whole-story analysis](../research/sww-corpus/results/whole_story/RESULTS.md) records full
+institutional protection in **79/389 agreed eligible stories (20.3%)**, below its 40%
+threshold after the framing check. Appropriate individual responses do not guarantee
+that the person ended safe. The earlier 63% segment result stays conceded as worded;
+its design and the outside-world data remain beside this result.
+
+This does not establish the stronger claim that institutions mostly disbelieve or blame:
+the mixed pooled figure for the specified adverse responses is **118/383 (30.8%), not
+decided by this method** against the 30% line. Claude-only **unblinded** coding gives
+41/153 (26.8%, prediction refuted); Codex-only **blinded** gives 81/243 (33.3%, not refuted).
+The pooled outside-decisive-work prediction is also undecided. Counting identifiable stories
+once also makes the Claude-only **unblinded** adverse-response prediction undecided; its
+per-season primary verdict remains refuted. The new study’s weakest
+measurement condition is the Claude harness exposure (D5), not repaired by measuring an
+extra framing sentence. Same-season S17 disagreements and numerous unknown reached
+statuses further limit interpretation. The response to this objection must retain useful
+institutional action and those limits at the same weight as failures. Status remains
+`PARTLY ANSWERED`; a low full-protection rate is not a causal estimate of bad faith.
 
 ## How to use this ledger
 

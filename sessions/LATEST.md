@@ -1,41 +1,43 @@
 # LATEST — Continuity Seed
 
-*Updated 2026-11-11, session `whole-story-analysis-handoff`. The unmerged branch
-`analysis/whole-story-isolated` contains analysis decisions and identity matches;
-no whole-story headline has been computed.*
+*Updated 2026-11-11, session `whole-story-analysis-complete`. The analysis is complete
+and pushed only on the unmerged `analysis/whole-story-isolated` branch.*
 
 ## Where the project stands
 
 - Taxonomy (02): active; cluster coherence remains a hypothesis.
 - Legal (03): active; civil-first and words-only limits remain.
-- Evidence (04): active; earlier segment result remains on record; whole-story analysis pending.
-- Accommodation / therapy (05/06): active; existing limits unchanged.
-- Safeguards (07): active; Counterman and untested-record work still pending.
-- Objections (08): active; OBJ-031 needs the whole-story findings once computed.
-- Synthesis / power critique (09/10): active; whole-story update pending.
-- SWW whole-story coding: complete through S26, including framing pairs and S17 cross-check.
-- Analysis: D6 decisions committed before calculation; identity matches and repeats committed.
-- Measurement limit: Claude coders unblinded (D5); only Codex coders blinded as promised.
+- Evidence (04): active; whole-story results now beside the earlier segment result and outside data.
+- Accommodation / therapy (05/06): active; no new efficacy claims or mechanisms.
+- Safeguards (07): active; earlier Counterman and untested-record work still pending.
+- Objections (08): active; OBJ-031 now includes the whole-story findings and measurement limits.
+- Synthesis / power critique (09/10): active; doc 10 updated without reinstating refuted power-position claims.
+- SWW coding: complete through S26; original JSON, hand identity decisions and repeats unchanged.
+- Analysis: 20.3% full protection in pooled agreed eligible stories; other two pooled predictions undecided.
+- Measurement: Claude coders unblinded (D5), Codex blinded; S17 disagreement and limited framing remain.
 
 ## Top 3 priorities for next session
 
-1. **Resume this analysis on `analysis/whole-story-isolated`, never main.** Read
-   `sessions/2026-11-11-whole-story-analysis-handoff.md`, required design documents and
-   `results/whole_story/MATCHING-NOTES.md`. Decisions and identity work are pushed in
-   `d03752d` and `b773dac` on this branch. Main is restored to `ccfabfb`. Keep every
-   commit and push on this unmerged branch; do not restart coding or use subagents.
-2. **Validate transcript-site access in the updated environment, then complete checks.**
-   Endorphin added podscripts.co and republished the SWW environment; the previous running
-   instance retained its old policy. Known S24 B / S04 NEG quotation issues are not waived.
-3. **Compute, disconfirm and write the results, then update their citations.** Extend the
-   existing script, report all three model groups and sensitivity variants, check samples,
-   update README/docs 04/08/10 and self-audit, commit and push each stage, and run session-log.
+1. **Keep the completed analysis isolated.** Read `sessions/2026-11-11-whole-story-analysis-complete.md`
+   and `research/sww-corpus/results/whole_story/RESULTS.md`, ARITHMETIC and QUOTATION-AUDIT.
+   All commits and pushes stay on `analysis/whole-story-isolated`. No main update, merge or
+   incorporation of the independent Claude analysis without Endorphin’s explicit instruction.
+2. **Review the measurement limits before extending the claims.** Full protection is uncommon
+   under every fixed sensitivity, but Claude’s blinding was broken and S17 differs greatly.
+   The Claude-only unblinded adverse-response prediction is refuted per season and undecided
+   after repeat removal. A clean recoding or broader framing study would be a new task, not
+   something to silently add to the completed analysis. No new coders or subagents were used here.
+3. **Choose the next framework work from the existing unresolved items.** The analysis and
+   citation updates are complete; avoid rerunning them as if no results exist. Legal safeguards,
+   the apex-power gap and therapy’s wrong-population evidence remain open. Any future source
+   reconstruction must use the frozen index (D8), preserving four inherited season assignments.
 
 ## Open decisions awaiting Endorphin
 
 Earlier legal/framework decisions remain open: fraud-prong scope, psychological homicide,
-criminal versus civil-only endangerment, and proposed session-workflow amendment. The
-whole-story analysis choices requested for this session are fixed in D6, not awaiting approval.
+criminal versus civil-only endangerment, and the proposed session-workflow amendment.
+No approval is pending for this completed analysis. D6–D8 decisions and results are recorded;
+repairing D5’s broken blinding would require separate future work.
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 

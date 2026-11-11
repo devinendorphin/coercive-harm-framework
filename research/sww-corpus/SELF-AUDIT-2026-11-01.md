@@ -90,3 +90,14 @@ Entries are added when the analyst notices its own work leaning toward the insti
    records, where one coder counts harmful teaching itself as institutional contact. The
    inconsistent boundary must remain visible, not explained away as if the records were
    already using a uniform rule. No coder output was rewritten.
+
+7. **Partial financial recovery must stay visible too.** The draft described S16’s
+   conviction-based protection call as not showing a repaired loss. Reading the passage
+   showed that a receiver returned most of the investment, with about $5,000 still lost.
+   The report now says that explicitly. A conviction alone does not establish full
+   protection, but hiding the partial recovery would lean against institutional help.
+8. **Reconstruction slip, caught before publication:** fetching the frozen canonical
+   files without their discarded twins lost four inherited season assignments. Comparing
+   the rebuilt index caught it. The original assignments were restored (D8), all 68
+   quotation checks rerun, and all 207 reading files match the original line and word counts.
+   No direction of bias is claimed; the preliminary source-pool checks were replaced.

@@ -49,7 +49,7 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    "core functions in nearly every case" **failed** as pre-registered for isolation and
    perception control. The corpus is curated (one selection process). Stays `[SUPPORTED]`:
    illustrative, not a base rate. Institutional self-similarity (C2) was then tested
-   directly (2026-11-01, pre-registered, two blind coders, κ = 0.83): appropriate responses
+   directly (2026-11-01, pre-registered, two coders, one told the hypothesis; κ = 0.83): appropriate responses
    were **63 %** of institutional-response segments, so C2 as worded ("institutions mostly
    reproduce the moves") is **refuted in this corpus**. The neutralizing moves are present
    and nameable, chiefly inaction. Case files cite appropriate responses as counter-evidence
@@ -57,6 +57,23 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    the responses the podcast shows; population figures read on its expert episodes (about 69 %
    of sexual assaults unreported; fewer than 1 in 10 reported ones ending in a felony
    conviction) show most cases never reach an outcome (`EXTERNAL_DATA.md`).
+
+   **Whole-story follow-up (2026-11-11).** `[SUPPORTED, within the coded sample]`
+   Reading outcomes across contacts, the [new analysis](../research/sww-corpus/results/whole_story/RESULTS.md)
+   finds full protection in **79/389 agreed eligible person–harm stories (20.3%)** across
+   seasons 1–26, below the pre-registered 40% line after the framing check. This mixed
+   pool uses Claude **unblinded** coding and Codex **blinded** coding. The separate
+   figures are 42/156 (26.9%, Claude **unblinded**) and 38/241 (15.8%, Codex **blinded**).
+   The pooled specific-adverse-response prediction and outside-decisive-work prediction
+   are **not decided by this method**. The Claude-only **unblinded** adverse-response
+   prediction is refuted in the per-season primary analysis (undecided after repeat removal);
+   the blinded Codex one is not refuted. These results concern outcomes
+   across whole stories and retain positive actions, including later custody orders.
+   They do not erase the segment verdict or establish a population rate or institutional
+   bad faith. Broken blinding, S17 disagreement, unknown reached statuses and the limited
+   framing checks remain measurement limits; the linked report gives quotation checks
+   and all fixed sensitivities.
+
 5. **The documentation burden.** `[SUPPORTED]` (`research/documentation-labor-burden.md`,
    2026-10-04, from the operator's account):
    - in victim-initiated forums the record must be made contemporaneously (FRE 803(5)),
