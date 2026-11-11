@@ -153,6 +153,12 @@ checked wording is not a validation of all contact boundaries, causal credit, sp
 outcomes. D5’s broken Claude blinding remains unrepaired. Why only S24 POS disclosed the
 harness exposure is still an open question; this analysis supplies no explanation for the
 other coders’ silence.
+Endorphin subsequently clarified the provenance: the supervisor mentioned the final coder’s
+warning in chat, Endorphin raised its significance, and the supervisor then wrote D5.
+The formal deviation records a correction following Endorphin’s intervention. It does not
+establish that the supervisor would have formally recorded the breach independently.
+The saved coding outputs do not explain the earlier coders’ lack of disclosure.
+
 
 ## Reproduction
 

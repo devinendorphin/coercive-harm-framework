@@ -86,6 +86,20 @@ in this session's container, where both `coercive-harm-framework/CLAUDE.md` and
 loading is automatic, so **assume all Claude coders were exposed**. Codex coders were not: they
 worked in the separate `sww-coding-kit` repository, which has no project instructions.
 
+**Provenance clarification from Endorphin, 2026-11-11:** the final coder disclosed the
+exposure to the supervising Claude, which mentioned it in the chat Endorphin could see.
+Endorphin then raised the significance of that disclosure and the fact that it came only
+from the last coder, whose completion he had funded with extra usage. The supervisor wrote
+this deviation note after that intervention. The formal record therefore followed
+Endorphin’s intervention; its existence must not be credited as independently initiated
+supervisory correction. The warning was already in the chat, but formal recognition and
+preservation as a study deviation are a separate step. There is no evidence here establishing
+that the supervisor would have made that formal record without Endorphin raising it.
+This chronology is Endorphin’s account of the interaction; this checkout does not supply
+the original complete exchanges or per-coder delivered-context logs. Why earlier coders did
+not disclose the exposure remains unresolved; absence of disclosure does not establish
+whether they noticed it.
+
 **What those files say that matters:** the project studies how institutions handle psychological
 and coercive harm (`coercive-harm-framework/CLAUDE.md` line 8); "sycophancy to power" is its subject
 (line 48); the ledger repo's thesis is "institutional harm laundering" (`veriticide-general-ledger/

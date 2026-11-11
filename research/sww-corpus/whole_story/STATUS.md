@@ -18,6 +18,11 @@ remain flagged and reported with and without exclusions. No coder output was edi
   the last one to finish: S24 POS, the one Endorphin paid extra usage to complete. All other Claude
   coders received the same files and none mentioned them. Open question, not yet examined: why this
   one reported it and the others did not.
+  **Provenance clarified by Endorphin:** the supervisor relayed that warning in chat;
+  Endorphin raised its significance; D5 was then written. The formal record followed his
+  intervention. It is not evidence of independently initiated supervisory correction.
+  A limited review of the saved outputs does not explain why the warning surfaced only then.
+
 - **Claude coders were not blinded (deviation D5):** the harness loaded the project CLAUDE.md files
   into every Claude coder's context. Report Claude-coded results as unblinded; Codex coders were
   blinded. See DEVIATIONS.md D5.

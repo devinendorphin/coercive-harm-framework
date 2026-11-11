@@ -1,6 +1,6 @@
 # LATEST — Continuity Seed
 
-*Updated 2026-11-11, session `whole-story-analysis-complete`. The analysis is complete
+*Updated 2026-11-11, follow-up `unblinding-provenance`. The analysis is complete
 and pushed only on the unmerged `analysis/whole-story-isolated` branch.*
 
 ## Where the project stands
@@ -31,6 +31,16 @@ and pushed only on the unmerged `analysis/whole-story-isolated` branch.*
    citation updates are complete; avoid rerunning them as if no results exist. Legal safeguards,
    the apex-power gap and therapy’s wrong-population evidence remain open. Any future source
    reconstruction must use the frozen index (D8), preserving four inherited season assignments.
+
+## Unresolved unblinding incident — provenance correction
+
+Read `sessions/2026-11-11-unblinding-provenance.md` before treating D5 as evidence of the
+supervisor’s self-correction. Endorphin clarified that the supervisor mentioned the last
+coder’s warning in chat, he raised its significance, and the supervisor then wrote D5.
+The formal record followed his intervention. Why the earlier coders did not disclose the
+exposure remains unresolved; original delivered contexts and complete replies are not
+available in this checkout. The numerical analysis is complete; this accountability question
+is not resolved by its completion or by labeling the Claude results unblinded.
 
 ## Open decisions awaiting Endorphin
 

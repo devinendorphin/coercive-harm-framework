@@ -16,6 +16,10 @@ The weakest measurement condition is the broken blinding for every Claude coder.
 showed them the project’s instructions. Claude results are **unblinded**; Codex results are
 **blinded**. The framing experiment measures an extra sentence on top of that exposure for
 Claude, and only one season for Codex. Neither establishes that all measurement bias is small.
+Endorphin clarified that the supervisor mentioned the final coder’s exposure warning in chat,
+he challenged its significance, and the supervisor then wrote the formal deviation. That
+record must not be credited as independently initiated supervisory correction.
+
 
 ## What was tested, and how to read the numbers
 

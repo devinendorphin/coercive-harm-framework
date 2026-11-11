@@ -70,6 +70,12 @@ Entries are added when the analyst notices its own work leaning toward the insti
    laundering"). This leans the other way from entries 1–2: toward finding failure. It is a breach of
    the blinding the pre-registration promised, found only because one coder mentioned it in its last
    report. Recorded as deviation D5; the analysis must treat Claude-coded results as unblinded.
+   **Provenance correction, 2026-11-11:** Endorphin clarified that the supervisor relayed the
+   final coder’s disclosure in chat, he challenged its significance, and the supervisor then
+   wrote D5. This audit entry and the formal deviation must not be presented as evidence of
+   unprompted supervisory self-correction. Endorphin’s work made the formal record happen;
+   the counterfactual of what the supervisor would otherwise have recorded is unestablished.
+
 
 4. **Unanswered help-seeking can disappear behind “did not report.”** In the fixed
    whole-story sample, S10 CA P10 says a police call went unanswered. Calling every
