@@ -186,3 +186,25 @@ running the extended analysis, with no coder output edited:
    preserving the codes and without assuming that protection of an earlier, distinct harm was
    impossible. Schema inspection encountered such a record in S17 CB. This checks D1.2's
    application; it does not recode it or replace the pre-registered analysis.
+
+## D8 — 2026-11-11, transcript reconstruction correction before quotation-excluded results
+
+The continuation retrieves the 387 canonical episode files in the original committed
+`episode_index.txt`, preserving the episode selection made before coding rather than adding
+later publications or refetching discarded alternate transcriptions. The first reconstruction
+revealed that **four selected canonical slugs inherit their season from a discarded twin**:
+`data-points-child-abuse` (S17), `sww-live-sacramento` (S1), the John Michael Lander WCN episode
+(S20), and the Madison McGhee WCN episode (S22). Applying slug-only assignment to those files
+incorrectly put them in the unassigned pool.
+
+This was caught by comparing the rebuilt index before publishing results. The source tools
+now accept `--frozen-index` to restore the **original** selections and inherited assignments;
+this changes no study unit, coder output, identity decision or prediction. All 68 quotation
+checks are rerun with that frozen map, replacing preliminary checks. The 207 rebuilt reading
+files exactly match the original committed line counts **and word counts**; all 502 reported
+reading endpoints match the rebuilt files. `source_validation.json` records these checks and
+all coder-file hashes; `transcript_manifest.json` records the canonical sources and hashes.
+
+The original quotation matching heuristic and D7's conservative exclusion rule are unchanged.
+A below-bar quotation found verbatim by hand remains flagged in that sensitivity; manual
+verification does not silently turn its automatic score into a pass.

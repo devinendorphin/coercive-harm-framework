@@ -7,16 +7,22 @@ one transcript file per unassigned episode, same paragraph format), and copies t
 part of CODING-INSTRUCTIONS.md (below its first '---' line) to <read_dir>/INSTRUCTIONS.md and
 OUTPUT-FORMAT.json beside it. Also writes <read_dir>/linecounts.tsv for the reading-in-full check.
 """
-import os, re, sys, shutil, glob
+import argparse, os, re, sys, shutil, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import corpus
 
-src, out, ws = sys.argv[1:4]
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('src')
+parser.add_argument('out')
+parser.add_argument('ws')
+parser.add_argument('--frozen-index', help='Retain original canonical selections and inherited season assignments')
+args = parser.parse_args()
+src, out, ws = args.src, args.out, args.ws
 os.makedirs(out, exist_ok=True)
-eps = corpus.episodes(src)
+eps = corpus.frozen_episodes(src, args.frozen_index) if args.frozen_index else corpus.episodes(src)
 seasons = sorted({e["season"] for e in eps if e["season"]})
 for s in seasons:
-    corpus.dump(src, s, f"{out}/s{s:02d}")
+    corpus.dump(src, s, f"{out}/s{s:02d}", episodes_override=eps if args.frozen_index else None)
 for p in glob.glob(f"{out}/s*/*.txt"):  # D1: end every chunk with a newline so line counts agree
     t = open(p).read()
     if not t.endswith("\n"): open(p, "w").write(t + "\n")

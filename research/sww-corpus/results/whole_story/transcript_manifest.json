@@ -1,0 +1,1942 @@
+{
+  "retrieved_date_utc": "2026-11-11",
+  "selection": "Original episode_index.txt canonical slugs; no later publications or alternate transcriptions",
+  "season_assignments": "Original frozen index, including seasons inherited from discarded twins",
+  "episodes": [
+    {
+      "slug": "13-wcn-presents-je-s6-updates",
+      "season": 6,
+      "sha256": "a4a616681e66ea8784dddbf7d428829779e25c63c7c9847389b5c6b110baeb01"
+    },
+    {
+      "slug": "23-wcn-presents-je-s6-updates",
+      "season": 6,
+      "sha256": "5d39a09c4850687b6a381a57164fd76ec303a77527b129b2f04717ffcac0866a"
+    },
+    {
+      "slug": "33-wcn-presents-je-s6-updates",
+      "season": 6,
+      "sha256": "21d0945456d9869255816f4a28656106798f835982bf0ca3ceff3d247a77c8be"
+    },
+    {
+      "slug": "black-lives-matter-amplifymelanatedvoices",
+      "season": null,
+      "sha256": "157ba65558f08a7c7ee741c7a26f2b856af940fc1235f57d5c47b1d3cc8820f4"
+    },
+    {
+      "slug": "data-points-ai-facilitated-crime-abuse-featuring-dr-aiden-hirshfield",
+      "season": null,
+      "sha256": "00606d2a2fedb76f4fdb935e08e75b8e947d66a39cb20d2549100053769476a3"
+    },
+    {
+      "slug": "data-points-child-abuse",
+      "season": 17,
+      "sha256": "c1681fc3f436f9e18e7058f93f216284fe69fa7a508d5fef1dca9ab7a8bdf8b9"
+    },
+    {
+      "slug": "data-points-cons-schemes-fraud",
+      "season": null,
+      "sha256": "8a01408caa95f1a038b4d2b713b88ad0c9e36d436a3ae1272e7670afedcc70d4"
+    },
+    {
+      "slug": "data-points-false-reporting-and-its-impact-on-survivors",
+      "season": null,
+      "sha256": "5e514dd89a5c55a33ba5cd9f28585eb7f13e2322db4d40bbeaa48ab5d1412770"
+    },
+    {
+      "slug": "data-points-how-social-media-impacts-kids-mental-health-featuring-dr-corey-emanuel",
+      "season": null,
+      "sha256": "3d0514b5be7a686a73b4a149758130ff207fd392a66e9d02ecc1d29f0d22b44d"
+    },
+    {
+      "slug": "data-points-how-social-media-impacts-our-mental-health-featuring-dr-corey-emanuel",
+      "season": null,
+      "sha256": "eefdbe22abf71c867e5458d9c4a08d4f3dd873e22dfc9c0acb6088dd3c4fa8a3"
+    },
+    {
+      "slug": "data-points-male-survivors-of-sexual-assault-featuring-leron-barton",
+      "season": null,
+      "sha256": "e41c312dbdb2fef05297e853f360e13c938ac312a0fcc3dd5d386afd9d4d965a"
+    },
+    {
+      "slug": "data-points-munchausen-syndrome-by-proxy-featuring-andrea-dunlop",
+      "season": null,
+      "sha256": "046f485e6480bddcd89942348fb107f031a61b457b2a7dc1b268f4182e07b0c3"
+    },
+    {
+      "slug": "data-points-narcissistic-abuse-featuring-vanessa-reiser-lcsw",
+      "season": null,
+      "sha256": "0e8370d242ec62289be754398ea25e566cff5f55a01a2658817c1d5b446aee35"
+    },
+    {
+      "slug": "data-points-ptsd-featuring-dr-danielle-moore",
+      "season": null,
+      "sha256": "f0fdd11d56703a9160fdadab20f8d8f8a460c1133e7a16f5cda879d8ac2a7758"
+    },
+    {
+      "slug": "data-points-stalking-featuring-lenora-claire",
+      "season": null,
+      "sha256": "74cbd9d67d6374b058e49e83d2de4cd3cf17e569b02976b7dd6a98e1201c37ec"
+    },
+    {
+      "slug": "data-points-the-30th-anniversary-of-the-violence-against-women-act-featuring-lenora-claire",
+      "season": null,
+      "sha256": "b7def400c08aaae138b4e92bee89219fbe55921cba74753f81ee2d88e3586c55"
+    },
+    {
+      "slug": "data-points-the-intersection-of-true-crime-the-lgbtqia-community-featuring-jimanekia-eborn",
+      "season": null,
+      "sha256": "afed26cc441c9f1535c563216a27a365a11ce32f1771461c56d5af88fef244e5"
+    },
+    {
+      "slug": "exciting-sww-updates",
+      "season": null,
+      "sha256": "c1d2d0ae6ddfa4afa33d41536e8a99f8ece0db963c9b2a8aa670234407ec278c"
+    },
+    {
+      "slug": "listen-now-death-county-pa",
+      "season": null,
+      "sha256": "ebf4f7d4a7acd8436adc812c89f1d11ba0f535612721ac4e14743439471614c4"
+    },
+    {
+      "slug": "s1-e1-there-were-no-red-flags",
+      "season": 1,
+      "sha256": "085cdd975b1c7bf057f2128490d6cd9689acb856a668a4141938d78ff1f75900"
+    },
+    {
+      "slug": "s1-e10-real-kimmy-brian",
+      "season": 1,
+      "sha256": "e0ad1f4c3bea07332e6e1deb3de87e15727dc94a3f55b2698570dce28dfbef0f"
+    },
+    {
+      "slug": "s1-e11-this-is-a-pattern",
+      "season": 1,
+      "sha256": "6f1932d74d74f28ec0ceba71d945b67b9397515f99c72bf2a3db0f3f6f86a5f3"
+    },
+    {
+      "slug": "s1-e12-answers-healing",
+      "season": 1,
+      "sha256": "7ebdb93578eb0cc7c43e5f9c73478c13c627eccfa541d5955c0ab59c0f5b9399"
+    },
+    {
+      "slug": "s1-e13-season-1-q-a",
+      "season": 1,
+      "sha256": "4a6ba03c85de09efe423b034cbd3e0da44bff4d6942b31e658226ccb7d84bc9c"
+    },
+    {
+      "slug": "s1-e14-we-all-dodged-a-bullet",
+      "season": 1,
+      "sha256": "ba0f20b9227203ccf9499d8ece6c575e66cc4466a829a8b915685b60ac157fcb"
+    },
+    {
+      "slug": "s1-e15-safety-coping-strategies-for-leaving-abusive-relationships",
+      "season": 1,
+      "sha256": "b5d975a51722567b6e465355554476342ea9ab123dde437ad1b59ec8326663d2"
+    },
+    {
+      "slug": "s1-e2-it-was-weird",
+      "season": 1,
+      "sha256": "4b302c2460c5123d359eea5f85a93f4127225246d0987520899028ae6b63e338"
+    },
+    {
+      "slug": "s1-e3-maple-finn",
+      "season": 1,
+      "sha256": "d711776cc5f904e62927035f78dccb54b4ce608c8cc8cd11e0ed60081e1cee44"
+    },
+    {
+      "slug": "s1-e4-kimmy-brian",
+      "season": 1,
+      "sha256": "98deefadfaa176e0183a79dd6918ea8f63091b7434437872a2783f5e7cee4339"
+    },
+    {
+      "slug": "s1-e6-my-chest-goes-cold",
+      "season": 1,
+      "sha256": "72ba593f08dab46d2b9970fede3f7fc9eaf96c081ed0e6de69ed309188d7cc73"
+    },
+    {
+      "slug": "s1-e8-there-is-much-to-confess",
+      "season": 1,
+      "sha256": "d47f9b6218ba19b6836e272f09a45386c3472b48f16dc401403e542a27755d01"
+    },
+    {
+      "slug": "s1-e9-unencumbered-by-the-weight-of-women",
+      "season": 1,
+      "sha256": "e0d3b13be6cf263216257e31558d5c0fe399ff630b1b0b82ebd3d4d9aeceb059"
+    },
+    {
+      "slug": "s1-ep5-the-devil-is-a-good-liar",
+      "season": 1,
+      "sha256": "51341db6c3d26f9d1ad7128e26fea6e6bdc84d83842001f293d87931a1397485"
+    },
+    {
+      "slug": "s1-ep7-were-done-im-running-youre-insane",
+      "season": 1,
+      "sha256": "991de5aaade5edb46b51ea0e6699b927ff6d8c0fbbb2da0c35ae7b5625d12d5a"
+    },
+    {
+      "slug": "s1-something-was-wrong",
+      "season": 1,
+      "sha256": "d9014d09bdbe87a257d836041bb70605ef6a5acb3e47b938647ece19e6f463e9"
+    },
+    {
+      "slug": "s10-e1-bailey-im-going-to-fcking-kill-you",
+      "season": 10,
+      "sha256": "830b30e780ad25c524e70dc1b6b43bd758284ef73ddca4143e91fd9bb1583e95"
+    },
+    {
+      "slug": "s10-e11-emily-destroying-people",
+      "season": 10,
+      "sha256": "22d4bd5c88726c141ce0d24399730014a65ed9990f8601da6e1324c099f3f67a"
+    },
+    {
+      "slug": "s10-e12-vanessa-bet-hes-arrested",
+      "season": 10,
+      "sha256": "b291da58f1fe7dc0b16eaa5d6a617869379d5f049936121938c729cb0d067dd2"
+    },
+    {
+      "slug": "s10-e2-megan-shocking-realization",
+      "season": 10,
+      "sha256": "38d493b6d941839239544f774912d29b60b4a87cfac6230fcb08ab64f2105d6b"
+    },
+    {
+      "slug": "s10-e3-ava-showing-up-places",
+      "season": 10,
+      "sha256": "92e6ba21d695367cd971bb7aac4ebd8185429caddbc2c24c4611ac3acad414fb"
+    },
+    {
+      "slug": "s10-e4-emma-monster-inside",
+      "season": 10,
+      "sha256": "358d72deb7efea13408d07bd2e1acb18a7b476dc7c01bbd57f0c709a46705508"
+    },
+    {
+      "slug": "s10-e5-angie-dark-triad",
+      "season": 10,
+      "sha256": "2ceaa54728071bfb0edfbf05de3820fae25ae73b87664bb1e95bc8d7362f7a1d"
+    },
+    {
+      "slug": "s10-e6-maribelle-dating-website-predator",
+      "season": 10,
+      "sha256": "b5f6631815d899b2795547483afaf63face4bc3c9b8ff0637a6a871a72442fbb"
+    },
+    {
+      "slug": "s10-e7-nadia-something-in-his-eyes",
+      "season": 10,
+      "sha256": "bcc5cfd4ddc5661b91f9c38e42664a015c4a0a5d8690d9147de2a942acb19749"
+    },
+    {
+      "slug": "s10-e9-olivia-loose-pills",
+      "season": 10,
+      "sha256": "2c1a7e721ddbb4009db122a6316036673c2c82bd02f85582cacf3708dcb7c0d3"
+    },
+    {
+      "slug": "s10-ep10-mia-violated",
+      "season": 10,
+      "sha256": "b6058107d73fda499960c360ebfbfdf64b46ca8a98d8b44b76a09c401ff2aeb8"
+    },
+    {
+      "slug": "s10-ep8-olivia-was-it-all-a-lie",
+      "season": 10,
+      "sha256": "de114e6fd90a9ee85025432be38b19638ed96269198c2fcf242be92fc3ffbcc0"
+    },
+    {
+      "slug": "s11-e1-ashley-most-dangerous-time",
+      "season": 11,
+      "sha256": "b07c1e1da41ef3d2c8c33bb2d9cfcbd4b0ff84a3ee9c7e26406908dae9415baa"
+    },
+    {
+      "slug": "s11-e10-mae-dangerous",
+      "season": 11,
+      "sha256": "1450db7341075eb43ad31100b320fe7a10eb1900ea6a8a4e56de5b64841019f9"
+    },
+    {
+      "slug": "s11-e11-dara-very-sorry",
+      "season": 11,
+      "sha256": "5a5835e2a7ec60bd1ce2031c06474e25733e1d0d124fd01049c9ad4c42556022"
+    },
+    {
+      "slug": "s11-e12-lucy-bad-blood",
+      "season": 11,
+      "sha256": "4bd4d819d57eee2ccbc3e964376f48a1bfd1c4d2c9781ea53d79ccf490314684"
+    },
+    {
+      "slug": "s11-e3-ari-help-me",
+      "season": 11,
+      "sha256": "a06082314c4935271b4967f5720f96de80f6b0089d806e69772fe0a71f37c1fe"
+    },
+    {
+      "slug": "s11-e5-nina-theres-a-gun-in-the-car",
+      "season": 11,
+      "sha256": "ce42054fca44110082840f26b6018085d3fb2a00ee249520821177f66fecccbd"
+    },
+    {
+      "slug": "s11-e6-sasha-wired",
+      "season": 11,
+      "sha256": "8c7e8199ca002bc1a6390617e1e7a28c30fcee7963551baf056f721f8100e253"
+    },
+    {
+      "slug": "s11-e7-willow-playing-the-hero",
+      "season": 11,
+      "sha256": "469a89b11b393d4835137cf035d9781e8eee274acc492ca2a1c4e1362c22b3c2"
+    },
+    {
+      "slug": "s11-e9-vera-diabolical",
+      "season": 11,
+      "sha256": "7ca368a3667246e345bb82b588de548d8b257ae25245fae7068a6cd65645ff0a"
+    },
+    {
+      "slug": "s11-ep2-ari-if-i-cant-have-him-no-one-can",
+      "season": 11,
+      "sha256": "6e42c0ddae5a78f9977c6d2b517528ce775ec9e2ab6bb2c9ccdea4bf70f51be8"
+    },
+    {
+      "slug": "s11-ep4-quinn-youre-so-lucky-to-have-me",
+      "season": 11,
+      "sha256": "0a0926220211bf2b8efa83cb33d6291e08d09137b13682d7219a986711f5df3a"
+    },
+    {
+      "slug": "s11-ep8-molly-unimaginable-rage",
+      "season": 11,
+      "sha256": "c6d749a90f0ad6bebade8801c30110335466254c018a6990075817c2214e8c29"
+    },
+    {
+      "slug": "s11-wcn-presents-dara-sww-season-11-episode-11-update",
+      "season": 11,
+      "sha256": "59aab37dcaf7ed14bb6699073ab054770bcd6a39debbfd1fb69750915932e57e"
+    },
+    {
+      "slug": "s12-e1-witpro",
+      "season": 12,
+      "sha256": "dea8cafee46bda8bae5943f7d1ba3631fc63c8aa36a7221bfe79705b00e19e86"
+    },
+    {
+      "slug": "s12-e2-people-are-watching",
+      "season": 12,
+      "sha256": "7ca3b9e2f9a1f23600dabddd8df75be86bbc0940aeec10f81f545470e11c1598"
+    },
+    {
+      "slug": "s12-e3-im-being-followed",
+      "season": 12,
+      "sha256": "55e541801079eb34928b5ef2f50f69ede5b1aa1d9d6e935441a96db618eadc7b"
+    },
+    {
+      "slug": "s12-e4-constant-state-of-chaos",
+      "season": 12,
+      "sha256": "a9da08a134b75ab1568598f2b3b08e526dc6bc1b53b361532045608e031243dc"
+    },
+    {
+      "slug": "s12-e5-hold-the-fck-up",
+      "season": 12,
+      "sha256": "5d3ca1fad6229a4ebb9e215fe818a43035d7cec33a138b9ebe8ed249a2c4fa63"
+    },
+    {
+      "slug": "s12-e6-my-darkness-was-hooked",
+      "season": 12,
+      "sha256": "7453f0283df5c81bf749647ba96fdeeaaf63cb51a4c9cb118f4af169afce2ddb"
+    },
+    {
+      "slug": "s13-e1-amelia-behind-the-curtain",
+      "season": 13,
+      "sha256": "eac6b4465eca08cc347125509baeab2d2df7c05d7a5d9b0a4a9c1ad48145d75c"
+    },
+    {
+      "slug": "s13-e11-iris-runaway",
+      "season": 13,
+      "sha256": "1a0cda19c5938ab6876aafb4e513f10f1eb6923410180a5e198a7b55e87a4bcb"
+    },
+    {
+      "slug": "s13-e14-birdie-everything-went-dark",
+      "season": 13,
+      "sha256": "85b3d7b500b6c9a106cf1a54c92055a83f898239c4bf02b17f66c94cfa0f43c4"
+    },
+    {
+      "slug": "s13-e15-grace-we-all-turned-into-numbers",
+      "season": 13,
+      "sha256": "d3dd38f5851bc44470e4946743bfb57e789bcea543bc0f6fb2f28ce4793e47a7"
+    },
+    {
+      "slug": "s13-e16-sadie-levi-a-dream-come-true",
+      "season": 13,
+      "sha256": "39b1230d9039a1e33ff8717be9d8a760c44dcfa95e31d3befdc305cb5d49459e"
+    },
+    {
+      "slug": "s13-e17-claire-riley-i-might-not-be-alone",
+      "season": 13,
+      "sha256": "f0a2bee285abd1d4b8b30a2c39fde66acd860867c19d7c06e94e5c875178ae8b"
+    },
+    {
+      "slug": "s13-e18-claire-riley-hes-done-it-again",
+      "season": 13,
+      "sha256": "00bc86aca8d42c6c41acf395f68093a1fd8426a80ee4dd236c5aa1a932f639d6"
+    },
+    {
+      "slug": "s13-e19-arya-heart-drops-to-stomach",
+      "season": 13,
+      "sha256": "4d001c8a36c43ae9a742e295e39a37e1aa0282d51dadbe92d3c94223b9eeca96"
+    },
+    {
+      "slug": "s13-e2-amelia-your-house-is-on-fire",
+      "season": 13,
+      "sha256": "1430b37a20b8ef8acd75db7c34b90e2fa4fd22494c852a7b0e221a7f6f22d2e9"
+    },
+    {
+      "slug": "s13-e21-gianna-sealed-together-forever",
+      "season": 13,
+      "sha256": "1a63d7ace40721dc5e20becef40e5a229c2d2666563835421062688bf39e0346"
+    },
+    {
+      "slug": "s13-e22-gianna-lock-the-doors",
+      "season": 13,
+      "sha256": "383b6832834f4aa04d8da0c82a4758b702af80bdd8c6eb4f649cca6494f747a6"
+    },
+    {
+      "slug": "s13-e3-odessa-like-a-trophy",
+      "season": 13,
+      "sha256": "640b8254b057c96c80bb7994f3acbaad71d311154328c82b7c18cb96e7ddc029"
+    },
+    {
+      "slug": "s13-e4-odessa-the-mask-came-off",
+      "season": 13,
+      "sha256": "e697ca1b09c68c4840edc6216729b69884bf5171c037596086c677bf1d0f02ea"
+    },
+    {
+      "slug": "s13-e5-natalia-kinda-sorta-yeah",
+      "season": 13,
+      "sha256": "dd52d7601a7aea3c5e8a7951a91156851ca9239a8e2d98e51a06745664bc3af4"
+    },
+    {
+      "slug": "s13-e6-natalia-absolutely-terrified",
+      "season": 13,
+      "sha256": "1f615bd5c653c4739f7993242961301a858bec34cae3b96a8d26298c99186e4d"
+    },
+    {
+      "slug": "s13-e7-ruksana-radicalized",
+      "season": 13,
+      "sha256": "15603497993b6f263dcb8cad56127104337065a63aceaf391f28abdbf2dac05b"
+    },
+    {
+      "slug": "s13-e8-sage-this-guy-is-intense",
+      "season": 13,
+      "sha256": "c46ca068c1c22c22089e61e3d9441510701456baf53177e0f58a6d11d81bbd9b"
+    },
+    {
+      "slug": "s13-e9-sage-the-hinge-hustler",
+      "season": 13,
+      "sha256": "954b03b648c907e4cde7c9579871c537672bb4d7f592ea02c00695fc03de325a"
+    },
+    {
+      "slug": "s13-ep10-whitney-code-pink",
+      "season": 13,
+      "sha256": "db0d9ec3ab3a638be3b28c94e7d8d1e4b1dead2a36e87eaa37033a4655d11f73"
+    },
+    {
+      "slug": "s13-ep12-zoe-i-just-thought-you-should-know",
+      "season": 13,
+      "sha256": "10eac5067c3dffede2ac1cd0a716420f69b5122b80b89cc52f809c753c47d7d4"
+    },
+    {
+      "slug": "s13-ep13-zoe-escalating-and-escalating",
+      "season": 13,
+      "sha256": "d28572d635a8fd939c85e6875a5d60f4a46d49c6f1f0e065c367fef6565dab23"
+    },
+    {
+      "slug": "s13-ep20-arya-to-protect-and-serve",
+      "season": 13,
+      "sha256": "418ddada991e4fa0f2f4d79236708f3e631a3646e75cf8d28f268a907fa56186"
+    },
+    {
+      "slug": "s14-e1-his-moods-really-swing",
+      "season": 14,
+      "sha256": "e7219a552102b7c49c2016b479b4dc28e63561ffce4e127f42c0351642b5601f"
+    },
+    {
+      "slug": "s14-e10-a-very-bad-person",
+      "season": 14,
+      "sha256": "daacf3c65993684c5ebf685188e189d5af31d5b850b4d2a28aded2a6f0de2df2"
+    },
+    {
+      "slug": "s14-e11-being-soft-is-hard-as-fck",
+      "season": 14,
+      "sha256": "8808897e15dd77200039a7dc29da18c3f2134cf0403c0ec57d0b3136697804be"
+    },
+    {
+      "slug": "s14-e12-classic-jake-bullsht",
+      "season": 14,
+      "sha256": "e609174140db09120aef6ad86f084e053181ea4e0387c5f64d97a4a84568566e"
+    },
+    {
+      "slug": "s14-e2-complete-and-utter-coercion",
+      "season": 14,
+      "sha256": "4afcb998f531dec3d878b7b511d13e732dac09e6765a5da69ada5806220d61f6"
+    },
+    {
+      "slug": "s14-e3-oh-here-we-go",
+      "season": 14,
+      "sha256": "f2374e96a77d0af5a7e90b7012435dd57428e265d219143f65dc58e025d8a558"
+    },
+    {
+      "slug": "s14-e4-next-level-evil",
+      "season": 14,
+      "sha256": "7fc325b8ecf15a4de3d5a816d091ae18c5a09f5f3553af855cbdcfcf20fb21a1"
+    },
+    {
+      "slug": "s14-e5-what-a-fcking-psycho",
+      "season": 14,
+      "sha256": "e1623807e35f67cd0836b59ada6a568da7fe39afced8f45a9a571e23a80290ae"
+    },
+    {
+      "slug": "s14-e7-this-is-a-dog-that-bites",
+      "season": 14,
+      "sha256": "c5f2481cec7fe5fd9202f1414e7a8d913e582508d3dadb6e8c0f2af141d7e74c"
+    },
+    {
+      "slug": "s14-e9-mind-fck",
+      "season": 14,
+      "sha256": "8a5c3931df921077f9a0a8872e273e6c48854c428c35d8291c8cacb281868043"
+    },
+    {
+      "slug": "s14-ep13-wcn-presents-kaylan-melissa-sww-s14-updates-part-1",
+      "season": 14,
+      "sha256": "cd22eb32cf5cc74e1e9f762867226e90401fa73e14caefb1a3562ada90134e01"
+    },
+    {
+      "slug": "s14-ep14-wcn-presents-kaylan-melissa-sww-s14-updates-part-2",
+      "season": 14,
+      "sha256": "ce329ffdf9bd2ab3088d2360568320e1c0b8ae5c91d7dd85f2f172f0d53fa306"
+    },
+    {
+      "slug": "s14-ep6-full-force",
+      "season": 14,
+      "sha256": "d1b28924667976963589ebf8bb85179df54effd2a53e4af048eb1bf5830608db"
+    },
+    {
+      "slug": "s14-ep8-we-went-public",
+      "season": 14,
+      "sha256": "ba14e708918a611fde1cbab9dbf450a339d289529f9c33312148a8a1b5a34c11"
+    },
+    {
+      "slug": "s15-e1-holly-madison-theyre-not-bobbleheads",
+      "season": 15,
+      "sha256": "289df85a006d616e6c51153c4cacdae2765993663a911b569baadf157b055b33"
+    },
+    {
+      "slug": "s15-e10-what-came-next-presents-sww-s9-updates-part-1",
+      "season": 15,
+      "sha256": "fd082d905ede63c6da5b34f640652e10ab3ae51d1e1cc61f7ffaa05430883db9"
+    },
+    {
+      "slug": "s15-e11-what-came-next-presents-sww-s9-updates-part-2",
+      "season": 15,
+      "sha256": "cd0103eabd103c82e712d0679a4b1f522fe59128e252f2c1bd1dede21588a474"
+    },
+    {
+      "slug": "s15-e12-consent-awareness-network-consent-in-our-lives-and-laws",
+      "season": 15,
+      "sha256": "469ab3515405274be249be2f9fce1dcf76efb1aa961d4067e697dff22d3d3d3f"
+    },
+    {
+      "slug": "s15-e13-what-came-next-presents-sww-s7-updates",
+      "season": 15,
+      "sha256": "6cc437662ea603f4995c281156589a07a8f1841a4ca366373a856ab4e6ad38d2"
+    },
+    {
+      "slug": "s15-e2-valentina-wait-youre-supposed-to-help-me",
+      "season": 15,
+      "sha256": "cb433e8705a7993e99dd54dbc14bc70cfca1d428fd6f234bd638f10468a6c41d"
+    },
+    {
+      "slug": "s15-e4-alice-john-naomi-the-wheels-fall-off",
+      "season": 15,
+      "sha256": "b1de201d29843bffdcf23d743fec00217d9ca3b34d3263ec84d6736141c304ff"
+    },
+    {
+      "slug": "s15-e5-diana-the-devil-in-disguise",
+      "season": 15,
+      "sha256": "8370753898393ce49b4026cbaa9d24ff680e6c867336e8b8924a490974bead6a"
+    },
+    {
+      "slug": "s15-e6-jenna-jean-laughing-through-the-pain",
+      "season": 15,
+      "sha256": "8626cfd78709a2c547b6a7d7165bc615458fdab0ee80274b2c6b0d682d9a2f61"
+    },
+    {
+      "slug": "s15-e7-emilia-you-just-need-me",
+      "season": 15,
+      "sha256": "e5c5f2eac6f48e3cfda105c8cf304baec28fe4da9f4db433c585e0c79bbe6ef6"
+    },
+    {
+      "slug": "s15-e8-lex-fitzgerald-actively-seeking-to-cause-us-harm",
+      "season": 15,
+      "sha256": "92f971c613a65b78283bfe6b7dacc79a243ba15077f48fd0a4fe2aa6b57eb190"
+    },
+    {
+      "slug": "s15-e9-lex-fitzgerald-willfully-maliciously-and-repeatedly",
+      "season": 15,
+      "sha256": "4ec1e8dce6055f2185b0bfff28e5a9c7263307d11afe95ef559cb869c15fb94d"
+    },
+    {
+      "slug": "s15-ep3-alice-john-naomi-you-wouldnt-believe-it",
+      "season": 15,
+      "sha256": "b06f64f265c3c5648d82df88615f5e44c99f3466102dcf1565ef157f5913fc0e"
+    },
+    {
+      "slug": "s16-e1-spoiler-alert-its-all-fcked-up",
+      "season": 16,
+      "sha256": "6cdf3e1f00455370f2383d9db77f23742baf17d8e29acae15a9ad44f2d098e74"
+    },
+    {
+      "slug": "s16-e10-tikkun-olam",
+      "season": 16,
+      "sha256": "0bace1f0574e5348dd8958f4853815d70ac414d46d898d61e381638f2b976fae"
+    },
+    {
+      "slug": "s16-e11-qa",
+      "season": 16,
+      "sha256": "b1314a112fe0b67823391369d62243ca16a9481607060105063600d44f33ad19"
+    },
+    {
+      "slug": "s16-e2-raised-by-wolves",
+      "season": 16,
+      "sha256": "d61cb4c8c45b279c7dcb3a2dc5ed9b62dccaf30736daa066beb7f4335dc13345"
+    },
+    {
+      "slug": "s16-e3-something-was-wrong",
+      "season": 16,
+      "sha256": "76944d85bc69a58dc9d27ccf00266ad07a4017572ce5f54e3e79c12a482d42da"
+    },
+    {
+      "slug": "s16-e4-knock-at-the-door",
+      "season": 16,
+      "sha256": "59210dc5aa1917e9b93cce2e0d19cf3083c448d82996d618cbd956a08c8ee8a3"
+    },
+    {
+      "slug": "s16-e5-paperwork-fckery",
+      "season": 16,
+      "sha256": "7f16ee3da49471f8be50547ac5b0adf1746dd356a4bfa899a2ffd9134d8de8dc"
+    },
+    {
+      "slug": "s16-e6-cons-gonna-con",
+      "season": 16,
+      "sha256": "3906e767f81ae737149996c30af13cc697933945b609db9d18704f2a5dc939d3"
+    },
+    {
+      "slug": "s16-e7-5150",
+      "season": 16,
+      "sha256": "13d26db7fc500b45a56dcbfc2d57fc71ff2c3fbfd548e3bf60a62cc6047cd7c8"
+    },
+    {
+      "slug": "s16-e8-memories-for-blessing",
+      "season": 16,
+      "sha256": "0c7a8b18adaf7c298a663f565190ef496078c1849f0587d30705a64b8575a045"
+    },
+    {
+      "slug": "s16-ep9-taking-up-space",
+      "season": 16,
+      "sha256": "ed46ce20b74fe1dfaf92f6ceed335059110ff86f24365775206e6ba382bf1713"
+    },
+    {
+      "slug": "s17-e1-s17-trailer",
+      "season": 17,
+      "sha256": "4df9809ed0ab9b75f0a13856074fb2fbe8e51dbea074734c9555585581762786"
+    },
+    {
+      "slug": "s17-e1-something-magical-about-him",
+      "season": 17,
+      "sha256": "857fb3a409a0416d304648e857580e9127b5adf4f829818c28d978ca9540472e"
+    },
+    {
+      "slug": "s17-e2-be-very-concerned",
+      "season": 17,
+      "sha256": "c67ad7ce2f86adefefa17213c2665fb88a76c4c1497267130913827b38187599"
+    },
+    {
+      "slug": "s17-e3-living-in-a-nightmare",
+      "season": 17,
+      "sha256": "b570579851b49d705acbc2a6c4b148499f10e59cb2af9e931a09bcedb4e55b1c"
+    },
+    {
+      "slug": "s17-e4-pure-evil",
+      "season": 17,
+      "sha256": "cbc70ab9d0ec5dac79299fb59ea6864fc51fc954e1d40341dc0bd34ef6459bc3"
+    },
+    {
+      "slug": "s17-e5-verdict",
+      "season": 17,
+      "sha256": "b4bdee3a10c42d2e1eb775b0e5a24aafc87b1598da912415cb5b986ce7c15dea"
+    },
+    {
+      "slug": "s17-ep6-healer",
+      "season": 17,
+      "sha256": "da4b066c4a261f1338e4460b5c2705d95ae579577f4354f988c7e2f08ebf2603"
+    },
+    {
+      "slug": "s18-e1-alexis-youre-not-alone",
+      "season": 18,
+      "sha256": "64ac4032f07e72d5bc87f70a51908e1a09cdddbd85972e57c1be60830afa64bc"
+    },
+    {
+      "slug": "s18-e1-s18-preview-karissa-alexis-gaby",
+      "season": 18,
+      "sha256": "5443b41fcef2fbd4cb92c9cb661a4d5e0960e6af6d3c03fab300860b038d1e62"
+    },
+    {
+      "slug": "s18-e10-chris-williams-silence-is-ridiculous",
+      "season": 18,
+      "sha256": "a6736c81fbd8d97af0502a682588d36e59813f87ed0a1b1db35627d04355c8d2"
+    },
+    {
+      "slug": "s18-e11-tyler-dont-tell-anyone",
+      "season": 18,
+      "sha256": "bdeccee30e733962683f577f7c0e21ccd0594215d76a786d0940d9172ac62151"
+    },
+    {
+      "slug": "s18-e12-tyler-shane-connelly-believe-victims-more",
+      "season": 18,
+      "sha256": "fa06dc6738e0b6d12f1c9d057b1376b5232570da86a8d06309c1050a20da7705"
+    },
+    {
+      "slug": "s18-e13-jimmy-andrew-anthony-everyone-lets-gather-around-the-dumpster",
+      "season": 18,
+      "sha256": "16dce866ff002bdde3a2e88b0cbdab96aaec0c19fb8e2c7b7ef3f8b45c58e104"
+    },
+    {
+      "slug": "s18-e15-autumn-he-needs-to-be-stopped",
+      "season": 18,
+      "sha256": "0700b90185fef555859d5ef22acaf772590c33de9b6aea1a17cec9a8191489e9"
+    },
+    {
+      "slug": "s18-e2-karissa-yeah-shes-done-that-before",
+      "season": 18,
+      "sha256": "cf71cf524ef2e06eede06520d8e1480dc2fe6be90ad91b37e6d4ac188fddbb92"
+    },
+    {
+      "slug": "s18-e3-karissa-just-vibing",
+      "season": 18,
+      "sha256": "34422d0a9749e0ce2a87a5e88ac49bee0e30ec0a87e4e72ed20da779eb08d3ba"
+    },
+    {
+      "slug": "s18-e5-seanna-how-is-there-more",
+      "season": 18,
+      "sha256": "22600880de746b6a0f4552a6e5aaacc2aaa38ab610f08e457f23985ac629a086"
+    },
+    {
+      "slug": "s18-e6-amy-amy-s-very-calculated",
+      "season": 18,
+      "sha256": "2bc84a94cc35391c4eb9944766de8b0642fd1d844c66c77b4343f792507806f2"
+    },
+    {
+      "slug": "s18-e7-amy-s-audrey-birth-fetish",
+      "season": 18,
+      "sha256": "27d7a135d08b962f2a044acc2d476fdb9b17d11aa9d3ec062dc6418fe916bdf6"
+    },
+    {
+      "slug": "s18-e8-audrey-amy-s-amy-theres-not-a-single-human-immune-to-being-manipulated",
+      "season": 18,
+      "sha256": "8486f721a730f947b91df6c78f8a6872375d21310937d81f6d372045438fd283"
+    },
+    {
+      "slug": "s18-e9-gaby-beyond-the-shame",
+      "season": 18,
+      "sha256": "79219cffee807aa6b6a7c65366c908d963e988bb0529ac80fbacbb25aede76b8"
+    },
+    {
+      "slug": "s18-ep14-22-jimmy-andrew-anthony-its-from-the-heart",
+      "season": 18,
+      "sha256": "dccf86ba58afc339b9557807c8c463290797ffb3855f52b3beb50a7e1b553c13"
+    },
+    {
+      "slug": "s18-ep4-37-karissa-seanna-my-jaw-was-on-the-floor",
+      "season": 18,
+      "sha256": "54432020d950f3afaf7cd943e2bd2930cd67ae25c9a000d8803aff53a79d149a"
+    },
+    {
+      "slug": "s19-e1-amy-the-night-that-everything-changed",
+      "season": 19,
+      "sha256": "60552177a1c0ddb83a025af68ff68a1b428c70eb137aa31a9633044a8d6209fb"
+    },
+    {
+      "slug": "s19-e10-wcn-presents-sww-s14-updates-part-2",
+      "season": 19,
+      "sha256": "6890a9f163316a1997f454fc764a9b51f9528339b10ab177bcee9085cc3a9b9f"
+    },
+    {
+      "slug": "s19-e11-community-catch-up",
+      "season": 19,
+      "sha256": "d8fc7ac4b3f713de2a1c38e992726facb91110f055108876631790ffeef78ddb"
+    },
+    {
+      "slug": "s19-e12-12-jennifer-khalifa-cpedv-the-absence-of-trauma-is-choice",
+      "season": 19,
+      "sha256": "a87091439e64e322c60d801524973f0c24eaf7d50454e9089059c7b877bed2d4"
+    },
+    {
+      "slug": "s19-e13-22-jennifer-khalifa-cpedv-prevention-is-synonymous-with-healing",
+      "season": 19,
+      "sha256": "4c4e27e8448e05a31cfffc3ae9910e418b38cbcd707e450d021e556be2281635"
+    },
+    {
+      "slug": "s19-e14-lenora-claire-i-caught-my-own-stalker-finale",
+      "season": 19,
+      "sha256": "b1eb2020a74c4cbc66d189c17f3c379bbf763f6c2d76bcc38b60d13196cd5c75"
+    },
+    {
+      "slug": "s19-e2-amy-creeping-round-my-backstairs",
+      "season": 19,
+      "sha256": "938fdea4639b9cd08f37d1e148321d4a4addf41df3c5d73ad05fafcaad5931af"
+    },
+    {
+      "slug": "s19-e3-amy-fueling-the-fear",
+      "season": 19,
+      "sha256": "4fb5884093806bd2fe7226159205c93e9aa2392762101956b35d1fc674f01e39"
+    },
+    {
+      "slug": "s19-e4-45-amy-the-mystery-was-gone",
+      "season": 19,
+      "sha256": "8078b9ee1a5cd2e127a698385607c55cc5637ae1bc0c37a8e2513e12b1437497"
+    },
+    {
+      "slug": "s19-e5-55-amy-overcomer",
+      "season": 19,
+      "sha256": "e238af7224ab37fb136a4785971e1e8e5a03fd92fb90ff47f0bd5d3161f44283"
+    },
+    {
+      "slug": "s19-e6-sarah-the-color-left-his-eyes",
+      "season": 19,
+      "sha256": "d2c6cb0f69d51fcb5809fab48fb9c208f2ff11adea4e89e9cf6bdcbcbb492a7e"
+    },
+    {
+      "slug": "s19-e7-23-sarah-run-girl-run",
+      "season": 19,
+      "sha256": "19b42ffba580ce406021b12f93b8870a125e396bc328bf3dae49be43e60b97ec"
+    },
+    {
+      "slug": "s19-e7-data-points-racism-featuring-leron-barton",
+      "season": 19,
+      "sha256": "9b5d5a4c7c59222e4cf134f2d62cadd1f7028b46317b0d1233aad53a8339e37e"
+    },
+    {
+      "slug": "s19-e8-33-sarah-taking-your-power-back",
+      "season": 19,
+      "sha256": "2a7af0fe179ab1e94d8315dbcb3952e441b387a7cc8db11c9e8f5729cc3c4e1c"
+    },
+    {
+      "slug": "s19-e9-wcn-presents-sww-s14-updates-part-1",
+      "season": 19,
+      "sha256": "c5be3de657d858fd1bc7dea9dd9faa058b8084cadf6761823c09803f78536e3b"
+    },
+    {
+      "slug": "s19-trailer",
+      "season": 19,
+      "sha256": "8f9ea57b33ffed73a913d277bc8d80e963bd2189506d64fa330b524112e75e76"
+    },
+    {
+      "slug": "s2-e1-she-had-the-medical-mind",
+      "season": 2,
+      "sha256": "ceb5cbb6c494cca48a2b7edef054bb2aaf8b0f0fddc5543c24c6677435e53d75"
+    },
+    {
+      "slug": "s2-e3-wanted-to-die-pretty",
+      "season": 2,
+      "sha256": "cd3a9522d90c6161f3679378c5418a814bc47514f8a60949fbb12d44f6fafe18"
+    },
+    {
+      "slug": "s2-e4-life-isnt-always-fair",
+      "season": 2,
+      "sha256": "b6f59525f816740a6bae3551a8cfb54fa2785b5080abb3c632ea72338c6913d8"
+    },
+    {
+      "slug": "s2-e5-devastated-in-the-wake-of-your-delusions",
+      "season": 2,
+      "sha256": "3a6293eb95965409dda68ef244b7333d970a0a765b861dc8857f6659eebed6ac"
+    },
+    {
+      "slug": "s2-e6-it-was-horrific",
+      "season": 2,
+      "sha256": "7bf96a1ab633f8fd5283a8e4677b40de43d18a21724b9f3a5098dd498e351839"
+    },
+    {
+      "slug": "s2-e7-somebody-i-love-is-so-sick",
+      "season": 2,
+      "sha256": "8b5591ca0ac342dc7cde372f7d179c884ad72b1dbd186f882667ffecc975970c"
+    },
+    {
+      "slug": "s2-e8-season-2-q-a",
+      "season": 2,
+      "sha256": "5e748aeffac6b36232db69e6eb43497debbcbe1d77c6d9648271e802f3a098c8"
+    },
+    {
+      "slug": "s2-ep2-strange-ailments",
+      "season": 2,
+      "sha256": "7d4d9da4d679f21a245824be3f8694831229ba2c85d47663565e75f728a2bf2e"
+    },
+    {
+      "slug": "s20-e1-preview-s20-becoming-brody",
+      "season": 20,
+      "sha256": "71c8afbe65da5de8df264c2d0a7d181a1ce382ae0fe6164ef7949c9e07ab5b9f"
+    },
+    {
+      "slug": "s20-e1-theres-no-way",
+      "season": 20,
+      "sha256": "9d36666e7138e4896b24e8b0345a1819a09c56b88854a0d3f1e4d50a2008a1de"
+    },
+    {
+      "slug": "s20-e10-i-have-so-much-proof-its-insane-babygirl",
+      "season": 20,
+      "sha256": "872c69419af540133384b63413577df5422f7f140bf7f82628aacde3885f4dec"
+    },
+    {
+      "slug": "s20-e11-finale-part-1-shes-a-loose-cannon",
+      "season": 20,
+      "sha256": "3cae195ee9b4a7d5bf5444fe68992013d11526a4df0a293d446c7ad7d0b346f2"
+    },
+    {
+      "slug": "s20-e12-finale-part-2-we-wont-stop-fighting",
+      "season": 20,
+      "sha256": "8a73d8328a403dc1902c3448b8284fcb1b5d2da2efe2169d2f4947d93a4aeed8"
+    },
+    {
+      "slug": "s20-e13-data-points-minority-mental-health-featuring-dr-corey-emanuel",
+      "season": 20,
+      "sha256": "d9bc59f08de892d6742a6d92cc3206da4b6425a5759de86f4bd8927aa66b172a"
+    },
+    {
+      "slug": "s20-e2-brody-is-going-to-get-you-every-time",
+      "season": 20,
+      "sha256": "dd959a82eb840f5b49e896723b3110eec39ee618597cd409eff516e2dd5dc282"
+    },
+    {
+      "slug": "s20-e3-dont-wake-the-bear",
+      "season": 20,
+      "sha256": "6fb946746e697266089698411a93120ad7c1a23284c83e4743b4fcb1232aa12c"
+    },
+    {
+      "slug": "s20-e4-fake",
+      "season": 20,
+      "sha256": "b82eab223bd944e4e6dddf60ae8d61f06a331a8c2ce41155e391af65b3dd4083"
+    },
+    {
+      "slug": "s20-e5-evil-to-her-core",
+      "season": 20,
+      "sha256": "2602123b621953aa4130c76b00b14df303f60934ce6e4d79c4998b0d2631d4b0"
+    },
+    {
+      "slug": "s20-e6-rot-in-hell",
+      "season": 20,
+      "sha256": "ddf6cace125a9ad169904c24901dd6d3b6c4974d693c142dc7e8424d2d31909b"
+    },
+    {
+      "slug": "s20-e7-the-confession",
+      "season": 20,
+      "sha256": "2b2357ced5322cdeeaf844f2147870e29f0512fff4eb90c07ef81b7384399950"
+    },
+    {
+      "slug": "s20-e8-what-the-fck-happened",
+      "season": 20,
+      "sha256": "eb56d14332f80e979f94ac7b2d43438588ae0530457a66af1320fda64a3a3a43"
+    },
+    {
+      "slug": "s20-e9-the-real-brody",
+      "season": 20,
+      "sha256": "6b098ed68ccc5695f470eb2dcab3658ac3ab09735a13c875acd3417cb44881a7"
+    },
+    {
+      "slug": "s21-e1-12-gwenevere-innate-dignity",
+      "season": 21,
+      "sha256": "9a0833efe2902f778e78134ab6e9d5db4b4ee49e1ab7c2e2540c9efd37b6cd0b"
+    },
+    {
+      "slug": "s21-e10-24-jubilee-signs-wonders",
+      "season": 21,
+      "sha256": "f05b25a4e55ea36adbb2356e7728e92bda1a8cc372158555d13249498fcb4dfc"
+    },
+    {
+      "slug": "s21-e11-34-jubilee-words-of-knowledge",
+      "season": 21,
+      "sha256": "2635b2fedb04ea5df0008fb0d7d3143a9b1e38e99a731c8251ce77f451ac67b9"
+    },
+    {
+      "slug": "s21-e12-44-jubilee-dead-raiser",
+      "season": 21,
+      "sha256": "36ba201f37ed7a25855de4a3250b45189195347caa5fe200414d48c586add2e3"
+    },
+    {
+      "slug": "s21-e14-24-annie-lauren-rachael-a-big-joke",
+      "season": 21,
+      "sha256": "4c53c5970fb7c7e41ceed6ad619555fe32d86850df22752f4af1e03feb971409"
+    },
+    {
+      "slug": "s21-e15-34-annie-lauren-rachael-i-know-about-the-deepfakes",
+      "season": 21,
+      "sha256": "f5212e1e40301a7da71d62dad1e7def82ad9e6e42e03eb0cb7a3492e354f4450"
+    },
+    {
+      "slug": "s21-e17-data-points-deep-dive-the-history-and-importance-of-voting",
+      "season": 21,
+      "sha256": "033dc1aca71e4da130c8631091ab077981ce3174dbe502a80bc9f0b01ffc51d5"
+    },
+    {
+      "slug": "s21-e18-sww-x-wcn-s20-s18-s7-case-updates-reflections",
+      "season": 21,
+      "sha256": "f8dc1a4ff409a1ba79069a9f5a33c9e993b8f581f2a05eb3d27b7d3e53a74529"
+    },
+    {
+      "slug": "s21-e2-22-gwenevere-collective-power",
+      "season": 21,
+      "sha256": "61b843af746370d4d4ad36146a42a638d2b25de17057851693edc7eb260177c8"
+    },
+    {
+      "slug": "s21-e3-12-michelle-you-look-fine-to-me",
+      "season": 21,
+      "sha256": "f5ef67a6745043c49ad19a9f3a4a6bb744c3ea1dc51e1196869f5cae38100563"
+    },
+    {
+      "slug": "s21-e4-22-michelle-loose-lips-sink-ships",
+      "season": 21,
+      "sha256": "0739e57957f682518ec78295e7932c7ab77174539b4159f6ed0ccf28fd67566c"
+    },
+    {
+      "slug": "s21-e5-12-emma-mind-games",
+      "season": 21,
+      "sha256": "2f798799b8c80fbf00d8e2da35bd673da71028f4021e6fd016e44d9fd624ade1"
+    },
+    {
+      "slug": "s21-e6-22-emma-choose-peace",
+      "season": 21,
+      "sha256": "02f3aa118d03a3865b77bcc5b09bd03f98a7d11a58898cfad942537f07b5d114"
+    },
+    {
+      "slug": "s21-e7-12-krystyn-ronald-blood-is-a-monster",
+      "season": 21,
+      "sha256": "6b5e8826e2f0cc46b6e6c9d9885f7ae9f0c0f92367bda0f163a6f1c2a135a107"
+    },
+    {
+      "slug": "s21-e8-22-krystyn-i-feel-the-need-to-fight",
+      "season": 21,
+      "sha256": "15cddb8c1f35785f5b66660f97dfe6e5a30627ce56a18d64b335b8ce60699e72"
+    },
+    {
+      "slug": "s21-e9-14-jubilee-bethel-school-of-supernatural-ministry",
+      "season": 21,
+      "sha256": "a7a7b6de934006595f12078d735b70de01b87f7766aa1c5961376783e6ffe099"
+    },
+    {
+      "slug": "s21-ep13-14-annie-lauren-rachael-deny-deny-deny",
+      "season": 21,
+      "sha256": "6f6163013912749508475e3f98208f6c11b48f348e54924fc818ade23fd4f40e"
+    },
+    {
+      "slug": "s21-ep16-44-annie-lauren-rachael-this-can-happen-to-anyone",
+      "season": 21,
+      "sha256": "2bd51c73b56462e142ab8b23616e4fa50e3deaf81baf0c0d90fcfa8ab632c45c"
+    },
+    {
+      "slug": "s21-ep19-searching-for-florence-okpealuk-and-joseph-balderas-with-payne-lindsey-of-up-and-vanished",
+      "season": 21,
+      "sha256": "6844741b0a0a0d8c7bfeefbe24a83f2cc8a1c57fed8280b5d8333b8f696ae774"
+    },
+    {
+      "slug": "s21-trailer",
+      "season": 21,
+      "sha256": "6833644d6571164c649f28c323b4b0159cc4d5685d43b2c6d3f9a556ce626b40"
+    },
+    {
+      "slug": "s22-e1-morally-and-ethically-repulsive",
+      "season": 22,
+      "sha256": "387d84e4c0932563e59d5280b48752362acea0aeceba8bd230777003b95f2776"
+    },
+    {
+      "slug": "s22-e1-s22-trailer",
+      "season": 22,
+      "sha256": "525b40a32d5d1a9bb43ba7aab1fb4e374082477dcfa858ad2e02b1f8bc1ac49f"
+    },
+    {
+      "slug": "s22-e10-indiana-delvey",
+      "season": 22,
+      "sha256": "4ff70382b2c9543070ae2196cb76d6121ddcb9ba60b2e52783ec5e5cfd2c4994"
+    },
+    {
+      "slug": "s22-e11-double-down-finale-part-1",
+      "season": 22,
+      "sha256": "6ba320dae473421cc9e3282320489f15bdbc8d2e90a7a9bb2b5a3cd165be291f"
+    },
+    {
+      "slug": "s22-e12-tip-of-the-iceberg-finale-part-2",
+      "season": 22,
+      "sha256": "7c40ab0dfcad581da50923e65c8898aa900fef2a9b2358402b574bbddcf1dd1e"
+    },
+    {
+      "slug": "s22-e13-truer-crime-with-celisia-stanton",
+      "season": 22,
+      "sha256": "b20e85bf911619206facb9f8dd1a5cee3ffbb7053958be264cb9239cb2c53265"
+    },
+    {
+      "slug": "s22-e2-increasingly-strange",
+      "season": 22,
+      "sha256": "c2f2d6637c19c68ca2fd045cde42e35e5900b96d9f5c40a4e953799340af31ae"
+    },
+    {
+      "slug": "s22-e3-murder-for-hire",
+      "season": 22,
+      "sha256": "584630d630cdc2ce55fc31fbae6ef36fe8fefdeb850e9808a591ccc6a6749948"
+    },
+    {
+      "slug": "s22-e4-apparently-all-i-do-is-lie",
+      "season": 22,
+      "sha256": "d6a5d1abcd107bcb8a253050dbd1e0c1a621b2cd8617964f7f098e68442396de"
+    },
+    {
+      "slug": "s22-e5-self-made-woman",
+      "season": 22,
+      "sha256": "23e4af3a4bc3f3da7216515f64e85095aef4ac76e4499ef2280e9a6011cb350e"
+    },
+    {
+      "slug": "s22-e6-a-weak-bridge-collapses",
+      "season": 22,
+      "sha256": "68bfd86b5c571a0d0f276474182b19777b71fb8a87eee6701462686c949f4f8b"
+    },
+    {
+      "slug": "s22-e7-scam-the-scammer",
+      "season": 22,
+      "sha256": "3bc3f1e8e7a86b8738d184f71c80fa119e21c1b6e68a9bda91dbed98a1d30db1"
+    },
+    {
+      "slug": "s22-e8-we-got-her",
+      "season": 22,
+      "sha256": "869b9ffc8f490a97fe3298656af24e280f829789d9eb5cf4b309c9d1dc7f1246"
+    },
+    {
+      "slug": "s22-e9-how-dare-you",
+      "season": 22,
+      "sha256": "6b19a0ef1abcf5113e83b89bafdc12699df99c3d7838145375d849d792457c6d"
+    },
+    {
+      "slug": "s23-e1-built-to-birth",
+      "season": 23,
+      "sha256": "31b2d351a908086a0f8d25d60d96ad5bb4e6971400f9e0b17839627a3852cf79"
+    },
+    {
+      "slug": "s23-e11-the-moment-that-everything-changed",
+      "season": 23,
+      "sha256": "b7a06b10b72badf983457d762c3c7d6c6482b3c64a968fd4c6f37d62ad9029cc"
+    },
+    {
+      "slug": "s23-e12-tuff",
+      "season": 23,
+      "sha256": "43770eeb2a77accad5ca882fdb32ae5ab3917e76db3a01cd51645f05438e4030"
+    },
+    {
+      "slug": "s23-e13-origins-shit-show",
+      "season": 23,
+      "sha256": "94e0524477686e9450497fce4528fb636b45fe29f86b6342eb80c668d690e470"
+    },
+    {
+      "slug": "s23-e14-black-maternal-health-and-reproductive-justice-with-dr-ndidiamaka-amutah-onukagha-phd-founder-cbmhrj",
+      "season": 23,
+      "sha256": "86f88b49f16e698f758b9641f635efb8790c535ebae3fea794c8858a401f789b"
+    },
+    {
+      "slug": "s23-e14-s23-roundtable-with-mama-founders-kristen-markeda-and-dr-shannon-m-clark-md-facog",
+      "season": 23,
+      "sha256": "9a5a53ec6d642c0ba82043d37ee6b5b37c6cbdaabe93e28e04407e2a316b5fe3"
+    },
+    {
+      "slug": "s23-e19-bts-with-bcm-case-community-updates-with-the-bcm-production-team-part-3",
+      "season": 23,
+      "sha256": "52e1566c24177fe8625e005a936fdf54412c8fd37a5da14eee0a4a868a9949a5"
+    },
+    {
+      "slug": "s23-e2-life-threatening-emergency",
+      "season": 23,
+      "sha256": "d58fc93e505d0a897d943915bd4085bcdc25d45d840b77fc0878ecb8f12e0ea3"
+    },
+    {
+      "slug": "s23-e20-wcn-presents-john-callas-when-the-rain-stops",
+      "season": 23,
+      "sha256": "4386892c5912f0500f44f2e099114e78a965cdd59600681f19c67e8aa8adaa12"
+    },
+    {
+      "slug": "s23-e3-standards-of-midwifery-care-with-dr-amy-giles-dnp-cnm",
+      "season": 23,
+      "sha256": "af7bc7521fb2339e14ce75471aa21d200ea5da250e017bdacf69b976514a4889"
+    },
+    {
+      "slug": "s23-e4-hell-house",
+      "season": 23,
+      "sha256": "3c888f939a710975672ae7a77a73d54f8ae365c1ed2bedefa4afc4edb567464f"
+    },
+    {
+      "slug": "s23-e5-tragic-and-horrific",
+      "season": 23,
+      "sha256": "a58f68ea774c1da6a4de7b31acd80747462bfab504051f087be4d0dcd2112ab2"
+    },
+    {
+      "slug": "s23-e6-dignified-maternal-care-with-doula-melissa-espey-mueller",
+      "season": 23,
+      "sha256": "313de5c46b2d540011868793b5645d60528671df6625129b04b34c8d6395edad"
+    },
+    {
+      "slug": "s23-e7-how-did-we-get-here",
+      "season": 23,
+      "sha256": "d6e3618beff55cc313e0742ffc7b6c6bbec7c5b9ee20d95c351b0c6613686c92"
+    },
+    {
+      "slug": "s23-e8-life-and-death",
+      "season": 23,
+      "sha256": "802edd170192b07789f0f7f5d0447b1cc2fa3fcd3bdfd6db2c0ffa806b630581"
+    },
+    {
+      "slug": "s23-e9-bad-marriage",
+      "season": 23,
+      "sha256": "a9f231d51ff9c236eb9ae79b9bda3e4abf66a97ee82fe4895815a98a6ff1758b"
+    },
+    {
+      "slug": "s23-ep10-terror",
+      "season": 23,
+      "sha256": "05bec5c7e7b486fd9ad63546df33393a4658cf5fd15b10a4161dd2d8e0f59d3a"
+    },
+    {
+      "slug": "s23-ep16-money-will-take-over-finale",
+      "season": 23,
+      "sha256": "4ccf204d54f6826836f5588c779c0f9c7846a105fa1d9f2cf990fe5668e8fb99"
+    },
+    {
+      "slug": "s23-ep17-bts-with-bcm-case-community-updates-with-the-bcm-production-team",
+      "season": 23,
+      "sha256": "193f1c5fe70d57ccbcb3f473d00afa0b58543d008959f7c0f32f00180a53a67b"
+    },
+    {
+      "slug": "s23-ep18-bts-with-bcm-case-community-updates-with-the-bcm-production-team-part-2",
+      "season": 23,
+      "sha256": "c89d1f6605878538b4b5ce3304de740f82e3943a935dd6d4dcfbf302cf8b3f43"
+    },
+    {
+      "slug": "s23-ep20-wcn-presents-jubilee-sww-s21-e9-12-updates",
+      "season": 23,
+      "sha256": "2055af86e2db1953aca2386039cceabcc7b9fc864bf54a55ccd024bb7e73e4d0"
+    },
+    {
+      "slug": "s23-preview",
+      "season": 23,
+      "sha256": "4127c8fba909d3fe301490d8eaca1b8e03938335d4557cae00dbd0ae7eaa3c3b"
+    },
+    {
+      "slug": "s24-ep1-power-corrupts-and-absolute-power-corrupts-absolutely-2",
+      "season": 24,
+      "sha256": "4f2db0a560a76ef7f8ed7dd289ffa0abb3d94a962b749faae0588cea1e0f28d2"
+    },
+    {
+      "slug": "s24-ep10-my-own-mother-wasnt-going-to-save-me-2",
+      "season": 24,
+      "sha256": "a4898c24dd9e84ae545cca87f8ce1e28ed5d4832deb18ffc5ad2b6d568936445"
+    },
+    {
+      "slug": "s24-ep11-one-more-thing-to-be-scared-of",
+      "season": 24,
+      "sha256": "44135b6783cf518722928065593161a5878608599acc88986a6cb979953f52a5"
+    },
+    {
+      "slug": "s24-ep12-someone-who-believes-me-2",
+      "season": 24,
+      "sha256": "1be933559efe8967be58e98dc7aa04782144582d06a1b33c645fb7135dfb39c6"
+    },
+    {
+      "slug": "s24-ep13-how-profoundly-sorry-i-am-2",
+      "season": 24,
+      "sha256": "26dda7707bef92694a559b1cf491cdc5906c57dc5e65d93eee48dc346d969349"
+    },
+    {
+      "slug": "s24-ep14-horror-movie-2",
+      "season": 24,
+      "sha256": "7de61d6bbe0f81d6ab247fc9f7c3bebaf328a8b81b952e9559e712877609200a"
+    },
+    {
+      "slug": "s24-ep15-source-of-hope-2",
+      "season": 24,
+      "sha256": "772b6f74de272b1857672283266cb084c8433536f8040bdfd9f7d7b0a899dbd0"
+    },
+    {
+      "slug": "s24-ep16-attack-therapy",
+      "season": 24,
+      "sha256": "3419499461a9408f542c80f0fae562ad660b76852f4aeaf3822f999eba46b8f1"
+    },
+    {
+      "slug": "s24-ep17-wounded-2",
+      "season": 24,
+      "sha256": "ffea5720b3ccf77effb47353db36679dd1cdd6bc3a6430c2f1454f2045ac4e8a"
+    },
+    {
+      "slug": "s24-ep18-fear-driven-2",
+      "season": 24,
+      "sha256": "efc4242beb18cd95573ef03ed941d53af544b74f42bf988e1b66cbfed608cc05"
+    },
+    {
+      "slug": "s24-ep19-wanted-2",
+      "season": 24,
+      "sha256": "e271fe4031f6f056f2a3953a83bf3e10562954acc2414aa4ff8e312cb6132dbb"
+    },
+    {
+      "slug": "s24-ep2-unsilenced-2",
+      "season": 24,
+      "sha256": "42a47d71694efdd6c932baa6383b9fcd2d2b4ba8fce8cca6db23f669f6e865af"
+    },
+    {
+      "slug": "s24-ep20-extreme-2",
+      "season": 24,
+      "sha256": "3d486eccc3d320ea866b23496b36b5f36231a643b05bb9bf3c70cdf1d791d254"
+    },
+    {
+      "slug": "s24-ep21-a-lot-of-horsesht",
+      "season": 24,
+      "sha256": "b149882b0ef73f79b2dcda7f03e6e7d8c843942677781c6f4c03246a1b1b38be"
+    },
+    {
+      "slug": "s24-ep22-hold-up-a-mirror-2",
+      "season": 24,
+      "sha256": "493b4c80e198a9baedcbc6bc9d369f338e43c7aceebc58979528c278ecc96fb9"
+    },
+    {
+      "slug": "s24-ep23-your-money-or-your-childs-life-2",
+      "season": 24,
+      "sha256": "d5df1721eacc6eaf5f4f48df072ec088120e9dc860b8807fc453636611bfeca0"
+    },
+    {
+      "slug": "s24-ep24-finally-you-see-finale-2",
+      "season": 24,
+      "sha256": "5ddee84bf434137d364e6e8b463fdaaac27a0aefbac893f07150263c5287a6ec"
+    },
+    {
+      "slug": "s24-ep25-case-community-updates-2",
+      "season": 24,
+      "sha256": "1a4ea781e948598321dc58b5b8a6afd4ac0d134b1b352256ee2aff0fcfdbf2d0"
+    },
+    {
+      "slug": "s24-ep3-a-carcass-2",
+      "season": 24,
+      "sha256": "76156661790a338f3e168d497734bcd0f8073deaace319d78df8b756f7b29aef"
+    },
+    {
+      "slug": "s24-ep4-this-couldve-been-you-2",
+      "season": 24,
+      "sha256": "a8fcb912b67e7e69641ad03a613e4b28f64f8d10c2694611d5d6ec24d636b75c"
+    },
+    {
+      "slug": "s24-ep5-cognitive-development-in-adolescence-with-expert-dr-daniel-k-keating-2",
+      "season": 24,
+      "sha256": "078f3fc0d5cdee726afcaafadca531cc2d07c3db7ca298fe56de7cb50163ff6c"
+    },
+    {
+      "slug": "s24-ep6-an-accountability-letter-2",
+      "season": 24,
+      "sha256": "698a4cfc5ea205a1f49a5c8d6847444e6ddaba28e0e5474402a1bfddd4b59078"
+    },
+    {
+      "slug": "s24-ep7-for-profit-money-grabbing-bullshit-places-2",
+      "season": 24,
+      "sha256": "b7eac7c64bef6966a961c0ca3f7634083dc19edb4c522f0c472f7a4e6e012027"
+    },
+    {
+      "slug": "s24-ep8-you-are-not-alone-2",
+      "season": 24,
+      "sha256": "7d441206bffa4f7952c96e827737f44bbf74099977f4b2d9812a7a2d1905c79c"
+    },
+    {
+      "slug": "s24-ep9-adolescent-mental-health-with-dr-stephanie-hartselle-md-2",
+      "season": 24,
+      "sha256": "5e05b25f0a5068078aa20b46530294b98503610aa0e4740fe6c61c17b1259740"
+    },
+    {
+      "slug": "s24-wcn-presents-john-callas-when-the-rain-stops",
+      "season": 24,
+      "sha256": "a6f892ead7c24f9afd507e1fa8a5c2279cd9a23bcbbe46bccc731523dbb087c3"
+    },
+    {
+      "slug": "s25-ep1-something-is-terribly-wrong-2",
+      "season": 25,
+      "sha256": "3c287e31f19365efb450979e9f16ecdb9dea5f8a5a8d29a996a7656de20dcdfd"
+    },
+    {
+      "slug": "s25-ep10-connected-some-dots",
+      "season": 25,
+      "sha256": "6da67cfb5df136757b471111748b8aa8e4df0828832a3586679a5267e328df0c"
+    },
+    {
+      "slug": "s25-ep11-long-term-impact",
+      "season": 25,
+      "sha256": "0350fb427bdbbd8286fc935a99ce09cc151a9df69581b6bf89320ac542064570"
+    },
+    {
+      "slug": "s25-ep12-trauma-informed-sane-exams-with-kayla-hartman-msn-rn-fnp-bc-nysafe",
+      "season": 25,
+      "sha256": "fdd7cdfeb462df1fe70800d7cecb87157b0bc8a01b3fb89d3e480af684cfafcd"
+    },
+    {
+      "slug": "s25-ep13-chapter-3-help-me",
+      "season": 25,
+      "sha256": "3192173a449f2fbef5e0255e9b703f6ba0356d8c8eeb6f724c06f664df1d377b"
+    },
+    {
+      "slug": "s25-ep14-my-own-personal-olivia-benson",
+      "season": 25,
+      "sha256": "4829732a80108310dc66054c584466d665f09c6cd7884d4b00521e134c15886c"
+    },
+    {
+      "slug": "s25-ep15-the-truth-will-always-prevail",
+      "season": 25,
+      "sha256": "25365732b7de2f95ba56ea99a30cf8e468bf2de9fe9c114edbfc0862a0214f72"
+    },
+    {
+      "slug": "s25-ep16-your-voice-matters",
+      "season": 25,
+      "sha256": "37286ff073980974b0397f480a1d9b7735e96d04eb49cfb004911dee4a2c9052"
+    },
+    {
+      "slug": "s25-ep17-chapter-4-weaponizing-the-patriarchy",
+      "season": 25,
+      "sha256": "99072ed2f4d08d9d8c9884a8efb2e1337af14c53bcaa1c864eb3d4f8b40fa9c9"
+    },
+    {
+      "slug": "s25-ep18-better-for-the-next-survivor",
+      "season": 25,
+      "sha256": "439931f9beb50fd9a64dad7f7a519e274bba56018dd7ae8116a138896f7e6094"
+    },
+    {
+      "slug": "s25-ep19-chapter-5-you-are-valued-you-are-loved-and-you-are-here-for-a-reason-finale",
+      "season": 25,
+      "sha256": "a02b375d2a55494dcef5cb4b5086901d2e5fa587cb64f05726ac2961730fe0d1"
+    },
+    {
+      "slug": "s25-ep2-in-shock",
+      "season": 25,
+      "sha256": "5fea60a79ad36dde15eddc6b12f11977dad13657732a3a676b6ae1eaba43aa3b"
+    },
+    {
+      "slug": "s25-ep20-orchestrated-complexity-in-the-title-ix-system-with-dr-jacqueline-cruz",
+      "season": 25,
+      "sha256": "933b617576ea2c9f8cdbedf9c56d0f4b1d40a1c1aec8779dd0f23301389cf4a9"
+    },
+    {
+      "slug": "s25-ep21-answering-community-questions-with-dr-nicole-bedera-dr-kathryn-holland-dr-jacqueline-cruz",
+      "season": 25,
+      "sha256": "b7ca8f487c6ec860d02bc9aca3694999d6ff61338736ecb2f51b42130e69df34"
+    },
+    {
+      "slug": "s25-ep22-answering-community-questions-with-dr-nicole-bedera-dr-kathryn-holland-dr-jacqueline-cruz-part-2",
+      "season": 25,
+      "sha256": "f84cfd5a0cd5cf77838132b7d12f417e02b541edc4e09a2e84a5e45a4f56e83d"
+    },
+    {
+      "slug": "s25-ep23-bts-with-bcm-spring-2026",
+      "season": 25,
+      "sha256": "a4b50f6b2d1c0a0dba3f0d691a2946b7a74641903e26771d469b043a7926907a"
+    },
+    {
+      "slug": "s25-ep24-bts-with-bcm-spring-2026-part-2",
+      "season": 25,
+      "sha256": "89c5233be373fd4b73605ec4b80dfb8670a831ae093aa6cc97241838e5bcddf0"
+    },
+    {
+      "slug": "s25-ep25-wcn-presents-danny-cords-an-upstander-unto-yourself",
+      "season": 25,
+      "sha256": "da86482ebd255b1187e41fd707df199e03b736c80ff2f2732053f92856b84347"
+    },
+    {
+      "slug": "s25-ep3-she-will-do-great-things",
+      "season": 25,
+      "sha256": "2ac4497d46517de1a7ff13e849d1b43b98cafdb82813a6ceb5a2d4aa086f5ab1"
+    },
+    {
+      "slug": "s25-ep4-institutional-betrayal-how-title-ix-fails-survivors-with-dr-nicole-bedera",
+      "season": 25,
+      "sha256": "7a6b130fa6017500460cea1bbc88ab5b61d485f6a79648fa6f104684c5304fd5"
+    },
+    {
+      "slug": "s25-ep5-testing-me",
+      "season": 25,
+      "sha256": "da55c9994ec083670fc5a34b317a438c26d99284d518c4e86c2c46d879259b52"
+    },
+    {
+      "slug": "s25-ep6-humiliation-ritual",
+      "season": 25,
+      "sha256": "98610bd6e934ebe9dcad3805a758275f660ff37bd97b8021e2efb1ac1b078da4"
+    },
+    {
+      "slug": "s25-ep7-rethinking-mandatory-reporting-and-internal-processes-in-higher-education-with-dr-katherine-holland",
+      "season": 25,
+      "sha256": "f33c4810338b90ed9553fa146a195f66f836778a371497f9d6b4129fb31765ed"
+    },
+    {
+      "slug": "s25-ep8-fifty-and-a-feather",
+      "season": 25,
+      "sha256": "a49cfae1787c2647e4309894b9ab09ddabfe70c8e2d79c3cb2c5884e14d4933e"
+    },
+    {
+      "slug": "s25-ep9-flipped-the-script",
+      "season": 25,
+      "sha256": "a5bd8b0dfafa2190644444715deab8e6b4373d8eec282e91310dd7193f1e7eac"
+    },
+    {
+      "slug": "s26-data-points-the-history-and-impact-of-voting",
+      "season": 26,
+      "sha256": "0d5017183f4d1673497fa680243532c26bcfbb01378f0b52a8f4924807b3f6e9"
+    },
+    {
+      "slug": "s26-ep1-obey",
+      "season": 26,
+      "sha256": "5335e2e79b1fbbfb682e1b7fad1ae2d3ffa343d961431a390c46b67d594bf874"
+    },
+    {
+      "slug": "s26-ep10-exactly",
+      "season": 26,
+      "sha256": "bbec69b8a284dfdbdda5530bc1a9328031f1a7dc2aad1efcf7c0a9efd50a234c"
+    },
+    {
+      "slug": "s26-ep11-everything-is-not-what-it-seems",
+      "season": 26,
+      "sha256": "ede572b2debb33f36c9c5726c6ca2a268250fe92a5b20490d783fa4ced0ebc93"
+    },
+    {
+      "slug": "s26-ep12-iris-just-a-kid",
+      "season": 26,
+      "sha256": "fde79d05fafa8c43d733b9d5b2a4f91d9a585255c9a73552c1d98ceaecbbc94f"
+    },
+    {
+      "slug": "s26-ep13-sophia-stand-up-for-yourself",
+      "season": 26,
+      "sha256": "5b1610f843084c808c76ca5bad9e6136304430fe67f7d532e2313ec1dd6a885a"
+    },
+    {
+      "slug": "s26-ep14-bts-with-bcm-fall-2026",
+      "season": 26,
+      "sha256": "16673449d7dbcbb9c4cfbdd4e2efef2f8ffda93660e219705524317f71b31739"
+    },
+    {
+      "slug": "s26-ep15-wcn-presents-jenn-holman-there-is-a-softer-life",
+      "season": 26,
+      "sha256": "d35bb3fce7d28e8eee3cdb826134cdedf8d2923f538c21faef440fa33af269c1"
+    },
+    {
+      "slug": "s26-ep16-justice-for-jane-doe",
+      "season": 26,
+      "sha256": "af3f8d1b42f428258d5ce1aa867feabc3287ac9060327292f606ea3b748b59e7"
+    },
+    {
+      "slug": "s26-ep18-chapter-3-every-lie-has-a-point-to-it",
+      "season": 26,
+      "sha256": "522e3ff88321a3e5bb809aae1650309355543fc4735a83dfbf634ddcac3d301a"
+    },
+    {
+      "slug": "s26-ep19-kindness-before-the-storm",
+      "season": 26,
+      "sha256": "471f26b0a3fcae1cdeca4eead07d18ef863b439e321af616e3063d53ccd6e65b"
+    },
+    {
+      "slug": "s26-ep2-he-underestimated-my-healing",
+      "season": 26,
+      "sha256": "9d0b5cfd304073ca22c08c160323f895db4c28203103eee9fad52f02728be42c"
+    },
+    {
+      "slug": "s26-ep20-web-of-lies",
+      "season": 26,
+      "sha256": "2f3ccfb3e099b7776a8e344747611d02f90da58116d06edec7157989192fa98f"
+    },
+    {
+      "slug": "s26-ep3-hit-him-with-a-trifecta",
+      "season": 26,
+      "sha256": "1cd018f50e638c0200054e2b833a5ea1bcf8ff6f43384a0fb9b30a3e6967bb75"
+    },
+    {
+      "slug": "s26-ep4-so-help-you-god",
+      "season": 26,
+      "sha256": "1a0d1800ca701dc8e4823ea219485f316faad41d756c8036bbcf2bd8522cd1f6"
+    },
+    {
+      "slug": "s26-ep5-a-restoration-chapter-1-finale",
+      "season": 26,
+      "sha256": "a6bc8288fb0ae5ca71ef4e7c3447443149cdd3131164bf3d389b25e7267108c8"
+    },
+    {
+      "slug": "s26-ep6-friendship-attachment-and-betrayal-with-dr-marisa-g-franco-phd",
+      "season": 26,
+      "sha256": "47086b001449c16056c467bd9490d75d711331ddc9405ba19eb00989509cee4c"
+    },
+    {
+      "slug": "s26-ep7-the-importance-of-friendship-with-dr-rebecca-schwartz-mette",
+      "season": 26,
+      "sha256": "258e3b545c451725e97f68bc2219fe6bf2815d44b130a6f16d09ce479fc16625"
+    },
+    {
+      "slug": "s26-ep8-chapter-2-the-lore",
+      "season": 26,
+      "sha256": "cc14035a9d205baf48b199f9f656637670ac4a51a58dd9d3b77f4f832a06aa68"
+    },
+    {
+      "slug": "s26-ep9-moment-of-truth",
+      "season": 26,
+      "sha256": "d74e0d096ce288158844ce657e8d17f771daee47c27566da293bcd92c96f0353"
+    },
+    {
+      "slug": "s3-e1-she-has-a-problem-with-lying",
+      "season": 3,
+      "sha256": "98a07a568efcafaa111b1e7f3f799355dd05d644cc57145586d1cbd6fd7674a3"
+    },
+    {
+      "slug": "s3-e10-fck-trauma-get-healthy-ft-isaac-smith-mat-lcsw-ntp",
+      "season": 3,
+      "sha256": "fc94d9be5d71b37c415a973e5027421b8fd3073419068c4226dacc21f4b25312"
+    },
+    {
+      "slug": "s3-e11-happy-1st-birthday-sww-ft-sara-alissa-from-s1",
+      "season": 3,
+      "sha256": "5565c84dba92a543efd3dfe4d0d635dde1f0143283cfa108d55d5e20f42d6a53"
+    },
+    {
+      "slug": "s3-e2-their-little-counselor",
+      "season": 3,
+      "sha256": "4192bae61a54471c8961d8fd835483ab1d1d71ddd63980d95745bc37f253f740"
+    },
+    {
+      "slug": "s3-e4-it-comes-through-like-a-freaking-bomb",
+      "season": 3,
+      "sha256": "d01707532cd3d5ed9fe43cf584a95258266f271ede05fe0359111302ff581a23"
+    },
+    {
+      "slug": "s3-e5-shes-a-lying-cheating-bitch",
+      "season": 3,
+      "sha256": "1bd7203d3ec5ea434ac5cabe2e015908c8045f5e9c07e9e8dc046d68f525f03e"
+    },
+    {
+      "slug": "s3-e6-a-psychopathic-narcissist",
+      "season": 3,
+      "sha256": "0c432cf6a01f7ae484dbaed79de1eb94c29268cd8376e8632e699709e96fd64c"
+    },
+    {
+      "slug": "s3-e7-walking-into-the-belly-of-the-beast",
+      "season": 3,
+      "sha256": "6185bc35a24f2abc2ed2738c26ff22f08cb52bc0e22501a652735cb39feb01e0"
+    },
+    {
+      "slug": "s3-e8-a-mountain-of-black-white-proof-qa",
+      "season": 3,
+      "sha256": "f71cfe658972f28662c555674f1ca70a56bb287b2e00e0c2405c413bd95f2642"
+    },
+    {
+      "slug": "s3-e9-absolute-evil",
+      "season": 3,
+      "sha256": "f19d808057a50c2eee7e0406963cd2c3026de89ed23f109b09911e8c225ce8b8"
+    },
+    {
+      "slug": "s3-ep3-nobodys-getting-in-my-head",
+      "season": 3,
+      "sha256": "fd9f036fe9d3282106ea10fb605df220d6fd3165cbbd198c355c0dea990423b2"
+    },
+    {
+      "slug": "s4-e1-theres-no-comfort-to-run-to-season-four-escaping-jonestown",
+      "season": 4,
+      "sha256": "9536fda2c334010281152f1e30f007e97a72a95a95c38ff56b37a4f3c15292fc"
+    },
+    {
+      "slug": "s4-e2-living-with-the-dogs",
+      "season": 4,
+      "sha256": "01e072181871a4f189871a499142f29129c8e9b41b9336cbf76d88fa0fe2f28f"
+    },
+    {
+      "slug": "s4-e4-we-will-kill-you",
+      "season": 4,
+      "sha256": "d52604f76fc516cea20e0477fb862497aa478497e82e2345f6ef0de1fffb1e73"
+    },
+    {
+      "slug": "s4-e5-close-the-door-or-die",
+      "season": 4,
+      "sha256": "fe2217097eff65d50a8ece86bfa035aa821d739633f7ba90bd27931046f10143"
+    },
+    {
+      "slug": "s4-e6-learned-to-fight-back-in-my-dreams",
+      "season": 4,
+      "sha256": "20bc8549cc704cac68fb4ba7e5e68ee5b6621fa7491fffdf001e90e192f770d8"
+    },
+    {
+      "slug": "s4-e7-the-world-is-gonna-come-together-season-four-finale",
+      "season": 4,
+      "sha256": "5b1d083dc7a2340e62795eecbc2bf3f59d69a327a29a4ef6d2ab84e8bad0ce8d"
+    },
+    {
+      "slug": "s4-e8-mental-health-boundaries-self-care-during-the-covid19-crisis-ft-ilyse-kennedy-lpc-lmft-a-pmh-c",
+      "season": 4,
+      "sha256": "c8cf862e25aac7369acf800c1812eb62049f22443cd725757d7e9eb6bc3b199b"
+    },
+    {
+      "slug": "s4-ep3-a-constant-evolvement-of-power",
+      "season": 4,
+      "sha256": "b23519b2328d314f42661c008dab28cf46356b9e07daff25ff32f000935843ad"
+    },
+    {
+      "slug": "s5-e1-somewhere-i-belonged-julia",
+      "season": 5,
+      "sha256": "9250d73a2d9aa153f20a6d90f4b4d87d8f9fdf44d66f9126e596e8b23e6ebabf"
+    },
+    {
+      "slug": "s5-e10-accomplices-to-our-own-abuse-rachel",
+      "season": 5,
+      "sha256": "2645abc4e702a5ac51b623d8ff9fa0b166d533579c3f0595b451091ea9ad8197"
+    },
+    {
+      "slug": "s5-e11-the-gloves-came-off-rachel",
+      "season": 5,
+      "sha256": "5545f51c76da147d3cc7f55afef69de17af444695529af3705cd12ed7ead137b"
+    },
+    {
+      "slug": "s5-e12-anathema-rachel",
+      "season": 5,
+      "sha256": "86bb2930d4e6884d9edc9e082299fa072ab5c09068098245076dc365d1c1bf0a"
+    },
+    {
+      "slug": "s5-e13-declaring-war-rachel",
+      "season": 5,
+      "sha256": "93512dff17e59d302353b1ce8dd7779b7750816da0822b9cd670558eba894b56"
+    },
+    {
+      "slug": "s5-e14-im-not-threatening-you-im-promising-you-rachel",
+      "season": 5,
+      "sha256": "5dda6024d8c7c133e39df61af951a8557e48efff2fdb59a5da4381fc18aea0ce"
+    },
+    {
+      "slug": "s5-e15-political-gaslighting-featuring-stephanie-moulton-sarkis-phd",
+      "season": 5,
+      "sha256": "9a8c91220afb43538a20686f36a1b0bbf793bc7494b64a75ce876393b507eea1"
+    },
+    {
+      "slug": "s5-e2-exposed-our-sin-julia",
+      "season": 5,
+      "sha256": "aabf91e2e75b7211874c94431f0c7a78ed6611c16583308d20250a55e65251be"
+    },
+    {
+      "slug": "s5-e3-sluts-and-teases-kelly",
+      "season": 5,
+      "sha256": "6ff7cc803c755c546929a226471b39e9299b20a297bf6d05bc82bcb117d9bac9"
+    },
+    {
+      "slug": "s5-e4-this-is-about-every-woman-kelly",
+      "season": 5,
+      "sha256": "cd8950897fe4ee4be486c0babe86be703607b97864ca4f85725268ea598c4e31"
+    },
+    {
+      "slug": "s5-e5-i-cant-control-what-hell-do-to-you-kelly",
+      "season": 5,
+      "sha256": "7a5f8119d26dd4406fe0b321ead807b805b5bae41bf65e95cef34078539f1f78"
+    },
+    {
+      "slug": "s5-e6-it-was-all-kind-of-hidden-kelly",
+      "season": 5,
+      "sha256": "562db1ae365e0a1888261ed382dc8ed36d2ad00e57d6e0f3a680bf34e54d85e7"
+    },
+    {
+      "slug": "s5-e7-rebellion-is-as-witchcraft-rachel",
+      "season": 5,
+      "sha256": "e7398ed8ef5d8323891c31b7774a0f310887d91ae91110b0c98ffadefb19b016"
+    },
+    {
+      "slug": "s5-e8-everything-was-terrifying-rachel",
+      "season": 5,
+      "sha256": "066d4562063454273121879fd56af6662aac5b07b6124e1486fc6a034e8dc870"
+    },
+    {
+      "slug": "s5-e9-let-the-dead-bury-the-dead-rachel",
+      "season": 5,
+      "sha256": "aa680b81855f386143f83f555d5b8e398aff6efea3a5bdc982703ac631b3d557"
+    },
+    {
+      "slug": "s6-e1-so-many-lies-kaelyn",
+      "season": 6,
+      "sha256": "fcb7b1cdbf675416851c34e79cd2d108f92bfbd73b59bd3ae0bf2765bf350bab"
+    },
+    {
+      "slug": "s6-e2-predator-jez",
+      "season": 6,
+      "sha256": "053e22b69e0fc94070ae6dd127b56b2071f26341692b5ccd6ae1887bc5279ab6"
+    },
+    {
+      "slug": "s6-e3-tech-trauma-featuring-ilyse-kennedy-ma-lpc-lmft-pmh-c",
+      "season": 6,
+      "sha256": "b61e3d32de596e935717d724db839f9f03f1ef5941a7f3f9fc2a84b6c9eec231"
+    },
+    {
+      "slug": "s6-e4-influenced-arianna-charlie-jill",
+      "season": 6,
+      "sha256": "a7f1dcdff53e2072e572d29804d86e77fd75cd9b0ed33cb98c2ccc2f66939db0"
+    },
+    {
+      "slug": "s6-e5-massacre-at-the-tree-of-life-synagogue-je",
+      "season": 6,
+      "sha256": "ea6c03529f890d30532bcd5c6dcbf430fe54c44ecb997646ea9192851cb07156"
+    },
+    {
+      "slug": "s6-e6-panic-attack-city-je",
+      "season": 6,
+      "sha256": "bd562a4ac5e3b1e96beaef968b9e9dafd78bc20d9db6b8c7f2a0801419c73f70"
+    },
+    {
+      "slug": "s6-e7-frank-mary-michael",
+      "season": 6,
+      "sha256": "471eb3b38b8aba44fd6d9eee4fa487115f52928dd7224c1b5cec5d077cd5ec52"
+    },
+    {
+      "slug": "s7-e1-extreme-anger",
+      "season": 7,
+      "sha256": "6a1847a29ea0fe9c928b407827ceef22cee8b0280711073cad7f38580ddd7235"
+    },
+    {
+      "slug": "s7-e2-the-perfect-shitstorm",
+      "season": 7,
+      "sha256": "42a6c24f5f213e0f9636b266903b72c52e68e1de822e0112711fbad3718a94d0"
+    },
+    {
+      "slug": "s7-e3-everything-to-escape-him",
+      "season": 7,
+      "sha256": "fa3d3788efedbc655bd80065b4b6a642e2ff4d2b964ab7df5c1188d22dbac62f"
+    },
+    {
+      "slug": "s7-e4-the-killer-might-be-inside",
+      "season": 7,
+      "sha256": "338302728ac0ccd596748157eeb7e1c5af9c733c1383ef54daba56b2ccbc0fc8"
+    },
+    {
+      "slug": "s7-e5-convict",
+      "season": 7,
+      "sha256": "87a768a8501bdda1b45c229b74326db61a05c8b3419fd663edfcadeadea3fada"
+    },
+    {
+      "slug": "s7-e6-something-good-comes-out-of-everything",
+      "season": 7,
+      "sha256": "284a12f9bfaf20772a2f8d2e4c5d366781624a3e31085e818ac311c4759a4e29"
+    },
+    {
+      "slug": "s7-ep7-wcn-presents-amy-b-chesler-sww-s7-updates",
+      "season": 7,
+      "sha256": "fbbe61680837dfc18605ddc07dfb0fa7c3470ed2d750447e8b3cd0d5e179cc53"
+    },
+    {
+      "slug": "s8-e1-messy-ass-house-of-cards",
+      "season": 8,
+      "sha256": "22c98b767abd2fef92fa57c52ddb6372777789d67750cbedda67934ff548fb89"
+    },
+    {
+      "slug": "s8-e2-shady",
+      "season": 8,
+      "sha256": "403fe2dfed12652893c318747cac1c35cc357618c8c567d72d3b9326ceadcbad"
+    },
+    {
+      "slug": "s8-e3-double-life",
+      "season": 8,
+      "sha256": "23f5642b7cf5d7847c1b2ffe04c3b7f3cd0bdd9cc9a5df3fe66d0767523c9bee"
+    },
+    {
+      "slug": "s8-e4-hate-me-if-you-want",
+      "season": 8,
+      "sha256": "6d0cdad208fd020dda5129fa9da9a0249f2a7f6f33b30c94b1a0000f1867d306"
+    },
+    {
+      "slug": "s8-e5-hostile-as-fck",
+      "season": 8,
+      "sha256": "7bfd033b80b4c66f80b3e510c83913985b95297f131f808fc0ee30a24637b1b5"
+    },
+    {
+      "slug": "s8-e6-the-irony-writes-itself-finale",
+      "season": 8,
+      "sha256": "9b5d36dc994c4d1110d06685769000965ed548e1b41496b7aed1ff47fb695715"
+    },
+    {
+      "slug": "s9-e1-psychic-abilities",
+      "season": 9,
+      "sha256": "1358f64e15ccb0a37e63a28b581c8547e41363b01fe78c9e5243ec4583efcdbb"
+    },
+    {
+      "slug": "s9-e2-perfectly-single",
+      "season": 9,
+      "sha256": "d99e082dfc347f8b840cfe122a48d0b2d3eb618e32fbbdf2d41ed42938821f21"
+    },
+    {
+      "slug": "s9-e3-this-is-bullsht",
+      "season": 9,
+      "sha256": "e864caf84bc98c7c04e63ad746b4110f3878eac06fee9eada85d810f159a6f2a"
+    },
+    {
+      "slug": "s9-e4-were-just-getting-started",
+      "season": 9,
+      "sha256": "6f6e9655e9590aeba4c71009168c0bb0833ad1644829e7edd562a9e33fa7573f"
+    },
+    {
+      "slug": "s9-e5-fabricated",
+      "season": 9,
+      "sha256": "813443b1c3924aad4fe66f0dd7a60b9fa56496e1fc10cc7c219123e10216df85"
+    },
+    {
+      "slug": "s9-e6-what-the-fck-just-happened",
+      "season": 9,
+      "sha256": "f15e78a3f608cec57451ef5e1f0776dcf0a84448f7e5a254b8cdb4eec79a9b35"
+    },
+    {
+      "slug": "s9-e7-treasure-hunt",
+      "season": 9,
+      "sha256": "604bc374213c1108b5bf17be52ba75fab505a7f39391795b17f98d45a31bce7c"
+    },
+    {
+      "slug": "s9-e8-trapped",
+      "season": 9,
+      "sha256": "5ca81c1961ec6f30e64a1593cf90c44ffb7b6ba8bb5eea795f42d9b0b8e122da"
+    },
+    {
+      "slug": "s9-e9-hes-escalated",
+      "season": 9,
+      "sha256": "9b361c070bf7368a14cededeeae8bdf794521a994aabc989f3d32307f96a7347"
+    },
+    {
+      "slug": "s9-ep10-wcn-presents-danielle-sww-s9-updates-part-1",
+      "season": 9,
+      "sha256": "dab8c352b33215ef57c1b294cef02b6f092024a2986a526289603ef117a093a9"
+    },
+    {
+      "slug": "s9-ep11-wcn-presents-danielle-sww-s9-updates-part-2",
+      "season": 9,
+      "sha256": "e02088dd25814193a34ec4c6b255cfb3f9ff3f6ec3b564f23a2535226658459c"
+    },
+    {
+      "slug": "sww-live-sacramento",
+      "season": 1,
+      "sha256": "a3c1b3e6333fbff35afb3bc38c04940ec526ac8555e888095d9662ae6d832553"
+    },
+    {
+      "slug": "wcn-presents-amy-b-chesler-season-7-update",
+      "season": 7,
+      "sha256": "a545ea27738dfa57a7234c45308de8edb4d9823c90f85e753db7f084921fc5b1"
+    },
+    {
+      "slug": "wcn-presents-amy-s19-updates",
+      "season": 19,
+      "sha256": "4fde3fef47809d36d8104d899b533ddcfaf9cc307526c630692136a0ee721708"
+    },
+    {
+      "slug": "wcn-presents-caitlin-mathis-dedicated-to-change-2",
+      "season": null,
+      "sha256": "e0eef541d9ca2beca79eb6c4e815e9c3336cf4db41d044618811ad3d77a7dcd6"
+    },
+    {
+      "slug": "wcn-presents-john-michael-lander-an-athletes-silence",
+      "season": 20,
+      "sha256": "a26c0a33c8aa12d12232251e0b441daabc8a200a0287c001490eaa25132b538b"
+    },
+    {
+      "slug": "wcn-presents-madison-mcghee-ice-cold-case",
+      "season": 22,
+      "sha256": "5dbef9014e3ca70f11d9f899283fcb5f49f50557c876d16d69fbb7e53c6d15f8"
+    },
+    {
+      "slug": "wcn-presents-sww-s15-e5-updates-part-1",
+      "season": 15,
+      "sha256": "c0dd2a0e46e7828f8552c31519cbe4d4927bbf0c7b611571fc5bbd0e9418b366"
+    },
+    {
+      "slug": "wcn-presents-sww-s15-e5-updates-part-2",
+      "season": 15,
+      "sha256": "f50f420252c2117c85c3c61813756c6dfff259cbebadebda9106269081a4d928"
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 """Checks of analysis rules with synthetic records; no recoding or headline fixtures."""
 import unittest
+import json
+import tempfile
+from pathlib import Path
 import analyze_whole_story as a
 
 
@@ -54,6 +57,23 @@ class AnalysisRules(unittest.TestCase):
         self.assertIsNone(a.rate(0,0)['rate'])
         self.assertEqual(a.agreement([(False,False),(True,False)])['pct_agree'],.5)
         self.assertIsNone(a.agreement([(False,False)])['kappa'])
+
+    def test_quotation_flags_separate_people_from_other_mentions(self):
+        people=[{'person_id':pid,'outcome_quote':'An actual outcome quotation'}
+                for pid in ['P1','P2','P3']]+[{'person_id':'P4','outcome_quote':None}]
+        docs={'s01_A':{'persons':people}}
+        records={('s01_A',p['person_id']):{} for p in people}
+        rows=[['P1','outcome',.79,'cited'],['P2','contact1','too-short',None],
+              ['P3','outcome',1.0,'cited'],['P4','outcome','too-short',None],
+              ['other0','others_mentioned',.4,'cited']]
+        with tempfile.TemporaryDirectory() as tmp:
+            directory=Path(tmp)
+            (directory/'s01_A.json.quotecheck.json').write_text(json.dumps(rows))
+            flags,report=a.quote_flags(directory,docs,records)
+        self.assertEqual(flags,{('s01_A','P1'),('s01_A','P2'),('s01_A','P4')})
+        self.assertEqual(report['s01_A']['tested'],3)
+        self.assertEqual(report['s01_A']['found'],1)
+        self.assertEqual(report['s01_A']['found_rate'],1/3)
 
 
 if __name__=='__main__':

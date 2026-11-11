@@ -56,6 +56,31 @@ def episodes(src, threshold=0.55):
         out.append(e)
     return out
 
+def frozen_episodes(src, index_file):
+    """Read the original canonical selections and season assignments from a saved index.
+
+    A canonical slug can lack its season while a discarded twin supplied it. Rebuilding
+    from canonical files alone must retain the committed assignment, not rerun slug-only
+    assignment without those twins. Full transcript text is read; no summaries are used.
+    """
+    out, seen = [], set()
+    with open(index_file) as f:
+        lines = f.read().splitlines()
+    for line in lines:
+        fields = line.split()
+        if len(fields) != 3:
+            continue
+        season, _, slug = fields
+        assert slug not in seen, slug
+        seen.add(slug)
+        with open(os.path.join(src, slug + '.json')) as f:
+            e = json.load(f)
+        assert e['slug'] == slug and e['text'], slug
+        e['season'] = None if season == 'UNASSIGNED' else int(season)
+        e['twins'] = []
+        out.append(e)
+    return out
+
 def epnum(slug):
     m = re.match(r"s\d+(?!\d)-?e?p?(\d+)", slug)
     return int(m.group(1)) if m else 999
@@ -65,15 +90,18 @@ def index(src):
     for s, n, slug in rows: print(s if s else "UNASSIGNED", n, slug)
     print(len(rows), "unique episodes;", sum(1 for r in rows if not r[0]), "unassigned")
 
-def dump(src, season, out):
+def dump(src, season, out, episodes_override=None):
     os.makedirs(out, exist_ok=True)
-    eps = sorted(((epnum(e["slug"]), e["slug"], e) for e in episodes(src) if e["season"] == season),
+    source_eps = episodes(src) if episodes_override is None else episodes_override
+    eps = sorted(((epnum(e["slug"]), e["slug"], e) for e in source_eps if e["season"] == season),
                  key=lambda x: (x[0], x[1]))
     chunk, words, k = [], 0, 1
     def flush():
         nonlocal chunk, words, k
         if chunk:
-            open(f"{out}/s{season:02d}_{k:02d}.txt", "w").write("\n".join(chunk)); k += 1; chunk, words = [], 0
+            with open(f"{out}/s{season:02d}_{k:02d}.txt", "w") as f:
+                f.write("\n".join(chunk))
+            k += 1; chunk, words = [], 0
     for n, slug, e in eps:
         notes = re.sub(r"\s+", " ", e.get("notes", ""))[:1500]
         chunk.append(f"\n##### {e['title']}  [{slug}]\nNOTES: {notes}\n")

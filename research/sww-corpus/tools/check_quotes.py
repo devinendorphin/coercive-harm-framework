@@ -7,15 +7,20 @@ the source cites (case and punctuation removed); if the cited slug is wrong or m
 whole season plus the unassigned episodes are searched and the hit is marked 'other-episode'.
 Prints one summary line per file and writes <coded_json>.quotecheck.json beside it.
 """
-import json, os, re, sys
+import argparse, json, os, re, sys
 from difflib import SequenceMatcher
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import corpus
 
 def toks(s): return re.findall(r"[a-z0-9']+", (s or "").lower())
 
-src = sys.argv[1]
-eps = corpus.episodes(src)
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('src')
+parser.add_argument('files', nargs='+')
+parser.add_argument('--frozen-index', help='Retain original canonical selections and inherited season assignments')
+args = parser.parse_args()
+src = args.src
+eps = corpus.frozen_episodes(src, args.frozen_index) if args.frozen_index else corpus.episodes(src)
 by_slug = {}
 for e in eps:
     t = toks(e["text"])
@@ -55,7 +60,7 @@ def quotes(d):
     for i, o in enumerate(d.get("others_mentioned") or []):
         yield f"other{i}", "others_mentioned", o.get("quote"), o.get("source")
 
-for fn in sys.argv[2:]:
+for fn in args.files:
     d = json.load(open(fn))
     season = d.get("season")
     pool = [e["slug"] for e in eps if e["season"] in (season, None)]

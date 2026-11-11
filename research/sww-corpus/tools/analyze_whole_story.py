@@ -1,4 +1,4 @@
-"""Whole-story arithmetic, following ANALYSIS-PLAN and deviations D1-D7.
+"""Whole-story arithmetic, following ANALYSIS-PLAN and deviations D1-D8.
 
 python3 -I analyze_whole_story.py RESULTS_DIR [--quotechecks DIRECTORY]
 
@@ -280,6 +280,7 @@ def quote_flags(qdir, docs, recs):
                 by_pid[p['person_id']].append({'field':'outcome','score':'missing','where':None})
         tested=[r for r in rows if isinstance(r[2],(float,int))]
         report[stem]={'tested':len(tested),'found':sum(r[2]>=.8 for r in tested),
+                      'found_rate':sum(r[2]>=.8 for r in tested)/len(tested) if tested else None,
                       'too_short':sum(r[2]=='too-short' for r in rows),
                       'other_episode':sum(r[2]>=.8 and r[3]=='other-episode' for r in tested),
                       'failures':dict(by_pid)}
@@ -342,7 +343,7 @@ def select_sample(groups, matches, recs):
                         sample.append({'group':group,'metric':metric,'category':category,
                                        'left':a['key'],'right':b['key']})
                         break
-    # A source locator for the first no-reach reason example in each coder stream.
+    # A source locator for the first no-reach quotation for each recorded reason.
     reason_samples=[];seen=set()
     for p in sorted([p for p in recs.values() if p['coder'] in {'A','B','CA','CB'}], key=lambda p:p['key']):
         if p['i']['reached']!='no':
@@ -417,7 +418,7 @@ def main():
     groups={'all':primary,'claude':[(s,'A','B') for s in CLAUDE],
             'codex':[(s,'CA','CB') for s in CODEX],
             'all_codex17':[(17,'CA','CB') if c[0]==17 else c for c in primary]}
-    result={'method':'ANALYSIS-PLAN.md; DEVIATIONS.md D1-D7; inputs unchanged',
+    result={'method':'ANALYSIS-PLAN.md; DEVIATIONS.md D1-D8; inputs unchanged',
             'labels':LABELS,'flags':{'contradictions':len(contradiction),'deceased_protection':len(death),
                                     'quote_records':len(qflags) if qflags is not None else None},
             'quotation_checks':qreport,'framing':fr,'groups':{}}
@@ -433,6 +434,8 @@ def main():
         t=result['quotation_totals_by_coder'].setdefault(c,dict(tested=0,found=0,too_short=0,other_episode=0,person_records_flagged=0))
         for k in ['tested','found','too_short','other_episode']:t[k]+=q[k]
         t['person_records_flagged']+=sum(key[0]==stem for key in qflags)
+    for totals in result['quotation_totals_by_coder'].values():
+        totals['found_rate']=totals['found']/totals['tested'] if totals['tested'] else None
     for group,comps in groups.items():
         pairs=[pair for comp in comps for pair in matches[comp]]
         left=[p for s,a,b in comps for k,p in recs.items() if k[0]==f's{s:02}_{a}']

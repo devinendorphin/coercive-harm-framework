@@ -101,7 +101,7 @@ out('A and B are Claude unblinded; CA and CB are Codex blinded. Exposure and mod
     'are confounded. Four cross-family comparisons are all shown, alongside both within-family pairs.');out()
 out('Signed differences below are Claude **unblinded** minus Codex **blinded** on S17, in '
     'percentage points. Coverage and eligible sets differ; these are not causal exposure effects.');out()
-table(['Stream',*short.values()],[[stream]+[pct(q[m]) for m in short]
+table(['Stream',*short.values()],[[stream]+['unavailable' if q[m] is None else f'{100*q[m]:+.1f} points' for m in short]
       for stream,q in s['s17_family_differences'].items()])
 for label,ev in s['s17_crosscheck'].items():
     out('### '+label);out()
@@ -124,11 +124,11 @@ out('The match test checks wording against transcripts, not code validity or the
     'account. Too-short quotations are outside the script’s tested denominator and flagged separately.');out()
 if not s['quotation_checks']:out('PENDING: quotation checks have not been supplied.');out()
 else:
-    table(['Coder','Quotations found / tested','Too short','Found elsewhere in season/unassigned pool','Person records flagged'],[
-        [coder,f"{q['found']}/{q['tested']}",q['too_short'],q['other_episode'],q['person_records_flagged']]
+    table(['Coder','Quotations found / tested','Found rate','Too short','Found elsewhere in season/unassigned pool','Person records flagged'],[
+        [coder,f"{q['found']}/{q['tested']}",pct(q['found_rate']),q['too_short'],q['other_episode'],q['person_records_flagged']]
         for coder,q in s['quotation_totals_by_coder'].items()])
-    table(['File','Found / tested','Too short','Other episode'],[
-        [stem,f"{q['found']}/{q['tested']}",q['too_short'],q['other_episode']]
+    table(['File','Found / tested','Found rate','Too short','Other episode'],[
+        [stem,f"{q['found']}/{q['tested']}",pct(q['found_rate']),q['too_short'],q['other_episode']]
         for stem,q in s['quotation_checks'].items()])
 for label,files in s['flags']['by_file'].items():
     out(label+': '+(', '.join(f'{stem}: {n}' for stem,n in files.items()) or 'none')+'.');out()

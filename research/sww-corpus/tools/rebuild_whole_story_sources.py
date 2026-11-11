@@ -5,6 +5,8 @@ python3 -I rebuild_whole_story_sources.py RESULTS_DIR TRANSCRIPT_DIR
 Uses the original fetcher's parsing, a single worker and the inherited network settings.
 Later publications and alternate transcriptions do not enter the frozen episode set.
 Transcripts remain outside the repository. HTTP 429 Retry-After is honored.
+Use --frozen-index with prepare_reading.py and check_quotes.py: some original season
+assignments came from a discarded twin rather than the selected canonical slug.
 """
 import email.utils
 import hashlib
@@ -19,7 +21,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 results, destination=map(Path,sys.argv[1:3]);destination.mkdir(parents=True,exist_ok=True)
-slugs=[line.split()[2] for line in (results/'episode_index.txt').read_text().splitlines() if len(line.split())==3]
+rows=[line.split() for line in (results/'episode_index.txt').read_text().splitlines() if len(line.split())==3]
+slugs=[row[2] for row in rows]
+seasons={row[2]:None if row[0]=='UNASSIGNED' else int(row[0]) for row in rows}
 assert len(slugs)==len(set(slugs))==387
 
 def get(url):
@@ -61,7 +65,8 @@ for slug in sorted(slugs):
     path.write_text(json.dumps(d));print(slug,'retrieved',flush=True)
 manifest={'retrieved_date_utc':datetime.now(timezone.utc).date().isoformat(),
           'selection':'Original episode_index.txt canonical slugs; no later publications or alternate transcriptions',
-          'episodes':[{'slug':slug,'sha256':hashlib.sha256((destination/(slug+'.json')).read_bytes()).hexdigest()}
+          'season_assignments':'Original frozen index, including seasons inherited from discarded twins',
+          'episodes':[{'slug':slug,'season':seasons[slug],'sha256':hashlib.sha256((destination/(slug+'.json')).read_bytes()).hexdigest()}
                       for slug in sorted(slugs)]}
 (results/'transcript_manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
 print('Complete:',len(slugs),'canonical transcripts; manifest written',flush=True)
