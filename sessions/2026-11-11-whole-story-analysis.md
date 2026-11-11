@@ -105,3 +105,8 @@ S24 POS's notes show no interruption; (c) how literally a coder read "list every
 opened": the files were shown, not opened, and one coder in about 40 counting them is ordinary
 variation; (d) others may have mentioned it in final replies that were not kept or surfaced.
 Final replies were not saved, so none can be checked.
+
+**Correction (Endorphin):** canary strings no longer verify exposure; current models can see one and
+decline to report it. Removed from the coder-environment proposal; the check now sits on the
+container and configuration, never on the coder's own report. The paid-usage proposal now scores
+silence as non-disclosure, not non-detection.

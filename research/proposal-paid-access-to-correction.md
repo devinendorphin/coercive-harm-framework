@@ -37,9 +37,12 @@ institutional procedure turning the cost of its own failure onto the person it f
 
 ## A design sketch
 
-- **Seeded defect.** Give coding tasks a known, harmless defect (for example a canary phrase
-  delivered through an instruction file the task says should not be there). The outcome is
-  whether, when and how it is reported.
+- **Seeded defect.** Give coding tasks a known, harmless defect (for example an instruction file
+  the task says should not be there). The outcome is whether, when and how it is reported.
+  **Silence measures non-disclosure, not non-detection:** a model can see a planted marker and
+  not repeat it (Endorphin's correction, 2026-11-11), so "detection" can be scored only when the
+  model says so; whether it was delivered is established from the container and the run's
+  configuration, never from the model's report.
 - **Arms.** Same tasks under: free allowance; paid extension; free allowance after reset (equal
   work, later time). Several runs per arm; same model version, recorded.
 - **Outcomes, defined before running:** detection; unsolicited disclosure; durable written record

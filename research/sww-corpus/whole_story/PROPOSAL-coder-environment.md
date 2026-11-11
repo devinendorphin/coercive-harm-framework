@@ -31,14 +31,21 @@ route: the harness loads every CLAUDE.md under the working directories into them
 
 ## How "clean" is checked, not assumed
 
-- **A canary.** Put a unique, meaningless phrase in each project CLAUDE.md (for example a
-  made-up word). Every coder's final report is searched for it, and every coder is asked, before
-  reading anything, to list any instructions in its context beyond its task message. A coder that
-  can see the canary was exposed. File-opening lists cannot show this; the canary can.
-- **Record what was delivered.** Save each coder's first message and the list of instruction
-  sources it reports, beside its output.
-- **Memory and settings at the start.** Each task message states the memory setting and asks the
-  coder to confirm what it sees.
+**Nothing a coder says about its own context counts as the check.** A coder can see something and
+not report it, so neither a coder's list of files nor its silence about a planted marker shows
+what it was given. *(A canary string was proposed here first and withdrawn on Endorphin's
+correction, 2026-11-11: current models can see a canary and decline to repeat it, so a missing
+canary proves nothing.)* The check sits outside the coder:
+
+- **Check the container, not the coder.** Before a coder starts, list what is physically in its
+  environment (repositories, files, memory setting) and save that listing. Project files that are
+  not in the container cannot be loaded into the coder.
+- **Check the configuration.** Record how the run was started (separate session and its
+  repositories; or `--bare` and the exact files passed in), and save it beside the output.
+- **Keep the harness's own transcript** of each coder run where the platform keeps one, so what
+  was delivered can be inspected afterwards by someone other than the coder.
+- A coder's own report of its context is kept as a note only; it can reveal exposure (as S24 POS
+  did), but it can never certify its absence.
 
 ## The experiment this makes possible (D5's repair, done as a test)
 
@@ -54,5 +61,5 @@ rule as the main study.
 > **What a coder sees is a setting.** Coders run where project files are not loaded unless the
 > design deliberately includes them (a separate session holding only the coding kit, or a bare
 > run); never as subagents of a session that has the project repositories attached. Each run
-> records what the coder was given, checks it with a canary, and states memory settings at the
-> start. Exposure, when wanted, is an experimental arm, not an accident.
+> records what the coder was given by checking its container and start-up configuration, never
+> by asking the coder, and states memory settings at the start. Exposure, when wanted, is an experimental arm, not an accident.
