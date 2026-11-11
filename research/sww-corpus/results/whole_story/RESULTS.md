@@ -244,7 +244,7 @@ been checked. Their result leaned toward institutions all the same.
 **Quotation check (2026-11-11, transcripts rebuilt in-session: 681 files, 388 episodes, one
 more than the 2026-11-01 fetch):** of about 9,000 coder quotations, 16 fall below the 80 %
 match bar (S3 B 2, both in `others_mentioned`; S4 NEG 4; S5 A 1; S23 CB 3; S24 B 6); every other
-file is 100 %. Each records' `.quotecheck.json` sits beside it in `coded/`. Leaving out records
+file is 100 %. Each file's `.quotecheck.json` sits beside it in `coded/`. Leaving out records
 whose deciding quotation was not found removes one person from the protection figure and one
 from the decisive-work figure and changes no verdict (21 %, 31 %, 44 % all seasons). The 10
 quotations published on this page were each found verbatim in the transcripts.
