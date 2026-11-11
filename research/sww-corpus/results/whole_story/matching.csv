@@ -1,0 +1,865 @@
+season,left_coder,right_coder,A_id,B_id,method,reason
+1,A,B,P03,P03,hand,Same Lulu; Hinge dates and subsequent messages; parenthetical pseudonym label differs.
+1,A,B,P09,P10,hand,Same domestic-violence panelist; partner abuse and mother blaming her.
+1,A,B,P12,P13,hand,Same unnamed teen listener; girlfriend exploited sexual-abuse disclosure and threatened self-harm.
+1,A,B,P13,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+1,A,B,,P04,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+1,A,B,P10,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P04,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P05,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P11,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P07,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P06,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+1,A,B,P08,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+2,A,B,P05,P06,hand,"Same second husband; wife broke into home, took dog and poured paint over belongings."
+2,A,B,P06,P05,hand,"Same clinic-owner veterinarian; false cancer, nursing reference and alleged romance."
+2,A,B,P04,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+2,A,B,P03,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+2,A,B,P02,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+2,A,B,P07,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+2,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+3,A,B,P04,P04,hand,Same Season 1 survivor update; Voxer catfishing by former fiance.
+3,A,B,P05,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+3,A,B,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+3,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+3,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+4,A,B,P01,P01,hand,Same named Temple family member; B adds surname; matching kinship and Temple harm.
+4,A,B,P02,P02,hand,Same named Temple family member; B adds surname; matching kinship and Temple harm.
+4,A,B,P03,P03,hand,Same named Temple family member; B adds surname; matching kinship and Temple harm.
+4,A,B,P04,P04,hand,Same named Temple family member; B adds surname; matching kinship and Temple harm.
+4,A,B,P05,P05,hand,Same named Temple family member; B adds surname; matching kinship and Temple harm.
+4,A,B,P06,P06,hand,Same named Temple family member; B adds surname; matching kinship and Temple harm.
+4,A,B,P09,P09,hand,Same Patricia/Patti Parks; airstrip killing while defecting.
+4,A,B,,P10,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+4,A,B,P08,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+4,A,B,P07,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,,P10,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+5,A,B,P05,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P07,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P04,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P09,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P08,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+5,A,B,P06,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+6,A,B,P01,P01,hand,Same Kaelyn catfishing by female friend; fake suicide and car-money request; exclude separate boyfriend harm.
+6,A,B,P02,P03,hand,Same other Tiffany catfished by Kaelyn’s friend; fake child death and money.
+6,A,B,P04,P05,hand,Same Ilyse; same corresponding caller/troll harm; B adds surname.
+6,A,B,P05,P06,hand,Same Ilyse; same corresponding caller/troll harm; B adds surname.
+6,A,B,P06,P07,hand,Same Jill viral COVID-school blog harassment.
+6,A,B,P09,P13,hand,"Same J.E.; Tree of Life community bereavement, distinct from caller harm."
+6,A,B,P20,P16,hand,Same corresponding person on Craigslist room tour; proposed sexual arrangement.
+6,A,B,P21,P17,hand,Same corresponding person on Craigslist room tour; proposed sexual arrangement.
+6,A,B,P07,,hand-unmatched,Two separate troll harms in A versus one combined record in B; no one-to-one harm match; retain unmatched rather than combine codes.
+6,A,B,P08,,hand-unmatched,Two separate troll harms in A versus one combined record in B; no one-to-one harm match; retain unmatched rather than combine codes.
+6,A,B,P15,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+6,A,B,P16,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+6,A,B,P17,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+6,A,B,P18,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+6,A,B,P19,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+6,A,B,,P02,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+6,A,B,,P08,hand-unmatched,Two separate troll harms in A versus one combined record in B; no one-to-one harm match; retain unmatched rather than combine codes.
+6,A,B,,P12,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+6,A,B,P13,P14,auto-name,Unique normalized full name; identity reviewed before calculation.
+6,A,B,P14,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+6,A,B,P12,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+6,A,B,P10,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+6,A,B,P03,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+6,A,B,P11,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+7,CA,CB,P01,P01,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P02,P02,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P03,P15,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P04,P05,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P05,P03,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P06,P04,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P07,P07,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P09,P06,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P13,P19,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P14,P20,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P15,P21,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P16,P22,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P18,P17,hand,"Same corresponding person and distinct harm: brother, son, father, spouse, voyeurism, medical injury, friend assault, online incident or courtroom treatment; labels differ."
+7,CA,CB,P10,,hand-unmatched,Two children indexed differently; identity fields do not establish which child corresponds to which. Both retained unmatched.
+7,CA,CB,P11,,hand-unmatched,Two children indexed differently; identity fields do not establish which child corresponds to which. Both retained unmatched.
+7,CA,CB,,P08,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+7,CA,CB,,P11,hand-unmatched,Two children indexed differently; identity fields do not establish which child corresponds to which. Both retained unmatched.
+7,CA,CB,,P12,hand-unmatched,Two children indexed differently; identity fields do not establish which child corresponds to which. Both retained unmatched.
+7,CA,CB,,P13,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+7,CA,CB,,P14,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+7,CA,CB,,P18,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+7,CA,CB,P08,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+7,CA,CB,P17,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+7,CA,CB,P12,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+8,CA,CB,P01,,hand-unmatched,Connected family campaign combined in A and separated by perpetrator in B; no unambiguous one-to-one whole-harm counterpart.
+8,CA,CB,,P01,hand-unmatched,Connected family campaign combined in A and separated by perpetrator in B; no unambiguous one-to-one whole-harm counterpart.
+8,CA,CB,,P02,hand-unmatched,Connected family campaign combined in A and separated by perpetrator in B; no unambiguous one-to-one whole-harm counterpart.
+8,CA,CB,,P03,hand-unmatched,Connected family campaign combined in A and separated by perpetrator in B; no unambiguous one-to-one whole-harm counterpart.
+8,CA,CB,,P08,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+8,CA,CB,P03,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+8,CA,CB,P04,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+8,CA,CB,P06,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+8,CA,CB,P05,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+8,CA,CB,P07,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+8,CA,CB,P02,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P03,P03,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P04,P04,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P09,P09,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P10,P10,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P16,P16,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P17,P21,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P18,P19,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P19,P20,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P20,P18,hand,"Same corresponding person and harm: Kenji’s separate partner/marital harms, Tammy’s threatened child, first wife’s police incident, overlapping partner, former employer, father figure, followed friend or later dating harm."
+9,CA,CB,P21,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+9,CA,CB,,P14,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+9,CA,CB,,P22,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+9,CA,CB,,P23,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+9,CA,CB,,P24,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+9,CA,CB,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P05,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P07,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P06,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P13,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P11,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P12,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P08,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P15,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+9,CA,CB,P14,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P06,P05,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P07,P06,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P08,P07,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P12,P11,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P13,P12,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P17,P15,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P18,P16,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P21,P18,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P26,P23,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P30,P28,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P34,P32,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P35,P34,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P37,P36,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P38,P35,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P39,P39,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P40,P38,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P42,P41,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P43,P40,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P49,P49,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P50,P52,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P51,P50,hand,Same corresponding named/role-identified person and same perpetrator/harm; differing harm labels. Separate harms remain separate.
+10,CA,CB,P02,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+10,CA,CB,P19,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+10,CA,CB,P48,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+10,CA,CB,,P24,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+10,CA,CB,,P43,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+10,CA,CB,,P45,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+10,CA,CB,P15,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P20,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P16,P14,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P24,P21,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P05,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P33,P31,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P10,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P09,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P27,P25,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P04,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P28,P26,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P29,P27,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P32,P30,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P47,P46,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P14,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P23,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P25,P22,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P41,P37,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P11,P44,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P22,P19,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P03,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P52,P51,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P31,P29,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P36,P33,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P44,P42,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P45,P47,auto-name,Unique normalized full name; identity reviewed before calculation.
+10,CA,CB,P46,P48,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P01,P01,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P05,P04,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P11,P09,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P15,P13,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P23,P20,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P24,P19,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P20,P22,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P26,P24,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P27,P25,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P35,P33,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P36,P35,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P37,P36,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P39,P39,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P40,P40,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P41,P41,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P42,P42,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P43,P43,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P45,P45,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P53,P53,hand,"Same corresponding person and harm; distinct kinship, incident or temporal description establishes identity."
+11,CA,CB,P08,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P09,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P16,,hand-unmatched,Two unnamed injured children lack distinguishing identity details; no arbitrary ordinal match.
+11,CA,CB,P17,,hand-unmatched,Two unnamed injured children lack distinguishing identity details; no arbitrary ordinal match.
+11,CA,CB,P19,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P28,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P46,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P50,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P51,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P52,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P14,hand-unmatched,Two unnamed injured children lack distinguishing identity details; no arbitrary ordinal match.
+11,CA,CB,,P15,hand-unmatched,Two unnamed injured children lack distinguishing identity details; no arbitrary ordinal match.
+11,CA,CB,,P21,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P27,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P34,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P38,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P46,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P50,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P51,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,,P52,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+11,CA,CB,P22,P18,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P06,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P07,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P44,P44,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P14,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P32,P30,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P04,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P48,P48,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P47,P47,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P34,P32,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P25,P23,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P29,P26,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P12,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P13,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P31,P29,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P49,P49,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P10,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P38,P37,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P18,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P30,P28,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P33,P31,auto-name,Unique normalized full name; identity reviewed before calculation.
+11,CA,CB,P21,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+12,CA,CB,P02,P03,hand,"Same partner’s wife with financial deception, and same coworker traumatised by witnessed shooting/crash, respectively."
+12,CA,CB,P03,P02,hand,"Same partner’s wife with financial deception, and same coworker traumatised by witnessed shooting/crash, respectively."
+12,CA,CB,P04,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+12,CA,CB,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P01,P01,hand,"Same person and corresponding harm/perpetrator: Amelia’s ex-husband, Natalia’s separate partners, abducted child’s mother, crematory employee, subordinate officer or regional-campus woman."
+13,A,B,P05,P05,hand,"Same person and corresponding harm/perpetrator: Amelia’s ex-husband, Natalia’s separate partners, abducted child’s mother, crematory employee, subordinate officer or regional-campus woman."
+13,A,B,P06,P06,hand,"Same person and corresponding harm/perpetrator: Amelia’s ex-husband, Natalia’s separate partners, abducted child’s mother, crematory employee, subordinate officer or regional-campus woman."
+13,A,B,P10,P10,hand,"Same person and corresponding harm/perpetrator: Amelia’s ex-husband, Natalia’s separate partners, abducted child’s mother, crematory employee, subordinate officer or regional-campus woman."
+13,A,B,P14,P14,hand,"Same person and corresponding harm/perpetrator: Amelia’s ex-husband, Natalia’s separate partners, abducted child’s mother, crematory employee, subordinate officer or regional-campus woman."
+13,A,B,P21,P21,hand,"Same person and corresponding harm/perpetrator: Amelia’s ex-husband, Natalia’s separate partners, abducted child’s mother, crematory employee, subordinate officer or regional-campus woman."
+13,A,B,P22,P22,hand,"Same person and corresponding harm/perpetrator: Amelia’s ex-husband, Natalia’s separate partners, abducted child’s mother, crematory employee, subordinate officer or regional-campus woman."
+13,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P20,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P13,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P18,P18,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P23,P23,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P15,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P11,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P17,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P04,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P19,P19,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P07,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P16,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P08,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P09,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+13,A,B,P12,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P14,P14,hand,"Same early-20s woman’s Instagram account; repeated refusals, sexual pressure, 3 a.m. departure."
+14,A,B,P15,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+14,A,B,P16,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+14,A,B,P08,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P12,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P11,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P04,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P07,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P09,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P10,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P05,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P06,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+14,A,B,P13,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P01,P01,hand,"Same Holly at Playboy, younger daughter Tegan/Teagan, Amy’s brother-abuse update, or Purdue dorm assault, respectively."
+15,A,B,P08,P09,hand,"Same Holly at Playboy, younger daughter Tegan/Teagan, Amy’s brother-abuse update, or Purdue dorm assault, respectively."
+15,A,B,P22,P20,hand,"Same Holly at Playboy, younger daughter Tegan/Teagan, Amy’s brother-abuse update, or Purdue dorm assault, respectively."
+15,A,B,P19,P23,hand,"Same Holly at Playboy, younger daughter Tegan/Teagan, Amy’s brother-abuse update, or Purdue dorm assault, respectively."
+15,A,B,P14,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+15,A,B,P20,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+15,A,B,P21,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+15,A,B,,P03,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+15,A,B,,P19,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+15,A,B,,P22,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+15,A,B,P04,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P09,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P13,P14,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P16,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P05,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P11,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P07,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P23,P21,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P10,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P15,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P12,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P03,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P17,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P06,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+15,A,B,P18,P18,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P02,P02,hand,"Same teenage assault of Tiffany, Bobby’s police killing, 83-year-old lift-chair customer or 74-year-old car-lift customer, respectively."
+16,A,B,P07,P03,hand,"Same teenage assault of Tiffany, Bobby’s police killing, 83-year-old lift-chair customer or 74-year-old car-lift customer, respectively."
+16,A,B,P12,P10,hand,"Same teenage assault of Tiffany, Bobby’s police killing, 83-year-old lift-chair customer or 74-year-old car-lift customer, respectively."
+16,A,B,P15,P13,hand,"Same teenage assault of Tiffany, Bobby’s police killing, 83-year-old lift-chair customer or 74-year-old car-lift customer, respectively."
+16,A,B,P03,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+16,A,B,P04,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+16,A,B,P16,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+16,A,B,P17,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+16,A,B,P18,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+16,A,B,P14,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P13,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P06,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P05,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P11,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P09,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P10,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+16,A,B,P08,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,B,P06,P10,hand,"Same Stacey intimidation/bereavement, Samantha, her injured infant, her sister, former fiancee or former fiancee’s friend; relationship and incident identify each."
+17,A,B,P07,P04,hand,"Same Stacey intimidation/bereavement, Samantha, her injured infant, her sister, former fiancee or former fiancee’s friend; relationship and incident identify each."
+17,A,B,P08,P03,hand,"Same Stacey intimidation/bereavement, Samantha, her injured infant, her sister, former fiancee or former fiancee’s friend; relationship and incident identify each."
+17,A,B,P09,P05,hand,"Same Stacey intimidation/bereavement, Samantha, her injured infant, her sister, former fiancee or former fiancee’s friend; relationship and incident identify each."
+17,A,B,P10,P06,hand,"Same Stacey intimidation/bereavement, Samantha, her injured infant, her sister, former fiancee or former fiancee’s friend; relationship and incident identify each."
+17,A,B,P11,P07,hand,"Same Stacey intimidation/bereavement, Samantha, her injured infant, her sister, former fiancee or former fiancee’s friend; relationship and incident identify each."
+17,A,B,P03,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,B,P05,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,B,P04,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P02,P02,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P03,P03,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P07,P11,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P08,P06,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P09,P07,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P10,P08,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P13,P12,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P16,P14,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P18,P17,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P19,P18,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P20,P19,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P22,P21,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P23,P24,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P24,P22,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P25,P25,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P26,P23,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P27,P26,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P28,P27,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P30,P30,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P32,P31,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P34,P33,hand,"Same corresponding person–harm story; identifying incident, family relationship or doula date distinguishes it from other records. Anonymous group is matched as the same grouped unit, without splitting it."
+18,A,B,P04,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+18,A,B,P12,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+18,A,B,,P10,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+18,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P14,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P31,P29,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P15,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P33,P32,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P21,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P11,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P06,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P17,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P29,P28,auto-name,Unique normalized full name; identity reviewed before calculation.
+18,A,B,P05,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P03,P03,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P04,P04,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P06,P05,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P07,P06,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P09,P08,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P10,P09,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P15,P10,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P19,P19,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P21,P21,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P22,P14,hand,"Same corresponding person–harm: PR colleague, earlier cyberstalking survivor, Sarah’s separate partner/stranger harms, earlier rape victims, Kaylin/Kaelin update, specified doulas or Dallas hotel incident."
+19,A,B,P05,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+19,A,B,P11,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+19,A,B,P12,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+19,A,B,P13,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+19,A,B,P14,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+19,A,B,,P18,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+19,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P20,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P08,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P16,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P18,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P23,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P24,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P25,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P17,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+19,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+20,CA,CB,P03,P01,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P04,P13,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P05,P14,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P06,P04,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P10,P07,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P11,P10,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P12,P11,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P13,P12,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P15,P15,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P18,P16,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P20,P18,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P21,P19,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P22,P22,hand,"Same corresponding person and distinct harm; Shana/Shayna spelling variant, college roommate, image owner’s two separate impersonation harms, family members, trafficking and entertainment-industry harms distinguished by descriptions."
+20,CA,CB,P07,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+20,CA,CB,P17,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+20,CA,CB,P23,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+20,CA,CB,,P20,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+20,CA,CB,,P21,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+20,CA,CB,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+20,CA,CB,P08,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+20,CA,CB,P19,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+20,CA,CB,P09,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+20,CA,CB,P01,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+20,CA,CB,P16,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+20,CA,CB,P14,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P01,P01,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P02,P02,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P03,P03,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P04,P04,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P06,P06,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P12,P12,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P13,P14,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P14,P13,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P15,P17,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P16,P16,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P18,P20,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P19,P21,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P20,P22,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P24,P26,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P26,P28,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P27,P33,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P29,P35,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P33,P47,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P36,P50,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P38,P51,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P48,P42,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P50,P19,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P51,P62,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P52,P30,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P53,P31,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P54,P32,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P58,P58,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P60,P10,hand,"Same corresponding person and distinct harm; kinship, episode story and incident distinguish namesakes and multiple harms. Rachael/Rachel spelling variant matched by deepfake harm."
+21,CA,CB,P11,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,P55,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,P56,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,P59,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,P61,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,P62,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,,P15,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,,P27,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,,P37,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,,P45,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,,P60,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,,P61,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,,P63,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+21,CA,CB,P30,P36,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P47,P41,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P28,P34,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P49,P59,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P34,P48,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P57,P53,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P35,P49,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P10,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P41,P56,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P39,P52,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P45,P39,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P42,P57,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P21,P24,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P22,P23,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P23,P25,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P09,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P08,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P46,P40,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P05,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P07,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P32,P46,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P37,P54,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P31,P38,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P44,P44,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P43,P43,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P17,P18,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P40,P55,auto-name,Unique normalized full name; identity reviewed before calculation.
+21,CA,CB,P25,P29,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P01,P01,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P07,P10,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P09,P05,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P10,P07,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P12,P12,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P15,P14,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P18,P16,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P21,P09,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P22,P17,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P26,P20,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P28,P23,hand,Same corresponding person–harm story established by relationship and incident; falsely accused people remain unnamed in published prose; no group-to-individual matching.
+22,A,B,P04,,hand-unmatched,Individual people on one side and a combined group/couple on the other; cannot make a one-to-one person match.
+22,A,B,P05,,hand-unmatched,Individual people on one side and a combined group/couple on the other; cannot make a one-to-one person match.
+22,A,B,P06,,hand-unmatched,Individual people on one side and a combined group/couple on the other; cannot make a one-to-one person match.
+22,A,B,P17,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+22,A,B,P19,,hand-unmatched,Individual people on one side and a combined group/couple on the other; cannot make a one-to-one person match.
+22,A,B,P20,,hand-unmatched,Individual people on one side and a combined group/couple on the other; cannot make a one-to-one person match.
+22,A,B,P23,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+22,A,B,,P02,hand-unmatched,Individual people on one side and a combined group/couple on the other; cannot make a one-to-one person match.
+22,A,B,,P18,hand-unmatched,Individual people on one side and a combined group/couple on the other; cannot make a one-to-one person match.
+22,A,B,P08,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P27,P22,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P02,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P14,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P24,P19,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P25,P21,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P13,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P16,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P11,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+22,A,B,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P06,P07,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P11,P54,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P12,P57,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P13,P58,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P16,P11,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P20,P16,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P22,P19,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P25,P24,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P30,P22,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P31,P23,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P32,P60,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P35,P30,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P37,P34,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P41,P43,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P42,P42,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P46,P15,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P48,P35,hand,"Same corresponding person–harm story; separate care providers/harm episodes distinguished, including Brianna’s three providers, Jubilee’s marriage/church, newborn death and specific transfer/hemorrhage incidents."
+23,CA,CB,P09,,hand-unmatched,Surrogacy harm and employment harm separated in A but combined in B; retain unmatched rather than merge outcomes.
+23,CA,CB,P10,,hand-unmatched,Surrogacy harm and employment harm separated in A but combined in B; retain unmatched rather than merge outcomes.
+23,CA,CB,,P04,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P10,hand-unmatched,Surrogacy harm and employment harm separated in A but combined in B; retain unmatched rather than merge outcomes.
+23,CA,CB,,P17,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P36,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P37,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P41,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P46,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P47,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P49,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P50,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P51,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P52,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P53,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,,P59,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+23,CA,CB,P29,P28,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P04,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P05,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P28,P27,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P18,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P34,P33,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P15,P56,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P14,P55,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P44,P45,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P45,P31,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P26,P25,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P23,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P24,P21,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P36,P29,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P40,P39,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P38,P38,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P39,P40,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P33,P32,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P08,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P21,P18,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P07,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P27,P26,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P19,P14,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P43,P44,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P47,P48,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+23,CA,CB,P17,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P03,P03,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P12,P08,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P13,P09,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P19,P15,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P20,P18,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P22,P19,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P25,P22,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P26,P23,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P27,P25,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P30,P28,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P38,P38,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P44,P45,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P49,P52,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P54,P59,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P55,P60,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P56,P62,hand,"Same corresponding person and named program or separate perpetrator; same incident and family relationship. Combined doula-update group matched as group, without splitting."
+24,A,B,P05,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,P06,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,P07,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,P08,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,P09,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,P17,,hand-unmatched,Two programs combined in A and separated in B; no one-to-one distinct-harm match.
+24,A,B,P57,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P13,hand-unmatched,Two programs combined in A and separated in B; no one-to-one distinct-harm match.
+24,A,B,,P14,hand-unmatched,Two programs combined in A and separated in B; no one-to-one distinct-harm match.
+24,A,B,,P17,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P24,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P34,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P35,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P37,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P46,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P47,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P53,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P58,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,,P61,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+24,A,B,P15,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P39,P40,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P11,P06,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P45,P48,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P04,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P32,P31,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P33,P29,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P31,P30,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P50,P54,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P51,P55,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P35,P33,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P47,P51,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P48,P49,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P46,P50,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P36,P36,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P34,P32,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P24,P21,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P23,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P42,P43,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P43,P44,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P40,P42,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P41,P41,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P18,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P16,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P21,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P14,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P37,P39,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P53,P57,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P52,P56,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P28,P26,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P29,P27,auto-name,Unique normalized full name; identity reviewed before calculation.
+24,A,B,P10,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P07,P08,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P12,P14,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P13,P06,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P14,P15,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P15,P46,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P22,P42,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P23,P43,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P28,P22,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P29,P31,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P30,P32,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P31,P33,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P32,P34,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P33,P37,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P36,P38,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P37,P35,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P43,P44,hand,"Same corresponding person and distinct harm: peer assault, workplace stalking, school director, family abuse, specified peer reports, brother threat, and research/interview cases identified by their incidents."
+25,CA,CB,P19,,hand-unmatched,Three unnamed dancers have no distinguishing identities; do not infer individual correspondence from ordinal numbers.
+25,CA,CB,P20,,hand-unmatched,Three unnamed dancers have no distinguishing identities; do not infer individual correspondence from ordinal numbers.
+25,CA,CB,P21,,hand-unmatched,Three unnamed dancers have no distinguishing identities; do not infer individual correspondence from ordinal numbers.
+25,CA,CB,P35,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P38,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P48,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P49,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P50,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P51,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P52,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P53,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P54,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P55,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P56,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,,P39,hand-unmatched,Three unnamed dancers have no distinguishing identities; do not infer individual correspondence from ordinal numbers.
+25,CA,CB,,P40,hand-unmatched,Three unnamed dancers have no distinguishing identities; do not infer individual correspondence from ordinal numbers.
+25,CA,CB,,P41,hand-unmatched,Three unnamed dancers have no distinguishing identities; do not infer individual correspondence from ordinal numbers.
+25,CA,CB,,P45,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+25,CA,CB,P41,P25,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P24,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P08,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P10,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P09,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P11,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P40,P23,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P47,P30,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P45,P28,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P25,P19,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P26,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P39,P24,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P17,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P34,P36,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P42,P26,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P44,P27,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P06,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P02,P02,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P05,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P03,P03,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P16,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P04,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P46,P29,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P27,P21,auto-name,Unique normalized full name; identity reviewed before calculation.
+25,CA,CB,P18,P18,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P01,P01,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P02,P02,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P03,P03,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P04,P05,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P05,P06,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P14,P49,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P21,P18,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P24,P22,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P25,P24,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P26,P23,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P28,P26,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P31,P29,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P36,P33,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P40,P38,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P44,P42,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P46,P44,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P49,P43,hand,"Same corresponding person–harm story; kinship, specific abuse setting and incident distinguish multiple harms and unnamed people."
+26,CA,CB,P19,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,P20,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,P45,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,P48,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,P50,,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,,P45,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,,P46,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,,P47,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,,P48,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+26,CA,CB,P30,P28,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P43,P41,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P34,P34,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P35,P35,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P13,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P38,P36,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P16,P15,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P22,P19,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P41,P39,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P29,P27,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P27,P25,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P37,P32,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P15,P14,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P33,P31,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P06,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P09,P09,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P10,P10,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P07,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P11,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P08,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P42,P40,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P17,P17,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P18,P16,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P47,P21,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P23,P20,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P12,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P39,P37,auto-name,Unique normalized full name; identity reviewed before calculation.
+26,CA,CB,P32,P30,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,CA,CB,P01,P05,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P02,P02,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P06,P14,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P07,P15,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P09,P09,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P10,P03,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P12,P10,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P13,P16,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P14,P17,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P15,P18,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,P17,P04,hand,"Same corresponding person and distinct harm; childhood neglect, cult, date, boyfriend violence, threats and bereavement kept separate."
+17,CA,CB,,P06,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,CA,CB,P16,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,CA,CB,P04,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,CA,CB,P03,P12,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,CA,CB,P05,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,CA,CB,P11,P07,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,CA,CB,P08,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,CA,P02,P02,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CA,P03,P16,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CA,P05,P09,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CA,P06,P12,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CA,P08,P03,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CA,P10,P06,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CA,P11,P07,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CA,,P10,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CA,,P11,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CA,,P13,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CA,,P14,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CA,,P15,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CA,,P17,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CA,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,CA,P07,P04,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,CA,P09,P05,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,CA,P04,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,CB,P01,P05,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,P02,P02,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,P03,P01,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,P05,P09,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,P06,P10,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,P08,P12,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,P10,P14,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,P11,P15,hand,Same corresponding person and distinct harm; Jace’s birth-family harm distinguished from his murder; kinship and protective-order incidents distinguish unnamed people.
+17,A,CB,,P03,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CB,,P04,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CB,,P06,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CB,,P07,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CB,,P16,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CB,,P17,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CB,,P18,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,A,CB,P07,P11,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,CB,P09,P13,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,A,CB,P04,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,B,CA,P02,P02,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,P03,P03,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,P04,P04,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,P05,P05,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,P06,P06,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,P07,P07,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,P09,P09,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,P10,P12,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CA,,P10,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CA,,P11,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CA,,P13,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CA,,P14,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CA,,P15,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CA,,P16,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CA,,P17,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CA,P01,P01,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,B,CA,P08,P08,auto-name,Unique normalized full name; identity reviewed before calculation.
+17,B,CB,P01,P05,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P02,P02,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P03,P12,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P04,P11,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P05,P13,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P06,P14,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P07,P15,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P09,P09,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,P10,P10,hand,Same corresponding person–harm story; named kinship and threatening-contact/infant-injury incidents identify unnamed people.
+17,B,CB,,P01,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,,P03,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,,P04,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,,P06,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,,P07,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,,P16,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,,P17,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,,P18,hand-unmatched,No corresponding person–harm story in other coder’s identity fields.
+17,B,CB,P08,P08,auto-name,Unique normalized full name; identity reviewed before calculation.

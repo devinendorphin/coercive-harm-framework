@@ -55,6 +55,8 @@ class AnalysisRules(unittest.TestCase):
 
     def test_zero_denominator_and_chance_agreement(self):
         self.assertIsNone(a.rate(0,0)['rate'])
+        self.assertEqual(a.wilson(0,10)[0],0.0)
+        self.assertEqual(a.wilson(10,10)[1],1.0)
         self.assertEqual(a.agreement([(False,False),(True,False)])['pct_agree'],.5)
         self.assertIsNone(a.agreement([(False,False)])['kappa'])
 

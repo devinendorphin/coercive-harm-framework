@@ -37,7 +37,7 @@ def wilson(k, n, z=1.96):
     p, zz = k/n, z*z
     center = (p + zz/(2*n))/(1 + zz/n)
     half = z*math.sqrt(p*(1-p)/n + zz/(4*n*n))/(1 + zz/n)
-    return [center-half, center+half]
+    return [max(0.0, center-half), min(1.0, center+half)]
 
 
 def rate(k, n):
@@ -436,6 +436,10 @@ def main():
         t['person_records_flagged']+=sum(key[0]==stem for key in qflags)
     for totals in result['quotation_totals_by_coder'].values():
         totals['found_rate']=totals['found']/totals['tested'] if totals['tested'] else None
+    result['quotation_totals']={k:sum(t[k] for t in result['quotation_totals_by_coder'].values())
+                                for k in ['tested','found','too_short','other_episode','person_records_flagged']}
+    totals=result['quotation_totals']
+    totals['found_rate']=totals['found']/totals['tested'] if totals['tested'] else None
     for group,comps in groups.items():
         pairs=[pair for comp in comps for pair in matches[comp]]
         left=[p for s,a,b in comps for k,p in recs.items() if k[0]==f's{s:02}_{a}']

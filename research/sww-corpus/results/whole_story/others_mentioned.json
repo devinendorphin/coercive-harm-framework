@@ -1,0 +1,3880 @@
+{
+  "s01_A": {
+    "entries": 11,
+    "numeric_subtotal_with_overlap": 10,
+    "numeric_entries": 8,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 3,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s01_B": {
+    "entries": 13,
+    "numeric_subtotal_with_overlap": 4,
+    "numeric_entries": 2,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s02_A": {
+    "entries": 6,
+    "numeric_subtotal_with_overlap": 7,
+    "numeric_entries": 4,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 4,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s02_B": {
+    "entries": 6,
+    "numeric_subtotal_with_overlap": 4,
+    "numeric_entries": 3,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s03_A": {
+    "entries": 11,
+    "numeric_subtotal_with_overlap": 14,
+    "numeric_entries": 9,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 5,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s03_B": {
+    "entries": 11,
+    "numeric_subtotal_with_overlap": 10,
+    "numeric_entries": 9,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 2,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s04_A": {
+    "entries": 11,
+    "numeric_subtotal_with_overlap": 935,
+    "numeric_entries": 4,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 918,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 4,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 12,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s04_B": {
+    "entries": 13,
+    "numeric_subtotal_with_overlap": 939,
+    "numeric_entries": 6,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 917,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 4,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 12,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s05_A": {
+    "entries": 13,
+    "numeric_subtotal_with_overlap": 11,
+    "numeric_entries": 9,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s05_B": {
+    "entries": 14,
+    "numeric_subtotal_with_overlap": 10,
+    "numeric_entries": 8,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 3,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s06_A": {
+    "entries": 11,
+    "numeric_subtotal_with_overlap": 17,
+    "numeric_entries": 7,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 11,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s06_B": {
+    "entries": 8,
+    "numeric_subtotal_with_overlap": 14,
+    "numeric_entries": 4,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 11,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s07_CA": {
+    "entries": 7,
+    "numeric_subtotal_with_overlap": 92,
+    "numeric_entries": 3,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 90,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s07_CB": {
+    "entries": 7,
+    "numeric_subtotal_with_overlap": 91,
+    "numeric_entries": 2,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 90,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s08_CA": {
+    "entries": 4,
+    "numeric_subtotal_with_overlap": 2,
+    "numeric_entries": 2,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s08_CB": {
+    "entries": 1,
+    "numeric_subtotal_with_overlap": 0,
+    "numeric_entries": 0,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s09_CA": {
+    "entries": 8,
+    "numeric_subtotal_with_overlap": 9,
+    "numeric_entries": 7,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 3,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s09_CB": {
+    "entries": 7,
+    "numeric_subtotal_with_overlap": 7,
+    "numeric_entries": 5,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 3,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s10_CA": {
+    "entries": 14,
+    "numeric_subtotal_with_overlap": 29,
+    "numeric_entries": 8,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 12,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 9,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s10_CB": {
+    "entries": 21,
+    "numeric_subtotal_with_overlap": 31,
+    "numeric_entries": 10,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 3,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 12,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other20",
+        "count_stated": 9,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s11_CA": {
+    "entries": 14,
+    "numeric_subtotal_with_overlap": 78,
+    "numeric_entries": 9,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 48,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 20,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s11_CB": {
+    "entries": 14,
+    "numeric_subtotal_with_overlap": 51,
+    "numeric_entries": 2,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 48,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s12_CA": {
+    "entries": 2,
+    "numeric_subtotal_with_overlap": 1,
+    "numeric_entries": 1,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s12_CB": {
+    "entries": 3,
+    "numeric_subtotal_with_overlap": 2,
+    "numeric_entries": 2,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s13_A": {
+    "entries": 15,
+    "numeric_subtotal_with_overlap": 32,
+    "numeric_entries": 10,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 4,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 20,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s13_B": {
+    "entries": 12,
+    "numeric_subtotal_with_overlap": 34,
+    "numeric_entries": 9,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 4,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 20,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s14_A": {
+    "entries": 9,
+    "numeric_subtotal_with_overlap": 87,
+    "numeric_entries": 8,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 45,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 25,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 12,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s14_B": {
+    "entries": 12,
+    "numeric_subtotal_with_overlap": 91,
+    "numeric_entries": 11,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 12,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 25,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 45,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s15_A": {
+    "entries": 31,
+    "numeric_subtotal_with_overlap": 62,
+    "numeric_entries": 25,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 7,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 6,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 2,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 20,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other20",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other21",
+        "count_stated": 4,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other22",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other23",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other24",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other25",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other26",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other27",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other28",
+        "count_stated": 3,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other29",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other30",
+        "count_stated": null,
+        "reached_institution": "no"
+      }
+    ]
+  },
+  "s15_B": {
+    "entries": 20,
+    "numeric_subtotal_with_overlap": 21,
+    "numeric_entries": 12,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 2,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s16_A": {
+    "entries": 10,
+    "numeric_subtotal_with_overlap": 75,
+    "numeric_entries": 8,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 25,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 40,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s16_B": {
+    "entries": 8,
+    "numeric_subtotal_with_overlap": 68,
+    "numeric_entries": 5,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 25,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 40,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s17_A": {
+    "entries": 4,
+    "numeric_subtotal_with_overlap": 10,
+    "numeric_entries": 3,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 4,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s17_B": {
+    "entries": 3,
+    "numeric_subtotal_with_overlap": 9,
+    "numeric_entries": 2,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 4,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s18_A": {
+    "entries": 29,
+    "numeric_subtotal_with_overlap": 137,
+    "numeric_entries": 24,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 20,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 50,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 4,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 20,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other20",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other21",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other22",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other23",
+        "count_stated": 20,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other24",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other25",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other26",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other27",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other28",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s18_B": {
+    "entries": 30,
+    "numeric_subtotal_with_overlap": 112,
+    "numeric_entries": 24,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 20,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 50,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other20",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other21",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other22",
+        "count_stated": 20,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other23",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other24",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other25",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other26",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other27",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other28",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other29",
+        "count_stated": null,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s19_A": {
+    "entries": 18,
+    "numeric_subtotal_with_overlap": 75,
+    "numeric_entries": 13,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 7,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 40,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 12,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": null,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s19_B": {
+    "entries": 22,
+    "numeric_subtotal_with_overlap": 82,
+    "numeric_entries": 18,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 7,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": 40,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 12,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other20",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other21",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s20_CA": {
+    "entries": 8,
+    "numeric_subtotal_with_overlap": 30,
+    "numeric_entries": 3,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 20,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 8,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s20_CB": {
+    "entries": 17,
+    "numeric_subtotal_with_overlap": 48,
+    "numeric_entries": 10,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 20,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 5,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 8,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 7,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": null,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s21_CA": {
+    "entries": 13,
+    "numeric_subtotal_with_overlap": 42,
+    "numeric_entries": 8,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 33,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s21_CB": {
+    "entries": 15,
+    "numeric_subtotal_with_overlap": 41,
+    "numeric_entries": 8,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 33,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s22_A": {
+    "entries": 18,
+    "numeric_subtotal_with_overlap": 585,
+    "numeric_entries": 13,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 300,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 200,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 50,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 2,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 23,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s22_B": {
+    "entries": 15,
+    "numeric_subtotal_with_overlap": 584,
+    "numeric_entries": 12,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 300,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 200,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 50,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 4,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 23,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s23_CA": {
+    "entries": 12,
+    "numeric_subtotal_with_overlap": 56,
+    "numeric_entries": 3,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 40,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 4,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 12,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s23_CB": {
+    "entries": 20,
+    "numeric_subtotal_with_overlap": 78,
+    "numeric_entries": 13,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 40,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 4,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 12,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 13,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s24_A": {
+    "entries": 30,
+    "numeric_subtotal_with_overlap": 130,
+    "numeric_entries": 22,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 100,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 3,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other20",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other21",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other22",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other23",
+        "count_stated": 2,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other24",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other25",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other26",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other27",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other28",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other29",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s24_B": {
+    "entries": 29,
+    "numeric_subtotal_with_overlap": 144,
+    "numeric_entries": 25,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": 100,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 12,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other17",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other18",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other19",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other20",
+        "count_stated": 3,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other21",
+        "count_stated": 1,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other22",
+        "count_stated": null,
+        "reached_institution": "no"
+      },
+      {
+        "other_id": "other23",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other24",
+        "count_stated": 2,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other25",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other26",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other27",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other28",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s25_CA": {
+    "entries": 17,
+    "numeric_subtotal_with_overlap": 29,
+    "numeric_entries": 5,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 24,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": 1,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s25_CB": {
+    "entries": 15,
+    "numeric_subtotal_with_overlap": 35,
+    "numeric_entries": 4,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 7,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": 24,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s26_CA": {
+    "entries": 15,
+    "numeric_subtotal_with_overlap": 41,
+    "numeric_entries": 4,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 3,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": 3,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 2,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 33,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s26_CB": {
+    "entries": 17,
+    "numeric_subtotal_with_overlap": 647,
+    "numeric_entries": 9,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": 4,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other3",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other4",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other5",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other6",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other7",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other8",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other9",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other10",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other11",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other12",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other13",
+        "count_stated": 33,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other14",
+        "count_stated": 600,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other15",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other16",
+        "count_stated": 1,
+        "reached_institution": "unknown"
+      }
+    ]
+  },
+  "s17_CA": {
+    "entries": 3,
+    "numeric_subtotal_with_overlap": 5,
+    "numeric_entries": 1,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "yes"
+      }
+    ]
+  },
+  "s17_CB": {
+    "entries": 3,
+    "numeric_subtotal_with_overlap": 5,
+    "numeric_entries": 1,
+    "rows": [
+      {
+        "other_id": "other0",
+        "count_stated": 5,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other1",
+        "count_stated": null,
+        "reached_institution": "yes"
+      },
+      {
+        "other_id": "other2",
+        "count_stated": null,
+        "reached_institution": "unknown"
+      }
+    ]
+  }
+}

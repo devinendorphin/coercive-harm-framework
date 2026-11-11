@@ -9,6 +9,7 @@ from pathlib import Path
 D=Path(sys.argv[1]);s=json.loads((D/'summary.json').read_text());lines=[]
 def out(x=''):lines.append(x)
 def pct(x):return 'unavailable' if x is None else f'{100*x:.1f}%'
+def points(x):return 'unavailable' if x is None else f'{100*x:.2f} points'
 def number(q,interval=True):
     text=f"{q['k']}/{q['n']} ({pct(q['rate'])})"
     if interval and q['n']:
@@ -48,8 +49,8 @@ for group,g in s['groups'].items():
         [names[m],number(primary['headline'][m]),primary['headline'][m]['disagreed'],primary['headline'][m]['omitted'],
          number(primary['own']['left'][m]),number(primary['own']['right'][m])] for m in names])
     table(['Prediction','Threshold','Claude band','Codex band','Band used','Distance','Decision'],[
-        [m,pct(dec['threshold']),pct(s['framing']['claude']['variants']['season_unchanged']['band'][m]),
-         pct(s['framing']['codex']['variants']['season_unchanged']['band'][m]),pct(dec['band']),pct(dec['distance']),dec['verdict']]
+        [m,pct(dec['threshold']),points(s['framing']['claude']['variants']['season_unchanged']['band'][m]),
+         points(s['framing']['codex']['variants']['season_unchanged']['band'][m]),points(dec['band']),points(dec['distance']),dec['verdict']]
         for m,dec in primary['decision'].items()])
     table(['Coder stream','Records','Unknown reached status','Protected/partly protected, unknown decisive worker'],[
         [c,ev['people'],ev['unknown_reached'],ev['protected_unknown_worker']] for c,ev in primary['own'].items()])
@@ -118,7 +119,7 @@ for family,fr in s['framing'].items():
         'S13 framing season is Claude **unblinded**, because no Codex neutral S13 pair exists.');out()
     v=fr['variants']['season_unchanged']
     table(['Coder',*short.values()],[[c]+[number(ev[m]) for m in short] for c,ev in v['own'].items()])
-    table(['Variant',*short.values()],[[variant]+[pct(ev['band'][m]) for m in short] for variant,ev in fr['variants'].items()])
+    table(['Variant',*short.values()],[[variant]+[points(ev['band'][m]) for m in short] for variant,ev in fr['variants'].items()])
 out('## Quotation checks and input flags');out()
 out('The match test checks wording against transcripts, not code validity or the truth of an '
     'account. Too-short quotations are outside the script’s tested denominator and flagged separately.');out()

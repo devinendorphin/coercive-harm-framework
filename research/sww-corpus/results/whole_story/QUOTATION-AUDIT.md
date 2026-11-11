@@ -1,12 +1,10 @@
 # Contrary-case and quotation checks — 2026-11-11
 
-*Checkpoint: the fixed manual sample check is complete. Full automatic quotation checks,
-S24 B failures and the complete rebuilt-chunk comparison are pending below.*
-
 This is an analysis audit by Codex, without subagents or new coders. It preserves every coder
 record. It checks whether the published interpretation survives contrary passages and fixed
 sensitivities; it is not a recoding of the seasons or independent verification of the
-underlying allegations.
+underlying allegations. The wording check uses Podscripts’ machine transcripts, not a new
+check of the original audio.
 
 ## Fixed selection and scope
 
@@ -28,7 +26,12 @@ not a random estimate of coding error.
 The original identity matches, unmatched dispositions and repeats were validated before
 calculation. No identity decision was changed after seeing codes. All recorded reading
 endpoints match the committed original chunk counts (502 entries across 68 coder files).
-The complete rebuilt-transcript comparison is pending; the original reading-log check is complete.
+All 387 original canonical transcripts were retrieved. Four inherited season assignments
+were restored from the committed index rather than lost with their discarded twins (D8).
+The 207 rebuilt reading files match the original line and word counts exactly, and all
+502 endpoints match the actual rebuilt files. All 68 quotation checks were rerun using
+that map; preliminary checks using slug-only assignment were replaced. The manifest and
+source-validation JSON save hashes and the four restored assignments.
 
 ## What would count against the findings, and what was found
 
@@ -101,7 +104,37 @@ replaces names with role descriptions. The underlying words/actions are present,
 automatic failures remain failures in the pre-fixed exclusion sensitivity. Medical treatment
 and removal of shackles do not by themselves establish safety from the subsequent forced labor.
 
-**S24 B:** pending the complete S24 transcript retrieval and recheck. The six known failures are not waived.
+**S24 B:** 193/199 quotations are found automatically, reproducing the six known failures.
+All six source passages were read by hand. They join separated text; several cited
+paragraph timestamps precede the actual words. Their automatic failure status is retained.
+
+| Record / field | Automatic score | Located source passage | What the passage supports and limits |
+|---|---|---|---|
+| P10 contact2 | 0.696 | S24 E3, about 72:24–73:07 | Writings about danger went to teachers; she says nobody helped. Dream-journal material separates the joined portions. This is her account of the lack of help, not a finding about what each teacher knew. |
+| P28 decisive | 0.655 | S24 E11, about 15:11–16:13 | A direct-care staff member asked about cameras being off; residents disclosed, police were called and an arrest followed. The two short excerpts omit intervening speech and later institutional action. |
+| P36 contact2 | 0.644 | S24 E15, about 46:06–47:08 | A classroom disclosure was treated as a striking story; “maybe you should report it” occurs within her description of what nobody thought to say. She also says she did not describe everything or recognize the trauma then. |
+| P39 contact1 | 0.724 | S24 E16, about 21:42–22:03 | A plea in a letter and her belief that it was redacted are present. The uncertainty “I think” belongs in the account; the transcript does not independently establish the redaction. |
+| P39 outcome | 0.571 | S24 E16, about 39:50–40:19 | Departure by flight after graduation; no external protective intervention is established by this passage. |
+| P57 contact3 | 0.724 | S24 E24, about 39:05–39:43 | A nurse’s report, DHS investigation and closure are described. Further context credits supportive social workers. Positive institutional action is retained alongside the failures. |
+
+**Additional S23 CB failures:** P01 contact11 and P02 contact7 score 0.765; P12 contact8
+scores 0.797. The first two share the ultrasound passage, S23 E1 about 60:56–61:06.
+P12’s treatment/feeding passage is in S23 E12 about 23:00–23:23. Both passages were read;
+the wording is present around the coder’s replacements of provider names with longer role
+labels. No provider names are republished here. These automatic failures also remain in the
+conservative exclusion sensitivity. Finding the words does not by itself prove that a response
+or outcome code follows from them.
+
+
+**Further automatic mismatches:** S05 A P04’s seventh never-reached quotation scores 0.786.
+Its wording is present in S5 E10 about 16:02–16:06; the unchanged heuristic missed it.
+S03 B `other2` (0.750) and `other7` (0.778) were also read against S3 E9 about 28:19 and
+S3 E11 about 23:35–23:40. They contain name substitutions and short excerpts. They do not
+flag a person record. `other7` repeats the first fiancée already followed in S1, a concrete
+example of why other-mentioned counts cannot be added to the followed-person count.
+All 16 below-bar passages were inspected; none was silently converted into an automatic pass.
+The 11 too-short quotations remain separately recorded and included in the broad person-record
+exclusion rule where applicable.
 
 ## Other limitations encountered
 
@@ -109,8 +142,10 @@ The seven deceased-with-protection flags were inspected as records. Several conc
 different, earlier harm: survival after a collision before death from cancer; adoption before
 a later fatal abuse; shelter during a relationship before a later partner’s alleged violence.
 The broad exclusion is therefore deliberately conservative. S16’s conviction-based protection
-call does not show a repaired financial loss; the code stays unchanged and is not defended
-merely because a court acted.
+call does not establish full repair of the financial loss. The transcript describes a receiver
+returning most of the investment, with about $5,000 and interest still lost. That partial
+recovery must not disappear either. The code stays unchanged; a conviction alone does not
+establish full protection.
 
 The 21 reached/outcome contradictions stay listed by file and ID in `flags.csv`, with no
 names in that report. Excluding these records does not repair or recode them. The automatically
@@ -121,4 +156,29 @@ other coders’ silence.
 
 ## Reproduction
 
-The final reproduction commands will be recorded when retrieval and the all-file check finish. The sample selection is reproducible with `tools/analyze_whole_story.py`; the fixed inputs and sample manifest are committed.
+From `research/sww-corpus/`, using fresh folders outside the repository for transcript
+and reading text:
+
+```sh
+python3 -I tools/rebuild_whole_story_sources.py results/whole_story /tmp/sww-frozen
+python3 -I tools/verify_whole_story_sources.py results/whole_story /tmp/sww-frozen /tmp/sww-read
+mkdir -p /tmp/sww-quote-inputs
+cp results/whole_story/coded/s*.json /tmp/sww-quote-inputs/
+python3 -I tools/check_quotes.py /tmp/sww-frozen /tmp/sww-quote-inputs/s*.json --frozen-index results/whole_story/episode_index.txt
+cp /tmp/sww-quote-inputs/*.quotecheck.json results/whole_story/quotation_checks/
+python3 -I tools/analyze_whole_story.py results/whole_story --quotechecks results/whole_story/quotation_checks
+python3 -I tools/render_whole_story_tables.py results/whole_story
+python3 -m unittest discover -s tools -p 'test_*.py'
+```
+
+The source verifier restores the frozen selection/assignment, prepares full reading files,
+compares original and actual counts, and checks every reported endpoint. The quotation
+algorithm’s threshold and matching heuristic are unchanged. Rebuilding the original 680 raw
+alternate files is unnecessary because the canonical selection and inherited assignments
+were frozen before coding. Transcript content was not shortened or summarized for any check.
+
+Nine rule/regression tests pass. An independent calculation from the generated identity CSV
+and untouched raw codes agrees with all 72 primary numerator/denominator pairs (four groups,
+six measures, agreed and both own-coder streams). Original coder JSON, identity hand decisions
+and repeat links are unchanged from the starting branch. No other analyst’s work was read
+or incorporated, and every commit/push remains on `analysis/whole-story-isolated`.
