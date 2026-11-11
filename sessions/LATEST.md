@@ -129,4 +129,10 @@ beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
   every CLAUDE.md under the working directories into each subagent. Blind coding runs outside this
   container (the `sww-coding-kit` route), and what the harness shows the coder is checked, not
   only what it opens.
+- **S-26 (NEW, Endorphin 2026-11-11).** **Grade evidence in public wording; never disclaim it
+  wholesale.** "Allegations, not verdicts" is retired. Convictions and records are stated as such.
+  A story is called "told solely from the person's own account" only after checking both coders'
+  codes and the transcript; mislabelling corroborated testimony as uncorroborated repeats the
+  lack of care the people in this corpus met. Public pieces are visual (people, timelines,
+  shapes), not bare figures.
 

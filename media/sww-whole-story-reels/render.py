@@ -300,6 +300,9 @@ class Card:
 
 # ---------------------------------------------------------------- captions
 CAPF = None
+import cards_visual
+cards_visual.install(Card, globals())
+
 def cap_pages(words):
     f = font("cap", 50)
     pages, cur, line, lines = [], [], [], 0

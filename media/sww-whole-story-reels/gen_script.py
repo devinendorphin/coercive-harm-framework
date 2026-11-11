@@ -18,10 +18,17 @@ for r in REELS:
               "quote": lambda: "“" + c["q"] + "” — " + c["by"], "stat": lambda: c["num"] + " — " + c["label"],
               "list": lambda: c["head"] + ": " + "; ".join(c["items"]),
               "cycle": lambda: f"cycle ring: {c['label']} [{c['marks']}]",
-              "bars": lambda: c["head"] + ": " + "; ".join(f"{x[0]} {x[1]}" for x in c["rows"])}[c["t"]]()
+              "bars": lambda: c["head"] + ": " + "; ".join(f"{x[0]} {x[1]}" for x in c["rows"]),
+              "tiles": lambda: f"{c['n']} numbered tiles appear — {c['label']}",
+              "chips": lambda: c["head"] + " — chips: " + ", ".join(c["items"]),
+              "pieces": lambda: f"{c['n']} squares fly together; {c['k']} turn blue — {c['num']}, {c['label']}",
+              "timeline": lambda: "timeline: " + " → ".join(n["label"] + (f" [{n['tag']}]" if n.get("tag") else "") for n in c["nodes"]),
+              "readers": lambda: f"two columns of text scroll apart ({c['a']} | {c['b']}) — {c['note']}",
+              "gauges": lambda: c["head"] + ": " + "; ".join(f"{i['label']} ({i['line'].lower()})" for i in c["items"]),
+              "eyes": lambda: f"open eye: {c['left'][0]}, {c['left'][1]}; blindfolded eye: {c['right'][0]}, {c['right'][1]} — {c['foot']}",
+              "dots": lambda: f"{c['n']} dots, one per person; {c['k']} turn blue — {c['num']}, {c['label']}; {c.get('after','')}",
+              "grades": lambda: "evidence cards: " + "; ".join(f"{i[0]} ({i[1]})" for i in c["items"])}[c["t"]]()
         L += [f"- {say}", f"  - *on screen:* {on}"]
     L.append("")
-L += ["Cycle-ring marks: y present · p partial · n absent · o not observable · d not described "
-      "(stages: love bombing, devalue, isolate, poison the well, discard, return)."]
 open("SCRIPT.md", "w").write("\n".join(L) + "\n")
 print(round(sum(json.load(open(f"build/timing_{r['slug']}.json"))["dur"] + 2.6 for r in REELS) / 60, 1), "min")
