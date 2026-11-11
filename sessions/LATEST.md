@@ -1,12 +1,12 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-11-01, session `sww-abc` (branch
-`ccr-c49788dd-8fejpj`, not yet merged to `main`).*
+this first (via CLAUDE.md). Last updated: 2026-11-11, session `whole-story-analysis` (branch
+`ccr-f78b372d-8qdcn9`, not yet merged to `main`).*
 
-**Read-first: `docs/09-synthesis.md`** then **`docs/10-power-critique.md`**. For the
-*Something Was Wrong* work: `research/sww-corpus/close-read/CROSS-SEASON.md` (tally through
-S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
+**Read-first: `docs/09-synthesis.md`** then **`docs/10-power-critique.md`**. For *Something Was
+Wrong*: `research/sww-corpus/results/whole_story/RESULTS.md` (newest, people followed whole),
+beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
 
 ---
 
@@ -16,37 +16,34 @@ S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
 |---|---|
 | 00-glossary | seeded |
 | 01-problem-statement | active; candidate gaps 6 and 7 |
-| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint added (liberty review); cluster coherence HYPOTHESIS |
-| 03-legal-framework | ACTIVE; fraud prong BLOCKED (S9 and S20 are the identity cases) |
-| 04-evidentiary-standards | ACTIVE; **C2 refuted in the corpus** recorded; untested-record rule needed (S19 div. 12) |
-| 05 / 06 | ACTIVE; liberty-reviewed (X7); doc 05 §1.3 rewritten |
-| 07 | ACTIVE; X3/X7/X10/X12/X17 verdicts in; **needs *Counterman* (2023) on prong 5** |
-| 08 | 31 objections; **OBJ-031 CONCEDED for this corpus**; OBJ-030 OPEN |
-| 09 / 10 | ACTIVE; doc 10 Finding B annotated with the power-vector result |
-| SWW corpus | **S1–S24 coded: 56 counted cycle target-cases**; S17–S19 read in full; S16, S20–S24 coded from notes; power-vector test run |
+| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint; cluster coherence HYPOTHESIS |
+| 03-legal-framework | ACTIVE; fraud prong BLOCKED (S9, S20 identity cases) |
+| 04-evidentiary-standards | ACTIVE; item 4 now carries both tests (63 % of responses; 21 % of people protected) |
+| 05 / 06 | ACTIVE; liberty-reviewed (X7) |
+| 07 | ACTIVE; **needs *Counterman* (2023) on prong 5** and an untested-record rule |
+| 08 | 31 objections; **OBJ-031 PARTLY ANSWERED** (second test: outcomes mostly not protective) |
+| 09 / 10 | ACTIVE; doc 10 Finding B annotated with both tests |
+| SWW whole-story test | **ANALYSED**: protected 21 % (holds); failure responses 31 % (split, not decided; 50 % for central survivors); decisive work 43 % (not decided); ~3 in 10 never reached. Quotation check pending at session end |
 
 ## Top 3 priorities for next session
 
-1. **Decide how the thesis absorbs OBJ-031.** *Reason:* the corpus no longer supports
-   "institutions mostly neutralize"; docs 09 and the case-file template should say
-   "present and nameable, worst in identifiable settings (S23, S24)" if Endorphin agrees.
-2. **Doc 07: add *Counterman v. Colorado* (2023) to prong 5, and a rule for untested
-   records** (police files kept without prosecution; S19 div. 12; S22's propensity case).
-   *Reason:* both came out of the coding and touch live mechanisms.
-3. **Merge the branch to `main`, then fix the counting-rule inconsistency** in
-   CROSS-SEASON (one rule for all 24 seasons). *Reason:* nine commits sit on the branch, and
-   the tally mixes two rules.
+1. **Endorphin rules on the open analysis questions** — whether D3's "Claude-only is the
+   pre-registered result" survives D5; whether emergency medical care counts as protection
+   (S23). *Reason:* each one decides how a headline is worded in RESULTS and docs 04/08.
+2. **Clean-environment Claude recode** of one or two seasons (D5's repair; S17 first) from the
+   kit repository. *Reason:* the only way to separate the CLAUDE.md exposure from the model
+   difference; also check whether the earlier power-vector coders were exposed.
+3. **Merge the branch, then decide how doc 09 states the institutional claim.** Suggested
+   wording to test: "single responses are often appropriate; people mostly do not end up
+   protected; disbelief or blame reaches about half of central survivors." *Reason:* the thesis
+   now has a measured outcome claim to replace "present and nameable."
 
 ## Open decisions awaiting Endorphin
 
-- How the thesis states C2 after OBJ-031.
-- Counting rule: count parent–child cases or not, for all seasons.
-- Fraud prong (§4): narrowed to enumerated material facts? Does "identity" include a
-  fabricated self (S9 "Arty", S20 "Brody")?
-- Psychological homicide (§3): Carter-narrow, or a non-enactment aspiration?
-- Base no-harm coercive-endangerment offense: criminal, or civil-only (OBJ-021)?
-- Whether, and how, to post the reels.
-- The CLAUDE.md session-workflow amendment proposed in `2026-11-01-sww-reels.md`.
+- D3 vs D5 (above); medical rescue as protection (above).
+- The proposed CLAUDE.md agreement on blind coders (`sessions/2026-11-11-whole-story-analysis.md`).
+- Carried: counting rule for CROSS-SEASON; fraud prong scope; psychological homicide scope;
+  base no-harm offense civil or criminal (OBJ-021); posting the reels.
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 
@@ -126,4 +123,12 @@ S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
   substitute for reading it. Count the people who never reached an institution. Grade evidence
   by corroboration, not by who wrote it. Plain language first. See
   `research/sww-corpus/SELF-AUDIT-2026-11-01.md`.
+- **S-24 (NEW, Endorphin 2026-11-11, process).** **Analysis runs in-session and by script.** No
+  subagents for analysis; counts, rates, agreement and bands come from committed scripts run on
+  the coded files; records are read by hand only to check them (matching, disconfirming samples,
+  published quotations). Decisions are committed before the figures they govern.
+- **S-25 (NEW, from D5).** **A coder is blind only if the harness was checked.** Claude Code loads
+  every CLAUDE.md under the working directories into each subagent. Blind coding runs outside this
+  container (the `sww-coding-kit` route), and what the harness shows the coder is checked, not
+  only what it opens.
 
