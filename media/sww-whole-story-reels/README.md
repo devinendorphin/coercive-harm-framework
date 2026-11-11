@@ -21,5 +21,8 @@ python gen_script.py
 |---|---|
 | 01 · Intro (2:00) | drafted 2026-11-11, awaiting Endorphin's review |
 
-**BOUNDARY.** Survivor testimony as broadcast; a podcast's selected stories, not a population
+**BOUNDARY.** Evidence is graded, not disclaimed: convictions and records are stated as such,
+and what rests on a survivor's word alone is attributed to them (about 4 in 10 coded stories; about
+6 in 10 are backed by a conviction, a document, a record the show checked or a second witness).
+No uncharged person is named. A podcast's selected stories, not a population
 rate; Claude coders were not blind and every result is shown for both model families.

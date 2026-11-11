@@ -2,7 +2,7 @@
 
 *What institutions did for the people of Something Was Wrong, Seasons 1–26. 1 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Source: `research/sww-corpus/results/whole_story/RESULTS.md` (branch `ccr-f78b372d-8qdcn9`). Made one reel at a time. Survivors keep the show's names; no perpetrator or uncharged person is named. Testimony as broadcast: allegations, not verdicts.*
 
-## 01 · Intro  (120 s)
+## 01 · Intro  (123 s)
 
 - Something Was Wrong is a podcast where people tell what was done to them, and what happened after. Twenty-six seasons. This series asks one question of all of them.
   - *on screen:* 26 seasons. One question. — Something Was Wrong · Seasons 1–26
@@ -24,7 +24,7 @@
   - *on screen:* A promise broken. — Claude coders: not blind · Codex coders: blind · every result shown both ways
 - Here is the first answer, and the clearest. Of the people who reached an institution, about one in five ended up protected. Under both families of coders, it stayed under one in three.
   - *on screen:* 1 in 5 — of people who reached an institution ended up protected
-- The rest, and what it does and doesn't mean, comes one piece at a time. Everything here is survivors' testimony, as broadcast. Allegations, not verdicts.
-  - *on screen:* One piece at a time. — testimony as broadcast · allegations, not verdicts
+- The rest, and what it does and doesn't mean, comes one piece at a time. Some of these stories ended in convictions and court records. Some rest on the survivor's word alone. Each piece will say which.
+  - *on screen:* One piece at a time. — convictions and records stated as such · a survivor's word attributed to them
 
 Cycle-ring marks: y present · p partial · n absent · o not observable · d not described (stages: love bombing, devalue, isolate, poison the well, discard, return).

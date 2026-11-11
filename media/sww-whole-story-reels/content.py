@@ -2,7 +2,8 @@
 # (coercive-harm-framework, research/sww-corpus/results/whole_story/RESULTS.md, branch
 # ccr-f78b372d-8qdcn9). Made one reel at a time (Endorphin, 2026-11-11). Every figure is from
 # RESULTS.md; survivors keep the show's names; no perpetrator or uncharged person is named.
-# Testimony as broadcast: allegations, not verdicts.
+# Evidence is graded, not disclaimed (Endorphin, 2026-11-11): convictions and records are stated as
+# such; what rests on a survivor's word alone is attributed to them. No uncharged person is named.
 #
 # Card kinds (shared renderer, see ../sww-reels/content.py): title, head, quote, stat, list, bars.
 
@@ -32,7 +33,7 @@ REELS = [
      "card": {"t": "head", "head": "A promise\nbroken.", "body": "Claude coders: not blind · Codex coders: blind · every result shown both ways"}},
     {"say": "Here is the first answer, and the clearest. Of the people who reached an institution, about one in five ended up protected. Under both families of coders, it stayed under one in three.",
      "card": {"t": "stat", "num": "1 in 5", "label": "of people who reached an institution ended up protected"}},
-    {"say": "The rest, and what it does and doesn't mean, comes one piece at a time. Everything here is survivors' testimony, as broadcast. Allegations, not verdicts.",
-     "card": {"t": "title", "big": "One piece\nat a time.", "small": "testimony as broadcast · allegations, not verdicts"}},
+    {"say": "The rest, and what it does and doesn't mean, comes one piece at a time. Some of these stories ended in convictions and court records. Some rest on the survivor's word alone. Each piece will say which.",
+     "card": {"t": "title", "big": "One piece\nat a time.", "small": "convictions and records stated as such · a survivor's word attributed to them"}},
   ]},
 ]

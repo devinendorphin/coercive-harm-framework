@@ -380,7 +380,7 @@ def main(slug):
     kd.rounded_rectangle([0, 0, kw - 1, 61], 31, outline=acc, width=3)
     x = 22
     for ch in ktxt: kd.text((x, 13), ch, font=kf, fill=acc); x += tw(kf, ch) + 3
-    foot = sprite(["Survivor testimony as broadcast · allegations, not verdicts"], font("med", 26), MUTED, 1.2)
+    foot = sprite(["Survivors' accounts and the public record · each piece says which"], font("med", 26), MUTED, 1.2)
     # end card
     nxt = REELS[ri + 1]["kicker"].title() if ri + 1 < len(REELS) else None
     end_big = sprite(SERIES.split(" · "), font("black", 120), FG, 1.02, 2)
