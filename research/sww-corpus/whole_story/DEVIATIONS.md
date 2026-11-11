@@ -147,3 +147,12 @@ prediction or threshold.*
    from the model family; the results will say so.
 7. **Each coder's own figures in the three-way report** are pooled by coder label: A and B over
    the Claude seasons, CA and CB over the Codex seasons.
+8. *(Added the same day, during person matching and still before any figure was computed.)* The
+   repeat list was extended after reading the records told only in the "case community update",
+   "behind the scenes" and community catch-up episodes (S19 e11; S23 e17–e19; S25 e23–e24; S26
+   e14), and the John Callas episode, which the corpus holds twice (S23 e20 and an S24 file). For a
+   person told in two seasons with no home season of their own (John Callas), the first season is
+   the home, as for the unassigned data episodes. The voting data episode is also held twice (S21 e17
+   and an S26 file); its people count in S21. S26's own episodes 14–15 retell the S7 family's story;
+   those records are S7 repeats. People told for the first time in these episodes
+   (e.g. S23 "Tom", S25 "Summer" and "Daniel", S19 "Amy (London doula)") are not repeats.
