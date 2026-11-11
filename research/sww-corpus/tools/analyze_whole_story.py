@@ -1,217 +1,447 @@
-"""Whole-story test analysis (follows whole_story/ANALYSIS-PLAN.md).
+"""Whole-story arithmetic, following ANALYSIS-PLAN and deviations D1-D7.
 
-  python3 -I analyze_whole_story.py <results/whole_story dir>
+python3 -I analyze_whole_story.py RESULTS_DIR [--quotechecks DIRECTORY]
 
-Reads coded/sNN_{A,B,POS,NEG}.json and matching_hand.csv (season,A_id,B_id,reason; B_id or A_id
-may be empty for a record judged to have no counterpart). Writes matching.csv and summary.json.
-Written before any coder output existed.
+No coder input is changed. Outputs summary.json, matching.csv, flags.csv,
+quotation_sample.json and others_mentioned.json. Codes/quotes/names never decide identity.
 """
-import csv, glob, json, math, os, re, sys
+import argparse
+import csv
+import json
+import math
+import re
 from collections import Counter, defaultdict
+from pathlib import Path
 
-D = sys.argv[1]
-W2_CODES = {"disbelieved", "blamed_punished_or_counter_accused", "condition_as_dismissal", "protected_itself"}
-NON_INST = {"the_person", "family_or_friends", "other_victims", "journalists_podcast_or_virality"}
-THRESH = {"W1": 0.40, "W2": 0.30, "W3": 0.50}
+W2_CODES = {'disbelieved', 'blamed_punished_or_counter_accused',
+            'condition_as_dismissal', 'protected_itself'}
+NON_INST = {'the_person', 'family_or_friends', 'other_victims',
+            'journalists_podcast_or_virality'}
+THRESH = {'W1': .4, 'W2': .3, 'W3': .5}
+METRICS = (*THRESH, 'W3_protected_only', 'never_reached', 'harmed_ever')
+CLAUDE = [1, 2, 3, 4, 5, 6, 13, 14, 15, 16, 17, 18, 19, 22, 24]
+CODEX = [7, 8, 9, 10, 11, 12, 17, 20, 21, 23, 25, 26]
+LABELS = {'all': 'Mixed: Claude unblinded / Codex blinded',
+          'claude': 'Claude unblinded', 'codex': 'Codex blinded',
+          'all_codex17': 'Mixed: Claude unblinded / Codex blinded; Codex S17 substituted'}
 
-def load(season, coder):
-    fn = f"{D}/coded/s{season:02d}_{coder}.json"
-    return json.load(open(fn)) if os.path.exists(fn) else None
 
-def ind(p):
-    r = (p.get("reached_institution") or "").lower()
-    out = p.get("outcome")
-    dec = p.get("decisive_work_by")
-    return {
-        "reached": r,
-        "protected": out == "protected",
-        "prot_any": out in ("protected", "partly_protected"),
-        "w2": any((c.get("response") in W2_CODES) for c in (p.get("contacts") or [])),
-        "w3": None if dec in (None, "unclear", "null", "") else dec in NON_INST,
-        "w3_raw": dec,
-        "harmed_ever": bool(p.get("harmed_by_institution_ever")),
-        "alone": "person_account_alone" in (p.get("evidence_types") or []),
-        "outcome": out,
-        "central": p.get("role_in_story") == "central_survivor",
-        "ncontacts": len(p.get("contacts") or []),
-        "reasons": (p.get("never_reached") or {}).get("reasons") or [],
-    }
+def norm(name):
+    # Keep parenthetical harm labels and digits; remove punctuation, not their contents.
+    return ' '.join(re.sub(r'\[unnamed\]|[^a-z0-9 ]', ' ', name.lower()).split())
 
-def norm(n):
-    n = (n or "").lower()
-    n = re.sub(r"\[unnamed\]|\(.*?\)|[^a-z ]", " ", n)
-    return " ".join(n.split())
 
 def wilson(k, n, z=1.96):
-    if not n: return [None, None]
-    p = k / n; d = 1 + z*z/n
-    c = (p + z*z/(2*n)) / d; h = z*math.sqrt(p*(1-p)/n + z*z/(4*n*n)) / d
-    return [round(c-h, 3), round(c+h, 3)]
+    if not n:
+        return [None, None]
+    p, zz = k/n, z*z
+    center = (p + zz/(2*n))/(1 + zz/n)
+    half = z*math.sqrt(p*(1-p)/n + zz/(4*n*n))/(1 + zz/n)
+    return [center-half, center+half]
 
-def kappa(pairs):
+
+def rate(k, n):
+    return {'k': k, 'n': n, 'rate': k/n if n else None, 'ci95': wilson(k, n)}
+
+
+def agreement(pairs):
     pairs = [(a, b) for a, b in pairs if a is not None and b is not None]
     n = len(pairs)
-    if not n: return None, None, 0
-    po = sum(a == b for a, b in pairs) / n
+    if not n:
+        return {'n': 0, 'pct_agree': None, 'kappa': None}
     ca, cb = Counter(a for a, _ in pairs), Counter(b for _, b in pairs)
-    pe = sum(ca[k] * cb[k] for k in set(ca) | set(cb)) / (n*n)
-    return round(po, 3), (round((po-pe)/(1-pe), 3) if pe < 1 else None), n
+    po = sum(a == b for a, b in pairs)/n
+    pe = sum(ca[k]*cb[k] for k in ca.keys() | cb.keys())/(n*n)
+    return {'n': n, 'pct_agree': po, 'kappa': (po-pe)/(1-pe) if pe < 1 else None}
 
-def own(recs):
-    """A coder's own figures on all its own records."""
-    reached = [i for i in recs if i["reached"] == "yes"]
-    prot = [i for i in reached if i["prot_any"] and i["w3"] is not None]
-    known = [i for i in recs if i["reached"] in ("yes", "no")]
-    f = {
-        "people": len(recs),
-        "W1": [sum(i["protected"] for i in reached), len(reached)],
-        "W2": [sum(i["w2"] for i in reached), len(reached)],
-        "W3": [sum(i["w3"] for i in prot), len(prot)],
-        "never_reached": [sum(i["reached"] == "no" for i in known), len(known)],
-        "harmed_ever": [sum(i["harmed_ever"] for i in reached), len(reached)],
-    }
-    for k in ("W1", "W2", "W3", "never_reached", "harmed_ever"):
-        a, b = f[k]; f[k] = {"k": a, "n": b, "rate": round(a/b, 3) if b else None}
-    return f
 
-seasons = sorted({int(re.search(r"s(\d+)_", os.path.basename(p)).group(1)) for p in glob.glob(f"{D}/coded/s*_A.json")})
-hand = defaultdict(list)
-if os.path.exists(f"{D}/matching_hand.csv"):
-    for r in csv.DictReader(open(f"{D}/matching_hand.csv")):
-        hand[int(r["season"])].append(r)
+def indicator(p):
+    worker = p.get('decisive_work_by')
+    reached, outcome = p.get('reached_institution'), p.get('outcome')
+    assert worker in NON_INST | {'institution', 'unclear', None}, worker
+    assert reached in {'yes', 'no', 'unclear'}, reached
+    assert outcome in {'protected', 'partly_protected', 'not_protected',
+                       'harmed_by_institution', 'never_reached'}, outcome
+    return dict(reached=reached, outcome=outcome, protected=outcome == 'protected',
+                prot_any=outcome in {'protected', 'partly_protected'},
+                W2=any(c['response'] in W2_CODES for c in p.get('contacts', [])),
+                W3=None if worker in {None, 'unclear'} else worker in NON_INST,
+                harmed_ever=p['harmed_by_institution_ever'],
+                alone='person_account_alone' in p.get('evidence_types', []),
+                central=p['role_in_story'] == 'central_survivor',
+                contacts=len(p.get('contacts', [])),
+                reasons=(p.get('never_reached') or {}).get('reasons') or [])
 
-matched, match_rows, allrec = [], [], defaultdict(list)
-for s in seasons:
-    A, B = load(s, "A"), load(s, "B")
-    if not (A and B): continue
-    pa = {p["person_id"]: p for p in A["persons"]}; pb = {p["person_id"]: p for p in B["persons"]}
-    for c, P in (("A", pa), ("B", pb)):
-        allrec[c] += [dict(ind(p), season=s) for p in P.values()]
-    used_a, used_b = set(), set()
-    for r in hand[s]:
-        if r["A_id"]: used_a.add(r["A_id"])
-        if r["B_id"]: used_b.add(r["B_id"])
-        if r["A_id"] and r["B_id"]:
-            matched.append((s, pa[r["A_id"]], pb[r["B_id"]])); match_rows.append([s, r["A_id"], r["B_id"], "hand", r["reason"]])
+
+def value(p, metric):
+    i = p['i']
+    if metric in {'W1', 'W2', 'harmed_ever'}:
+        if i['reached'] != 'yes':
+            return None
+        return i['protected'] if metric == 'W1' else i[metric]
+    if metric in {'W3', 'W3_protected_only'}:
+        eligible = i['protected'] if metric == 'W3_protected_only' else i['prot_any']
+        return i['W3'] if eligible else None
+    if metric == 'never_reached':
+        return i['reached'] == 'no' if i['reached'] in {'yes', 'no'} else None
+    raise ValueError(metric)
+
+
+def own(records):
+    out = {'people': len(records), 'unknown_reached': sum(p['i']['reached'] == 'unclear' for p in records),
+           'protected_unknown_worker': sum(p['i']['prot_any'] and p['i']['W3'] is None for p in records)}
+    for metric in METRICS:
+        vals = [value(p, metric) for p in records]
+        known = [v for v in vals if v is not None]
+        out[metric] = dict(rate(sum(known), len(known)), omitted=len(records)-len(known))
+    out['contacts_total'] = sum(p['i']['contacts'] for p in records)
+    out['contacts_mean'] = out['contacts_total']/len(records) if records else None
+    return out
+
+
+def agreed(pairs, metric):
+    k = n = disagreed = omitted = 0
+    for a, b in pairs:
+        x, y = value(a, metric), value(b, metric)
+        if x is None or y is None:
+            omitted += 1
+        elif x != y:
+            disagreed += 1
         else:
-            match_rows.append([s, r["A_id"], r["B_id"], "hand-unmatched", r["reason"]])
-    na = defaultdict(list); nb = defaultdict(list)
-    for i, p in pa.items():
-        if i not in used_a: na[norm(p["name"])].append(i)
-    for i, p in pb.items():
-        if i not in used_b: nb[norm(p["name"])].append(i)
-    for n in na:
-        if n and len(na[n]) == 1 and len(nb.get(n, [])) == 1:
-            a, b = na[n][0], nb[n][0]; used_a.add(a); used_b.add(b)
-            matched.append((s, pa[a], pb[b])); match_rows.append([s, a, b, "auto-name", n])
-    for i in pa:
-        if i not in used_a: match_rows.append([s, i, "", "unmatched", pa[i]["name"]])
-    for i in pb:
-        if i not in used_b: match_rows.append([s, "", i, "unmatched", pb[i]["name"]])
+            k += x
+            n += 1
+    return dict(rate(k, n), eligible=n+disagreed, disagreed=disagreed,
+                omitted=omitted, matched_total=len(pairs))
 
-with open(f"{D}/matching.csv", "w", newline="") as f:
-    w = csv.writer(f); w.writerow(["season", "A_id", "B_id", "method", "reason_or_name"]); w.writerows(match_rows)
 
-M = [(s, ind(a), ind(b), a, b) for s, a, b in matched]
-def agreed(pred, subset=lambda ia, ib: True):
-    num = den = dis = 0
-    for s, ia, ib, a, b in M:
-        if not subset(ia, ib): continue
-        if pred == "W1":
-            if not (ia["reached"] == ib["reached"] == "yes"): continue
-            x, y = ia["protected"], ib["protected"]
-        elif pred == "W2":
-            if not (ia["reached"] == ib["reached"] == "yes"): continue
-            x, y = ia["w2"], ib["w2"]
-        elif pred == "W3":
-            if not (ia["prot_any"] and ib["prot_any"]): continue
-            if ia["w3"] is None or ib["w3"] is None: continue
-            x, y = ia["w3"], ib["w3"]
-        elif pred == "W3_protected_only":
-            if not (ia["outcome"] == ib["outcome"] == "protected"): continue
-            if ia["w3"] is None or ib["w3"] is None: continue
-            x, y = ia["w3"], ib["w3"]
-        elif pred == "never_reached":
-            if ia["reached"] not in ("yes", "no") or ib["reached"] not in ("yes", "no"): continue
-            x, y = ia["reached"] == "no", ib["reached"] == "no"
-        elif pred == "harmed_ever":
-            if not (ia["reached"] == ib["reached"] == "yes"): continue
-            x, y = ia["harmed_ever"], ib["harmed_ever"]
-        if x == y: den += 1; num += x
-        else: dis += 1
-    return {"k": num, "n": den, "rate": round(num/den, 3) if den else None, "disagreed": dis, "ci95": wilson(num, den)}
+def evaluate(pairs, left, right):
+    return {'matched': len(pairs),
+            'headline': {m: agreed(pairs, m) for m in METRICS},
+            'own': {'left': own(left), 'right': own(right)},
+            'central_only': {
+                'agreed': {m: agreed([(a,b) for a,b in pairs if a['i']['central'] and b['i']['central']],m)
+                           for m in METRICS},
+                'own': {'left': own([p for p in left if p['i']['central']]),
+                        'right': own([p for p in right if p['i']['central']])}},
+            'agreement': fields_agreement(pairs, left, right),
+            'never_reached_reasons': reasons(pairs, left, right)}
 
-summary = {"seasons": seasons, "matched_people": len(M)}
-summary["headline"] = {k: agreed(k) for k in ("W1", "W2", "W3", "W3_protected_only", "never_reached", "harmed_ever")}
-summary["central_only"] = {k: agreed(k, lambda ia, ib: ia["central"] and ib["central"]) for k in ("W1", "W2", "W3", "never_reached")}
-summary["coder_own"] = {c: own(allrec[c]) for c in ("A", "B")}
-summary["by_season"] = {}
-for s in seasons:
-    Ms = [m for m in M if m[0] == s]
-    keep = M; M = Ms
-    summary["by_season"][s] = {k: agreed(k) for k in ("W1", "W2", "W3", "never_reached")}
-    summary["by_season"][s]["people_A"] = sum(1 for r in allrec["A"] if r["season"] == s)
-    summary["by_season"][s]["people_B"] = sum(1 for r in allrec["B"] if r["season"] == s)
-    summary["by_season"][s]["matched"] = len(Ms)
-    M = keep
 
-ag = {}
-ag["reached"] = kappa([(ia["reached"], ib["reached"]) for _, ia, ib, _, _ in M])
-ag["outcome"] = kappa([(ia["outcome"], ib["outcome"]) for _, ia, ib, _, _ in M])
-ag["W2_indicator"] = kappa([(ia["w2"], ib["w2"]) for _, ia, ib, _, _ in M if ia["reached"] == ib["reached"] == "yes"])
-ag["W3_indicator"] = kappa([(ia["w3"], ib["w3"]) for _, ia, ib, _, _ in M if ia["prot_any"] and ib["prot_any"]])
-ag["harmed_ever"] = kappa([(ia["harmed_ever"], ib["harmed_ever"]) for _, ia, ib, _, _ in M])
-ag["account_alone"] = kappa([(ia["alone"], ib["alone"]) for _, ia, ib, _, _ in M])
-na, nb = len(allrec["A"]), len(allrec["B"])
-ag["person_finding"] = {"found_by_both": len(M), "A_total": na, "B_total": nb,
-                        "rate": round(len(M) / (na + nb - len(M)), 3) if na + nb else None}
-ag["contacts_per_person"] = {"A": round(sum(r["ncontacts"] for r in allrec["A"]) / max(na, 1), 2),
-                             "B": round(sum(r["ncontacts"] for r in allrec["B"]) / max(nb, 1), 2)}
-summary["agreement"] = {k: (dict(zip(("pct_agree", "kappa", "n"), v)) if isinstance(v, tuple) else v) for k, v in ag.items()}
+def fields_agreement(pairs, left, right):
+    fields = {'reached': 'reached', 'outcome': 'outcome', 'W2_indicator': 'W2',
+              'W3_indicator': 'W3', 'harmed_ever': 'harmed_ever', 'account_alone': 'alone'}
+    out = {label: agreement([(a['i'][f], b['i'][f]) for a,b in pairs]) for label,f in fields.items()}
+    out['W2_eligible'] = agreement([(value(a,'W2'), value(b,'W2')) for a,b in pairs])
+    out['W3_eligible'] = agreement([(value(a,'W3'), value(b,'W3')) for a,b in pairs])
+    out['person_finding'] = dict(rate(len(pairs),len(left)+len(right)-len(pairs)),
+                                 left_total=len(left),right_total=len(right))
+    out['contacts'] = {side: {'total': sum(p['i']['contacts'] for p in records),
+                              'per_person': sum(p['i']['contacts'] for p in records)/len(records) if records else None}
+                       for side,records in [('left',left),('right',right)]}
+    return out
 
-# never-reached reasons
-rs = {"A": Counter(), "B": Counter(), "both": Counter()}
-for c in ("A", "B"):
-    for r in allrec[c]:
-        if r["reached"] == "no": rs[c].update(r["reasons"])
-for _, ia, ib, _, _ in M:
-    if ia["reached"] == ib["reached"] == "no":
-        rs["both"].update(set(ia["reasons"]) & set(ib["reasons"]))
-summary["never_reached_reasons"] = {k: dict(v.most_common()) for k, v in rs.items()}
 
-# people mentioned but never heard
-om = {}
-for s in seasons:
-    for c in ("A", "B"):
-        d = load(s, c)
-        if d: om.setdefault(s, {})[c] = [[o.get("description"), o.get("count_stated"), o.get("reached_institution")] for o in d.get("others_mentioned") or []]
-summary["others_mentioned"] = om
+def reasons(pairs, left, right):
+    out = {}
+    for side,records in [('left',left),('right',right)]:
+        c = Counter()
+        for p in records:
+            if p['i']['reached'] == 'no':
+                c.update(set(p['i']['reasons']))
+        out[side] = dict(sorted(c.items()))
+    both = Counter()
+    for a,b in pairs:
+        if a['i']['reached'] == b['i']['reached'] == 'no':
+            both.update(set(a['i']['reasons']) & set(b['i']['reasons']))
+    out['both'] = dict(sorted(both.items()))
+    return out
 
-# framing band
-fr = {}
-fseasons = [s for s in range(1, 40) if os.path.exists(f"{D}/coded/s{s:02d}_POS.json")]
-if fseasons:
-    recs = defaultdict(list)
-    for s in fseasons:
-        for c in ("POS", "NEG", "A", "B"):
-            d = load(s, c)
-            if d: recs[c] += [ind(p) for p in d["persons"]]
-    fr = {"seasons": fseasons, "own": {c: own(recs[c]) for c in recs}}
-    band = {}
-    for k in ("W1", "W2", "W3", "never_reached"):
-        a, b = fr["own"]["POS"][k]["rate"], fr["own"]["NEG"][k]["rate"]
-        band[k] = round(abs(a - b), 3) if a is not None and b is not None else None
-    fr["band"] = band
-    dec = {}
-    for k, t in THRESH.items():
-        h = summary["headline"][k]["rate"]
-        if h is None or band.get(k) is None: dec[k] = None; continue
-        dist = abs(h - t)
-        verdict = ("refuted" if (h >= t if k == "W1" else h < t) else "not refuted")
-        dec[k] = {"headline": h, "threshold": t, "distance": round(dist, 3), "band": band[k],
-                  "verdict": verdict if band[k] <= dist else "not decided by this method"}
-    fr["decision"] = dec
-summary["framing"] = fr
-json.dump(summary, open(f"{D}/summary.json", "w"), indent=1)
-print(json.dumps({k: summary[k] for k in ("matched_people", "headline", "agreement")}, indent=1))
-if fr: print(json.dumps(fr.get("decision"), indent=1), json.dumps(fr.get("band")))
+
+class Union:
+    def __init__(self, keys):
+        self.parent = {k:k for k in keys}
+
+    def root(self, k):
+        if self.parent[k] != k:
+            self.parent[k] = self.root(self.parent[k])
+        return self.parent[k]
+
+    def join(self, a, b):
+        self.parent[self.root(b)] = self.root(a)
+
+
+def read_inputs(directory):
+    docs, recs = {}, {}
+    for path in sorted((directory/'coded').glob('s*.json')):
+        d = json.loads(path.read_text())
+        assert path.stem == f"s{d['season']:02}_{d['coder']}", path
+        docs[path.stem] = d
+        ids = set()
+        for p in d['persons']:
+            pid = p['person_id']
+            assert pid not in ids, (path, pid)
+            ids.add(pid)
+            key = path.stem,pid
+            recs[key] = dict(key=key, season=d['season'], coder=d['coder'], raw=p, i=indicator(p))
+    return docs,recs
+
+
+def make_matches(directory, docs, recs, comparisons):
+    hand = defaultdict(list)
+    for r in csv.DictReader((directory/'matching_hand.csv').open()):
+        hand[int(r['season']),r['left_coder'],r['right_coder']].append(r)
+    assert set(hand) <= set(comparisons)
+    rows, matches = [], {}
+    for season, lc, rc in comparisons:
+        lf,rf = f's{season:02}_{lc}',f's{season:02}_{rc}'
+        pa = {p['person_id']: recs[lf,p['person_id']] for p in docs[lf]['persons']}
+        pb = {p['person_id']: recs[rf,p['person_id']] for p in docs[rf]['persons']}
+        ua,ub = set(),set()
+        pairs = []
+        def add(a,b,method,reason):
+            for pid,records,used in [(a,pa,ua),(b,pb,ub)]:
+                if pid:
+                    assert pid in records and pid not in used, (season,lc,rc,pid)
+                    used.add(pid)
+            assert reason and (a or b)
+            rows.append([season,lc,rc,a,b,method,reason])
+            if a and b:
+                pairs.append((pa[a],pb[b]))
+        for r in hand[season,lc,rc]:
+            add(r['A_id'],r['B_id'],'hand' if r['A_id'] and r['B_id'] else 'hand-unmatched',r['reason'])
+        na,nb = defaultdict(list),defaultdict(list)
+        for pid,p in pa.items():
+            if pid not in ua:
+                na[norm(p['raw']['name'])].append(pid)
+        for pid,p in pb.items():
+            if pid not in ub:
+                nb[norm(p['raw']['name'])].append(pid)
+        for n in sorted(na):
+            if n and len(na[n]) == len(nb[n]) == 1:
+                add(na[n][0],nb[n][0],'auto-name','Unique normalized full name; identity reviewed before calculation.')
+        assert ua == set(pa) and ub == set(pb), (season,lc,rc,'missing unmatched disposition')
+        matches[season,lc,rc] = sorted(pairs,key=lambda pair:pair[0]['key'])
+    with (directory/'matching.csv').open('w',newline='') as f:
+        w=csv.writer(f)
+        w.writerow(['season','left_coder','right_coder','A_id','B_id','method','reason'])
+        w.writerows(rows)
+    return matches
+
+
+def repeat_union(directory, recs, matches):
+    u=Union(recs)
+    # All identity-only matches, including S17 cross-family matches, propagate identity.
+    for pairs in matches.values():
+        for a,b in pairs:
+            u.join(a['key'],b['key'])
+    seen=set()
+    for r in csv.DictReader((directory/'repeat_links.csv').open()):
+        a=(r['from_file'],r['from_id']); b=(r['to_file'],r['to_id'])
+        assert a in recs and b in recs and (a,b) not in seen
+        assert recs[a]['season'] < recs[b]['season'] and r['reason']
+        seen.add((a,b));u.join(a,b)
+    return u
+
+
+def unique_records(records, union):
+    seen=set();out=[]
+    for p in sorted(records,key=lambda p:(p['season'],p['key'])):
+        ident=union.root(p['key'])
+        if ident not in seen:
+            seen.add(ident);out.append(p)
+    return out
+
+
+def unique_pairs(pairs, union):
+    seen=set();out=[]
+    for a,b in sorted(pairs,key=lambda pair:(pair[0]['season'],pair[0]['key'])):
+        ident=union.root(a['key'])
+        if ident not in seen:
+            seen.add(ident);out.append((a,b))
+    return out
+
+
+def quote_flags(qdir, docs, recs):
+    if qdir is None:
+        return None,{}
+    flags=set();report={}
+    for stem,d in docs.items():
+        path=qdir/(stem+'.json.quotecheck.json')
+        assert path.exists(),path
+        rows=json.loads(path.read_text());by_pid=defaultdict(list)
+        for pid,field,score,where in rows:
+            if not isinstance(score,(float,int)) or score < .8:
+                if (stem,pid) in recs:
+                    flags.add((stem,pid))
+                by_pid[pid].append({'field':field,'score':score,'where':where})
+        for p in d['persons']:
+            if not p.get('outcome_quote'):
+                flags.add((stem,p['person_id']))
+                by_pid[p['person_id']].append({'field':'outcome','score':'missing','where':None})
+        tested=[r for r in rows if isinstance(r[2],(float,int))]
+        report[stem]={'tested':len(tested),'found':sum(r[2]>=.8 for r in tested),
+                      'too_short':sum(r[2]=='too-short' for r in rows),
+                      'other_episode':sum(r[2]>=.8 and r[3]=='other-episode' for r in tested),
+                      'failures':dict(by_pid)}
+    return flags,report
+
+
+def framing(docs, recs, union, variants):
+    out={}
+    for family,seasons,coders in [('claude',[2,3,4,13,22,24],['POS','NEG','A','B']),
+                                   ('codex',[13],['CPOS','CNEG','A','B'])]:
+        out[family]={'label': 'Claude unblinded' if family=='claude' else 'Codex blinded; neutral S13 A/B is Claude unblinded',
+                     'seasons':seasons,'variants':{}}
+        for variant,(dedup,excluded) in variants.items():
+            rates={}
+            for coder in coders:
+                records=[p for p in recs.values() if p['season'] in seasons and p['coder']==coder]
+                if dedup:
+                    records=unique_records(records,union)
+                records=[p for p in records if p['key'] not in excluded]
+                rates[coder]=own(records)
+            pos,neg=coders[:2]
+            bands={}
+            for metric in (*THRESH,'never_reached'):
+                a,b=rates[pos][metric]['rate'],rates[neg][metric]['rate']
+                bands[metric]=abs(a-b) if a is not None and b is not None else None
+            out[family]['variants'][variant]={'own':rates,'band':bands}
+    return out
+
+
+def decisions(headline, bands, group):
+    out={}
+    for metric,threshold in THRESH.items():
+        families=['claude','codex'] if group.startswith('all') else [group]
+        values=[bands[f][metric] for f in families]
+        band=max(values) if all(v is not None for v in values) else None
+        h=headline[metric]['rate']
+        distance=abs(h-threshold) if h is not None else None
+        raw=None if h is None else ('refuted' if (h>=threshold if metric=='W1' else h<threshold) else 'not refuted')
+        verdict='not decided by this method' if h is None or band is None or distance<band else raw
+        out[metric]={'rate':h,'threshold':threshold,'distance':distance,
+                     'family_bands':{f:bands[f][metric] for f in families},'band':band,
+                     'threshold_verdict':raw,'verdict':verdict}
+    return out
+
+
+def select_sample(groups, matches, recs):
+    sample=[]
+    for group,comparisons in groups.items():
+        if group=='all_codex17':
+            continue
+        pairs=[pair for comp in comparisons for pair in matches[comp]]
+        for metric in (*THRESH,'never_reached'):
+            for category in ['agreed_positive','agreed_negative','disagreed']:
+                for a,b in pairs:
+                    x,y=value(a,metric),value(b,metric)
+                    if x is None or y is None:
+                        continue
+                    hit=(x!=y) if category=='disagreed' else (x==y and x==(category=='agreed_positive'))
+                    if hit:
+                        sample.append({'group':group,'metric':metric,'category':category,
+                                       'left':a['key'],'right':b['key']})
+                        break
+    # A source locator for the first no-reach reason example in each coder stream.
+    reason_samples=[];seen=set()
+    for p in sorted([p for p in recs.values() if p['coder'] in {'A','B','CA','CB'}], key=lambda p:p['key']):
+        if p['i']['reached']!='no':
+            continue
+        for q in (p['raw'].get('never_reached') or {}).get('quotes') or []:
+            reason=q.get('reason')
+            if reason not in seen:
+                seen.add(reason);reason_samples.append({'record':p['key'],'reason':reason,'source':q.get('source')})
+    return {'selection':'D7; first eligible positive, negative and disagreement by season/ID; no recoding',
+            'pairs':sample,'reason_examples':reason_samples}
+
+
+def main():
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('directory',type=Path)
+    parser.add_argument('--quotechecks',type=Path)
+    args=parser.parse_args();d=args.directory
+    docs,recs=read_inputs(d)
+    primary=[(s,'A','B') if s in CLAUDE else (s,'CA','CB') for s in range(1,27)]
+    cross=[(17,a,b) for a in ['A','B'] for b in ['CA','CB']]
+    comparisons=primary+[(17,'CA','CB')]+cross
+    matches=make_matches(d,docs,recs,comparisons)
+    union=repeat_union(d,recs,matches)
+    # Assert propagation has not accidentally merged separate records within a coder/season.
+    for stem in docs:
+        keys=[k for k in recs if k[0]==stem]
+        assert len({union.root(k) for k in keys})==len(keys),(stem,'identity collision')
+    contradiction={k for k,p in recs.items() if
+                   (p['i']['outcome']=='never_reached' and p['i']['reached']!='no') or
+                   (p['i']['reached']=='no' and p['i']['outcome']!='never_reached')}
+    death={k for k,p in recs.items() if p['raw'].get('deceased') and p['i']['prot_any']}
+    qflags,qreport=quote_flags(args.quotechecks,docs,recs)
+    with (d/'flags.csv').open('w',newline='') as f:
+        w=csv.writer(f);w.writerow(['file','person_id','flag'])
+        for label,flags in [('reached_outcome_contradiction',contradiction),('deceased_with_protection',death),
+                            ('quotation_check',qflags or set())]:
+            for stem,pid in sorted(flags):w.writerow([stem+'.json',pid,label])
+    variants={
+        'season_unchanged':(False,set()),'season_no_contradictions':(False,contradiction),
+        'unique_unchanged':(True,set()),'unique_no_contradictions':(True,contradiction),
+        'season_no_deceased_protection':(False,death)}
+    if qflags is not None:
+        variants.update(season_quotes_pass=(False,qflags),unique_quotes_pass=(True,qflags),
+                        season_quotes_and_consistency=(False,qflags|contradiction),
+                        unique_quotes_and_consistency=(True,qflags|contradiction))
+    fr=framing(docs,recs,union,variants)
+    groups={'all':primary,'claude':[(s,'A','B') for s in CLAUDE],
+            'codex':[(s,'CA','CB') for s in CODEX],
+            'all_codex17':[(17,'CA','CB') if c[0]==17 else c for c in primary]}
+    result={'method':'ANALYSIS-PLAN.md; DEVIATIONS.md D1-D7; inputs unchanged',
+            'labels':LABELS,'flags':{'contradictions':len(contradiction),'deceased_protection':len(death),
+                                    'quote_records':len(qflags) if qflags is not None else None},
+            'quotation_checks':qreport,'framing':fr,'groups':{}}
+    for group,comps in groups.items():
+        pairs=[pair for comp in comps for pair in matches[comp]]
+        left=[p for s,a,b in comps for k,p in recs.items() if k[0]==f's{s:02}_{a}']
+        right=[p for s,a,b in comps for k,p in recs.items() if k[0]==f's{s:02}_{b}']
+        report={'label':LABELS[group],'seasons':[c[0] for c in comps],'variants':{},'by_season':{}}
+        for variant,(dedup,excluded) in variants.items():
+            # Earliest matched/own appearance retained BEFORE flags, eligibility and agreement.
+            pp=unique_pairs(pairs,union) if dedup else pairs
+            ll=unique_records(left,union) if dedup else left
+            rr=unique_records(right,union) if dedup else right
+            pp=[(a,b) for a,b in pp if a['key'] not in excluded and b['key'] not in excluded]
+            ll=[p for p in ll if p['key'] not in excluded];rr=[p for p in rr if p['key'] not in excluded]
+            ev=evaluate(pp,ll,rr)
+            bands={f:fr[f]['variants'][variant]['band'] for f in fr}
+            ev['decision']=decisions(ev['headline'],bands,group)
+            report['variants'][variant]=ev
+        for s,a,b in comps:
+            ll=[p for p in left if p['season']==s];rr=[p for p in right if p['season']==s]
+            report['by_season'][s]={'coders':[a,b],'label':'Claude unblinded' if a=='A' else 'Codex blinded',
+                                     **evaluate(matches[s,a,b],ll,rr)}
+        result['groups'][group]=report
+    result['s17_crosscheck']={}
+    for s,a,b in cross+[(17,'A','B'),(17,'CA','CB')]:
+        ll=[p for p in recs.values() if p['season']==s and p['coder']==a]
+        rr=[p for p in recs.values() if p['season']==s and p['coder']==b]
+        result['s17_crosscheck'][a+'-'+b]=evaluate(matches[s,a,b],ll,rr)
+    others={}
+    for comp in primary+[(17,'CA','CB')]:
+        s,a,b=comp
+        for coder in [a,b]:
+            stem=f's{s:02}_{coder}';entries=docs[stem].get('others_mentioned') or []
+            # Descriptions and quotes can contain uncharged people's names; publish IDs/counts only.
+            numeric=[o['count_stated'] for o in entries if isinstance(o.get('count_stated'),(int,float))]
+            others[stem]={'entries':len(entries),'numeric_subtotal_with_overlap':sum(numeric),
+                           'numeric_entries':len(numeric),
+                           'rows':[{'other_id':f'other{i}','count_stated':o.get('count_stated'),
+                                    'reached_institution':o.get('reached_institution')} for i,o in enumerate(entries)]}
+    result['others_mentioned']=others
+    (d/'others_mentioned.json').write_text(json.dumps(others,indent=2)+'\n')
+    (d/'quotation_sample.json').write_text(json.dumps(select_sample(groups,matches,recs),indent=2)+'\n')
+    (d/'summary.json').write_text(json.dumps(result,indent=2)+'\n')
+    print('Validated identities and wrote analysis; quotation checks:', 'included' if qflags is not None else 'PENDING')
+    for group in groups:
+        ev=result['groups'][group]['variants']['season_unchanged']
+        print(group,[(m,ev['headline'][m]['k'],ev['headline'][m]['n'],ev['decision'][m]['verdict']) for m in THRESH])
+
+
+if __name__=='__main__':
+    main()

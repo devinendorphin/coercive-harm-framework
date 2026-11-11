@@ -26,3 +26,11 @@ employers in S23 cannot be equated with the pregnancy dismissal in S16. The grou
 update is not one identified S18 individual. Repeated first names with different harms or
 perpetrators are not links. The deduplicated figures therefore mean identifiable
 person–harm stories, not an exact count of unique human beings.
+
+Continuation check (2026-11-11): framing identities were inspected for repeat sensitivity.
+No identifiable person–harm story occurs in more than one of the framing seasons in a
+framing coder stream. Sara's S3 update and the three separate S24 John stories have earlier
+neutral appearances, but those earlier seasons are outside the framing sample and cannot
+replace a framing record. Repeated first names across framing seasons (Tom; Brittany)
+have different perpetrator roles and harms. The within-framing repeat removal therefore
+leaves the framing bands unchanged. No identity match was revised using a result.
