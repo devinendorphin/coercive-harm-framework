@@ -1,52 +1,39 @@
 # LATEST — Continuity Seed
 
-*The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-11-01, session `sww-abc` (branch
-`ccr-c49788dd-8fejpj`, not yet merged to `main`).*
-
-**Read-first: `docs/09-synthesis.md`** then **`docs/10-power-critique.md`**. For the
-*Something Was Wrong* work: `research/sww-corpus/close-read/CROSS-SEASON.md` (tally through
-S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
-
----
+*Updated 2026-11-11, session `whole-story-analysis-handoff`. Main contains committed
+analysis decisions and identity matches; no whole-story headline has been computed.*
 
 ## Where the project stands
 
-| Doc / area | State |
-|---|---|
-| 00-glossary | seeded |
-| 01-problem-statement | active; candidate gaps 6 and 7 |
-| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint added (liberty review); cluster coherence HYPOTHESIS |
-| 03-legal-framework | ACTIVE; fraud prong BLOCKED (S9 and S20 are the identity cases) |
-| 04-evidentiary-standards | ACTIVE; **C2 refuted in the corpus** recorded; untested-record rule needed (S19 div. 12) |
-| 05 / 06 | ACTIVE; liberty-reviewed (X7); doc 05 §1.3 rewritten |
-| 07 | ACTIVE; X3/X7/X10/X12/X17 verdicts in; **needs *Counterman* (2023) on prong 5** |
-| 08 | 31 objections; **OBJ-031 CONCEDED for this corpus**; OBJ-030 OPEN |
-| 09 / 10 | ACTIVE; doc 10 Finding B annotated with the power-vector result |
-| SWW corpus | **S1–S24 coded: 56 counted cycle target-cases**; S17–S19 read in full; S16, S20–S24 coded from notes; power-vector test run |
+- Taxonomy (02): active; cluster coherence remains a hypothesis.
+- Legal (03): active; civil-first and words-only limits remain.
+- Evidence (04): active; earlier segment result remains on record; whole-story analysis pending.
+- Accommodation / therapy (05/06): active; existing limits unchanged.
+- Safeguards (07): active; Counterman and untested-record work still pending.
+- Objections (08): active; OBJ-031 needs the whole-story findings once computed.
+- Synthesis / power critique (09/10): active; whole-story update pending.
+- SWW whole-story coding: complete through S26, including framing pairs and S17 cross-check.
+- Analysis: D6 decisions committed before calculation; identity matches and repeats committed.
+- Measurement limit: Claude coders unblinded (D5); only Codex coders blinded as promised.
 
 ## Top 3 priorities for next session
 
-1. **Decide how the thesis absorbs OBJ-031.** *Reason:* the corpus no longer supports
-   "institutions mostly neutralize"; docs 09 and the case-file template should say
-   "present and nameable, worst in identifiable settings (S23, S24)" if Endorphin agrees.
-2. **Doc 07: add *Counterman v. Colorado* (2023) to prong 5, and a rule for untested
-   records** (police files kept without prosecution; S19 div. 12; S22's propensity case).
-   *Reason:* both came out of the coding and touch live mechanisms.
-3. **Merge the branch to `main`, then fix the counting-rule inconsistency** in
-   CROSS-SEASON (one rule for all 24 seasons). *Reason:* nine commits sit on the branch, and
-   the tally mixes two rules.
+1. **Resume the whole-story analysis from main.** Read
+   `sessions/2026-11-11-whole-story-analysis-handoff.md`, required design documents and
+   `results/whole_story/MATCHING-NOTES.md`. Decisions and identity work are pushed in
+   `d03752d` and `b773dac`. Do not restart coding or use subagents.
+2. **Validate transcript-site access in the updated environment, then complete checks.**
+   Endorphin added podscripts.co and republished the SWW environment; the previous running
+   instance retained its old policy. Known S24 B / S04 NEG quotation issues are not waived.
+3. **Compute, disconfirm and write the results, then update their citations.** Extend the
+   existing script, report all three model groups and sensitivity variants, check samples,
+   update README/docs 04/08/10 and self-audit, commit and push each stage, and run session-log.
 
 ## Open decisions awaiting Endorphin
 
-- How the thesis states C2 after OBJ-031.
-- Counting rule: count parent–child cases or not, for all seasons.
-- Fraud prong (§4): narrowed to enumerated material facts? Does "identity" include a
-  fabricated self (S9 "Arty", S20 "Brody")?
-- Psychological homicide (§3): Carter-narrow, or a non-enactment aspiration?
-- Base no-harm coercive-endangerment offense: criminal, or civil-only (OBJ-021)?
-- Whether, and how, to post the reels.
-- The CLAUDE.md session-workflow amendment proposed in `2026-11-01-sww-reels.md`.
+Earlier legal/framework decisions remain open: fraud-prong scope, psychological homicide,
+criminal versus civil-only endangerment, and proposed session-workflow amendment. The
+whole-story analysis choices requested for this session are fixed in D6, not awaiting approval.
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 
