@@ -190,7 +190,7 @@ field research, consistent with the institutional-betrayal literature (Freyd) th
 the Michigan figures come from that university's own public report.*
 
 **Moves this project already names, found by an institutional researcher:**
-- **"Fragmenting violence"** (her concept): when an office received several concerns about one
+- **"Fragmenting violence"** (her concept; filed in the veriticide ledger as Pattern Registry Entry 18, a named sub-form of Protocol move 3, Fragmentation): when an office received several concerns about one
   perpetrator, from one victim or many, it "would separate them all off individually and say that any
   evidence given to one case probably couldn't be used in another case … into these little tiny, easily
   dismissable pieces, which led to these huge benefits for some of the most prolific perpetrators." *The
