@@ -20,7 +20,7 @@ python gen_script.py
 | Reel | Status |
 |---|---|
 | 01 · Intro (2:10) | v3 2026-11-11: visual cards (tiles, timeline, readers, gauges, eyes, one dot per person, evidence cards); awaiting review |
-| 02 · Same moves (2:54) | v1 2026-11-12: arc 1 opener; close-read tallies as dot rows (new `dotrows` card), the isolation test's failure, the room hypothesis, 72 misfits; evidence checks in `CHECKS.md`; awaiting review |
+| 02 · Same moves (3:07) | v2 2026-11-12 (misfit scene rewritten after review): arc 1 opener; close-read tallies as dot rows (new `dotrows` card), the isolation test's failure, the room hypothesis, 72 misfits; evidence checks in `CHECKS.md`; awaiting review |
 
 **BOUNDARY.** Evidence is graded, not disclaimed: convictions and records are stated as such,
 and what rests on a survivor's word alone is attributed to them (about 4 in 10 coded stories; about

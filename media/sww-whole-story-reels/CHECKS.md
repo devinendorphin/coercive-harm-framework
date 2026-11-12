@@ -27,3 +27,13 @@ The other figures are corpus-level counts from `research/sww-corpus/close-read/C
 
 The isolation test (7 of 26 seasons, 27 %; post-hoc 77 %) is from `research/sww-corpus/README.md`.
 The C1 forms shown are generic labels of coded forms, attached to no person.
+
+### Reel 02 revision (2026-11-12, after Endorphin's question)
+
+The first cut said one story "breaks the pattern outright… though nothing stood in its way", for "about
+three years". That was vague (three years of a marriage, not of the show) and it misstated divergence 47:
+devaluation was absent toward the wife because she was the route to the children, not the target. Rewritten.
+
+| Story | Coders' `evidence_types` | Wording used |
+|---|---|---|
+| S15e Diana: husband's abuse of her daughter and niece | A: conviction, document_read_on_air, second_witness · B: conviction, document_read_on_air, second_witness (close read: federal plea, 30-year sentence read from the court record) | "He pleaded guilty in federal court and was sentenced to thirty years." Her quote is from her victim statement as broadcast. The children are not named; the perpetrator is not named. |
