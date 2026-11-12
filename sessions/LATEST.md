@@ -135,4 +135,10 @@ beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
   codes and the transcript; mislabelling corroborated testimony as uncorroborated repeats the
   lack of care the people in this corpus met. Public pieces are visual (people, timelines,
   shapes), not bare figures.
+- **S-28 (NEW, Endorphin 2026-11-12).** **A disconfirming test is one test on the claim, not
+  procedural drag.** Do not stack safeguards, caveats or extra study arms on a plain request,
+  and do not presume Endorphin wants a preferred answer: the record shows him volunteering
+  evidence against his own side (S7 memory slip, the medical-rescue ruling, the canary
+  correction). Researchers checking each other's work is best practice, not collusion. Give the
+  plain version first; offer extra safeguards only if asked or if one is actually decisive.
 
