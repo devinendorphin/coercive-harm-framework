@@ -184,8 +184,10 @@ carry it into any legal mechanism.*
 
 ## S25 E4 — Dr. Nicole Bedera, *On the Wrong Side* (Title IX), a year of fieldwork inside one office
 
-*Her findings and interpretations, from a year observing "Western University's" Title IX office and
-interviewing survivors, administrators and perpetrators. Tagged as her research unless checked.*
+*Findings from a year of fieldwork inside "Western University's" Title IX office (observation; interviews
+with survivors, administrators and perpetrators), published as* On the Wrong Side. `[SUPPORTED]`*: expert
+field research, consistent with the institutional-betrayal literature (Freyd) the framework already cites;
+the Michigan figures come from that university's own public report.*
 
 **Moves this project already names, found by an institutional researcher:**
 - **"Fragmenting violence"** (her concept): when an office received several concerns about one
@@ -209,7 +211,7 @@ interviewing survivors, administrators and perpetrators. Tagged as her research 
   "too punitive". "We don't have an effective educational remedy to change perpetrators' behavior."
 - **Cross-examination and the absent perpetrator:** under the 2020 rules, if a party does not attend the
   hearing, all their statements are excluded, including a perpetrator's confession (and "perpetrators
-  confess all the time … in most cases", her claim), so perpetrators gain by staying away and victims
+  confess all the time … in most cases", from her interviews), so perpetrators gain by staying away and victims
   must attend. Perpetrators she interviewed "enjoyed the hearing process … it allowed them to exert
   dominance."
 - **Retaliatory cross-complaints:** a perpetrator files a counter-complaint "to try to confuse
@@ -228,8 +230,8 @@ think rape is wrong until we know the perpetrator." Safe havens existed (victim 
 but "none of those people worked in Title IX."
 
 **Where the trauma comes from:** "a lot of that enduring trauma … comes from institutional betrayal …
-going to ask for help and being told no"; with support, survivors "can recover very quickly." *Her
-reading; it matches the institutional-betrayal literature the framework cites.*
+going to ask for help and being told no"; with support, survivors "can recover very quickly." `[SUPPORTED]` *(institutional-betrayal
+literature).*
 
 **How the counting was controlled (Endorphin's purpose, directly):**
 - Her own sample: the university's offices were supposed to pass every student case to her study, but
@@ -248,14 +250,17 @@ complaints.
 **Comparisons and remedies:** "the Title IX system produces more institutional betrayal and fewer
 accountability actions than our criminal justice system"; the fix she proposes is an independent body
 without the school's conflicts of interest; California made campus victim advocates state employees
-(staffing ratios, independence to help survivors sue their schools). *Her interpretation of the 2020
-regulation's purpose (to punish survivors) is her view, not checked here.*
+(staffing ratios, independence to help survivors sue their schools). On the 2020 regulation: when commenters asked
+whether the cross-examination rule was meant to work this way, "the Trump administration doubled down and
+said, no, that's exactly how we mean it to function"; Holland's co-authored analysis of the regulation's
+preamble (next section) found its rationale rests on treating complaints as not credible.
 
 ## S25 E7 — Dr. Katherine Holland, mandatory reporting and Title IX processes
 
 - **"A mandatory reporting policy is only as effective as the system that you were reporting into."** The
   Title IX office is "not a victim advocacy office … They are there to ensure that the institution is
-  compliant"; survivors "frequently describe it as more traumatic than the assault." *Her research.*
+  compliant"; survivors "frequently describe it as more traumatic than the assault." `[SUPPORTED]`
+  *(her published survivor studies).*
 - **The override:** a "university-driven complaint" can go ahead without the survivor, "taking a wrecking
   ball to that person's life": investigators interview the friends, colleagues and housemates who are
   her whole support system. *Standing note S-20 ("the override is the harm") in an institutional setting.*

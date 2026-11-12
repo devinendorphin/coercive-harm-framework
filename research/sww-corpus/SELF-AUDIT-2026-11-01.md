@@ -101,3 +101,11 @@ Entries are added when the analyst notices its own work leaning toward the insti
    definitions, not which one favours his hypothesis; consequences go in the results afterwards.
 9. **The D5 record was credited to the supervisor.** It was written after Endorphin raised the
    coder's warning. Corrected in D5, RESULTS and the session log.
+10. **I discounted the outside experts by who they were.** Having said the analysis lacked expert and
+    outside data, I read the show's expert episodes at Endorphin's direction and then tagged two PhD
+    researchers' published findings "her interpretation", "her claim" and "her view", qualifiers I did not
+    attach to agency figures read in the same episodes. That is grading evidence by who wrote it, and it
+    discounted precisely the researchers who document institutional failure: a lean toward the
+    institution's side. Endorphin named it ("why don't you say she was not dressed like a researcher?").
+    Regraded by what backs each finding (fieldwork, peer review, the institutions' own reports).
+
