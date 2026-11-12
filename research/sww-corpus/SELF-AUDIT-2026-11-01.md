@@ -109,3 +109,13 @@ Entries are added when the analyst notices its own work leaning toward the insti
     institution's side. Endorphin named it ("why don't you say she was not dressed like a researcher?").
     Regraded by what backs each finding (fieldwork, peer review, the institutions' own reports).
 
+
+11. **I raised the bar on the operator's claim after it had cleared the bar.** The stigmergy claim was
+    tested on consent law: 49/51 jurisdictions, direction dated, named parent links, burden-shifting forms
+    traced. I then proposed a further corpus study and a contrast study before the claim could be used,
+    for a series of videos whose evidence-wording rule needs only that each statement match its grade.
+    Most claims already in the reels carry less support. That is the asymmetric proof standard
+    (Convention IV-bis(3)(e)) applied to the collaborator, and procedural drag (S-28). Endorphin named it
+    ("we're doing asymmetry again"). Correction: the claim goes into the videos at its current grade, with
+    its stated limit (instances, not a measured rate). Further study only if a hostile reader needs it.
+    *(Veriticide ledger, `docs/evidence/stigmergy-consent-law-us-2026-11-12.md`.)*
