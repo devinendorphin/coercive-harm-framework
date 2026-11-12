@@ -508,15 +508,19 @@ truth came out and she broke with him, the blame came at once: from jail he put 
 replaced: **C2 tracks friction, and the gatekeeper-partner had not yet created any.** The divergence
 stays on the list as the record of the prediction as first worded.
 
-**What would refute it, and the counter-cases already in the corpus.** C2 that begins **before any
-friction**:
-- S15g, "that's all gonna go straight to your ass" as his first words to her;
-- "cunt… everything's my fault" on the first night.
+**One function, coded by function (operator, same day).** The first version split C2 into
+"conditional" and "standing" types. Withdrawn. Like C1, C2 is **one function**, coded by what it does:
+**rendering the other person worthless, aimed at their coming to believe it**. Its timing is a **form**,
+recorded the way C1's forms are:
+- *at friction*: first appears when the target disagrees, sets a boundary or resists;
+- *from the start*: present before any friction, e.g. S15g, "that's all gonna go straight to your ass" as
+  his first words to her, and "cunt… everything's my fault" on the first night.
 
-So there are at least two forms:
-- **conditional C2**, which waits for friction;
-- **standing C2**, present from the start.
+The operator's account of what it does for the perpetrator (a brief, quasi-therapeutic relief from
+offloading their own pain onto the other person) is recorded as **operator hypothesis** `[HYPOTHESIS]`. It
+is not coded, because the codebook codes conduct, not inner states (S-1).
 
-**Test (not yet run):** for each counted case, code the timing of the first friction event and the first
-C2 act, blind to this ruling where possible. The conditional reading predicts C2 onset at or after the
-first friction in most cases, with standing-C2 cases recorded as their own form.
+**Test (not yet run):** for each counted case, record the C2 form (*at friction* / *from the start* /
+*untriggered*) from the timing of the first friction event and the first C2 act, blind to this ruling where
+possible. The friction reading predicts *at friction* or *untriggered* in most partner cases. *From the
+start* cases are its counter-instances.
