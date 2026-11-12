@@ -141,4 +141,11 @@ beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
   evidence against his own side (S7 memory slip, the medical-rescue ruling, the canary
   correction). Researchers checking each other's work is best practice, not collusion. Give the
   plain version first; offer extra safeguards only if asked or if one is actually decisive.
+- **S-29 (NEW, Endorphin 2026-11-12).** **Uncertainty is stated in full, as information, and
+  lived-experience intuition is evidence with a track record here.** State what is unknown, how
+  much, and what would settle it, without defensive hedging. Weigh Endorphin's intuitions by
+  that record: his method corrections (whole stories, no shortcuts, count the unheard, grade by
+  corroboration, retire "allegations") changed measured results; where his claims met counter-
+  evidence (C2 as worded, P1/P2, the developmental hypothesis) he recorded the concession himself.
+  The veriticide ledger and this repo are one body of that work.
 
