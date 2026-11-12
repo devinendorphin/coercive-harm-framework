@@ -27,6 +27,7 @@ for r in REELS:
               "gauges": lambda: c["head"] + ": " + "; ".join(f"{i['label']} ({i['line'].lower()})" for i in c["items"]),
               "eyes": lambda: f"open eye: {c['left'][0]}, {c['left'][1]}; blindfolded eye: {c['right'][0]}, {c['right'][1]} — {c['foot']}",
               "dots": lambda: f"{c['n']} dots, one per person; {c['k']} turn blue — {c['num']}, {c['label']}; {c.get('after','')}",
+              "dotrows": lambda: (c.get("head", "") + ": " if c.get("head") else "") + "; ".join(f"{x[0]} {x[1]} of {c['n']}" for x in c["rows"]) + f" — one row of {c['n']} dots each, lit where present; {c.get('foot','')}",
               "grades": lambda: "evidence cards: " + "; ".join(f"{i[0]} ({i[1]})" for i in c["items"])}[c["t"]]()
         L += [f"- {say}", f"  - *on screen:* {on}"]
     L.append("")
