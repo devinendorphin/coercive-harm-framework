@@ -222,3 +222,17 @@ instrument — that remains the central open question. See
   cognitive from affective empathy; "dark empathy" research.
 - Base-rate and confirmation-bias literature relevant to pattern-claims about
   people.
+
+## Working notes
+
+### 2026-11-12 — exploiting the act of care (riff `sessions/riffs/2026-11-12-exploiting-the-act-of-care.md`)
+- **Candidate behaviour:** a move aimed at the institution's own care norm ("assume good faith", "don't
+  take it personally"). Workplace instance: sub-audible speech where the strain is the point, used to
+  extract something beyond what is available. `[HYPOTHESIS]`
+- **Legible only as a pattern with a contingency:** the volume drops after a request to repeat, returns
+  once something is granted, recurs across staff, and the tension resolves on a request outside policy.
+  Volume alone is never the marker (doc 07).
+- **Gradations (operator):** "we all possess it… these behaviors don't exist when a person is alone in a
+  room. It requires another body." Conduct is situational and relational (agreement 3). Prevalence figures
+  for diagnoses (psychopathy 1.2–4.5%, Sanz-García et al. 2021) count people, not conduct. Use them as
+  context only, flagged for person-typing drift.

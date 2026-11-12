@@ -268,3 +268,11 @@ the framework's own DARVO item. The doc 05 template was failing X7 in plain sigh
 - Disparate-impact data on existing DV/coercive-control enforcement.
 - First Amendment doctrine on the speech/conduct line for threats, harassment, and
   coercion.
+
+## Working notes
+
+### 2026-11-12 — quiet speech is not a marker (riff `sessions/riffs/2026-11-12-exploiting-the-act-of-care.md`)
+- Soft speech has innocent causes: hearing loss, speech and voice conditions, anxiety, a second
+  language, upbringing. Any workplace rule built on the doc 02 "exploiting the act of care" note must
+  rest on the **contingency pattern across staff and time**, never on volume or a single exchange.
+  Disability-discrimination exposure if it does not. `[NORMATIVE]`

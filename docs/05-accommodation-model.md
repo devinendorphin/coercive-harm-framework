@@ -204,3 +204,16 @@ it's avoided here.
   weakest-element frontier above.
 - Disability-rights self-advocacy positions on medicalizing conduct — to keep OBJ-004
   answered on the merits, not just by relabeling.
+
+## Working notes
+
+### 2026-11-12 — the two-slot frame in service work (riff `sessions/riffs/2026-11-12-exploiting-the-act-of-care.md`)
+- **Observed frame:** "assume good faith" or "walk away if in immediate danger", with nothing between.
+  Harm to the care relationship itself has no category (cf. codebook amendment 4c, the institutional
+  middle).
+- **Accommodation candidate:** good faith as the **default, revisable on pattern**; a shared name for the
+  move so staff can log it; the contingency markers (doc 02 note) as the threshold; escalation to a
+  second staff member rather than a judgement of the person. `[NORMATIVE]` `NEEDS-LIBERTY-REVIEW`
+- **Cost context:** LexisNexis True Cost of Fraud 2025 puts total cost at $4.14–$5.75 per $1 of fraud
+  loss `[SUPPORTED: vendor survey]`. The defensive spending that bad faith forces on everyone is part of
+  the harm.
