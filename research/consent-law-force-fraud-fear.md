@@ -151,6 +151,53 @@ Sources added:
   also a fabricated self. The second reading reaches Arty and also reaches ordinary lies about who
   one is; that is the vagueness the doc 03 §4 block exists for. [NORMATIVE] `NEEDS-LIBERTY-REVIEW`
 
+## The CAN programme against the 49-statute lineage data (2026-11-12)
+
+*Data: `veriticide-general-ledger/docs/evidence/stigmergy-consent-law-us-2026-11-12.md` (49 of 51
+jurisdictions; offense, definition and consent sections only, so a definition placed elsewhere in a code is
+missed). The operator recalled S15 E12 again as "a Nuremberg definition of enthusiastic consent". The 5a
+correction stands: CAN rejects enthusiastic and affirmative consent.*
+
+- **"There is no definition for the word consent in our laws."** Not literally true, mostly true in effect.
+  About **12 of 49** statutes define consent positively (AK, CA, CO, DC, FL, IL, ME, MN, MT, VT, WA, WI). Four
+  define only its absence (KY and NY: "lack of consent results from…"; DE and NE: "without consent
+  means…"). About **31 have no definition** in the sections collected. Pennsylvania is among them, which
+  matches the Cosby judge's statement. [SUPPORTED; hand-corrected regex count]
+- **CAN's target is a real, co-travelling bundle.** Most positive definitions are the agreement family's
+  "words or overt actions / actual words or conduct **indicating a freely given agreement**" (DC, MN, MT, WA,
+  WI; ME "a word or action"). The lineage test shows the two halves travel together. CAN keeps "freely given
+  agreement" and rejects "words or conduct". Its reform would **split a bundle that has spread as one
+  unit**. [SUPPORTED as to the bundle]
+- **The closest statutes to CAN are knowledge-based:**
+  - FL: "intelligent, knowing, and voluntary consent and does not include coerced submission";
+  - CA: "positive cooperation in act or attitude pursuant to an exercise of free will… knowledge of the
+    nature of the act";
+  - **CO, the same definition with "positive" removed.** The Weinstein defence used California's "positive
+    cooperation" against Jennifer Siebel Newsom on the stand (E12). Colorado's copy lacks exactly that
+    word. Why was not checked (no legislative history read). [ESTABLISHED as to the texts; HYPOTHESIS as to
+    the reason]
+- **CAN's wording has left no trace in statute yet.** None of the 49 texts contains "knowledgeable",
+  "informed agreement" or "capacity to reason". WI ("competent to give informed consent") is the nearest.
+  In stigmergy terms, the campaign has laid a trace (model language, the #FGKIA and #codifyconsent tags, a
+  petition, state bills) that statutes have not yet taken up, as of FindLaw and official-site dates from 2023
+  to 2026. [SUPPORTED]
+- **Where CAN and the lineage findings meet.** The burden-shifting forms the test found are CAN's complaint
+  in its old form:
+  - the MPC "ordinary resolution" resistance standard (OH, PA, WY);
+  - WA's "physical force which overcomes resistance";
+  - the DE/NE duty to "resist… to make refusal known".
+  CAN extends the same complaint (that the crime turns on the victim's conduct) to the modern
+  words-or-conduct definitions. Both are the ledger's attribution-to-victim move written into the
+  elements. [NORMATIVE as to the equivalence]
+- **Weakest point, unchanged.**
+  - Proof still runs through the complainant's account under any definition. A fact-finder infers
+    "freely given agreement", or its absence, from words and conduct.
+  - An influence-only test (force, fear, fraud, exploited incapacity) has to say what happens when none is
+    shown and the person did not agree: freezing, surprise.
+  - CAN lists "surprise" among the vitiating factors in its petition text, which answers part of this.
+  The dispute is about where the **default evidentiary focus** sits, more than about the definition.
+  [NORMATIVE]
+
 ## To verify in a later pass
 
 - Exact current text of NY PL §135.60/135.61/135.65 (post-2010 amendments; NY
