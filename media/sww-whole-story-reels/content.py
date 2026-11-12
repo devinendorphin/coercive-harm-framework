@@ -5,7 +5,10 @@
 # Evidence is graded, not disclaimed (Endorphin, 2026-11-11): convictions and records are stated as
 # such; what rests on a survivor's word alone is attributed to them. No uncharged person is named.
 #
-# Card kinds (shared renderer, see ../sww-reels/content.py): title, head, quote, stat, list, bars.
+# Card kinds (shared renderer, see ../sww-reels/content.py): title, head, quote, stat, list, bars;
+# visual cards in cards_visual.py: tiles, chips, pieces, timeline, readers, gauges, eyes, dots, grades, dotrows.
+# Reel 02 draws on the close read (research/sww-corpus/close-read/CODEBOOK.md, CROSS-SEASON.md) and the
+# word-count test (research/sww-corpus/README.md), not on RESULTS.md.
 
 SERIES = "TOLD · WHOLE"
 SUB = "What institutions did for the people of Something Was Wrong, Seasons 1–26"
@@ -45,5 +48,39 @@ REELS = [
               ["The person's own account alone", "said only after checking that nothing else backs it", "voice"]]}},
     {"say": "The rest comes one piece at a time.",
      "card": {"t": "title", "big": "One piece\nat a time.", "small": "Told Whole · Something Was Wrong, Seasons 1–26"}},
+  ]},
+  {"slug": "same-moves", "id": "02", "kicker": "SAME MOVES", "accent": "#ff4d5e", "scenes": [
+    {"say": "The first claim behind this series is about the people who did the harm. Different people, different places, different years. The claim is that they make the same moves.",
+     "card": {"t": "title", "big": "Same moves.", "small": "Arc 1 · as far as the room allows"}},
+    {"say": "The moves were written down before the reading began, in the project director's own words.",
+     "card": {"t": "quote", "q": "It is a cycle: the effusive love bombing, to devaluation, to isolation and poisoning the wells between the people that are part of their care system, and then discard, and then potentially returning again.", "by": "Endorphin, project director"}},
+    {"say": "Then the seasons were read in order, one to twenty-four, by a single A.I. reader. That reader knew the prediction. So it had one standing order: write down every story that does not fit. Never smooth it over.",
+     "card": {"t": "head", "head": "Write down every misfit.", "body": "Seasons 1–24 read in order by one A.I. reader that knew the prediction."}},
+    {"say": "Fifty-six stories were coded move by move. Binding. Devaluation. Isolation. Poisoning the wells. And what happened when the person left, or the truth came out.",
+     "card": {"t": "timeline", "nodes": [{"label": "Binding: obligation, dependency, access"}, {"label": "Devaluation"}, {"label": "Isolation"},
+              {"label": "Poisoning the wells: a false account to the people around them"}, {"label": "When they leave, or it comes out", "state": "end"}]}},
+    {"say": "The first move rarely looks like a move. It binds. And it took whatever shape fit the person. A whirlwind romance. A friend in need. A boss's favour. A place to live, offered in a housing crisis. A mentor at work. A group that felt like family. Praise for a mother, aimed at her children.",
+     "card": {"t": "chips", "head": "One move, many shapes", "items": ["A whirlwind romance", "A friend in need", "A boss's favour", "Housing in a crisis", "A mentor at work", "A group like family", "Praise for a mother"]}},
+    {"say": "The shapes differ. What each one does is the same. Counted by what it did, not how it looked, each move turned up again and again. Each dot is one story.",
+     "card": {"t": "dotrows", "n": 56, "head": "56 stories, move by move", "rows": [["Binding", 55], ["Devaluation", 52], ["Isolation", 48], ["Poisoning the wells", 48]],
+              "foot": "Blue: the move is in the story. Binding's one gap: not in the reading notes. Seasons 16–24 were coded from notes, a weaker basis."}},
+    {"say": "And when someone left, or the truth came out, there was a response in every one of the fifty-six. Pursuit, threats, reversal, a smear. In forty-eight it went on. In eight, it was one act, and then silence.",
+     "card": {"t": "dots", "n": 56, "k": 48, "cols": 14, "num": "56 of 56", "label": "met a response", "hi": "it went on", "lo": "one act, then silence"}},
+    {"say": "Now, where it breaks. Binding alone tells you nothing. Some deceivers bound people, and simply ran when they were caught. The pattern is the combination, not any one move.",
+     "card": {"t": "head", "head": "No single move is the pattern.", "body": "Some deceivers bound people and simply ran when caught. What marks the pattern is the moves together, and the response when someone leaves."}},
+    {"say": "Isolation was the weakest move. A word-count test, written down in advance, found isolation talk three times as common as in a comparison podcast. But it was clearly raised in only about one season in four. By its own rule, the test failed.",
+     "card": {"t": "dots", "n": 26, "k": 7, "cols": 13, "num": "1 in 4", "label": "seasons where isolation talk clearly stood out, by the test written in advance (7 of 26)", "hi": "stood out", "lo": "did not",
+              "after": "A fairer comparison, chosen afterwards, gives about 3 in 4. It came after, so the failure stands."}},
+    {"say": "The project director's answer: look at the room. One relationship was long distance, backed by documents and a second witness. You can't cut someone off from people you never meet. In another story, backed by a second witness, the school pulled a teacher from his classes. He sent one message, then nothing. The room left no way in.",
+     "card": {"t": "timeline", "nodes": [{"label": "A long-distance relationship", "tag": "documents + a second witness"},
+              {"label": "No isolation coded: no room to do it"},
+              {"label": "A teacher pulled from his classes", "tag": "a second witness"},
+              {"label": "One message, then nothing", "state": "end"}]}},
+    {"say": "That is a hypothesis, not a finding. To test it, a separate reader would have to code what each room allowed, before looking at the moves.",
+     "card": {"t": "head", "head": "As far as the room allows.", "body": "A hypothesis until a separate reader codes each room's openings first."}},
+    {"say": "And one story breaks the pattern outright. For about three years, devaluation never appears, though nothing stood in its way. It is written down as a misfit, not explained away. Seventy-two misfits were written down in all.",
+     "card": {"t": "stat", "num": "72", "label": "misfits written down, not smoothed over (one: no devaluation in three years, with every chance)"}},
+    {"say": "Same moves, as far as the room allows. That is the claim. These are its edges.",
+     "card": {"t": "title", "big": "Same moves.\nAs far as the\nroom allows.", "small": "Told Whole · Seasons 1–24"}},
   ]},
 ]

@@ -272,6 +272,38 @@ def install(Card, G):
             self._pp(a, x + 140, y + 30, op * k); self._pp(b, x + 140, y + 36 + a.size[1], op * k)
             y += h + 24
 
+    # ---------------------------------------------------------------- dotrows: one row of n dots per item, k lit
+    # (Reel 02, 2026-11-12) each dot is one coded story; a row lights the stories where that move is present.
+    def init_dotrows(self):
+        c = self.c; self.n = c["n"]; self.rows = c["rows"]
+        fh, fl, fn_ = font("xbold", 52), font("semi", 34), font("black", 44)
+        self.head = sprite(wrap(c["head"], fh, CW), fh, FG, 1.08) if c.get("head") else None
+        self.lab = [sprite([r[0]], fl, FG, 1.1) for r in self.rows]
+        self.cnt = [sprite([f"{r[1]} of {self.n}"], fn_, BLUE, 1.0) for r in self.rows]
+        self.cell = CW / self.n; self.rh = 118
+        foot = c.get("foot", "")
+        self.foot = sprite(wrap(foot, font("semi", 32), CW), font("semi", 32), MUTED, 1.25) if foot else None
+        tot = (self.head.size[1] + 50 if self.head else 0) + self.rh * len(self.rows) + (self.foot.size[1] + 40 if self.foot else 0)
+        self.top = CARD_CY - tot / 2
+    def draw_dotrows(self, fr, t, dur, op):
+        d = self._d; y = self.top
+        if self.head is not None:
+            self._pp(self.head, X0, y, op * ease(t / 0.5)); y += self.head.size[1] + 50
+        span = max(0.6, dur * 0.7) / len(self.rows); r = self.cell * 0.36
+        for j, (row, lab, cnt) in enumerate(zip(self.rows, self.lab, self.cnt)):
+            t0 = 0.3 + j * span; e = ease((t - t0) / 0.4)
+            self._pp(lab, X0, y, op * e); self._pp(cnt, X0 + CW - cnt.size[0], y - 6, op * ease((t - t0 - 0.6) / 0.4))
+            cy = y + 72
+            for i in range(self.n):
+                a = clamp01((t - t0 - 0.004 * i) / 0.25)
+                if a <= 0: continue
+                cx = X0 + i * self.cell + self.cell / 2
+                lit = i < row[1] and t > t0 + 0.3 + 0.6 * i / max(1, row[1])
+                d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=A(BLUE if lit else GREY, op * a))
+            y += self.rh
+        if self.foot is not None:
+            self._pp(self.foot, X0, y + 10, op * ease((t - dur * 0.75) / 0.5))
+
     for name, fn in list(locals().items()):
         if name.startswith("init_"):
             setattr(Card, name, fn)
