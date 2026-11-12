@@ -29,7 +29,7 @@
 - The rest comes one piece at a time.
   - *on screen:* One piece at a time. — Told Whole · Something Was Wrong, Seasons 1–26
 
-## 02 · Same Moves  (190 s)
+## 02 · Same Moves  (206 s)
 
 - The first claim behind this series is about the people who did the harm. Different people, different places, different years. The claim is that they make the same moves.
   - *on screen:* Same moves. — Arc 1 · as far as the room allows
@@ -53,10 +53,12 @@
   - *on screen:* timeline: A long-distance relationship [documents + a second witness] → No isolation coded: no room to do it → A teacher pulled from his classes [a second witness] → One message, then nothing
 - That is a hypothesis, not a finding. To test it, a separate reader would have to code what each room allowed, before looking at the moves.
   - *on screen:* As far as the room allows. — A hypothesis until a separate reader codes each room's openings first.
-- And one story does not fit the prediction. For about three years of their marriage, a man gave his wife constant praise, and she can name no put-downs. She was not his target. Her daughter and her niece were. He pleaded guilty in federal court and was sentenced to thirty years. In her words:
+- And one story did not fit the prediction as written. For about three years of their marriage, a man gave his wife constant praise, and she can name no put-downs. Her daughter and her niece were his targets, and the praise was how he reached them. He pleaded guilty in federal court and was sentenced to thirty years. In her words:
   - *on screen:* “For a predator to successfully groom a child, they first have to groom the parent.” — Diana, Season 15
-- The praise was the binding move, aimed at the way in. The prediction said devaluation would come, and it never did, so it is written down as a misfit. Seventy-two misfits were written down in all.
-  - *on screen:* 72 — misfits written down, not smoothed over. One: three years of praise, because the wife was the way in, not the target.
+- It was written down as a misfit. The project director reads it differently: devaluation waits for friction. For three years she never pushed back. When the truth came out and she did, the blame came at once. He put what he did down to her lack of intimacy.
+  - *on screen:* timeline: Three years: praise, and no friction → The truth comes out; she pushes back → The blame comes at once [her “lack of intimacy”]
+- That is a reading to test, not a finding. Some stories do not fit it either: the put-downs start before any friction at all. Seventy-two misfits were written down in all.
+  - *on screen:* 72 — misfits written down, not smoothed over. Does devaluation wait for friction? A reading to test, with counter-cases.
 - Same moves, as far as the room allows. That is the claim. These are its edges.
   - *on screen:* Same moves. As far as the room allows. — Told Whole · Seasons 1–24
 

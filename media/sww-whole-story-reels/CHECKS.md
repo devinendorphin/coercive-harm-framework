@@ -37,3 +37,12 @@ devaluation was absent toward the wife because she was the route to the children
 | Story | Coders' `evidence_types` | Wording used |
 |---|---|---|
 | S15e Diana: husband's abuse of her daughter and niece | A: conviction, document_read_on_air, second_witness · B: conviction, document_read_on_air, second_witness (close read: federal plea, 30-year sentence read from the court record) | "He pleaded guilty in federal court and was sentenced to thirty years." Her quote is from her victim statement as broadcast. The children are not named; the perpetrator is not named. |
+
+### Reel 02 revision 2 (2026-11-12, Endorphin's correction: devaluation waits for friction)
+
+The v2 scene said "she was not his target", implying she sat outside the pattern. Endorphin's reading,
+from lived experience: devaluation is conditional on friction. She never pushed back for three years;
+when the truth came out and she did, the blame came at once. The close read records the post-exposure
+blame (S15.md, S15e R-SEP: "He blamed Diana's 'lack of intimacy'", from jail). That is the conviction case
+above, so no new evidence wording is needed. The counter-cases ("put-downs before any friction") are
+stated generically, attached to no person.

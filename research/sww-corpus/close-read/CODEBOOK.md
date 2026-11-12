@@ -487,3 +487,36 @@ recorded in the device table, and **coordination is recorded when it is document
 "structural identity is not coordination" means the move-set does not require coordination. It
 does not mean coordination never happens.
 
+
+---
+
+## Amendment 6 (2026-11-12): devaluation is conditional on friction (operator ruling)
+
+*From Endorphin's lived experience, which is not transcribed here, and his reading of divergence 47 (S15e).*
+
+> "Devaluation is a conditional. As long as you don't make waves, it's wonderful… The moment she resists
+> anything, starts the devaluation process."
+
+**Ruling.** C2 is coded as a **response to friction** (disagreement, a boundary, resistance, the target's
+difference laid bare), not as a stage that arrives on schedule. A partner who never creates friction may
+see no C2 for years. That is **C2 untriggered**, not C2 absent. It is the friction-side analogue of
+amendment 1's "n/o when the target exits first".
+
+**Divergence 47 re-read.** For three years Diana created no friction, and none was described. When the
+truth came out and she broke with him, the blame came at once: from jail he put the abuse down to her
+"lack of intimacy". The earlier gloss, "C2 appears where the partner is the target of control", is
+replaced: **C2 tracks friction, and the gatekeeper-partner had not yet created any.** The divergence
+stays on the list as the record of the prediction as first worded.
+
+**What would refute it, and the counter-cases already in the corpus.** C2 that begins **before any
+friction**:
+- S15g, "that's all gonna go straight to your ass" as his first words to her;
+- "cunt… everything's my fault" on the first night.
+
+So there are at least two forms:
+- **conditional C2**, which waits for friction;
+- **standing C2**, present from the start.
+
+**Test (not yet run):** for each counted case, code the timing of the first friction event and the first
+C2 act, blind to this ruling where possible. The conditional reading predicts C2 onset at or after the
+first friction in most cases, with standing-C2 cases recorded as their own form.
