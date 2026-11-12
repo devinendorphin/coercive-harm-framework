@@ -77,7 +77,7 @@ project's claim that data collection can render harm invisible, and material for
   justify suspicion of everyone who comes forward (false reports, 2–8 %, "leaves some responders highly
   critical when actual survivors come forward"), as rare voter fraud ("extremely rare", Brennan Center)
   is used to justify restricting access to voting. *Observation, not tested; a candidate laundering
-  move for the ledger ("the false-claim pretext").*
+  move for the ledger ("the false-claim pretext"); filed as veriticide ledger Pattern Registry Entry 19.*
 
 ## 5. At scale: the episodes' own bridge from the person to the polity
 
