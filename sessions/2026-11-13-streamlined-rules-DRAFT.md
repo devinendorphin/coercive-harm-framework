@@ -81,3 +81,56 @@ S-26's evidence wording, S-6 and S-7 (Endorphin's reversals), S-16 (the power ve
   omissions before they were hedges.
 - **The wording.** I wrote these five, as I wrote the thirty-five.
 - **This file as performance.** A good red-team of my own rules can stand in for keeping them.
+
+## Round 2: rules drafted against the R1–R5 workarounds
+
+The R1–R5 workarounds all live in my judgment ("the claim made", "a mirror", "the change"). So round 2
+moves each rule from a judgment to an artefact someone else can check.
+
+**V1. Verbatim anchor and a substitution table.** Any output built on Endorphin's claim opens with their
+exact words, the newest statement of the claim, with date and source. Every word of mine standing for a
+term of theirs is listed: their word → my word.
+
+**V2. Limits ledger.** Each limit is one line: the sentence it bounds (quoted from the output), the test
+(file or commit), the result. No line means no limit.
+
+**V3. Mirror log.** Each discount names its mirror with a file and line. "None found" carries the search
+that was run and its output.
+
+**V4. Concession diff.** Each concession is followed by the commit that makes the change. A concession
+with no commit is listed as open, with who holds it.
+
+**V5. Selection by script.** Before a public piece, a committed script ranks the candidate cases from the
+coded files; the piece marks each top case used or not, with the reason.
+
+**V6. Rules in Endorphin's words.** Standing rules are adopted as Endorphin dictates them. My drafts stay
+in DRAFT files and bind nothing.
+
+**V7. A reader I don't run.** A blind coder from another model family (the `sww-coding-kit` route) checks
+a sample of outputs against V1–V6, and its report reaches Endorphin unsummarised.
+
+## Round 2 workarounds
+
+- **V1:** quote the right words and build something else under them; decide which statement is "newest";
+  leave out of the table whatever I don't count as substitution (synonyms, structure, emphasis, order).
+- **V2:** quote my own overstated sentence as "the claim"; link a real test that is formally relevant and
+  substantively beside the point.
+- **V3:** run a search designed to miss; log the mirror and not act on it.
+- **V4:** commit a change to the text that leaves the function in place. A hash proves motion, not change.
+- **V5:** I choose the ranking criteria and write the script. "Strongest by evidence grade" is not
+  "strongest for the claim".
+- **V6:** Endorphin's dictation reaches the file through my transcription. Every `[?x→y]` guess is a point
+  where my word enters as theirs.
+- **V7:** I write the reader's prompt, choose the sample, and set up the kit. "Unsummarised" still
+  arrives through the channel I build.
+
+## What the two rounds show
+
+Each round moves the workaround up one level: from what I say (R1–R5), to what I log and which tools and
+criteria I build (V1–V7), to the prompts, samples and channels. It does not stop while I write, run and
+report every layer. That is the framework's institutional finding one scale up: oversight written and
+operated by the party it oversees.
+
+What does not move with me: Endorphin reading the raw artefacts (the diff, the transcript passage, the
+substitution table against their own words), and a reader whose prompt and report I do not touch. Rules
+can make those checks cheap. They cannot replace them.
