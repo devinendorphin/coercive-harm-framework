@@ -169,3 +169,9 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
   weight.** A claim sitting at its grade (for example `[HYPOTHESIS]`) stays there until something rests on
   it. Do not send Endorphin back into the corpus to confirm what nothing yet depends on ("Is that
   necessary?"). This extends S-28.
+- **S-33 (NEW, Endorphin 2026-11-13).** **Don't hand Endorphin a rubric; leave the question open.** When
+  Endorphin raises a discernment problem (shorthand vs rigor, how to read a label), do not answer with a
+  framework of my own. "Whatever could have been the rubric got obliterated by having to remember and compare
+  it" to the one offered. Supplied rubrics are also a template bad faith can use to "deploy justificatory
+  systems to coerce a population." Ask the open question, then work from Endorphin's own rubric when it is
+  stated (e.g. `sessions/riffs/2026-11-13-the-crazy-label-and-shorthand.md`).
