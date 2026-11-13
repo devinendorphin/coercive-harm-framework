@@ -522,7 +522,7 @@ becomes: **"role restriction depends on the slowest and most evadable institutio
 Base rates for board response times are still needed.
 
 ### OBJ-031 — "Your own corpus says institutions mostly respond appropriately." *(raised by the power-vector test, 2026-11-01)*
-**Persona:** empiricist / the framework's own pre-registration. **Status:** `PARTLY ANSWERED` (was CONCEDED for this corpus; revised the same day)
+**Persona:** empiricist / the framework's own pre-registration. **Status:** `PARTLY ANSWERED` (was CONCEDED for this corpus; revised the same day; second test 2026-11-11, below)
 C2 claimed that institutions a survivor turns to reproduce the coercive move-set. The
 pre-registered hand-coded test (two blind coders, κ = 0.83, 200 random institution-mention
 segments, aftermath episodes included) found appropriate responses in **63 %** of agreed
@@ -540,6 +540,31 @@ outcome. The 63 % describes the responses the podcast shows, not the population.
 *inaction* part of C2 is supported at population scale; disbelief, blame-reversal and
 pathologizing are still unmeasured as rates. → `research/sww-corpus/results/power_vector/RESULTS.md`;
 README; docs 04, 10.
+*Second test, 2026-11-11 (whole stories, people not segments; `research/sww-corpus/results/whole_story/RESULTS.md`):*
+the objection's premise holds for single responses and fails for outcomes. Of the people who
+reached an institution, about one in five ended protected (21 %; 16–28 % by model; the
+pre-registered prediction "fewer than 40 %" holds every way it is counted). Disbelief, blame,
+condition-as-dismissal or self-protection appear in 31 % of stories (not decided: the line was
+30 %; the blind Codex coders 35 %, the unblinded Claude coders 26 %), and in 50 % of central
+survivors' stories, so these responses are now measured as rates and are not rare. About three
+in ten people never reached any institution. Who did the work when protection came is not
+decided (43 %, line 50 %). **Status for this corpus: the objection answers "do institutions
+respond appropriately?" and not "do people end up protected?"; the second has the answer
+"mostly not."** Still a selected population, not a rate for the world.
+
+### OBJ-032 — "Your close-read tallies overstate the pattern; the coder found what it was told to look for." *(raised by the symmetric re-read audit, 2026-11-13)*
+**Persona:** methodologist / the project's own audit. **Status:** `PARTLY CONCEDED`
+The close read coded 56 stories move by move, with a reader that knew the prediction. A symmetric re-read
+(design fixed before reading; `research/sww-corpus/close-read/AUDIT-2026-11-13-symmetric-reread.md`) read 7
+misfit-side and 7 random fit-side stories in full. **Misfits: 0 false misfits** (all four pattern misfits and both
+scope cases stand). **Fits: 10 of 43 marked cells were false fits**, 9 after the operator's C6 definition
+(amendment 7). By the pre-set reading, the claim is weakened. *Conceded:* the published counts for isolation,
+poisoning the wells and the response at exit are upper bounds; one counted case (S6a) belongs to the deception
+class. *Not conceded:* binding (6 of 6) and devaluation (6 of 6) held without exception. *Open:* the cause of the
+one-way error is not settled (five rival explanations are listed in the audit: prior scrutiny, grid completion,
+definition drift, priming, re-reader overcorrection), and the size of the overcount needs a blind second reader on
+all 56. The C4 direction question (outward only, or both ways) is the operator's to rule; it moves the rate between
+16 % and 21 %. → audit file; CODEBOOK amendment 7; reel 02 v5.
 
 ## How to use this ledger
 

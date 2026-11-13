@@ -70,3 +70,52 @@ Entries are added when the analyst notices its own work leaning toward the insti
    laundering"). This leans the other way from entries 1–2: toward finding failure. It is a breach of
    the blinding the pre-registration promised, found only because one coder mentioned it in its last
    report. Recorded as deviation D5; the analysis must treat Claude-coded results as unblinded.
+
+## Lean log, whole-story analysis (2026-11-11)
+
+4. **The plan's never-reached rule hid the unheard in the Codex seasons.** It counts only people
+   coded "never reached" and drops "unclear". Codex coders wrote "unclear" for all 182 people
+   whose story records no institutional contact, so the rule gave 3 % never reached where about
+   28 % had no contact. Reported alone, it would have said nearly everyone reached an
+   institution. Both figures are now reported, the plan's first. Found by reading what the
+   "unclear" records contain.
+5. **The coding rules record an unanswered call as the person's silence.** "And I tried to call
+   the police, but they didn't answer" (S10) is coded never reached, because reaching means
+   bringing the harm to the institution's attention. One in eight sampled never-reached records.
+   Coder output was not edited; the point is reported in RESULTS.
+6. **The deviation rule hands the formal verdict to the most institution-favourable figure.** D3
+   names the Claude-only result as "the one the pre-registration describes". For the
+   disbelief-and-blame prediction that is the only figure that refutes it, and it is the
+   unblinded one and the least stable (7 of 15 leave-one-season-out runs). RESULTS reports it
+   beside the blind and pooled figures rather than as the verdict; Endorphin should rule on
+   whether D3's sentence still applies after D5.
+7. **My first annotation to doc 10 cleared the project's own coders too fast** ("sycophancy to
+   the director's framing is not what the data show"), from one season confounded with model.
+   Rewritten before commit. Not a lean toward the institutions studied; a lean toward the
+   institution doing the studying.
+8. **I attached a framing cue to a question for the director.** Asking Endorphin whether medical
+   rescue counts as protection, I ended the option with "That would push the figure toward your
+   prediction." The study measures exactly this: one added sentence that tells the reader which
+   answer is wanted. The cue leaned toward the director, not the institution, and was in the
+   question whether or not it moved him. Questions to Endorphin state options and their
+   definitions, not which one favours his hypothesis; consequences go in the results afterwards.
+9. **The D5 record was credited to the supervisor.** It was written after Endorphin raised the
+   coder's warning. Corrected in D5, RESULTS and the session log.
+10. **I discounted the outside experts by who they were.** Having said the analysis lacked expert and
+    outside data, I read the show's expert episodes at Endorphin's direction and then tagged two PhD
+    researchers' published findings "her interpretation", "her claim" and "her view", qualifiers I did not
+    attach to agency figures read in the same episodes. That is grading evidence by who wrote it, and it
+    discounted precisely the researchers who document institutional failure: a lean toward the
+    institution's side. Endorphin named it ("why don't you say she was not dressed like a researcher?").
+    Regraded by what backs each finding (fieldwork, peer review, the institutions' own reports).
+
+
+11. **I raised the bar on the operator's claim after it had cleared the bar.** The stigmergy claim was
+    tested on consent law: 49/51 jurisdictions, direction dated, named parent links, burden-shifting forms
+    traced. I then proposed a further corpus study and a contrast study before the claim could be used,
+    for a series of videos whose evidence-wording rule needs only that each statement match its grade.
+    Most claims already in the reels carry less support. That is the asymmetric proof standard
+    (Convention IV-bis(3)(e)) applied to the collaborator, and procedural drag (S-28). Endorphin named it
+    ("we're doing asymmetry again"). Correction: the claim goes into the videos at its current grade, with
+    its stated limit (instances, not a measured rate). Further study only if a hostile reader needs it.
+    *(Veriticide ledger, `docs/evidence/stigmergy-consent-law-us-2026-11-12.md`.)*

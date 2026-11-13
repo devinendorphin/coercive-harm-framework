@@ -98,6 +98,14 @@ inaction; pathologizing absent), but they do not dominate. Full results:
 institutional-betrayal and custody research) is about other populations and is unchanged;
 **this corpus does not add support to "institutions mostly neutralize."**
 
+**Whole-story test (2026-11-11), set beside the above, not replacing it.** Following each
+person to the end of the story (617 people found by both coders, 26 seasons): about **one in
+five** who reached an institution ended protected (21 %; prediction holds); about **three in
+ten** met disbelief, blame, being treated as the problem or self-protection (31 %, not decided
+at the 30 % line; one in two for central survivors); who did the decisive work is not decided
+(43 %, line 50 %); about three in ten never reached any institution. Claude coders were not
+blind (D5). Full results and the disconfirming tests: `results/whole_story/RESULTS.md`.
+
 **C2, fractal self-similarity: not adequately tested by this corpus study.** *(Superseded
 for this corpus by the power-vector test above; kept as the record.)* *(Corrected
 in the power audit. The first version said "not established here," which put an

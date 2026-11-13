@@ -1,3 +1,8 @@
+> **RETIRED 2026-11-11.** Endorphin: "And that's where the original series [?were scrapping→we're
+> scrapping] that." These reels are not to be posted. They used "allegations, not verdicts" across
+> the board, which understates stories backed by convictions and records; the replacement series
+> is `../sww-whole-story-reels/`. Kept in the repository as the record (git keeps it either way).
+
 # Name, Place, Time — reels
 
 Thirty-five vertical Instagram reels recounting the season-by-season study of *Something Was

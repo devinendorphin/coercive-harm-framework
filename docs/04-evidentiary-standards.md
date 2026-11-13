@@ -56,7 +56,15 @@ behaviors are a predictable thing; if so that's an easy thing." It is. Three fin
    at equal weight (`research/sww-corpus/results/power_vector/RESULTS.md`). The 63 % describes
    the responses the podcast shows; population figures read on its expert episodes (about 69 %
    of sexual assaults unreported; fewer than 1 in 10 reported ones ending in a felony
-   conviction) show most cases never reach an outcome (`EXTERNAL_DATA.md`).
+   conviction) show most cases never reach an outcome (`EXTERNAL_DATA.md`). *Whole-story
+   test, 2026-11-11* (`research/sww-corpus/results/whole_story/RESULTS.md`): following each person to the end of the
+   story, about **one in five** who reached an institution ended protected (21 %; prediction
+   "fewer than 40 %" holds in every count) `[SUPPORTED]` for this corpus; about **three in
+   ten** met disbelief, blame, being treated as the problem or institutional self-protection
+   (31 %, on the 30 % line: not decided; **one in two** for the central survivor); about three
+   in ten never reached any institution in the story. Claude coders were not blind (D5); the
+   blind Codex coders' figures are as bad or worse for institutions. Moments and outcomes
+   differ: most single responses can be appropriate while most people do not end up safe.
 5. **The documentation burden.** `[SUPPORTED]` (`research/documentation-labor-burden.md`,
    2026-10-04, from the operator's account):
    - in victim-initiated forums the record must be made contemporaneously (FRE 803(5)),

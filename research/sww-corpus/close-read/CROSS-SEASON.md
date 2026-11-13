@@ -633,3 +633,31 @@ denominator, not the direction of any statement below.
     not predict impunity or failure rates (`../results/power_vector/RESULTS.md`). S23 and S24
     are the seasons where the institutional move-set is fullest; they are **cases, not a rate**,
     and the corpus-wide statement is now the measured one.
+
+## Divergence classification (2026-11-12, Claude, single reader; rules fixed before sorting)
+
+*Prompted by Endorphin: "the other misfits might be mis-fitting in their misfitness." The reel had called
+all 72 entries "misfits". Each entry was sorted from its opening text into categories fixed in advance.
+The categories follow amendment 1's refutation criteria. One reader, not blind. A second reader is
+needed before this is relied on.*
+
+| Category | Definition | Entries | n |
+|---|---|---|---|
+| **A. Pattern misfit** | a perpetrator move absent while the opportunity existed, a materially different order, or conduct different in kind (amendment 1) | 17 (S10j C3 inverted: network courted), 34 (S13a/b C3 n/d with network present; S13h's *failed* C3 is not a misfit), 47 (S15e C2; re-read as *untriggered* under amendment 6), 48 (S15c admission, not reversal) | **4** |
+| B. Scope / boundary | the case lies outside the pattern's claimed scope (no relationship; deception without control) | 11, 18, 36 | 3 |
+| C. Fits / extensions | a new form, setting or scale with the same function | 1, 2, 6, 7, 8, 9, 14, 15, 16, 19, 20, 22, 28, 29, 32, 41, 49, 51, 52, 53, 54, 66, 42* | ≈ 23 |
+| D. Institutional / evidence / legal | about institutions, records, remedies or law, not perpetrator conduct | 5, 10, 12, 21, 23, 24, 25, 30, 31, 35, 37, 38, 40, 43, 44, 45, 46, 55, 56, 57, 60, 61, 62, 63, 64, 65, 67, 68, 69, 71, 72 | 31 |
+| E. Method / meta / target-side | codebook changes, target responses, the corpus itself | 3, 4, 13, 26, 27, 33, 39, 50, 58, 59, 70 | 11 |
+
+*42 (rubric 2c is audience-selective) sits between C and E. Note that 72's "C2" is **claim** C2 (institutions
+mostly neutralise), not the devaluation field. The two share a label.*
+
+**Reading.** The list was a log of everything notable, not a list of breaks. True pattern misfits number
+about **4 of 72**, plus 3 scope cases. That is a strong reading for the pattern. It is also the reading
+most exposed to the mirror-image error: the ✔ cells (the fits) have never been audited for **false fits**.
+
+**Next (proposed, not run):** a symmetric re-read.
+- (a) The 4 misfits and 3 scope cases, in full.
+- (b) An equal random draw of ✔ cells, checked for false fits.
+- Both are read against the same fixed rules. A reclassification must cite a fact in the season file
+  (e.g. the timing of the first friction), not a post-hoc gloss.

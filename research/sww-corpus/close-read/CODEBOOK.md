@@ -487,3 +487,63 @@ recorded in the device table, and **coordination is recorded when it is document
 "structural identity is not coordination" means the move-set does not require coordination. It
 does not mean coordination never happens.
 
+
+---
+
+## Amendment 6 (2026-11-12): devaluation is conditional on friction (operator ruling)
+
+*From Endorphin's lived experience, which is not transcribed here, and his reading of divergence 47 (S15e).*
+
+> "Devaluation is a conditional. As long as you don't make waves, it's wonderful… The moment she resists
+> anything, starts the devaluation process."
+
+**Ruling.** C2 is coded as a **response to friction** (disagreement, a boundary, resistance, the target's
+difference laid bare), not as a stage that arrives on schedule. A partner who never creates friction may
+see no C2 for years. That is **C2 untriggered**, not C2 absent. It is the friction-side analogue of
+amendment 1's "n/o when the target exits first".
+
+**Divergence 47 re-read.** For three years Diana created no friction, and none was described. When the
+truth came out and she broke with him, the blame came at once: from jail he put the abuse down to her
+"lack of intimacy". The earlier gloss, "C2 appears where the partner is the target of control", is
+replaced: **C2 tracks friction, and the gatekeeper-partner had not yet created any.** The divergence
+stays on the list as the record of the prediction as first worded.
+
+**One function, coded by function (operator, same day).** The first version split C2 into
+"conditional" and "standing" types. Withdrawn. Like C1, C2 is **one function**, coded by what it does:
+**rendering the other person worthless, aimed at their coming to believe it**. Its timing is a **form**,
+recorded the way C1's forms are:
+- *at friction*: first appears when the target disagrees, sets a boundary or resists;
+- *from the start*: present before any friction, e.g. S15g, "that's all gonna go straight to your ass" as
+  his first words to her, and "cunt… everything's my fault" on the first night.
+
+The operator's account of what it does for the perpetrator (a brief, quasi-therapeutic relief from
+offloading their own pain onto the other person) is recorded as **operator hypothesis** `[HYPOTHESIS]`. It
+is not coded, because the codebook codes conduct, not inner states (S-1).
+
+**Test (not yet run):** for each counted case, record the C2 form (*at friction* / *from the start* /
+*untriggered*) from the timing of the first friction event and the first C2 act, blind to this ruling where
+possible. The friction reading predicts *at friction* or *untriggered* in most partner cases. *From the
+start* cases are its counter-instances.
+
+## Amendment 7 (2026-11-13): return is an offer that resets the cycle (operator definition)
+
+*From Endorphin's lived experience, which is not transcribed here, prompted by the audit's C6 verdicts.*
+
+> "Returns are usually actions done by the perpetrator that the victim can accept or reject, and
+> accepting means accepting another iteration of the cycle until the next discard."
+
+**Definition.** C6 is coded by **function**: a perpetrator's offer (gifts, apology, a promise, a bid for
+contact) made to a target who is pulling away or has left, which **she can accept or refuse, and which,
+if accepted, starts another iteration**. What defines it is the offer and its consequence, not a prior
+exit. A return can come at the *threshold* of exit, while the target is pulling away, and not only after
+she has gone. A contact that offers nothing to accept (a reactive apology followed by silence) is not C6.
+
+**Escalation (operator hypothesis, `[HYPOTHESIS]`).** Each accepted return leads to a discard more painful
+than the last. The operator puts the growth at roughly orders of magnitude per iteration. Iterations
+compound damage that the target may not perceive while it happens, and may blame on herself.
+**What would refute it:** cases with several recorded iterations in which later discards are no worse,
+or are milder, than earlier ones. **Test:** for each case with two or more iterations, record the
+iteration count and a severity marker for each discard (for example, a new kind of harm, a health
+crisis, a threat to life), blind to this hypothesis where possible. Candidates in the corpus: S15g
+(repeated block/unblock and breakups, ending in an overdose), S1 ex-fiancée (six years on and off),
+S13a (a breakup, then a return when she reactivated Match).

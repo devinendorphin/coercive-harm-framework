@@ -1,12 +1,13 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-11-01, session `sww-abc` (branch
-`ccr-c49788dd-8fejpj`, not yet merged to `main`).*
+this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-and-symmetric-audit`
+(log: `sessions/2026-11-13-consent-lineage-and-symmetric-audit.md`).*
 
-**Read-first: `docs/09-synthesis.md`** then **`docs/10-power-critique.md`**. For the
-*Something Was Wrong* work: `research/sww-corpus/close-read/CROSS-SEASON.md` (tally through
-S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
+**Read-first:** `docs/09-synthesis.md`, then `docs/10-power-critique.md`. For *Something Was Wrong*:
+`research/sww-corpus/results/whole_story/RESULTS.md`, the close read
+(`research/sww-corpus/close-read/CROSS-SEASON.md`, `CODEBOOK.md` amendments 6–7), and
+**`close-read/AUDIT-2026-11-13-symmetric-reread.md`**, which re-grades the close-read tallies.
 
 ---
 
@@ -16,37 +17,39 @@ S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
 |---|---|
 | 00-glossary | seeded |
 | 01-problem-statement | active; candidate gaps 6 and 7 |
-| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint added (liberty review); cluster coherence HYPOTHESIS |
-| 03-legal-framework | ACTIVE; fraud prong BLOCKED (S9 and S20 are the identity cases) |
-| 04-evidentiary-standards | ACTIVE; **C2 refuted in the corpus** recorded; untested-record rule needed (S19 div. 12) |
-| 05 / 06 | ACTIVE; liberty-reviewed (X7); doc 05 §1.3 rewritten |
-| 07 | ACTIVE; X3/X7/X10/X12/X17 verdicts in; **needs *Counterman* (2023) on prong 5** |
-| 08 | 31 objections; **OBJ-031 CONCEDED for this corpus**; OBJ-030 OPEN |
-| 09 / 10 | ACTIVE; doc 10 Finding B annotated with the power-vector result |
-| SWW corpus | **S1–S24 coded: 56 counted cycle target-cases**; S17–S19 read in full; S16, S20–S24 coded from notes; power-vector test run |
+| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint; cluster coherence HYPOTHESIS; "act of care" working note |
+| 03-legal-framework | ACTIVE; fraud prong BLOCKED (S9, S20 identity cases) |
+| 04-evidentiary-standards | ACTIVE; item 4 carries both tests (63 % of responses; 21 % of people protected) |
+| 05 / 06 | ACTIVE; liberty-reviewed (X7); 05 has the "act of care" working note |
+| 07 | ACTIVE; **needs *Counterman* (2023) on prong 5** and an untested-record rule |
+| 08 | 32 objections; **OBJ-032 PARTLY CONCEDED** (close-read tallies overstate the pattern) |
+| 09 / 10 | ACTIVE; doc 09 wording held for Endorphin |
+| SWW close read | **AUDITED**: binding and devaluation solid (6/6 each); isolation, poisoning and exit-response counts are upper bounds; 0 false misfits; S6a reads as the deception class (reclassification proposed, not done) |
+| Reels (*Told Whole*) | 01 built; **02 needs a thesis-first overhaul** (v5 built, judged fogged) |
+| Veriticide ledger | Entries 18–19, Entry 2 Addendum; consent lineage SUPPORTED (49/51); Title IX wording = mandate |
 
 ## Top 3 priorities for next session
 
-1. **Decide how the thesis absorbs OBJ-031.** *Reason:* the corpus no longer supports
-   "institutions mostly neutralize"; docs 09 and the case-file template should say
-   "present and nameable, worst in identifiable settings (S23, S24)" if Endorphin agrees.
-2. **Doc 07: add *Counterman v. Colorado* (2023) to prong 5, and a rule for untested
-   records** (police files kept without prosecution; S19 div. 12; S22's propensity case).
-   *Reason:* both came out of the coding and touch live mechanisms.
-3. **Merge the branch to `main`, then fix the counting-rule inconsistency** in
-   CROSS-SEASON (one rule for all 24 seasons). *Reason:* nine commits sit on the branch, and
-   the tally mixes two rules.
+1. **Overhaul reel 02 thesis-first.** Name each move once, with one memorable, well-evidenced example
+   each. Candidates checked in the coders' files: Odessa S13 (second witness), S1 Sarah (documents and a
+   second witness), S9 Danielle (documents and a second witness). Put one compact edges segment at the
+   end. *Reason:* Endorphin's call. The breaks fogged the thesis, and a fog is the move the audit exists
+   to catch. The audit's figures move to arc 7, pending Endorphin's agreement.
+2. **Rulings and follow-ups on the audit.** C4 direction (outward only, or both ways); the Kaelyn
+   reclassification; downgrading the 9–10 cells in their season files. *Reason:* the published counts
+   should stop overstating.
+3. **Blind second reader on the close read, fit side first**, through the coder-environment proposal
+   (outside this container, S-25). *Reason:* the errors were on the fit side, and the same model family
+   coded and audited.
 
 ## Open decisions awaiting Endorphin
 
-- How the thesis states C2 after OBJ-031.
-- Counting rule: count parent–child cases or not, for all seasons.
-- Fraud prong (§4): narrowed to enumerated material facts? Does "identity" include a
-  fabricated self (S9 "Arty", S20 "Brody")?
-- Psychological homicide (§3): Carter-narrow, or a non-enactment aspiration?
-- Base no-harm coercive-endangerment offense: criminal, or civil-only (OBJ-021)?
-- Whether, and how, to post the reels.
-- The CLAUDE.md session-workflow amendment proposed in `2026-11-01-sww-reels.md`.
+- C4 direction; S6a reclassification; where the audit figures go (arc 7?). Doc 09 wording (held).
+  CROSS-SEASON counting rule. Doc 07: *Counterman* and the untested-record rule. Fraud prong scope;
+  psychological homicide scope; base no-harm offense civil or criminal (OBJ-021). Coder-environment
+  proposal approval. Paid-usage study PARKED.
+- Not to run unless something depends on it: the escalation-per-iteration test (amendment 7) and the
+  onset-timing test (amendment 6).
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 
@@ -126,4 +129,43 @@ S24) and `research/sww-corpus/results/power_vector/RESULTS.md` (the C2 test).
   substitute for reading it. Count the people who never reached an institution. Grade evidence
   by corroboration, not by who wrote it. Plain language first. See
   `research/sww-corpus/SELF-AUDIT-2026-11-01.md`.
+- **S-24 (NEW, Endorphin 2026-11-11, process).** **Analysis runs in-session and by script.** No
+  subagents for analysis; counts, rates, agreement and bands come from committed scripts run on
+  the coded files; records are read by hand only to check them (matching, disconfirming samples,
+  published quotations). Decisions are committed before the figures they govern.
+- **S-25 (NEW, from D5).** **A coder is blind only if the harness was checked.** Claude Code loads
+  every CLAUDE.md under the working directories into each subagent. Blind coding runs outside this
+  container (the `sww-coding-kit` route), and what the harness shows the coder is checked, not
+  only what it opens.
+- **S-26 (NEW, Endorphin 2026-11-11).** **Grade evidence in public wording; never disclaim it
+  wholesale.** "Allegations, not verdicts" is retired. Convictions and records are stated as such.
+  A story is called "told solely from the person's own account" only after checking both coders'
+  codes and the transcript; mislabelling corroborated testimony as uncorroborated repeats the
+  lack of care the people in this corpus met. Public pieces are visual (people, timelines,
+  shapes), not bare figures.
+- **S-28 (NEW, Endorphin 2026-11-12).** **A disconfirming test is one test on the claim, not
+  procedural drag.** Do not stack safeguards, caveats or extra study arms on a plain request,
+  and do not presume Endorphin wants a preferred answer: the record shows him volunteering
+  evidence against his own side (S7 memory slip, the medical-rescue ruling, the canary
+  correction). Researchers checking each other's work is best practice, not collusion. Give the
+  plain version first; offer extra safeguards only if asked or if one is actually decisive.
+- **S-29 (NEW, Endorphin 2026-11-12).** **Uncertainty is stated in full, as information, and
+  lived-experience intuition is evidence with a track record here.** State what is unknown, how
+  much, and what would settle it, without defensive hedging. Weigh Endorphin's intuitions by
+  that record: his method corrections (whole stories, no shortcuts, count the unheard, grade by
+  corroboration, retire "allegations") changed measured results; where his claims met counter-
+  evidence (C2 as worded, P1/P2, the developmental hypothesis) he recorded the concession himself.
+  The veriticide ledger and this repo are one body of that work.
 
+- **S-30 (NEW, Endorphin 2026-11-13).** **Thesis first, whole, so it can be remembered.** In public
+  explainers, state the claim and its parts plainly first, with one example each. Grade evidence
+  compactly, and gather the breaks into one short edges segment after the thesis, never interleaved.
+  "When you talk more about where they break you… render the whole episode into a fog." Hedging that
+  buries a claim is itself a version of the move the project studies.
+- **S-31 (NEW, 2026-11-13, process).** **Report direction, not cause, unless a test separates the causes.**
+  The audit's one-way error was first labelled "deference" without evidence. List the rival explanations
+  and what would tell them apart.
+- **S-32 (NEW, Endorphin 2026-11-13).** **Confirmatory work is owed only when a claim is about to carry
+  weight.** A claim sitting at its grade (for example `[HYPOTHESIS]`) stays there until something rests on
+  it. Do not send Endorphin back into the corpus to confirm what nothing yet depends on ("Is that
+  necessary?"). This extends S-28.
