@@ -269,3 +269,122 @@ are confirmed, and C4-T2 is the paradigm case in the corpus. C5 shows the same e
 Molly's C6: **a stage cell filled with conduct that belongs to another cell**. C4 shows the same pattern
 as Kaelyn's C4: **the cell's content is about something said *to* the target, not *about* her**. The C2
 form is mostly *at friction*.
+
+**S9a Danielle, correction to the C4 reason.** In the C4 row I gave the post-exit instances as "already
+counted under R-SEP." That reason is weak, because the corpus allows C4 at exit (S13a). The real reason is
+where they were aimed: a court ("claimed I was crazy") and a co-target (Darcy). By the S13n Arya
+precedent, accounts aimed at co-targets score ~ at most. The verdict stays the same.
+
+### S1 Sarah and S1 ex-fiancée (fit side). Read: S1 E1–E12 and E14, about 101k words
+
+Sarah's cells come from S01.md, with R-SEP from CROSS-SEASON. The ex-fiancée is heard only second-hand,
+through Sarah's account of their phone calls (E9, E11). Her verdicts carry that evidence status.
+
+**Sarah**
+
+| Cell (as coded) | Verdict | Transcript |
+|---|---|---|
+| C1 ✔ | **confirmed** | E1 [12:09] flowers and dinner on the first date; [19:21]–[20:04] flights to three states in two weeks, all paid; [21:24] "a couple grand" in Seattle; [38:49]–[39:32] a bank account opened toward the "dream piano"; the Hillsong future. Sarah: [39:32] "my feelings were not catching up." |
+| C2 ✔ | **confirmed; form: mixed** | Baiting from the start: E2 [15:06]–[15:40] "I'm just trying to get a rise… see how far you'd go" ("at the beginning of our relationship"). The put-downs came later, and Sarah dates them: E5 [18:59] "that did not start at the beginning… I was the best thing that ever happened to him." Then, at her questions: [19:38] "don't get all defensive"; [20:17]–[21:45] "this major character flaw in you… help me love you through it"; E2 [20:49]–[21:59] "little Frenchie… my little snowflake" → "just don't rock the boat… that's kind of the point that he got me to." |
+| C3 ✔ | **confirmed** | E2 [24:38] he found things to criticise in the church she loved; E3 [20:21] to her mother about the dog: "when we get married that's one of the first things to go"; E5 [04:36]–[06:06] after her parents' dinner without him: "we didn't see him for weeks… he's pulling her away"; through the sockpuppet: E6 [03:56] "your family is very codependent… 50 mile radius"; E10 [49:43] he refused to let her parents bring her home from urgent care. **Onset:** the wedge began *after the parents scrutinised him* (E5 [04:36]). Before that he had courted them (E6 [13:17]). |
+| C4 ✔ (inward + outward) | **false fit under the codebook as written** | *Inward*: the sockpuppet "Kimmy" (confirmed as him: E7 [20:35]–[22:03]) gave **Sarah** a false account of her family (E5 [07:31]–[08:12] "How dare my parents"). That is the isolating function, and it is credited under C3 above. *Outward*: the story he gave **his own** family and friends (E8 [14:52] "chose to not let God redeem this"; E9 [02:53] "telling your friends that you called off the wedding"). That is a frame told to his network, not hers, and it came after exit. By precedent (Zoe's C4 ~; S13n) it scores ~. *Under an inward-inclusive reading of C4 (see the summary), this cell would be confirmed.* |
+| C6 ✔ | **confirmed, weak** | No overt bid to re-bind. Access was kept up covertly: E8 [24:45] refunds stalled for weeks (Sarah: "he just wanted the lifeline"); [25:18] "I'm really sorry," sent the moment they cleared; E9 [25:51] logins to her Gmail and a two-factor code; [31:39] her old card used for his flight upgrades in July and August. |
+| R-SEP ✔ | **confirmed** | E8 [12:43]–[13:26] "couples counseling for our sin… parental counseling for the sin on the part of your parents"; [21:41] "you're making a huge mistake"; E9 [43:49]–[48:35] his brother's "redemption" texts; [53:13] after the podcast: "I'm going to need your mailing address for legal purposes." |
+
+**Ex-fiancée (second-hand)**
+
+| Cell (as coded) | Verdict | Transcript |
+|---|---|---|
+| C1 ✔ | **confirmed** | E9 [11:19] after the broken engagement he flew out "every couple weeks… you're gonna marry me"; [13:54], [19:48]–[20:31] a faked cancer, with "lawyer" calls, as the tie. |
+| C2 ✔ | **confirmed, thin; form: *at friction*** | A single reported instance, said when she pressed him about another woman: E9 [18:12] "she's better than you." |
+| C3 ✔ | **false fit** | The coded act is surveillance after the breakup: E9 [13:54]–[14:48] "friends of his were telling him where she was" (at her new job, in another state); E11 [04:51] "he's got eyes everywhere." That is monitoring (R-SEP/C6 territory), not cutting her off from support. Her father intervened without hindrance (E9 [09:35]). |
+| C4 ✔ | **false fit (~ at most)** | E9 [09:35]–[10:28] **his mother's** mass email "roasted her" to "the entire family." His role is not shown, and the audience was his family. Precedent: S13b Odessa's parents ("his role in that is not shown") scored ~. |
+| C5 ✔ | **confirmed** | E9 [16:19] radio silence once he was pursuing Sarah; [16:59] "what do you want?"; [18:12] the devaluing release. |
+| C6 ✔ | **confirmed** | E9 [11:19] on and off for six years; E11 [05:36] "he would always come back." |
+| R-SEP ✔ | **confirmed** | E9 [16:59]–[17:35] webcam photos texted to her: "you're not gonna be able to get away from me"; [25:51] about a year of logins to her accounts. |
+
+**Verdict.** Sarah: one false fit among six cells (C4), and it depends on how C4 is defined.
+Ex-fiancée: two false fits among seven (C3, C4). Sarah's C3 onset is the network-side counterpart of
+amendment 6: **the wedge began when her parents started asking questions.**
+
+---
+
+## Summary (written after all fourteen stories were read in full)
+
+### Counts
+
+| Side | Stories | Cells checked | Changed verdicts |
+|---|---|---|---|
+| Misfit side | 7 | 15 absent/n/d cells | **0 false misfits.** All seven stand: five pattern misfits as worded, two scope cases. Borderline flashes only (Naomi's litter box, Olivia's one outburst). One codebook question (Sadie: does discrediting warners count as C3 or C4?). |
+| Fit side | 7 | 43 ✔ cells | **10 false fits (23%):** Kaelyn 3/5, Molly 2/3, Danielle 2/7, ex-fiancée 2/7, Sarah 1/6, Emilia 0/7, Zoe 0/8. |
+
+Counting rule: the cycle cells, plus any other field marked ✔ in the case grid (Molly's Economic; Emilia's
+and Zoe's sexual coercion; Zoe's suicide threat). Danielle's unmarked descriptive fields are not counted.
+They are confirmed, so counting them would only lower the rate.
+
+### Against the pre-set refutation reading
+
+The reading was fixed before any transcript was read: *the pattern claim is weakened if false fits occur
+at a rate comparable to or above the misfit side's false misfits.* The result is **0 false misfits
+against a 23% false-fit rate.** By that reading, **the claim is weakened.** The coding errors ran in one
+direction: **toward the pattern.** The misfits did not turn out to be fits, which was the operator's
+suspicion ("mis-fitting in their misfitness"). Some fits turned out not to be fits. The coder was the
+same model family as this reader. This is the Reflexivity Clause in action: the corpus-level
+deference the project studies showed up in its own coding.
+
+### Where the false fits fall
+
+- **C1, C2 and R-SEP: no false fits in any of the seven fit stories.** C2 was confirmed in all seven
+  where it was coded (thin for the ex-fiancée).
+- **Stage cells filled with another cell's conduct:** Danielle's C5 (contempt and other lives, but he
+  pursued her at exit), Molly's C6 (post-incident love-bombing during employment), Kaelyn's C6 (one
+  reactive contact).
+- **C4's direction:** Kaelyn (an invented enemy described *to* her), Danielle (family discredited *to*
+  her), Sarah inward (the sockpuppet's story *to* her). Plus C4 acts by third parties or aimed at his
+  own network (the ex-fiancée's mother; Sarah outward).
+- **Resemblance coded as function:** surveillance coded as isolation (ex-fiancée C3); wage terms coded as
+  economic control (Molly).
+- **At case level:** **Kaelyn reads as the deception class** (S10h/S13k type), not as a control case.
+  **Molly's fit rests on C2 plus four partials** and on treating the household as one perpetrator.
+
+### Sensitivity: the definition of C4
+
+The codebook defines C4 as "smearing the target to friends, family, therapists, employers or
+authorities." That is outward. The operator's founding sentence says "poisoning the wells *between* the
+people that are part of their care system," and that wording could include the inward direction. S01
+coded inward as C4. **If C4 includes inward poisoning, Danielle's C4 and Sarah's C4 become confirmed.
+False fits fall to 8 of 43 (19%). Kaelyn's C4 stays false** (the "enemy" was invented, not her network).
+Either way, the reading's verdict is the same: 0 against roughly 20%. This is the operator's call. Until
+it is made, inward poisoning is credited under C3, which is where its function sits.
+
+### Amendment 6 (C2 timing), across the read
+
+- *At friction*: Emily, Amelia (mostly), Odessa (the perpetrator names the trigger: E3 [18:26]), Molly,
+  Zoe (the target names it: E12 [19:01]), Danielle (mostly), the ex-fiancée.
+- *From the start*: Emilia (first words, first night, set off by his own failure); Amelia's first-date
+  jab; Danielle's first-month gift complaint; Sarah's early baiting (a mixed case).
+- *Untriggered*: Diana.
+- *Friction without C2*: both scope cases (Sadie; Olivia apart from one flash). That is consistent with
+  C2 belonging to the control conjunction, not being a general response to being challenged.
+- Network side: in Sarah's and Amelia's cases, isolation-like acts began after **the network's**
+  scrutiny or the target's break. `[HYPOTHESIS]` for the onset-timing test.
+
+### Two hypotheses retracted or narrowed during the read
+
+- The "blocked channel" idea (Odessa, Amelia, Sadie) was **narrowed under S10h**: warner-discrediting
+  appears in both deception cases, so it does not separate control from deception.
+- None of the misfit-side readings changed a verdict.
+
+### Limits
+
+The reader was the same model family as the original coder and was not blind. The fit side was drawn at
+random, but there were only seven stories. The ex-fiancée's cells rest on second-hand testimony.
+Transcripts are machine transcriptions. The blind second reader (Codex) is still needed, and this
+result makes it more urgent.
+
+### Proposed, not done (under this file's Rules, the audit does not amend anything)
+
+1. Reclassify S6a Kaelyn from the cycle fits to the deception/scope class in CROSS-SEASON, and recount.
+2. Downgrade the cells listed above in their season files, each with a pointer to this audit.
+3. The operator rules on the definition of C4 (outward only, or both directions).
+4. Run the blind second reader on the fit side first, since that is where the errors were.
