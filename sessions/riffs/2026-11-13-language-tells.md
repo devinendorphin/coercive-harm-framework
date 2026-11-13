@@ -48,3 +48,28 @@ summarised at the end of the quotation.*
 
 Candidate material for doc 02 (verbal markers) and doc 04 (how testimony is read). Not routed now (S-32).
 Open question for Endorphin (S-33): see the session reply.
+
+## Message 2: retelling, the room, and names
+
+> I usually the retelling of aspirational also is not aware of the room it's not aware of that or it's telling
+> it because it's telling the new person in the room, whereas the other people in the room who've heard it time
+> and again they're starting to tune out. Also a perpetrator telling about abuse is not abiding by HIPAA he's
+> telling the story he's telling his name he's telling a person. Saying their names. I rarely say names
+> especially when a public statement contains my story I refer to my colleague I refer to a person who's no
+> longer in my life I refer to my estranged ex. Purpose of that is distinct distinguish My telling of my story
+> from the warped telling of the story which serves the purpose of the perpetrator which is the one that not only
+> has probably spread more widely and earlier than I need to tell it because at the time that was that story was
+> being told I was in the thick of the dynamic and wasn't aware of it.
+
+**Corpus instances already read (for later, not a test):**
+- Naming the target to people who don't know her: S9 Arty gave Darcy Danielle's full name, then a
+  cease-and-desist naming "Danielle and our daughter" (E4 [19:35]; E5 [02:27]); S13h Ryan messaged Zoe's mother
+  about her abortion (E13 [39:40]).
+- The warped account told first, while the target is inside the dynamic: S13k Beth, "people are spreading
+  rumors… my ex-husband is starting all these rumors" (E16 [27:14], [35:24]); S9 Arty's "crazy ex-girlfriend"
+  story, told to Darcy months before Danielle knew Darcy existed (E4 [24:21]).
+- The survivors' own practice matches: the show's guests use pseudonyms, and this repo's naming rule (S-21) is
+  the same instinct.
+
+**Bearing on an open ruling:** "the warped telling… spread more widely and earlier" describes outward C4 and its
+timing. It is relevant to the C4-direction question, which is still Endorphin's to rule on.
