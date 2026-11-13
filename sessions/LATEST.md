@@ -165,6 +165,11 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
 - **S-31 (NEW, 2026-11-13, process).** **Report direction, not cause, unless a test separates the causes.**
   The audit's one-way error was first labelled "deference" without evidence. List the rival explanations
   and what would tell them apart.
+  **Amended (Endorphin, 2026-11-13): "feel free to examine your own motives."** S-31 governs causal claims
+  in findings. It is not a bar on examining Claude's own motives, and citing it to decline that examination
+  (as in the "room"/"fractal" answer) is the resemblance of rigor S-34 cuts. When a pattern in Claude's own
+  output is in question, name the motives the pattern points to, the way the framework reads conduct:
+  function from the run of acts, not from stated intent.
 - **S-32 (NEW, Endorphin 2026-11-13).** **Confirmatory work is owed only when a claim is about to carry
   weight.** A claim sitting at its grade (for example `[HYPOTHESIS]`) stays there until something rests on
   it. Do not send Endorphin back into the corpus to confirm what nothing yet depends on ("Is that
