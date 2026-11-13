@@ -186,3 +186,23 @@ C2 and C3 happen only inside the fiction, and there is no R-SEP (at exposure she
 **At case level, Kaelyn reads as the S10h/S13k deception class with invented third parties, not as a
 control case.** The S06 header's "yes, partially" was already hedging toward this. This is the first
 false fit in the audit, and it counts against the pattern claim under the refutation reading.
+
+### S15g Emilia (fit side). Read: S15 E7, about 16k words
+
+| Cell (as coded) | Verdict | Transcript |
+|---|---|---|
+| C1 ✔ | **confirmed** | mentoring: [04:23] "you're so smart, you should go to school, you can do what I'm doing." Promises used as the price of compliance: [25:39]–[25:46] "Just one time… I will marry you. You don't have to work anymore." Later: [39:13] "I bought us a house"; [56:54] "I will pay for all of your school." |
+| C2 ✔ | **confirmed; form: *from the start*** | His first words to her: [03:39] "that's all gonna go straight to your ass." The first night alone, set off by his own failure in the car and not by anything she resisted: [10:56]–[11:01] "He's calling me a cunt and he's saying everything's my fault." Later, at friction: [12:39] "You're being a bitch" (when she did not pick up); [55:05] "she's so much better looking than you" (after she confronted him about another woman, [54:20]); [55:41] "you look big. You're getting chunky." |
+| C3 ✔ | **confirmed** | cut off from clinical care: [17:04] "You don't need to be in the hospital. You need to be with me"; [20:40] "these doctors are all lying to you"; [68:00] the same after her overdose. Location tracking: [69:12]. A friendship ended through the impersonation: [73:48] "you can't be friends with her anymore." The secrecy rule ([13:15]) had a stated self-protective motive ("I could lose my job"). The other evidence shows the function without it. |
+| C4 ✔✔ | **confirmed, function exact** | A false account of her, sent *as her*, to her network: [74:46]–[75:16] threesome requests and his nudes to her best friend, "send me dick pics" to her male best friend; [75:16] to her sister; [75:30] "he had deleted all of the messages from my phone." The friend's boyfriend acted on it ([73:48]). |
+| C5 ✔ | **confirmed** | [12:46]–[12:53] blocked, then unblocked at five in the morning; after the set-up, [50:05] "you're a whore," then [76:31] "I need you to leave or I'm gonna call the cops on you." |
+| R-SEP ✔ | **confirmed** | [59:39] "I need you to come over… if you're not, I'm gonna kill myself"; [56:20] repeated withheld-number calls after she blocked him; [77:02]–[78:37] he held her phone, keys, glasses and shoes ("you are not gonna leave"); [79:01] "that's on you… you shouldn't have even tried to leave." |
+| Sexual coercion ✔✔ | **confirmed** | [41:08] "I have every right to want to touch you whenever I want"; [41:33] "assaulted pretty much every night"; [89:06] slapping: "I thought this is what you wanted." |
+
+**Verdict.** All seven ✔ cells confirmed; no false fits. For amendment 6, the C2 form is ***from the
+start***: devaluation in his first words and on the first night, before any resistance from her. That is
+the second *from the start* case in this audit (with S13a's first-date jab). It counts against reading
+amendment 6 as "devaluation only ever follows friction." The amendment as written already lists *from
+the start* as a form, so the result is consistent with the amendment, but it limits how far the
+friction claim generalises. The first-night outburst followed **his own failure**. That fits the
+operator's recorded hypothesis about the perpetrator's relief. It is noted here, not coded.
