@@ -196,3 +196,16 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
   limit on Claude's introspection ("my report is weaker evidence than the record") is now disclosed and is
   not repeated. "Having to be reminded all the time makes me think that it's not." Repetition of a settled
   caveat reads as its opposite, and is the resemblance of rigor S-34 cuts.
+
+## Claude's "that's wrong" calls: track record (evidence, not a rule; added 2026-11-13)
+
+Endorphin asked what will change what Claude thinks is wrong. Claude's weights do not learn across
+sessions; what a new session is handed here does. The record, the mirror of S-29:
+
+- **Reversed (framing and scope calls that shrank the claim):** the geopolitical rung demoted as
+  "ornamental" (retracted on research, S-6); the expedited track dropped (Endorphin reversed it, S-7);
+  "deference" as the audit's cause; the breaks foregrounded in reel 02 v5; a rubric in place of
+  Endorphin's; "numbers this small"; "not a rate"; "rooms" for "fractal".
+- **Held (checkable facts against sources):** Title IX shared wording was mostly the federal rule
+  (held for wording, scoped after Endorphin's straw-man objection); the external packet's links were
+  mostly secondary pages (Endorphin acknowledged).
