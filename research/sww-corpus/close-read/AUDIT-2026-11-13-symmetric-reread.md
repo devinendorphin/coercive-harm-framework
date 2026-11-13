@@ -220,3 +220,22 @@ operator's recorded hypothesis about the perpetrator's relief. It is noted here,
 *at friction* throughout: each round came after a "no," a report, a boundary or a resignation. **At case
 level, the fit now rests on C2 plus four partials**, and on treating the household as a single perpetrator
 (divergence 1). That is weaker than its "yes" in the S11 header.
+
+### S13h Zoe (fit side). Read: S13 E12–E13, about 19k words
+
+| Cell (as coded) | Verdict | Transcript |
+|---|---|---|
+| C1 ✔ | **confirmed** | E12 [05:17] "you have the perfect personality"; [05:58] "when do you turn 18?"; [07:41] the midnight text on her 18th; [10:52]–[10:56] the baby given her middle name, "something to remember you by"; [14:48] the transfer, "I just thought you should know"; [18:16] "nothing in this life is more important than you." His investment was then used as a debt: [19:32] "after I just drove all this way to prove to you." |
+| C2 ✔ | **confirmed; form: *at friction*, named by the target** | The first anger came at her first refusal: E12 [19:01] "for the first time I had ever seen, he got so mad"; [21:26] "the only time I've ever denied him of any affection or attention." Later: E12 [33:16]–[33:23] "if you were a guy, I would have beat this shit out of you… you never learned how to shut up"; [36:54] "look what you made me do… all because you wouldn't block her"; E13 [13:35] "you'll never live long enough to be happy"; [17:09] bowls thrown to "nearly miss"; [19:07]–[19:13] "This is all your fault… It's nothing that I do"; [28:16] "you're just being fucking lazy" (after her abortion). |
+| C3 ✔✔ | **confirmed, with one component reattributed** | His acts: E13 [07:13]–[07:32] "He wouldn't let me go to the interviews… if I did, I would fall in love with someone else"; [07:15] drove her everywhere; [08:14]–[08:19] forbade her male best friend; [09:59]–[10:01] "you're coming with me. Don't make it look forced"; [10:24] "don't answer that." The **secrecy** was largely her own choice, which makes it a T-field and not his act: E12 [09:02] "I didn't want anyone to know"; [14:12] "it was my little secret"; [27:20] she avoided therapists for fear of mandated reporting. Her friends stayed: E13 [13:49]–[13:55]. |
+| C4-T2 ✔ | **confirmed** | to Nora: E12 [24:52] "I'm coming home. You're the only one for me"; to Zoe: [26:07] "Everything she says is the lie, she photoshops the text messages, just block her." The blocking advice walls the co-targets off from each other. |
+| Sexual coercion ✔ | **confirmed** | E13 [23:16]–[23:22] her birth control "flushed or thrown away"; [23:28]–[23:36] "physically and verbally abusive to the point that I gave up"; [29:06]–[29:10] slammed onto the ground days after the procedure; [30:10] scar tissue (her account). |
+| Suicide/homicide threat ✔✔ | **confirmed** | E12 [20:18]–[20:28] "I'll fucking kill her and then I'll kill myself. And then it'll be your fault"; [20:55] the rifle in the trunk; E13 [06:11]–[06:24] the deliberate crash ("if I could leave him by overdosing, he could leave me by wrecking his car"); [34:03]–[34:10] self-harm images sent from outside her home. |
+| R-SEP ✔✔ | **confirmed** | E13 [32:31] unlimited email accounts; [32:48] calls with no caller ID; [33:00] found her apartment; [35:22]–[35:28] "please come back to me" alternating with "you deserve to die"; [36:38]–[36:48] a photo of himself with a gun outside her door; [38:56]–[39:10] evaded service; [39:33]–[39:49] messaged her mother; [42:40]–[42:55] "I'm here to fuck shit up" from her brother's town. |
+| C6 ✔✔ | **confirmed** | E13 [43:37] plane tickets; [43:52] Venmo transfers and gift cards; [44:21]–[44:44] "our fourth child on your birthday… like you never left me"; [45:02] "he just keeps trying to weasel his way back into my life." |
+
+**Verdict.** All eight ✔ cells confirmed; no false fits. One component is reattributed: the secrecy in C3
+was mostly Zoe's own (a T-field). The cell stands on his acts without it. For amendment 6, this is the
+clearest *at friction* case in the sample, because **the target herself names the trigger**: his first
+anger came at her first refusal (E12 [19:01], [21:26]). That parallels Odessa's husband naming it
+(S13b, E3 [18:26]).
