@@ -170,3 +170,19 @@ and none of the control sequence. One observation affects my own hypothesis unde
 isolation inside control cases. That weakens the reading I put forward under S13b and S13k. If a
 "blocked channel" field is ever added, it would not discriminate control from deception, as C1 does
 not.
+
+### S6a Kaelyn (fit side). Read: S6 E1, about 9k words
+
+| Cell (as coded) | Verdict | Transcript |
+|---|---|---|
+| C1 ✔ | **confirmed** | daily texting with the invented "Tyler" for months ([08:34]–[08:45] "we probably talked at least every day"). She was drawn into Kristen's side of an invented feud ([07:05] "trying to be a supportive friend for Kristen during this trialing time"). She was 19: [07:45] "very, very easy to manipulate." |
+| C4 ✔ | **false fit** | The coded evidence is the invented enemy "Lexi," backed by staged proof ([06:42]–[06:54] the scratched car, the note). That is a false story told **to the target** about an invented third party, which binds her to Kristen. C4's function is a false story told **to the target's network** about the target, and that is not what this shows. The only passage that fits C4's function is second-hand and aimed at a co-target: [37:24]–[37:35] Kristen told Tiffany that Kaelyn "was the one that slept with him" and "showed her my picture." By corpus precedent (S13n Arya: "aimed at co-targets, not at her network"), that is ~ at most. |
+| C5 ✔ | **confirmed, with a note** | The invented persona's "suicide" ended the bond and left guilt: [10:29] "I'm sorry, okay, I can't do it"; [10:42]–[10:46] "guilt from the fight… on top of guilt from not being able to stop him." This is a discard of the persona. The real friendship faded with distance ([13:13] "our friendship kind of died out when she moved away"). |
+| C6 ✔ | **false fit** | No bid to re-bind. Contact years later came only *in reaction to* Kaelyn's question to a third party ([17:58] "Kristen messaged me asking why I asked him that question"). There was one apology and admission ([18:39]), then nothing: [42:51]–[43:19] "she hasn't tried to reach out to me at all." The suspected surveillance through the follower was denied by him ([17:34]). It was Kaelyn who re-added Kristen ([43:04]). |
+| C2 ~, C3 ~ (not ✔; recorded for completeness) | **resemblance only** | Both happen to invented people: [09:40] "he was no longer allowed to talk to me… very rude and ignorant"; [28:03] "rub it in my face that he wasn't allowed to be my friend." Her real network was untouched (her father [45:38]; her best friend of 15 years [46:17]). |
+
+**Verdict.** Two false fits among the four ✔ cells (C4, C6). That leaves C1 and a persona-discard (C5).
+C2 and C3 happen only inside the fiction, and there is no R-SEP (at exposure she blocked Kaelyn, [16:37]).
+**At case level, Kaelyn reads as the S10h/S13k deception class with invented third parties, not as a
+control case.** The S06 header's "yes, partially" was already hedging toward this. This is the first
+false fit in the audit, and it counts against the pattern claim under the refutation reading.
