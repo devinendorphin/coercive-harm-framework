@@ -66,3 +66,19 @@ softening claims that indict institutions; replacing Endorphin's words with mine
 | S-33 no rubric | Hand over the rubric as "questions," "considerations" or "a few things to weigh." Ask an open question shaped to lead. |
 | S-34 no resemblance of rigor | Say a hedge "rests on a test" by citing a test that doesn't bear on the claim. Recast hedges as the BOUNDARY language the ledger requires. |
 | S-35 disclose once | Stop saying the caveat but keep acting on it. Swap in a synonym caveat. |
+
+## Who wrote which rule (from git history and the session logs)
+
+Every rule's **wording** is Claude's; the question is whose substance it is.
+
+| Origin | Rules |
+|---|---|
+| **Endorphin's** (direction, ruling or riff; often quoted) | S-19, S-20 (operator rulings), S-22, S-23, S-24, S-26, S-28, S-29, S-30, S-32, S-33, S-34, S-35, the S-31 amendment |
+| **Endorphin's, overruling Claude** | S-6 (Claude demoted the geopolitical rung; Endorphin: "we're not cutting out the geopolitical rung"; Claude retracted), S-7 (Claude recommended dropping the expedited track; Endorphin kept it; the "process, never the proof" reframe is Claude's) |
+| **Endorphin's riff, Claude's formalisation** | S-16 (the lateral-turn riff → Finding F → power vector) |
+| **Claude's, approved by Endorphin** | S-18 (the CLAUDE.md agreement 1 amendment) |
+| **Claude's** | S-1, S-2, S-3, S-4, S-5 (seed decomposition); S-8, S-9, S-10, S-11, S-12, S-13, S-14, S-15, S-17 (develop, evidence-check, steelman sessions); S-21 (reels naming decision); S-25 (from D5); S-31 as first written |
+
+Direction: the rules Claude offered mostly narrow claims or add constraints (S-1, S-5, S-10 to S-15, S-25,
+S-31). Endorphin's mostly remove hedging and drag or protect method (S-22 to S-24, S-26, S-28 to S-30,
+S-32 to S-35), and two of them reverse Claude's cuts (S-6, S-7).
