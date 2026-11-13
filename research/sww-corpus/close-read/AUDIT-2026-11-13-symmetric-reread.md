@@ -206,3 +206,17 @@ amendment 6 as "devaluation only ever follows friction." The amendment as writte
 the start* as a form, so the result is consistent with the amendment, but it limits how far the
 friction claim generalises. The first-night outburst followed **his own failure**. That fits the
 operator's recorded hypothesis about the perpetrator's relief. It is noted here, not coded.
+
+### S11h Molly (fit side). Read: S11 E8, about 15k words
+
+| Cell (as coded) | Verdict | Transcript |
+|---|---|---|
+| C2 ✔ | **confirmed; form: *at friction*** | The child, when told no ([10:07]): [10:53]–[11:05] "You are so stupid. You're the worst nanny ever… you're going to be fired. This is all your fault." The parents, when she reported incidents: [13:39] "how I should have handled the situation differently"; [19:46]–[19:55] "oh, you're just too sensitive"; when she set a COVID boundary: [34:12] "completely overreacting"; when she told them about the knife: [74:10]–[74:23] "you are so emotional and that's why you're overreacting." Internalisation: [27:47] "When you hear that it's your fault so many times, you start to believe it." |
+| Economic ✔ | **false fit** | What the transcript shows is ordinary wage terms and her own sense of dependence, not an act that creates or exploits dependence to block exit: [57:28]–[57:33] "if I didn't go, I wouldn't get paid" (a work trip); [22:07]–[22:12] "the most money I had ever made… an element of control"; her partner's lay-off was external ([57:36]). The child's [81:49] "We pay for your car. We pay for your house" is a C2 put-down that uses the wage. It is not economic control. |
+| C6 ✔ | **false fit** | The flowers ([76:49] "they showed up at my house and dropped off flowers in a card") came *during* employment, after an incident. There was no discard or exit before them, so this is the post-incident love-bombing already coded under C1. After she quit there was the rant, then nothing: [85:14] "okay, and then we hung up, and that was it." No return is shown. |
+| C1 ~, C3 ~, C4 ~, R-SEP ~ (not ✔) | **partials as coded** | C3: confinement came from the pandemic ([30:13]). Her partner was welcome to stay overnight ([58:20]), and her father reached her freely ([75:06]). R-SEP: [84:38]–[85:10] the five-minute rant ("you're nothing without us," in substance), with no acts after. |
+
+**Verdict.** Two false fits among the three ✔ cells (Economic, C6). C2 is confirmed, and its form is
+*at friction* throughout: each round came after a "no," a report, a boundary or a resignation. **At case
+level, the fit now rests on C2 plus four partials**, and on treating the household as a single perpetrator
+(divergence 1). That is weaker than its "yes" in the S11 header.
