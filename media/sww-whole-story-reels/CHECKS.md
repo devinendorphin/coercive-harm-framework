@@ -87,3 +87,25 @@ Source for every new figure: `research/sww-corpus/close-read/AUDIT-2026-11-13-sy
 Poisoning the wells counted both ways: Danielle and Sarah held, so 3 of 5. Overall, 36 of 43 marks held and
 7 did not (about one in six). Source: the audit's C4 sensitivity note, now ruled. The built video still shows
 the v5 figures; the thesis-first overhaul will carry these.
+
+## Reel 02 v6 (2026-11-13): thesis-first overhaul (Endorphin: "the breaks fog the thesis")
+
+The reel now leads with the six moves, one survivor's own telling each, then the count, then one short edges
+segment. None of the five stories is called "told solely from the person's own account"; each quote is
+attributed to the survivor by name and season, as in reel 01. Quotes were checked word for word against the
+transcripts.
+
+| Move | Story | Quote and location | Coders' `evidence_types` (whole-story files) |
+|---|---|---|---|
+| 2 Devalue | S13b Odessa, recalling her husband | "my natural instinct when you disagree with me and when we get into these arguments is to say something that I know will hurt you to get you to leave me alone" (S13 E3 [18:26]–[18:38]) | A second_witness · B document_read_on_air · NEG/POS second_witness, document_read_on_air · CPOS document_read_on_air, second_witness · CNEG person_account_alone |
+| 3 Isolate | S13h Zoe | "He did not want me to work anywhere else. He said that if I did, I would fall in love with someone else and leave him." (S13 E13 [07:25]–[07:28]) | A second_witness · NEG/POS second_witness · CPOS document_read_on_air, second_witness · B and CNEG person_account_alone |
+| 4 Poison the wells | S1 Sarah, recalling "Kimmy" | "your family is very codependent. They all live within a 50 mile radius of each other." (S1 E6 [03:53]–[03:56]); Kimmy invented: his confession, "Brian and Kimmy Powers are not real people" (S1 E9 [03:36]); "the high 90 something percentile of the conversations were actually him" (S1 E7 [22:03]) | A and B: document_read_on_air, second_witness, record_checked_by_show |
+| 5 Discard, and return | S15g Emilia | "He would get mad and block my number. Then whenever he got up for work at five in the morning, he would unblock my number and he would start texting me." (S15 E7 [12:39]–[12:49]) | A and B: person_account_alone. Quote attributed; no event is narrated as fact beyond her telling. |
+| 6 When she leaves | S9a Danielle | "You guys needed to let me see my daughter or else nobody in this family is gonna be safe." (S9 E6 [34:00]–[34:02]), her account of his text to her stepmother | CA document_read_on_air, second_witness · CB second_witness, document_read_on_air, record_checked_by_show |
+
+Figures: the 56-story rows are the first coding (`CROSS-SEASON.md`; "When she leaves" = R-SEP present, 56).
+Re-read: binding and devaluation 6 of 6; the others held in most; 36 of 43 marks held (amendments 7–8). The
+"misfits held" line refers to all 7 misfit-side stories. Five women and five different men: Odessa's husband,
+Zoe's former manager, Sarah's former fiancé, Emilia's former partner, Danielle's former partner. None is named.
+Dropped from this reel (they move to later arcs): the Diana friction case, the isolation word-test failure, and
+the audit's per-move table (arc 7, "How measuring can hide it").

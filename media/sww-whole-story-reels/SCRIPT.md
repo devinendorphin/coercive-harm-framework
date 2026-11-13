@@ -29,44 +29,38 @@
 - The rest comes one piece at a time.
   - *on screen:* One piece at a time. — Told Whole · Something Was Wrong, Seasons 1–26
 
-## 02 · Same Moves  (294 s)
+## 02 · Same Moves  (167 s)
 
-- The first claim behind this series is about the people who did the harm. Different people, different places, different years. The claim is that they make the same moves.
-  - *on screen:* Same moves. — Arc 1 · as far as the room allows
+- This series rests on one claim. Different people, in different places and different years, make the same moves.
+  - *on screen:* Same moves. — Arc 1 · the thesis
 - The moves were written down before the reading began, in the project director's own words.
   - *on screen:* “It is a cycle: the effusive love bombing, to devaluation, to isolation and poisoning the wells between the people that are part of their care system, and then discard, and then potentially returning again.” — Endorphin, project director
-- Then the seasons were read in order, one to twenty-four, by a single A.I. reader. That reader knew the prediction. So it had one standing order: write down every story that does not fit. Never smooth it over.
-  - *on screen:* Write down every misfit. — Seasons 1–24 read in order by one A.I. reader that knew the prediction.
-- Fifty-six stories were coded move by move. Binding. Devaluation. Isolation. Poisoning the wells. And what happened when the person left, or the truth came out.
-  - *on screen:* timeline: Binding: obligation, dependency, access → Devaluation → Isolation → Poisoning the wells: a false account to the people around them → When they leave, or it comes out
-- The first move rarely looks like a move. It binds. And it took whatever shape fit the person. A whirlwind romance. A friend in need. A boss's favour. A place to live, offered in a housing crisis. A mentor at work. A group that felt like family. Praise for a mother, aimed at her children.
-  - *on screen:* One move, many shapes — chips: A whirlwind romance, A friend in need, A boss's favour, Housing in a crisis, A mentor at work, A group like family, Praise for a mother
-- The shapes differ. What each one does is the same. Counted by what it did, not how it looked, each move turned up again and again, as first coded. Each dot is one story.
-  - *on screen:* 56 stories, as first coded: Binding 55 of 56; Devaluation 52 of 56; Isolation 48 of 56; Poisoning the wells 48 of 56 — one row of 56 dots each, lit where present; Blue: the move is in the story. Binding's one gap: not in the reading notes. Seasons 16–24 were coded from notes, a weaker basis.
-- And when someone left, or the truth came out, the first coding found a response in every one of the fifty-six. Pursuit, threats, reversal, a smear.
-  - *on screen:* 56 dots, one per person; 56 turn blue — 56 of 56, met a response, as first coded; 
-- Then seven of those stories, picked at random, were read again in full, with a rule written down first: a mark stays only if the transcript shows what the move does, not just something that looks like it. Binding and devaluation held every time. The response at exit held in five of six. Isolation held in four of five. Poisoning the wells held in one of five, as first defined.
-  - *on screen:* 7 stories read again in full: Binding 6 of 12; Devaluation 6 of 12; Response at exit 5 of 12; Isolation 4 of 12; Poisoning the wells 3 of 12 — one row of 12 dots each, lit where present; Blue: the mark held. Grey: it did not. Poisoning counted both ways, as the director ruled. Each dot is one story where the move was first marked.
-- Two of the poisoning marks that failed were stories told to her about her people, not stories told to her people about her. The director ruled that poisoning runs both ways, which brings it to three of five. Even so, three of the first counts are too high: isolation, poisoning the wells, and the response at exit. By how much is not known until every story is read again.
-  - *on screen:* Three counts are too high. — Isolation, poisoning the wells and the response at exit, by amounts not yet known. Binding and devaluation held.
-- Now, where it breaks. Binding alone tells you nothing. Some deceivers bound people, and simply ran when they were caught. The re-read found one more story that belongs there: a friend who invented a whole cast of people, and when she was caught, simply blocked her. The pattern is the combination, not any one move.
-  - *on screen:* No single move is the pattern. — Some deceivers bound people and simply ran when caught. What marks the pattern is the moves together, and the response when someone leaves.
-- Isolation was the weakest move. A word-count test, written down in advance, found isolation talk three times as common as in a comparison podcast. But it was clearly raised in only about one season in four. By its own rule, the test failed.
-  - *on screen:* 26 dots, one per person; 7 turn blue — 1 in 4, seasons where isolation talk clearly stood out, by the test written in advance (7 of 26); A fairer comparison, chosen afterwards, gives about 3 in 4. It came after, so the failure stands.
-- The project director's answer: look at the room. One relationship was long distance, backed by documents and a second witness. You can't cut someone off from people you never meet. In another story, backed by a second witness, the school pulled a teacher from his classes. He sent one message, then nothing. The room left no way in.
-  - *on screen:* timeline: A long-distance relationship [documents + a second witness] → No isolation coded: no room to do it → A teacher pulled from his classes [a second witness] → One message, then nothing
-- That is a hypothesis, not a finding. To test it, a separate reader would have to code what each room allowed, before looking at the moves.
-  - *on screen:* As far as the room allows. — A hypothesis until a separate reader codes each room's openings first.
-- And one story did not fit the prediction as written. For about three years of their marriage, a man gave his wife constant praise, and she can name no put-downs. Her daughter and her niece were his targets, and the praise was how he reached them. He pleaded guilty in federal court and was sentenced to thirty years. In her words:
-  - *on screen:* “For a predator to successfully groom a child, they first have to groom the parent.” — Diana, Season 15
-- It was written down as a misfit. The project director reads it differently: devaluation waits for friction. For three years she never pushed back. When the truth came out and she did, the blame came at once. He put what he did down to her lack of intimacy.
-  - *on screen:* timeline: Three years: praise, and no friction → The truth comes out; she pushes back → The blame comes at once [her “lack of intimacy”]
-- That is a reading to test, not a finding. Some stories do not fit it either: the put-downs start before any friction at all.
-  - *on screen:* Does devaluation wait for friction? — A reading to test, with counter-cases: in some stories the put-downs start before any friction at all.
-- Seventy-two notes were written down along the way. Most are about institutions, evidence and method, or are new shapes of the same moves. Sorted against the misfit rules, about four are stories where a move was missing or different while the chance was there. When they were read again in full, all four held.
-  - *on screen:* 72 dots, one per person; 4 turn blue — 4 of 72, notes are true misfits; Read again in full: all four held.
-- The marks in the stories that fit did worse. About one in six did not hold. Every error ran the same way: toward the pattern. Why is not settled. The re-reader was the same kind of A.I. as the first, and not blind. A blind reader still has to check it.
-  - *on screen:* 43 dots, one per person; 36 turn blue — 36 of 43, marks in the fitting stories held; Every error ran toward the pattern. Same kind of reader, not blind.
-- Same moves, as far as the room allows, and as far as the re-reading holds. That is the claim. These are its edges.
+- Six moves. Here is each one, in a survivor's own telling.
+  - *on screen:* timeline: 1 · Bind → 2 · Devalue → 3 · Isolate → 4 · Poison the wells → 5 · Discard, and return → 6 · When she leaves
+- One. Bind. Make her owe, or need, or belong. It takes whatever shape fits the person. A whirlwind romance. A friend in need. A boss's favour. A mentor at work. A group that feels like family.
+  - *on screen:* 1 · Bind: owe, need, belong — chips: A whirlwind romance, A friend in need, A boss's favour, Housing in a crisis, A mentor at work, A group like family
+- Two. Devalue. Make her feel worthless, until she believes it. It often waits until she pushes back. One husband explained it himself. His wife remembers him saying:
+  - *on screen:* “My natural instinct when you disagree with me and when we get into these arguments is to say something that I know will hurt you to get you to leave me alone.” — 2 · Devalue · Odessa · Season 13
+- Three. Isolate. Cut her off from the people and places that hold her up. Zoe was in college and wanted a job of her own.
+  - *on screen:* “He did not want me to work anywhere else. He said that if I did, I would fall in love with someone else and leave him.” — 3 · Isolate · Zoe · Season 13
+- Four. Poison the wells. A false story, carried between her and her people, in either direction. Sarah had a friend called Kimmy, who texted her for months. Kimmy told her this:
+  - *on screen:* “Your family is very codependent. They all live within a 50 mile radius of each other.” — 4 · Poison the wells · Sarah · Season 1
+- Kimmy did not exist. He made her up, and almost all of her messages were his. The other direction works the same way: a story about her, told to her people.
+  - *on screen:* Kimmy did not exist. — He invented her; almost all of her messages were his. The other direction: a story about her, told to her people.
+- Five. Discard, and return. Drop her, then come back with an offer she can take or refuse. If she takes it, the cycle starts again. Emilia lived it on a loop:
+  - *on screen:* “He would get mad and block my number. Then whenever he got up for work at five in the morning, he would unblock my number and he would start texting me.” — 5 · Discard, and return · Emilia · S15
+- Six. When she leaves, or the truth comes out, he acts against her. After Danielle got out, he texted her stepmother:
+  - *on screen:* “You guys needed to let me see my daughter or else nobody in this family is gonna be safe.” — 6 · When she leaves · Danielle · Season 9
+- Five women. Five different men. The same six moves.
+  - *on screen:* timeline: 1 · Bind [many shapes] → 2 · Devalue [Odessa] → 3 · Isolate [Zoe] → 4 · Poison the wells [Sarah] → 5 · Discard, and return [Emilia] → 6 · When she leaves [Danielle]
+- And it is not five stories. Fifty-six were read, move by move, and each move came back again and again. When seven were read a second time in full, binding and devaluation held every time. The others held in most, so their counts here are upper bounds.
+  - *on screen:* 56 stories, move by move: Bind 55 of 56; Devalue 52 of 56; Isolate 48 of 56; Poison the wells 48 of 56; When she leaves 56 of 56 — one row of 56 dots each, lit where present; Blue: the move is in the story, as first coded. A second full reading of 7 stories: bind and devalue held every time; the others in most, so these are upper bounds.
+- Where the claim breaks. No single move is the pattern. Some deceivers bound people with lies and gifts, and simply ran when they were caught. What marks the pattern is the moves together, and what happens when she leaves.
+  - *on screen:* No single move is the pattern. — Some deceivers bound people and simply ran when caught. The pattern is the moves together, and what happens when she leaves.
+- And a move needs a room. You can't cut someone off from people you never meet. Where a move is missing, the first question is whether the room allowed it. That is a hypothesis, still to be tested.
+  - *on screen:* As far as the room allows. — Where a move is missing, ask whether the room allowed it. A hypothesis, still to be tested.
+- One A.I. reader did this coding. When fourteen stories were read again, the misfits held, and about one mark in six in the stories that fit did not. A blind reader is next.
+  - *on screen:* 43 dots, one per person; 36 turn blue — 36 of 43, marks held on a second full reading; The misfits held too. Next: a reader who does not know the claim.
+- Same moves, as far as the room allows. Next: the rooms.
   - *on screen:* Same moves. As far as the room allows. — Told Whole · Seasons 1–24
 
