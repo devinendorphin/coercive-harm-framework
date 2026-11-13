@@ -130,3 +130,24 @@ seal was her own explaining-away (a T-field). For Odessa, it was a church norm. 
 is to cut the target off from support *about the harm*, then a sealed topic can do it with no
 perpetrator act. Testing this needs a codebook distinction (cutting off people vs sealing a topic) that
 this audit is not allowed to add (Rules: no new amendments).
+
+### S13k Sadie (misfit side; scope case, div. 36). Read: S13 E16, about 11k words
+
+| Cell | Verdict | Transcript |
+|---|---|---|
+| C2 (absent) | **misfit stands** | No act rendering Sadie worthless. At the confrontation, Beth blamed the town and her ex, not Sadie: [35:12]–[35:28] "they're all lying to you… Nobody likes me in this town. My ex-husband is the one starting all these rumors." Beth's mother accused Sadie of lying ([43:17]); that was a third party, and Beth's role in it is not shown. |
+| C3 (absent) | **people: misfit stands. Information: arguable, already coded as C4** | Sadie's people were not cut off; her mother's law firm investigated for her ([38:03]–[38:37]). But the warnings her network carried were discredited before they landed: [27:14] "people are spreading rumors that this is all fake"; [35:24] (above). Sadie: [61:37] "nobody else is there to tell me any other side of the story." The act is present and coded. Whether discrediting the people who warn the target is C4 (a false account given *to the network*) or C3 (cutting off support) is a codebook question. This audit may not settle it (Rules). |
+| Pursuit / R-SEP (absent) | **misfit stands** | After exposure she withdrew and did not pursue: [32:04] "too busy to talk to me"; [51:38]–[51:45] "she'd just avoid me… act like she didn't even know me." |
+| Opportunity | **low** | a friendship and a client relationship, no shared home: [50:24] "It wasn't like we spent a ton of time together." The binding was by promise: [14:47]–[14:55] "He could be the groundskeeper. I'll pay him a salary. You can live there for free." |
+| Friction (amendment 6) | **friction without C2** | When Sadie confronted her ([34:45]–[35:01] "You need to be honest with me because my future depends on this"), the response was the inoculation story and new forgeries ([39:45] a forged bank letter), not devaluation. |
+
+**Verdict.** The scope classification stands: deception and binding by promise, with no control
+conjunction. That holds even if the discrediting of warners is moved from C4 to C3, because C2 and
+pursuit are still absent. Two observations, both `[HYPOTHESIS]`:
+(1) Friction here produced no C2. That fits C2 being part of the control conjunction, not a general
+response to being challenged. It does not test amendment 6, which is about timing *within* cycle
+cases.
+(2) With S13a and S13b, this is a third case where the network stayed in place while **the channel
+about the harm was blocked**: by the target herself (Amelia), by an institution's norm (Odessa), and
+here by the perpetrator's pre-emptive story (Sadie). If the codebook later separates cutting off people
+from blocking information, these three are the test set.
