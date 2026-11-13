@@ -1,12 +1,13 @@
 # LATEST — Continuity Seed
 
 *The living replacement for the old "summary seed" ritual. Every new session reads
-this first (via CLAUDE.md). Last updated: 2026-11-11, session `whole-story-analysis` (branch
-`ccr-f78b372d-8qdcn9`, not yet merged to `main`).*
+this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-and-symmetric-audit`
+(log: `sessions/2026-11-13-consent-lineage-and-symmetric-audit.md`).*
 
-**Read-first: `docs/09-synthesis.md`** then **`docs/10-power-critique.md`**. For *Something Was
-Wrong*: `research/sww-corpus/results/whole_story/RESULTS.md` (newest, people followed whole),
-beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
+**Read-first:** `docs/09-synthesis.md`, then `docs/10-power-critique.md`. For *Something Was Wrong*:
+`research/sww-corpus/results/whole_story/RESULTS.md`, the close read
+(`research/sww-corpus/close-read/CROSS-SEASON.md`, `CODEBOOK.md` amendments 6–7), and
+**`close-read/AUDIT-2026-11-13-symmetric-reread.md`**, which re-grades the close-read tallies.
 
 ---
 
@@ -16,32 +17,39 @@ beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
 |---|---|
 | 00-glossary | seeded |
 | 01-problem-statement | active; candidate gaps 6 and 7 |
-| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint; cluster coherence HYPOTHESIS |
+| 02-behavioral-taxonomy | ACTIVE; DARVO scoring constraint; cluster coherence HYPOTHESIS; "act of care" working note |
 | 03-legal-framework | ACTIVE; fraud prong BLOCKED (S9, S20 identity cases) |
-| 04-evidentiary-standards | ACTIVE; item 4 now carries both tests (63 % of responses; 21 % of people protected) |
-| 05 / 06 | ACTIVE; liberty-reviewed (X7) |
+| 04-evidentiary-standards | ACTIVE; item 4 carries both tests (63 % of responses; 21 % of people protected) |
+| 05 / 06 | ACTIVE; liberty-reviewed (X7); 05 has the "act of care" working note |
 | 07 | ACTIVE; **needs *Counterman* (2023) on prong 5** and an untested-record rule |
-| 08 | 31 objections; **OBJ-031 PARTLY ANSWERED** (second test: outcomes mostly not protective) |
-| 09 / 10 | ACTIVE; doc 10 Finding B annotated with both tests |
-| SWW whole-story test | **ANALYSED**: protected 21 % (holds); failure responses 31 % (split, not decided; 50 % for central survivors); decisive work 43 % (not decided); ~3 in 10 never reached. Quotation check done (16 of ~9,000 below bar; no change). Rulings D9; S7 memory D10 |
+| 08 | 32 objections; **OBJ-032 PARTLY CONCEDED** (close-read tallies overstate the pattern) |
+| 09 / 10 | ACTIVE; doc 09 wording held for Endorphin |
+| SWW close read | **AUDITED**: binding and devaluation solid (6/6 each); isolation, poisoning and exit-response counts are upper bounds; 0 false misfits; S6a reads as the deception class (reclassification proposed, not done) |
+| Reels (*Told Whole*) | 01 built; **02 needs a thesis-first overhaul** (v5 built, judged fogged) |
+| Veriticide ledger | Entries 18–19, Entry 2 Addendum; consent lineage SUPPORTED (49/51); Title IX wording = mandate |
 
 ## Top 3 priorities for next session
 
-1. **Brief Endorphin on the results before doc 09 is reworded** (his call: hold doc 09 until he
-   understands more). The reel series is the vehicle; reel 1 (introduction) is drafted in
-   `media/sww-whole-story-reels/`. *Reason:* he has seen only a few seasons.
-2. **Approve or amend `whole_story/PROPOSAL-coder-environment.md`**, then run its exposure
-   experiment on S17 (clean vs deliberately exposed Claude coders). *Reason:* the only way to
-   separate exposure from model; it repairs D5 and D10 as a test.
-3. **Merge both analyses side by side** (D9.1): this branch and `analysis/whole-story-isolated`,
-   each keeping its own decision entries. *Reason:* both edit the same files today.
+1. **Overhaul reel 02 thesis-first.** Name each move once, with one memorable, well-evidenced example
+   each. Candidates checked in the coders' files: Odessa S13 (second witness), S1 Sarah (documents and a
+   second witness), S9 Danielle (documents and a second witness). Put one compact edges segment at the
+   end. *Reason:* Endorphin's call. The breaks fogged the thesis, and a fog is the move the audit exists
+   to catch. The audit's figures move to arc 7, pending Endorphin's agreement.
+2. **Rulings and follow-ups on the audit.** C4 direction (outward only, or both ways); the Kaelyn
+   reclassification; downgrading the 9–10 cells in their season files. *Reason:* the published counts
+   should stop overstating.
+3. **Blind second reader on the close read, fit side first**, through the coder-environment proposal
+   (outside this container, S-25). *Reason:* the errors were on the fit side, and the same model family
+   coded and audited.
 
 ## Open decisions awaiting Endorphin
 
-- Doc 09 wording (held). CROSS-SEASON counting rule (reminder given 2026-11-11). Doc 07:
-  *Counterman* and the untested-record rule. Fraud prong scope; psychological homicide scope;
-  base no-harm offense civil or criminal (OBJ-021; explained 2026-11-11). Reels: one at a time.
-- Paid-usage study: written and PARKED (`research/proposal-paid-access-to-correction.md`).
+- C4 direction; S6a reclassification; where the audit figures go (arc 7?). Doc 09 wording (held).
+  CROSS-SEASON counting rule. Doc 07: *Counterman* and the untested-record rule. Fraud prong scope;
+  psychological homicide scope; base no-harm offense civil or criminal (OBJ-021). Coder-environment
+  proposal approval. Paid-usage study PARKED.
+- Not to run unless something depends on it: the escalation-per-iteration test (amendment 7) and the
+  onset-timing test (amendment 6).
 
 ## Standing notes (persist across regenerations — never delete without instruction)
 
@@ -149,3 +157,15 @@ beside `results/power_vector/RESULTS.md` and `EXTERNAL_DATA.md`.
   evidence (C2 as worded, P1/P2, the developmental hypothesis) he recorded the concession himself.
   The veriticide ledger and this repo are one body of that work.
 
+- **S-30 (NEW, Endorphin 2026-11-13).** **Thesis first, whole, so it can be remembered.** In public
+  explainers, state the claim and its parts plainly first, with one example each. Grade evidence
+  compactly, and gather the breaks into one short edges segment after the thesis, never interleaved.
+  "When you talk more about where they break you… render the whole episode into a fog." Hedging that
+  buries a claim is itself a version of the move the project studies.
+- **S-31 (NEW, 2026-11-13, process).** **Report direction, not cause, unless a test separates the causes.**
+  The audit's one-way error was first labelled "deference" without evidence. List the rival explanations
+  and what would tell them apart.
+- **S-32 (NEW, Endorphin 2026-11-13).** **Confirmatory work is owed only when a claim is about to carry
+  weight.** A claim sitting at its grade (for example `[HYPOTHESIS]`) stays there until something rests on
+  it. Do not send Endorphin back into the corpus to confirm what nothing yet depends on ("Is that
+  necessary?"). This extends S-28.

@@ -552,6 +552,20 @@ decided (43 %, line 50 %). **Status for this corpus: the objection answers "do i
 respond appropriately?" and not "do people end up protected?"; the second has the answer
 "mostly not."** Still a selected population, not a rate for the world.
 
+### OBJ-032 — "Your close-read tallies overstate the pattern; the coder found what it was told to look for." *(raised by the symmetric re-read audit, 2026-11-13)*
+**Persona:** methodologist / the project's own audit. **Status:** `PARTLY CONCEDED`
+The close read coded 56 stories move by move, with a reader that knew the prediction. A symmetric re-read
+(design fixed before reading; `research/sww-corpus/close-read/AUDIT-2026-11-13-symmetric-reread.md`) read 7
+misfit-side and 7 random fit-side stories in full. **Misfits: 0 false misfits** (all four pattern misfits and both
+scope cases stand). **Fits: 10 of 43 marked cells were false fits**, 9 after the operator's C6 definition
+(amendment 7). By the pre-set reading, the claim is weakened. *Conceded:* the published counts for isolation,
+poisoning the wells and the response at exit are upper bounds; one counted case (S6a) belongs to the deception
+class. *Not conceded:* binding (6 of 6) and devaluation (6 of 6) held without exception. *Open:* the cause of the
+one-way error is not settled (five rival explanations are listed in the audit: prior scrutiny, grid completion,
+definition drift, priming, re-reader overcorrection), and the size of the overcount needs a blind second reader on
+all 56. The C4 direction question (outward only, or both ways) is the operator's to rule; it moves the rate between
+16 % and 21 %. → audit file; CODEBOOK amendment 7; reel 02 v5.
+
 ## How to use this ledger
 
 - `/steelman <doc>` adds new objections here per persona and updates statuses.
