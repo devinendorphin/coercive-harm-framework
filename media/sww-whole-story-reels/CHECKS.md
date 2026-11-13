@@ -135,3 +135,12 @@ Figures and edges:
 - "No single measure spans every room": packet triage (`research/external-evidence-packet-TRIAGE.md`).
 - No program, church, clinic or perpetrator is named. The institutions (Temple, programs, birth centre) as
   the one doing it are held for the next reel.
+
+### Reel 03 v2 (2026-11-13): edges rewritten under S-34
+
+Endorphin asked what standard "numbers this small" applied, and whether it was applied asymmetrically. It was.
+The setting test (`r2_fine_settings.json`) has nearly one setting per season, so it could not have found a
+difference at any size: it is not evidence either way and is removed. "Not enough to compare" was said of a
+15-vs-41 comparison that was never run: removed. The reel now states what the cases show (the same move in six
+rooms) and what was not measured (how often it happens in each room). The unverified literature claim ("no one
+has measured them the same way in every room", packet triage, secondary sources) is also removed.

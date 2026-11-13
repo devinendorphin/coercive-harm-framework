@@ -175,3 +175,11 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
   it" to the one offered. Supplied rubrics are also a template bad faith can use to "deploy justificatory
   systems to coerce a population." Ask the open question, then work from Endorphin's own rubric when it is
   stated (e.g. `sessions/riffs/2026-11-13-the-crazy-label-and-shorthand.md`).
+- **S-34 (NEW, Endorphin 2026-11-13).** **Anything that resembles rigor and isn't rigor should not be done.**
+  Endorphin's words. Purpose: "to get you to second guess every potential moment of hedging, which might
+  create actual epistemic rigor." Occasion: reel 03 v1 said "with numbers this small, that means little" of a
+  setting test that could not have found a difference at any size, and called 15 vs 41 stories "not enough
+  to compare" without running the comparison. Both hedges ran against the thesis while reel 02 had used 14
+  re-read stories to downgrade it. Before a hedge goes in, it has to rest on a test that was run, or name the
+  one that wasn't; otherwise it is cut. The same rule reaches the other face of the resemblance: figures
+  that look measured but were not (first-coded counts shown as findings).
