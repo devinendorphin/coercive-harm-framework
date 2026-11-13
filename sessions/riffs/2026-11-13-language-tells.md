@@ -1,6 +1,6 @@
 # Riff 2026-11-13: language as a young technology, and the tells of what people do to it
 
-*Verbatim (speech-to-text), one message. The anecdote about a named friend's sexual life is **withheld**
+*Verbatim (speech-to-text), one message. The anecdote about a friend's sexual life (unnamed, but a private person) is **withheld**
 pending Endorphin's call on whether a private third party's details belong in the repo. Its point is
 summarised at the end of the quotation.*
 
