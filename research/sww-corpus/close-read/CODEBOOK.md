@@ -524,3 +524,26 @@ is not coded, because the codebook codes conduct, not inner states (S-1).
 *untriggered*) from the timing of the first friction event and the first C2 act, blind to this ruling where
 possible. The friction reading predicts *at friction* or *untriggered* in most partner cases. *From the
 start* cases are its counter-instances.
+
+## Amendment 7 (2026-11-13): return is an offer that resets the cycle (operator definition)
+
+*From Endorphin's lived experience, which is not transcribed here, prompted by the audit's C6 verdicts.*
+
+> "Returns are usually actions done by the perpetrator that the victim can accept or reject, and
+> accepting means accepting another iteration of the cycle until the next discard."
+
+**Definition.** C6 is coded by **function**: a perpetrator's offer (gifts, apology, a promise, a bid for
+contact) made to a target who is pulling away or has left, which **she can accept or refuse, and which,
+if accepted, starts another iteration**. What defines it is the offer and its consequence, not a prior
+exit. A return can come at the *threshold* of exit, while the target is pulling away, and not only after
+she has gone. A contact that offers nothing to accept (a reactive apology followed by silence) is not C6.
+
+**Escalation (operator hypothesis, `[HYPOTHESIS]`).** Each accepted return leads to a discard more painful
+than the last. The operator puts the growth at roughly orders of magnitude per iteration. Iterations
+compound damage that the target may not perceive while it happens, and may blame on herself.
+**What would refute it:** cases with several recorded iterations in which later discards are no worse,
+or are milder, than earlier ones. **Test:** for each case with two or more iterations, record the
+iteration count and a severity marker for each discard (for example, a new kind of harm, a health
+crisis, a threat to life), blind to this hypothesis where possible. Candidates in the corpus: S15g
+(repeated block/unblock and breakups, ending in an overdose), S1 ex-fiancée (six years on and off),
+S13a (a breakup, then a return when she reactivated Match).

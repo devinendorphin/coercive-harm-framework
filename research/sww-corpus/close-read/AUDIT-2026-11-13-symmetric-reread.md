@@ -378,6 +378,16 @@ False fits fall to 8 of 43 (19%). Kaelyn's C4 stays false** (the "enemy" was inv
 Either way, the reading's verdict is the same: 0 against roughly 20%. This is the operator's call. Until
 it is made, inward poisoning is credited under C3, which is where its function sits.
 
+### Sensitivity: the definition of C6 (amendment 7, made after the read)
+
+The audit coded C6 as a return *after* a discard or exit. The operator then defined it (amendment 7) as an
+offer the target can accept or refuse, which resets the cycle, and which can come at the threshold of
+exit. Under that definition **Molly's C6 is confirmed**: the flowers came on her day off, after she had
+promised her father she would quit, and she stayed for another round (S11 E8 [76:19]–[78:53]).
+**Kaelyn's C6 stays false**, because the apology offered nothing to accept and was followed by silence.
+Danielle's C5 is unaffected. With both sensitivities applied (C4 both ways, C6 per amendment 7), false
+fits are **7 of 43 (16%)**. The reading's verdict does not change.
+
 ### Amendment 6 (C2 timing), across the read
 
 - *At friction*: Emily, Amelia (mostly), Odessa (the perpetrator names the trigger: E3 [18:26]), Molly,
