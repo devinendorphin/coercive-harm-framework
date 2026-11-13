@@ -151,3 +151,22 @@ cases.
 about the harm was blocked**: by the target herself (Amelia), by an institution's norm (Odessa), and
 here by the perpetrator's pre-emptive story (Sadie). If the codebook later separates cutting off people
 from blocking information, these three are the test set.
+
+### S10h Olivia (misfit side; scope case, div. 18). Read: S10 E8–E9, about 21k words
+
+| Cell | Verdict | Transcript |
+|---|---|---|
+| C2 (absent) | **misfit stands; one flash at friction** | The only flash was when Olivia passed on a manager's report: E8 [19:30]–[20:09] "the first and only time… she got really upset with me… a flip in who she was"; E8 [20:17] "that's so typical of her to make something up, and I can't believe you would even believe that." Janet apologised within minutes. When she was found asleep at the wheel, she withdrew rather than devalued: E8 [26:46]–[27:17] "really agitated… she kind of wanted nothing to do with us." |
+| C3 (absent) | **misfit stands; the opposite shown** | Janet matched her with Skyler and backed the relationship (E8 [13:01], [14:37] "a huge, huge supporter"), pushed her into college (E8 [22:56]), and wanted to ask Olivia's mother about being godmother (E8 [45:51]). Olivia's thin network after coming out was not Janet's doing: E8 [13:51]. |
+| C4, C5, R-SEP (absent) | **misfit stands** | On exposure she fled and contacted no one: E9 [14:15] "Janet didn't contact anybody." Her one message was reassurance: E8 [47:45] "Everything's okay. Sorry for scaring you." The planning notes were about her own escape (E9 [39:11] "how to live invisibly… faking my own death"), not action against Olivia. |
+| Opportunity | **present, high** | three years; E8 [35:35] "every day all day"; a maternal bond built on Olivia's need (E8 [07:03] "our relationship was really focused on me"); access to her parents and partner. |
+| C1 (cross-check) | **confirmed as resemblance, not control** | need-targeted gifts (E8 [10:31]); later found stolen (E8 [52:12] "the security tags were ripped off"). Olivia's own grading: E9 [56:34] "I have a hard time really saying that what happened with Janet was abusive, but it was traumatic." |
+
+**Verdict.** The scope classification stands, and the opportunity for control was high and unused. This
+is the strongest boundary case in the sample: binding and deception over three years, with daily access,
+and none of the control sequence. One observation affects my own hypothesis under S13k. The
+**discrediting of a warner** shows up here too (E8 [20:17], against the manager). So it appears in
+*both* scope cases (Sadie, Olivia). It is therefore a deception-class move, not a substitute for
+isolation inside control cases. That weakens the reading I put forward under S13b and S13k. If a
+"blocked channel" field is ever added, it would not discriminate control from deception, as C1 does
+not.
