@@ -53,3 +53,60 @@ transcription, no speaker labels).
 The pattern claim is weakened if the fits side shows **false fits at a rate comparable to or above** the
 misfit side's *false misfits*. It is strengthened if false fits are rare and the misfits mostly stand
 or turn out to be scope cases.
+
+---
+
+## Results (read in full, in order of reading)
+
+### S15e Diana (misfit side; div. 47). Read: S15 E5 and WCN updates parts 1–2, about 11.5k + 7k words
+
+| Cell | Verdict | Transcript |
+|---|---|---|
+| C2 toward Diana during the marriage | **misfit stands; not a false misfit** (no missed devaluation anywhere in the three episodes) | E5 [09:29] "There was never really any point in time where I was like, this isn't right or any kind of red flags"; [09:59] "It was constant uplifting of me… constant love doting on me"; WCN-1 [19:52] "I honestly thought that I had the perfect marriage that my own friends envied" |
+| Opportunity | **present** | E5 [09:01] "Quit your job. I will take care of everything" (financial dependence); [09:22] he moved in at three months; married within a year |
+| Friction (amendment 6) | **no friction described before the arrest; C2 at once after her break** | Her break: E5 [48:44] "We are done. I am filing for divorce." First C2 after it: the "lack of intimacy" blame, E5 [62:03] (statement: "You even went as far as to blaming me and said it was partly due to our lack of intimacy"). Then E5 [51:10] "you need to hold yourself partially responsible for her death" (her sister's suicide). WCN-1 [28:23] "remember all of the good things he did for me" before sentencing (a C1 return). |
+
+**Verdict.** The misfit stands as the prediction was first worded. The transcript fits amendment 6 exactly:
+C2 is *untriggered* while there is no friction, and comes *at friction* the moment she breaks. One addition
+the coder missed: Gracie's gag used Diana's happiness as the lever: WCN-2 [04:57] "He threatened me and said,
+I would take away all my mom's happiness if I ever told her" (already a device row). No false misfit.
+
+### S15c Naomi (misfit side; div. 48). Read: S15 E3–E4, about 18k words
+
+| Cell | Verdict | Transcript |
+|---|---|---|
+| R-SEP: admission, not reversal | **misfit stands** | E4 [28:40] "Karina eventually gave up. She was like, I can't do this anymore. I'm done. And Karina admitted what happened" (John); E4 [42:49] Naomi: "your office, you did that right." "yeah, I did do that… I was lost"; [37:09] "a copy-paced message that got sent to a bunch of us… There's been no contact since then." The psychiatric admission that blocked her dismissal ([28:01]–[28:12]) protected her job; it was not action against a target. No DARVO, no pursuit. |
+| C2 toward Naomi (n/d) | **n/d stands, with one borderline flash at friction** | E4 [38:17]–[38:26] when Naomi asked "are you cleaning the litter box?": "She looked at me like I was so stupid… of course I'm cleaning the litter box. I'm not fucking stupid." A single moment, at a question. Too thin to change the code. |
+| Friction (amendment 6), cross-check within the season | **fits the friction reading** | Karina never learned of Naomi's doubts: E4 [03:13] Steve: "it happened… She got in the accident", and Naomi "doubled down on our friendship" [03:46]. **Alice, who did set boundaries, got C2 at once**: E4 [20:25]–[20:40] the flipped wine bottle, "I know what you're doing, fuck you… she was in control", after the limits on alcohol and drugs ([20:47]–[21:00]); and to Naomi, E4 [05:25] "she's just this like, uppity therapist, she's so stuck up." |
+
+**Verdict.** Misfit 48 stands. Within the same season the C2 pattern splits exactly along friction: the
+roommate who set limits was devalued; the friend whose doubts never reached her was not. One more fact the
+coding understated: E4 [44:50]–[44:58] "She was forging our friends' signatures on loans… as a cosigner"
+(economic harm; timing unclear).
+
+### S10j Emily (misfit side; div. 17). Read: S10 E11, about 8k words
+
+| Cell | Verdict | Transcript |
+|---|---|---|
+| C3 inverted (network courted) | **misfit stands** | [09:47] "in an effort to win over her friends, Cody planned a special event with them. He on his own reached out to those friends and had dinner with them to assure them…"; [10:15] "he also did this with my family." No isolating act anywhere in the episode. |
+| Opportunity | **present, high** | married, a shared home; [14:25]–[15:12] he quit his job to stay home; [19:02] "I had a safe… Social Security number and credit cards" (he still reached them [21:16]). |
+| C2 (cross-check, amendment 6) | **present, at friction** | after she took control of the finances ([08:46]–[09:06]; [14:02]): [19:17] "he was questioning me more and more… and making me feel bad that I was mishandling our money." |
+| R-SEP (cross-check) | **present** | [24:01] "him kind of banging on the hood, telling me I was making a huge mistake"; [27:07] "I was the one choosing to break up our family. And he was very, very clear about that." |
+
+**Verdict.** Misfit 17 stands. It is a different strategy, not a coding miss: in an
+economic-deception pattern the network is used as a source of credibility and cover, not cut away. The
+friction reading holds for C2 here too.
+
+### S13a Amelia (misfit side; div. 34). Read: S13 E1–E2, about 24.5k words
+
+| Cell | Verdict | Transcript |
+|---|---|---|
+| C3 during the marriage (n/d) | **misfit stands** | No isolating act by Jake before the filing. Her network stayed intact and in use: the continuing-care group (E1 [32:04] "the group that I met with every Thursday"), her mother, Brittany, his family. Her silence was her own: E1 [13:57] "I explained away his behavior to everybody." That is a T-field. |
+| Opportunity | **present** | shared home and children; E1 [49:02]–[49:38] the house bought on her 401(k) |
+| C2 (cross-check, amendment 6) | **present, mostly at friction** | E1 [03:37]–[04:05] a standing jab from the first date ("you lied" about where she lived); E1 [31:38] "nothing I ever do is good enough for you"; E1 [47:45] "what the fuck is your problem now?" (stepping over her as she cried); E1 [55:39] "fuck you, you're always bitching." Most come when she questions or objects; the first-date jab is *from the start*. |
+| Network intrusion **after** the filing | **coded R-SEP, correctly** | E2 [14:07] "finding who I was calling and calling them"; E2 [07:59]–[08:09] texting her friend Brittany in disguise "to bait her"; E2 [27:44] the son: "I know daddy, you don't want mommy to get me." |
+
+**Verdict.** Misfit 34 stands for S13a. An observation, not a reclassification: the network-directed acts
+(contacting the people she called, baiting her friend, turning the child) appear **only after her
+break**. Isolation-like conduct may also wait for friction. That is a hypothesis for the onset-timing test,
+not a finding.
