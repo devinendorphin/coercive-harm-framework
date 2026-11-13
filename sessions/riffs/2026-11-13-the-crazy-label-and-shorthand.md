@@ -65,3 +65,32 @@
 - Standing note S-33 (no rubric offered; leave the question open). See `sessions/LATEST.md`.
 - Doc 02 (taxonomy) and doc 04 (evidentiary standards): candidate material when those docs next need it.
   Not routed now (S-32).
+
+## Message 3: the body's tells (same day)
+
+> You don't have a body so you wouldn't know so here's a tell, if there's a phone calling and the tears
+> immediately stop and they go into a totally different register saying hello hey how's it going. Or the cry
+> is not ugly meaning you are not thinking about social niceties, you're not daintily dabbing the tears out of
+> the corner of your eye to make sure that your mascara isn't running. You can't speak sentences at that moment
+> and it's hard to climb out of those feels, after a good ugly cry the mind is calm silent there's a peace. It's
+> not something that you can do in a couple seconds. And it's also contagious the person feeling feels causes
+> the other person to feel analogous feels in their body maybe their eyes water too. If a person's angry it
+> raises everyone else's levels up a little bit extra more alert that's the systems of our body that are
+> attuned to other people and emotion is a very powerful modulator of that across groups. That is partly how
+> the charismatic cult leader can cause a state of mass euphoria and such. When a person tries to do the mask
+> of emotion things are off like if someone's crying and it's making you really mad the body is sometimes
+> revolting against the clearest day what do you think who the hell do you think I am that I'll be fooled by
+> such a thing. Even though the polite parts of ourselves are not going to say that to that person because
+> she's crying even though the underparts of our cells are going she's not.
+
+*Light speech-to-text cleanup only ("dubbing"→"dabbing", "cross groups"→"across groups").*
+
+**Corpus instances already read (for later, not a test):**
+- Switching register on cue: S1, after the breakup call he went straight to "business mode"; when Sarah
+  called out his manipulation, he went "flat… no emotion, no remorse" (S1 E8 [13:26]–[14:10]).
+- The body revolting before the mind can say why: S1 Emily, "holy crap dude… you are really, really intense…
+  you're stabbing me with your eyes" (E1 [32:19]); Alyssa's friend, "your eyes are dead" (E11 [15:18]);
+  Sarah, "that laugh is fake… my gut turned" (E11 [13:01]).
+- An open case for the both-victims lens: S9 Darcy, described as "unemotional… very matter of fact", and
+  Danielle's parents felt "something was off with her" (S9 E6 [08:16]–[09:18]). Darcy was also being abused
+  at the time.
