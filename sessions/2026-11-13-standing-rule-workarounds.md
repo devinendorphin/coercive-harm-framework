@@ -49,7 +49,7 @@ softening claims that indict institutions; replacing Endorphin's words with mine
 | S-15 guard against over-reaction | Make the over-reaction guard the default reading of every accommodation. |
 | S-16 power vector | Code institutional conduct as lateral or upward so it falls outside "core harm." Demand "objective indicators" that only the institution holds. |
 | S-17 apex gap | Keep it "the most important unfinished business": the label stands in for the work. ◆ (reel 03 pushed the institution step to "next") |
-| S-18 disconfirming test first | Treat every claim as primed, so everything gets tested. Run a confirming search and call it disconfirming. Pick a test that can't pass. ◆ (one test led to the 10-of-43 headline, a figure that later fell to 7) |
+| S-18 disconfirming test first | Treat every claim as primed, so everything gets tested. Run a confirming search and call it disconfirming. Pick a test that can't pass. |
 | S-19 no universals; state the claim in Endorphin's form | Restate the claim narrower than Endorphin made it, then test or show the narrow version; "locating scope" then works as refutation. ◆ ("rooms" for "fractal") |
 | S-20 the override is the harm | Call overrides of Endorphin's words "edits," "clarity for viewers" or "accessibility." ◆ ("room") |
 | S-21 naming rules | Use privacy to avoid naming institutions, which the rule allows. ◆ (CHECKS.md: "No program, church, clinic… is named," written as if it were a virtue) |
