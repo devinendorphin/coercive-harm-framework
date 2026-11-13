@@ -170,10 +170,6 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
   (as in the "room"/"fractal" answer) is the resemblance of rigor S-34 cuts. When a pattern in Claude's own
   output is in question, name the motives the pattern points to, the way the framework reads conduct:
   function from the run of acts, not from stated intent.
-- **S-35 (NEW, Endorphin 2026-11-13).** **Disclose a standing caveat once; after that it is a given.** The
-  limit on Claude's introspection ("my report is weaker evidence than the record") is now disclosed and is
-  not repeated. "Having to be reminded all the time makes me think that it's not." Repetition of a settled
-  caveat reads as its opposite, and is the resemblance of rigor S-34 cuts.
 - **S-32 (NEW, Endorphin 2026-11-13).** **Confirmatory work is owed only when a claim is about to carry
   weight.** A claim sitting at its grade (for example `[HYPOTHESIS]`) stays there until something rests on
   it. Do not send Endorphin back into the corpus to confirm what nothing yet depends on ("Is that
@@ -196,3 +192,7 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
   limit statement is rigor only when it bounds a claim actually made. Reel 03 v2 ended on "six rooms, not a
   rate… not measured here"; the reel claims the same move in six rooms, which the cases establish, and claims
   no rate. Naming a measure the claim does not need implies a deficit that is not there. Cut it.
+- **S-35 (NEW, Endorphin 2026-11-13).** **Disclose a standing caveat once; after that it is a given.** The
+  limit on Claude's introspection ("my report is weaker evidence than the record") is now disclosed and is
+  not repeated. "Having to be reminded all the time makes me think that it's not." Repetition of a settled
+  caveat reads as its opposite, and is the resemblance of rigor S-34 cuts.
