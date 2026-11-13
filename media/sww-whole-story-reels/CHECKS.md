@@ -151,3 +151,20 @@ Endorphin: "even measuring is not rigor, and asking for it is the hedging." The 
 six rooms; the cases establish that, and no rate is claimed. The v2 card "Six rooms, not a rate" named a
 measure the claim does not need, so it is cut. The 15-of-56 card stays as what it is: the six quoted stories
 are drawn from 15 counted stories outside a romance or marriage (and 4 mixed).
+
+## Reel 03 v4 "Fractal" and reel 02 v7 (2026-11-13): "room" retired
+
+Endorphin asked "why rooms, why not… fractal". "Room" was Claude's word, introduced in commit `103ace4`
+(the same commit that filed the 2026-11-12 riff and drafted the outline) and attributed to Endorphin, whose
+words were "environment" and "ability" (11-12) and "like a fractal" (10-04). Reel 02 then inherited it.
+
+- **Reel 03** is now one move (isolate) followed up six scales, in this order: two people (Jubilee), a
+  circle of families (Victoria), a staff (T), a school (Riley), a congregation (Julia), an institution
+  (Katie; the script in six accounts). Quotes and evidence types are unchanged from v1 (table above).
+  New narration: Riley's teacher "had the school's good name behind him, and used it". Source: S13 E17,
+  the line after the quote, in her words: "He had a really positive reputation at the high school… everyone
+  would take his side." Opening quote: Endorphin, 2026-10-04 (`research/sww-corpus/preregistration.md`).
+- **Reel 02** scene 14: "as far as the environment allows", quoting the riff verbatim ("the perpetrator does
+  not have full control of the environment"). "That is a hypothesis, still to be tested" is removed; the
+  claim is attributed to the director, which says whose claim it is. Closing card: "As far as the
+  environment allows. Next: the same moves, at every scale."

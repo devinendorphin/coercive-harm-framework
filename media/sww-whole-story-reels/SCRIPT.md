@@ -29,7 +29,7 @@
 - The rest comes one piece at a time.
   - *on screen:* One piece at a time. — Told Whole · Something Was Wrong, Seasons 1–26
 
-## 02 · Same Moves  (167 s)
+## 02 · Same Moves  (169 s)
 
 - This series rests on one claim. Different people, in different places and different years, make the same moves.
   - *on screen:* Same moves. — Arc 1 · the thesis
@@ -57,39 +57,39 @@
   - *on screen:* 56 stories, move by move: Bind 55 of 56; Devalue 52 of 56; Isolate 48 of 56; Poison the wells 48 of 56; When she leaves 56 of 56 — one row of 56 dots each, lit where present; Blue: the move is in the story, as first coded. A second full reading of 7 stories: bind and devalue held every time; the others in most, so these are upper bounds.
 - Where the claim breaks. No single move is the pattern. Some deceivers bound people with lies and gifts, and simply ran when they were caught. What marks the pattern is the moves together, and what happens when she leaves.
   - *on screen:* No single move is the pattern. — Some deceivers bound people and simply ran when caught. The pattern is the moves together, and what happens when she leaves.
-- And a move needs a room. You can't cut someone off from people you never meet. Where a move is missing, the first question is whether the room allowed it. That is a hypothesis, still to be tested.
-  - *on screen:* As far as the room allows. — Where a move is missing, ask whether the room allowed it. A hypothesis, still to be tested.
+- And a move needs the means. In the director's words, the perpetrator does not have full control of the environment. So what varies is not the perpetrator, but what the environment allows.
+  - *on screen:* As far as the environment allows. — “The perpetrator does not have full control of the environment.” Endorphin, project director
 - One A.I. reader did this coding. When fourteen stories were read again, the misfits held, and about one mark in six in the stories that fit did not. A blind reader is next.
   - *on screen:* 43 dots, one per person; 36 turn blue — 36 of 43, marks held on a second full reading; The misfits held too. Next: a reader who does not know the claim.
-- Same moves, as far as the room allows. Next: the rooms.
-  - *on screen:* Same moves. As far as the room allows. — Told Whole · Seasons 1–24
+- Same moves, as far as the environment allows. Next: the same moves, at every scale.
+  - *on screen:* Same moves. As far as the environment allows. — Told Whole · Seasons 1–24
 
-## 03 · Every Room  (120 s)
+## 03 · Fractal  (119 s)
 
-- The last episode showed six moves. This one asks where they happen. In every room this series looked: a marriage, a circle of friends, a church, a workplace, a school, a program for teenagers.
-  - *on screen:* Every room. — Arc 2 · where the moves happen
-- The room changes the shape of a move. It does not change the move.
-  - *on screen:* The room changes the shape. Not the move. — One move, followed through six rooms.
-- Take one move. Isolate: cut her off from the people who would help her. Here it is in six rooms.
-  - *on screen:* Isolate, in six rooms — chips: A marriage, Friends, A church, A workplace, A school, A program for teens
-- In a marriage. Jubilee's husband said it out loud. She remembers him telling her:
-  - *on screen:* “I don't want you to be close with your family because I know that if you're close with them, it would be easy for you to leave me.” — A marriage · Jubilee · Season 21
-- Among friends. Victoria's closest friend planned their holidays as adults only, and brought her own children anyway.
-  - *on screen:* “She just kept pulling me further and further away from my kids.” — Friends · Victoria · Season 3
-- In a church. Julia's youth pastor wanted his group absorbed in one church, his.
-  - *on screen:* “He didn't want us going to different churches, church services, because that's being, quote unquote, flaky or disloyal.” — A church · Julia · Season 5
-- At work, the move takes another shape. At a small veterinary clinic, a young coworker kept her colleagues apart, a separate story for each, so no one could compare notes. T ran the office:
-  - *on screen:* “She kept everybody in a box so that none of us intersected.” — A workplace · T · Season 2
-- At a high school. Riley was fifteen, and the one cutting her off was her teacher:
+- The last episode showed six moves. This one follows them up the scale, from two people to a whole institution. The director said it before any of this was read:
+  - *on screen:* “…how low variance these tactics are across various strata of society. As to be like a fractal.” — Endorphin, project director · 2026-10-04
+- The scale changes the shape of a move. It does not change the move.
+  - *on screen:* The scale changes the shape. Not the move. — One move, followed up six scales.
+- Take one move. Isolate: cut her off from the people who would help her. Now climb.
+  - *on screen:* timeline: Two people → A circle of families → A staff → A school → A congregation → An institution
+- Two people. Jubilee's husband said it out loud. She remembers him telling her:
+  - *on screen:* “I don't want you to be close with your family because I know that if you're close with them, it would be easy for you to leave me.” — Two people · Jubilee · Season 21
+- A circle of families. Victoria's closest friend planned their shared holidays as adults only, and brought her own children anyway.
+  - *on screen:* “She just kept pulling me further and further away from my kids.” — A circle of families · Victoria · Season 3
+- A staff. At a small veterinary clinic, a young coworker kept her colleagues apart, a separate story for each, so no one could compare notes. T ran the office:
+  - *on screen:* “She kept everybody in a box so that none of us intersected.” — A staff · T · Season 2
+- A school. Riley was fifteen. Her teacher had the school's good name behind him, and used it:
   - *on screen:* “He'd remind me that no one would believe me. It would be my fault and we'd no longer have contact.” — A school · Riley · Season 13
-- In a program for teenagers, the room is built for it. Calls home were monitored, and cut off. Before Katie's first call, staff had already told her father:
-  - *on screen:* “She's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior.” — A program for teens · Katie · Season 24
-- Five other survivors that season describe the same script. Even the call home was cut before it began.
+- A congregation. Julia's youth pastor wanted his whole group absorbed into one church, his:
+  - *on screen:* “He didn't want us going to different churches, church services, because that's being, quote unquote, flaky or disloyal.” — A congregation · Julia · Season 5
+- An institution. In a program for teenagers, the move is written into the rules. Calls home were monitored, and cut off. Before Katie's first call, staff had already told her father:
+  - *on screen:* “She's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior.” — An institution · Katie · Season 24
+- At this scale the move is no longer one person's. It is procedure. Five other survivors that season describe the same script.
   - *on screen:* The same script, six times. — Six survivors in one season describe their parents being told, in advance, not to believe them.
-- Stay away from your family. Adults only. Other churches are disloyal. Everyone in a box. No one would believe you. Don't believe her. Six rooms, six shapes, one job: leave her with no one to turn to.
-  - *on screen:* Six shapes, one job — chips: Stay away from family, Adults only, Other churches: disloyal, Everyone in a box, No one would believe you, Don't believe her
+- Stay away from your family. Adults only. Everyone in a box. No one would believe you. Other churches are disloyal. Don't believe her. Six scales, six shapes, one job: leave her with no one to turn to.
+  - *on screen:* Six scales, one job — chips: Stay away from family, Adults only, Everyone in a box, No one would believe you, Other churches: disloyal, Don't believe her
 - And these six are not the only ones. Of the fifty-six stories read move by move, fifteen were outside a romance or a marriage, and four more mixed the two.
   - *on screen:* 56 dots, one per person; 15 turn blue — 15 of 56, outside romance or marriage; Four more mixed the two.
-- The same move, in every room we looked, in the room's own shape. Next: when the room itself is doing it.
-  - *on screen:* Every room. Its own shape. — Told Whole · Seasons 1–24
+- The same move, at every scale we looked. Next: institutions that run the moves themselves.
+  - *on screen:* Fractal. Same move, every scale. — Told Whole · Seasons 1–24
 
