@@ -329,8 +329,30 @@ at a rate comparable to or above the misfit side's false misfits.* The result is
 against a 23% false-fit rate.** By that reading, **the claim is weakened.** The coding errors ran in one
 direction: **toward the pattern.** The misfits did not turn out to be fits, which was the operator's
 suspicion ("mis-fitting in their misfitness"). Some fits turned out not to be fits. The coder was the
-same model family as this reader. This is the Reflexivity Clause in action: the corpus-level
-deference the project studies showed up in its own coding.
+same model family as this reader.
+
+*Correction (operator challenge, same day).* An earlier version of this paragraph called the direction
+"deference." That named a mechanism the data cannot pick out. The data show **direction only**. Each of
+these also predicts errors toward the pattern:
+1. **Unequal prior scrutiny.** The misfits had already passed a second, adversarial pass (the
+   divergence classification). The fits had never been re-read.
+2. **Grid completion.** A grid with a cell for every stage invites filling each cell with the nearest
+   conduct. Three false fits are of exactly that kind.
+3. **Definition drift between coder and auditor.** S01 coded C4 in both directions, while this audit used
+   the codebook's outward wording. Three false fits depend on that difference alone.
+4. **Confirmation bias from a stated claim.** The codebook opens with the claim under test. That is
+   priming, and it does not require deference to the person who made the claim.
+5. **Overcorrection by this reader.** I knew the project rewards finding against the operator, and a
+   symmetric design does not by itself guarantee symmetric strictness.
+
+Evidence against the deference reading is also in the file: two of the four stories with false fits had
+already been hedged by the coder ("yes, partially"; "as a household"). The coder recorded the doubt
+rather than deferring past it.
+
+**What would tell them apart:** (a) a blind coder given the codebook with the claim paragraph removed
+(tests 4); (b) a second auditor who does not know which cells came from which side (tests 5); (c) the
+fit-side cells re-coded with "n/d" made the default and a passage required to fill a cell (tests 2);
+(d) an audit of fits that had passed an earlier adversarial pass, if any exist (tests 1).
 
 ### Where the false fits fall
 
