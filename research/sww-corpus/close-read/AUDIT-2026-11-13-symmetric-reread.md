@@ -110,3 +110,23 @@ friction reading holds for C2 here too.
 (contacting the people she called, baiting her friend, turning the child) appear **only after her
 break**. Isolation-like conduct may also wait for friction. That is a hypothesis for the onset-timing test,
 not a finding.
+
+### S13b Odessa (misfit side; div. 34). Read: S13 E3–E4, about 21k words
+
+| Cell | Verdict | Transcript |
+|---|---|---|
+| C3 (n/d) | **misfit stands** | No act by Carl that cut her from support, in either episode. Her network was present and co-resident from about year three: E3 [45:01] "We all just had this big house together" (her sister Zoe, her friend Piper and their husbands). It carried her at the discard: E3 [52:13]–[54:30] they fed her, checked her room for sharp objects, slept in her room, paid her bills. |
+| Opportunity | **present, high** | a disclosure abroad on the honeymoon: E3 [24:11] "I have no way to call any friends or family for support." Dependence during her pregnancy illness: E3 [37:15] "Carl started having to take care of me and keep me alive." Years of shared life. |
+| The isolating *function* (reading, not a verdict) | **served by the church, not by him** | E3 [30:15] "It was never a thing that was encouraged to talk to other people at length about sex, especially in the church"; E3 [29:16] "No one knew even one iota of information about our sex life." The topic was sealed while the network stayed. The seal broke when she told her sister: E3 [68:21] "I can't consent when I'm asleep." |
+| C2 (cross-check, amendment 6) | **present, at friction** | His own account of the trigger: E3 [18:26]–[18:38] "my natural instinct when you disagree with me… is to say something that I know will hurt you to get you to leave me alone." That is a stated instinct, not an act; what she describes at disagreement is hours of stonewalling (E3 [13:46]–[14:46]). The acts come when she refuses sex: E3 [33:06] "you're not doing this and that's why I can't finish"; E3 [34:15] "he would make me feel so bad for saying no… we might as well just be roommates." After the exit: E4 [07:01] the letter, "taking care of me became a burden"; E4 [50:54] "careless with my spending." |
+| C5 and R-SEP (cross-check) | **present** | E3 [46:46] "You do not have a say. I'm done"; E3 [55:12] "I didn't say that." E4 [27:50] "so this is how this is going to go," said during her labour; E4 [49:43]–[49:53] photos of Madison left on his dashboard for her to find. |
+
+**Verdict.** Misfit 34 stands for S13b, as worded: no perpetrator move cut her off from support,
+though the opportunity was high. The C2 coding is confirmed, and its form is *at friction*. The one
+passage in the corpus so far where the perpetrator names the trigger himself is E3 [18:26]. A
+cross-case observation, tagged `[HYPOTHESIS]`, not a reclassification: in both C3-n/d marriages of
+division 34, the network stayed in place but **the topic of the harm was sealed**. For Amelia, the
+seal was her own explaining-away (a T-field). For Odessa, it was a church norm. If isolation's function
+is to cut the target off from support *about the harm*, then a sealed topic can do it with no
+perpetrator act. Testing this needs a codebook distinction (cutting off people vs sealing a topic) that
+this audit is not allowed to add (Rules: no new amendments).
