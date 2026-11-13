@@ -239,3 +239,33 @@ was mostly Zoe's own (a T-field). The cell stands on his acts without it. For am
 clearest *at friction* case in the sample, because **the target herself names the trigger**: his first
 anger came at her first refusal (E12 [19:01], [21:26]). That parallels Odessa's husband naming it
 (S13b, E3 [18:26]).
+
+**S6a Kaelyn, addendum (R-SEP).** CROSS-SEASON codes Kaelyn's R-SEP as ✔ ("blocked; later 'my cousin started
+it'; on TV, cast herself as victim and Kaelyn as the husband's lover"). S06.md had no R-SEP row, which
+is why the first pass missed it. Verdict: **false fit (~ at most).** Blocking is not an act against the
+target: [16:37] "she read that and immediately blocked me." "My cousin started it" was a deflection
+inside an apology ([18:39]). The only candidate is the second-hand claim to Tiffany ([37:24]–[37:35]).
+It is aimed at a co-target, undated, and Kaelyn herself is unsure of it ([37:42] "I doubt it was true
+unless it was somebody else"). Kaelyn's tally becomes **three false fits among five ✔ cells**.
+
+### S9a Danielle (fit side). Read: S9 E1–E11 (with the 2023 What Came Next updates), about 78k words
+
+The S09 grid describes C1–C4 without symbols, so they are read as coded present. CROSS-SEASON marks
+C4-T2, C5 and R-SEP ✔.
+
+| Cell (as coded) | Verdict | Transcript |
+|---|---|---|
+| C1 | **confirmed** | E1 [06:42] flowers at her door; [07:33] met her family within a month; [17:22] "his mom" emailing "love mom"; [17:22]–[19:01] the "psychic" knowledge; [20:39] which drew out her secret; [21:30] then "some tangible thing… get his name tattooed." |
+| C2 | **confirmed; form: mostly *at friction*** | E1 [26:05] "when we would argue… he would call me a bitch or tell me I was being selfish"; [27:01] "Catherine… would never do this. She knows me way better than you"; E2 [18:27] "embarrassed by my outburst" the day after the birth; E3 [16:30] sex twice in six years; E6 [06:22] "stop with your nonsense." One mild early instance, *from the start*: E1 [12:49] the first-month gifts were "impersonal." |
+| C3 | **confirmed, with two components reattributed** | E1 [22:32] "convince me that these friends weren't really my friends"; [28:57] the letters and journals ("get rid of"); E3 [13:06] "adamant about her not being around her sisters"; [17:25] "you can go but you can't take my daughter with you"; E6 [25:14]–[26:08] a phone tether ("if I didn't answer for God forbid 20 minutes"). **Reattributed:** the separate gyms (E6 [18:42]) and "I hate San Diego" (E2 [06:08]) hid his other life (he went to both with Darcy, E6 [07:12], [18:42]). That is the walling in C4-T2. Neither cut her off from support. |
+| C4 | **false fit as coded** | What is coded is (a) the family "discredited as meddlers": that is Danielle's own reading (E2 [11:42]), and it is the warner-discrediting move this audit placed in the deception class under S10h/S13k; (b) "plant drugs on your sister" (E2 [10:49]): intimidation; (c) he answered her family's email from her laptop (E2 [09:55]): channel control, contents not reported. No false account *about her*, given *to her network*, is shown before exit. After exit it appears (to the court, "claimed I was crazy," E10 [23:56]; to Darcy, E10 [19:27]–[20:20]; through Darcy to an online group, E10 [22:59]), and it is already counted under R-SEP. *If the codebook later counts warner-discrediting as C4 (the S13k question), this verdict changes.* |
+| C4-T2 ✔ | **confirmed, paradigm** | E4 [20:18] "I'm never allowed to talk to his ex… he's going to ruin our lives… team of lawyers"; E5 [02:27] the cease-and-desist naming "Danielle and their daughter"; tailored personas (E1 medical student; E3 [33:25] the near-billionaire; E9 [15:50] the "Irish mafia" father); E5 [30:38] threats within ten minutes of contacting Linda; collapse by comparing notes: E6 [03:05] "a mirror image… the same exact thing." |
+| C5 ✔ ("in substance") | **false fit** | He did not discard her. He kept her as a home base for eight and a half years and **pursued her at exit**. When she tried to draw out a split, he refused it: E3 [19:57] "I love my family. Of course we are." "Open contempt" is C2, and "lives elsewhere" is C4-T2. The exit was hers (the grid says so). |
+| R-SEP ✔ | **confirmed** | E6 [32:49] "Is Danielle here?"; [33:46] "let me see my daughter or else nobody in this family is gonna be safe"; E8 [17:44]–[21:55] the template "subpoena" to get her address; E9 [22:46]–[23:26] emails every other week; E10 [14:36] posing as a woman offering to help; [26:31] a restraining order against her father; [28:15] a recorded threat; E11 [28:26] a restraining order against her. |
+| Other fields (shared devices, manufactured record, threats) | **confirmed** | E6 [13:53] three women with his name tattooed; E7 [08:43] the ring was Tammy's (Darcy's report); E3 [13:58] with E7 [08:43] the "friend's baby" was his with Tammy; E7 [17:00]–[19:50] a U-visa listing Danielle and her daughter; E3 [19:08] "no problem hitting women"; E7 [35:41] "served the fear of God into me." |
+
+**Verdict.** Two false fits among the seven cycle cells (C4 as coded, C5). C1, C2, C3, C4-T2 and R-SEP
+are confirmed, and C4-T2 is the paradigm case in the corpus. C5 shows the same error pattern as
+Molly's C6: **a stage cell filled with conduct that belongs to another cell**. C4 shows the same pattern
+as Kaelyn's C4: **the cell's content is about something said *to* the target, not *about* her**. The C2
+form is mostly *at friction*.
