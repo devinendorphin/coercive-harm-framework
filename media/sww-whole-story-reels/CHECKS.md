@@ -144,3 +144,10 @@ difference at any size: it is not evidence either way and is removed. "Not enoug
 15-vs-41 comparison that was never run: removed. The reel now states what the cases show (the same move in six
 rooms) and what was not measured (how often it happens in each room). The unverified literature claim ("no one
 has measured them the same way in every room", packet triage, secondary sources) is also removed.
+
+### Reel 03 v3 (2026-11-13): the "not a rate" card cut (S-34 refinement)
+
+Endorphin: "even measuring is not rigor, and asking for it is the hedging." The reel claims the same move in
+six rooms; the cases establish that, and no rate is claimed. The v2 card "Six rooms, not a rate" named a
+measure the claim does not need, so it is cut. The 15-of-56 card stays as what it is: the six quoted stories
+are drawn from 15 counted stories outside a romance or marriage (and 4 mixed).

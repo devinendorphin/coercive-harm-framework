@@ -183,3 +183,7 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
   re-read stories to downgrade it. Before a hedge goes in, it has to rest on a test that was run, or name the
   one that wasn't; otherwise it is cut. The same rule reaches the other face of the resemblance: figures
   that look measured but were not (first-coded counts shown as findings).
+  **Refinement (Endorphin, same day): "even measuring is not rigor, and asking for it is the hedging."** A
+  limit statement is rigor only when it bounds a claim actually made. Reel 03 v2 ended on "six rooms, not a
+  rate… not measured here"; the reel claims the same move in six rooms, which the cases establish, and claims
+  no rate. Naming a measure the claim does not need implies a deficit that is not there. Cut it.
