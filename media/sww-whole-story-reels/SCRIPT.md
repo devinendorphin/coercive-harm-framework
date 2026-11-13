@@ -29,7 +29,7 @@
 - The rest comes one piece at a time.
   - *on screen:* One piece at a time. — Told Whole · Something Was Wrong, Seasons 1–26
 
-## 02 · Same Moves  (223 s)
+## 02 · Same Moves  (294 s)
 
 - The first claim behind this series is about the people who did the harm. Different people, different places, different years. The claim is that they make the same moves.
   - *on screen:* Same moves. — Arc 1 · as far as the room allows
@@ -41,11 +41,15 @@
   - *on screen:* timeline: Binding: obligation, dependency, access → Devaluation → Isolation → Poisoning the wells: a false account to the people around them → When they leave, or it comes out
 - The first move rarely looks like a move. It binds. And it took whatever shape fit the person. A whirlwind romance. A friend in need. A boss's favour. A place to live, offered in a housing crisis. A mentor at work. A group that felt like family. Praise for a mother, aimed at her children.
   - *on screen:* One move, many shapes — chips: A whirlwind romance, A friend in need, A boss's favour, Housing in a crisis, A mentor at work, A group like family, Praise for a mother
-- The shapes differ. What each one does is the same. Counted by what it did, not how it looked, each move turned up again and again. Each dot is one story.
-  - *on screen:* 56 stories, move by move: Binding 55 of 56; Devaluation 52 of 56; Isolation 48 of 56; Poisoning the wells 48 of 56 — one row of 56 dots each, lit where present; Blue: the move is in the story. Binding's one gap: not in the reading notes. Seasons 16–24 were coded from notes, a weaker basis.
-- And when someone left, or the truth came out, there was a response in every one of the fifty-six. Pursuit, threats, reversal, a smear. In forty-eight it went on. In eight, it was one act, and then silence.
-  - *on screen:* 56 dots, one per person; 48 turn blue — 56 of 56, met a response; 
-- Now, where it breaks. Binding alone tells you nothing. Some deceivers bound people, and simply ran when they were caught. The pattern is the combination, not any one move.
+- The shapes differ. What each one does is the same. Counted by what it did, not how it looked, each move turned up again and again, as first coded. Each dot is one story.
+  - *on screen:* 56 stories, as first coded: Binding 55 of 56; Devaluation 52 of 56; Isolation 48 of 56; Poisoning the wells 48 of 56 — one row of 56 dots each, lit where present; Blue: the move is in the story. Binding's one gap: not in the reading notes. Seasons 16–24 were coded from notes, a weaker basis.
+- And when someone left, or the truth came out, the first coding found a response in every one of the fifty-six. Pursuit, threats, reversal, a smear.
+  - *on screen:* 56 dots, one per person; 56 turn blue — 56 of 56, met a response, as first coded; 
+- Then seven of those stories, picked at random, were read again in full, with a rule written down first: a mark stays only if the transcript shows what the move does, not just something that looks like it. Binding and devaluation held every time. The response at exit held in five of six. Isolation held in four of five. Poisoning the wells held in one of five.
+  - *on screen:* 7 stories read again in full: Binding 6 of 12; Devaluation 6 of 12; Response at exit 5 of 12; Isolation 4 of 12; Poisoning the wells 1 of 12 — one row of 12 dots each, lit where present; Blue: the mark held. Grey: it did not. Each dot is one story where the move was first marked.
+- Most of the poisoning marks that failed were stories told to the person about the people around her, not stories told to her people about her. Whether those count is the director's call, and it has not been made. Either way, three of the first counts are too high: isolation, poisoning the wells, and the response at exit. By how much is not known until every story is read again.
+  - *on screen:* Three counts are too high. — Isolation, poisoning the wells and the response at exit, by amounts not yet known. Binding and devaluation held.
+- Now, where it breaks. Binding alone tells you nothing. Some deceivers bound people, and simply ran when they were caught. The re-read found one more story that belongs there: a friend who invented a whole cast of people, and when she was caught, simply blocked her. The pattern is the combination, not any one move.
   - *on screen:* No single move is the pattern. — Some deceivers bound people and simply ran when caught. What marks the pattern is the moves together, and the response when someone leaves.
 - Isolation was the weakest move. A word-count test, written down in advance, found isolation talk three times as common as in a comparison podcast. But it was clearly raised in only about one season in four. By its own rule, the test failed.
   - *on screen:* 26 dots, one per person; 7 turn blue — 1 in 4, seasons where isolation talk clearly stood out, by the test written in advance (7 of 26); A fairer comparison, chosen afterwards, gives about 3 in 4. It came after, so the failure stands.
@@ -59,8 +63,10 @@
   - *on screen:* timeline: Three years: praise, and no friction → The truth comes out; she pushes back → The blame comes at once [her “lack of intimacy”]
 - That is a reading to test, not a finding. Some stories do not fit it either: the put-downs start before any friction at all.
   - *on screen:* Does devaluation wait for friction? — A reading to test, with counter-cases: in some stories the put-downs start before any friction at all.
-- Seventy-two notes were written down along the way. Most are about institutions, evidence and method, or are new shapes of the same moves. Sorted against the misfit rules, about four are stories where a move was missing or different while the chance was there. One reader did that sorting, and a second has to check it.
-  - *on screen:* 72 dots, one per person; 4 turn blue — 4 of 72, notes are true misfits; Sorted by one reader; a second has to check it.
-- Same moves, as far as the room allows. That is the claim. These are its edges.
+- Seventy-two notes were written down along the way. Most are about institutions, evidence and method, or are new shapes of the same moves. Sorted against the misfit rules, about four are stories where a move was missing or different while the chance was there. When they were read again in full, all four held.
+  - *on screen:* 72 dots, one per person; 4 turn blue — 4 of 72, notes are true misfits; Read again in full: all four held.
+- The marks in the stories that fit did worse. About one in five did not hold. Every error ran the same way: toward the pattern. Why is not settled. The re-reader was the same kind of A.I. as the first, and not blind. A blind reader still has to check it.
+  - *on screen:* 43 dots, one per person; 34 turn blue — 34 of 43, marks in the fitting stories held; Every error ran toward the pattern. Same kind of reader, not blind.
+- Same moves, as far as the room allows, and as far as the re-reading holds. That is the claim. These are its edges.
   - *on screen:* Same moves. As far as the room allows. — Told Whole · Seasons 1–24
 

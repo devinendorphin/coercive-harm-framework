@@ -20,7 +20,7 @@ python gen_script.py
 | Reel | Status |
 |---|---|
 | 01 · Intro (2:10) | v3 2026-11-11: visual cards (tiles, timeline, readers, gauges, eyes, one dot per person, evidence cards); awaiting review |
-| 02 · Same moves (3:41) | v4 2026-11-13 (Diana scenes carry the friction reading, amendment 6; '72 misfits' corrected to 4 of 72 notes): arc 1 opener; close-read tallies as dot rows (new `dotrows` card), the isolation test's failure, the room hypothesis, 72 misfits; evidence checks in `CHECKS.md`; awaiting review |
+| 02 · Same moves (4:54) | v5 2026-11-13: revised after the symmetric re-read audit (re-read rows, 34 of 43 marks held, three counts too high, all four misfits held, Kaelyn's story belongs with the deceivers); v4 2026-11-13 (Diana scenes carry the friction reading, amendment 6; '72 misfits' corrected to 4 of 72 notes): arc 1 opener; close-read tallies as dot rows (new `dotrows` card), the isolation test's failure, the room hypothesis, 72 misfits; evidence checks in `CHECKS.md`; awaiting review |
 
 **BOUNDARY.** Evidence is graded, not disclaimed: convictions and records are stated as such,
 and what rests on a survivor's word alone is attributed to them (about 4 in 10 coded stories; about

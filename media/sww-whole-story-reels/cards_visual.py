@@ -279,7 +279,7 @@ def install(Card, G):
         fh, fl, fn_ = font("xbold", 52), font("semi", 34), font("black", 44)
         self.head = sprite(wrap(c["head"], fh, CW), fh, FG, 1.08) if c.get("head") else None
         self.lab = [sprite([r[0]], fl, FG, 1.1) for r in self.rows]
-        self.cnt = [sprite([f"{r[1]} of {self.n}"], fn_, BLUE, 1.0) for r in self.rows]
+        self.cnt = [sprite([f"{r[1]} of {r[2] if len(r) > 2 else self.n}"], fn_, BLUE, 1.0) for r in self.rows]
         self.cell = CW / self.n; self.rh = 118
         foot = c.get("foot", "")
         self.foot = sprite(wrap(foot, font("semi", 32), CW), font("semi", 32), MUTED, 1.25) if foot else None
@@ -294,7 +294,7 @@ def install(Card, G):
             t0 = 0.3 + j * span; e = ease((t - t0) / 0.4)
             self._pp(lab, X0, y, op * e); self._pp(cnt, X0 + CW - cnt.size[0], y - 6, op * ease((t - t0 - 0.6) / 0.4))
             cy = y + 72
-            for i in range(self.n):
+            for i in range(row[2] if len(row) > 2 else self.n):
                 a = clamp01((t - t0 - 0.004 * i) / 0.25)
                 if a <= 0: continue
                 cx = X0 + i * self.cell + self.cell / 2

@@ -51,3 +51,33 @@ stated generically, attached to no person.
 
 The 72 entries are divergence *notes*, not misfits. Per the classification in `CROSS-SEASON.md`
 (2026-11-12), about 4 are pattern misfits. The reel now says so, and says one reader did the sort.
+
+## Reel 02, v5 (2026-11-13): revised after the symmetric re-read audit
+
+Source for every new figure: `research/sww-corpus/close-read/AUDIT-2026-11-13-symmetric-reread.md`.
+
+- **"Seven of those stories, picked at random, read again in full."** The fit-side draw:
+  `random.Random(20261113).sample(...)` → S1 Sarah, S1 ex-fiancée, S6a Kaelyn, S9a Danielle, S11h Molly,
+  S13h Zoe, S15g Emilia.
+- **Re-read row counts** (only cells first marked ✔ count; partial ~ cells are excluded):
+  - Binding 6 of 6: Kaelyn, Emilia, Zoe, Danielle, Sarah, ex-fiancée. Molly's binding was ~.
+  - Devaluation 6 of 6: Emilia, Molly, Zoe, Danielle, Sarah, ex-fiancée. Kaelyn's was ~.
+  - Response at exit 5 of 6: Kaelyn false (she blocked her); Emilia, Zoe, Danielle, Sarah, ex-fiancée held.
+    Molly's was ~.
+  - Isolation 4 of 5: Emilia, Zoe, Danielle, Sarah held; the ex-fiancée's was false (surveillance, not
+    isolation).
+  - Poisoning the wells 1 of 5: Emilia held (impersonation); Kaelyn, Danielle, Sarah and the ex-fiancée
+    were false under the codebook as written. Danielle's and Sarah's would hold if the operator counts
+    the inward direction (pending). The narration says so ("whether those count is the director's call").
+- **"34 of 43 held" / "about one in five did not hold."** There were 10 false fits among 43 ✔ cells.
+  Molly's C6 was confirmed after amendment 7, which leaves 9 false (21%). C4 is counted per the codebook
+  as written.
+- **"All four held."** The four pattern misfits (divergences 17, 34 [S13a and S13b], 47, 48) all stand.
+- **"Every error ran the same way: toward the pattern. Why is not settled."** The cause is not
+  attributed; the audit's correction lists five rival explanations.
+- **Kaelyn ("a friend who invented a whole cast… simply blocked her").** S6 E1 [05:38]–[07:00] the invented
+  Lexi/Ryan/Tyler/Emily cast; [16:37] "immediately blocked me." Corroborated by her ex-husband ([16:13])
+  and Tiffany's account; not described as resting solely on her own account. The reclassification is
+  proposed, not done, so the narration says the story "belongs there," not that it "was moved."
+- **"Three counts are too high."** Isolation, poisoning the wells and the response at exit each had at
+  least one false fit in the sample, so the full-corpus counts are upper bounds.
