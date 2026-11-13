@@ -558,13 +558,13 @@ The close read coded 56 stories move by move, with a reader that knew the predic
 (design fixed before reading; `research/sww-corpus/close-read/AUDIT-2026-11-13-symmetric-reread.md`) read 7
 misfit-side and 7 random fit-side stories in full. **Misfits: 0 false misfits** (all four pattern misfits and both
 scope cases stand). **Fits: 10 of 43 marked cells were false fits**, 9 after the operator's C6 definition
-(amendment 7). By the pre-set reading, the claim is weakened. *Conceded:* the published counts for isolation,
+(amendment 7), 7 after the ruling that C4 runs both ways (amendment 8). By the pre-set reading, the claim is weakened. *Conceded:* the published counts for isolation,
 poisoning the wells and the response at exit are upper bounds; one counted case (S6a) belongs to the deception
 class. *Not conceded:* binding (6 of 6) and devaluation (6 of 6) held without exception. *Open:* the cause of the
 one-way error is not settled (five rival explanations are listed in the audit: prior scrutiny, grid completion,
 definition drift, priming, re-reader overcorrection), and the size of the overcount needs a blind second reader on
-all 56. The C4 direction question (outward only, or both ways) is the operator's to rule; it moves the rate between
-16 % and 21 %. → audit file; CODEBOOK amendment 7; reel 02 v5.
+all 56. The operator ruled that C4 runs both ways (amendment 8). With amendments 7 and 8 the rate is **7 of 43 (16 %)**.
+→ audit file; CODEBOOK amendments 7–8; reel 02.
 
 ## How to use this ledger
 

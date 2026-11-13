@@ -81,3 +81,9 @@ Source for every new figure: `research/sww-corpus/close-read/AUDIT-2026-11-13-sy
   proposed, not done, so the narration says the story "belongs there," not that it "was moved."
 - **"Three counts are too high."** Isolation, poisoning the wells and the response at exit each had at
   least one false fit in the sample, so the full-corpus counts are upper bounds.
+
+### Reel 02 v5 numbers updated after the C4 ruling (amendment 8, 2026-11-13); not yet rebuilt
+
+Poisoning the wells counted both ways: Danielle and Sarah held, so 3 of 5. Overall, 36 of 43 marks held and
+7 did not (about one in six). Source: the audit's C4 sensitivity note, now ruled. The built video still shows
+the v5 figures; the thesis-first overhaul will carry these.

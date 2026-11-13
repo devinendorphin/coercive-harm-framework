@@ -378,6 +378,10 @@ False fits fall to 8 of 43 (19%). Kaelyn's C4 stays false** (the "enemy" was inv
 Either way, the reading's verdict is the same: 0 against roughly 20%. This is the operator's call. Until
 it is made, inward poisoning is credited under C3, which is where its function sits.
 
+**Ruled (amendment 8, 2026-11-13): both directions.** Danielle's and Sarah's C4 are therefore confirmed. With
+amendments 7 and 8 applied, **false fits are 7 of 43 (16%)**: Kaelyn 3 (C4, C6, R-SEP), Molly 1 (Economic), the
+ex-fiancée 2 (C3, C4), Danielle 1 (C5). The reading's verdict is unchanged: 0 false misfits against 16%.
+
 ### Sensitivity: the definition of C6 (amendment 7, made after the read)
 
 The audit coded C6 as a return *after* a discard or exit. The operator then defined it (amendment 7) as an

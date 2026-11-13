@@ -547,3 +547,22 @@ iteration count and a severity marker for each discard (for example, a new kind 
 crisis, a threat to life), blind to this hypothesis where possible. Candidates in the corpus: S15g
 (repeated block/unblock and breakups, ending in an overdose), S1 ex-fiancée (six years on and off),
 S13a (a breakup, then a return when she reactivated Match).
+
+## Amendment 8 (2026-11-13): poisoning the wells runs both ways (operator ruling)
+
+> "I think it's both… The tendency of the perpetrator to isolate the victim happens on both those fronts."
+
+**Ruling.** C4 covers **both directions** between the target and her care system:
+- *outward*: a false account of the target given to her people (the codebook's original wording);
+- *inward*: a false account of her people given to the target, turning her against them.
+
+**Left open (operator unsure):** whether these are two forms of one move or two moves ("I'm wondering if that is
+two separate things… maybe not"). Each C4 instance records its direction (*in* / *out*), so either answer
+can be applied later without re-reading.
+
+**Operator's account of why it is egregious (`[HYPOTHESIS]` as a general claim, recorded in their words):**
+the two directions compound. Inward poisoning pulls her away from her people while she is inside. Outward
+poisoning has already turned those people, so "once they finally get out… those people… also disown pretty
+much the victim, which compounds the injury." This extends amendment 1a (C3/C4 effects outlast contact), and
+it fits the operator's 2026-11-13 riff on names and retelling: the warped account "spread more widely and
+earlier."

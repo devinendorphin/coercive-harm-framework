@@ -35,7 +35,7 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
    second witness), S9 Danielle (documents and a second witness). Put one compact edges segment at the
    end. *Reason:* Endorphin's call. The breaks fogged the thesis, and a fog is the move the audit exists
    to catch. The audit's figures move to arc 7, pending Endorphin's agreement.
-2. **Rulings and follow-ups on the audit.** C4 direction (outward only, or both ways); the Kaelyn
+2. **Rulings and follow-ups on the audit.** C4 direction ruled 2026-11-13: both ways (amendment 8); still open: the Kaelyn
    reclassification; downgrading the 9–10 cells in their season files. *Reason:* the published counts
    should stop overstating.
 3. **Blind second reader on the close read, fit side first**, through the coder-environment proposal
@@ -44,7 +44,7 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
 
 ## Open decisions awaiting Endorphin
 
-- C4 direction; S6a reclassification; where the audit figures go (arc 7?). Doc 09 wording (held).
+- S6a reclassification; where the audit figures go (arc 7?). Doc 09 wording (held).
   CROSS-SEASON counting rule. Doc 07: *Counterman* and the untested-record rule. Fraud prong scope;
   psychological homicide scope; base no-harm offense civil or criminal (OBJ-021). Coder-environment
   proposal approval. Paid-usage study PARKED.
