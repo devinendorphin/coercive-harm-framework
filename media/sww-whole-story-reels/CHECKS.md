@@ -46,3 +46,8 @@ when the truth came out and she did, the blame came at once. The close read reco
 blame (S15.md, S15e R-SEP: "He blamed Diana's 'lack of intimacy'", from jail). That is the conviction case
 above, so no new evidence wording is needed. The counter-cases ("put-downs before any friction") are
 stated generically, attached to no person.
+
+### Reel 02 revision 3 (2026-11-12): "72 misfits" corrected
+
+The 72 entries are divergence *notes*, not misfits. Per the classification in `CROSS-SEASON.md`
+(2026-11-12), about 4 are pattern misfits. The reel now says so, and says one reader did the sort.

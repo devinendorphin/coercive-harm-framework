@@ -29,7 +29,7 @@
 - The rest comes one piece at a time.
   - *on screen:* One piece at a time. — Told Whole · Something Was Wrong, Seasons 1–26
 
-## 02 · Same Moves  (206 s)
+## 02 · Same Moves  (223 s)
 
 - The first claim behind this series is about the people who did the harm. Different people, different places, different years. The claim is that they make the same moves.
   - *on screen:* Same moves. — Arc 1 · as far as the room allows
@@ -57,8 +57,10 @@
   - *on screen:* “For a predator to successfully groom a child, they first have to groom the parent.” — Diana, Season 15
 - It was written down as a misfit. The project director reads it differently: devaluation waits for friction. For three years she never pushed back. When the truth came out and she did, the blame came at once. He put what he did down to her lack of intimacy.
   - *on screen:* timeline: Three years: praise, and no friction → The truth comes out; she pushes back → The blame comes at once [her “lack of intimacy”]
-- That is a reading to test, not a finding. Some stories do not fit it either: the put-downs start before any friction at all. Seventy-two misfits were written down in all.
-  - *on screen:* 72 — misfits written down, not smoothed over. Does devaluation wait for friction? A reading to test, with counter-cases.
+- That is a reading to test, not a finding. Some stories do not fit it either: the put-downs start before any friction at all.
+  - *on screen:* Does devaluation wait for friction? — A reading to test, with counter-cases: in some stories the put-downs start before any friction at all.
+- Seventy-two notes were written down along the way. Most are about institutions, evidence and method, or are new shapes of the same moves. Sorted against the misfit rules, about four are stories where a move was missing or different while the chance was there. One reader did that sorting, and a second has to check it.
+  - *on screen:* 72 dots, one per person; 4 turn blue — 4 of 72, notes are true misfits; Sorted by one reader; a second has to check it.
 - Same moves, as far as the room allows. That is the claim. These are its edges.
   - *on screen:* Same moves. As far as the room allows. — Told Whole · Seasons 1–24
 
