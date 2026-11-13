@@ -109,3 +109,29 @@ Re-read: binding and devaluation 6 of 6; the others held in most; 36 of 43 marks
 Zoe's former manager, Sarah's former fiancé, Emilia's former partner, Danielle's former partner. None is named.
 Dropped from this reel (they move to later arcs): the Diana friction case, the isolation word-test failure, and
 the audit's per-move table (arc 7, "How measuring can hide it").
+
+## Reel 03 v1 (2026-11-13): "Every room", arc 2, first reel (thesis first, S-30)
+
+Thesis: the room changes the shape of a move, not the move. One move (isolate) is followed through six rooms.
+Each quote was checked word for word against the cached transcripts (podscripts text, episode given below).
+None of the six is called "told solely from the person's own account"; each is attributed by name and season.
+
+| Room | Story (close-read code) | Quote and episode | Coders' `evidence_types` |
+|---|---|---|---|
+| A marriage | S21e Jubilee, recalling her husband | "I don't want you to be close with your family because I know that if you're close with them, it would be easy for you to leave me." (S21 E11 "Words of Knowledge") | CA document_read_on_air · CB document_read_on_air, second_witness (the marriage) |
+| Friends | S3 Victoria, about her closest friend | "she just kept pulling me further and further away from my kids" (S3 E3 "Nobody's Getting in My Head"); "adults only" holidays, same passage | A, B second_witness |
+| A church | S5a Julia, about her youth pastor | "He didn't want us going to different churches, church services, because that's being, quote unquote, flaky or disloyal." (S5 E2 "Exposed Our Sin") | A, B second_witness |
+| A workplace | S2 T, about a coworker | "she kept everybody in a box so that none of us intersected" (S2 E5 "Devastated in the Wake of Your Delusions"). Coded C3 as compartmentalization | A, B document_read_on_air, second_witness |
+| A school | S13m Riley, about her teacher | "he'd remind me that no one would believe me. It would be my fault and we'd no longer have contact." (S13 E17); the card drops the opening clause "If I even mentioned telling anyone about what he was doing" | A, B second_witness |
+| A program for teens | S24 Katie, about the program's staff | "When she calls, she's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior" (S24 E18 "Fear Driven"); monitored, cut-off calls in the same passage | A document_read_on_air · B person_account_alone (the program). The script itself is in six separate accounts that season (E03, E04, E13, E15, E18, E23; `S24.md`) |
+
+Figures and edges:
+- **15 of 56** counted cycle stories are clearly outside a romance or marriage: S2, S4, S5a, S5c, S6a, S7, S8,
+  S11c, S11g, S11h, S11i, S11l, S13m, S15c, S15d. **4 mixed**: S3 (a friend and a husband; Victoria's quote is
+  about the friend), S5b, S13h, S13l. Counted from the 46 case columns of `CROSS-SEASON.md` plus the 10
+  later cases, all partners.
+- "No difference between rooms, either way: weak evidence": the season-level setting test (`results/r2_fine_settings.json`,
+  R² p = 0.31 against the permutation null, 25 coded seasons).
+- "No single measure spans every room": packet triage (`research/external-evidence-packet-TRIAGE.md`).
+- No program, church, clinic or perpetrator is named. The institutions (Temple, programs, birth centre) as
+  the one doing it are held for the next reel.

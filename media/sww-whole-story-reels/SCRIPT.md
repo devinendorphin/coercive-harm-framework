@@ -1,6 +1,6 @@
 # TOLD · WHOLE — reel scripts
 
-*What institutions did for the people of Something Was Wrong, Seasons 1–26. 2 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Source: `research/sww-corpus/results/whole_story/RESULTS.md` (branch `ccr-f78b372d-8qdcn9`). Made one reel at a time. Survivors keep the show's names; no perpetrator or uncharged person is named. Testimony as broadcast: allegations, not verdicts.*
+*What institutions did for the people of Something Was Wrong, Seasons 1–26. 3 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Source: `research/sww-corpus/results/whole_story/RESULTS.md` (branch `ccr-f78b372d-8qdcn9`). Made one reel at a time. Survivors keep the show's names; no perpetrator or uncharged person is named. Testimony as broadcast: allegations, not verdicts.*
 
 ## 01 · Intro  (130 s)
 
@@ -63,4 +63,35 @@
   - *on screen:* 43 dots, one per person; 36 turn blue — 36 of 43, marks held on a second full reading; The misfits held too. Next: a reader who does not know the claim.
 - Same moves, as far as the room allows. Next: the rooms.
   - *on screen:* Same moves. As far as the room allows. — Told Whole · Seasons 1–24
+
+## 03 · Every Room  (139 s)
+
+- The last episode showed six moves. This one asks where they happen. In every room this series looked: a marriage, a circle of friends, a church, a workplace, a school, a program for teenagers.
+  - *on screen:* Every room. — Arc 2 · where the moves happen
+- The room changes the shape of a move. It does not change the move.
+  - *on screen:* The room changes the shape. Not the move. — One move, followed through six rooms.
+- Take one move. Isolate: cut her off from the people who would help her. Here it is in six rooms.
+  - *on screen:* Isolate, in six rooms — chips: A marriage, Friends, A church, A workplace, A school, A program for teens
+- In a marriage. Jubilee's husband said it out loud. She remembers him telling her:
+  - *on screen:* “I don't want you to be close with your family because I know that if you're close with them, it would be easy for you to leave me.” — A marriage · Jubilee · Season 21
+- Among friends. Victoria's closest friend planned their holidays as adults only, and brought her own children anyway.
+  - *on screen:* “She just kept pulling me further and further away from my kids.” — Friends · Victoria · Season 3
+- In a church. Julia's youth pastor wanted his group absorbed in one church, his.
+  - *on screen:* “He didn't want us going to different churches, church services, because that's being, quote unquote, flaky or disloyal.” — A church · Julia · Season 5
+- At work, the move takes another shape. At a small veterinary clinic, a young coworker kept her colleagues apart, a separate story for each, so no one could compare notes. T ran the office:
+  - *on screen:* “She kept everybody in a box so that none of us intersected.” — A workplace · T · Season 2
+- At a high school. Riley was fifteen, and the one cutting her off was her teacher:
+  - *on screen:* “He'd remind me that no one would believe me. It would be my fault and we'd no longer have contact.” — A school · Riley · Season 13
+- In a program for teenagers, the room is built for it. Calls home were monitored, and cut off. Before Katie's first call, staff had already told her father:
+  - *on screen:* “She's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior.” — A program for teens · Katie · Season 24
+- Five other survivors that season describe the same script. Even the call home was cut before it began.
+  - *on screen:* The same script, six times. — Six survivors in one season describe their parents being told, in advance, not to believe them.
+- Stay away from your family. Adults only. Other churches are disloyal. Everyone in a box. No one would believe you. Don't believe her. Six rooms, six shapes, one job: leave her with no one to turn to.
+  - *on screen:* Six shapes, one job — chips: Stay away from family, Adults only, Other churches: disloyal, Everyone in a box, No one would believe you, Don't believe her
+- Where this breaks. Of the fifty-six stories read move by move, fifteen were clearly outside a romance or a marriage, and four more mixed the two. That is enough to find the moves in other rooms. It is not enough to compare them.
+  - *on screen:* 56 dots, one per person; 15 turn blue — 15 of 56, outside romance or marriage; Enough to find the moves in other rooms. Not enough to compare rooms.
+- When rooms were compared, no difference showed up either way, and with numbers this small, that means little. Research on workplaces, groups and families describes the same moves, but no one has measured them the same way in every room.
+  - *on screen:* Cases, not a measure. — No difference between rooms showed, either way: weak evidence. Other research agrees, but no single measure spans every room.
+- The same move, in every room we looked, in the room's own shape. Next: when the room itself is doing it.
+  - *on screen:* Every room. Its own shape. — Told Whole · Seasons 1–24
 
