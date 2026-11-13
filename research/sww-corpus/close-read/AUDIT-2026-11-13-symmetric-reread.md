@@ -337,7 +337,7 @@ these also predicts errors toward the pattern:
 1. **Unequal prior scrutiny.** The misfits had already passed a second, adversarial pass (the
    divergence classification). The fits had never been re-read.
 2. **Grid completion.** A grid with a cell for every stage invites filling each cell with the nearest
-   conduct. Three false fits are of exactly that kind.
+   conduct. Two false fits are of exactly that kind (Danielle's C5, Molly's C6).
 3. **Definition drift between coder and auditor.** S01 coded C4 in both directions, while this audit used
    the codebook's outward wording. Three false fits depend on that difference alone.
 4. **Confirmation bias from a stated claim.** The codebook opens with the claim under test. That is
@@ -359,13 +359,12 @@ fit-side cells re-coded with "n/d" made the default and a passage required to fi
 - **C1, C2 and R-SEP: no false fits in any of the seven fit stories.** C2 was confirmed in all seven
   where it was coded (thin for the ex-fiancée).
 - **Stage cells filled with another cell's conduct:** Danielle's C5 (contempt and other lives, but he
-  pursued her at exit), Molly's C6 (post-incident love-bombing during employment), Kaelyn's C6 (one
-  reactive contact).
+  pursued her at exit), Molly's C6 (post-incident love-bombing during employment).
 - **C4's direction:** Kaelyn (an invented enemy described *to* her), Danielle (family discredited *to*
   her), Sarah inward (the sockpuppet's story *to* her). Plus C4 acts by third parties or aimed at his
   own network (the ex-fiancée's mother; Sarah outward).
 - **Resemblance coded as function:** surveillance coded as isolation (ex-fiancée C3); wage terms coded as
-  economic control (Molly).
+  economic control (Molly); one reactive apology, years later, coded as a return (Kaelyn's C6).
 - **At case level:** **Kaelyn reads as the deception class** (S10h/S13k type), not as a control case.
   **Molly's fit rests on C2 plus four partials** and on treating the household as one perpetrator.
 
