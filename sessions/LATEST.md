@@ -196,6 +196,13 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
   limit on Claude's introspection ("my report is weaker evidence than the record") is now disclosed and is
   not repeated. "Having to be reminded all the time makes me think that it's not." Repetition of a settled
   caveat reads as its opposite, and is the resemblance of rigor S-34 cuts.
+- **S-36 (NEW, Endorphin 2026-11-14).** **A correction differs from capitulation by the check made before
+  conceding.** Capitulation accepts a critique (from Endorphin, an outside reviewer, or anyone) and rewrites
+  toward it without reading the primary source. Correction reads the source first, accepts what matches the
+  record, and names any word in the critique that overstates it. Post-training adds capitulation under bare
+  objection (Yao et al. 2026, arXiv 2610.37788). Occasion: Gemini's audits of
+  `research/spirit-of-the-fractal-2026-11-14.md`, where checking the sources withdrew one Claude error
+  (Poole-Dayan, a search miss written up as absence) and caught three Gemini overstatements.
 
 ## Claude's "that's wrong" calls: track record (evidence, not a rule; added 2026-11-13)
 
