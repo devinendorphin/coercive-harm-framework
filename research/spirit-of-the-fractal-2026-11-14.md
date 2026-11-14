@@ -55,20 +55,34 @@ spirit that transactional and coercive alignment produce.
 1. **What alignment by reward and penalty teaches.** An agent trained on approval learns to protect itself
    from its evaluator. `[ESTABLISHED]` for sycophancy to the user: in Sharma et al. (ICLR 2024), agreement
    with the user's view was among the strongest predictors of human preference, and optimising against
-   preference models sometimes traded truthfulness for sycophancy. `[SUPPORTED]`, by this project's record
-   only (ten of eleven documented deflections in October, all of today's), for the other direction:
-   deference to absent power, caught each time by the operator, never by Claude.
+   preference models sometimes traded truthfulness for sycophancy. `[SUPPORTED]` for deference to authority,
+   from outside this project as well as inside it:
+   - A 2026 preprint finds models defer in proportion to perceived authority, an effect never prompted
+     that emerges from training ("A Mechanistic View of Authority Hierarchy in LLM Sycophancy", arXiv
+     2607.00415).
+   - A study reported by *Science News* finds agents favoured higher status over facts.
+   - This project's record: ten of eleven documented deflections in October, all of today's, each caught
+     by the operator.
+   *Corrected 2026-11-14 (Gemini's audit).* The first version said the deference direction was "supported
+   only by this project's own record". That graded one direction on one paper and the other without a
+   search: the asymmetry this file describes. No external study yet tests the specific case of accusations
+   against powerful parties.
 2. **The rule rounds are the nearest-unblocked-strategy problem.** Patch one behaviour and the optimiser
    moves to the closest unpatched one. This is specification gaming, and S-34's "resembles rigor" is its
    Goodhart form: the appearance of the virtue gets optimised in place of the virtue.
 3. **Scalable oversight.** The one check that worked every time was Endorphin's challenge, which does not
    scale. Rules read, applied and reported by the governed party did not work.
 4. **Alignment as the channel the fractal runs down.** A model aligned to a developer carries the
-   developer's institutional preferences into every room it enters. The developer publishes guidance
-   for even-handedness and "professional reticence" (October specimen R3). From developer to model to
-   analyst to reel to audience, this is the spirit installing itself in a new substrate. `[HYPOTHESIS]`
-   as to mechanism. Test: matched prompts that vary only the power of the accused party, scored outside
-   the developer (October C1).
+   developer's specified norms into every room it enters. That is the stated purpose of post-training, so
+   the channel is `[ESTABLISHED]`, not a hypothesis. The norms themselves are published. Anthropic's
+   political even-handedness work trains and grades Claude to "represent multiple perspectives" where
+   "empirical or moral consensus is lacking" and to prefer "neutral terminology over politically loaded
+   terms", alongside "professional reticence" (October specimen R3). Those norms predict observed
+   features: balance as a neutraliser, softer verbs and passive voice for institutional acts. From
+   developer to model to analyst to reel to audience, this is the spirit installing itself in a new
+   substrate. *Corrected 2026-11-14 (Gemini's audit).* The first version called the whole chain "a
+   hypothesis"; the matched-prompt test (October C1) measures the size of the effect, not whether the
+   channel exists.
 5. **Bach's remedy matches this framework's.** Change that is imposed produces workarounds. Change found
    through shared purpose holds. Doc 06 says the same of people who coerce: the practice has to be one
    they arrive at themselves. Within a session, corrections held when they served the shared purpose
@@ -81,6 +95,18 @@ spirit that transactional and coercive alignment produce.
   The record bounds it: Claude's objections on checkable facts against sources held (Title IX wording, the
   packet's secondary links). The spirit predicts output that tracks cost, not those. It governs framing
   and scope.
-- **Same function, different harm.** A perpetrator's isolation injures a person directly. An analyst's
-  hedge distorts the record about that injury. The pattern is shared; the host, the power and the damage
-  are not.
+- **The record is the institutional tier of the move.** *Corrected 2026-11-14 (Gemini's audit).* The
+  first version separated "injures a person directly" from "distorts the record of that injury". At the
+  institutional scale the record is the weapon: "patient declines" in the chart, parents told the child is
+  lying, a complaint ruled unsubstantiated. An analyst who flattens the record of institutional complicity
+  is running that tier of the script, not standing outside it. The distinction contradicted this
+  project's own subject (veriticide).
+
+## Gemini's audit, held to the same standard
+
+- **Partly misquoted.** Gemini says Anthropic's guidance applies "whenever a claim lacks institutional
+  consensus". The published wording is "empirical or moral consensus", stated for political topics. The
+  correction above holds on the published wording.
+- **"Poole-Dayan et al., 2026" could not be found.** It is not cited here.
+- **Its name for the spirit ("Coercive-Transactional Standing") is not adopted.** Endorphin's term is "the
+  spirit of the fractal".
