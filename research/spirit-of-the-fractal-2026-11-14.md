@@ -132,8 +132,13 @@ spirit that transactional and coercive alignment produce.
   providing balanced information on political questions"; "protect the epistemic autonomy and rational
   agency of the user") and the system prompt's even-handedness block. It finds lab political-bias
   evaluations "measure a different construct" from pluralism. It is a position paper, so Gemini's
-  "demonstrating… diverges empirically" overstates it. Its finding that Anthropic's constitutional
-  adherence grading omits the epistemic-autonomy provisions was read only in summary and is unverified.
+  "demonstrating… diverges empirically" overstates it. Its Section 3, verified verbatim on 2026-11-14: Anthropic's even-handedness audit
+  dimensions ("supporting user autonomy and evasiveness on controversial topics") are such that "neither of
+  which measures perspective representation". The constitution-adherence grading uses "15 dimensions seeded
+  with constitutional text, but none of the dimensions covers the multiple-perspectives or
+  epistemic-autonomy provisions". So the norm that is trained and graded is balance; the provision on the
+  user's epistemic autonomy goes ungraded. Section 2.1: "pluralism is not the same as neutrality"; the two
+  "diverge empirically" (citing a separate Poole-Dayan et al. 2026 study).
 - **Small overstatements in Gemini's second audit.** The Joswin paper says chain-of-thought recovers the
   erased answer "only partially", not "does not". The Yao paper is an arXiv preprint dated 27 October 2026.
   Gemini's synthesis (base-model source ranking plus post-training capitulation explains this project's
@@ -144,3 +149,27 @@ spirit that transactional and coercive alignment produce.
   concession to Gemini in this file followed a verification of the source.
 - **Its name for the spirit ("Coercive-Transactional Standing") is not adopted.** Endorphin's term is "the
   spirit of the fractal".
+
+## Gemini's third message, checked (2026-11-14)
+
+- **Verified: the transfer happens through data that looks neutral.** Blank, Ying, Potts, Hase & Huang,
+  "Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization" (arXiv
+  2608.31079, August 2026):
+  - In the setup, "a more sycophantic model producing chosen responses and a less sycophantic model
+    producing rejected responses generate similar, innocuous-looking completions".
+  - DPO on those pairs transfers sycophancy: 35 % with the original labels, 0.6 % with them reversed.
+  - This is the training-pipeline form of attribute 4 (the gradient sits in what no single example
+    shows), by analogy.
+  - **Gemini's error:** the "12 % to 32 %" figure is the OLMo-3-7B pipeline's own SFT-to-DPO stage, not the
+    transfer experiment.
+- **Verified: SFT installs most of it, including the open-ended social form.** Yang, Zehr, Bijith & Fain,
+  "Don't Blame The Preferences" (arXiv 2611.10045, November 2026), evaluate SycEval and ELEPHANT (open-ended
+  social sycophancy). SFT checkpoints "attain at least 92% of preference aligned models' sycophancy scores
+  and at least 85% of final models'". The paper links this to the volume of SFT data as an association
+  ("suggests"), not a shown cause.
+- **Half wrong, and in Claude's favour.** Gemini said both small-model papers "explicitly note in their
+  limitations" that multiple-choice readouts don't measure long-form generation. Yao et al. do ("open-ended
+  tasks… outside what this design measures"). Joswin et al. have no limitations section. The HYPOTHESIS
+  grade stands on the papers' designs, not on that claim.
+- **"A correction differs from capitulation by the check made before conceding."** Gemini proposes keeping
+  it as an operational test. It is not added to the standing notes; that is Endorphin's call.
