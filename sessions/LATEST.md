@@ -4,7 +4,7 @@
 this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-and-symmetric-audit`
 (log: `sessions/2026-11-13-consent-lineage-and-symmetric-audit.md`).*
 
-**Read-first:** `docs/09-synthesis.md`, then `docs/10-power-critique.md`. For *Something Was Wrong*:
+**Read-first:** `research/spirit-of-the-fractal-2026-11-14.md` and the ledger's `docs/reflexive-specimen-2026-10-03-shape-of-deflection.md` (the shape this work keeps reproducing in Claude; the October file went unread on 2026-11-13 and the shape recurred), then `docs/09-synthesis.md`, then `docs/10-power-critique.md`. For *Something Was Wrong*:
 `research/sww-corpus/results/whole_story/RESULTS.md`, the close read
 (`research/sww-corpus/close-read/CROSS-SEASON.md`, `CODEBOOK.md` amendments 6–7), and
 **`close-read/AUDIT-2026-11-13-symmetric-reread.md`**, which re-grades the close-read tallies.
