@@ -168,3 +168,20 @@ words were "environment" and "ability" (11-12) and "like a fractal" (10-04). Ree
   not have full control of the environment"). "That is a hypothesis, still to be tested" is removed; the
   claim is attributed to the director, which says whose claim it is. Closing card: "As far as the
   environment allows. Next: the same moves, at every scale."
+
+## Reel 03 v5 "Fractal" (2026-11-15): built from the approved scale ladder (S-37, `LADDER-03.md`)
+
+Eight rungs: two people, a circle of families, a staff, a school, a congregation, the hand-off, an
+institution, a whole industry. New or changed lines:
+
+| Rung | Quote and location | Coders' `evidence_types` |
+|---|---|---|
+| Two people | Jubilee: "I wasn't allowed to go to therapy anymore, and I don't think I saw a therapist for the rest of our marriage." (S21 E11); the narration of his reason is from the same passage | CA document_read_on_air · CB document_read_on_air, second_witness (the marriage) |
+| A school | Riley: "He told me to delete every single message, email, and text, that I should be prepared to defend myself." (S13 E18); "swept under the rug" and "I was never asked if I was okay", same passage | A, B second_witness |
+| The hand-off | Kat: "I had no idea that at three in the morning, there was going to be two people that put me in handcuffs." (S24 E07); Copper Canyon Academy, named by the show | A: person_account_alone (assault), document_read_on_air (Copper Canyon) · B: person_account_alone |
+| An institution | Katie, Island View Residential Treatment Center, Utah, named by the show. The call home is in her account of Island View, her first program (2004) | A document_read_on_air · B person_account_alone (Island View) |
+| A whole industry | Six accounts (E03, E04, E13, E15, E18, E23); Molly: "They were stripping me of my graduation status…" (S24 E11), Turning Winds, Idaho, named by the show | A: person_account_alone (program), conviction + person_account_alone (staff member) · B: person_account_alone |
+
+Institutions are named under S-21 (Copper Canyon Academy, Island View RTC, Turning Winds). No individual
+perpetrator, staff member or transport worker is named. The close read's E07 actor error is corrected in
+`research/sww-corpus/close-read/S24.md`.

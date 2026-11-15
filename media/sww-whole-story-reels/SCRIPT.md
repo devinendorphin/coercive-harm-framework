@@ -64,32 +64,40 @@
 - Same moves, as far as the environment allows. Next: the same moves, at every scale.
   - *on screen:* Same moves. As far as the environment allows. — Told Whole · Seasons 1–24
 
-## 03 · Fractal  (119 s)
+## 03 · Fractal  (177 s)
 
-- The last episode showed six moves. This one follows them up the scale, from two people to a whole institution. The director said it before any of this was read:
+- The last episode showed six moves. This one follows one of them up the scale, from two people to a whole industry. The director said it before any of this was read:
   - *on screen:* “…how low variance these tactics are across various strata of society. As to be like a fractal.” — Endorphin, project director · 2026-10-04
 - The scale changes the shape of a move. It does not change the move.
-  - *on screen:* The scale changes the shape. Not the move. — One move, followed up six scales.
-- Take one move. Isolate: cut her off from the people who would help her. Now climb.
-  - *on screen:* timeline: Two people → A circle of families → A staff → A school → A congregation → An institution
-- Two people. Jubilee's husband said it out loud. She remembers him telling her:
+  - *on screen:* The scale changes the shape. Not the move. — One move, followed up eight scales.
+- The move: isolate. Cut her off from the people who would help her. Now climb.
+  - *on screen:* timeline: Two people → A circle of families → A staff → A school → A congregation → The hand-off → An institution → A whole industry
+- Two people. When Jubilee's therapist told her she was scared for her, her husband ended the therapy. He later said why: he was afraid the therapist would call him abusive, and Jubilee would leave.
+  - *on screen:* “I wasn't allowed to go to therapy anymore, and I don't think I saw a therapist for the rest of our marriage.” — Two people · Jubilee · Season 21
+- Of her family, he said it out loud:
   - *on screen:* “I don't want you to be close with your family because I know that if you're close with them, it would be easy for you to leave me.” — Two people · Jubilee · Season 21
 - A circle of families. Victoria's closest friend planned their shared holidays as adults only, and brought her own children anyway.
   - *on screen:* “She just kept pulling me further and further away from my kids.” — A circle of families · Victoria · Season 3
 - A staff. At a small veterinary clinic, a young coworker kept her colleagues apart, a separate story for each, so no one could compare notes. T ran the office:
   - *on screen:* “She kept everybody in a box so that none of us intersected.” — A staff · T · Season 2
-- A school. Riley was fifteen. Her teacher had the school's good name behind him, and used it:
-  - *on screen:* “He'd remind me that no one would believe me. It would be my fault and we'd no longer have contact.” — A school · Riley · Season 13
-- A congregation. Julia's youth pastor wanted his whole group absorbed into one church, his:
+- A school. Riley was fifteen. Twice, someone tipped off the school about her teacher. The second time, he got in trouble, and in her words, the administration swept it under the rug. No one asked if she was okay. Then he told her:
+  - *on screen:* “He told me to delete every single message, email, and text, that I should be prepared to defend myself.” — A school · Riley · Season 13
+- A congregation. Julia's youth pastor had his group living, working and renting inside his church, and called every other church disloyal:
   - *on screen:* “He didn't want us going to different churches, church services, because that's being, quote unquote, flaky or disloyal.” — A congregation · Julia · Season 5
-- An institution. In a program for teenagers, the move is written into the rules. Calls home were monitored, and cut off. Before Katie's first call, staff had already told her father:
-  - *on screen:* “She's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior.” — An institution · Katie · Season 24
-- At this scale the move is no longer one person's. It is procedure. Five other survivors that season describe the same script.
-  - *on screen:* The same script, six times. — Six survivors in one season describe their parents being told, in advance, not to believe them.
-- Stay away from your family. Adults only. Everyone in a box. No one would believe you. Other churches are disloyal. Don't believe her. Six scales, six shapes, one job: leave her with no one to turn to.
-  - *on screen:* Six scales, one job — chips: Stay away from family, Adults only, Everyone in a box, No one would believe you, Other churches: disloyal, Don't believe her
-- And these six are not the only ones. Of the fifty-six stories read move by move, fifteen were outside a romance or a marriage, and four more mixed the two.
+- The hand-off. At fourteen, Kat told a school counselor that a thirty-six-year-old man had raped her. Her parents were told. Then:
+  - *on screen:* “I had no idea that at three in the morning, there was going to be two people that put me in handcuffs.” — The hand-off · Kat · Season 24
+- She was the one taken away, by a transport company, to Copper Canyon Academy in Arizona. Her family handed the move to an industry.
+  - *on screen:* She was the one taken away. — By a transport company, to a program in Arizona. The family handed the move to an industry.
+- An institution. A different girl, Katie, was sent to Island View Residential Treatment Center in Utah. Calls home were monitored, and cut off. Before her first call, staff had already told her father:
+  - *on screen:* “She's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior.” — An institution · Katie · Island View · Season 24
+- A whole industry. Six survivors, from several programs, describe the same script: parents told in advance not to believe their child.
+  - *on screen:* The same script, six times. — Six survivors, several programs: parents told in advance not to believe their child.
+- And at Turning Winds in Idaho, after a night staff member sexually abused Molly, who was not yet fourteen, the program punished her:
+  - *on screen:* “They were stripping me of my graduation status and I was going to have to start all over. Which also means that they would get six more months of money out of my mother.” — A whole industry · Molly · Season 24
+- No therapy. Adults only. Everyone in a box. Delete every message. Every other church is disloyal. Handcuffs at three a.m. Don't believe her. Start all over. Eight scales, one job: leave her with no one to turn to.
+  - *on screen:* Eight scales, one job — chips: No therapy, Adults only, Everyone in a box, Delete every message, Other churches: disloyal, Handcuffs at 3 a.m., Don't believe her, Start all over
+- And these are not the only ones. Of the fifty-six stories read move by move, fifteen were outside a romance or a marriage, and four more mixed the two.
   - *on screen:* 56 dots, one per person; 15 turn blue — 15 of 56, outside romance or marriage; Four more mixed the two.
-- The same move, at every scale we looked. Next: institutions that run the moves themselves.
+- The same move, from two people to a whole industry. Next: what these institutions do with the other moves.
   - *on screen:* Fractal. Same move, every scale. — Told Whole · Seasons 1–24
 
