@@ -251,7 +251,7 @@ def main(slug):
     out = f"build/video_{slug}_strip.mp4"
     prev = [float(x) for x in os.environ.get("PREVIEW", "").split(",") if x]
     ff = None if prev else subprocess.Popen(["ffmpeg", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-                          "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p", out], stdin=subprocess.PIPE)
+                          "-c:v", "libx264", "-preset", "medium", "-crf", "28", "-tune", "grain", "-pix_fmt", "yuv420p", out], stdin=subprocess.PIPE)
     frames = [int(x * FPS) for x in prev] if prev else range(nfr)
     for n, fi in enumerate(frames):
         t = fi / FPS
