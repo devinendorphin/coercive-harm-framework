@@ -19,13 +19,14 @@ DISC = (30, 23, 21)
 CAP_INK = (44, 36, 32)
 MUTE = (120, 104, 92)
 BLUE, ORANGE, AQUA, GREY = (57, 110, 190), (214, 110, 44), (40, 150, 120), (150, 140, 130)
-X0, X1, Y0 = 92, 988, 14
-YP, Y1 = (1460, 1906) if FMT == "vertical" else (760, 1066)   # panel bottom, frame bottom
+X0, X1, Y0 = (22, 1058, 22) if FMT == "vertical" else (92, 988, 14)
+YP, Y1 = (1460, 1898) if FMT == "vertical" else (760, 1066)   # panel bottom, frame bottom
 CAPF, CAPL, CAPN = (50, 62, 5) if FMT == "vertical" else (37, 46, 4)
 SC = 1.32 if FMT == "vertical" else 1.0                          # scale for the taller stage
 def z(v): return int(round(v * SC))
 DY = 150 if FMT == "vertical" else 0                             # push content down the taller stage
-TX = 132                                               # text left
+TX = 70 if os.environ.get("STRIP_FMT", "vertical") == "vertical" else 132   # text left
+CW_ = (X1 - X0 - 96) if os.environ.get("STRIP_FMT", "vertical") == "vertical" else 820
 
 FD = "/usr/share/fonts/opentype/inter/"
 FONTS = {"black": FD + "InterDisplay-Black.otf", "xbold": FD + "InterDisplay-ExtraBold.otf", "bold": FD + "Inter-Bold.otf",
@@ -272,7 +273,7 @@ def main(slug):
         else:
             end_card(body, t - tm["dur"], reel)
         fr.paste(body, (0, 0), mask)
-        fr.paste(edges, (0, 0), edges)
+        if FMT != "vertical": fr.paste(edges, (0, 0), edges)     # no sprockets on a vertical frame: no film format is 9:16
         a = np.asarray(fr).astype(np.float32)
         g = GRAIN[fi % len(GRAIN)]; g = np.repeat(np.repeat(g, 2, 0), 2, 1)
         flick = 1 + 0.018 * math.sin(fi * 1.7) + 0.012 * math.sin(fi * 0.37)
@@ -323,7 +324,7 @@ def k_intro(fr, S, t, op, col, at, title_sp, quote_block):
         return
     t2 = t - ta
     d = ImageDraw.Draw(fr, "RGBA")
-    n, k, cols = 398, 83, 30
+    n, k = 398, 83; cols = int((X1 - TX - 40) // z(26))
     import random
     rng = random.Random(3); idx = list(range(n)); rng.shuffle(idx); keep = set(idx[:k])
     cell = z(26); gx, gy = TX, z(250)
@@ -346,7 +347,7 @@ def k_intro(fr, S, t, op, col, at, title_sp, quote_block):
     eg = ease((t - tg) / 0.5)
     if eg > 0:
         GY = 590 if FMT != "vertical" else 1150
-        card(d, TX - 10, GY, 820, 150, "TWO FAMILIES OF CODERS, WORKING APART", op * eg)
+        card(d, TX - 10, GY, CW_, 150, "TWO FAMILIES OF CODERS, WORKING APART", op * eg)
         bw = 520
         for j, (lab, v) in enumerate((("CLAUDE", 0.28), ("CODEX", 0.16))):
             y = GY + 35 + j * 52
@@ -459,19 +460,19 @@ def k_chain(fr, S, t, op, col, at, title_sp, quote_block):
     n = len(sp["steps"]); gap = z(62); h = gap * n + 24
     y0 = yb + 34 + DY
     if sp["phase"] == 1:
-        card(d, TX - 10, y0, 820, h, "ONE STORY, IN ORDER", op)
+        card(d, TX - 10, y0, CW_, h, "ONE STORY, IN ORDER", op)
         chain_steps(fr, S, t, op, col, at, TX + 8, y0 + 26, gap)
         if S["q0"] is not None:
             eq = ease((t - S["q0"] + 0.25) / 0.3)
             if eq > 0:
                 yq = y0 + h + 36
-                fq = font("med", z(30)); nq = len(wrap(S["s"]["quote"], fq, 790))
-                card(d, TX - 10, yq, 820, nq * z(40) + 34, sp["tab"], op * eq)
-                quote_block(fr, S, TX + 10, yq + 20, 790, t, op * eq, fq, z(40))
+                fq = font("med", z(30)); nq = len(wrap(S["s"]["quote"], fq, CW_ - 30))
+                card(d, TX - 10, yq, CW_, nq * z(40) + 34, sp["tab"], op * eq)
+                quote_block(fr, S, TX + 10, yq + 20, CW_ - 30, t, op * eq, fq, z(40))
     else:
         tc = at(S, sp["crop_key"], 2.0); tw_ = at(S, sp["whole_key"], 5.0)
         crop = t >= tc and t < tw_
-        card(d, TX - 10, y0, 820, h, "ONE STORY, IN ORDER", op)
+        card(d, TX - 10, y0, CW_, h, "ONE STORY, IN ORDER", op)
         chain_steps(fr, S, t, op, col, at, TX + 8, y0 + 26, gap, dim_except=n - 1 if crop else None)
         if crop: bars(fr, sp["crop"], TX - 10, y0 + h + 30, t - tc, op, z(32))
         if t >= tw_: bars(fr, sp["whole"], TX - 10, y0 + h + 30, t - tw_, op, z(32))
@@ -507,15 +508,15 @@ def k_quote(fr, S, t, op, col, at, title_sp, quote_block):
     if S["q0"] is not None:
         eq = ease((t - S["q0"] + 0.25) / 0.3)
         if eq > 0:
-            f = font("med", z(40)); nl = len(wrap(S["s"]["quote"], f, 760))
-            card(d, TX - 10, yb + 50 + DY, 820, nl * z(54) + 60, sp["tab"], op * eq)
-            quote_block(fr, S, TX + 14, yb + 80 + DY, 760, t, op * eq, f, z(54))
+            f = font("med", z(40)); nl = len(wrap(S["s"]["quote"], f, CW_ - 60))
+            card(d, TX - 10, yb + 50 + DY, CW_, nl * z(54) + 60, sp["tab"], op * eq)
+            quote_block(fr, S, TX + 14, yb + 80 + DY, CW_ - 60, t, op * eq, f, z(54))
 
 def k_pass(fr, S, t, op, col, at, title_sp, quote_block):
     sp = S["sp"]; yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA"); tl = at(S, "line", 3.0)
     yb = yb + DY
-    card(d, TX - 10, yb + 30, 820, z(390), "THREE PREDICTIONS, EACH WITH ITS LINE", op)
+    card(d, TX - 10, yb + 30, CW_, z(390), "THREE PREDICTIONS, EACH WITH ITS LINE", op)
     bw = 470
     vcol = {"HOLDS": BLUE, "SPLIT": ORANGE, "NOT DECIDED": GREY}
     for i, (lab, line, val, vt, verdict, sub) in enumerate(sp["items"]):
@@ -534,7 +535,7 @@ def k_pass(fr, S, t, op, col, at, title_sp, quote_block):
             d.text((TX + 10, yb_ + 40), sub.upper() + f"   ·   LINE {int(line * 100)}%", font=font("mono", 14), fill=A(MUTE, op * ev))
         eb = ease((t - tv - 0.8) / 0.25)
         if eb > 0:
-            f = font("black", 24); w = tw(f, verdict) + 24; x = TX + 790 - w
+            f = font("black", 24); w = tw(f, verdict) + 24; x = TX + CW_ - 30 - w
             d.rectangle([x, yb_ - 6, x + w, yb_ + 34], fill=A(vcol[verdict], op * eb), outline=A(INK, op * eb), width=2)
             d.text((x + 12, yb_ - 2), verdict, font=f, fill=A(CREAM, op * eb))
 

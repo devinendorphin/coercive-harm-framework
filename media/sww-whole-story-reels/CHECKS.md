@@ -285,3 +285,9 @@ From a frame-by-frame review (Endorphin's message):
   rifles" (S9 E6: "We had four or five rifles in our home"), and "His text to her stepmother: 'too vague'".
   It is labelled as her testimony, not as filed evidence, because the petition's contents are not in the
   record.
+
+### Reel 01 filmstrip, vertical: sprockets removed (2026-11-16)
+
+Endorphin: the sprockets come out, because a vertical frame is anachronistic: no film format is 9:16.
+The vertical cut drops the film edges and their micro text, widens the frame to the full canvas (22 px
+margin), and keeps the grain, flicker, scratches and warm print. The square cut keeps its edges.
