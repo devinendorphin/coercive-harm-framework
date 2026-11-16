@@ -185,3 +185,35 @@ institution, a whole industry. New or changed lines:
 Institutions are named under S-21 (Copper Canyon Academy, Island View RTC, Turning Winds). No individual
 perpetrator, staff member or transport worker is named. The close read's E07 actor error is corrected in
 `research/sww-corpus/close-read/S24.md`.
+
+## Reels 01 and 02 rebuilt, reel 03 re-rendered (2026-11-16), from the locked ladders (`LADDER-01-02.md`)
+
+**Reel 01** (thesis first): one in five protected; all seven institutions in active voice; the S14 case as
+the pieces-vs-whole scene; then the method, the director's reason and the three predictions. The blinding
+breach and the evidence-wording card moved to arc 7.
+
+| Rung | Quote and location | Coders' `evidence_types` |
+|---|---|---|
+| Court | Danielle, of the judge: "If I had really felt threatened I would have left the first time he made a threat, or I would have removed the guns the first time he made a threat." (S9 E7) | CA document_read_on_air, second_witness · CB + record_checked_by_show |
+| School | Riley: "He got in trouble this time, but administration acted as if it had never happened, swept under the rug. I was never asked if I was okay." (S13 E18) | A, B second_witness |
+| Employer | Molly (S11h): "The parents are like, you should have handled it differently." (S11 E8) | CA, CB document_read_on_air, second_witness |
+| Church | Julia: "If somebody disagreed with him or somebody wronged him or like a person left, he would kind of trash their reputation." (S5 E2) | A, B second_witness |
+| Clinic | Brianna: "Their notes say that I had the urge to push at 9:30… the added parts say they encouraged me not to. It says that I claimed that I no longer felt the urge to push." (S23 E10). This replaces "patient declines", which failed the transcript check: that line is original and accurate | CA document_read_on_air, record_checked_by_show · CB + second_witness |
+| Program | Molly (S24 E11, Turning Winds), as in reel 03 | A, B person_account_alone (program) |
+| Police | Melissa, recalling the detective: "I'm going to recommend that you don't press charges. He cried a lot and he just really seemed like he felt bad and if you go forward with these charges it could really ruin his life." (S14 E7). "absolutely, I'm filing charges"; the CPS caseworker: "we don't do that for very many cases". The plea is a record per the show (`close-read/S14.md:27, :133`) | A, B document_read_on_air, second_witness |
+
+**Reel 02.** Strongest acts added, each checked against its transcript:
+- Odessa: "so this is how this is going to go", said on the phone while "he knew I was in labor" (S13 E4).
+- Zoe: "Ryan had sent me a picture of him outside of my apartment door… He had a gun in his hand", while
+  "threatening to kill this new guy" (S13 E13).
+- Emilia: "He would take my keys. He had my glasses. He had my shoes"; of the cut on her leg: "that's on you,
+  that's your fault, you shouldn't have even tried to leave" (S15 E7).
+- Danielle, about her sister: "I know people they can plant drugs on her and make sure she gets fired from her
+  job" (S9 E2), said when her family exposed his false identity. The fake subpoena is in her words: "It was
+  fraudulent… clearly just a form he downloaded online and is not a court order"; the host gave him her phone
+  number and address (S9 E8). The judge's reasoning (S9 E7).
+
+Cut: "Where the claim breaks… some deceivers simply ran"; the 36-of-43 audit card (to arc 7); the label on
+the 56-story counts, which now carry none. The definitions name no gender for the one doing it.
+
+**Reel 03**: re-rendered with no content change.
