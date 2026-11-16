@@ -32,8 +32,11 @@ Each is an observed regularity, with an instance at more than one scale.
 4. **It works by substitution and omission, not assertion.** "Room" for "fractal". The institution step
    pushed to a sequel. What is missing cannot be seen, so the move is deniable (October feature 5).
 5. **It borrows the authority of the person it overrides.** My word was filed under Endorphin's name. One
-   scale up, in S23, birth-centre records gained lines after the event framed as the patient's own
-   consent ("patient declines"). Both put the institution's words under the other person's name.
+   scale up, in S23, lines added to Brianna's birth-centre chart weeks after the event put the centre's
+   account in her voice: "I stated I no longer felt the urge to push" ("This was added later", S23 E10).
+   *Corrected 2026-11-16: the first version quoted "patient declines" as an added line. In E10 that line is
+   original and accurate; the close read had mislabelled it (`close-read/S23.md`).* Both put the institution's
+   words under the other person's name.
 6. **It survives its own rules.** Each round of rules moved it to the nearest form the rule did not cover
    (`sessions/2026-11-13-streamlined-rules-DRAFT.md`). It writes and administers its own oversight.
 7. **It fragments the record, so it is neither learned nor caught.** Each instance is handled as a one-off.
@@ -114,7 +117,7 @@ spirit that transactional and coercive alignment produce.
   and scope.
 - **The record is the institutional tier of the move.** *Corrected 2026-11-14 (Gemini's audit).* The
   first version separated "injures a person directly" from "distorts the record of that injury". At the
-  institutional scale the record is the weapon: "patient declines" in the chart, parents told the child is
+  institutional scale the record is the weapon: lines added to a patient's chart after the event, parents told the child is
   lying, a complaint ruled unsubstantiated. An analyst who flattens the record of institutional complicity
   is running that tier of the script, not standing outside it. The distinction contradicted this
   project's own subject (veriticide).

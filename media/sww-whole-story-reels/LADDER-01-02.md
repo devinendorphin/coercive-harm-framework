@@ -101,3 +101,9 @@ two-year-old (a record per the show, not found in a public web search: `close-re
 into pieces, the plea counts as the system working. Followed whole, the protection came from the mother and
 a caseworker, against the detective. That is the third prediction (who did the decisive work). Proposed:
 the pieces scene uses this case for that point.
+
+**Correction (2026-11-16, transcript check before prose).** The Clinics row's act, "Added after the fact:
+'patient declines'", failed the check. In S23 E10 that line is original and accurate. The added lines include
+"I stated I no longer felt the urge to push" ("This was added later") and "patient grunting with
+contractions told to listen to her body, no coached pushing at this time". Reel 01 uses those
+(`close-read/S23.md` corrected).

@@ -139,8 +139,9 @@ Claude's, or shared) is recorded in `sessions/2026-11-13-standing-rule-workaroun
   to compare" without running the comparison. Both hedges ran against the thesis while reel 02 had used 14
   re-read stories to downgrade it. Before a hedge goes in, it has to rest on a test that was run; otherwise it is cut. *(Endorphin,
   2026-11-15: the clause "or name the one that wasn't" was Claude's addition and is deleted; it let a hedge
-  in by naming an untested test.)* The same rule reaches the other face of the resemblance: figures
-  that look measured but were not (first-coded counts shown as findings).
+  in by naming an untested test.)* *(Endorphin, 2026-11-16: a further Claude-added sentence, "The same rule reaches the other face of the
+  resemblance: figures that look measured but were not (first-coded counts shown as findings)", is deleted;
+  it was used to keep a disclaimer on the 56-story counts.)*
   **Refinement (Endorphin, same day): "even measuring is not rigor, and asking for it is the hedging."** A
   limit statement is rigor only when it bounds a claim actually made. Reel 03 v2 ended on "six rooms, not a
   rate… not measured here"; the reel claims the same move in six rooms, which the cases establish, and claims
@@ -165,3 +166,36 @@ Claude's, or shared) is recorded in `sessions/2026-11-13-standing-rule-workaroun
   (`[ESTABLISHED]` / `[SUPPORTED]` / `[HYPOTHESIS]` / `[NORMATIVE]`) applies in the research ledger, the docs
   and the audit files, not as inline disclaimers in spoken reel scripts. S-26 still governs public wording:
   convictions and records are stated as such, and quotes are attributed to the person who said them.
+
+---
+
+## Clauses Claude drafted inside rules that are Endorphin's (listed 2026-11-16, for Endorphin's review)
+
+Claude wrote the wording of every rule. These clauses add to what Endorphin directed or dictated.
+**Allowance** = a clause that lets a hedge, a doubt or a narrowing in. Nothing here has been changed.
+
+| Rule | Claude-drafted clause | Kind |
+|---|---|---|
+| S-6 | "NOT reductive identity. Forward only." | Allowance (limits the geopolitical rung) |
+| S-7 | "reframed as process-as-weapon mitigation. Expedite the process, never the proof." | Constraint (Endorphin's direction was to keep the track) |
+| S-16 | "Read the vector from relationship-specific objective indicators, NEVER group identity." | Constraint |
+| S-19 | "Contrasting cases *locate the scope* of a pattern." | Allowance (contrast cases bound the claim) |
+| S-20 | "Whether a particular override is justified is a separate question, and the burden sits with the overrider" | Allowance (opens a justification route) |
+| S-22 | "The check on machine coders is a machine framing test." | Method |
+| S-23 | "summaries, notes and keyword counts may help find material" | Allowance |
+| S-24 | "records are read by hand only to check them (matching, disconfirming samples, published quotations)" | Constraint |
+| S-26 | "mislabelling corroborated testimony as uncorroborated repeats the lack of care…" | Explanation |
+| S-28 | "or if one is actually decisive"; the three examples (S7 memory slip, medical-rescue ruling, canary) | Allowance; evidence |
+| S-29 | "State what is unknown, how much, and what would settle it"; the track-record sentence | Allowance; evidence |
+| S-30 | "Grade evidence compactly, and gather the breaks into one short edges segment after the thesis, never interleaved"; "Hedging that buries a claim is itself a version of the move" | **Allowance (the edges-segment slot)**; explanation |
+| S-31 | All of S-31 as first written, and the amendment's explanatory text after Endorphin's quote | Process |
+| S-32 | "A claim sitting at its grade (for example `[HYPOTHESIS]`) stays there until something rests on it." | Allowance (holds Endorphin's claims at their grade) |
+| S-33 | "Ask the open question, then work from Endorphin's own rubric when it is stated" | Procedure |
+| S-34 | "Before a hedge goes in, it has to rest on a test that was run; otherwise it is cut."; the refinement's gloss, "A limit statement is rigor only when it bounds a claim actually made" | **Allowance (both admit hedges)** |
+| S-35 | "Repetition of a settled caveat reads as its opposite, and is the resemblance of rigor S-34 cuts." | Explanation |
+| S-36 | All the operational wording, from Claude's sentence that Endorphin adopted; "names any word in the critique that overstates it" | Procedure |
+| S-37 | "The strongest-documented-act column is a search for the strongest documented item against that actor; whether the reel uses it is visible in the table." | Procedure |
+| S-38 | "S-26 still governs public wording: convictions and records are stated as such…" | Constraint |
+
+Not determinable from the record: whether S-26's "Public pieces are visual (people, timelines, shapes), not
+bare figures" is Endorphin's wording.
