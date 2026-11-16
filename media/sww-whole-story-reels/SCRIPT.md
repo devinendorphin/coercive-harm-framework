@@ -1,43 +1,50 @@
 # TOLD · WHOLE — reel scripts
 
-*What institutions did for the people of Something Was Wrong, Seasons 1–26. 3 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Source: `research/sww-corpus/results/whole_story/RESULTS.md` (branch `ccr-f78b372d-8qdcn9`). Made one reel at a time. Survivors keep the show's names; no perpetrator or uncharged person is named. Testimony as broadcast: allegations, not verdicts.*
+*What institutions did for the people of Something Was Wrong, Seasons 1–26. 3 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Source: `research/sww-corpus/results/whole_story/RESULTS.md` (branch `ccr-f78b372d-8qdcn9`). Made one reel at a time. Survivors keep the show's names; no perpetrator or uncharged person is named. Evidence is graded in the wording (S-26): convictions and records are stated as such, and quotes are attributed to the person who said them.*
 
-## 01 · Intro  (185 s)
+## 01 · Intro  (268 s)
 
-- Something Was Wrong is a podcast where people tell what was done to them, and what happened after. Across twenty-six seasons, of the people who went to an institution for help, about one in five ended up protected.
-  - *on screen:* One in five. — Told Whole · Something Was Wrong, Seasons 1–26
-- Each dot is a person who reached an institution. These are the ones who ended up protected. Two families of A.I. coders read every episode, working apart. For both, it stayed under one in three.
-  - *on screen:* 398 dots, one per person; 83 turn blue — 1 in 5, ended up protected: 83 of 398 people (Claude coders 28% · Codex coders 16%); 
-- They went to the police, the courts, schools, employers, churches, clinics, and programs for teenagers. Here is what some of those institutions did.
-  - *on screen:* Where they went — chips: Police, Courts, Schools, Employers, Churches, Clinics, Programs
-- A court. Danielle asked a judge for protection from a man who had threatened her family. The judge did not find her credible. In Danielle's words, the judge said:
-  - *on screen:* “If I had really felt threatened I would have left the first time he made a threat, or I would have removed the guns the first time he made a threat.” — A court · Danielle · Season 9
-- A school. Twice, someone reported Riley's teacher to the school. The second time:
-  - *on screen:* “He got in trouble this time, but administration acted as if it had never happened, swept under the rug. I was never asked if I was okay.” — A school · Riley · Season 13
-- An employer. Molly was a nanny. Day after day, the family's child raged at her, sometimes physically. She went to the parents:
-  - *on screen:* “The parents are like, you should have handled it differently.” — An employer · Molly · Season 11
-- A church. Julia's pastor, on anyone who crossed him, or left:
-  - *on screen:* “If somebody disagreed with him or somebody wronged him or like a person left, he would kind of trash their reputation.” — A church · Julia · Season 5
-- A birth centre. Brianna downloaded her chart a few days after her son was born. A month later, it had new lines, in her voice:
-  - *on screen:* “Their notes say that I had the urge to push at 9:30 around that time, but their edited notes, the added parts say they encouraged me not to. It says that I claimed that I no longer felt the urge to push.” — A clinic · Brianna · Season 23
-- A program for teenagers. At Turning Winds in Idaho, after a night staff member sexually abused Molly, who was not yet fourteen, the program punished her:
-  - *on screen:* “They were stripping me of my graduation status and I was going to have to start all over. Which also means that they would get six more months of money out of my mother.” — A program · Molly · Season 24
-- An earlier pass cut the episodes into short pieces and judged each response alone. Judged that way, most responses looked reasonable.
+- Something Was Wrong is a podcast where people tell what was done to them, and what happened after. Across twenty-six seasons, of the people who went to an institution for help, about one in five ended up protected. Each dot is a person who reached an institution. Two families of A.I. coders read every episode, working apart. For both, it stayed under one in three.
+  - *on screen:* 398 dots; all but 83 go dark — 1 in 5 protected; gauges Claude coders 28%, Codex coders 16% under a 1 in 3 line
+- They went to the police, the courts, schools, employers, churches, clinics, and programs for teenagers. Here is what those institutions did.
+  - *on screen:* ladder of institutions: Police, Courts, Schools, Employers, Churches, Clinics, Programs
+- The police. The father of Melissa's two-year-old daughter hit her. A detective interviewed him for two hours, then told Melissa:
+  - *spoken quote:* “I'm going to recommend that you don't press charges. He cried a lot and he just really seemed like he felt bad and if you go forward with these charges it could really ruin his life.”
+  - *on screen:* incident report (Case: assault on a 2-year-old), interview clock, stamp: RECOMMENDATION: DO NOT CHARGE
+- A court. Danielle asked a judge for a restraining order against a man who had threatened her family. The judge called his text to her stepmother too vague to be a credible threat, and dismissed the case. In Danielle's words, the judge said:
+  - *spoken quote:* “If I had really felt threatened I would have left the first time he made a threat, or I would have removed the guns the first time he made a threat.”
+  - *on screen:* petition (Petition for restraining order · Danielle · S9), evidence: Evidence: his text to her stepmother, stamp: DISMISSED · NOT CREDIBLE
+- A school. Twice, someone reported Riley's teacher to the school. She was in high school. The second time, he got in trouble, and then he told her to delete every message. In Riley's words:
+  - *spoken quote:* “He got in trouble this time, but administration acted as if it had never happened, swept under the rug. I was never asked if I was okay.”
+  - *on screen:* two reports swept under a line; messages deleted; counter: Times she was asked if she was okay: 0
+- An employer. Molly was a nanny. Day after day, the family's child raged at her, sometimes physically. She went to the parents. They told her:
+  - *spoken quote:* “You should have handled it differently.”
+  - *on screen:* shift grid (Mon, Tue, Wed, Thu, Fri); arrow up to Employers · the parents, back down to Molly · the nanny
+- A church. Julia worked for her church, and rented her home from its members. Her pastor, on anyone who crossed him, or left:
+  - *spoken quote:* “If somebody disagreed with him or somebody wronged him or like a person left, he would kind of trash their reputation.”
+  - *on screen:* ring of members around The pastor (work · rent · worship); one leaves; lines broadcast: reputation trashed
+- A birth centre. Brianna downloaded her chart a few days after her son was born. A month later, it had new lines, written in her voice. In her words:
+  - *spoken quote:* “Their notes say that I had the urge to push at 9:30 around that time, but their edited notes, the added parts say they encouraged me not to. It says that I claimed that I no longer felt the urge to push.”
+  - *on screen:* chart diff: Chart · downloaded a few days after the birth → Chart · about a month later; added: encouraged to rest and not push; patient stated she no longer felt the urge to push — Added later, in her voice
+- A program for teenagers. At Turning Winds in Idaho, a night staff member sexually abused Molly, who was not yet fourteen. Then the program punished her:
+  - *spoken quote:* “They were stripping me of my graduation status and I was going to have to start all over. Which also means that they would get six more months of money out of my mother.”
+  - *on screen:* status card (Turning Winds · Idaho · Molly, under 14): Graduate → Stripped · start all over; Reported: a night staff member's sexual abuse; + six months of fees · billed to her mother
+- An earlier pass cut the episodes into short pieces and judged each response alone. Judged that way, sixty-three percent of single responses looked reasonable.
   - *on screen:* 100 squares fly together; 63 turn blue — 63%, of single responses looked appropriate, judged one piece at a time
-- Followed whole, one story shows what the pieces miss. The father of Melissa's two-year-old daughter hit her. A detective interviewed him for two hours, then called Melissa:
-  - *on screen:* “I'm going to recommend that you don't press charges. He cried a lot and he just really seemed like he felt bad and if you go forward with these charges it could really ruin his life.” — The police · Melissa · Season 14
-- She filed anyway. A child-protection caseworker asked the police to reconsider, something that office does in very few cases. He pleaded guilty to assaulting his daughter. Cut into pieces, the plea counts as the system working. Followed whole, the protection came from a mother and a caseworker, against the detective.
-  - *on screen:* timeline: The detective: don't press charges → Melissa files anyway [her work] → A caseworker asks police to reconsider [“a card we pull so few times”] → He pleads guilty [cut into pieces: the system worked]
-- So this time, every person's story was followed whole. From the harm, through every institution they reached, in order, to how it ended for them.
-  - *on screen:* timeline: The harm → The police → A court → An employer → How it ended for the person [followed to the last episode]
-- The reading was done by A.I. coders, two families, working apart. Not people. The project's director gave the reason.
-  - *on screen:* two columns of text scroll apart (Coder 1 | Coder 2) — Every episode read in full, by two machine coders working apart.
-- In his words: the human institution and the human individual are both highly vulnerable to the bad faith aspects of language.
-  - *on screen:* “The human institution and the human individual are both highly vulnerable to the bad faith aspects of language.” — Endorphin, project director
-- Before any result came in, three predictions were written down, each with the line that would prove it wrong.
-  - *on screen:* Written down first: Fewer than 4 in 10 end up protected (line: 40%); 3 in 10 or more meet disbelief, blame or self-protection (line: 30%); When protection comes, the person or their people did the decisive work at least half the time (line: 50%)
+- Followed whole, that same police story shows what the pieces miss. After the detective told Melissa not to press charges, she filed anyway. A child-protection caseworker asked the police to reconsider. In Melissa's words, the caseworker told her:
+  - *spoken quote:* “We pull that card so few times in all of our cases.”
+  - *on screen:* story chain: The detective: don't press charges, it could ruin his life → Melissa files anyway → A caseworker asks the police to reconsider
+- He pleaded guilty to assaulting his daughter. Cut into pieces, the plea counts as the system working. Followed whole, the protection came from a mother and a caseworker, against the detective.
+  - *on screen:* story chain: The detective: don't press charges, it could ruin his life → Melissa files anyway → A caseworker asks the police to reconsider → He pleads guilty — Snapshot: the system worked / Whole story: a mother and a caseworker, against the detective
+- So every person's story was followed whole, from the harm, through every institution they reached, to how it ended for them. The reading was done by two families of A.I. coders, working apart. Not people.
+  - *on screen:* two columns tracing whole stories: Claude family | Codex family
+- The project's director gave the reason:
+  - *spoken quote:* “The human institution and the human individual are both highly vulnerable to the bad faith aspects of language.”
+  - *on screen:* spoken quote, kinetic — Endorphin, project director
+- Before any result came in, three predictions were written down, each with the line that would prove it wrong. The first held: about one in five, far under the line. The second split between the two families of coders. The third is not decided.
+  - *on screen:* predictions: Fewer than 4 in 10 end up protected (line: under 40%): 21%, HOLDS; 3 in 10 or more meet disbelief, blame or self-protection (line: 30% or more): 31%, SPLIT; When protection comes, the person or their people did the decisive work at least half the time (line: 50% or more): 43%, NOT DECIDED
 - From two people, to the institutions they turned to: the same moves. Next: the moves themselves.
-  - *on screen:* Same moves. Every scale. — Told Whole · Something Was Wrong, Seasons 1–26
+  - *on screen:* rings out: 2 people → Family → Workplace → School → Church → Clinic · program → Court · police — SAME MOVES. EVERY SCALE.
 
 ## 02 · Same Moves  (189 s)
 
