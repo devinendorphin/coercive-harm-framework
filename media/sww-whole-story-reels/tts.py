@@ -52,8 +52,9 @@ for reel in REELS:
             qwords, ch, t = synth(sc["quote"], t, room)
             chunks += ch
         scenes.append({"start": start, "end": t, "words": words, "qwords": qwords})
-        chunks.append(np.zeros(int(gap * SR), np.float32))
-        t += gap
+        g = 2.0 if (reel.get("kinetic") and sc.get("quote")) else gap
+        chunks.append(np.zeros(int(g * SR), np.float32))
+        t += g
     chunks.append(np.zeros(int(TAIL * SR), np.float32))
     audio = np.concatenate(chunks)
     sf.write(f"build/voice_{reel['slug']}.wav", audio, SR)

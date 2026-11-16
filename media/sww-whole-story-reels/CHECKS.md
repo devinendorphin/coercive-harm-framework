@@ -247,3 +247,20 @@ pre-registered predictions with the measured results animated against their line
   for the church and rented from its members (S5 E2).
 - **Voice.** Only one Kokoro voice is installed, and a second voice could read as the survivor speaking. So
   quotes use the narrator's voice with a room-tone shift.
+
+## Reel 01 filmstrip (2026-11-16): in the visual language of the veriticide "Veriticide Stack" filmstrip
+
+Endorphin: use the veriticide filmstrip as a template, varying freely, "so it's a form of what we are
+illustrating there as well". The template's source is not in either repo (the ledger's `media/ledger-film`
+is a different film), so `render_strip.py` rebuilds the look from the video:
+- 1080×1080 square frame between sprocketed film edges, with grain, flicker and the occasional scratch.
+- A coloured panel per section and a cream caption strip carrying the narration sentence, "FRAME NN · …",
+  and a pill row (here, the seven institutions).
+- Cream display type with a drop shadow; ledger cards with black tabs; black punchline bars.
+- The black disc with nested, numbered arcs. In the template the arcs are the six tiers of the stack; here
+  they are the seven institutions, filling one per frame.
+
+Content is reel 01 v5 unchanged (same narration, quotes, checks and departures, above), laid out per frame in
+`strip_01.py`. Quotes are spoken and reveal on a ledger card as they are spoken; the caption strip shows the
+attribution meanwhile. Each quote scene holds 2 s after the quote so the punchline bar can be read (this
+also lengthens the vertical cut if it is rebuilt). Output: `out/reel_01_intro_filmstrip.mp4`.
