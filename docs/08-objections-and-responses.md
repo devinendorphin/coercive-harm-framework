@@ -566,6 +566,17 @@ definition drift, priming, re-reader overcorrection), and the size of the overco
 all 56. The C4 direction question (outward only, or both ways) is the operator's to rule; it moves the rate between
 16 % and 21 %. → audit file; CODEBOOK amendment 7; reel 02 v5.
 
+### OBJ-033 — "Your objective foreseeability nexus is *People v Register* again, and New York spent twenty years undoing that." *(raised by the Article 120 research, 2026-11-16)*
+**Persona:** criminal-defense appellate lawyer. **Status:** `OPEN, MITIGATED BY DESIGN`
+*Register* (1983) read depraved indifference as an objective assessment of the circumstances. Prosecutors then used it
+to charge one-on-one intentional killings without proving intent, until *Payne* (2004), *Suarez* (2005) and *Feingold*
+(2006) made it a culpable mental state ("utter disregard for the value of human life"). S-9's nexus is deliberately
+objective (doc 04 §0). *Response:* the nexus governs the **kind of conduct**, not the actor's mind. The criminal tier
+keeps **subjective recklessness** as a separate gate (S-13), which is the § 120.20 structure that survived, not
+Register's § 120.25 reading. *Unresolved:* whether, in practice, charging decisions would treat a strong objective
+nexus as proof of recklessness (the same slide Register enabled). The test: in drafting, require independent evidence of
+the actor's awareness, never inferred from the pattern's foreseeability alone. → `research/reckless-endangerment-depraved-indifference.md`.
+
 ## How to use this ledger
 
 - `/steelman <doc>` adds new objections here per persona and updates statuses.

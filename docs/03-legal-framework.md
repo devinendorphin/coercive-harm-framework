@@ -119,6 +119,10 @@ around the couple, not the household. [the framework's own seed case is uncovere
   (no harm required), so a false accuser need only allege the *pattern*, not prove
   *harm* — a both-victims expansion. `[NORMATIVE]` `NEEDS-LIBERTY-REVIEW` (the
   endangerment structure is unreviewed; do not treat as cleared).
+  *Worked precedent (2026-11-16):* NY PL § 120.20 / § 120.25 punish risk creation
+  with no completed harm, and the *Register* → *Feingold* history shows how an objective
+  "circumstances" test gets stretched by prosecutors. See
+  `research/reckless-endangerment-depraved-indifference.md` and OBJ-033. [SUPPORTED]
 
 ## 3. "Psychological / coercive homicide" — aspiration, not a chargeable offense yet
 
