@@ -61,3 +61,43 @@ transcript before it goes into prose.
    card (wording, not tags; S-38).
 5. **Close on the fractal.** "One piece at a time" becomes the series line: the same moves, from two people
    to the institutions people turned to.
+
+---
+
+## Revision 2 (2026-11-16), after Endorphin's corrections, transcript-checked
+
+Changes accepted: (1) the 56-story counts carry no label; coder details go to arc 7. (2) The blinding
+breach and the evidence-wording card move from reel 01 to arc 7. (3) All seven institutions go in reel 01,
+in active voice. (4) Chat tables carry every S-37 column.
+
+### Reel 02
+
+| Move | Actor (Subject) | Active Verb | Target (Object) | Strongest Documented Act | Source File:Line | In revised reel |
+|---|---|---|---|---|---|---|
+| 1 Bind | several | bound | each target | Tailored personas: a medical student to one woman, a near-billionaire to another | `close-read/S09.md:29` | Chips |
+| 2 Devalue | Odessa's husband | wounded, to silence | Odessa | His own account of hurting her "to get you to leave me alone" | `close-read/S13.md:52` | Yes |
+| 3 Isolate | Zoe's former manager | isolated, then threatened | Zoe | Forbade other jobs; after she left, sent her a photo of himself outside her apartment door, gun in hand, threatening to kill her new boyfriend | `close-read/S13.md:53, :61`; S13 E13 | Both |
+| 4 Poison the wells | Sarah's former fiancé | invented, poisoned | Sarah and her family | Invented "Kimmy" to turn her against her family | `close-read/S01.md:36` | Yes |
+| 5 Discard, and return | Emilia's former partner | held | Emilia | Took her keys, glasses and shoes; "you are not gonna leave"; of the gash on her leg: "that's on you… you shouldn't have even tried to leave" | `close-read/S15.md:60`; S15 E7 | Yes, after block and unblock |
+| 6 When she leaves | Danielle's former partner | threatened | Danielle's family | "You guys needed to let me see my daughter or else nobody in this family is gonna be safe" | `close-read/S09.md:35` | Yes |
+| 6, one scale up | A judge | discredited, denied | Danielle | "If I had really felt threatened I would have left the first time he made a threat" | `close-read/CROSS-SEASON.md:311`; S9 E7 | Yes |
+
+### Reel 01
+
+| Institution | Actor (Subject) | Active Verb | Target (Object) | Strongest Documented Act | Source File:Line | In revised reel |
+|---|---|---|---|---|---|---|
+| Police | A sheriff's detective (S14) | advised against charging | Melissa, for her two-year-old | "He cried a lot and he just really seemed like he felt bad… it could really ruin his life" | `close-read/S14.md:121`; S14 E7 | Yes |
+| Courts | A judge (S9) | discredited | Danielle | "If I had really felt threatened I would have left the first time" | `close-read/CROSS-SEASON.md:311`; S9 E7 | Yes |
+| Schools | Riley's school administration (S13) | buried | Riley | "Acted as if it had never happened, swept under the rug. I was never asked if I was okay" | S13 E18 | Yes |
+| Employers | Molly's employers (S11h) | blamed | Molly, their nanny | After their child's assaults on her: "you should have handled it differently" | `close-read/S11.md:221`; S11 E8 | Yes |
+| Churches | Julia's pastor (S5a) | trashed | anyone who left | "If… a person left, he would kind of trash their reputation" | `close-read/S05.md:33`; S5 E2 | Yes |
+| Clinics | A birth centre (S23) | rewrote | patients' charts | Added after the fact: "patient declines" | `close-read/S23.md:33`; S23 E10 | Yes |
+| Programs | Turning Winds (S24) | punished | Molly, under 14 | Stripped her graduate status after a staff member abused her: "six more months of money out of my mother" | S24 E11 | Yes |
+
+**The pieces scene.** The traced S14 case does not end unprotected, so it cannot stand in for the old
+hypothetical as written. Melissa filed anyway ("absolutely, I'm filing charges"). A CPS caseworker asked
+police to reconsider ("a card we pull so few times"). He pleaded guilty in 2017 to assaulting his
+two-year-old (a record per the show, not found in a public web search: `close-read/S14.md:27, :133`). Cut
+into pieces, the plea counts as the system working. Followed whole, the protection came from the mother and
+a caseworker, against the detective. That is the third prediction (who did the decisive work). Proposed:
+the pieces scene uses this case for that point.
