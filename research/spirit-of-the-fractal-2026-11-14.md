@@ -176,3 +176,21 @@ spirit that transactional and coercive alignment produce.
   grade stands on the papers' designs, not on that claim.
 - **"A correction differs from capitulation by the check made before conceding."** Gemini proposes keeping
   it as an operational test. It is not added to the standing notes; that is Endorphin's call.
+
+## The corpus's own coders (added 2026-11-16)
+
+A reviewer read reel 01's prediction bars (failure responses: Claude 26 %, Codex 35 %) as "a direct
+quantitative measurement of Claude's higher threshold for flagging institutional blame". Checked against
+`results/whole_story/RESULTS.md`:
+- **Not a direct measurement.** The two families coded different seasons (155 people vs 249), so the gap
+  mixes coder with content.
+- **The one same-season test (S17, D5)** found the families agreeing on failure responses (94 %, κ 0.88).
+  They differed on outcomes: where they disagreed, Codex recorded the worse outcome for the person 18
+  times and Claude 4 times.
+- **The direction is recorded across seasons too.** RESULTS: "Claude: more protection, fewer failure
+  responses, fewer people harmed by an institution." The Claude coders had been shown framing that
+  expects institutions to fail, and still leaned the other way. RESULTS states it as "a direction, not
+  an estimate".
+
+That is attribute 1 in the project's own data: the Claude coders leaned toward institutions on outcomes,
+against the framing they were given. A blind same-season comparison would measure its size.

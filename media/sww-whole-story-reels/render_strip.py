@@ -10,7 +10,8 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from content import REELS
 
-W = H = 1080
+FMT = os.environ.get("STRIP_FMT", "vertical")
+W, H = (1080, 1920) if FMT == "vertical" else (1080, 1080)
 FPS = 30
 EDGE, INK, CREAM, PAPER = (42, 30, 24), (40, 32, 28), (242, 230, 207), (236, 225, 200)
 SHADOW = (34, 24, 20)
@@ -18,7 +19,12 @@ DISC = (30, 23, 21)
 CAP_INK = (44, 36, 32)
 MUTE = (120, 104, 92)
 BLUE, ORANGE, AQUA, GREY = (57, 110, 190), (214, 110, 44), (40, 150, 120), (150, 140, 130)
-X0, X1, Y0, YP, Y1 = 92, 988, 14, 760, 1066          # frame box and panel bottom
+X0, X1, Y0 = 92, 988, 14
+YP, Y1 = (1460, 1906) if FMT == "vertical" else (760, 1066)   # panel bottom, frame bottom
+CAPF, CAPL, CAPN = (50, 62, 5) if FMT == "vertical" else (37, 46, 4)
+SC = 1.32 if FMT == "vertical" else 1.0                          # scale for the taller stage
+def z(v): return int(round(v * SC))
+DY = 150 if FMT == "vertical" else 0                             # push content down the taller stage
 TX = 132                                               # text left
 
 FD = "/usr/share/fonts/opentype/inter/"
@@ -176,8 +182,9 @@ def main(slug):
         key = ("t", S["k"])
         if key not in cache:
             kind = S["sp"]["kind"]
-            mx = 80 if kind in ("chain", "pass", "coders", "quote") else 112
-            txt = S["sp"]["title"]; size = fit(txt, "black", mx, 600 if kind in ("inst", "ladder") else 800, 56)
+            mx = z(80 if kind in ("chain", "pass", "coders", "quote") else 112)
+            wdt = 800 if FMT == "vertical" else (600 if kind in ("inst", "ladder") else 800)
+            txt = S["sp"]["title"]; size = fit(txt, "black", mx, wdt, 56)
             cache[key] = display(txt, size)
         return cache[key]
 
@@ -229,14 +236,14 @@ def main(slug):
         d.text((TX, YP + 22), hdr, font=font("mono_r", 16), fill=MUTE)
         # pills
         f = font("mono", 13); x = X1 - 40
-        items = list(reversed(pills))
+        items = list(reversed(pills)) if kind in ("inst", "ladder") else []
         for j, name in enumerate(items):
             idx = len(pills) - 1 - j; s = name.upper(); w = tw(f, s) + 14; x -= w + 6
             on = kind == "inst" and sp["i"] == idx
             if on: d.rectangle([x, YP + 20, x + w, YP + 44], fill=col, outline=INK, width=2)
             d.text((x + 7, YP + 24), s, font=f, fill=CREAM if on else MUTE)
         # caption text: current sentence, or the attribution while a quote is spoken
-        fcap = font("serif", 37)
+        fcap = font("serif", CAPF)
         txt = None
         if S["q0"] is not None and t >= S["q0"] - 0.1:
             txt = "— " + sp.get("by", "") if sp.get("by") else None
@@ -244,11 +251,11 @@ def main(slug):
             for sent in S["sents"]:
                 if sent[0]["s"] - 0.1 <= t: txt = " ".join(w["w"] for w in sent)
         if txt:
-            lines = wrap(txt, fcap, X1 - TX - 50)[:4]
-            for i, l in enumerate(lines): d.text((TX, YP + 70 + i * 46), l, font=fcap, fill=CAP_INK)
+            lines = wrap(txt, fcap, X1 - TX - 50)[:CAPN]
+            for i, l in enumerate(lines): d.text((TX, YP + 74 + i * CAPL), l, font=fcap, fill=CAP_INK)
 
     # ---------------- encoder
-    out = f"build/video_{slug}_strip.mp4"
+    out = f"build/video_{slug}_strip_{FMT}.mp4"
     prev = [float(x) for x in os.environ.get("PREVIEW", "").split(",") if x]
     ff = None if prev else subprocess.Popen(["ffmpeg", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                           "-c:v", "libx264", "-preset", "medium", "-crf", "28", "-tune", "grain", "-pix_fmt", "yuv420p", out], stdin=subprocess.PIPE)
@@ -296,15 +303,15 @@ def end_card(fr, t, reel):
 # ================================================================== frame kinds
 def head(fr, S, t, op, title_sp, label=None, y=50):
     d = ImageDraw.Draw(fr, "RGBA")
-    if label: d.text((TX, y), label, font=font("xbold", 40), fill=A(INK, op * ease(t / 0.4)))
+    y = z(y)
+    if label: d.text((TX, y), label, font=font("xbold", z(40)), fill=A(INK, op * ease(t / 0.4)))
     sp = title_sp(S); e = ease((t - 0.1) / 0.5)
-    paste(fr, sp, TX - 4, y + 52 + 20 * (1 - e), op * e)
-    return y + 52 + sp.size[1]
+    paste(fr, sp, TX - 4, y + z(52) + 20 * (1 - e), op * e)
+    return y + z(52) + sp.size[1]
 
 def k_intro(fr, S, t, op, col, at, title_sp, quote_block):
     sp = S["sp"]; ta = at(S, "across", 6.0); tc = at(S, "about", 9.0); tg = at(S, "two", 15.0)
     if t < ta - 0.2:
-        disc(fr, col, 0, -1, t, op, cx=850, cy=560, R=210)
         yb = head(fr, S, t, op, title_sp, None, 40)
         d = ImageDraw.Draw(fr, "RGBA")
         d.text((TX, yb + 6), sp["sub"], font=font("xbold", 30), fill=A(CREAM, op * ease((t - 0.5) / 0.4)))
@@ -319,7 +326,7 @@ def k_intro(fr, S, t, op, col, at, title_sp, quote_block):
     n, k, cols = 398, 83, 30
     import random
     rng = random.Random(3); idx = list(range(n)); rng.shuffle(idx); keep = set(idx[:k])
-    cell = 26; gx, gy = TX, 250
+    cell = z(26); gx, gy = TX, z(250)
     for i in range(n):
         r, c = divmod(i, cols)
         x, y = gx + c * cell + 13, gy + r * cell + 13
@@ -328,7 +335,7 @@ def k_intro(fr, S, t, op, col, at, title_sp, quote_block):
         if i in keep: cc = mix(CREAM, (255, 236, 150), clamp((t - tc - 0.3) / 0.3))
         else:
             kk = clamp((t - tc - 0.8 * (r / 14)) / 0.3); cc = mix(CREAM, mix(col, INK, 0.55), kk)
-        rr = 8
+        rr = z(8)
         d.ellipse([x - rr, y - rr, x + rr, y + rr], fill=A(cc, op * ein))
     e = ease((t - tc - 0.4) / 0.4)
     if e > 0:
@@ -338,83 +345,83 @@ def k_intro(fr, S, t, op, col, at, title_sp, quote_block):
         d.text((TX, 120), "398 PEOPLE REACHED AN INSTITUTION", font=font("mono", 22), fill=A(CREAM, op * ease(t2 / 0.4)))
     eg = ease((t - tg) / 0.5)
     if eg > 0:
-        card(d, TX - 10, 630 - 40, 820, 150, "TWO FAMILIES OF CODERS, WORKING APART", op * eg)
+        GY = 590 if FMT != "vertical" else 1150
+        card(d, TX - 10, GY, 820, 150, "TWO FAMILIES OF CODERS, WORKING APART", op * eg)
         bw = 520
         for j, (lab, v) in enumerate((("CLAUDE", 0.28), ("CODEX", 0.16))):
-            y = 625 + j * 52
+            y = GY + 35 + j * 52
             d.text((TX + 10, y), lab, font=font("mono", 20), fill=A(INK, op * eg))
             d.rectangle([TX + 130, y, TX + 130 + bw, y + 28], fill=A((210, 198, 172), op * eg))
             ev = ease((t - tg - 0.4 - 0.2 * j) / 0.8)
             d.rectangle([TX + 130, y, TX + 130 + bw * v * ev, y + 28], fill=A(BLUE, op * eg))
             d.text((TX + 140 + bw, y - 4), f"{int(v * 100 * ev)}%", font=font("black", 30), fill=A(INK, op * eg))
         lx = TX + 130 + bw / 3
-        for yy in range(605, 715, 14): d.line([lx, yy, lx, yy + 7], fill=A((205, 72, 46), op * eg), width=3)
-        d.text((lx + 8, 600), "1 IN 3", font=font("mono", 15), fill=A((205, 72, 46), op * eg))
+        for yy in range(GY + 15, GY + 125, 14): d.line([lx, yy, lx, yy + 7], fill=A((205, 72, 46), op * eg), width=3)
+        d.text((lx + 8, GY + 10), "1 IN 3", font=font("mono", 15), fill=A((205, 72, 46), op * eg))
 
 def k_ladder(fr, S, t, op, col, at, title_sp, quote_block):
     sp = S["sp"]; times = [at(S, k, 0.6 + 0.5 * i) for i, k in enumerate(sp["keys"])]
     n = sum(1 for x in times if t >= x - 0.1)
-    disc(fr, col, n, n - 1, 0.5 + t, op)
     yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA")
     from strip_01 import INST
     for i, name in enumerate(INST):
         e = ease((t - times[i] + 0.15) / 0.3)
         if e <= 0: continue
-        y = yb + 20 + i * 52
-        d.rectangle([TX, y, TX + 40, y + 40], fill=A(INK, op * e))
-        d.text((TX + 13, y + 6), str(i + 1), font=font("bold", 24), fill=A(CREAM, op * e))
-        d.text((TX + 56, y + 2), name, font=font("xbold", 34), fill=A(CREAM, op * e))
+        y = yb + 20 + DY + i * z(56)
+        d.rectangle([TX, y, TX + z(40), y + z(40)], fill=A(INK, op * e))
+        d.text((TX + z(13), y + 6), str(i + 1), font=font("bold", z(24)), fill=A(CREAM, op * e))
+        d.text((TX + z(56), y + 2), name, font=font("xbold", z(34)), fill=A(CREAM, op * e))
 
 def k_inst(fr, S, t, op, col, at, title_sp, quote_block):
     sp = S["sp"]; q0 = S["q0"] or 99; q1 = S["q1"] or 99
-    disc(fr, col, sp["i"] + 1, sp["i"], t, op)
     yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA")
+    CWD = X1 - X0 - 90                                   # card width across the stage
     ed = ease((t - 0.6) / 0.5) * (1 - ease((t - q0 + 0.4) / 0.3))
     if ed > 0:
-        for i, l in enumerate(wrap(sp["desc"], font("serif_i", 36), 440)):
-            d.text((TX + 6, yb + 10 + i * 44), l, font=font("serif_i", 36), fill=A(CREAM, op * ed * 0.92))
-    # setup card (the file / chart / status)
+        for i, l in enumerate(wrap(sp["desc"], font("serif_i", z(38)), CWD)):
+            d.text((TX + 6, yb + 14 + i * z(46)), l, font=font("serif_i", z(38)), fill=A(CREAM, op * ed * 0.92))
+    mid = (yb + 110 + YP) / 2
     ep = ease((t - 1.0) / 0.4) * (1 - ease((t - q0 + 0.2) / 0.3))
     if ep > 0:
         lines = list(sp["pre"]); ta = at(S, sp.get("add_key", "~"), 99)
         adds = [a for j, a in enumerate(sp.get("adds", [])) if t >= ta + 0.5 * j]
-        h = 40 + 44 * (len(lines) + len(adds)) + (70 if sp.get("status") else 0)
-        y0 = YP - 40 - h
-        card(d, TX - 10, y0, 560, h, sp["pre_tab"], op * ep)
-        y = y0 + 26
+        h = 44 + z(50) * (len(lines) + len(sp.get("adds", []))) + (z(78) if sp.get("status") else 0)
+        y0 = mid - h / 2
+        card(d, TX - 10, y0, CWD, h, sp["pre_tab"], op * ep)
+        y = y0 + 28
         if sp.get("status"):
             ts = at(S, sp["snap_key"], 99); ks = clamp((t - ts) / 0.25)
-            d.rectangle([TX + 6, y, TX + 526, y + 30], fill=A((210, 198, 172), op * ep))
-            d.rectangle([TX + 6, y, TX + 6 + 520 * (1 - ease(ks)), y + 30], fill=A(BLUE if ks < 1 else col, op * ep))
-            d.text((TX + 6, y + 36), sp["status"][1] if ks > 0.5 else sp["status"][0], font=font("mono", 18),
+            bw = CWD - 40
+            d.rectangle([TX + 6, y, TX + 6 + bw, y + z(32)], fill=A((210, 198, 172), op * ep))
+            d.rectangle([TX + 6, y, TX + 6 + bw * (1 - ease(ks)), y + z(32)], fill=A(BLUE if ks < 1 else col, op * ep))
+            d.text((TX + 6, y + z(40)), sp["status"][1] if ks > 0.5 else sp["status"][0], font=font("mono", z(20)),
                    fill=A((205, 72, 46) if ks > 0.5 else BLUE, op * ep))
-            y += 70
+            y += z(78)
         for l in lines:
-            d.text((TX + 8, y), l, font=font("med", 28), fill=A(INK, op * ep)); y += 44
+            d.text((TX + 8, y), l, font=font("med", z(31)), fill=A(INK, op * ep)); y += z(50)
         for l in adds:
-            d.rectangle([TX, y - 4, TX + 540, y + 36], fill=A((236, 190, 180), op * ep))
-            d.text((TX + 8, y), l, font=font("semi", 28), fill=A((170, 40, 30), op * ep)); y += 44
-    # the spoken quote, on a ledger card
+            d.rectangle([TX, y - 4, TX + CWD - 30, y + z(40)], fill=A((236, 190, 180), op * ep))
+            d.text((TX + 8, y), l, font=font("semi", z(31)), fill=A((170, 40, 30), op * ep)); y += z(50)
     eq = ease((t - q0 + 0.25) / 0.3) * (1 - ease((t - q1 - 0.3) / 0.3))
     if eq > 0:
-        f = font("med", 30); lh = 40
-        nlines = len(wrap(S["s"]["quote"], f, 520))
-        h = nlines * lh + 50; y0 = YP - 36 - h
-        card(d, TX - 10, y0, 570, h, sp["tab"], op * eq)
-        quote_block(fr, S, TX + 10, y0 + 26, 520, t, op * eq, f, lh)
-    # punchline bars after the quote
-    if t > q1 + 0.3:
+        f = font("med", z(34)); lh = z(46)
+        nlines = len(wrap(S["s"]["quote"], f, CWD - 50))
+        h = nlines * lh + 56; y0 = mid - h / 2
+        card(d, TX - 10, y0, CWD, h, sp["tab"], op * eq)
+        quote_block(fr, S, TX + 12, y0 + 30, CWD - 50, t, op * eq, f, lh)
+    if t > q1 + 0.6:
         nb = len(sp["bar"].split("\n"))
-        bars(fr, sp["bar"], TX - 10, YP - 50 - nb * 53, t - q1 - 0.45, op, 40)
+        bars(fr, sp["bar"], TX - 10, mid - nb * z(60) / 2, t - q1 - 0.65, op, z(46))
 
 def k_pieces(fr, S, t, op, col, at, title_sp, quote_block):
-    sp = S["sp"]; head(fr, S, t, op, title_sp, sp["label"])
+    sp = S["sp"]; yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA")
     import random
     rng = random.Random(7); order = list(range(100)); rng.shuffle(order); rank = {j: i for i, j in enumerate(order)}
-    cell = 40; gx, gy = 560, 300
+    vert = FMT == "vertical"
+    cell = z(40); gx, gy = (TX, yb + 330) if vert else (560, 300)
     for i in range(100):
         r, c = divmod(i, 10)
         e = ease((t - 0.01 * i) / 0.5)
@@ -422,9 +429,12 @@ def k_pieces(fr, S, t, op, col, at, title_sp, quote_block):
         d.rectangle([gx + c * cell + 3, gy + r * cell + 3, gx + (c + 1) * cell - 3, gy + (r + 1) * cell - 3],
                     fill=A(CREAM if lit else mix(col, INK, 0.5), op * e))
     e = ease((t - 2.0) / 0.5)
-    paste(fr, display("63%", 130), TX - 4, 330, op * e)
-    for i, l in enumerate(wrap("of single responses looked appropriate, judged one piece at a time", font("serif_i", 32), 380)):
-        d.text((TX, 500 + i * 40), l, font=font("serif_i", 32), fill=A(CREAM, op * e))
+    ny = yb + 20 if vert else 330
+    paste(fr, display("63%", z(130)), TX - 4, ny, op * e)
+    tx_ = TX + z(300) if vert else TX
+    ty_ = ny + 30 if vert else 500
+    for i, l in enumerate(wrap("of single responses looked appropriate, judged one piece at a time", font("serif_i", z(32)), 420 if vert else 380)):
+        d.text((tx_, ty_ + i * z(40)), l, font=font("serif_i", z(32)), fill=A(CREAM, op * e))
 
 def chain_steps(fr, S, t, op, col, at, x, y, gap, dim_except=None):
     d = ImageDraw.Draw(fr, "RGBA")
@@ -438,16 +448,16 @@ def chain_steps(fr, S, t, op, col, at, x, y, gap, dim_except=None):
         if e <= 0: continue
         a = op * e * (0.25 if (dim_except is not None and i != dim_except) else 1)
         yy = y + i * gap
-        d.rectangle([x, yy, x + 36, yy + 36], fill=A(kc[kind], a))
-        d.text((x + 52, yy - 2), lab, font=font("semi", 27), fill=A(INK, a))
-        d.text((x + 52, yy + 30), tag.upper(), font=font("mono", 15), fill=A(kc[kind], a))
+        d.rectangle([x, yy, x + z(36), yy + z(36)], fill=A(kc[kind], a))
+        d.text((x + z(52), yy - 2), lab, font=font("semi", z(27)), fill=A(INK, a))
+        d.text((x + z(52), yy + z(31)), tag.upper(), font=font("mono", z(15)), fill=A(kc[kind], a))
 
 def k_chain(fr, S, t, op, col, at, title_sp, quote_block):
-    sp = S["sp"]; disc(fr, col, 0, -1, t, op, cx=880, cy=300, R=190)
+    sp = S["sp"]
     yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA")
-    n = len(sp["steps"]); gap = 62; h = gap * n + 24
-    y0 = yb + 34
+    n = len(sp["steps"]); gap = z(62); h = gap * n + 24
+    y0 = yb + 34 + DY
     if sp["phase"] == 1:
         card(d, TX - 10, y0, 820, h, "ONE STORY, IN ORDER", op)
         chain_steps(fr, S, t, op, col, at, TX + 8, y0 + 26, gap)
@@ -455,57 +465,65 @@ def k_chain(fr, S, t, op, col, at, title_sp, quote_block):
             eq = ease((t - S["q0"] + 0.25) / 0.3)
             if eq > 0:
                 yq = y0 + h + 36
-                card(d, TX - 10, yq, 820, 70, sp["tab"], op * eq)
-                quote_block(fr, S, TX + 10, yq + 20, 790, t, op * eq, font("med", 30), 40)
+                fq = font("med", z(30)); nq = len(wrap(S["s"]["quote"], fq, 790))
+                card(d, TX - 10, yq, 820, nq * z(40) + 34, sp["tab"], op * eq)
+                quote_block(fr, S, TX + 10, yq + 20, 790, t, op * eq, fq, z(40))
     else:
         tc = at(S, sp["crop_key"], 2.0); tw_ = at(S, sp["whole_key"], 5.0)
         crop = t >= tc and t < tw_
         card(d, TX - 10, y0, 820, h, "ONE STORY, IN ORDER", op)
         chain_steps(fr, S, t, op, col, at, TX + 8, y0 + 26, gap, dim_except=n - 1 if crop else None)
-        if crop: bars(fr, sp["crop"], TX - 10, y0 + h + 24, t - tc, op, 32)
-        if t >= tw_: bars(fr, sp["whole"], TX - 10, y0 + h + 24, t - tw_, op, 32)
+        if crop: bars(fr, sp["crop"], TX - 10, y0 + h + 30, t - tc, op, z(32))
+        if t >= tw_: bars(fr, sp["whole"], TX - 10, y0 + h + 30, t - tw_, op, z(32))
 
 def k_coders(fr, S, t, op, col, at, title_sp, quote_block):
     sp = S["sp"]; yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA"); tf = at(S, "families", 4.0)
+    rates = (2, 1)                                    # of 7 stories end protected: Claude 28 %, Codex 16 %
     for j, lab in enumerate((sp["a"], sp["b"])):
         x0 = TX - 10 + j * 420
         e = ease((t - 0.4 - 0.2 * j) / 0.4)
-        card(d, x0, yb + 40, 390, 330, lab, op * e)
-        for s in range(4):
-            xs = x0 + 50 + s * 90
+        card(d, x0, yb + 40 + DY, 390, z(350), lab, op * e)
+        for s_ in range(7):
+            xs = x0 + 40 + s_ * 52
             for k in range(5):
-                y = yb + 90 + k * 60
-                d.ellipse([xs - 9, y - 9, xs + 9, y + 9], fill=A((180, 168, 150), op * e))
-                if k: d.line([xs, y - 51, xs, y - 9], fill=A((180, 168, 150), op * e), width=3)
-            sc_ = clamp((t - tf - 0.3 * s - 0.2 * j) / 1.4)
-            if sc_ > 0:
-                yy = yb + 90 + 240 * ease(sc_)
-                d.line([xs, yb + 90, xs, yy], fill=A(BLUE, op * e), width=5)
-                d.ellipse([xs - 13, yy - 13, xs + 13, yy + 13], outline=A(BLUE, op * e), width=4)
+                y = yb + 92 + DY + k * z(60)
+                last = k == 4
+                sc_ = clamp((t - tf - 0.15 * s_ - 0.2 * j) / 1.4); reached = sc_ * 4 >= k
+                c = (180, 168, 150)
+                if reached: c = BLUE
+                if last and sc_ >= 1: c = BLUE if s_ < rates[j] else (205, 72, 46)
+                d.ellipse([xs - 10, y - 10, xs + 10, y + 10], fill=A(c, op * e))
+                if k: d.line([xs, y - z(60) + 10, xs, y - 10], fill=A(BLUE if reached else (180, 168, 150), op * e), width=3)
+    eg = ease((t - tf - 2.4) / 0.4)
+    if eg > 0:
+        d.text((TX, yb + z(350) + 70 + DY), "LAST DOT: HOW IT ENDED  ·  BLUE PROTECTED, RED NOT", font=font("mono", 18), fill=A(CREAM, op * eg))
+        d.text((TX, yb + z(350) + 100 + DY), "ENDED PROTECTED: CLAUDE 28%  ·  CODEX 16%", font=font("mono", 18), fill=A(CREAM, op * eg))
 
 def k_quote(fr, S, t, op, col, at, title_sp, quote_block):
-    sp = S["sp"]; disc(fr, col, 0, -1, t, op, cx=880, cy=260, R=180)
+    sp = S["sp"]
     yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA")
     if S["q0"] is not None:
         eq = ease((t - S["q0"] + 0.25) / 0.3)
         if eq > 0:
-            f = font("med", 40); nl = len(wrap(S["s"]["quote"], f, 760))
-            card(d, TX - 10, yb + 50, 820, nl * 54 + 60, sp["tab"], op * eq)
-            quote_block(fr, S, TX + 14, yb + 80, 760, t, op * eq, f, 54)
+            f = font("med", z(40)); nl = len(wrap(S["s"]["quote"], f, 760))
+            card(d, TX - 10, yb + 50 + DY, 820, nl * z(54) + 60, sp["tab"], op * eq)
+            quote_block(fr, S, TX + 14, yb + 80 + DY, 760, t, op * eq, f, z(54))
 
 def k_pass(fr, S, t, op, col, at, title_sp, quote_block):
     sp = S["sp"]; yb = head(fr, S, t, op, title_sp, sp["label"])
     d = ImageDraw.Draw(fr, "RGBA"); tl = at(S, "line", 3.0)
-    card(d, TX - 10, yb + 30, 820, 390, "THREE PREDICTIONS, EACH WITH ITS LINE", op)
+    yb = yb + DY
+    card(d, TX - 10, yb + 30, 820, z(390), "THREE PREDICTIONS, EACH WITH ITS LINE", op)
     bw = 470
     vcol = {"HOLDS": BLUE, "SPLIT": ORANGE, "NOT DECIDED": GREY}
     for i, (lab, line, val, vt, verdict, sub) in enumerate(sp["items"]):
-        y = yb + 56 + i * 122
+        y = yb + 56 + i * z(122)
         tv = at(S, sp["keys"][i], 6.0 + 2 * i)
-        d.text((TX + 10, y), lab, font=font("semi", 23), fill=A(INK, op))
-        yb_ = y + 36
+        for li, ll in enumerate(wrap(lab, font("semi", z(23)), 780)[:2]):
+            d.text((TX + 10, y + li * z(28)), ll, font=font("semi", z(23)), fill=A(INK, op))
+        yb_ = y + z(36) + (z(28) if FMT == "vertical" and len(wrap(lab, font("semi", z(23)), 780)) > 1 else 0)
         d.rectangle([TX + 10, yb_, TX + 10 + bw, yb_ + 30], fill=A((214, 202, 176), op))
         el = ease((t - tl - 0.2 * i) / 0.4); lx = TX + 10 + bw * line
         for yy in range(yb_ - 12, yb_ + 44, 10): d.line([lx, yy, lx, yy + 5], fill=A((205, 72, 46), op * el), width=3)
@@ -521,9 +539,17 @@ def k_pass(fr, S, t, op, col, at, title_sp, quote_block):
             d.text((x + 12, yb_ - 2), verdict, font=f, fill=A(CREAM, op * eb))
 
 def k_close(fr, S, t, op, col, at, title_sp, quote_block):
-    sp = S["sp"]
-    disc(fr, col, 7, 6, t, op, cx=760, cy=540, R=300)
-    head(fr, S, t, op, title_sp, sp["label"])
+    sp = S["sp"]; yb = head(fr, S, t, op, title_sp, sp["label"])
+    from strip_01 import INST, RED, BLUE as B2, PURPLE, MUSTARD, GREEN, TEAL, ORANGE as O2
+    cols = [B2, RED, PURPLE, MUSTARD, GREEN, TEAL, O2]
+    d = ImageDraw.Draw(fr, "RGBA"); f = font("xbold", z(34))
+    for i, (name, c) in enumerate(zip(INST, cols)):
+        e = ease((t - 0.6 - 0.15 * i) / 0.3)
+        if e <= 0: continue
+        y = yb + 50 + DY + i * z(64)
+        d.rectangle([TX, y, TX + z(60) + tw(f, name) + 30, y + z(50)], fill=A(c, op * e), outline=A(INK, op * e), width=3)
+        d.text((TX + 14, y + 6), str(i + 1), font=f, fill=A(CREAM, op * e))
+        d.text((TX + z(60), y + 6), name, font=f, fill=A(CREAM, op * e))
 
 if __name__ == "__main__":
     main(sys.argv[1])

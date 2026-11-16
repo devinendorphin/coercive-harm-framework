@@ -264,3 +264,24 @@ Content is reel 01 v5 unchanged (same narration, quotes, checks and departures, 
 `strip_01.py`. Quotes are spoken and reveal on a ledger card as they are spoken; the caption strip shows the
 attribution meanwhile. Each quote scene holds 2 s after the quote so the punchline bar can be read (this
 also lengthens the vertical cut if it is rebuilt). Output: `out/reel_01_intro_filmstrip.mp4`.
+
+### Reel 01 filmstrip, vertical (2026-11-16): review changes
+
+From a frame-by-frame review (Endorphin's message):
+- **Pill strip** shown only on the seven institution frames and the roll call; it had overwritten the
+  frame titles on frames 13 to 15.
+- **The black disc removed**, at the reviewer's direction. It took about 40 % of the stage and collided
+  with "A TEEN PROGRAM". The evidence and quote cards now run the width of the stage. The nested-arcs
+  motif that tied this cut to the Stack is gone; the pill strip carries the 1–7 count.
+- **Coders frame.** The reviewer asked for the chain palette on every node. That would assert per-story
+  codes no one displayed. So the last node of each schematic story is coloured by outcome at the measured
+  rate (Claude 2 of 7 ≈ 28 %, Codex 1 of 7 ≈ 16 %), with the legend on screen.
+- **9:16** (1080×1920) as the main cut; the square remains available (`build_strip.sh intro square`).
+- **Pacing.** Each Kokoro chunk is trimmed of leading and trailing silence; the scene gap is 0.42 s, the
+  pre-quote pause 0.25 s, and the hold after a quote 1.35 s. Silence fell from 52 s to 21 s, and the
+  narration from 4:37 to 4:14. The rest of the length is speech, so the 3:45 target is not reached
+  without cutting words or speeding the voice.
+- **Danielle's card** now reads "Her testimony: nine years of threats" (S9 E7), "In the home: four or five
+  rifles" (S9 E6: "We had four or five rifles in our home"), and "His text to her stepmother: 'too vague'".
+  It is labelled as her testimony, not as filed evidence, because the petition's contents are not in the
+  record.

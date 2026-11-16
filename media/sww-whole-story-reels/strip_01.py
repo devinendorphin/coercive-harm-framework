@@ -22,7 +22,7 @@ STRIP = [
      "bar": "RECOMMENDATION:\nDO NOT CHARGE.", "by": "Melissa · Season 14"},
     {"kind": "inst", "i": 1, "color": RED, "label": "INSTITUTION 2", "title": "A\nCOURT",
      "desc": "a petition for a restraining order",
-     "pre_tab": "PETITION · DANIELLE · S9", "pre": ["Evidence: his text to her stepmother", "Ruling: “too vague”"],
+     "pre_tab": "PETITION · DANIELLE · S9", "pre": ["Her testimony: nine years of threats", "In the home: four or five rifles", "His text to her stepmother: “too vague”"],
      "tab": "IN DANIELLE'S WORDS, THE JUDGE", "hl": ["left the first time"],
      "bar": "DISMISSED.\nNOT CREDIBLE.", "by": "Danielle · Season 9"},
     {"kind": "inst", "i": 2, "color": PURPLE, "label": "INSTITUTION 3", "title": "A\nSCHOOL",
