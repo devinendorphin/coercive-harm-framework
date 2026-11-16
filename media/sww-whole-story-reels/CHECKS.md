@@ -217,3 +217,33 @@ Cut: "Where the claim breaks… some deceivers simply ran"; the 36-of-43 audit c
 the 56-story counts, which now carry none. The definitions name no gender for the one doing it.
 
 **Reel 03**: re-rendered with no content change.
+
+## Reel 01 v5 (2026-11-16): kinetic overhaul, from Endorphin's script (`Reel_01_Visual_Overhaul_Script.md`)
+
+Built as specified: one text stream at a time; every quote spoken in the narration (same voice, a subtle
+room-tone shift: soft low-pass and two short reflections); the bottom-third karaoke replaced by short
+kinetic titles during the setup lines; each institution drawn as the mechanism it ran; the seven
+institutions docked as a strip with the active one lit; the footer on the first and last scenes only; the
+pre-registered predictions with the measured results animated against their lines. New code:
+`cards_kinetic.py`; `tts.py` (spoken quotes); `render.py` (kinetic titles, institution strip).
+
+**Departures from the script, each from a check against the record:**
+- **"Every one passed" is false.** RESULTS.md: prediction 1 holds (21 %, line 40 %); prediction 2 is split
+  (31 % all seasons; Claude 26 %, Codex 35 %; Endorphin's ruling 2); prediction 3 is not decided (43 %, line
+  50 %). The bars stamp HOLDS, SPLIT and NOT DECIDED, and the narration says so.
+- **Danielle's court.** The fake subpoena came years after the hearing (S9 E8, after July 2020), so it is
+  not shown as evidence on the petition. The evidence tag is the text to her stepmother, which the judge
+  called "too vague to be considered a credible threat"; "She dismissed it" (S9 E7). Stamp: DISMISSED · NOT
+  CREDIBLE.
+- **Riley's age.** The record gives 15–16 that year, not 15 at the second report; the narration says "She
+  was in high school".
+- **Brianna's chart.** The script's "Day 3 / Day 30" became "a few days after the birth / about a month
+  later", her words. The added lines are hers: "encouraged me to rest and not push", "I stated I no longer
+  felt the urge to push" (S23 E10).
+- **Molly (Turning Winds).** The bar starts at "Graduate" (she was "quote unquote a graduate"), not
+  "Complete". No "+6 months confined": her mother took her out; the fee line stays.
+- **The caseworker** "asked" the police to reconsider (Melissa: "will you please reconsider"), not "forced".
+- **Julia.** "Living, working and renting inside his church" became what the transcript supports: she worked
+  for the church and rented from its members (S5 E2).
+- **Voice.** Only one Kokoro voice is installed, and a second voice could read as the survivor speaking. So
+  quotes use the narrator's voice with a room-tone shift.

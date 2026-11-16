@@ -302,6 +302,8 @@ class Card:
 CAPF = None
 import cards_visual
 cards_visual.install(Card, globals())
+import cards_kinetic
+cards_kinetic.install(Card, globals())
 
 def cap_pages(words):
     f = font("cap", 50)
@@ -368,11 +370,27 @@ def main(slug):
     nfr = int(dur * FPS)
     scenes = []
     for sc, ti in zip(reel["scenes"], tm["scenes"]):
-        scenes.append({"card": Card(sc["card"], acc, ti["words"]), "s": ti["start"], "e": ti["end"], "pages": cap_pages(ti["words"])})
+        scenes.append({"sc": sc, "ti": ti, "s": ti["start"], "e": ti["end"], "pages": cap_pages(ti["words"])})
     for i, s in enumerate(scenes):
         s["vis_end"] = scenes[i + 1]["s"] - 0.05 if i + 1 < len(scenes) else tm["dur"] - 0.1
         s["vis_start"] = s["s"] - 0.15
-
+        c = dict(s["sc"]["card"]); v0 = s["vis_start"]
+        loc = lambda ws: [{"w": w["w"], "s": w["s"] - v0, "e": w["e"] - v0} for w in ws]
+        c["_sw"], c["_qw"] = loc(s["ti"]["words"]), loc(s["ti"].get("qwords", []))
+        if s["sc"].get("quote") and "q" not in c: c["q"] = s["sc"]["quote"]
+        s["card"] = Card(c, acc, s["ti"]["words"])
+        s["q0"] = s["ti"]["qwords"][0]["s"] if s["ti"].get("qwords") else None
+        kt = s["sc"].get("kt")
+        s["kt"] = sprite(wrap(kt, font("xbold", 76), CW), font("xbold", 76), FG, 1.05) if kt else None
+    kinetic = reel.get("kinetic", False)
+    navs = reel.get("nav", [])
+    nav_sp = []
+    if navs:
+        nf = font("cap", 21); x = 0; y = 0
+        for name in navs:
+            sp = sprite([name.upper()], nf, FG, 1.0, 1); w = sp.size[0] + 30
+            if x + w > CW: x = 0; y += 52
+            nav_sp.append((sp, x, y, w)); x += w + 10
     bg = make_bg(acc, ri)
     hdr_l = sprite([SERIES], font("cap", 28), FG, 1.2, 4)
     hdr_r = sprite([f"{ri + 1:02d}"], font("cap", 28), MUTED, 1.2, 2)
@@ -419,8 +437,26 @@ def main(slug):
                 if s["vis_start"] <= t <= s["vis_end"]:
                     op = clamp01((s["vis_end"] - t) / 0.25)
                     s["card"].draw(fr, t - s["vis_start"], s["vis_end"] - s["vis_start"], op)
-                    draw_caps(fr, s["pages"], t, acc)
-            paste(fr, foot, X0, 1520, 0.9)
+                    if not kinetic:
+                        draw_caps(fr, s["pages"], t, acc)
+                    else:
+                        if s["kt"] is not None:
+                            tq = s["q0"] if s["q0"] is not None else s["vis_end"]
+                            ek = ease((t - s["vis_start"]) / 0.4) * (1 - ease((t - tq + 0.1) / 0.3))
+                            if ek > 0: paste(fr, s["kt"], X0, 1300 + 30 * (1 - ek), op * ek)
+                        ni = s["sc"].get("nav")
+                        if ni is not None and nav_sp:
+                            ov = Image.new("RGBA", fr.size, (0, 0, 0, 0)); od = ImageDraw.Draw(ov)
+                            for j, (sp, nx, ny, nw) in enumerate(nav_sp):
+                                on = j == ni
+                                od.rounded_rectangle([X0 + nx, 322 + ny, X0 + nx + nw, 322 + ny + 42], 21,
+                                    fill=tuple(acc) + (int(255 * op),) if on else (34, 30, 42, int(235 * op)),
+                                    outline=tuple(acc) + (int(255 * op),) if on else (70, 64, 80, int(255 * op)), width=2)
+                            fr.paste(ov, (0, 0), ov)
+                            for j, (sp, nx, ny, nw) in enumerate(nav_sp):
+                                paste(fr, sp, X0 + nx + 15, 322 + ny + 9, op if j == ni else op * 0.6)
+            if not kinetic or t < scenes[0]["vis_end"] or t >= scenes[-1]["vis_start"]:
+                paste(fr, foot, X0, 1520, 0.9)
         else:
             te = t - tm["dur"]
             e = ease(te / 0.6)
