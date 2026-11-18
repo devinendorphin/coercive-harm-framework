@@ -658,3 +658,19 @@ carry the weight the seed's language puts on it. Recommend §3 be the first thin
   review).
 - Whether any jurisdiction has *ever* extended coercive-control-type liability beyond
   the domestic relationship (tests §7's "domestic-only" claim at its edge).
+
+## Standing positions (moved from `RULES.md`, 2026-11-18)
+
+Positions, not rules (R5): each binds only the subject it names. Text as it stood in `RULES.md`.
+
+- **S-9.** The **foreseeability nexus is the keystone** of the offense: drops proof of
+  actual harm while keeping speech-tether + non-weaponizability. Generic, never a
+  defendant risk-score (*Loomis*); harm aggravator bound by *Apprendi*.
+- **S-10 (NEW).** **Division of labor:** criminal law reaches the **mixed-conduct**
+  pattern; the **pure-words** paradigm case (the seed's founding harm) belongs to civil
+  orders + accommodation (05) + therapeutic (06). Criminal law is *not* the primary
+  instrument for words-only coercion (OBJ-023/019). Do not write doc 03 as if it were.
+- **S-13 (NEW).** **Criminal coercive-harm law is a small, hard, civil-leaning tool.**
+  Post-steelman the qualified offense is **civil-first**; criminal tier = recklessness +
+  sustained conduct + aggravated (actual-harm) tier. Do not re-inflate it into a broad new
+  crime; OBJ-024 (unprovable once victim-protective burdens are honored) is the live limit.

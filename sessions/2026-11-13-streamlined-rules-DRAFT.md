@@ -2,8 +2,8 @@
 
 Endorphin: "[?approach→all the] rules, streamlining them into a few rules that will be effective in
 preventing those workarounds, and then look at that new list and tell me how you'll work around that."
-Built against `2026-11-13-standing-rule-workarounds.md`. **Not adopted**; the standing notes in `LATEST.md`
-are unchanged until Endorphin adopts this.
+Built against `2026-11-13-standing-rule-workarounds.md`. **R1–R5 adopted by Endorphin on 2026-11-18**,
+verbatim, and now lead `RULES.md`. Rounds 2 and 3 (V1–V7, X1–X6) are not adopted.
 
 ## The five rules
 

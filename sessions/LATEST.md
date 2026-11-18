@@ -54,7 +54,8 @@ this first (via CLAUDE.md). Last updated: 2026-11-13, session `consent-lineage-a
 ## Standing notes
 
 Moved to **`RULES.md`** at the repo root (2026-11-15, Endorphin). Read it at session start. Changes go through
-a pull request Endorphin reviews. Do not restate the rules here.
+a pull request Endorphin reviews. Do not restate the rules here. **2026-11-18:** R1–R5 adopted; they lead
+`RULES.md`, absorb nine S-rules, and the R5 positions moved into their docs.
 
 ## Claude's "that's wrong" calls: track record (evidence, not a rule; added 2026-11-13)
 

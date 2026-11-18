@@ -236,3 +236,9 @@ instrument — that remains the central open question. See
   room. It requires another body." Conduct is situational and relational (agreement 3). Prevalence figures
   for diagnoses (psychopathy 1.2–4.5%, Sanz-García et al. 2021) count people, not conduct. Use them as
   context only, flagged for person-typing drift.
+
+## Standing positions (moved from `RULES.md`, 2026-11-18)
+
+Positions, not rules (R5): each binds only the subject it names. Text as it stood in `RULES.md`.
+
+- **S-1.** mPFC-deficit idea: illustrative only, never load-bearing. (OBJ-002.)

@@ -202,3 +202,10 @@ run backward into political-identity typing (doc 07).
 The weakest load-bearing element now sits in doc 03: the **psychological-homicide
 mechanism** (§3), where the causation wall is doctrinally severe and the framework
 has the strongest incentive to overclaim. See doc 03's weakest-element note.
+
+## Standing positions (moved from `RULES.md`, 2026-11-18)
+
+Positions, not rules (R5): each binds only the subject it names. Text as it stood in `RULES.md`.
+
+- **S-2.** AI-capability thread (seed L216–L316): parked out of primary scope.
+- **S-3.** Flatbush example (L69) stays — anti-discrimination integrity.

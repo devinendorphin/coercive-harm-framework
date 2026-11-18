@@ -589,3 +589,10 @@ all 56. The operator ruled that C4 runs both ways (amendment 8). With amendments
 - Prior critiques of coercive-control legislation (academic and civil-liberties) —
   the objections real critics have already published are the highest-value seed for
   future `/steelman` passes.
+
+## Standing positions (moved from `RULES.md`, 2026-11-18)
+
+Positions, not rules (R5): each binds only the subject it names. Text as it stood in `RULES.md`.
+
+- **S-5.** Likeliest-to-sink = **OBJ-023/019** (words-only case is where criminal law is
+  weakest) — resolved as a *division of labor*, not a defeat.

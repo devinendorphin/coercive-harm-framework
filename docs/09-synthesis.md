@@ -126,3 +126,14 @@ to resist being turned against the very victims it protects. It is strongest as
 most honest about being weak, on **criminal punishment** and **rehabilitation**. It
 claims less than the 2024 conversation hoped — and is more likely to survive contact with
 lawyers, psychologists, and civil-liberties critics *because* it claims less.
+
+## Standing positions (moved from `RULES.md`, 2026-11-18)
+
+Positions, not rules (R5): each binds only the subject it names. Text as it stood in `RULES.md`.
+
+- **S-4.** Every session names the weakest load-bearing element plainly. Current picks:
+  doc 03 = serious-effect knot (drafted, unproven); doc 06 = wrong-population evidence
+  gap; doc 02 = cluster-coherence unproven.
+- **S-17 (NEW).** **The apex-power gap (OBJ-027) is the framework's most important
+  unfinished business.** It reaches subordinate-scale coercion and is silent at the apex.
+  Do not let the synthesis (doc 09) imply otherwise.
