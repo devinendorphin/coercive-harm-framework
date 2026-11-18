@@ -209,3 +209,5 @@ Positions, not rules (R5): each binds only the subject it names. Text as it stoo
 
 - **S-2.** AI-capability thread (seed L216–L316): parked out of primary scope.
 - **S-3.** Flatbush example (L69) stays — anti-discrimination integrity.
+- **S-6.** Keep the geopolitical rung. "Fascism is interpersonal violence at scale" =
+  mechanism-homology + causal-continuity, NOT reductive identity. Forward only.

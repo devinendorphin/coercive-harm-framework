@@ -674,3 +674,5 @@ Positions, not rules (R5): each binds only the subject it names. Text as it stoo
   Post-steelman the qualified offense is **civil-first**; criminal tier = recklessness +
   sustained conduct + aggravated (actual-harm) tier. Do not re-inflate it into a broad new
   crime; OBJ-024 (unprovable once victim-protective burdens are honored) is the live limit.
+- **S-7.** Keep the expedited track, reframed as process-as-weapon mitigation. Expedite
+  the process, never the proof.
