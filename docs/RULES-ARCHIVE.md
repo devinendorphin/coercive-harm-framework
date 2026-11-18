@@ -24,7 +24,7 @@ S-number still resolve.
 | S-8 | Position → doc 05 |
 | S-9 | Position → doc 03 |
 | S-10 | Position → doc 03 |
-| S-11 | Absorbed into R3 (draft) |
+| S-11 | Absorbed into R3 (draft); confirmed by Endorphin 2026-11-18 |
 | S-12 | Position → doc 06 |
 | S-13 | Position → doc 03 |
 | S-14 | Position → doc 06 |
@@ -40,6 +40,7 @@ S-number still resolve.
 | S-24 | Folded into R3 |
 | S-25 | Folded into R3 |
 | S-26 | Folded into R2 |
+| S-27 | Never assigned (Endorphin, 2026-11-18) |
 | S-28 | Absorbed into R2 (draft) |
 | S-29 | Absorbed into R2 (draft) |
 | S-30 | Folded into R1; edges-segment clause absorbed into R2 (draft) and not carried |
@@ -63,13 +64,14 @@ S-number still resolve.
   folded into R2 instead.
 - R5's verbatim text still lists S-4 among the positions; the fold supersedes that listing.
 
-## Open decisions (Endorphin holds each)
+## Decisions closed (Endorphin, 2026-11-18)
 
-- **S-11 is listed twice in the draft.** R3 absorbs it, and R5's position range S-8 to S-15 includes it. It is
-  filed as absorbed into R3, since that listing is the specific one. Alternative: treat it as a position and
-  move it into docs 02 and 06, the subjects it names.
-- **There is no S-27.** It is not in `RULES.md`, the workaround list or the history of either. Whether a rule
-  was dropped or the number was skipped is not determinable from the record.
+- **S-11 stays absorbed into R3.** The draft listed it twice: R3 absorbs it, and R5's position range S-8 to S-15
+  includes it. Endorphin confirmed R3.
+- **S-27 was never assigned.** The number is unused; no rule was dropped.
+
+## Open decision (Endorphin holds it)
+
 - **The review of Claude-drafted clauses (table at the end) is still open.** The folded clauses in `RULES.md`
   carry the clauses this table lists for S-20, S-22, S-23, S-24, S-26, S-37 and S-38 unchanged, so the review
   still applies to them there.
