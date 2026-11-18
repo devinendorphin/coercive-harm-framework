@@ -73,8 +73,11 @@ S-number still resolve.
 ## Open decision (Endorphin holds it)
 
 - **The review of Claude-drafted clauses (table at the end) is still open.** The folded clauses in `RULES.md`
-  carry the clauses this table lists for S-20, S-22, S-23, S-24, S-26, S-37 and S-38 unchanged, so the review
-  still applies to them there.
+  carry the clauses this table lists for S-20, S-22, S-23, S-24 and S-37 unchanged, so the review applies to them
+  there. S-26's listed clause ("mislabelling corroborated testimony…") was not carried into `RULES.md`. S-38's
+  listed clause was not carried as a sentence: its content (convictions and records stated as such) sits in the
+  S-26 clause under R2, and only "quotes are attributed to the person who said them" sits under S-38. S-26's
+  "Public pieces are visual…", whose authorship is not determinable, is carried under R2.
 
 ## S-1 to S-38 as they stood at `46cf30c`
 
