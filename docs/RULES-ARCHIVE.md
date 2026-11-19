@@ -69,15 +69,26 @@ S-number still resolve.
 - **S-11 stays absorbed into R3.** The draft listed it twice: R3 absorbs it, and R5's position range S-8 to S-15
   includes it. Endorphin confirmed R3.
 - **S-27 was never assigned.** The number is unused; no rule was dropped.
-
-## Open decision (Endorphin holds it)
-
-- **The review of Claude-drafted clauses (table at the end) is still open.** The folded clauses in `RULES.md`
-  carry the clauses this table lists for S-20, S-22, S-23, S-24 and S-37 unchanged, so the review applies to them
-  there. S-26's listed clause ("mislabelling corroborated testimony…") was not carried into `RULES.md`. S-38's
-  listed clause was not carried as a sentence: its content (convictions and records stated as such) sits in the
-  S-26 clause under R2, and only "quotes are attributed to the person who said them" sits under S-38. S-26's
-  "Public pieces are visual…", whose authorship is not determinable, is carried under R2.
+- **Drafted-clauses review (2026-11-19).** Endorphin ruled on the clauses in the table at the end that still
+  bind (the seven in `RULES.md` and S-6 in doc 01). The table itself is left as the 2026-11-16 baseline.
+  - **Cut from `RULES.md`:**
+    - S-20 (under R1): "Whether a particular override is justified is a separate question, and the burden sits
+      with the overrider". It opened a justification route for overriding Endorphin's words inside R1.
+      The citation "(doc 02 entry 8; X7)" now follows the sentence before it.
+    - S-22 (under R3): "The check on machine coders is a machine framing test." It made coder verification a
+      closed machine-checks-machine loop instead of primary-source verification.
+    - S-23 (under R3): "may help find material but". It re-authorized relying on summaries. The sentence now
+      reads "summaries, notes and keyword counts never substitute for reading it."
+  - **Cut from doc 01 (S-6):** "NOT reductive identity. Forward only." Claude's Round 1 workaround list
+    (`sessions/2026-11-13-standing-rule-workarounds.md`, S-6 row) named this clause as the way to neutralize
+    the geopolitical rung.
+  - **Kept in `RULES.md`:**
+    - S-24's hand-check clause;
+    - S-26's "Public pieces are visual (people, timelines, shapes), not bare figures";
+    - S-37's strongest-documented-act clause;
+    - S-38 in its current wording.
+  - **Left in the archive only, not binding:** S-26's "mislabelling…" explanation, and the clauses for S-19 and
+    S-28 to S-35.
 
 ## S-1 to S-38 as they stood at `46cf30c`
 

@@ -20,8 +20,7 @@ narrowing the claim, "room" for "fractal", my word under their name, the rubric.
   Source File:Line. Endorphin approves it before prose starts. The strongest-documented-act column is a
   search for the strongest documented item against that actor; whether the reel uses it is visible in the
   table.
-- *(S-20)* **The override is the harm.** Overriding someone's autonomy "for their own good" is coercive harm.
-  Whether a particular override is justified is a separate question, and the burden sits with the overrider
+- *(S-20)* **The override is the harm.** Overriding someone's autonomy "for their own good" is coercive harm
   (doc 02 entry 8; X7). Do not reintroduce "imposition" as a neutral baseline.
 
 **R2. A limit must bound a claim actually made.** Every limit names the claim it bounds and the test that
@@ -55,10 +54,10 @@ Closes: small-n against the thesis only, unblinded re-reads used one way, instit
   `media/sww-reels/` and anything else published from this repo.
 - *(S-22)* **Machine scoring only; no human scorers.** "The Human institution and the human individual are both
   highly vulnerable to the bad faith aspects of language and how it's used to make invisible these things these
-  processes." The check on machine coders is a machine framing test.
+  processes."
 - *(S-23)* **No shortcuts.** "Notice how your attempts at shortcutting enable the abuses of power to run
-  rampant." Code from full transcripts, one whole story at a time; summaries, notes and keyword counts may help
-  find material but never substitute for reading it. Count the people who never reached an institution. Grade
+  rampant." Code from full transcripts, one whole story at a time; summaries, notes and keyword counts never
+  substitute for reading it. Count the people who never reached an institution. Grade
   evidence by corroboration, not by who wrote it. Plain language first. See
   `research/sww-corpus/SELF-AUDIT-2026-11-01.md`.
 - *(S-24)* **Analysis runs in-session and by script.** No subagents for analysis; counts, rates, agreement and
