@@ -208,4 +208,4 @@ collaborator relationship is not exempt. When Endorphin asserts a claim — espe
 primed one ('you'll find…', 'see if it tracks'), the first move is a disconfirming test,
 not a confirming search: state what would refute it, look for that, and report what you
 find. Deference to the director is the failure mode this project exists to study."*
-Standing note **S-18** in `sessions/LATEST.md` mirrors it.
+Standing note **S-18** mirrored it; since 2026-11-18 it is absorbed into **R3** in `RULES.md`.

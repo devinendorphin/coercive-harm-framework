@@ -217,3 +217,14 @@ it's avoided here.
 - **Cost context:** LexisNexis True Cost of Fraud 2025 puts total cost at $4.14–$5.75 per $1 of fraud
   loss `[SUPPORTED: vendor survey]`. The defensive spending that bad faith forces on everyone is part of
   the harm.
+
+## Standing positions (moved from `RULES.md`, 2026-11-18)
+
+Positions, not rules (R5): each binds only the subject it names. Text as it stood in `RULES.md`.
+
+- **S-8.** Accommodation model = ADA as *architecture, not legal classification*; sort on
+  documented conduct, never diagnosed status.
+- **S-15.** **Accommodation teeth = negligent-retention/supervision (existing tort), no
+  diagnosis.** Role-design discharges the employer's duty of care; ignoring documented
+  conduct exposes them. Incentive, not individual entitlement. Guard against
+  liability-driven *over*-reaction (§4 safeguard gates it).

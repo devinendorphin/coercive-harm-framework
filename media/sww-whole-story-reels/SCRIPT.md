@@ -1,72 +1,130 @@
 # TOLD · WHOLE — reel scripts
 
-*What institutions did for the people of Something Was Wrong, Seasons 1–26. 2 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Source: `research/sww-corpus/results/whole_story/RESULTS.md` (branch `ccr-f78b372d-8qdcn9`). Made one reel at a time. Survivors keep the show's names; no perpetrator or uncharged person is named. Testimony as broadcast: allegations, not verdicts.*
+*What institutions did for the people of Something Was Wrong, Seasons 1–26. 3 vertical reels (1080×1920, 30 fps), Kokoro TTS narration (voice `af_heart`), procedural soundtrack. Source: `research/sww-corpus/results/whole_story/RESULTS.md` (branch `ccr-f78b372d-8qdcn9`). Made one reel at a time. Survivors keep the show's names; no perpetrator or uncharged person is named. Evidence is graded in the wording (S-26): convictions and records are stated as such, and quotes are attributed to the person who said them.*
 
-## 01 · Intro  (130 s)
+## 01 · Intro  (268 s)
 
-- Something Was Wrong is a podcast where people tell what was done to them, and what happened after. Twenty-six seasons. This series asks one question of all of them.
-  - *on screen:* 26 numbered tiles appear — 26 seasons · one question
-- When someone who was harmed went to an institution, the police, a court, a school, an employer, a church, a hospital, did it protect them?
-  - *on screen:* Did it protect them? — chips: Police, Courts, Schools, Employers, Churches, Hospitals, Therapists
-- An earlier pass asked this one moment at a time. It cut the episodes into short pieces and judged each response alone. Judged that way, most responses looked reasonable.
+- Something Was Wrong is a podcast where people tell what was done to them, and what happened after. Across twenty-six seasons, of the people who went to an institution for help, about one in five ended up protected. Each dot is a person who reached an institution. Two families of A.I. coders read every episode, working apart. For both, it stayed under one in three.
+  - *on screen:* 398 dots; all but 83 go dark — 1 in 5 protected; gauges Claude coders 28%, Codex coders 16% under a 1 in 3 line
+- They went to the police, the courts, schools, employers, churches, clinics, and programs for teenagers. Here is what those institutions did.
+  - *on screen:* ladder of institutions: Police, Courts, Schools, Employers, Churches, Clinics, Programs
+- The police. The father of Melissa's two-year-old daughter hit her. A detective interviewed him for two hours, then told Melissa:
+  - *spoken quote:* “I'm going to recommend that you don't press charges. He cried a lot and he just really seemed like he felt bad and if you go forward with these charges it could really ruin his life.”
+  - *on screen:* incident report (Case: assault on a 2-year-old), interview clock, stamp: RECOMMENDATION: DO NOT CHARGE
+- A court. Danielle asked a judge for a restraining order against a man who had threatened her family. The judge called his text to her stepmother too vague to be a credible threat, and dismissed the case. In Danielle's words, the judge said:
+  - *spoken quote:* “If I had really felt threatened I would have left the first time he made a threat, or I would have removed the guns the first time he made a threat.”
+  - *on screen:* petition (Petition for restraining order · Danielle · S9), evidence: Evidence: his text to her stepmother, stamp: DISMISSED · NOT CREDIBLE
+- A school. Twice, someone reported Riley's teacher to the school. She was in high school. The second time, he got in trouble, and then he told her to delete every message. In Riley's words:
+  - *spoken quote:* “He got in trouble this time, but administration acted as if it had never happened, swept under the rug. I was never asked if I was okay.”
+  - *on screen:* two reports swept under a line; messages deleted; counter: Times she was asked if she was okay: 0
+- An employer. Molly was a nanny. Day after day, the family's child raged at her, sometimes physically. She went to the parents. They told her:
+  - *spoken quote:* “You should have handled it differently.”
+  - *on screen:* shift grid (Mon, Tue, Wed, Thu, Fri); arrow up to Employers · the parents, back down to Molly · the nanny
+- A church. Julia worked for her church, and rented her home from its members. Her pastor, on anyone who crossed him, or left:
+  - *spoken quote:* “If somebody disagreed with him or somebody wronged him or like a person left, he would kind of trash their reputation.”
+  - *on screen:* ring of members around The pastor (work · rent · worship); one leaves; lines broadcast: reputation trashed
+- A birth centre. Brianna downloaded her chart a few days after her son was born. A month later, it had new lines, written in her voice. In her words:
+  - *spoken quote:* “Their notes say that I had the urge to push at 9:30 around that time, but their edited notes, the added parts say they encouraged me not to. It says that I claimed that I no longer felt the urge to push.”
+  - *on screen:* chart diff: Chart · downloaded a few days after the birth → Chart · about a month later; added: encouraged to rest and not push; patient stated she no longer felt the urge to push — Added later, in her voice
+- A program for teenagers. At Turning Winds in Idaho, a night staff member sexually abused Molly, who was not yet fourteen. Then the program punished her:
+  - *spoken quote:* “They were stripping me of my graduation status and I was going to have to start all over. Which also means that they would get six more months of money out of my mother.”
+  - *on screen:* status card (Turning Winds · Idaho · Molly, under 14): Graduate → Stripped · start all over; Reported: a night staff member's sexual abuse; + six months of fees · billed to her mother
+- An earlier pass cut the episodes into short pieces and judged each response alone. Judged that way, sixty-three percent of single responses looked reasonable.
   - *on screen:* 100 squares fly together; 63 turn blue — 63%, of single responses looked appropriate, judged one piece at a time
-- But nobody lives one moment at a time. A detective calls back. Months later, the case is dropped. Cut into pieces, that phone call counts as protection.
-  - *on screen:* timeline: The harm → They report it to police → A detective calls back [cut into pieces: counts as protection] → Months later, the case is dropped → How it ended: not protected
-- So this time, every person's story was followed whole. From the harm, through every institution they reached, in order, to how it ended for them.
-  - *on screen:* timeline: The harm → The police → A court → An employer → How it ended for the person [followed to the last episode]
-- The reading was done by A.I. coders, two per season, working apart. Not people. The project's director gave the reason.
-  - *on screen:* two columns of text scroll apart (Coder 1 | Coder 2) — Every episode read in full, by two machine coders working apart.
-- In his words: the human institution and the human individual are both highly vulnerable to the bad faith aspects of language.
-  - *on screen:* “The human institution and the human individual are both highly vulnerable to the bad faith aspects of language.” — Endorphin, project director
-- Before any result came in, three predictions were written down, each with the line that would prove it wrong.
-  - *on screen:* Written down first: Fewer than 4 in 10 end up protected (line: 40%); 3 in 10 or more meet disbelief, blame or self-protection (line: 30%); When protection comes, the person or their people did the decisive work at least half the time (line: 50%)
-- And the study broke one of its own promises. The coders were meant to be blind to what the project expected. One family of A.I. coders, Claude, was shown the project's own files. Only the other, Codex, was truly blind. So every result in this series is shown both ways.
-  - *on screen:* open eye: Claude, shown the project's files; blindfolded eye: Codex, blind, as promised — Every result in this series is shown both ways.
-- Here is the first answer, and the clearest. Each dot is a person who reached an institution. These are the ones who ended up protected. About one in five. Under both families of coders, it stayed under one in three.
-  - *on screen:* 398 dots, one per person; 83 turn blue — 1 in 5, ended up protected: 83 of 398 people (Claude coders 28% · Codex coders 16%); 
-- Some of these stories ended in convictions and court records. Some are backed by documents or a second witness. And when a story is told solely from the person's own account, this series will say so, but only after checking that it really is.
-  - *on screen:* evidence cards: Convictions and court records (stated as what they are); Documents, checked records, second witnesses (said with what backs them); The person's own account alone (said only after checking that nothing else backs it)
-- The rest comes one piece at a time.
-  - *on screen:* One piece at a time. — Told Whole · Something Was Wrong, Seasons 1–26
+- Followed whole, that same police story shows what the pieces miss. After the detective told Melissa not to press charges, she filed anyway. A child-protection caseworker asked the police to reconsider. In Melissa's words, the caseworker told her:
+  - *spoken quote:* “We pull that card so few times in all of our cases.”
+  - *on screen:* story chain: The detective: don't press charges, it could ruin his life → Melissa files anyway → A caseworker asks the police to reconsider
+- He pleaded guilty to assaulting his daughter. Cut into pieces, the plea counts as the system working. Followed whole, the protection came from a mother and a caseworker, against the detective.
+  - *on screen:* story chain: The detective: don't press charges, it could ruin his life → Melissa files anyway → A caseworker asks the police to reconsider → He pleads guilty — Snapshot: the system worked / Whole story: a mother and a caseworker, against the detective
+- So every person's story was followed whole, from the harm, through every institution they reached, to how it ended for them. The reading was done by two families of A.I. coders, working apart. Not people.
+  - *on screen:* two columns tracing whole stories: Claude family | Codex family
+- The project's director gave the reason:
+  - *spoken quote:* “The human institution and the human individual are both highly vulnerable to the bad faith aspects of language.”
+  - *on screen:* spoken quote, kinetic — Endorphin, project director
+- Before any result came in, three predictions were written down, each with the line that would prove it wrong. The first held: about one in five, far under the line. The second split between the two families of coders. The third is not decided.
+  - *on screen:* predictions: Fewer than 4 in 10 end up protected (line: under 40%): 21%, HOLDS; 3 in 10 or more meet disbelief, blame or self-protection (line: 30% or more): 31%, SPLIT; When protection comes, the person or their people did the decisive work at least half the time (line: 50% or more): 43%, NOT DECIDED
+- From two people, to the institutions they turned to: the same moves. Next: the moves themselves.
+  - *on screen:* rings out: 2 people → Family → Workplace → School → Church → Clinic · program → Court · police — SAME MOVES. EVERY SCALE.
 
-## 02 · Same Moves  (294 s)
+## 02 · Same Moves  (189 s)
 
-- The first claim behind this series is about the people who did the harm. Different people, different places, different years. The claim is that they make the same moves.
-  - *on screen:* Same moves. — Arc 1 · as far as the room allows
+- This series rests on one claim. Different people, in different places and different years, make the same moves.
+  - *on screen:* Same moves. — Arc 1 · the thesis
 - The moves were written down before the reading began, in the project director's own words.
   - *on screen:* “It is a cycle: the effusive love bombing, to devaluation, to isolation and poisoning the wells between the people that are part of their care system, and then discard, and then potentially returning again.” — Endorphin, project director
-- Then the seasons were read in order, one to twenty-four, by a single A.I. reader. That reader knew the prediction. So it had one standing order: write down every story that does not fit. Never smooth it over.
-  - *on screen:* Write down every misfit. — Seasons 1–24 read in order by one A.I. reader that knew the prediction.
-- Fifty-six stories were coded move by move. Binding. Devaluation. Isolation. Poisoning the wells. And what happened when the person left, or the truth came out.
-  - *on screen:* timeline: Binding: obligation, dependency, access → Devaluation → Isolation → Poisoning the wells: a false account to the people around them → When they leave, or it comes out
-- The first move rarely looks like a move. It binds. And it took whatever shape fit the person. A whirlwind romance. A friend in need. A boss's favour. A place to live, offered in a housing crisis. A mentor at work. A group that felt like family. Praise for a mother, aimed at her children.
-  - *on screen:* One move, many shapes — chips: A whirlwind romance, A friend in need, A boss's favour, Housing in a crisis, A mentor at work, A group like family, Praise for a mother
-- The shapes differ. What each one does is the same. Counted by what it did, not how it looked, each move turned up again and again, as first coded. Each dot is one story.
-  - *on screen:* 56 stories, as first coded: Binding 55 of 56; Devaluation 52 of 56; Isolation 48 of 56; Poisoning the wells 48 of 56 — one row of 56 dots each, lit where present; Blue: the move is in the story. Binding's one gap: not in the reading notes. Seasons 16–24 were coded from notes, a weaker basis.
-- And when someone left, or the truth came out, the first coding found a response in every one of the fifty-six. Pursuit, threats, reversal, a smear.
-  - *on screen:* 56 dots, one per person; 56 turn blue — 56 of 56, met a response, as first coded; 
-- Then seven of those stories, picked at random, were read again in full, with a rule written down first: a mark stays only if the transcript shows what the move does, not just something that looks like it. Binding and devaluation held every time. The response at exit held in five of six. Isolation held in four of five. Poisoning the wells held in one of five.
-  - *on screen:* 7 stories read again in full: Binding 6 of 12; Devaluation 6 of 12; Response at exit 5 of 12; Isolation 4 of 12; Poisoning the wells 1 of 12 — one row of 12 dots each, lit where present; Blue: the mark held. Grey: it did not. Each dot is one story where the move was first marked.
-- Most of the poisoning marks that failed were stories told to the person about the people around her, not stories told to her people about her. Whether those count is the director's call, and it has not been made. Either way, three of the first counts are too high: isolation, poisoning the wells, and the response at exit. By how much is not known until every story is read again.
-  - *on screen:* Three counts are too high. — Isolation, poisoning the wells and the response at exit, by amounts not yet known. Binding and devaluation held.
-- Now, where it breaks. Binding alone tells you nothing. Some deceivers bound people, and simply ran when they were caught. The re-read found one more story that belongs there: a friend who invented a whole cast of people, and when she was caught, simply blocked her. The pattern is the combination, not any one move.
-  - *on screen:* No single move is the pattern. — Some deceivers bound people and simply ran when caught. What marks the pattern is the moves together, and the response when someone leaves.
-- Isolation was the weakest move. A word-count test, written down in advance, found isolation talk three times as common as in a comparison podcast. But it was clearly raised in only about one season in four. By its own rule, the test failed.
-  - *on screen:* 26 dots, one per person; 7 turn blue — 1 in 4, seasons where isolation talk clearly stood out, by the test written in advance (7 of 26); A fairer comparison, chosen afterwards, gives about 3 in 4. It came after, so the failure stands.
-- The project director's answer: look at the room. One relationship was long distance, backed by documents and a second witness. You can't cut someone off from people you never meet. In another story, backed by a second witness, the school pulled a teacher from his classes. He sent one message, then nothing. The room left no way in.
-  - *on screen:* timeline: A long-distance relationship [documents + a second witness] → No isolation coded: no room to do it → A teacher pulled from his classes [a second witness] → One message, then nothing
-- That is a hypothesis, not a finding. To test it, a separate reader would have to code what each room allowed, before looking at the moves.
-  - *on screen:* As far as the room allows. — A hypothesis until a separate reader codes each room's openings first.
-- And one story did not fit the prediction as written. For about three years of their marriage, a man gave his wife constant praise, and she can name no put-downs. Her daughter and her niece were his targets, and the praise was how he reached them. He pleaded guilty in federal court and was sentenced to thirty years. In her words:
-  - *on screen:* “For a predator to successfully groom a child, they first have to groom the parent.” — Diana, Season 15
-- It was written down as a misfit. The project director reads it differently: devaluation waits for friction. For three years she never pushed back. When the truth came out and she did, the blame came at once. He put what he did down to her lack of intimacy.
-  - *on screen:* timeline: Three years: praise, and no friction → The truth comes out; she pushes back → The blame comes at once [her “lack of intimacy”]
-- That is a reading to test, not a finding. Some stories do not fit it either: the put-downs start before any friction at all.
-  - *on screen:* Does devaluation wait for friction? — A reading to test, with counter-cases: in some stories the put-downs start before any friction at all.
-- Seventy-two notes were written down along the way. Most are about institutions, evidence and method, or are new shapes of the same moves. Sorted against the misfit rules, about four are stories where a move was missing or different while the chance was there. When they were read again in full, all four held.
-  - *on screen:* 72 dots, one per person; 4 turn blue — 4 of 72, notes are true misfits; Read again in full: all four held.
-- The marks in the stories that fit did worse. About one in five did not hold. Every error ran the same way: toward the pattern. Why is not settled. The re-reader was the same kind of A.I. as the first, and not blind. A blind reader still has to check it.
-  - *on screen:* 43 dots, one per person; 34 turn blue — 34 of 43, marks in the fitting stories held; Every error ran toward the pattern. Same kind of reader, not blind.
-- Same moves, as far as the room allows, and as far as the re-reading holds. That is the claim. These are its edges.
-  - *on screen:* Same moves. As far as the room allows. — Told Whole · Seasons 1–24
+- Six moves. Here is each one, in a survivor's own telling.
+  - *on screen:* timeline: 1 · Bind → 2 · Devalue → 3 · Isolate → 4 · Poison the wells → 5 · Discard, and return → 6 · When she leaves
+- One. Bind. Make her owe, or need, or belong. It takes whatever shape fits the person. A whirlwind romance. A friend in need. A boss's favour. A mentor at work. A group that feels like family.
+  - *on screen:* 1 · Bind: owe, need, belong — chips: A whirlwind romance, A friend in need, A boss's favour, Housing in a crisis, A mentor at work, A group like family
+- Two. Devalue. Make her feel worthless, until she believes it. It often waits until she pushes back. Odessa's husband explained it himself. She remembers him saying:
+  - *on screen:* “My natural instinct when you disagree with me and when we get into these arguments is to say something that I know will hurt you to get you to leave me alone.” — 2 · Devalue · Odessa · Season 13
+- When she confronted him, while she was in labour, his first words were:
+  - *on screen:* “So this is how this is going to go.” — 2 · Devalue · Odessa · Season 13
+- Three. Isolate. Cut her off from the people and places that hold her up. Zoe was in college and wanted a job of her own.
+  - *on screen:* “He did not want me to work anywhere else. He said that if I did, I would fall in love with someone else and leave him.” — 3 · Isolate · Zoe · Season 13
+- After she left him, he sent her a photo of himself outside her apartment door, a gun in his hand, while threatening to kill the man she was seeing.
+  - *on screen:* Outside her door, with a gun. — After she left: a photo of himself at her apartment door, gun in hand, threatening to kill the man she was seeing.
+- Four. Poison the wells. A false story, carried between her and her people, in either direction. Sarah had a friend called Kimmy, who texted her for months. Kimmy told her this:
+  - *on screen:* “Your family is very codependent. They all live within a 50 mile radius of each other.” — 4 · Poison the wells · Sarah · Season 1
+- Kimmy did not exist. He made her up, and almost all of her messages were his. The other direction works the same way: a story about her, told to her people.
+  - *on screen:* Kimmy did not exist. — He invented her; almost all of her messages were his. The other direction: a story about her, told to her people.
+- Five. Discard, and return. Drop her, then come back with an offer she can take or refuse. If she takes it, the cycle starts again. Emilia lived it on a loop:
+  - *on screen:* “He would get mad and block my number. Then whenever he got up for work at five in the morning, he would unblock my number and he would start texting me.” — 5 · Discard, and return · Emilia · Season 15
+- And when she tried to leave, he took her keys, her glasses, her shoes. Getting out, she cut her leg. He told her:
+  - *on screen:* “That's on you, that's your fault, you shouldn't have even tried to leave.” — 5 · Discard, and return · Emilia · Season 15
+- Six. When she leaves, or the truth comes out, the one doing it acts against her. When Danielle's family found out he was not who he claimed to be, he told her, about her sister:
+  - *on screen:* “I'm gonna get your sister fired from her job and I know people they can plant drugs on her and make sure she gets fired from her job.” — 6 · When the truth comes out · Danielle · Season 9
+- After Danielle got out, he texted her stepmother:
+  - *on screen:* “You guys needed to let me see my daughter or else nobody in this family is gonna be safe.” — 6 · When she leaves · Danielle · Season 9
+- Then he sent her website host a fake subpoena, a form downloaded online. They gave him her phone number and her address.
+  - *on screen:* A fake subpoena. — A form he downloaded online, sent to her website host. They gave him her phone number and address.
+- And when she asked a court for protection, the judge used the same logic. In Danielle's words, the judge said:
+  - *on screen:* “If I had really felt threatened I would have left the first time he made a threat.” — One scale up · Danielle · Season 9
+- Five women. Five different men. The same six moves. And at the end, a court.
+  - *on screen:* timeline: 1 · Bind [many shapes] → 2 · Devalue [Odessa] → 3 · Isolate [Zoe] → 4 · Poison the wells [Sarah] → 5 · Discard, and return [Emilia] → 6 · When she leaves [Danielle, then a court]
+- And it is not five stories. Fifty-six were read, move by move, and each move came back again and again.
+  - *on screen:* 56 stories, move by move: Bind 55 of 56; Devalue 52 of 56; Isolate 48 of 56; Poison the wells 48 of 56; When she leaves 56 of 56 — one row of 56 dots each, lit where present; 
+- No single move is the pattern. The pattern is the moves together, and what happens when she leaves.
+  - *on screen:* The moves together. — And what happens when she leaves.
+- And a move needs the means. In the director's words, the perpetrator does not have full control of the environment. So what varies is not the perpetrator, but what the environment allows.
+  - *on screen:* As far as the environment allows. — “The perpetrator does not have full control of the environment.” Endorphin, project director
+- Same moves, as far as the environment allows. Next: the same moves, at every scale.
+  - *on screen:* Same moves. As far as the environment allows. — Told Whole · Seasons 1–24
+
+## 03 · Fractal  (177 s)
+
+- The last episode showed six moves. This one follows one of them up the scale, from two people to a whole industry. The director said it before any of this was read:
+  - *on screen:* “…how low variance these tactics are across various strata of society. As to be like a fractal.” — Endorphin, project director · 2026-10-04
+- The scale changes the shape of a move. It does not change the move.
+  - *on screen:* The scale changes the shape. Not the move. — One move, followed up eight scales.
+- The move: isolate. Cut her off from the people who would help her. Now climb.
+  - *on screen:* timeline: Two people → A circle of families → A staff → A school → A congregation → The hand-off → An institution → A whole industry
+- Two people. When Jubilee's therapist told her she was scared for her, her husband ended the therapy. He later said why: he was afraid the therapist would call him abusive, and Jubilee would leave.
+  - *on screen:* “I wasn't allowed to go to therapy anymore, and I don't think I saw a therapist for the rest of our marriage.” — Two people · Jubilee · Season 21
+- Of her family, he said it out loud:
+  - *on screen:* “I don't want you to be close with your family because I know that if you're close with them, it would be easy for you to leave me.” — Two people · Jubilee · Season 21
+- A circle of families. Victoria's closest friend planned their shared holidays as adults only, and brought her own children anyway.
+  - *on screen:* “She just kept pulling me further and further away from my kids.” — A circle of families · Victoria · Season 3
+- A staff. At a small veterinary clinic, a young coworker kept her colleagues apart, a separate story for each, so no one could compare notes. T ran the office:
+  - *on screen:* “She kept everybody in a box so that none of us intersected.” — A staff · T · Season 2
+- A school. Riley was fifteen. Twice, someone tipped off the school about her teacher. The second time, he got in trouble, and in her words, the administration swept it under the rug. No one asked if she was okay. Then he told her:
+  - *on screen:* “He told me to delete every single message, email, and text, that I should be prepared to defend myself.” — A school · Riley · Season 13
+- A congregation. Julia's youth pastor had his group living, working and renting inside his church, and called every other church disloyal:
+  - *on screen:* “He didn't want us going to different churches, church services, because that's being, quote unquote, flaky or disloyal.” — A congregation · Julia · Season 5
+- The hand-off. At fourteen, Kat told a school counselor that a thirty-six-year-old man had raped her. Her parents were told. Then:
+  - *on screen:* “I had no idea that at three in the morning, there was going to be two people that put me in handcuffs.” — The hand-off · Kat · Season 24
+- She was the one taken away, by a transport company, to Copper Canyon Academy in Arizona. Her family handed the move to an industry.
+  - *on screen:* She was the one taken away. — By a transport company, to a program in Arizona. The family handed the move to an industry.
+- An institution. A different girl, Katie, was sent to Island View Residential Treatment Center in Utah. Calls home were monitored, and cut off. Before her first call, staff had already told her father:
+  - *on screen:* “She's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior.” — An institution · Katie · Island View · Season 24
+- A whole industry. Six survivors, from several programs, describe the same script: parents told in advance not to believe their child.
+  - *on screen:* The same script, six times. — Six survivors, several programs: parents told in advance not to believe their child.
+- And at Turning Winds in Idaho, after a night staff member sexually abused Molly, who was not yet fourteen, the program punished her:
+  - *on screen:* “They were stripping me of my graduation status and I was going to have to start all over. Which also means that they would get six more months of money out of my mother.” — A whole industry · Molly · Season 24
+- No therapy. Adults only. Everyone in a box. Delete every message. Every other church is disloyal. Handcuffs at three a.m. Don't believe her. Start all over. Eight scales, one job: leave her with no one to turn to.
+  - *on screen:* Eight scales, one job — chips: No therapy, Adults only, Everyone in a box, Delete every message, Other churches: disloyal, Handcuffs at 3 a.m., Don't believe her, Start all over
+- And these are not the only ones. Of the fifty-six stories read move by move, fifteen were outside a romance or a marriage, and four more mixed the two.
+  - *on screen:* 56 dots, one per person; 15 turn blue — 15 of 56, outside romance or marriage; Four more mixed the two.
+- The same move, from two people to a whole industry. Next: what these institutions do with the other moves.
+  - *on screen:* Fractal. Same move, every scale. — Told Whole · Seasons 1–24
 

@@ -180,3 +180,17 @@ the wrong-population gap named across all three.
   models) — the closest existing analogue to "treatment for those who harm," and its
   famously mixed results; essential reality-check for doc 06's ambitions.
 - **Jessa Reed** — locate primary podcast material for faithful n=1 citation.
+
+## Standing positions (moved from `RULES.md`, 2026-11-18)
+
+Positions, not rules (R5): each binds only the subject it names. Text as it stood in `RULES.md`.
+
+- **S-12.** **Mindfulness structural-change is CONTESTED, not established** —
+  Kral/Davidson 2022 failed to replicate the 8-week findings. Do not reinstate "practice
+  builds the brain structures" as fact. Conversely, **coercive control → serious
+  psychological harm IS established** (2023 meta-analysis, PTSD r=.32), but the *literal
+  physical/bodily injury from words* claim stays `[HYPOTHESIS]`. Keep these two apart.
+- **S-14 (NEW).** **Doc 06 is "least-bad and correctly oriented," not "effective."** BIP
+  evidence floor is low (Duluth ≈ 5% over arrest); ACT/MI (self-directed) outperform the
+  imposed Duluth model. Never promise rehabilitation; efficacy for the coercive/words-only
+  pattern is `[HYPOTHESIS]`.

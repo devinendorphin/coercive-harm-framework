@@ -81,3 +81,213 @@ Source for every new figure: `research/sww-corpus/close-read/AUDIT-2026-11-13-sy
   proposed, not done, so the narration says the story "belongs there," not that it "was moved."
 - **"Three counts are too high."** Isolation, poisoning the wells and the response at exit each had at
   least one false fit in the sample, so the full-corpus counts are upper bounds.
+
+### Reel 02 v5 numbers updated after the C4 ruling (amendment 8, 2026-11-13); not yet rebuilt
+
+Poisoning the wells counted both ways: Danielle and Sarah held, so 3 of 5. Overall, 36 of 43 marks held and
+7 did not (about one in six). Source: the audit's C4 sensitivity note, now ruled. The built video still shows
+the v5 figures; the thesis-first overhaul will carry these.
+
+## Reel 02 v6 (2026-11-13): thesis-first overhaul (Endorphin: "the breaks fog the thesis")
+
+The reel now leads with the six moves, one survivor's own telling each, then the count, then one short edges
+segment. None of the five stories is called "told solely from the person's own account"; each quote is
+attributed to the survivor by name and season, as in reel 01. Quotes were checked word for word against the
+transcripts.
+
+| Move | Story | Quote and location | Coders' `evidence_types` (whole-story files) |
+|---|---|---|---|
+| 2 Devalue | S13b Odessa, recalling her husband | "my natural instinct when you disagree with me and when we get into these arguments is to say something that I know will hurt you to get you to leave me alone" (S13 E3 [18:26]–[18:38]) | A second_witness · B document_read_on_air · NEG/POS second_witness, document_read_on_air · CPOS document_read_on_air, second_witness · CNEG person_account_alone |
+| 3 Isolate | S13h Zoe | "He did not want me to work anywhere else. He said that if I did, I would fall in love with someone else and leave him." (S13 E13 [07:25]–[07:28]) | A second_witness · NEG/POS second_witness · CPOS document_read_on_air, second_witness · B and CNEG person_account_alone |
+| 4 Poison the wells | S1 Sarah, recalling "Kimmy" | "your family is very codependent. They all live within a 50 mile radius of each other." (S1 E6 [03:53]–[03:56]); Kimmy invented: his confession, "Brian and Kimmy Powers are not real people" (S1 E9 [03:36]); "the high 90 something percentile of the conversations were actually him" (S1 E7 [22:03]) | A and B: document_read_on_air, second_witness, record_checked_by_show |
+| 5 Discard, and return | S15g Emilia | "He would get mad and block my number. Then whenever he got up for work at five in the morning, he would unblock my number and he would start texting me." (S15 E7 [12:39]–[12:49]) | A and B: person_account_alone. Quote attributed; no event is narrated as fact beyond her telling. |
+| 6 When she leaves | S9a Danielle | "You guys needed to let me see my daughter or else nobody in this family is gonna be safe." (S9 E6 [34:00]–[34:02]), her account of his text to her stepmother | CA document_read_on_air, second_witness · CB second_witness, document_read_on_air, record_checked_by_show |
+
+Figures: the 56-story rows are the first coding (`CROSS-SEASON.md`; "When she leaves" = R-SEP present, 56).
+Re-read: binding and devaluation 6 of 6; the others held in most; 36 of 43 marks held (amendments 7–8). The
+"misfits held" line refers to all 7 misfit-side stories. Five women and five different men: Odessa's husband,
+Zoe's former manager, Sarah's former fiancé, Emilia's former partner, Danielle's former partner. None is named.
+Dropped from this reel (they move to later arcs): the Diana friction case, the isolation word-test failure, and
+the audit's per-move table (arc 7, "How measuring can hide it").
+
+## Reel 03 v1 (2026-11-13): "Every room", arc 2, first reel (thesis first, S-30)
+
+Thesis: the room changes the shape of a move, not the move. One move (isolate) is followed through six rooms.
+Each quote was checked word for word against the cached transcripts (podscripts text, episode given below).
+None of the six is called "told solely from the person's own account"; each is attributed by name and season.
+
+| Room | Story (close-read code) | Quote and episode | Coders' `evidence_types` |
+|---|---|---|---|
+| A marriage | S21e Jubilee, recalling her husband | "I don't want you to be close with your family because I know that if you're close with them, it would be easy for you to leave me." (S21 E11 "Words of Knowledge") | CA document_read_on_air · CB document_read_on_air, second_witness (the marriage) |
+| Friends | S3 Victoria, about her closest friend | "she just kept pulling me further and further away from my kids" (S3 E3 "Nobody's Getting in My Head"); "adults only" holidays, same passage | A, B second_witness |
+| A church | S5a Julia, about her youth pastor | "He didn't want us going to different churches, church services, because that's being, quote unquote, flaky or disloyal." (S5 E2 "Exposed Our Sin") | A, B second_witness |
+| A workplace | S2 T, about a coworker | "she kept everybody in a box so that none of us intersected" (S2 E5 "Devastated in the Wake of Your Delusions"). Coded C3 as compartmentalization | A, B document_read_on_air, second_witness |
+| A school | S13m Riley, about her teacher | "he'd remind me that no one would believe me. It would be my fault and we'd no longer have contact." (S13 E17); the card drops the opening clause "If I even mentioned telling anyone about what he was doing" | A, B second_witness |
+| A program for teens | S24 Katie, about the program's staff | "When she calls, she's going to tell you, this is not a good place… And if you believe her, you're enabling her behavior" (S24 E18 "Fear Driven"); monitored, cut-off calls in the same passage | A document_read_on_air · B person_account_alone (the program). The script itself is in six separate accounts that season (E03, E04, E13, E15, E18, E23; `S24.md`) |
+
+Figures and edges:
+- **15 of 56** counted cycle stories are clearly outside a romance or marriage: S2, S4, S5a, S5c, S6a, S7, S8,
+  S11c, S11g, S11h, S11i, S11l, S13m, S15c, S15d. **4 mixed**: S3 (a friend and a husband; Victoria's quote is
+  about the friend), S5b, S13h, S13l. Counted from the 46 case columns of `CROSS-SEASON.md` plus the 10
+  later cases, all partners.
+- "No difference between rooms, either way: weak evidence": the season-level setting test (`results/r2_fine_settings.json`,
+  R² p = 0.31 against the permutation null, 25 coded seasons).
+- "No single measure spans every room": packet triage (`research/external-evidence-packet-TRIAGE.md`).
+- No program, church, clinic or perpetrator is named. The institutions (Temple, programs, birth centre) as
+  the one doing it are held for the next reel.
+
+### Reel 03 v2 (2026-11-13): edges rewritten under S-34
+
+Endorphin asked what standard "numbers this small" applied, and whether it was applied asymmetrically. It was.
+The setting test (`r2_fine_settings.json`) has nearly one setting per season, so it could not have found a
+difference at any size: it is not evidence either way and is removed. "Not enough to compare" was said of a
+15-vs-41 comparison that was never run: removed. The reel now states what the cases show (the same move in six
+rooms) and what was not measured (how often it happens in each room). The unverified literature claim ("no one
+has measured them the same way in every room", packet triage, secondary sources) is also removed.
+
+### Reel 03 v3 (2026-11-13): the "not a rate" card cut (S-34 refinement)
+
+Endorphin: "even measuring is not rigor, and asking for it is the hedging." The reel claims the same move in
+six rooms; the cases establish that, and no rate is claimed. The v2 card "Six rooms, not a rate" named a
+measure the claim does not need, so it is cut. The 15-of-56 card stays as what it is: the six quoted stories
+are drawn from 15 counted stories outside a romance or marriage (and 4 mixed).
+
+## Reel 03 v4 "Fractal" and reel 02 v7 (2026-11-13): "room" retired
+
+Endorphin asked "why rooms, why not… fractal". "Room" was Claude's word, introduced in commit `103ace4`
+(the same commit that filed the 2026-11-12 riff and drafted the outline) and attributed to Endorphin, whose
+words were "environment" and "ability" (11-12) and "like a fractal" (10-04). Reel 02 then inherited it.
+
+- **Reel 03** is now one move (isolate) followed up six scales, in this order: two people (Jubilee), a
+  circle of families (Victoria), a staff (T), a school (Riley), a congregation (Julia), an institution
+  (Katie; the script in six accounts). Quotes and evidence types are unchanged from v1 (table above).
+  New narration: Riley's teacher "had the school's good name behind him, and used it". Source: S13 E17,
+  the line after the quote, in her words: "He had a really positive reputation at the high school… everyone
+  would take his side." Opening quote: Endorphin, 2026-10-04 (`research/sww-corpus/preregistration.md`).
+- **Reel 02** scene 14: "as far as the environment allows", quoting the riff verbatim ("the perpetrator does
+  not have full control of the environment"). "That is a hypothesis, still to be tested" is removed; the
+  claim is attributed to the director, which says whose claim it is. Closing card: "As far as the
+  environment allows. Next: the same moves, at every scale."
+
+## Reel 03 v5 "Fractal" (2026-11-15): built from the approved scale ladder (S-37, `LADDER-03.md`)
+
+Eight rungs: two people, a circle of families, a staff, a school, a congregation, the hand-off, an
+institution, a whole industry. New or changed lines:
+
+| Rung | Quote and location | Coders' `evidence_types` |
+|---|---|---|
+| Two people | Jubilee: "I wasn't allowed to go to therapy anymore, and I don't think I saw a therapist for the rest of our marriage." (S21 E11); the narration of his reason is from the same passage | CA document_read_on_air · CB document_read_on_air, second_witness (the marriage) |
+| A school | Riley: "He told me to delete every single message, email, and text, that I should be prepared to defend myself." (S13 E18); "swept under the rug" and "I was never asked if I was okay", same passage | A, B second_witness |
+| The hand-off | Kat: "I had no idea that at three in the morning, there was going to be two people that put me in handcuffs." (S24 E07); Copper Canyon Academy, named by the show | A: person_account_alone (assault), document_read_on_air (Copper Canyon) · B: person_account_alone |
+| An institution | Katie, Island View Residential Treatment Center, Utah, named by the show. The call home is in her account of Island View, her first program (2004) | A document_read_on_air · B person_account_alone (Island View) |
+| A whole industry | Six accounts (E03, E04, E13, E15, E18, E23); Molly: "They were stripping me of my graduation status…" (S24 E11), Turning Winds, Idaho, named by the show | A: person_account_alone (program), conviction + person_account_alone (staff member) · B: person_account_alone |
+
+Institutions are named under S-21 (Copper Canyon Academy, Island View RTC, Turning Winds). No individual
+perpetrator, staff member or transport worker is named. The close read's E07 actor error is corrected in
+`research/sww-corpus/close-read/S24.md`.
+
+## Reels 01 and 02 rebuilt, reel 03 re-rendered (2026-11-16), from the locked ladders (`LADDER-01-02.md`)
+
+**Reel 01** (thesis first): one in five protected; all seven institutions in active voice; the S14 case as
+the pieces-vs-whole scene; then the method, the director's reason and the three predictions. The blinding
+breach and the evidence-wording card moved to arc 7.
+
+| Rung | Quote and location | Coders' `evidence_types` |
+|---|---|---|
+| Court | Danielle, of the judge: "If I had really felt threatened I would have left the first time he made a threat, or I would have removed the guns the first time he made a threat." (S9 E7) | CA document_read_on_air, second_witness · CB + record_checked_by_show |
+| School | Riley: "He got in trouble this time, but administration acted as if it had never happened, swept under the rug. I was never asked if I was okay." (S13 E18) | A, B second_witness |
+| Employer | Molly (S11h): "The parents are like, you should have handled it differently." (S11 E8) | CA, CB document_read_on_air, second_witness |
+| Church | Julia: "If somebody disagreed with him or somebody wronged him or like a person left, he would kind of trash their reputation." (S5 E2) | A, B second_witness |
+| Clinic | Brianna: "Their notes say that I had the urge to push at 9:30… the added parts say they encouraged me not to. It says that I claimed that I no longer felt the urge to push." (S23 E10). This replaces "patient declines", which failed the transcript check: that line is original and accurate | CA document_read_on_air, record_checked_by_show · CB + second_witness |
+| Program | Molly (S24 E11, Turning Winds), as in reel 03 | A, B person_account_alone (program) |
+| Police | Melissa, recalling the detective: "I'm going to recommend that you don't press charges. He cried a lot and he just really seemed like he felt bad and if you go forward with these charges it could really ruin his life." (S14 E7). "absolutely, I'm filing charges"; the CPS caseworker: "we don't do that for very many cases". The plea is a record per the show (`close-read/S14.md:27, :133`) | A, B document_read_on_air, second_witness |
+
+**Reel 02.** Strongest acts added, each checked against its transcript:
+- Odessa: "so this is how this is going to go", said on the phone while "he knew I was in labor" (S13 E4).
+- Zoe: "Ryan had sent me a picture of him outside of my apartment door… He had a gun in his hand", while
+  "threatening to kill this new guy" (S13 E13).
+- Emilia: "He would take my keys. He had my glasses. He had my shoes"; of the cut on her leg: "that's on you,
+  that's your fault, you shouldn't have even tried to leave" (S15 E7).
+- Danielle, about her sister: "I know people they can plant drugs on her and make sure she gets fired from her
+  job" (S9 E2), said when her family exposed his false identity. The fake subpoena is in her words: "It was
+  fraudulent… clearly just a form he downloaded online and is not a court order"; the host gave him her phone
+  number and address (S9 E8). The judge's reasoning (S9 E7).
+
+Cut: "Where the claim breaks… some deceivers simply ran"; the 36-of-43 audit card (to arc 7); the label on
+the 56-story counts, which now carry none. The definitions name no gender for the one doing it.
+
+**Reel 03**: re-rendered with no content change.
+
+## Reel 01 v5 (2026-11-16): kinetic overhaul, from Endorphin's script (`Reel_01_Visual_Overhaul_Script.md`)
+
+Built as specified: one text stream at a time; every quote spoken in the narration (same voice, a subtle
+room-tone shift: soft low-pass and two short reflections); the bottom-third karaoke replaced by short
+kinetic titles during the setup lines; each institution drawn as the mechanism it ran; the seven
+institutions docked as a strip with the active one lit; the footer on the first and last scenes only; the
+pre-registered predictions with the measured results animated against their lines. New code:
+`cards_kinetic.py`; `tts.py` (spoken quotes); `render.py` (kinetic titles, institution strip).
+
+**Departures from the script, each from a check against the record:**
+- **"Every one passed" is false.** RESULTS.md: prediction 1 holds (21 %, line 40 %); prediction 2 is split
+  (31 % all seasons; Claude 26 %, Codex 35 %; Endorphin's ruling 2); prediction 3 is not decided (43 %, line
+  50 %). The bars stamp HOLDS, SPLIT and NOT DECIDED, and the narration says so.
+- **Danielle's court.** The fake subpoena came years after the hearing (S9 E8, after July 2020), so it is
+  not shown as evidence on the petition. The evidence tag is the text to her stepmother, which the judge
+  called "too vague to be considered a credible threat"; "She dismissed it" (S9 E7). Stamp: DISMISSED · NOT
+  CREDIBLE.
+- **Riley's age.** The record gives 15–16 that year, not 15 at the second report; the narration says "She
+  was in high school".
+- **Brianna's chart.** The script's "Day 3 / Day 30" became "a few days after the birth / about a month
+  later", her words. The added lines are hers: "encouraged me to rest and not push", "I stated I no longer
+  felt the urge to push" (S23 E10).
+- **Molly (Turning Winds).** The bar starts at "Graduate" (she was "quote unquote a graduate"), not
+  "Complete". No "+6 months confined": her mother took her out; the fee line stays.
+- **The caseworker** "asked" the police to reconsider (Melissa: "will you please reconsider"), not "forced".
+- **Julia.** "Living, working and renting inside his church" became what the transcript supports: she worked
+  for the church and rented from its members (S5 E2).
+- **Voice.** Only one Kokoro voice is installed, and a second voice could read as the survivor speaking. So
+  quotes use the narrator's voice with a room-tone shift.
+
+## Reel 01 filmstrip (2026-11-16): in the visual language of the veriticide "Veriticide Stack" filmstrip
+
+Endorphin: use the veriticide filmstrip as a template, varying freely, "so it's a form of what we are
+illustrating there as well". The template's source is not in either repo (the ledger's `media/ledger-film`
+is a different film), so `render_strip.py` rebuilds the look from the video:
+- 1080×1080 square frame between sprocketed film edges, with grain, flicker and the occasional scratch.
+- A coloured panel per section and a cream caption strip carrying the narration sentence, "FRAME NN · …",
+  and a pill row (here, the seven institutions).
+- Cream display type with a drop shadow; ledger cards with black tabs; black punchline bars.
+- The black disc with nested, numbered arcs. In the template the arcs are the six tiers of the stack; here
+  they are the seven institutions, filling one per frame.
+
+Content is reel 01 v5 unchanged (same narration, quotes, checks and departures, above), laid out per frame in
+`strip_01.py`. Quotes are spoken and reveal on a ledger card as they are spoken; the caption strip shows the
+attribution meanwhile. Each quote scene holds 2 s after the quote so the punchline bar can be read (this
+also lengthens the vertical cut if it is rebuilt). Output: `out/reel_01_intro_filmstrip.mp4`.
+
+### Reel 01 filmstrip, vertical (2026-11-16): review changes
+
+From a frame-by-frame review (Endorphin's message):
+- **Pill strip** shown only on the seven institution frames and the roll call; it had overwritten the
+  frame titles on frames 13 to 15.
+- **The black disc removed**, at the reviewer's direction. It took about 40 % of the stage and collided
+  with "A TEEN PROGRAM". The evidence and quote cards now run the width of the stage. The nested-arcs
+  motif that tied this cut to the Stack is gone; the pill strip carries the 1–7 count.
+- **Coders frame.** The reviewer asked for the chain palette on every node. That would assert per-story
+  codes no one displayed. So the last node of each schematic story is coloured by outcome at the measured
+  rate (Claude 2 of 7 ≈ 28 %, Codex 1 of 7 ≈ 16 %), with the legend on screen.
+- **9:16** (1080×1920) as the main cut; the square remains available (`build_strip.sh intro square`).
+- **Pacing.** Each Kokoro chunk is trimmed of leading and trailing silence; the scene gap is 0.42 s, the
+  pre-quote pause 0.25 s, and the hold after a quote 1.35 s. Silence fell from 52 s to 21 s, and the
+  narration from 4:37 to 4:14. The rest of the length is speech, so the 3:45 target is not reached
+  without cutting words or speeding the voice.
+- **Danielle's card** now reads "Her testimony: nine years of threats" (S9 E7), "In the home: four or five
+  rifles" (S9 E6: "We had four or five rifles in our home"), and "His text to her stepmother: 'too vague'".
+  It is labelled as her testimony, not as filed evidence, because the petition's contents are not in the
+  record.
+
+### Reel 01 filmstrip, vertical: sprockets removed (2026-11-16)
+
+Endorphin: the sprockets come out, because a vertical frame is anachronistic: no film format is 9:16.
+The vertical cut drops the film edges and their micro text, widens the frame to the full canvas (22 px
+margin), and keeps the grain, flicker, scratches and warm print. The square cut keeps its edges.
